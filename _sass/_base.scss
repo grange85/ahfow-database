@@ -1,0 +1,31 @@
+/**
+ * Basic styling
+ */
+
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+figure {
+    max-width: 100%;
+}
+
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.footer {
+}
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a:focus {
+    color: #fff;
+    background-color: $brand-primary;
+}

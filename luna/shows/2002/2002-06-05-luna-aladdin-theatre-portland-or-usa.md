@@ -1,0 +1,37 @@
+---
+layout: show
+title: '2002-06-05: Luna - Aladdin Theatre, Portland OR, USA'
+name: 2002-06-05-luna-aladdin-theatre-portland-or-usa
+artist-name: 'Luna'
+show-venue: 'Aladdin Theatre, Portland OR, USA'
+show-setlist: [
+  "Bewitched",
+  "Lovedust",
+  "Weird And Woozy",
+  "Tiger Lily",
+  "Black Champagne",
+  "Mermaid Eyes",
+  "Moon Palace",
+  "Freakin' And Peakin'",
+  "Hello Little One",
+  "Black Postcards",
+  "Friendly Advice",
+  "The Slow Song",
+  "Pup Tent",
+  "23 Minutes in Brussels",
+  "Indian Summer",
+  "Bonnie and Clyde",
+  "Chinatown"
+  ]
+show-date: 2002-06-05
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
+

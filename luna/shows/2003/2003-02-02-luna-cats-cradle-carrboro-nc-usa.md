@@ -1,0 +1,36 @@
+---
+layout: show
+title: "2003-02-02: Luna - Cats Cradle, Carrboro NC, USA"
+name: 2003-02-02-luna-cats-cradle-carrboro-nc-usa
+artist-name: 'Luna'
+show-venue: "Cats Cradle, Carrboro NC, USA"
+show-setlist: [
+  "1995",
+  "California (All the Way)",
+  "Astronaut",
+  "Black Champagne",
+  "Bobby Peru",
+  "Mermaid Eyes",
+  "Math Wiz",
+  "Sideshow By The Seashore",
+  "Tiger Lily",
+  "Superfreaky Memories",
+  "Lost In Space",
+  "Black Postcards",
+  "Teenage Lightning",
+  "Fuzzy Wuzzy",
+  "Tugboat",
+  "Bonnie and Clyde"
+  ]
+show-date: 2003-02-02
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
+

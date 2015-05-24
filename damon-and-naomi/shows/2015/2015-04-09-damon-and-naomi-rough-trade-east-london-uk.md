@@ -1,0 +1,36 @@
+---
+layout: show
+title: '2015-04-09: Damon and Naomi - Rough Trade East, London, UK'
+name: 2015-04-09-damon-and-naomi-rough-trade-east-london-uk
+artist-name: 'Damon and Naomi'
+show-venue: 'Rough Trade East, London, UK'
+show-setlist: [
+  "Song to the Siren",
+  "Listen the Snow is Falling",
+  "The Seeker",
+  "Amnesia",
+  "It's Over",
+  "Reflections",
+  "A Shining Dream",
+  "Shadows",
+  "Towards Tomorrow",
+  "Sky Memories",
+  "Hurt House",
+  "The North Light",
+  "Time Won't Own Me"
+  ]
+show-date: 2015-04-09
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: [
+  "Damon Krukowski - guitar/vocals",
+  "Naomi Yang - keyboards/vocals"
+  ]
+facebook-event-url: 
+show-poster-url: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-04-09/2015-04-09-damon-and-naomi-rough-trade.jpg'
+show-ticket-url: 'http://www.roughtrade.com/events/2015/4/1154'
+show-venue-website: 
+show-additional: 
+---
+Lunchtime showing of Naomis film Fortune with live accompaniment

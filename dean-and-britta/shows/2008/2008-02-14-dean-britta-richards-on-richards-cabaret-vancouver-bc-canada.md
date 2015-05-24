@@ -1,0 +1,20 @@
+---
+layout: show
+title: '2008-02-14: Dean and Britta - Richards On Richards Cabaret, Vancouver BC, Canada'
+name: 2008-02-14-dean-britta-richards-on-richards-cabaret-vancouver-bc-canada
+artist-name: 'Dean and Britta'
+show-venue: 'Richards On Richards Cabaret, Vancouver BC, Canada'
+show-setlist: 
+show-date: 2008-02-14
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
+
+co-headlining with Keren Ann

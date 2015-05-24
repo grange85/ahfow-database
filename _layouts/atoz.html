@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% case page.title %}
+    {% when 'Covers' %}
+        {% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
+        {% assign cover = true %}
+    {% else %}
+        {% assign tracks = site.tracks | sort: 'track-sort' %}
+{% endcase %}
+
+<ul>
+  {% for track in tracks %}
+          <li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}
+          </li>
+  {% endfor %}  <!-- page-category -->
+</ul>

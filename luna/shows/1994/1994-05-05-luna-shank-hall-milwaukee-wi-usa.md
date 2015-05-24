@@ -1,0 +1,36 @@
+---
+layout: show
+title: '1994-05-05: Luna - Shank Hall, Milwaukee, WI, USA'
+name: 1994-05-05-luna-shank-hall-milwaukee-wi-usa
+artist-name: 'Luna'
+show-venue: 'Shank Hall, Milwaukee, WI, USA'
+show-setlist: [
+  "California (All the Way)",
+  "Slide",
+  "Going Home",
+  "Anesthesia",
+  "Tiger Lily",
+  "Thank You For Sending Me An Angel",
+  "Friendly Advice",
+  "We're Both Confused",
+  "This Time Around",
+  "That's What You Always Say",
+  "Slash Your Tires",
+  "Bewitched",
+  "Time to Quit",
+  "Indian Summer",
+  "Hey Sister"
+  ]
+show-date: 1994-05-05
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
+
+(Setlist source: recording)

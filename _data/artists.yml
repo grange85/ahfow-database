@@ -1,0 +1,47 @@
+- name : Galaxie 500
+  slug : galaxie-500
+  yearsactive : 1987 - 1991
+  members :
+    - name : Dean Wareham
+      yearsactive : 1987 - 1991
+      role : guitar / vocals
+    - name : Naomi Yang
+      yearsactive : 1987 - 1991
+      role : bass / vocals
+    - name : Damon Krukowski
+      yearsactive : 1987 - 1991
+      role : drums
+
+- name : Luna
+  slug : luna
+  yearsactive : 1992 - 2005, 2015
+  members :
+    - name : Dean Wareham
+      yearsactive : 1992 - 2005, 2015
+      role : guitar / vocals
+    - name : Sean Eden
+      yearsactive : 1992 - 2005, 2015
+      role : guitar / vocals
+    - name : Stanley Demeski
+      yearsactive : 1992 - 1996
+      role : drums
+    - name : Justin Harwood
+      yearsactive : 1992 - 2000
+      role : bass
+    - name : Lee Wall
+      yearsactive : 1996 - 2005, 2015
+      role : drums
+    - name : Britta Phillips
+      yearsactive : 2000 - 2005, 2015
+      role : bass / vocals
+
+- name : Damon and Naomi
+  slug : damon-and-naomi
+  yearsactive : 1992 - 
+  members :
+    - name : Damon Krukowski
+      yearsactive : 1991 - 
+      role : drums / guitar / vocals
+    - name : Naomi Yang
+      yearsactive : 1991 -
+      role : bass / keyboards / vocals

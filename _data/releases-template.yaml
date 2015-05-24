@@ -1,0 +1,38 @@
+albumname: 
+artist: 
+imageurl: 
+notes: 
+releases:
+  - release: 
+    version: 
+    year: 
+    releasedate: 
+    type: 
+    format: 
+    label: 
+    catno: 
+    mbid: 
+    discogs: 
+    groups:
+    - group: A
+      tracks:
+       - title: 
+         author: 
+       - title: 
+         author: 
+       - title: 
+         author: 
+       - title: 
+         author: 
+    - group: B
+      tracks:
+       - title: 
+         author: 
+       - title: 
+         author: 
+       - title: 
+         author: 
+       - title: 
+         author: 
+       - title: 
+         author: 

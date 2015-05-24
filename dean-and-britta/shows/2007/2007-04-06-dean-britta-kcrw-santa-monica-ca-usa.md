@@ -1,0 +1,27 @@
+---
+layout: show
+title: '2007-04-06: Dean and Britta - KCRW, Santa Monica CA, USA'
+name: 2007-04-06-dean-britta-kcrw-santa-monica-ca-usa
+artist-name: 'Dean and Britta'
+show-venue: 'KCRW, Santa Monica CA, USA'
+show-setlist: [
+  "The Sun Is Still Sunny",
+  "Singer Sing",
+  "Words You Used To Say",
+  "You Turned My Head Around",
+  "Night Nurse",
+  "Ginger Snaps",
+  "Our Love Will Still Be There"
+  ]
+show-date: 2007-04-06
+show-radio: Radio session
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
+

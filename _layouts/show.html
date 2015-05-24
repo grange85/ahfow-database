@@ -1,0 +1,93 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+      <div class="wrapper col-md-8">
+     
+      <div class="row">
+          <div class="col-md-6">
+            <h3>Information</h3>
+            <ul>
+            <li>Date: {{page.show-date|date: "%-d %B %Y"}}</li>
+            <li>Artist: {{page.artist-name}}</li>
+            <li>Venue: {{page.show-venue}}</li>
+
+                {% if page.facebook-event-url %}
+                    <li><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+                {% endif %}
+
+            {% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
+            {% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
+            {% assign nowdate = nowdate | plus: 0 %}
+            {% assign showdate = showdate | plus: 0 %}
+            {% if showdate > nowdate %}
+
+                {% if page.show-ticket-url %}
+                    <li><a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
+                {% endif %}
+
+                {% if page.show-venue-website %}
+                    <li><a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+                {% endif %}
+            {% endif %}
+            </ul>
+          {% assign content = page.content | strip_newlines %}
+          {% if content != "" %}
+          <h3>Notes</h3>
+              <p>{{ content }}</p>
+          {% endif %}
+
+
+          {% if page.performers %}
+          <h3>Performers</h3>
+              <p>{{ page.performers | join: "\n" | newline_to_br }}</p>
+          {% endif %}
+
+          </div>
+          <div class="col-md-6">
+          {% if page.show-poster-url %}
+              <figure>
+                  <img src="{{page.show-poster-url}}">
+                  <figcaption>poster</figcaption>
+              </figure>
+           {% endif %}
+          </div>
+
+          <div class="row">
+              <div class="col-md-12">
+          {% if page.show-setlist %}
+          <h3>Setlist</h3>
+              <ul>
+                  {% for track in page.show-setlist %}
+                  <li><a href="/database/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+                  {% endfor %}
+              </ul>
+           {% endif %}
+
+              </div>
+          </div>
+      </div>
+      </div>
+      <div class="col-md-4">
+          here
+      </div>
+   </div>
+
+
+    {% include footer.html %}
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="{{ "js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+
+  </body>
+
+</html>

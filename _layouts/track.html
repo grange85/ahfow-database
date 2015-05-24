@@ -1,0 +1,14 @@
+---
+layout: default
+---
+  <div class="row">
+  <div class="col-md-8">
+
+    {{content}}
+
+{% if page.track-lyrics %}
+  {{page.track-lyrics | newline_to_br}}
+{% endif %}     
+  </div>
+</div>
+

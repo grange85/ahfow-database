@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<ul>
+  {% for page in site.releases | where "artistslug" , page.artistslug %}
+          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+  {% endfor %}  <!-- page-category -->
+</ul>

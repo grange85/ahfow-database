@@ -1,0 +1,83 @@
+---
+layout: release
+type: page
+permalink: /galaxie-500/releases/:title.html
+artistslug: galaxie-500
+resource: discography
+title: Galaxie 500 - On Fire 
+datafile: on-fire
+categories : [discography, galaxie-500, albums]
+albumname: Tugboat / King of Spain
+artist: Galaxie 500
+imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
+wikipedia: http://en.wikipedia.org/wiki/On_Fire_(Galaxie_500_album)
+releases:
+  - release:
+    version: rough-trade-uk-lp
+    year: 1989
+    releasedate: 1989
+    type: album
+    format: LP
+    label: Rough Trade
+    catno: ROUGH 146
+    groups:
+      - group: A
+        tracks:
+          - title: Blue Thunder
+            author: Krukowski / Wareham / Yang
+          - title: Tell Me
+            author: Krukowski / Wareham / Yang
+          - title: Snowstorm
+            author: Krukowski / Wareham / Yang
+          - title: Strange
+            author: Krukowski / Wareham / Yang
+          - title: When Will You Come Home
+            author: Krukowski / Wareham / Yang
+      - group: B
+        tracks:
+          - title: Decomposing Trees
+            author: Krukowski / Wareham / Yang
+          - title: Another Day
+            author: Krukowski / Wareham / Yang
+          - title: Leave the Planet
+            author: Krukowski / Wareham / Yang
+          - title: Plastic Bird
+            author: Krukowski / Wareham / Yang
+          - title: Isn't it a Pity
+            author: George Harrison
+  - release:
+    version: rough-trade-uk-cd
+    year: 1989
+    releasedate: 1989
+    type: album
+    format: CD
+    label: Rough Trade
+    catno: ROUGHCD 146
+    groups:
+      - group: CD
+        tracks:
+          - title: Blue Thunder
+            author: Krukowski / Wareham / Yang
+          - title: Tell Me
+            author: Krukowski / Wareham / Yang
+          - title: Snowstorm
+            author: Krukowski / Wareham / Yang
+          - title: Strange
+            author: Krukowski / Wareham / Yang
+          - title: When Will You Come Home
+            author: Krukowski / Wareham / Yang
+          - title: Decomposing Trees
+            author: Krukowski / Wareham / Yang
+          - title: Another Day
+            author: Krukowski / Wareham / Yang
+          - title: Leave the Planet
+            author: Krukowski / Wareham / Yang
+          - title: Plastic Bird
+            author: Krukowski / Wareham / Yang
+          - title: Isn't it a Pity
+            author: George Harrison
+
+---
+Produced and Engineered by Kramer at Noise New York 1989.
+Tenor sax on "Decomposing Trees" by Ralph Carney.
+Cheap Organ on "Isn't it a Pity" and backing vocals by Kramer, courtesy of Shimmy Disc.

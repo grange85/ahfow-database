@@ -1,0 +1,66 @@
+---
+layout: default
+permalink: /:categories/:title
+---
+<div class="row">
+    <div class="col-md-6">
+        {% if page.notes %}
+          {{ page.notes | newline_to_br }}
+        {% endif %}
+          {{content}}
+    </div>
+    <div class="col-md-6">
+        <figure>
+            <img src="{{page.imageurl}}">
+            <figcaption>{{ page.albumname }}</figcaption>
+        </figure>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        {% if page.releases.size > 1 %}
+        <ul class="nav nav-tabs" role="tablist" id="versionstab">
+              <li role="presentation" class="dropdown active">
+        <a href="#" id="release-versions" class="dropdown-toggle" data-toggle="dropdown" aria-controls="release-versions-contents" aria-expanded="false">Version <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
+            {% for releases in page.releases %}
+            <li role="presentation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="tab" data-toggle="tab">{{ releases.label }} - {{ releases.year }}</a></li>
+            {% endfor %}
+        </ul>
+        </li></ul>
+          {% endif %}
+        <div class="tab-content">
+            {% for releases in page.releases %}
+            <div role="tabpanel" class="tab-pane fade {% if forloop.first == true %}active in{% endif %}" id="{{ releases.version }}">
+            <h3>{{ releases.label }} ({{ releases.year }})</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        {% for group in releases.groups %}
+                        {% if group.group %}
+                            <strong>{{group.group}}</strong>
+                        {% endif %}
+                        <ul>
+                            {% for track in group.tracks %}
+                            <li><a href="/database/tracks/{{track.title|slugify}}.html ">{{track.title}}</a>
+                                {% if track.author %}
+                                    <em>({{track.author}})</em>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endfor %}
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>{{ releases.label }} {{ releases.catno }} ({{releases.year}})</li>
+                            {% if releases.format %}<li>Format: {{releases.format}}</li>{% endif %}
+                        </ul>
+                        {% if releases.release-notes %}<div>{{releases.release-notes | newline_to_br}}</div>{% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

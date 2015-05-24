@@ -1,0 +1,36 @@
+---
+layout: show
+title: '2000-04-03: Luna - Fox Theatre, Boulder CO, USA'
+name: 2000-04-03-luna-fox-theatre-boulder-co-usa
+artist-name: 'Luna'
+show-venue: 'Fox Theatre, Boulder CO, USA'
+show-setlist: [
+  "Bewitched",
+  "Pup Tent",
+  "Hello Little One",
+  "Dear Diary",
+  "Sideshow By The Seashore",
+  "Superfreaky Memories",
+  "Chinatown",
+  "Four Thousand Days",
+  "Lost In Space",
+  "23 Minutes in Brussels",
+  "Tiger Lily",
+  "Time to Quit",
+  "IHOP",
+  "California (All the Way)",
+  "Indian Summer",
+  "Moon Palace",
+  ""
+  ]
+show-date: 2000-04-03
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: 
+facebook-event-url: 
+show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2000-04-03/2000-04-03-luna-boulder.jpg'
+show-ticket-url: 
+show-venue-website: 
+show-additional: 
+---
