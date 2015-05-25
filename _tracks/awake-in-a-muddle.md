@@ -1,14 +1,14 @@
 ---
 layout: track
 categories: track
-title: Awake In A Muddle
+title: Awake in a Muddle
 name: awake-in-a-muddle
 type: ahfow_track
 track-id: 157
 track-lyrics: 
 track-guitar: 
 track-author: Masaki Batoh
-track-sort: "AWAKE IN A MUDDLE"
+track-sort: "Awake in a Muddle"
 track-original: Ghost
 cover: true
 ---
