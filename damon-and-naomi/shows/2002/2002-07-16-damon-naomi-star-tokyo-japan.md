@@ -16,7 +16,7 @@ show-setlist: [
   "The Mirror Phase",
   "The New World",
   "I Dreamed of the Caucasus",
-  "Awake In A Muddle",
+  "Awake in a Muddle",
   "Tanka",
   "Love",
   "Watashi No Hana",

@@ -9,7 +9,7 @@ show-setlist: [
   "House of Glass",
   "Turn Of The Century",
   "Song To The Siren",
-  "Awake In A Muddle",
+  "Awake in a Muddle",
   "Beautiful Close Double",
   "The Robot Speaks",
   "The Wind's Twelve Quarters",

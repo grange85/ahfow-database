@@ -15,7 +15,7 @@ show-setlist: [
   "Watashi No Hana",
   "Tanka",
   "The Mirror Phase",
-  "Awake In A Muddle",
+  "Awake in a Muddle",
   "Love",
   "This Car Climbed Mt. Washington",
   "Tour Of The World",
