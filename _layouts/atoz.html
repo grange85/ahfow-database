@@ -9,9 +9,15 @@ layout: default
     {% else %}
         {% assign tracks = site.tracks | sort: 'track-sort' %}
 {% endcase %}
-
+{% assign newsection = 'A' %}
+<h3>A</h3>
 <ul>
   {% for track in tracks %}
+    {% assign currentsection = newsection %}
+    {% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
+    {% if newsection != currentsection %}
+        </ul><h3>{{ newsection }}</h3><ul>
+    {% endif %}
           <li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}
           </li>
   {% endfor %}  <!-- page-category -->
