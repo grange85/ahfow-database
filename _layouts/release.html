@@ -25,7 +25,11 @@ permalink: /:categories/:title
         <a href="#" id="release-versions" class="dropdown-toggle" data-toggle="dropdown" aria-controls="release-versions-contents" aria-expanded="false">Version <span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
             {% for releases in page.releases %}
-            <li role="presentation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="tab" data-toggle="tab">{{ releases.label }} - {{ releases.year }}</a></li>
+            <li role="presentation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="tab" data-toggle="tab">
+                {% if releases.version %}{{ releases.label }} {% endif %} 
+                {% if releases.year %} {{ releases.year }} {% endif %}
+                {% if releases.format %} {{ releases.format }} {% endif %}
+                {% if releases.version %} ({{ releases.version }}) {% endif %}</a></li>
             {% endfor %}
         </ul>
         </li></ul>
