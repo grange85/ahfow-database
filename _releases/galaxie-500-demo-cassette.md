@@ -7,6 +7,7 @@ artistslug: galaxie-500
 title: Galaxie 500 - Demo cassette
 datafile: demo-cassette
 categories: [discography, galaxie-500, promo]
+initial-release-date: 1987
 albumname: Demo cassette
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif

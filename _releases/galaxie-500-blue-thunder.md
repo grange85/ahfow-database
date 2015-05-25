@@ -7,6 +7,7 @@ artistslug: galaxie-500
 title: Galaxie 500 - Blue Thunder
 datafile: blue-thunder-ep
 categories: [discography, galaxie-500, single]
+initial-release-date: 1989
 albumname: Blue Thunder
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif

@@ -7,6 +7,7 @@ artistslug: galaxie-500
 title: Galaxie 500 - Fourth of July
 datafile: fourth-of-july
 categories: [discography, galaxie-500, single, promo]
+initial-release-date: 1990
 albumname: Fourth of July
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg

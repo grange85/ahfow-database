@@ -7,6 +7,7 @@ resource: discography
 title: Galaxie 500 - On Fire 
 datafile: on-fire
 categories : [discography, galaxie-500, albums]
+initial-release-date: 1989
 albumname: Tugboat / King of Spain
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg

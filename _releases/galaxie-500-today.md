@@ -7,6 +7,7 @@ resource: discography
 title: Galaxie 500 - Today
 datafile: today
 categories: [discography, galaxie-500, albums]
+initial-release-date: 1988
 albumname: Today
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
