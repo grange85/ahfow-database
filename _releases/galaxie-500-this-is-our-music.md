@@ -35,7 +35,7 @@ releases:
             author: Krukowski / Wareham / Yang
       - group: B
         tracks:
-          - title: Listem the Snow is Falling
+          - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Sorry
             author: Krukowski / Wareham / Yang
@@ -64,7 +64,7 @@ releases:
             author: Krukowski / Wareham / Yang
           - title: Way Up High
             author: Krukowski / Wareham / Yang
-          - title: Listem the Snow is Falling
+          - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Sorry
             author: Krukowski / Wareham / Yang

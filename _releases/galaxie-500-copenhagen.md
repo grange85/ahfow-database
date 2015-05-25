@@ -35,7 +35,7 @@ releases:
             author: Krukowski / Wareham / Yang
           - title: Spook
             author: Krukowski / Wareham / Yang
-          - title: Listem the Snow is Falling
+          - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Here She Comes Now
             author: Reed/Cale/Morrison/Tucker
@@ -64,7 +64,7 @@ releases:
             author: Krukowski / Wareham / Yang
           - title: Spook
             author: Krukowski / Wareham / Yang
-          - title: Listem the Snow is Falling
+          - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Here She Comes Now
             author: Reed/Cale/Morrison/Tucker
