@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+{% assign releases = site.releases | where: "artistslug", page.artistslug | sort: 'initial-release-date' %}
+
 <ul>
-  {% for page in site.releases | where "artistslug" , page.artistslug %}
-          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+  {% for release in releases %}
+          <li><a href="{{ release.url | prepend: site.baseurl }}">{{ release.title }}</a></li>
   {% endfor %}  <!-- page-category -->
 </ul>
