@@ -5,7 +5,6 @@ permalink: /galaxie-500/releases/:title.html
 artistslug: galaxie-500
 resource: discography
 title: Galaxie 500 - On Fire 
-datafile: on-fire
 categories : [discography, galaxie-500, albums]
 initial-release-date: 1989
 albumname: On Fire

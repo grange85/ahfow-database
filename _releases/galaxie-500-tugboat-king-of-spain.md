@@ -5,7 +5,6 @@ permalink: /galaxie-500/releases/:title.html
 artistslug: galaxie-500
 resource: discography
 title: Galaxie 500 - Tugboat / King of Spain 
-datafile: tugboat-king-of-spain
 categories : [discography, galaxie-500, singles]
 initial-release-date: 1988
 albumname: Tugboat / King of Spain

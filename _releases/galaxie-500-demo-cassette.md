@@ -5,8 +5,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 artistslug: galaxie-500
 title: Galaxie 500 - Demo cassette
-datafile: demo-cassette
-categories: [discography, galaxie-500, promo]
 initial-release-date: 1987
 albumname: Demo cassette
 artist: Galaxie 500

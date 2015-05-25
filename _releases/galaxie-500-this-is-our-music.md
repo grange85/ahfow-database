@@ -5,7 +5,6 @@ permalink: /galaxie-500/releases/:title.html
 artistslug: galaxie-500
 resource: discography
 title: Galaxie 500 - This is Our Music 
-datafile: this-is-our-music
 categories : [discography, galaxie-500, albums]
 initial-release-date: 1990
 albumname: This is Our Music

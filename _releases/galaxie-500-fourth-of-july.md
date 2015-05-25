@@ -5,8 +5,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 artistslug: galaxie-500
 title: Galaxie 500 - Fourth of July
-datafile: fourth-of-july
-categories: [discography, galaxie-500, single, promo]
 initial-release-date: 1990
 albumname: Fourth of July
 artist: Galaxie 500
