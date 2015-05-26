@@ -60,7 +60,7 @@ permalink: /:categories/:title
                             <li>{{ releases.label }} {{ releases.catno }} ({{releases.year}})</li>
                             {% if releases.format %}<li>Format: {{releases.format}}</li>{% endif %}
                         </ul>
-                        {% if releases.release-notes %}<div>{{releases.release-notes | newline_to_br}}</div>{% endif %}
+                        {% if releases.release_notes %}<div>{{releases.release_notes | newline_to_br}}</div>{% endif %}
                     </div>
                 </div>
             </div>

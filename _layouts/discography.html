@@ -1,10 +1,21 @@
 ---
 layout: default
 ---
-{% assign releases = site.releases | where: "artistslug", page.artistslug | sort: 'initial-release-date' %}
+{% assign releases = site.releases | where: "artistslug", page.artistslug | group_by: "section" | sort: 'initial_release_date' %}
 
-<ul>
-  {% for release in releases %}
-          <li><a href="{{ release.url | prepend: site.baseurl }}">{{ release.title }}</a></li>
+{% assign releases = releases | sort: 'name' %}
+
+{% for section in releases %}
+{% assign section_name = section.name | split: "-" | last | capitalize%}
+<h2>{{section_name}}</h2>
+  {% for release in section.items %}
+<div class="row">
+    <div class="col-md-4">
+    <a href="{{ release.url | prepend: site.baseurl }}"><img src="{{ release.imageurl }}"></a>
+    </div>
+    <div class="col-md-8">
+          <a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }} - {{ release.initial_release_date }}</a>
+     </div>
+</div>
   {% endfor %}  <!-- page-category -->
-</ul>
+{% endfor %}

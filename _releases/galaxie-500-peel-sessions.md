@@ -1,12 +1,12 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
-artistslug: galaxie-500
 resource: discography
+section: 01-album
+artistslug: galaxie-500
 title: Galaxie 500 - Peel Sessions 
 categories : [discography, galaxie-500, albums]
-initial-release-date: 2005
+initial_release_date: 2005
 albumname: Peel Sessions
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_peelsessions.jpg

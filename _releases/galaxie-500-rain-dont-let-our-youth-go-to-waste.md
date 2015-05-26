@@ -1,13 +1,12 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
-artistslug: galaxie-500
 resource: discography
-section: single
+section: 02-single
+artistslug: galaxie-500
 title: Galaxie 500 - Rain / Don't Let Our Youth Go to Waste 
 categories : [discography, galaxie-500, single]
-initial-release-date: 1990
+initial_release_date: 1990
 albumname: Rain / Don't Let Our Youth Go to Waste
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
@@ -19,7 +18,7 @@ releases:
     releasedate: 1990
     type: single
     format: 7"
-    release-notes: Limited edition of 500
+    release_notes: Limited edition of 500
     label: Caff
     catno: CAFF 9
     groups:

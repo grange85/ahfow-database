@@ -10,15 +10,22 @@ twitter_username: ahfow
 github_username:  grange85
 ahfow_artists: 
   - artist: Galaxie 500
-    artist-slug: galaxie-500
+    artistslug: galaxie-500
   - artist: Luna
-    artist-slug: Luna
+    artistslug: Luna
   - artist: Damon and Naomi
-    artist-slug: damon-and-naomi
+    artistslug: damon-and-naomi
   - artist: Dean and Britta
-    artist-slug: dean-and-britta
+    artistslug: dean-and-britta
   - artist: Dean Wareham
-    artist-slug: dean-wareham
+    artistslug: dean-wareham
+
+releases_categories: [
+  '01-album',
+  '02-single',
+  '03-promo',
+  '04-video'
+  ]
 
 collections: 
   releases:

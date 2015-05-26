@@ -1,11 +1,11 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
 resource: discography
+section: 02-single
 artistslug: galaxie-500
 title: Galaxie 500 - Blue Thunder
-initial-release-date: 1989
+initial_release_date: 1989
 albumname: Blue Thunder
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
@@ -23,7 +23,7 @@ releases:
     catno: RTD 066
     mbid: 
     discogs: 
-    release-notes:
+    release_notes:
     groups:
     - group: A
       tracks:
@@ -48,7 +48,7 @@ releases:
     catno: RTD 066CD
     mbid: 
     discogs: 
-    release-notes:
+    release_notes:
     groups:
     - group: CD
       tracks:

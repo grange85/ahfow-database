@@ -1,11 +1,11 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
 resource: discography
+section: 03-promo
 artistslug: galaxie-500
 title: Galaxie 500 - Demo cassette
-initial-release-date: 1987
+initial_release_date: 1987
 albumname: Demo cassette
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
@@ -24,7 +24,7 @@ releases:
     catno: 
     mbid: 
     discogs: 
-    release-notes:
+    release_notes:
     groups:
     - group: 
       tracks:
@@ -44,7 +44,7 @@ releases:
     catno: 
     mbid: 
     discogs: 
-    release-notes: |
+    release_notes: |
       At the same time that Galaxie 500 started hawking round their first demo cassette they released a small number of copies of the cassette with four extra tracks on. The tracks were not listed on the sleeve and have not seen the light of day since (they didn't make it onto the box set).
       (Thanks to Michael for his help in putting this info together)
     groups:

@@ -1,12 +1,12 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
-artistslug: galaxie-500
 resource: discography
+section: 01-album
+artistslug: galaxie-500
 title: Galaxie 500 - This is Our Music 
 categories : [discography, galaxie-500, albums]
-initial-release-date: 1990
+initial_release_date: 1990
 albumname: This is Our Music
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_thisisourmusic.jpg

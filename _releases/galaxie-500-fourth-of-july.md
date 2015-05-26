@@ -1,11 +1,11 @@
 ---
 layout: release
-type: page
 permalink: /galaxie-500/releases/:title.html
 resource: discography
+section: 02-single
 artistslug: galaxie-500
 title: Galaxie 500 - Fourth of July
-initial-release-date: 1990
+initial_release_date: 1990
 albumname: Fourth of July
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
@@ -23,7 +23,7 @@ releases:
     catno: RTT249
     mbid: 
     discogs: 
-    release-notes:
+    release_notes:
     groups:
     - group: A
       tracks:
@@ -43,7 +43,7 @@ releases:
     catno: RTT249CD
     mbid: 
     discogs: http://www.discogs.com/Galaxie-500-Fourth-Of-July/release/921392
-    release-notes:
+    release_notes:
     groups:
     - group: CD
       tracks:
