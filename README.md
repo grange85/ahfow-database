@@ -10,3 +10,7 @@ You can see the work in progress here:
 [A Head Full of Wishes database](http://static.fullofwishes.co.uk/database/)
 
 It's built with Jekyll and uses Bootstrap (and for now the default Boostrap theme)
+
+The rest of A Head Full of Wishes (including the db in Wordpress) can be found over here:
+
+[A Head Full of Wishes](http://www.fullofwishes.co.uk)
