@@ -2,7 +2,7 @@
 layout: release
 permalink: /galaxie-500/releases/:title.html
 resource: discography
-section: 03-promo
+section: 04-promo
 artistslug: galaxie-500
 title: Galaxie 500 - Blue Thunder / Victory Garden
 initial_release_date: 1989

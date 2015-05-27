@@ -24,17 +24,17 @@ releases:
       - group: CD
         tracks:
           - title: Decomposing Trees
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Fourth of July
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Summertime
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Sorry
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: When Will You Come Home
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Spook
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Here She Comes Now
@@ -53,17 +53,17 @@ releases:
       - group: CD
         tracks:
           - title: Decomposing Trees
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Fourth of July
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Summertime
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Sorry
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: When Will You Come Home
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Spook
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Here She Comes Now

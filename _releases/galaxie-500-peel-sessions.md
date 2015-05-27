@@ -28,15 +28,15 @@ releases:
           - title: Final Day
             author: Moxham/Moxham
           - title: When Will You Come Home
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Moonshot
             author: Buffy Sainte Marie
           - title: Flowers
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Blue Thunder
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Decomposing Trees
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
 ---

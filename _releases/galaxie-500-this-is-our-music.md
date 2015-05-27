@@ -24,25 +24,25 @@ releases:
       - group: A
         tracks:
           - title: Fourth of July
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Hearing Voices
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Spook
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Summertime
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Way Up High
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
       - group: B
         tracks:
           - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Sorry
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Melt Away
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: King of Spain Part Two
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
   - release:
     version: rough-trade-uk-cd
     year: 1990
@@ -55,22 +55,22 @@ releases:
       - group: CD
         tracks:
           - title: Fourth of July
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Hearing Voices
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: SPOOK
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Summertime
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Way Up High
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Listen the Snow is Falling
             author: Yoko Ono
           - title: Sorry
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Melt Away
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: King of Spain Part Two
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
 ---
 Produced and Engineered by Kramer at Noise New York 1990.

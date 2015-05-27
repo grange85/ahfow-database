@@ -24,25 +24,25 @@ releases:
       - group: A
         tracks:
           - title: Blue Thunder
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Tell Me
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Snowstorm
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Strange
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: When Will You Come Home
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
       - group: B
         tracks:
           - title: Decomposing Trees
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Another Day
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Leave the Planet
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Plastic Bird
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Isn't it a Pity
             author: George Harrison
   - release:
@@ -57,23 +57,23 @@ releases:
       - group: CD
         tracks:
           - title: Blue Thunder
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Tell Me
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Snowstorm
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Strange
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: When Will You Come Home
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Decomposing Trees
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Another Day
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Leave the Planet
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Plastic Bird
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
           - title: Isn't it a Pity
             author: George Harrison
 

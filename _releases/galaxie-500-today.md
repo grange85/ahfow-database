@@ -28,25 +28,25 @@ releases:
     - group: A
       tracks:
        - title: Flowers
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Pictures
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Parking Lot
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Don't Let Our Youth Go to Waste
          author: Jonathan Richman
     - group: B
       tracks:
        - title: Temperature's Rising
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Oblivious
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: It's Getting Late
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Instrumental
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Tugboat
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
   - release:
     version: shimmydisceurope
     year: 1989
@@ -61,25 +61,25 @@ releases:
     - group: A
       tracks:
        - title: Flowers
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Pictures
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Parking Lot
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Don't Let Our Youth Go to Waste
          author: Jonathan Richman
     - group: B
       tracks:
        - title: Temperature's Rising
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Oblivious
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: It's Getting Late
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Instrumental
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Tugboat
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
   - release:
     version: schemer
     year: 1989
@@ -94,27 +94,27 @@ releases:
     - group: CD
       tracks:
        - title: Flowers
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Pictures
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Parking Lot
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Don't Let Our Youth Go to Waste
          author: Jonathan Richman
        - title: Temperature's Rising
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Oblivious
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: It's Getting Late
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Instrumental
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Tugboat
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: King of Spain
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Crazy
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
   - release:
     version: roughtrade
     year: 1991
@@ -129,23 +129,23 @@ releases:
     - group: A
       tracks:
        - title: Flowers
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Pictures
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Parking Lot
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Don't Let Our Youth Go to Waste
          author: Jonathan Richman
     - group: B
       tracks:
        - title: Temperature's Rising
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Oblivious
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: It's Getting Late
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Instrumental
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
        - title: Tugboat
-         author: Krukowski / Wareham / Yang
+         author: Krukowski/Wareham/Yang
 ---

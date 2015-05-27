@@ -23,8 +23,9 @@ ahfow_artists:
 releases_categories: [
   '01-album',
   '02-single',
-  '03-promo',
-  '04-video'
+  '03-compilation',
+  '04-promo',
+  '05-video'
   ]
 
 collections: 

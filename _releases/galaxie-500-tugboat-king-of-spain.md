@@ -23,11 +23,11 @@ releases:
       - group: A
         tracks:
           - title: Tugboat
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
       - group: B
         tracks:
           - title: King of Spain
-            author: Krukowski / Wareham / Yang
+            author: Krukowski/Wareham/Yang
 
 ---
 First press edition of 1000. 500 numbered copies on blue vinyl and 500 copies not numbered on black vinyl, both in pic sleeve with Tugboat written in blue and King of Spain written in orange. 
