@@ -4,68 +4,64 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: galaxie-500
-title: Galaxie 500 - Melt Away
-initial_release_date: 1997
-albumname: 'Melt Away'
+title: Galaxie 500 - The Portable Galaxie 500
+initial_release_date: 1998
+albumname: The Portable Galaxie 500
 artist: Galaxie 500
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_meltaway.jpg
-notes: |
-  Selections from the Galaxie 500 Box Set
-  All Tracks produced by Kramer except "The Other Side".
-  Remastered by Kramer and Alan Douches, May 1996.
-  Released only in Japan.
+imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_portable.jpg
+notes: 
 releases:
   - release: 
-    version: melt-away-cd
-    year: 1997
-    releasedate: 1997-02-26
+    version: galaxie-500-portable-cd
+    year: 1998
+    releasedate: 1998
     type: album
     format: CD
     label: Rykodisc
-    catno: VACK 1118
+    catno: RCD 10445
     mbid: 
-    discogs: 
+    discogs: http://www.discogs.com/Galaxie-500-Galaxie-500/release/495238
     release_notes:
     groups:
     - group: CD
       tracks:
-       - title: Fourth of July
-         notes: 
-         author: Krukowski/Wareham/Yang
-       - title: Temperature's Rising
-         notes: 
-         author: Krukowski/Wareham/Yang
-       - title: Final Day
-         notes: 
-         author: Moxham
-       - title: When Will You Come Home
-         notes: 
-         author: Krukowski/Wareham/Yang
        - title: Blue Thunder
          notes: w/sax
          author: Krukowski/Wareham/Yang
-       - title: Spook
+       - title: Flowers
          notes: 
          author: Krukowski/Wareham/Yang
-       - title: Oblivious
-         notes: alternate version
+       - title: When Will You Come Home
+         notes: 
+         author: Krukowski/Wareham/Yang
+       - title: Listen The Snow Is Falling
+         notes: 
+         author: Yoko Ono
+       - title: Sorry
+         notes: 
+         author: Krukowski/Wareham/Yang
+       - title: Fourth of July
+         notes: 
+         author: Krukowski/Wareham/Yang
+       - title: Don't Let Our Youth Go To Waste
+         notes: 
+         author: Jonathan Richman
+       - title: Strange
+         notes: 
          author: Krukowski/Wareham/Yang
        - title: Another Day
          notes: 
          author: Krukowski/Wareham/Yang
-       - title: Ceremony
-         notes: 
-         author: Joy Division
-       - title: Flowers
+       - title: Snowstorm
          notes: 
          author: Krukowski/Wareham/Yang
-       - title: The Other Side
+       - title: Summertime
          notes: 
          author: Krukowski/Wareham/Yang
        - title: Tugboat
          notes: 
          author: Krukowski/Wareham/Yang
-       - title: Melt Away
-         notes: 
+       - title: Blue Thunder
+         notes: video
          author: Krukowski/Wareham/Yang
 ---
