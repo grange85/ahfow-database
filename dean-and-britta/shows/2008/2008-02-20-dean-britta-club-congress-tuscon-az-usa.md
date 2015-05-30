@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-02-20: Dean and Britta - Club Congress, Tuscon AZ, USA'
+title: '2008-02-20: Dean & Britta - Club Congress, Tuscon AZ, USA'
 name: 2008-02-20-dean-britta-club-congress-tuscon-az-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Club Congress, Tuscon AZ, USA'
 show-setlist: 
 show-date: 2008-02-20

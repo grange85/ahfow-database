@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-10: Damon and Naomi - University, Zagreb, Croatia'
+title: '2007-11-10: Damon & Naomi - University, Zagreb, Croatia'
 name: 2007-11-10-damon-naomi-university-zagreb-croatia
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'University, Zagreb, Croatia'
 show-setlist: 
 show-date: 2007-11-10

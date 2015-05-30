@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-01-15: Dean and Britta - The Carnegie Lecture Hall, Pittsburgh, PA, USA'
+title: '2011-01-15: Dean & Britta - The Carnegie Lecture Hall, Pittsburgh, PA, USA'
 name: 2011-01-15-dean-britta-the-carnegie-lecture-hall-pittsburgh-pa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Carnegie Lecture Hall, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2011-01-15

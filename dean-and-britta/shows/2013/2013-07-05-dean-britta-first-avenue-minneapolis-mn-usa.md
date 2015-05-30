@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2013-07-05: Dean and Britta - First Avenue, Minneapolis, MN, USA'
+title: '2013-07-05: Dean & Britta - First Avenue, Minneapolis, MN, USA'
 name: 2013-07-05-dean-britta-first-avenue-minneapolis-mn-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'First Avenue, Minneapolis, MN, USA'
 show-setlist: 
 show-date: 2013-07-05

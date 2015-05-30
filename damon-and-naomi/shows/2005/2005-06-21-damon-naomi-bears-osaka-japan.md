@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-06-21: Damon and Naomi - Bears, Osaka, Japan'
+title: '2005-06-21: Damon & Naomi - Bears, Osaka, Japan'
 name: 2005-06-21-damon-naomi-bears-osaka-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Bears, Osaka, Japan'
 show-setlist: 
 show-date: 2005-06-21

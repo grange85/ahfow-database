@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-12-06: Dean and Britta - Trocadero, Philadelphia PA, USA'
+title: '2008-12-06: Dean & Britta - Trocadero, Philadelphia PA, USA'
 name: 2008-12-06-dean-britta-trocadero-philadelphia-pa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: 
 show-date: 2008-12-06

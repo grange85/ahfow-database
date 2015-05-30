@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-01-31: Damon and Naomi - Brattle Theatre, Cambridge, MA, USA'
+title: '2010-01-31: Damon & Naomi - Brattle Theatre, Cambridge, MA, USA'
 name: 2010-01-31-damon-naomi-brattle-theatre-cambridge-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Brattle Theatre, Cambridge, MA, USA'
 show-setlist: 
 show-date: 2010-01-31

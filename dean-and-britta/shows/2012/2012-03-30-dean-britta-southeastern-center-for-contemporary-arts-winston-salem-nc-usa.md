@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2012-03-30: Dean and Britta - Southeastern Center for Contemporary Arts, Winston-Salem, NC, USA'
+title: '2012-03-30: Dean & Britta - Southeastern Center for Contemporary Arts, Winston-Salem, NC, USA'
 name: 2012-03-30-dean-britta-southeastern-center-for-contemporary-arts-winston-salem-nc-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Southeastern Center for Contemporary Arts, Winston-Salem, NC, USA'
 show-setlist: 
 show-date: 2012-03-30

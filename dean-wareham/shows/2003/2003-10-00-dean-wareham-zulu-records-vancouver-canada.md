@@ -16,4 +16,4 @@ show-ticket-url:
 show-venue-website: 
 show-additional: 
 ---
-<p>Instore performance with a pick up band (The Secret 3).</p><blockquote>We did a couple of Galaxie 500 songs, and some from the Dean and Britta record [L'Avventura].<br/>Dean Wareham</blockquote>
+<p>Instore performance with a pick up band (The Secret 3).</p><blockquote>We did a couple of Galaxie 500 songs, and some from the Dean & Britta record [L'Avventura].<br/>Dean Wareham</blockquote>

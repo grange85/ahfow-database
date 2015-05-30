@@ -19,6 +19,7 @@ releases:
     format: 7"
     label: Aurora
     catno: AU001
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_tugboat_a001.jpg
     groups:
       - group: A
         tracks:

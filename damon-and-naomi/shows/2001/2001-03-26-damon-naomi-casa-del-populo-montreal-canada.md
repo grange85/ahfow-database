@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-03-26: Damon and Naomi - Casa del Populo, Montreal, Canada'
+title: '2001-03-26: Damon & Naomi - Casa del Populo, Montreal, Canada'
 name: 2001-03-26-damon-naomi-casa-del-populo-montreal-canada
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Casa del Populo, Montreal, Canada'
 show-setlist: 
 show-date: 2001-03-26

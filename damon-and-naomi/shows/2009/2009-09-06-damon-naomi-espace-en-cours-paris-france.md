@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-09-06: Damon and Naomi - Espace En Cours, Paris, France'
+title: '2009-09-06: Damon & Naomi - Espace En Cours, Paris, France'
 name: 2009-09-06-damon-naomi-espace-en-cours-paris-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Espace En Cours, Paris, France'
 show-setlist: 
 show-date: 2009-09-06
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Le Non Jazz presents:, DAMON and NAOMI (boston), CATS HATS GOWNS (paris), TG (bruxelles), H&M (paris)
+Le Non Jazz presents:, Damon & Naomi (boston), CATS HATS GOWNS (paris), TG (bruxelles), H&M (paris)

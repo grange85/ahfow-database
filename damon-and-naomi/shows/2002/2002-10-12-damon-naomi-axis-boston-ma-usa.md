@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-10-12: Damon and Naomi - Axis, Boston MA, USA'
+title: '2002-10-12: Damon & Naomi - Axis, Boston MA, USA'
 name: 2002-10-12-damon-naomi-axis-boston-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Axis, Boston MA, USA'
 show-setlist: 
 show-date: 2002-10-12

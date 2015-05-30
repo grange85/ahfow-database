@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-05-09: Damon and Naomi - Knitting Factory, New York NY, USA'
+title: '2001-05-09: Damon & Naomi - Knitting Factory, New York NY, USA'
 name: 2001-05-09-damon-naomi-knitting-factory-new-york-ny-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 2001-05-09

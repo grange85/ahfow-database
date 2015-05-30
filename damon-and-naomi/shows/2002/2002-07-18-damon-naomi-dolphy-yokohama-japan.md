@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-07-18: Damon and Naomi - Dolphy, Yokohama, Japan'
+title: '2002-07-18: Damon & Naomi - Dolphy, Yokohama, Japan'
 name: 2002-07-18-damon-naomi-dolphy-yokohama-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Dolphy, Yokohama, Japan'
 show-setlist: [
   "Turn Of The Century",

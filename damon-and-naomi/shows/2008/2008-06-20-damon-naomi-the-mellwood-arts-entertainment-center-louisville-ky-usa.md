@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-06-20: Damon and Naomi -  The Mellwood Arts and Entertainment Center, Louisville KY, USA'
+title: '2008-06-20: Damon & Naomi -  The Mellwood Arts and Entertainment Center, Louisville KY, USA'
 name: 2008-06-20-damon-naomi-the-mellwood-arts-entertainment-center-louisville-ky-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: ' The Mellwood Arts and Entertainment Center, Louisville KY, USA'
 show-setlist: 
 show-date: 2008-06-20
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Terrastock 7 runs from the 19th to the 22nd of June - Damon and Naomi will be playing on Friday 20th on the inside stage at 10:35pm
+Terrastock 7 runs from the 19th to the 22nd of June - Damon & Naomi will be playing on Friday 20th on the inside stage at 10:35pm

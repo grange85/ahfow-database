@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-07-13: Damon and Naomi - Namba, Osaka, Japan'
+title: '2002-07-13: Damon & Naomi - Namba, Osaka, Japan'
 name: 2002-07-13-damon-naomi-namba-osaka-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Namba, Osaka, Japan'
 show-setlist: [
   "Turn Of The Century",

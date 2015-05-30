@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-20: Damon and Naomi - Downstairs at The Kings Head, London, UK'
+title: '2005-05-20: Damon & Naomi - Downstairs at The Kings Head, London, UK'
 name: 2005-05-20-damon-naomi-downstairs-at-the-kings-head-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Downstairs at The Kings Head, London, UK'
 show-setlist: 
 show-date: 2005-05-20

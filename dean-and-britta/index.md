@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Dean and Britta biography
+title : Dean & Britta biography
 categories: primary
 ---
 

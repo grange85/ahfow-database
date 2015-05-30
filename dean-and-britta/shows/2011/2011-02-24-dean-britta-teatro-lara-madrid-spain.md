@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-02-24: Dean and Britta - Teatro Lara, Madrid, Spain'
+title: '2011-02-24: Dean & Britta - Teatro Lara, Madrid, Spain'
 name: 2011-02-24-dean-britta-teatro-lara-madrid-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Teatro Lara, Madrid, Spain'
 show-setlist: 
 show-date: 2011-02-24

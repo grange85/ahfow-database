@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-14: Dean and Britta - QI, Oxford, UK'
+title: '2007-06-14: Dean & Britta - QI, Oxford, UK'
 name: 2007-06-14-dean-britta-qi-oxford-uk
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'QI, Oxford, UK'
 show-setlist: 
 show-date: 2007-06-14

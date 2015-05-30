@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-09-03: Damon and Naomi - Dulcimer, Manchester, UK'
+title: '2009-09-03: Damon & Naomi - Dulcimer, Manchester, UK'
 name: 2009-09-03-damon-naomi-dulcimer-manchester-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Dulcimer, Manchester, UK'
 show-setlist: 
 show-date: 2009-09-03

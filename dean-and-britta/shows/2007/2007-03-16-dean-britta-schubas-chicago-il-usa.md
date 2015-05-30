@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2007-03-16: Dean and Britta - Schuba's, Chicago IL, USA"
+title: "2007-03-16: Dean & Britta - Schuba's, Chicago IL, USA"
 name: 2007-03-16-dean-britta-schubas-chicago-il-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: "Schuba's, Chicago IL, USA"
 show-setlist: [
   "Singer Sing",

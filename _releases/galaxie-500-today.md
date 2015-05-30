@@ -22,6 +22,7 @@ releases:
     format: LP
     label: Aurora
     catno: AU002
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
     mbid: 
     discogs: 
     groups:
@@ -55,6 +56,7 @@ releases:
     format: LP
     label: Shimmy Disc Europe 
     catno: SDE8908LP
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
     mbid: 
     discogs: 
     groups:
@@ -88,6 +90,7 @@ releases:
     format: CD
     label: Schemer
     catno: SCHEMER 8905/CD
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
     mbid: 
     discogs: 
     groups:
@@ -123,6 +126,7 @@ releases:
     format: LP
     label: Rough Trade (US)
     catno: R266-1
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
     mbid: 
     discogs: 
     groups:

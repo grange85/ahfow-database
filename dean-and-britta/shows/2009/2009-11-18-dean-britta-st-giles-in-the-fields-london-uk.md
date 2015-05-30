@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-11-18: Dean and Britta - St Giles-in-the-Fields, London, UK'
+title: '2009-11-18: Dean & Britta - St Giles-in-the-Fields, London, UK'
 name: 2009-11-18-dean-britta-st-giles-in-the-fields-london-uk
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'St Giles-in-the-Fields, London, UK'
 show-setlist: 
 show-date: 2009-11-18

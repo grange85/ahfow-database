@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-07-15: Damon and Naomi - Tokuzo, Nagoya, Japan'
+title: '2002-07-15: Damon & Naomi - Tokuzo, Nagoya, Japan'
 name: 2002-07-15-damon-naomi-tokuzo-nagoya-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Tokuzo, Nagoya, Japan'
 show-setlist: [
   "Judah and the Maccabees",

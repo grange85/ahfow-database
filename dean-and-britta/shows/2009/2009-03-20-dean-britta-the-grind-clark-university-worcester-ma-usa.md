@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-03-20: Dean and Britta - The Grind, Clark University, Worcester, MA, USA'
+title: '2009-03-20: Dean & Britta - The Grind, Clark University, Worcester, MA, USA'
 name: 2009-03-20-dean-britta-the-grind-clark-university-worcester-ma-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Grind, Clark University, Worcester, MA, USA'
 setlist-source: 'recording and scanned setlist'
 show-setlist: [

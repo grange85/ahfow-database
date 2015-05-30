@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2014-10-02: Damon and Naomi - Carpenter Center for the Visual Arts, Cambridge, MA, USA'
+title: '2014-10-02: Damon & Naomi - Carpenter Center for the Visual Arts, Cambridge, MA, USA'
 name: 2014-10-02-damon-naomi-carpenter-center-visual-arts-cambridge-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Carpenter Center for the Visual Arts, Harvard University, Cambridge, MA, USA'
 show-setlist: 
 show-date: 2014-10-02
@@ -19,4 +19,4 @@ show-ticket-url:
 show-venue-website: 'http://ccva.fas.harvard.edu/fortune'
 show-additional: 
 ---
-<p>Screening of Naomi Yang's 'Fortune' with live accompaniment by Damon and Naomi</p><p>7pm - FREE</p>
+<p>Screening of Naomi Yang's 'Fortune' with live accompaniment by Damon & Naomi</p><p>7pm - FREE</p>

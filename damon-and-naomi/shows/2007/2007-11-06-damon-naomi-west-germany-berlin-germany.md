@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-06: Damon and Naomi - West Germany, Berlin, Germany'
+title: '2007-11-06: Damon & Naomi - West Germany, Berlin, Germany'
 name: 2007-11-06-damon-naomi-west-germany-berlin-germany
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'West Germany, Berlin, Germany'
 show-setlist: 
 show-date: 2007-11-06

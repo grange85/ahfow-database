@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2013-02-09: Dean and Britta - Jewish Community Center of San Francisco, San Francisco, CA, USA'
+title: '2013-02-09: Dean & Britta - Jewish Community Center of San Francisco, San Francisco, CA, USA'
 name: 2013-02-09-dean-britta-jewish-community-center-of-san-francisco-san-francisco-ca-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Jewish Community Center of San Francisco, San Francisco, CA, USA'
 show-setlist: 
 show-date: 2013-02-09

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2006-04-23: Damon and Naomi - Terrastock, Providence RI, USA'
+title: '2006-04-23: Damon & Naomi - Terrastock, Providence RI, USA'
 name: 2006-04-23-damon-naomi-terrastock-providence-ri-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Terrastock, Providence RI, USA'
 show-setlist: 
 show-date: 2006-04-23

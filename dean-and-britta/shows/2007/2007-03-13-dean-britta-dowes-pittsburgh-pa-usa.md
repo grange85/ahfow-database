@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-03-13: Dean and Britta - Dowes, Pittsburgh PA, USA'
+title: '2007-03-13: Dean & Britta - Dowes, Pittsburgh PA, USA'
 name: 2007-03-13-dean-britta-dowes-pittsburgh-pa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Dowes, Pittsburgh PA, USA'
 show-setlist: [
   "Singer Sing",

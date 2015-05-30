@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-02-09: Dean and Britta - The Mod Club, Toronto, Canada'
+title: '2008-02-09: Dean & Britta - The Mod Club, Toronto, Canada'
 name: 2008-02-09-dean-britta-the-mod-club-toronto-canada
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Mod Club, Toronto, Canada'
 setlist-source: 'http://flickr.com/photos/quadb/2254428124/'
 show-setlist: [

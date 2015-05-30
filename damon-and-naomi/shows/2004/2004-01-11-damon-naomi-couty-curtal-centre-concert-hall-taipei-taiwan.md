@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-01-11: Damon and Naomi - Couty Curtal Centre Concert Hall, Taipei, Taiwan'
+title: '2004-01-11: Damon & Naomi - Couty Curtal Centre Concert Hall, Taipei, Taiwan'
 name: 2004-01-11-damon-naomi-couty-curtal-centre-concert-hall-taipei-taiwan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Couty Curtal Centre Concert Hall, Taipei, Taiwan'
 show-setlist: 
 show-date: 2004-01-11

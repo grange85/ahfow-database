@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-16: Damon and Naomi - tba, Paris, France'
+title: '2005-05-16: Damon & Naomi - tba, Paris, France'
 name: 2005-05-16-damon-naomi-tba-paris-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'tba, Paris, France'
 show-setlist: 
 show-date: 2005-05-16

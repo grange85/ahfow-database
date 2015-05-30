@@ -22,6 +22,7 @@ releases:
     label: Chemical Imbalance
     catno: CI005
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_oblivious001.jpg
     discogs: 
     release_notes:
     groups:

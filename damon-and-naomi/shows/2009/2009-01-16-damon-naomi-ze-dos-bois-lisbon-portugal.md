@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-16: Damon and Naomi - Ze Dos Bois, Lisbon, Portugal'
+title: '2009-01-16: Damon & Naomi - Ze Dos Bois, Lisbon, Portugal'
 name: 2009-01-16-damon-naomi-ze-dos-bois-lisbon-portugal
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Ze Dos Bois, Lisbon, Portugal'
 show-setlist: 
 show-date: 2009-01-16

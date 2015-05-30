@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-02-26: Dean and Britta - Perth International Arts Festival, The Astor Theatre, Mt Lawley, Perth, Australia'
+title: '2010-02-26: Dean & Britta - Perth International Arts Festival, The Astor Theatre, Mt Lawley, Perth, Australia'
 name: 2010-02-26-dean-britta-perth-international-arts-festival-the-astor-theatre-mt-lawley-perth-australia
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Perth International Arts Festival, The Astor Theatre, Mt Lawley, Perth, Australia'
 show-setlist: 
 show-date: 2010-02-26

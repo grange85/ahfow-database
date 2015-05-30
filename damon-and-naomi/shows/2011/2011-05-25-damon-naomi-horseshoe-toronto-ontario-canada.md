@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-05-25: Damon and Naomi - Horseshoe, Toronto, Ontario, Canada'
+title: '2011-05-25: Damon & Naomi - Horseshoe, Toronto, Ontario, Canada'
 name: 2011-05-25-damon-naomi-horseshoe-toronto-ontario-canada
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Horseshoe, Toronto, Ontario, Canada'
 show-setlist: 
 show-date: 2011-05-25

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-10-30: Damon and Naomi - Gibson Rooftop, Memphis TN, USA'
+title: '2002-10-30: Damon & Naomi - Gibson Rooftop, Memphis TN, USA'
 name: 2002-10-30-damon-naomi-gibson-rooftop-memphis-tn-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Gibson Rooftop, Memphis TN, USA'
 show-setlist: 
 show-date: 2002-10-30

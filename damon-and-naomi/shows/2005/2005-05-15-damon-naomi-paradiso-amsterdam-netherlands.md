@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-15: Damon and Naomi - Paradiso, Amsterdam, Netherlands'
+title: '2005-05-15: Damon & Naomi - Paradiso, Amsterdam, Netherlands'
 name: 2005-05-15-damon-naomi-paradiso-amsterdam-netherlands
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Paradiso, Amsterdam, Netherlands'
 show-setlist: 
 show-date: 2005-05-15

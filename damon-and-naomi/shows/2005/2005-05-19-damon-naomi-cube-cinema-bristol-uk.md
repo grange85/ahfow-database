@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-19: Damon and Naomi - Cube Cinema, Bristol, UK'
+title: '2005-05-19: Damon & Naomi - Cube Cinema, Bristol, UK'
 name: 2005-05-19-damon-naomi-cube-cinema-bristol-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Cube Cinema, Bristol, UK'
 show-setlist: 
 show-date: 2005-05-19

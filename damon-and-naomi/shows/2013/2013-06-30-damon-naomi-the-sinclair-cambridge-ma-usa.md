@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2013-06-30: Damon and Naomi - The Sinclair, Cambridge, MA, USA'
+title: '2013-06-30: Damon & Naomi - The Sinclair, Cambridge, MA, USA'
 name: 2013-06-30-damon-naomi-the-sinclair-cambridge-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Sinclair, Cambridge, MA, USA'
 show-setlist: 
 show-date: 2013-06-30
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Wesley Staces Cabinet of Wonders featuring Wesley Stace, Tanya Donnelly, Steve Almond, Damon and Naomi, Bill Janovitz and Chris Colbourn (of Buffalo Tom) [website|http://www.sinclaircambridge.com/event/270977-eugene-mirman-comedy-festival-cambridge/]
+Wesley Staces Cabinet of Wonders featuring Wesley Stace, Tanya Donnelly, Steve Almond, Damon & Naomi, Bill Janovitz and Chris Colbourn (of Buffalo Tom) [website|http://www.sinclaircambridge.com/event/270977-eugene-mirman-comedy-festival-cambridge/]

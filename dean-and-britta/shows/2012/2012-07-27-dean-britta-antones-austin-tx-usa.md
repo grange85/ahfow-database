@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2012-07-27: Dean and Britta - Antones, Austin, TX, USA"
+title: "2012-07-27: Dean & Britta - Antones, Austin, TX, USA"
 name: 2012-07-27-dean-britta-antones-austin-tx-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: "Antones, Austin, TX, USA"
 show-setlist: 
 show-date: 2012-07-27

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-02-15: Dean and Britta - KEXP, Seattle WA, USA'
+title: '2008-02-15: Dean & Britta - KEXP, Seattle WA, USA'
 name: 2008-02-15-dean-britta-kexp-seattle-wa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'KEXP, Seattle WA, USA'
 show-setlist: [
   "Knives From Bavaria",

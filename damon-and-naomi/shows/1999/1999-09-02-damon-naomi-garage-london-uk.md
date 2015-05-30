@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '1999-09-02: Damon and Naomi - Garage, London, UK'
+title: '1999-09-02: Damon & Naomi - Garage, London, UK'
 name: 1999-09-02-damon-naomi-garage-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Garage, London, UK'
 show-setlist: 
 show-date: 1999-09-02

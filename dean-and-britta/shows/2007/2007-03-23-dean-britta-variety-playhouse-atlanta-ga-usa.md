@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-03-23: Dean and Britta - Variety Playhouse, Atlanta GA, USA'
+title: '2007-03-23: Dean & Britta - Variety Playhouse, Atlanta GA, USA'
 name: 2007-03-23-dean-britta-variety-playhouse-atlanta-ga-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Variety Playhouse, Atlanta GA, USA'
 show-setlist: [
   "Singer Sing",

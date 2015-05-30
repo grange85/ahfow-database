@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-10-08: Damon and Naomi - Spaceland, Los Angeles, CA, USA'
+title: '2009-10-08: Damon & Naomi - Spaceland, Los Angeles, CA, USA'
 name: 2009-10-08-damon-naomi-spaceland-los-angeles-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Spaceland, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2009-10-08

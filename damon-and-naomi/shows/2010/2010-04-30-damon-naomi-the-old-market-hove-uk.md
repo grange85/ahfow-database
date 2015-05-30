@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-04-30: Damon and Naomi - The Old Market, Hove, UK'
+title: '2010-04-30: Damon & Naomi - The Old Market, Hove, UK'
 name: 2010-04-30-damon-naomi-the-old-market-hove-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Old Market, Hove, UK'
 show-setlist: 
 show-date: 2010-04-30

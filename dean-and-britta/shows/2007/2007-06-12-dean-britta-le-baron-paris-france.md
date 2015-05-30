@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-12: Dean and Britta - Le Baron, Paris, France'
+title: '2007-06-12: Dean & Britta - Le Baron, Paris, France'
 name: 2007-06-12-dean-britta-le-baron-paris-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Le Baron, Paris, France'
 show-setlist: 
 show-date: 2007-06-12

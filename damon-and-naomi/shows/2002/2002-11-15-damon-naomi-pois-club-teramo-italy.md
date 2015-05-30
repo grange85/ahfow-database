@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-11-15: Damon and Naomi - Pois Club, Teramo, Italy'
+title: '2002-11-15: Damon & Naomi - Pois Club, Teramo, Italy'
 name: 2002-11-15-damon-naomi-pois-club-teramo-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Pois Club, Teramo, Italy'
 show-setlist: 
 show-date: 2002-11-15

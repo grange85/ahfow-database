@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-04-29: Dean and Britta - Strand, Stockholm, Sweden'
+title: '2011-04-29: Dean & Britta - Strand, Stockholm, Sweden'
 name: 2011-04-29-dean-britta-strand-stockholm-sweden
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Strand, Stockholm, Sweden'
 show-setlist: 
 show-date: 2011-04-29

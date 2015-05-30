@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-31: Dean and Britta - Zulu Records, Vancouver, Canada'
+title: '2009-01-31: Dean & Britta - Zulu Records, Vancouver, Canada'
 name: 2009-01-31-dean-britta-zulu-records-vancouver-canada
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Zulu Records, Vancouver, Canada'
 show-setlist: 
 show-date: 2009-01-31

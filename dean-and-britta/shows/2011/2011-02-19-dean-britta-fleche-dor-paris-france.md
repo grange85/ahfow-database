@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2011-02-19: Dean and Britta - Fleche D'Or, Paris, France"
+title: "2011-02-19: Dean & Britta - Fleche D'Or, Paris, France"
 name: 2011-02-19-dean-britta-fleche-dor-paris-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: "Fleche D'Or, Paris, France"
 show-setlist: 
 show-date: 2011-02-19

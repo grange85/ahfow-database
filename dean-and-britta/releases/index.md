@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Dean and Britta discography
+title : Dean & Britta discography
 categories: primary
 ---
 

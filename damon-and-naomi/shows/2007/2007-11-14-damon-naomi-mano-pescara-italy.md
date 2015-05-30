@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-14: Damon and Naomi - Mano, Pescara, Italy'
+title: '2007-11-14: Damon & Naomi - Mano, Pescara, Italy'
 name: 2007-11-14-damon-naomi-mano-pescara-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Mano, Pescara, Italy'
 show-setlist: 
 show-date: 2007-11-14

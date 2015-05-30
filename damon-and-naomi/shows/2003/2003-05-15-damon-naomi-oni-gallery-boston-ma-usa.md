@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2003-05-15: Damon and Naomi - Oni Gallery, Boston MA, USA'
+title: '2003-05-15: Damon & Naomi - Oni Gallery, Boston MA, USA'
 name: 2003-05-15-damon-naomi-oni-gallery-boston-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Oni Gallery, Boston MA, USA'
 show-setlist: 
 show-date: 2003-05-15

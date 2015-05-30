@@ -21,6 +21,7 @@ releases:
     release_notes: Limited edition of 500
     label: Caff
     catno: CAFF 9
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
     groups:
       - group: A
         tracks:

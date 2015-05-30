@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2014-05-19: Damon and Naomi - Clwb Ifor Bach, Cardiff, UK'
+title: '2014-05-19: Damon & Naomi - Clwb Ifor Bach, Cardiff, UK'
 name: 2014-05-19-damon-naomi-clwb-ifor-bach-cardiff-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Clwb Ifor Bach, Cardiff, UK'
 show-setlist: 
 show-date: 2014-05-19
@@ -16,4 +16,4 @@ show-ticket-url: 'http://www.ticketweb.co.uk/event/118423'
 show-venue-website: 'http://www.clwb.net/eng/listings/event3349/holy-boredom-presents.html'
 show-additional: 
 ---
-Showing of Naomi Yangs silent film Fortune with live accompaniment by Damon and Naomi
+Showing of Naomi Yangs silent film Fortune with live accompaniment by Damon & Naomi

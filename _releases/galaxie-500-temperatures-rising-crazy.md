@@ -26,6 +26,7 @@ releases:
       Photography By – Claire Dain
     label: Yeti Publishing
     catno: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
     groups:
       - group: A
         tracks:

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-15: Damon and Naomi - Fortino, Bari, Italy'
+title: '2007-11-15: Damon & Naomi - Fortino, Bari, Italy'
 name: 2007-11-15-damon-naomi-fortino-bari-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Fortino, Bari, Italy'
 show-setlist: 
 show-date: 2007-11-15

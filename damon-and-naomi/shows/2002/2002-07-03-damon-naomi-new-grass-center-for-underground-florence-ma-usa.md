@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-07-03: Damon and Naomi - New Grass Center for Underground, Florence MA, USA'
+title: '2002-07-03: Damon & Naomi - New Grass Center for Underground, Florence MA, USA'
 name: 2002-07-03-damon-naomi-new-grass-center-for-underground-florence-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'New Grass Center for Underground, Florence MA, USA'
 show-setlist: 
 show-date: 2002-07-03

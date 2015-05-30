@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2013-01-27: Damon and Naomi - Mains D’Oeuvres, Paris, France'
+title: '2013-01-27: Damon & Naomi - Mains D’Oeuvres, Paris, France'
 name: 2013-01-27-damon-naomi-mains-doeuvres-paris-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Mains D’Oeuvres, Paris, France'
 show-setlist: 
 show-date: 2013-01-27

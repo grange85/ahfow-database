@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-10-15: Damon and Naomi - Echoplex, Los Angeles CA, USA'
+title: '2007-10-15: Damon & Naomi - Echoplex, Los Angeles CA, USA'
 name: 2007-10-15-damon-naomi-echoplex-los-angeles-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Echoplex, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2007-10-15

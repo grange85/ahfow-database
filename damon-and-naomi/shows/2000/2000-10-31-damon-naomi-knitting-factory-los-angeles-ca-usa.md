@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2000-10-31: Damon and Naomi - Knitting Factory, Los Angeles CA, USA'
+title: '2000-10-31: Damon & Naomi - Knitting Factory, Los Angeles CA, USA'
 name: 2000-10-31-damon-naomi-knitting-factory-los-angeles-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Knitting Factory, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2000-10-31

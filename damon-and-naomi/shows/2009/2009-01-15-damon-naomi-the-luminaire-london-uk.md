@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-15: Damon and Naomi - The Luminaire, London, UK'
+title: '2009-01-15: Damon & Naomi - The Luminaire, London, UK'
 name: 2009-01-15-damon-naomi-the-luminaire-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Luminaire, London, UK'
 show-setlist: 
 show-date: 2009-01-15

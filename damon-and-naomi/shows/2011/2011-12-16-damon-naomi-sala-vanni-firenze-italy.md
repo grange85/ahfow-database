@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-12-16: Damon and Naomi - Sala Vanni, Firenze, Italy'
+title: '2011-12-16: Damon & Naomi - Sala Vanni, Firenze, Italy'
 name: 2011-12-16-damon-naomi-sala-vanni-firenze-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Sala Vanni, Firenze, Italy'
 show-setlist: 
 show-date: 2011-12-16

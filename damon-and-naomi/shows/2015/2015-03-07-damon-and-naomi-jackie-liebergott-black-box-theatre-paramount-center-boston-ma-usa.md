@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2015-03-07: Damon and Naomi - Jackie Liebergott Black Box Theatre, Paramount Center, Boston, MA, USA'
+title: '2015-03-07: Damon & Naomi - Jackie Liebergott Black Box Theatre, Paramount Center, Boston, MA, USA'
 name: 2015-03-07-damon-and-naomi-jackie-liebergott-black-box-theatre-paramount-center-boston-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Jackie Liebergott Black Box Theatre, Paramount Center, Boston, MA, USA'
 show-setlist: 
 show-date: 2015-03-07

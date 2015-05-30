@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-01-19: Damon and Naomi - Mandala-2, Tokyo, Japan'
+title: '2004-01-19: Damon & Naomi - Mandala-2, Tokyo, Japan'
 name: 2004-01-19-damon-naomi-mandala-2-tokyo-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Mandala-2, Tokyo, Japan'
 show-setlist: [
   "Araca Azul",

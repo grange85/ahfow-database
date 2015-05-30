@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-08-26: Dean and Britta - Bowery Ballroom, New York City, NY, USA'
+title: '2008-08-26: Dean & Britta - Bowery Ballroom, New York City, NY, USA'
 name: 2008-08-26-dean-britta-bowery-ballroom-new-york-city-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Bowery Ballroom, New York City, NY, USA'
 show-setlist: 
 show-date: 2008-08-26

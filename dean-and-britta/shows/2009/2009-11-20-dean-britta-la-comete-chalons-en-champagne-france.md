@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-11-20: Dean and Britta - La Comete, Chalons-en-Champagne, France'
+title: '2009-11-20: Dean & Britta - La Comete, Chalons-en-Champagne, France'
 name: 2009-11-20-dean-britta-la-comete-chalons-en-champagne-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'La Comete, Chalons-en-Champagne, France'
 show-setlist: 
 show-date: 2009-11-20

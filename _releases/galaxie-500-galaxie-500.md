@@ -22,6 +22,7 @@ releases:
     format: 4xCD
     label: Rykodisc
     catno: RCD 10355
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
     mbid: 
     discogs: http://www.discogs.com/Galaxie-500-Galaxie-500/release/495238
     release_notes:

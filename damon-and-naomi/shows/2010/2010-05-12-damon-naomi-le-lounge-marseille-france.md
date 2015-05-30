@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-05-12: Damon and Naomi - Le Lounge, Marseille, France'
+title: '2010-05-12: Damon & Naomi - Le Lounge, Marseille, France'
 name: 2010-05-12-damon-naomi-le-lounge-marseille-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Le Lounge, Marseille, France'
 show-setlist: 
 show-date: 2010-05-12

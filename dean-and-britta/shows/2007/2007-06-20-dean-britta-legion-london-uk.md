@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-20: Dean and Britta - Legion, London, UK'
+title: '2007-06-20: Dean & Britta - Legion, London, UK'
 name: 2007-06-20-dean-britta-legion-london-uk
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Legion, London, UK'
 show-setlist: [
   "Singer Sing",

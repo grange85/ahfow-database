@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-12-11: Damon and Naomi - Whirled Cinema, London, UK'
+title: '2011-12-11: Damon & Naomi - Whirled Cinema, London, UK'
 name: 2011-12-11-damon-naomi-whirled-cinema-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Whirled Cinema, London, UK'
 show-setlist: 
 show-date: 2011-12-11

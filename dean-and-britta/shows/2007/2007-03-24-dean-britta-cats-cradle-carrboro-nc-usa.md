@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-03-24: Dean and Britta - Cats Cradle, Carrboro NC, USA'
+title: '2007-03-24: Dean & Britta - Cats Cradle, Carrboro NC, USA'
 name: 2007-03-24-dean-britta-cats-cradle-carrboro-nc-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Cats Cradle, Carrboro NC, USA'
 show-setlist: 
 show-date: 2007-03-24

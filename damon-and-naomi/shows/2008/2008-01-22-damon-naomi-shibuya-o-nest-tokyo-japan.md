@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-01-22: Damon and Naomi - Shibuya, O-Nest, Tokyo, Japan'
+title: '2008-01-22: Damon & Naomi - Shibuya, O-Nest, Tokyo, Japan'
 name: 2008-01-22-damon-naomi-shibuya-o-nest-tokyo-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Shibuya, O-Nest, Tokyo, Japan'
 show-setlist: 
 show-date: 2008-01-22
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-This evening Damon and Naomi will play favorite songs from their whole career. opening band: Masaki Batoh and Helena Espvall Duo 
+This evening Damon & Naomi will play favorite songs from their whole career. opening band: Masaki Batoh and Helena Espvall Duo 

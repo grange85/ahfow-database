@@ -1,6 +1,6 @@
 ---
 layout: discography
-title : Damon and Naomi discography
+title : Damon & Naomi discography
 artistslug: damon-and-naomi
 categories: primary
 ---

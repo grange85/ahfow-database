@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-07-03: Dean and Britta - The Hang Out, Hong Kong, China'
+title: '2011-07-03: Dean & Britta - The Hang Out, Hong Kong, China'
 name: 2011-07-03-dean-britta-the-hang-out-hong-kong-china
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Hang Out, Hong Kong, China'
 show-setlist: 
 show-date: 2011-07-03

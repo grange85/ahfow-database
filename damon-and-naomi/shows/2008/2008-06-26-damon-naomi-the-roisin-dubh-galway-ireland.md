@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-06-26: Damon and Naomi - The Roisin Dubh, Galway, Ireland'
+title: '2008-06-26: Damon & Naomi - The Roisin Dubh, Galway, Ireland'
 name: 2008-06-26-damon-naomi-the-roisin-dubh-galway-ireland
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Roisin Dubh, Galway, Ireland'
 show-setlist: 
 show-date: 2008-06-26

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-09-04: Damon and Naomi - Cafe Oto, London UK'
+title: '2009-09-04: Damon & Naomi - Cafe Oto, London UK'
 name: 2009-09-04-damon-naomi-cafe-oto-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Cafe Oto, London UK'
 show-setlist: 
 show-date: 2009-09-04

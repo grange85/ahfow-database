@@ -4,10 +4,10 @@ permalink: /damon-and-naomi/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: damon-and-naomi
-title: Damon and Naomi - Pierre &Eacute;toile
+title: Damon & Naomi - Pierre &Eacute;toile
 initial_release_date: 1991
 albumname: Pierre &Eacute;toile
-artist: Damon and Naomi
+artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
 notes: |
   Produced by Pierre Etoile
@@ -15,13 +15,14 @@ notes: |
 releases:
   - release: 
     version: rough-trade-single-vinyl
-    sleeveurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     year: 1991
     releasedate: 1991
     type: single
     format: 12"
     label: Rough Trade
     catno: R2720
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     mbid: 
     discogs: 
     release_notes: Released as Pierre &Eacute;toile
@@ -45,6 +46,7 @@ releases:
     format: CD
     label: Rough Trade
     catno: R2723
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     mbid: 
     discogs: 
     release_notes: Released as Pierre &Eacute;toile
@@ -66,6 +68,7 @@ releases:
     format: CD
     label: Elefant
     catno: ER-306
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile-elefant.jpg
     mbid: 
     discogs: 
     release_notes:

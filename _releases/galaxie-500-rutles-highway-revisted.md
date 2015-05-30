@@ -27,6 +27,7 @@ releases:
     label: Shimmy Disc
     catno: 
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rutles.jpg
     discogs: 
     release_notes:
     groups:
@@ -42,6 +43,7 @@ releases:
     format: CD
     label: Shimmy Disc
     catno: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rutles.jpg
     mbid: 
     discogs: 
     release_notes:

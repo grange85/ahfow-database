@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-05-27: Damon and Naomi - Gasteszena, San Sebastian, Spain'
+title: '2001-05-27: Damon & Naomi - Gasteszena, San Sebastian, Spain'
 name: 2001-05-27-damon-naomi-gasteszena-san-sebastian-spain
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Gasteszena, San Sebastian, Spain'
 show-setlist: 
 show-date: 2001-05-27

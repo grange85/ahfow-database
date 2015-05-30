@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-12-03: Damon and Naomi - Palacio de Festivales de Cantabria, Santander, Spain'
+title: '2010-12-03: Damon & Naomi - Palacio de Festivales de Cantabria, Santander, Spain'
 name: 2010-12-03-damon-naomi-palacio-de-festivales-de-cantabria-santander-spain
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Palacio de Festivales de Cantabria, Santander, Spain'
 show-setlist: 
 show-date: 2010-12-03

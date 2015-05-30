@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-02-12: Damon and Naomi - Southpaw, Brooklyn NY, USA'
+title: '2004-02-12: Damon & Naomi - Southpaw, Brooklyn NY, USA'
 name: 2004-02-12-damon-naomi-southpaw-brooklyn-ny-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2004-02-12

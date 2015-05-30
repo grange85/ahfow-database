@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-10-07: Damon and Naomi - Black Cat, Washington DC, USA'
+title: '2002-10-07: Damon & Naomi - Black Cat, Washington DC, USA'
 name: 2002-10-07-damon-naomi-black-cat-washington-dc-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: 
 show-date: 2002-10-07

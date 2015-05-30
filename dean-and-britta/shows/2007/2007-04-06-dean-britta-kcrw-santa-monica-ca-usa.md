@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-04-06: Dean and Britta - KCRW, Santa Monica CA, USA'
+title: '2007-04-06: Dean & Britta - KCRW, Santa Monica CA, USA'
 name: 2007-04-06-dean-britta-kcrw-santa-monica-ca-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "The Sun Is Still Sunny",

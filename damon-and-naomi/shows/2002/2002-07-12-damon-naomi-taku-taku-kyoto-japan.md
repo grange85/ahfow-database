@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-07-12: Damon and Naomi - Taku Taku, Kyoto, Japan'
+title: '2002-07-12: Damon & Naomi - Taku Taku, Kyoto, Japan'
 name: 2002-07-12-damon-naomi-taku-taku-kyoto-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Taku Taku, Kyoto, Japan'
 show-setlist: [
   "Turn Of The Century",

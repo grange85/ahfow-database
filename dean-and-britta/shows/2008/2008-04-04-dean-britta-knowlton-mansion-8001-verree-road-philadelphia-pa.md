@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-04-04: Dean and Britta - Knowlton Mansion, 8001 Verree Road, Philadelphia PA'
+title: '2008-04-04: Dean & Britta - Knowlton Mansion, 8001 Verree Road, Philadelphia PA'
 name: 2008-04-04-dean-britta-knowlton-mansion-8001-verree-road-philadelphia-pa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Knowlton Mansion, 8001 Verree Road, Philadelphia PA'
 show-setlist: 
 show-date: 2008-04-04
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Dean and Britta are hosting a table at this fundraising event for WXPN. As far as I can tell there wont be a performance! Tickets are $250. <a href="http://www.xpn.org/member_support/beggars_banquet.php">WXPN Beggars Banquet</a>
+Dean & Britta are hosting a table at this fundraising event for WXPN. As far as I can tell there wont be a performance! Tickets are $250. <a href="http://www.xpn.org/member_support/beggars_banquet.php">WXPN Beggars Banquet</a>

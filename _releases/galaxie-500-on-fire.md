@@ -20,6 +20,7 @@ releases:
     format: LP
     label: Rough Trade
     catno: ROUGH 146
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
     groups:
       - group: A
         tracks:
@@ -53,6 +54,7 @@ releases:
     format: CD
     label: Rough Trade
     catno: ROUGHCD 146
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
     groups:
       - group: CD
         tracks:

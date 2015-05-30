@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-04-07: Dean and Britta - Silent Movie Theatre, Los Angeles CA, USA'
+title: '2007-04-07: Dean & Britta - Silent Movie Theatre, Los Angeles CA, USA'
 name: 2007-04-07-dean-britta-silent-movie-theatre-los-angeles-ca-usa-2
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Silent Movie Theatre, Los Angeles CA, USA'
 show-setlist: [
   "Singer Sing",

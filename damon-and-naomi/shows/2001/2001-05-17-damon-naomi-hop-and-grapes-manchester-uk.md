@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-05-17: Damon and Naomi - Hop and Grapes, Manchester, UK'
+title: '2001-05-17: Damon & Naomi - Hop and Grapes, Manchester, UK'
 name: 2001-05-17-damon-naomi-hop-and-grapes-manchester-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Hop and Grapes, Manchester, UK'
 show-setlist: 
 show-date: 2001-05-17

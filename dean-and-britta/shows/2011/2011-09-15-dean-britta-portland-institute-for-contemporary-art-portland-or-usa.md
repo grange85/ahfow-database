@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-09-15: Dean and Britta - Portland Institute for Contemporary Art, Portland, OR, USA'
+title: '2011-09-15: Dean & Britta - Portland Institute for Contemporary Art, Portland, OR, USA'
 name: 2011-09-15-dean-britta-portland-institute-for-contemporary-art-portland-or-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Portland Institute for Contemporary Art, Portland, OR, USA'
 show-setlist: 
 show-date: 2011-09-15

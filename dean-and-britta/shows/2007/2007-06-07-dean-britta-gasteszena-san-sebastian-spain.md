@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-07: Dean and Britta - Gasteszena, San Sebastian, Spain'
+title: '2007-06-07: Dean & Britta - Gasteszena, San Sebastian, Spain'
 name: 2007-06-07-dean-britta-gasteszena-san-sebastian-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Gasteszena, San Sebastian, Spain'
 show-setlist: 
 show-date: 2007-06-07

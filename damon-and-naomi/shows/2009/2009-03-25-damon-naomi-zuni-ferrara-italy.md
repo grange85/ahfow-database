@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-03-25: Damon and Naomi - Zuni, Ferrara, Italy'
+title: '2009-03-25: Damon & Naomi - Zuni, Ferrara, Italy'
 name: 2009-03-25-damon-naomi-zuni-ferrara-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Zuni, Ferrara, Italy'
 show-setlist: 
 show-date: 2009-03-25

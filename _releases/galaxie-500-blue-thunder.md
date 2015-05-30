@@ -22,6 +22,7 @@ releases:
     label: Rough Trade 
     catno: RTD 066
     mbid: 
+    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
     discogs: 
     release_notes:
     groups:
@@ -47,6 +48,7 @@ releases:
     label: Rough Trade 
     catno: RTD 066CD
     mbid: 
+    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
     discogs: 
     release_notes:
     groups:

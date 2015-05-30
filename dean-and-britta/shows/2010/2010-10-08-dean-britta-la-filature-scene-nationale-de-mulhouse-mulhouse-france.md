@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-10-08: Dean and Britta - La Filature - Scene Nationale De Mulhouse, Mulhouse, France'
+title: '2010-10-08: Dean & Britta - La Filature - Scene Nationale De Mulhouse, Mulhouse, France'
 name: 2010-10-08-dean-britta-la-filature-scene-nationale-de-mulhouse-mulhouse-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'La Filature - Scene Nationale De Mulhouse, Mulhouse, France'
 show-setlist: 
 show-date: 2010-10-08

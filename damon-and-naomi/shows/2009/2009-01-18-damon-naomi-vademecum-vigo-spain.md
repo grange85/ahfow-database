@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-18: Damon and Naomi - Vademecum, Vigo, Spain'
+title: '2009-01-18: Damon & Naomi - Vademecum, Vigo, Spain'
 name: 2009-01-18-damon-naomi-vademecum-vigo-spain
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Vademecum, Vigo, Spain'
 show-setlist: 
 show-date: 2009-01-18

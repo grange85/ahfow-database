@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-05-15: Dean and Britta - Abrons Arts Center, New York, NY, USA'
+title: '2010-05-15: Dean & Britta - Abrons Arts Center, New York, NY, USA'
 name: 2010-05-15-dean-britta-abrons-arts-center-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Abrons Arts Center, New York, NY, USA'
 show-setlist: 
 show-date: 2010-05-15

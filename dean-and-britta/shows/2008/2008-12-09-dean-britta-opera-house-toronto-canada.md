@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-12-09: Dean and Britta - Opera House, Toronto, Canada'
+title: '2008-12-09: Dean & Britta - Opera House, Toronto, Canada'
 name: 2008-12-09-dean-britta-opera-house-toronto-canada
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Opera House, Toronto, Canada'
 show-setlist: 
 show-date: 2008-12-09

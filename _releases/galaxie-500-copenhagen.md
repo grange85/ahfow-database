@@ -20,6 +20,7 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD 10373
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
     groups:
       - group: CD
         tracks:
@@ -49,6 +50,7 @@ releases:
     format: CD
     label: Videoarts Japan
     catno: VACK 1371
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
     groups:
       - group: CD
         tracks:

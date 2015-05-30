@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-10-09: Damon and Naomi - Northsix, Brooklyn NY, USA'
+title: '2002-10-09: Damon & Naomi - Northsix, Brooklyn NY, USA'
 name: 2002-10-09-damon-naomi-northsix-brooklyn-ny-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Northsix, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2002-10-09

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2003-06-25: Dean and Britta - TT the Bears, Cambridge MA, USA'
+title: '2003-06-25: Dean & Britta - TT the Bears, Cambridge MA, USA'
 name: 2003-06-25-dean-britta-tt-the-bears-cambridge-ma-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'TT the Bears, Cambridge MA, USA'
 show-setlist: 
 show-date: 2003-06-25

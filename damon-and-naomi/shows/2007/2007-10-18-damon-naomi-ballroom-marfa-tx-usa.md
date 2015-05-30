@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-10-18: Damon and Naomi - Ballroom, Marfa TX, USA'
+title: '2007-10-18: Damon & Naomi - Ballroom, Marfa TX, USA'
 name: 2007-10-18-damon-naomi-ballroom-marfa-tx-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Ballroom, Marfa TX, USA'
 show-setlist: 
 show-date: 2007-10-18

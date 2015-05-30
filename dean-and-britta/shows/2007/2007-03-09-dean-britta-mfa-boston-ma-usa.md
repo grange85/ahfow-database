@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-03-09: Dean and Britta - MFA, Boston MA, USA'
+title: '2007-03-09: Dean & Britta - MFA, Boston MA, USA'
 name: 2007-03-09-dean-britta-mfa-boston-ma-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'MFA, Boston MA, USA'
 show-setlist: [
   "Singer Sing",

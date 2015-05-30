@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-12-04: Dean and Britta - Silbergold, Frankfurt, Germany'
+title: '2007-12-04: Dean & Britta - Silbergold, Frankfurt, Germany'
 name: 2007-12-04-dean-britta-silbergold-frankfurt-germany
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Silbergold, Frankfurt, Germany'
 show-setlist: 
 show-date: 2007-12-04

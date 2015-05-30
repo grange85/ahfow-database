@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-10-16: Damon and Naomi - Brickhouse, Phoenix AZ, USA'
+title: '2007-10-16: Damon & Naomi - Brickhouse, Phoenix AZ, USA'
 name: 2007-10-16-damon-naomi-brickhouse-phoenix-az-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Brickhouse, Phoenix AZ, USA'
 show-setlist: 
 show-date: 2007-10-16

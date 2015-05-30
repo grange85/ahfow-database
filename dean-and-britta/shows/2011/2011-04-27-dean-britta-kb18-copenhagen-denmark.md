@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-04-27: Dean and Britta - KB18, Copenhagen, Denmark'
+title: '2011-04-27: Dean & Britta - KB18, Copenhagen, Denmark'
 name: 2011-04-27-dean-britta-kb18-copenhagen-denmark
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'KB18, Copenhagen, Denmark'
 show-setlist: 
 show-date: 2011-04-27

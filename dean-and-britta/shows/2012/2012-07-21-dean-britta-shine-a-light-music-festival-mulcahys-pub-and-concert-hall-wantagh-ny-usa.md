@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2012-07-21: Dean and Britta - Shine a Light Music Festival, Mulcahys Pub and Concert Hall Wantagh, NY, USA"
+title: "2012-07-21: Dean & Britta - Shine a Light Music Festival, Mulcahys Pub and Concert Hall Wantagh, NY, USA"
 name: 2012-07-21-dean-britta-shine-a-light-music-festival-mulcahys-pub-and-concert-hall-wantagh-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: "Shine a Light Music Festival, Mulcahys Pub and Concert Hall Wantagh, NY, USA"
 show-setlist: [
   "Flowers",
@@ -31,4 +31,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Sean Eden joined Dean and Britta for a number of Luna and Galaxie 500 songs
+Sean Eden joined Dean & Britta for a number of Luna and Galaxie 500 songs

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-07: Damon and Naomi - (tba), Prague, Czech Republic'
+title: '2007-11-07: Damon & Naomi - (tba), Prague, Czech Republic'
 name: 2007-11-07-damon-naomi-tba-prague-czech-republic
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: '(tba), Prague, Czech Republic'
 show-setlist: 
 show-date: 2007-11-07

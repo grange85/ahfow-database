@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-12-08: Dean and Britta - The Garage, London, UK'
+title: '2010-12-08: Dean & Britta - The Garage, London, UK'
 name: 2010-12-08-dean-britta-the-garage-london-uk
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Garage, London, UK'
 show-setlist: 
 show-date: 2010-12-08

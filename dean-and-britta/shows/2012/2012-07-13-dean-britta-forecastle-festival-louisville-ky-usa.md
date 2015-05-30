@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2012-07-13: Dean and Britta - Forecastle Festival, Louisville, KY, USA'
+title: '2012-07-13: Dean & Britta - Forecastle Festival, Louisville, KY, USA'
 name: 2012-07-13-dean-britta-forecastle-festival-louisville-ky-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Forecastle Festival, Louisville, KY, USA'
 show-setlist: 
 show-date: 2012-07-13

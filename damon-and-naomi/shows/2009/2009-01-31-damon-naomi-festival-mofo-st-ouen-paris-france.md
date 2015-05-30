@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2009-01-31: Damon and Naomi - Festival MoFo, St-Ouen, Paris, France"
+title: "2009-01-31: Damon & Naomi - Festival MoFo, St-Ouen, Paris, France"
 name: 2009-01-31-damon-naomi-festival-mofo-st-ouen-paris-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: "Festival MoFo, St-Ouen, Paris, France"
 show-setlist: 
 show-date: 2009-01-31

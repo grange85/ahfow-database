@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-03-28: Dean and Britta - Mass MoCA, North Adams, MA, USA'
+title: '2009-03-28: Dean & Britta - Mass MoCA, North Adams, MA, USA'
 name: 2009-03-28-dean-britta-mass-moca-north-adams-ma-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Mass MoCA, North Adams, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",

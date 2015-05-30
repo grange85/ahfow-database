@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-10-19: Damon and Naomi - City Lights Book Store, San Francisco CA, USA'
+title: '2004-10-19: Damon & Naomi - City Lights Book Store, San Francisco CA, USA'
 name: 2004-10-19-damon-naomi-city-lights-book-store-san-francisco-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'City Lights Book Store, San Francisco CA, USA'
 show-setlist: 
 show-date: 2004-10-19

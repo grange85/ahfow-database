@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2012-10-04: Dean and Britta - Culture Collide Festival, Echo Park Methodist Church, Los Angeles, CA, USA'
+title: '2012-10-04: Dean & Britta - Culture Collide Festival, Echo Park Methodist Church, Los Angeles, CA, USA'
 name: 2012-10-04-dean-britta-culture-collide-festival-echo-park-methodist-church-los-angeles-ca-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Culture Collide Festival, Echo Park Methodist Church, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2012-10-04

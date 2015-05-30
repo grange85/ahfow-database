@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-17: Damon and Naomi - Passos Manuel, Porto, Portugal'
+title: '2009-01-17: Damon & Naomi - Passos Manuel, Porto, Portugal'
 name: 2009-01-17-damon-naomi-passos-manuel-porto-portugal
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Passos Manuel, Porto, Portugal'
 show-setlist: 
 show-date: 2009-01-17

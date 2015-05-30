@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2000-10-19: Damon and Naomi - Tin Angel, Philadelphia PA, USA'
+title: '2000-10-19: Damon & Naomi - Tin Angel, Philadelphia PA, USA'
 name: 2000-10-19-damon-naomi-tin-angel-philadelphia-pa-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Tin Angel, Philadelphia PA, USA'
 show-setlist: [
   "I Dreamed of the Caucasus",

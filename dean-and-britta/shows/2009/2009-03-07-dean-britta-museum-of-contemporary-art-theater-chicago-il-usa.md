@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-03-07: Dean and Britta - Museum of Contemporary Art Theater, Chicago IL, USA'
+title: '2009-03-07: Dean & Britta - Museum of Contemporary Art Theater, Chicago IL, USA'
 name: 2009-03-07-dean-britta-museum-of-contemporary-art-theater-chicago-il-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Museum of Contemporary Art Theater, Chicago IL, USA'
 show-setlist: 
 show-date: 2009-03-07

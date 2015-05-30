@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-04-15: Dean and Britta - SESC Pompéia, Sao Paulo, Brazil'
+title: '2011-04-15: Dean & Britta - SESC Pompéia, Sao Paulo, Brazil'
 name: 2011-04-15-dean-britta-sesc-pompia-sao-paulo-brazil
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'SESC Pompéia, Sao Paulo, Brazil'
 show-setlist: 
 show-date: 2011-04-15

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-09-01: Damon and Naomi - Bumbershoot, Seattle WA, USA'
+title: '2001-09-01: Damon & Naomi - Bumbershoot, Seattle WA, USA'
 name: 2001-09-01-damon-naomi-bumbershoot-seattle-wa-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Bumbershoot, Seattle WA, USA'
 show-setlist: 
 show-date: 2001-09-01

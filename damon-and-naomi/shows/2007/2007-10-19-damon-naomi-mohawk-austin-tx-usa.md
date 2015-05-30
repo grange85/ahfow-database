@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-10-19: Damon and Naomi - Mohawk, Austin TX, USA'
+title: '2007-10-19: Damon & Naomi - Mohawk, Austin TX, USA'
 name: 2007-10-19-damon-naomi-mohawk-austin-tx-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Mohawk, Austin TX, USA'
 show-setlist: 
 show-date: 2007-10-19

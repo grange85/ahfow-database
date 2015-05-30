@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-03-21: Damon and Naomi - La Limonaia, Fucecchio, Firenze, Italy'
+title: '2009-03-21: Damon & Naomi - La Limonaia, Fucecchio, Firenze, Italy'
 name: 2009-03-21-damon-naomi-la-limonaia-fucecchio-firenze-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'La Limonaia, Fucecchio, Firenze, Italy'
 show-setlist: 
 show-date: 2009-03-21

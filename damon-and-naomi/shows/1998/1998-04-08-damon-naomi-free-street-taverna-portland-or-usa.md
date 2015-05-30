@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '1998-04-08: Damon and Naomi - Free Street Taverna, Portland OR, USA'
+title: '1998-04-08: Damon & Naomi - Free Street Taverna, Portland OR, USA'
 name: 1998-04-08-damon-naomi-free-street-taverna-portland-or-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Free Street Taverna, Portland OR, USA'
 show-setlist: 
 show-date: 1998-04-08

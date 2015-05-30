@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Damon and Naomi biography
+title : Damon & Naomi biography
 categories: primary
 ---
 

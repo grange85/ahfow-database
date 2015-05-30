@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-11-22: Damon and Naomi - Middle East, Cambridge MA, USA'
+title: '2004-11-22: Damon & Naomi - Middle East, Cambridge MA, USA'
 name: 2004-11-22-damon-naomi-middle-east-cambridge-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: 
 show-date: 2004-11-22

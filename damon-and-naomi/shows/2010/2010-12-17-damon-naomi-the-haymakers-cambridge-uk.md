@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-12-17: Damon and Naomi - The Haymakers, Cambridge, UK '
+title: '2010-12-17: Damon & Naomi - The Haymakers, Cambridge, UK '
 name: 2010-12-17-damon-naomi-the-haymakers-cambridge-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Haymakers, Cambridge, UK '
 show-setlist: 
 show-date: 2010-12-17

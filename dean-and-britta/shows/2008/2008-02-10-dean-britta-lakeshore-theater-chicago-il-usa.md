@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-02-10: Dean and Britta - Lakeshore Theater, Chicago IL, USA'
+title: '2008-02-10: Dean & Britta - Lakeshore Theater, Chicago IL, USA'
 name: 2008-02-10-dean-britta-lakeshore-theater-chicago-il-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Lakeshore Theater, Chicago IL, USA'
 show-setlist: [
   "We're Not Supposed to Be Lovers",

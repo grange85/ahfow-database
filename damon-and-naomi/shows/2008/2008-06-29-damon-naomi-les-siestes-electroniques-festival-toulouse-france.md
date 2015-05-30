@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-06-29: Damon and Naomi - Les Siestes Electroniques Festival, Toulouse, France'
+title: '2008-06-29: Damon & Naomi - Les Siestes Electroniques Festival, Toulouse, France'
 name: 2008-06-29-damon-naomi-les-siestes-electroniques-festival-toulouse-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Les Siestes Electroniques Festival, Toulouse, France'
 show-setlist: 
 show-date: 2008-06-29

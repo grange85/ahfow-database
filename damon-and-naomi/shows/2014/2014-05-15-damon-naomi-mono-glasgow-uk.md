@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2014-05-15: Damon and Naomi - Mono, Glasgow, UK'
+title: '2014-05-15: Damon & Naomi - Mono, Glasgow, UK'
 name: 2014-05-15-damon-naomi-mono-glasgow-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Mono, Glasgow, UK'
 show-setlist: 
 show-date: 2014-05-15
@@ -16,4 +16,4 @@ show-ticket-url: 'http://www.ticketweb.co.uk/event/118465'
 show-venue-website: 'http://www.monocafebar.com/events/mono-presents-damon-naomi-plus-special-guests/'
 show-additional: 
 ---
-Showing of Naomi Yangs silent film Fortune with live accompaniment by Damon and Naomi
+Showing of Naomi Yangs silent film Fortune with live accompaniment by Damon & Naomi

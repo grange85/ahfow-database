@@ -22,6 +22,7 @@ releases:
     format: LP
     label: Melody Majer / Rough Trade
     catno: MM RT CD002
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
     mbid: 
     discogs: 
     release_notes:
@@ -41,6 +42,7 @@ releases:
     label: Melody Majer / Rough Trade
     catno: MM RT CD002
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
     discogs: 
     release_notes:
     groups:

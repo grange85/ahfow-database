@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2002-08-29: Damon and Naomi - Era SÃƒÂ³ O Que Faltava, Curtiba, Brazil'
+title: '2002-08-29: Damon & Naomi - Era SÃƒÂ³ O Que Faltava, Curtiba, Brazil'
 name: 2002-08-29-damon-naomi-era-s-o-que-faltava-curtiba-brazil
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Era SÃƒÂ³ O Que Faltava, Curtiba, Brazil'
 show-setlist: 
 show-date: 2002-08-29

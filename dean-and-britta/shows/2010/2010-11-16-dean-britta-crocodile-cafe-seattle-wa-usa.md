@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-11-16: Dean and Britta - Crocodile Cafe, Seattle, WA, USA'
+title: '2010-11-16: Dean & Britta - Crocodile Cafe, Seattle, WA, USA'
 name: 2010-11-16-dean-britta-crocodile-cafe-seattle-wa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Crocodile Cafe, Seattle, WA, USA'
 show-setlist: 
 show-date: 2010-11-16

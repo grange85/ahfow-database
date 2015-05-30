@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-10: Dean and Britta - Loco Club, Valencia, Spain'
+title: '2007-06-10: Dean & Britta - Loco Club, Valencia, Spain'
 name: 2007-06-10-dean-britta-loco-club-valencia-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Loco Club, Valencia, Spain'
 show-setlist: [
   "Words You Used To Say",

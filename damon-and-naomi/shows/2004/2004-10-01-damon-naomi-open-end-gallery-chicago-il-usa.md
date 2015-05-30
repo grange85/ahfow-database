@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-10-01: Damon and Naomi - Open End Gallery, Chicago IL, USA'
+title: '2004-10-01: Damon & Naomi - Open End Gallery, Chicago IL, USA'
 name: 2004-10-01-damon-naomi-open-end-gallery-chicago-il-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Open End Gallery, Chicago IL, USA'
 show-setlist: 
 show-date: 2004-10-01

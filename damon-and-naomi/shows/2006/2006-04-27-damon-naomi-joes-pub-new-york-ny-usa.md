@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2006-04-27: Damon and Naomi - Joes Pub, New York NY, USA"
+title: "2006-04-27: Damon & Naomi - Joes Pub, New York NY, USA"
 name: 2006-04-27-damon-naomi-joes-pub-new-york-ny-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: "Joes Pub, New York NY, USA"
 show-setlist: 
 show-date: 2006-04-27

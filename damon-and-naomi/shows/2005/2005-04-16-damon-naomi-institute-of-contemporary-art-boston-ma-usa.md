@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-04-16: Damon and Naomi - Institute of Contemporary Art, Boston MA, USA'
+title: '2005-04-16: Damon & Naomi - Institute of Contemporary Art, Boston MA, USA'
 name: 2005-04-16-damon-naomi-institute-of-contemporary-art-boston-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Institute of Contemporary Art, Boston MA, USA'
 show-setlist: 
 show-date: 2005-04-16

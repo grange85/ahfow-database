@@ -24,6 +24,7 @@ releases:
     release_notes: Limited edition of 500
     label: Plexifilm
     catno: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
     groups:
       - group: A
         tracks:

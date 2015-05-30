@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-05-23: Damon and Naomi - Great Scott, Boston, MA, USA'
+title: '2011-05-23: Damon & Naomi - Great Scott, Boston, MA, USA'
 name: 2011-05-23-damon-naomi-great-scott-boston-ma-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Great Scott, Boston, MA, USA'
 show-setlist: 
 show-date: 2011-05-23

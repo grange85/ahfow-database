@@ -2,7 +2,7 @@
 layout: show
 title: '2002-02-16: Luna - Brooklyn Museum, Brooklyn NY, USA (second set)'
 name: 2002-02-16-luna-brooklyn-museum-brooklyn-ny-usa-2
-artist-name: 'Damon and Naomi'
+artist-name: Luna
 show-venue: 'Brooklyn Museum, Brooklyn NY, USA'
 show-setlist: [
   "Bewitched",

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '1998-11-02: Damon and Naomi - Knust, Hamburg, Germany'
+title: '1998-11-02: Damon & Naomi - Knust, Hamburg, Germany'
 name: 1998-11-02-damon-naomi-knust-hamburg-germany
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Knust, Hamburg, Germany'
 show-setlist: 
 show-date: 1998-11-02

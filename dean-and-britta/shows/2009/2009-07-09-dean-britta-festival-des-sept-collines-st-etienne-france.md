@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-07-09: Dean and Britta - Festival des Sept Collines. St Etienne, France'
+title: '2009-07-09: Dean & Britta - Festival des Sept Collines. St Etienne, France'
 name: 2009-07-09-dean-britta-festival-des-sept-collines-st-etienne-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Festival des Sept Collines. St Etienne, France'
 show-setlist: 
 show-date: 2009-07-09

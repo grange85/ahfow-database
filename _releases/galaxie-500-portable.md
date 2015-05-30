@@ -19,6 +19,7 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD 10445
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_portable.jpg
     mbid: 
     discogs: http://www.discogs.com/Galaxie-500-Galaxie-500/release/495238
     release_notes:

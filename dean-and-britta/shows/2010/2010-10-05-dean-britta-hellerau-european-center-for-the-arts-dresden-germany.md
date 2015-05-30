@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-10-05: Dean and Britta - Hellerau - European Center for the Arts, Dresden, Germany'
+title: '2010-10-05: Dean & Britta - Hellerau - European Center for the Arts, Dresden, Germany'
 name: 2010-10-05-dean-britta-hellerau-european-center-for-the-arts-dresden-germany
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Hellerau - European Center for the Arts, Dresden, Germany'
 show-setlist: 
 show-date: 2010-10-05

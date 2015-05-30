@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-04-27: Damon and Naomi - 12 Galaxies, San Francisco CA, USA'
+title: '2005-04-27: Damon & Naomi - 12 Galaxies, San Francisco CA, USA'
 name: 2005-04-27-damon-naomi-12-galaxies-san-francisco-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: '12 Galaxies, San Francisco CA, USA'
 show-setlist: 
 show-date: 2005-04-27

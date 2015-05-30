@@ -23,6 +23,7 @@ releases:
     format: CD
     label: Rykodisc
     catno: VACK 1118
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_meltaway.jpg
     mbid: 
     discogs: 
     release_notes:

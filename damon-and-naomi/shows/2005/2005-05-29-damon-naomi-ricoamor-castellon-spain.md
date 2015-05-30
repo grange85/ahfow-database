@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-29: Damon and Naomi - Ricoamor, Castellon, Spain'
+title: '2005-05-29: Damon & Naomi - Ricoamor, Castellon, Spain'
 name: 2005-05-29-damon-naomi-ricoamor-castellon-spain
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Ricoamor, Castellon, Spain'
 show-setlist: 
 show-date: 2005-05-29

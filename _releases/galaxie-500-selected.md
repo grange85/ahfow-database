@@ -23,6 +23,7 @@ releases:
     format: CD
     label: Rykodisc
     catno: VRCD 0355
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
     mbid: 
     discogs: 
     release_notes:

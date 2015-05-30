@@ -11,4 +11,4 @@ track-author:
 track-sort: "ANN BUCHANAN"
 track-original: 
 ---
-A version of the Dean and Britta track Singer Sing
+A version of the Dean & Britta track Singer Sing

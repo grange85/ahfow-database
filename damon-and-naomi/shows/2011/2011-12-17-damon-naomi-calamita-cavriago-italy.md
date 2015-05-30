@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-12-17: Damon and Naomi - Calamita, Cavriago, Italy'
+title: '2011-12-17: Damon & Naomi - Calamita, Cavriago, Italy'
 name: 2011-12-17-damon-naomi-calamita-cavriago-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Calamita, Cavriago, Italy'
 show-setlist: 
 show-date: 2011-12-17

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2003-10-18: Dean and Britta - Sin-e, New York NY, USA'
+title: '2003-10-18: Dean & Britta - Sin-e, New York NY, USA'
 name: 2003-10-18-dean-britta-sin-e-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Sin-e, New York NY, USA'
 show-setlist: 
 show-date: 2003-10-18

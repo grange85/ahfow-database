@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-10-05: Damon and Naomi - Warehouse Theater, Washington DC, USA'
+title: '2004-10-05: Damon & Naomi - Warehouse Theater, Washington DC, USA'
 name: 2004-10-05-damon-naomi-warehouse-theater-washington-dc-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Warehouse Theater, Washington DC, USA'
 show-setlist: 
 show-date: 2004-10-05

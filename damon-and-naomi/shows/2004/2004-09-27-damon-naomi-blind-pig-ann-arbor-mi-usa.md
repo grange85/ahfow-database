@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2004-09-27: Damon and Naomi - Blind Pig, Ann Arbor MI, USA'
+title: '2004-09-27: Damon & Naomi - Blind Pig, Ann Arbor MI, USA'
 name: 2004-09-27-damon-naomi-blind-pig-ann-arbor-mi-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Blind Pig, Ann Arbor MI, USA'
 show-setlist: 
 show-date: 2004-09-27

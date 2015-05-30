@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2015-01-17: Dean and Britta – The Silver Studio, The Andy Warhol Museum, Pittsburgh, PA, USA'
+title: '2015-01-17: Dean & Britta – The Silver Studio, The Andy Warhol Museum, Pittsburgh, PA, USA'
 name: 2015-01-17-dean-britta-silver-studio-andy-warhol-museum-pittsburgh-pa-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'OZ, Nashville, TN, USA'
 show-setlist: 
 show-date: 2015-01-17

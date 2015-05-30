@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2015-04-18: Damon and Naomi - EMP Museum, Seattle, WA, USA'
+title: '2015-04-18: Damon & Naomi - EMP Museum, Seattle, WA, USA'
 name: 2015-04-18-damon-and-naomi-emp-museum-seattle-wa-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'EMP Museum, Seattle, WA, USA'
 show-setlist: 
 show-date: 2015-04-18
@@ -19,4 +19,4 @@ show-ticket-url: 'https://estore.empmuseum.org/store/contacts/popcon2015.asp?fro
 show-venue-website: 'http://www.empmuseum.org/calendar/events/pop-conference-presents-damon-naomi.aspx'
 show-additional: 
 ---
-<p>FREE (with free EMP conference registration) 12:30</p><p>Damon and Naomi present 'Fortune' with live accompaniment</p>
+<p>FREE (with free EMP conference registration) 12:30</p><p>Damon & Naomi present 'Fortune' with live accompaniment</p>

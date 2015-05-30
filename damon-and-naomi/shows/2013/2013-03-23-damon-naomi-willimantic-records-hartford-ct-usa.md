@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2013-03-23: Damon and Naomi - Willimantic Records, Hartford, CT, USA'
+title: '2013-03-23: Damon & Naomi - Willimantic Records, Hartford, CT, USA'
 name: 2013-03-23-damon-naomi-willimantic-records-hartford-ct-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Willimantic Records, Hartford, CT, USA'
 show-setlist: 
 show-date: 2013-03-23

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2012-09-22: Dean and Britta - Theatre Junction, Calgary, Canada'
+title: '2012-09-22: Dean & Britta - Theatre Junction, Calgary, Canada'
 name: 2012-09-22-dean-britta-theatre-junction-calgary-canada
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Theatre Junction, Calgary, Canada'
 show-setlist: 
 show-date: 2012-09-22

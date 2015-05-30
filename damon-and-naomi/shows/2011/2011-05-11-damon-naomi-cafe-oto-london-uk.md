@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-05-11: Damon and Naomi - Cafe Oto, London, UK'
+title: '2011-05-11: Damon & Naomi - Cafe Oto, London, UK'
 name: 2011-05-11-damon-naomi-cafe-oto-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Cafe Oto, London, UK'
 show-setlist: 
 show-date: 2011-05-11

@@ -20,6 +20,7 @@ releases:
     format: CD
     label: 20|20|20
     catno: 202020.02
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_peelsessions.jpg
     groups:
       - group: CD
         tracks:

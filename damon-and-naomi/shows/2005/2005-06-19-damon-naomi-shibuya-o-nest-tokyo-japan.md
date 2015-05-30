@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-06-19: Damon and Naomi - Shibuya O-Nest, Tokyo, Japan'
+title: '2005-06-19: Damon & Naomi - Shibuya O-Nest, Tokyo, Japan'
 name: 2005-06-19-damon-naomi-shibuya-o-nest-tokyo-japan
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Shibuya O-Nest, Tokyo, Japan'
 show-setlist: 
 show-date: 2005-06-19

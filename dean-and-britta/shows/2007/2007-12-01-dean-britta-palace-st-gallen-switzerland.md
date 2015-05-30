@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-12-01: Dean and Britta - Palace, St. Gallen, Switzerland'
+title: '2007-12-01: Dean & Britta - Palace, St. Gallen, Switzerland'
 name: 2007-12-01-dean-britta-palace-st-gallen-switzerland
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Palace, St. Gallen, Switzerland'
 show-setlist: 
 show-date: 2007-12-01

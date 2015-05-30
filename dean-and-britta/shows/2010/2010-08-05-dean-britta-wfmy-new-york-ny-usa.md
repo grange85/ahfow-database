@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-08-05: Dean and Britta - WFMY, New York, NY, USA'
+title: '2010-08-05: Dean & Britta - WFMY, New York, NY, USA'
 name: 2010-08-05-dean-britta-wfmy-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'WFMY, New York, NY, USA'
 show-setlist: 
 show-date: 2010-08-05

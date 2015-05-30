@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2008-12-04: Dean and Britta - Bearsville Theater, Woodstock, NY, USA'
+title: '2008-12-04: Dean & Britta - Bearsville Theater, Woodstock, NY, USA'
 name: 2008-12-04-dean-britta-bearsville-theater-woodstock-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Bearsville Theater, Woodstock, NY, USA'
 show-setlist: 
 show-date: 2008-12-04

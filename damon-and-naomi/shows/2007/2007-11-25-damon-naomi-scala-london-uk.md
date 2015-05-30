@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-25: Damon and Naomi - Scala, London, UK'
+title: '2007-11-25: Damon & Naomi - Scala, London, UK'
 name: 2007-11-25-damon-naomi-scala-london-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Scala, London, UK'
 show-setlist: 
 show-date: 2007-11-25

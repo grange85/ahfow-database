@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-25: Damon and Naomi - Cafe de la Palma, Madrid, Spain'
+title: '2005-05-25: Damon & Naomi - Cafe de la Palma, Madrid, Spain'
 name: 2005-05-25-damon-naomi-cafe-de-la-palma-madrid-spain
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Cafe de la Palma, Madrid, Spain'
 show-setlist: 
 show-date: 2005-05-25

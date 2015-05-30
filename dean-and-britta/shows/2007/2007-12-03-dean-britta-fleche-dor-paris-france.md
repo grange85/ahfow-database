@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "2007-12-03: Dean and Britta - Fleche D'Or, Paris, France"
+title: "2007-12-03: Dean & Britta - Fleche D'Or, Paris, France"
 name: 2007-12-03-dean-britta-fleche-dor-paris-france
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: "Fleche D'Or, Paris, France"
 show-setlist: 
 show-date: 2007-12-03

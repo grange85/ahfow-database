@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-24: Dean and Britta - Apparatet, Copenhagen, Denmark'
+title: '2007-11-24: Dean & Britta - Apparatet, Copenhagen, Denmark'
 name: 2007-11-24-dean-britta-apparatet-copenhagen-denmark
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Apparatet, Copenhagen, Denmark'
 show-setlist: [
   "Night Nurse",

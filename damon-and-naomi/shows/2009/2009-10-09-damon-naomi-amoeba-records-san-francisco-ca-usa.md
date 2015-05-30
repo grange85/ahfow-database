@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-10-09: Damon and Naomi - Amoeba Records, San Francisco, CA, USA'
+title: '2009-10-09: Damon & Naomi - Amoeba Records, San Francisco, CA, USA'
 name: 2009-10-09-damon-naomi-amoeba-records-san-francisco-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Amoeba Records, San Francisco, CA, USA'
 show-setlist: 
 show-date: 2009-10-09

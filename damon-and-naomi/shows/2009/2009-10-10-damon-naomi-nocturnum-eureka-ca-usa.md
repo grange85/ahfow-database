@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-10-10: Damon and Naomi - Nocturnum, Eureka, CA, USA'
+title: '2009-10-10: Damon & Naomi - Nocturnum, Eureka, CA, USA'
 name: 2009-10-10-damon-naomi-nocturnum-eureka-ca-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Nocturnum, Eureka, CA, USA'
 show-setlist: 
 show-date: 2009-10-10

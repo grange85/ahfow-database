@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-02-26: Dean and Britta - Teatro Lloseta, Palma De Mallorca, Spain'
+title: '2011-02-26: Dean & Britta - Teatro Lloseta, Palma De Mallorca, Spain'
 name: 2011-02-26-dean-britta-teatro-lloseta-palma-de-mallorca-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Teatro Lloseta, Palma De Mallorca, Spain'
 show-setlist: 
 show-date: 2011-02-26

@@ -4,10 +4,10 @@ permalink: /damon-and-naomi/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-title: Damon and Naomi - More Sad Hits
+title: Damon & Naomi - More Sad Hits
 initial_release_date: 1992
 albumname: More Sad Hits
-artist: Damon and Naomi
+artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
 notes: |
   Produced, arranged, and engineered by Kramer at Noise New Jersey Summer 1992
@@ -21,6 +21,7 @@ releases:
     label: Shimmy Disc
     catno: SHIMMY 058
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:
@@ -73,6 +74,7 @@ releases:
     label: Shimmy Disc
     catno: SHIMMY 058
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:
@@ -125,6 +127,7 @@ releases:
     label: Sub Pop
     catno: SPCD 385
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:
@@ -175,6 +178,7 @@ releases:
     label: Rykodisc
     catno: RCD 10439
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:
@@ -225,6 +229,7 @@ releases:
     label: 20|20|20
     catno: 202020.06LP
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:
@@ -277,6 +282,7 @@ releases:
     label: 20|20|20
     catno: 202020.06
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
     discogs: 
     release_notes:
     groups:

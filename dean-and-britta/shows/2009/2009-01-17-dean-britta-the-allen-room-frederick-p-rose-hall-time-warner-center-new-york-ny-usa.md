@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-01-17: Dean and Britta - The Allen Room, Frederick P. Rose Hall, Time Warner Center, New York, NY, USA'
+title: '2009-01-17: Dean & Britta - The Allen Room, Frederick P. Rose Hall, Time Warner Center, New York, NY, USA'
 name: 2009-01-17-dean-britta-the-allen-room-frederick-p-rose-hall-time-warner-center-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'The Allen Room, Frederick P. Rose Hall, Time Warner Center, New York, NY, USA'
 show-setlist: [
   "Richard Rheem Theme",

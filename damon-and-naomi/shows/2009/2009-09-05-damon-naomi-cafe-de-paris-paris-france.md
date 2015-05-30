@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-09-05: Damon and Naomi - Cafe de Paris, Paris, France'
+title: '2009-09-05: Damon & Naomi - Cafe de Paris, Paris, France'
 name: 2009-09-05-damon-naomi-cafe-de-paris-paris-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Cafe de Paris, Paris, France'
 show-setlist: 
 show-date: 2009-09-05
@@ -17,4 +17,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Out of the Blue Presents: DAMON AND NAOMI (USA), Heligoland (acoustic) (FR/AUS)
+Out of the Blue Presents: Damon & Naomi (USA), Heligoland (acoustic) (FR/AUS)

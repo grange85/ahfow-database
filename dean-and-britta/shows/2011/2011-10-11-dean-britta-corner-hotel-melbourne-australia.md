@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-10-11: Dean and Britta - Corner Hotel, Melbourne, Australia'
+title: '2011-10-11: Dean & Britta - Corner Hotel, Melbourne, Australia'
 name: 2011-10-11-dean-britta-corner-hotel-melbourne-australia
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Corner Hotel, Melbourne, Australia'
 show-setlist: 
 show-date: 2011-10-11

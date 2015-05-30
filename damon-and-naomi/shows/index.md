@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Damon and Naomi shows
+title : Damon & Naomi shows
 categories: primary
 ---
 

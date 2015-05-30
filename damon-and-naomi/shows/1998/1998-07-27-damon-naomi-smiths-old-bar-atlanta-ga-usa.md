@@ -1,8 +1,8 @@
 ---
 layout: show
-title: "1998-07-27: Damon and Naomi - Smiths Old Bar, Atlanta GA, USA"
+title: "1998-07-27: Damon & Naomi - Smiths Old Bar, Atlanta GA, USA"
 name: 1998-07-27-damon-naomi-smiths-old-bar-atlanta-ga-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: "Smiths Old Bar, Atlanta GA, USA"
 show-setlist: 
 show-date: 1998-07-27

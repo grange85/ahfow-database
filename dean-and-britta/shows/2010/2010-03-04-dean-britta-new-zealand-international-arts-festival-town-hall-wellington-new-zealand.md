@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-03-04: Dean and Britta - New Zealand International Arts Festival, Town Hall, Wellington, New Zealand'
+title: '2010-03-04: Dean & Britta - New Zealand International Arts Festival, Town Hall, Wellington, New Zealand'
 name: 2010-03-04-dean-britta-new-zealand-international-arts-festival-town-hall-wellington-new-zealand
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'New Zealand International Arts Festival, Town Hall, Wellington, New Zealand'
 show-setlist: 
 show-date: 2010-03-04

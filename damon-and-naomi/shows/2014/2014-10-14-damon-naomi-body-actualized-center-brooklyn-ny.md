@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2014-10-14: Damon and Naomi - The Body Actualized Center, Brooklyn, NY'
+title: '2014-10-14: Damon & Naomi - The Body Actualized Center, Brooklyn, NY'
 name: 2014-10-14-damon-naomi-body-actualized-center-brooklyn-ny
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'The Body Actualized Center, Brooklyn, NY'
 show-setlist: 
 show-date: 2014-10-14

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-12-31: Dean and Britta - Southpaw, Brooklyn, NY, USA'
+title: '2009-12-31: Dean & Britta - Southpaw, Brooklyn, NY, USA'
 name: 2009-12-31-dean-britta-southpaw-brooklyn-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Southpaw, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2009-12-31

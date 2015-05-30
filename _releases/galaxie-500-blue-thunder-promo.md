@@ -21,6 +21,7 @@ releases:
     label: Rough Trade
     catno: G5SF1
     mbid: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
     discogs: 
     release_notes:
     groups:

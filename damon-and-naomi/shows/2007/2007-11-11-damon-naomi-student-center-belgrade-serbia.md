@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-11: Damon and Naomi - Student Center, Belgrade, Serbia'
+title: '2007-11-11: Damon & Naomi - Student Center, Belgrade, Serbia'
 name: 2007-11-11-damon-naomi-student-center-belgrade-serbia
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Student Center, Belgrade, Serbia'
 show-setlist: 
 show-date: 2007-11-11

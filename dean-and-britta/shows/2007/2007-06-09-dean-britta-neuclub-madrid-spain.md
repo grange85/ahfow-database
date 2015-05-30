@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-06-09: Dean and Britta - Neu!Club, Madrid, Spain'
+title: '2007-06-09: Dean & Britta - Neu!Club, Madrid, Spain'
 name: 2007-06-09-dean-britta-neuclub-madrid-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Neu!Club, Madrid, Spain'
 show-setlist: 
 show-date: 2007-06-09

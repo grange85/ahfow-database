@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2009-09-25: Dean and Britta - Cornell Cinema, Ithaca, NY, USA'
+title: '2009-09-25: Dean & Britta - Cornell Cinema, Ithaca, NY, USA'
 name: 2009-09-25-dean-britta-cornell-cinema-ithaca-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Cornell Cinema, Ithaca, NY, USA'
 show-setlist: 
 show-date: 2009-09-25

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-12-06: Damon and Naomi - Sonic, Lyon, France'
+title: '2010-12-06: Damon & Naomi - Sonic, Lyon, France'
 name: 2010-12-06-damon-naomi-sonic-lyon-france
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Sonic, Lyon, France'
 show-setlist: 
 show-date: 2010-12-06

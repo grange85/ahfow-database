@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2010-10-20: Dean and Britta - Ace Hotel, New York, NY, USA'
+title: '2010-10-20: Dean & Britta - Ace Hotel, New York, NY, USA'
 name: 2010-10-20-dean-britta-ace-hotel-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Ace Hotel, New York, NY, USA'
 show-setlist: [
   "I'll Keep It With Mine",

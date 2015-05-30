@@ -22,6 +22,7 @@ releases:
     format: cassette
     label: 
     catno: 
+    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
     mbid: 
     discogs: 
     release_notes:
@@ -43,6 +44,7 @@ releases:
     label: 
     catno: 
     mbid: 
+    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
     discogs: 
     release_notes: |
       At the same time that Galaxie 500 started hawking round their first demo cassette they released a small number of copies of the cassette with four extra tracks on. The tracks were not listed on the sleeve and have not seen the light of day since (they didn't make it onto the box set).

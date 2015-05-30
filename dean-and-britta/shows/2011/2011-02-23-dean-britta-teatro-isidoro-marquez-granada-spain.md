@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2011-02-23: Dean and Britta - Teatro Isidoro Marquez, Granada, Spain'
+title: '2011-02-23: Dean & Britta - Teatro Isidoro Marquez, Granada, Spain'
 name: 2011-02-23-dean-britta-teatro-isidoro-marquez-granada-spain
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Teatro Isidoro Marquez, Granada, Spain'
 show-setlist: 
 show-date: 2011-02-23

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-05-22: Damon and Naomi - Live Theatre, Newcastle, UK'
+title: '2005-05-22: Damon & Naomi - Live Theatre, Newcastle, UK'
 name: 2005-05-22-damon-naomi-live-theatre-newcastle-uk
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Live Theatre, Newcastle, UK'
 show-setlist: 
 show-date: 2005-05-22

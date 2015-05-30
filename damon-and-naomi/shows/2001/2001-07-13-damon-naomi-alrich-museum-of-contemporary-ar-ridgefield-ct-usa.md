@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2001-07-13: Damon and Naomi - Alrich Museum of Contemporary Ar, Ridgefield CT, USA'
+title: '2001-07-13: Damon & Naomi - Alrich Museum of Contemporary Ar, Ridgefield CT, USA'
 name: 2001-07-13-damon-naomi-alrich-museum-of-contemporary-ar-ridgefield-ct-usa
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Alrich Museum of Contemporary Ar, Ridgefield CT, USA'
 show-setlist: 
 show-date: 2001-07-13

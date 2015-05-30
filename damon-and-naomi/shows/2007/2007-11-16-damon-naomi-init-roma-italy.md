@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-11-16: Damon and Naomi - Init, Roma, Italy'
+title: '2007-11-16: Damon & Naomi - Init, Roma, Italy'
 name: 2007-11-16-damon-naomi-init-roma-italy
-artist-name: 'Damon and Naomi'
+artist-name: 'Damon & Naomi'
 show-venue: 'Init, Roma, Italy'
 show-setlist: 
 show-date: 2007-11-16

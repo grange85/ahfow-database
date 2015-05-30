@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Dean and Britta shows
+title : Dean & Britta shows
 categories: primary
 ---
 

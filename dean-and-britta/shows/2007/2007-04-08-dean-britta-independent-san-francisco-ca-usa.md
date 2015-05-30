@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2007-04-08: Dean and Britta - Independent, San Francisco CA, USA'
+title: '2007-04-08: Dean & Britta - Independent, San Francisco CA, USA'
 name: 2007-04-08-dean-britta-independent-san-francisco-ca-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Independent, San Francisco CA, USA'
 show-setlist: 
 show-date: 2007-04-08

@@ -1,8 +1,8 @@
 ---
 layout: show
-title: '2005-12-08: Dean and Britta - Paula Cooper Gallery, New York NY, USA'
+title: '2005-12-08: Dean & Britta - Paula Cooper Gallery, New York NY, USA'
 name: 2005-12-08-dean-britta-paula-cooper-gallery-new-york-ny-usa
-artist-name: 'Dean and Britta'
+artist-name: 'Dean & Britta'
 show-venue: 'Paula Cooper Gallery, New York NY, USA'
 show-setlist: [
   "Swedish Fish",
@@ -22,4 +22,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Benefit for arts magazine Open City. Dean and Britta will be playing a short set (4 songs) and tickets are from $75!
+Benefit for arts magazine Open City. Dean & Britta will be playing a short set (4 songs) and tickets are from $75!
