@@ -9,13 +9,6 @@ initial_release_date: 1998
 albumname: Playback Singers
 artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
-notes: |
-  \"Compromising quality for the sake of nostalgia\"
-  All instruments and vocals by Damon Krukowski and Naomi Yang
-  Recorded at home, 1996-7
-  Design by Naomi Yang
-  Photographs of instruments by James Watts
-  Photograph of Damon & Naomi by David Corio
 releases:
   - release: 
     version: rykodisc-cd
@@ -144,3 +137,9 @@ releases:
          notes: 
          author: Rapp
 ---
+"Compromising quality for the sake of nostalgia"
+All instruments and vocals by Damon Krukowski and Naomi Yang
+Recorded at home, 1996-7
+Design by Naomi Yang
+Photographs of instruments by James Watts
+Photograph of Damon & Naomi by David Corio

@@ -9,9 +9,6 @@ initial_release_date: 1989
 albumname: Blue Thunder
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
-notes: |
-  Produced and Engineered by Kramer at Noise New York 1989.
-  Tenor sax on "Blue Thunder" by Ralph Carney.
 releases:
   - release: 
     version: rough-trade-single-vinyl
@@ -64,3 +61,5 @@ releases:
        - title: Cold Night
          author: Krukowski/Wareham/Yang
 ---
+Produced and Engineered by Kramer at Noise New York 1989.
+Tenor sax on "Blue Thunder" by Ralph Carney.

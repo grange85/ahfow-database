@@ -9,10 +9,6 @@ initial_release_date: 1987
 albumname: Demo cassette
 artist: Galaxie 500
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
-notes: |
-  Demo
-  Recorded at 6/8 Studios
-  Engineered by Perkins Barnes
 releases:
   - release: 
     version: demo-cassette
@@ -67,3 +63,6 @@ releases:
        - title: Well... All Right
          author: Holly/Allison/Petty/Mauldin
 ---
+Demo
+Recorded at 6/8 Studios
+Engineered by Perkins Barnes

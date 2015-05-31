@@ -11,8 +11,6 @@ albumname: Temperature's Rising / Crazy
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
 wikipedia: 
-notes: |
-  Free 7" single available with the limited edition of the book Temperature's Rising: Galaxie 500 an oral and visual history
 releases:
   - release:
     version: temperatures-rising-single
@@ -39,3 +37,4 @@ releases:
             notes: 
             author: Krukowski/Wareham/Yang
 ---
+Free 7" single available with the limited edition of the book Temperature's Rising: Galaxie 500 an oral and visual history

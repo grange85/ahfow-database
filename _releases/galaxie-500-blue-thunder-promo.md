@@ -9,8 +9,6 @@ initial_release_date: 1989
 albumname: Blue Thunder / Victory Garden
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
-notes: |
-  Split promo with Straightjacket Fits "Hail" on the b-side
 releases:
   - release: 
     version: blue-thunder-promo
@@ -32,3 +30,4 @@ releases:
        - title: Victory Garden
     - group: B - Straightjacket Fits
 ---
+Split promo with Straightjacket Fits "Hail" on the b-side

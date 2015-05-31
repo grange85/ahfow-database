@@ -9,8 +9,6 @@ initial_release_date: 1992
 albumname: More Sad Hits
 artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
-notes: |
-  Produced, arranged, and engineered by Kramer at Noise New Jersey Summer 1992
 releases:
   - release: 
     version: shimmy-disc-vinyl
@@ -325,3 +323,4 @@ releases:
          notes: 
          author: Oliver/Spyropolus/Valade
 ---
+Produced, arranged, and engineered by Kramer at Noise New Jersey Summer 1992

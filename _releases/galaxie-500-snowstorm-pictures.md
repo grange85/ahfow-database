@@ -11,9 +11,6 @@ albumname: Snowstorm / Pictures
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
 wikipedia: 
-notes: |
-  Promo 7" given away with pre-orders of the Galaxie 500 double DVD.
-  Live tracks recorded 30th March 1990 at Club Lingerie, LA.
 releases:
   - release:
     version: snowstorm-pictures-single
@@ -37,3 +34,5 @@ releases:
             notes: live
             author: Krukowski/Wareham/Yang
 ---
+Promo 7" given away with pre-orders of the Galaxie 500 double DVD.
+Live tracks recorded 30th March 1990 at Club Lingerie, LA.

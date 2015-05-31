@@ -9,11 +9,6 @@ initial_release_date: 1996
 albumname: Selected
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
-notes: |
-  All Tracks produced by Kramer except "The Other Side".
-  Remastered by Kramer and Alan Douches, May 1996.
-  For promotion only - not for sale.
-  Promo only sampler for Box Set.
 releases:
   - release: 
     version: selected-cd
@@ -70,3 +65,7 @@ releases:
          notes: 
          author: Krukowski/Wareham/Yang
 ---
+All Tracks produced by Kramer except "The Other Side".
+Remastered by Kramer and Alan Douches, May 1996.
+For promotion only - not for sale.
+Promo only sampler for Box Set.

@@ -9,9 +9,6 @@ initial_release_date: 1990
 albumname: Fourth of July
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
-notes: |
-  Produced and Engineered by Kramer at Noise New York 1990.
-  Backing Vocals and Mirage on Here She Comes Now by Kramer.
 releases:
   - release: 
     version: rough-trade-single-vinyl
@@ -54,3 +51,5 @@ releases:
        - title: Here She Comes Now
          author: Reed/Cale/Morrison/Tucker
 ---
+Produced and Engineered by Kramer at Noise New York 1990.
+Backing Vocals and Mirage on Here She Comes Now by Kramer.

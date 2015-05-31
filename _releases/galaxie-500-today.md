@@ -9,10 +9,6 @@ initial_release_date: 1988
 albumname: Today
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
-notes: |
-  Produced and engineered by Kramer at Noise New York
-  Executive Producer Marc Alghini
-  Photograph by Eugene Atget
 releases:
   - release: 
     version: aurora
@@ -153,3 +149,6 @@ releases:
        - title: Tugboat
          author: Krukowski/Wareham/Yang
 ---
+Produced and engineered by Kramer at Noise New York
+Executive Producer Marc Alghini
+Photograph by Eugene Atget

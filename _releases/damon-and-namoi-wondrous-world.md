@@ -9,9 +9,6 @@ title: Damon & Naomi - The Wondrous World of Damon & Naomi
 initial_release_date: 1995
 albumname: The Wondrous World of Damon & Naomi
 artist: Damon & Naomi
-notes: |
-  Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995
-  Electric guitar, mellotron, emulator, clarinet, tapes, bass, and backing vocals by Kramer
 releases:
   - release: 
     version: sub-pop-vinyl
@@ -213,3 +210,5 @@ releases:
          notes: 
          author: Krukowski/Yang
 ---
+Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995
+Electric guitar, mellotron, emulator, clarinet, tapes, bass, and backing vocals by Kramer

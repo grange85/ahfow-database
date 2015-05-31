@@ -9,9 +9,6 @@ initial_release_date: 1991
 albumname: Pierre &Eacute;toile
 artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
-notes: |
-  Produced by Pierre Etoile
-  Recorded at Q-Division, Boston 1991
 releases:
   - release: 
     version: rough-trade-single-vinyl
@@ -83,3 +80,5 @@ releases:
        - title: This Car Climbed Mt. Washington
          author: Krukowski/Yang
 ---
+Produced by Pierre Etoile
+Recorded at Q-Division, Boston 1991

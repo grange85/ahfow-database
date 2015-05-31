@@ -9,10 +9,6 @@ initial_release_date: 1997
 albumname: Galaxie 500
 artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
-notes: |
-  "Produced & engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988
-  Remastered by Kramer and Alan Douches, 1996.
-  Includes the videos for Tugboat, When Will You Come Home, Fourth of July and Blue Thunder all directed by Sergio Huidor (1988-90)."
 releases:
   - release: 
     version: galaxie-500-box-set-cd
@@ -192,3 +188,6 @@ releases:
          notes: video
          author: Krukowski/Wareham/Yang
 ---
+Produced & engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988
+Remastered by Kramer and Alan Douches, 1996.
+Includes the videos for Tugboat, When Will You Come Home, Fourth of July and Blue Thunder all directed by Sergio Huidor (1988-90).
