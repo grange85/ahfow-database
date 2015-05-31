@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h2>{{page.title}}</h2>
+<div class="row">
+ 	<div class="col-md-12">
+  <ul>
+
+{% case page.artistslug %}
+        
+{% when 'galaxie-500' %}
+  {% for show in site.galaxie-500-shows %}
+    <li><a href="{{ show.url | prepend: site.baseurl }}">{{ show.title }}</a></li>
+  {% endfor %}  
+{% when 'luna' %}
+  {% for show in site.luna-shows %}
+    <li><a href="{{ show.url | prepend: site.baseurl}}">{{ show.title }}</a></li>
+  {% endfor %}  
+{% else %}
+  <li>failed</li>
+{% endcase %}
+</ul>
+	</div>
+    </div><div class="row">
+</div>
