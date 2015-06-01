@@ -53,11 +53,6 @@ collections:
 # Build settings
 markdown: kramdown
 exclude: [
-  'tracks-exclude',
-  'luna/shows',
-  'damon-and-naomi/shows',
-  'dean-and-britta/shows',
-  'dean-wareham/shows'
   ]
 gems: 
    - jekyll-sitemap
