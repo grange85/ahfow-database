@@ -20,14 +20,6 @@ ahfow_artists:
   - artist: Dean Wareham
     artistslug: dean-wareham
 
-releases_categories: [
-  '01-album',
-  '02-single',
-  '03-compilation',
-  '04-promo',
-  '05-video'
-  ]
-
 collections: 
   releases:
     output: true
@@ -52,7 +44,13 @@ collections:
 
 # Build settings
 markdown: kramdown
-exclude: [
-  ]
+#exclude: [
+#    '_galaxie-500-shows',
+#    '_luna-shows',
+#    '_damon-and-naomi-shows',
+#    '_dean-and-britta-shows',
+#    '_dean-wareham-shows',
+#    '_tracks'
+#  ]
 gems: 
    - jekyll-sitemap
