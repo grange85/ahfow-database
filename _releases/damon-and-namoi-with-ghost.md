@@ -96,6 +96,14 @@ releases:
        - title: Eulogy to Lenny Bruce
          notes: 
          author: Tim Hardin
+    - group: Bonus 7"
+      tracks:
+       - title: Femme Fatale
+         notes: 
+         author: Lou Reed
+       - title: My Flower (Watashi No Hana)
+         notes: 
+         author: Kazuki Tomokawa
   - release: 
     version: elefant-cd
     year: 2000
