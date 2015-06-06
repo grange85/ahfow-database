@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% case page.artistslug %}
+{% when 'galaxie-500' %}
+  {% assign shows = site.galaxie-500-shows %}
+{% when 'luna' %}
+  {% assign shows = site.luna-shows %}
+{% when 'damon-and-naomi' %}
+  {% assign shows = site.damon-and-naomi-shows %}
+{% when 'dean-and-britta' %}
+  {% assign shows = site.dean-and-britta-shows %}
+{% when 'dean-wareham' %}
+  {% assign shows = site.dean-wareham-shows %}
+{% endcase %}
+
+
+{% assign curdate = site.time | date: '%s' %}
+{% assign curdate = curdate | plus: 0 %}
+<ul>
+{% for show in shows %}
+    {% assign showdate = show.show-date | date: '%s' %}
+	{% assign showdate = showdate | plus: 0 %}
+    {% if showdate >= curdate %}
+   	    <li><a href="{{ show.url | prepend: site.baseurl}}">{{ show.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

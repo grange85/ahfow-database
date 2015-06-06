@@ -23,7 +23,7 @@ releases:
     discogs: 
     release_notes: 
     groups:
-    - group: "1: Lunapark - A"
+    - group: "Lunapark - A"
       tracks:
        - title: Slide
          notes: 
@@ -43,7 +43,7 @@ releases:
        - title: Smile
          notes: 
          author: 
-    - group: "1: Lunapark - B"
+    - group: "Lunapark - B"
       tracks:
        - title: I Can't Wait
          notes: 
@@ -63,7 +63,7 @@ releases:
        - title: We're Both Confused
          notes: 
          author: 
-    - group: "2: Bewitched - A"
+    - group: "Bewitched - A"
       tracks:
        - title: California (All the Way)
          notes: 
@@ -80,7 +80,7 @@ releases:
        - title: This Time Around
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "2: Bewitched - B"
+    - group: "Bewitched - B"
       tracks:
        - title: Great Jones Street
          notes: 
@@ -97,7 +97,7 @@ releases:
        - title: Sleeping Pill
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "3: Penthouse - A"
+    - group: "Penthouse - A"
       tracks:
        - title: Chinatown
          notes: 
@@ -114,7 +114,7 @@ releases:
        - title: 23 Minutes in Brussels
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "3: Penthouse - B"
+    - group: "Penthouse - B"
       tracks:
        - title: Lost in Space
          notes: 
@@ -131,7 +131,7 @@ releases:
        - title: Freakin' and Peakin'
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "4: Pup Tent - A"
+    - group: "Pup Tent - A"
       tracks:
        - title: IHOP
          notes: 
@@ -148,7 +148,7 @@ releases:
        - title: Beggar's Bliss
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "4: Pup Tent - B"
+    - group: "Pup Tent - B"
       tracks:
        - title: Tracy I Love You
          notes: 
@@ -165,7 +165,7 @@ releases:
        - title: Fuzzy Wuzzy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "5: The Days of Our Nights - A"
+    - group: "The Days of Our Nights - A"
       tracks:
        - title: Dear Diary
          notes: 
@@ -185,7 +185,7 @@ releases:
        - title: Superfreaky Memories
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: "5: The Days of Our Nights - B"
+    - group: "The Days of Our Nights - B"
       tracks:
        - title: Math Wiz
          notes: 
@@ -205,7 +205,7 @@ releases:
        - title: Sweet Child o' Mine
          notes: 
          author: Slash/Rose/Stradlin/McKagen/Adler
-    - group: "6: Rarities - A"
+    - group: "Rarities - A"
       tracks:
        - title: Egg Nog
          notes: 
@@ -222,7 +222,7 @@ releases:
        - title: Anesthesia
          notes: demo
          author: Dean Wareham
-    - group: "6: Rarities - B"
+    - group: "Rarities - B"
       tracks:
        - title: In The Flesh
          notes: 
