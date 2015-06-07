@@ -56,22 +56,22 @@ releases:
          notes: 
          author: Krukowski/Yang
 ---
-Damon Krukowski - acoustic guitar, drums, vocals
-Naomi Yang - bass, keyboards, vocals
-Michio Kurihara - electric guitar
-Bhob Rainey - soprano sax
-Greg Kelley - trumpet
-Kyle Bruckmann - oboe, english horn
-Helena Espvall - cello
-Margaret Wienk - cello
+Damon Krukowski - acoustic guitar, drums, vocals  
+Naomi Yang - bass, keyboards, vocals  
+Michio Kurihara - electric guitar  
+Bhob Rainey - soprano sax  
+Greg Kelley - trumpet  
+Kyle Bruckmann - oboe, english horn  
+Helena Espvall - cello  
+Margaret Wienk - cello  
 Katt Hernandez - violin
 
-Produced by Damon & Naomi
-Horn and string arrangements by Bhob Rainey
-Engineered and mixed by Damon Krukowski at Kali Studios, 2006 - 2007
-Mastered by Alan Douches at West West Side Music
-Design and still-life photographs by Naomi Yang
+Produced by Damon & Naomi  
+Horn and string arrangements by Bhob Rainey  
+Engineered and mixed by Damon Krukowski at Kali Studios, 2006 - 2007  
+Mastered by Alan Douches at West West Side Music  
+Design and still-life photographs by Naomi Yang  
 Portrait of Damon & Naomi by Norman Gholson
 
-All songs by Damon & Naomi (c)2007 Pierre Etoile Musique (BMI) adm. Bug Music
+All songs by Damon & Naomi (c)2007 Pierre Etoile Musique (BMI) adm. Bug Music  
 Cruel Queen is based on the traditional song The Trees They Do Grow High

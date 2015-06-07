@@ -29,5 +29,5 @@ releases:
          notes: alternative version
          author: Krukowski/Wareham/Yang
 ---
-Also features Mofungo, Half Japanese, Great Plains, and Daniel Johnston
+Also features Mofungo, Half Japanese, Great Plains, and Daniel Johnston  
 Free with Chemical Imbalance magazine #8

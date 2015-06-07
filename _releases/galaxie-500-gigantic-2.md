@@ -48,6 +48,6 @@ releases:
          notes: live
          author: Innes
 ---
-Melody Maker/Rough Trade compilation.
-Recorded live in Amsterdam
+Melody Maker/Rough Trade compilation.  
+Recorded live in Amsterdam  
 "Nineteen for the Nineties" compilation with Lush, Pale Saints, Mazzy Star...

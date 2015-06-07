@@ -32,5 +32,5 @@ releases:
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
 ---
-Both tracks recorded live at CBGB's, New York City, May 13, 1989. 
+Both tracks recorded live at CBGB's, New York City, May 13, 1989.   
 Cover picture - Dave Rick on the road, 1989. 

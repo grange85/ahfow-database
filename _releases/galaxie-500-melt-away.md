@@ -65,7 +65,7 @@ releases:
          notes: 
          author: Krukowski/Wareham/Yang
 ---
-Selections from the Galaxie 500 Box Set
-All Tracks produced by Kramer except "The Other Side".
-Remastered by Kramer and Alan Douches, May 1996.
+Selections from the Galaxie 500 Box Set   
+All Tracks produced by Kramer except "The Other Side".  
+Remastered by Kramer and Alan Douches, May 1996.  
 Released only in Japan.

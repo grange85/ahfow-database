@@ -60,12 +60,12 @@ releases:
          author: Aizawa/Hayakawa
     - group: DVD - Song to the Siren
 ---
-Damon Krukowski - acoustic guitar, vocals
-Naomi Yang - bass, harmonium, vocals
-Michio Kurihara - electric guitar
-Recorded by Joan Vich Montaner
-Edited and mastered by Alan Douches
-Produced by Damon & Naomi
+Damon Krukowski - acoustic guitar, vocals  
+Naomi Yang - bass, harmonium, vocals  
+Michio Kurihara - electric guitar   
+Recorded by Joan Vich Montaner  
+Edited and mastered by Alan Douches  
+Produced by Damon & Naomi  
 with thanks to Masaki Batoh
 
 Also re-released as part of [1001 Nights](/damon-and-naomi/releases/1001-nights.html)

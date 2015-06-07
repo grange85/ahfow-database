@@ -234,13 +234,13 @@ releases:
          notes: 
          author: Tim Hardin
 ---
-Produced by Damon & Naomi and Masaki Batoh
-Arrangements by Kazuo Ogino
-Engineered and mixed by Damon Krukowski at Kali Studios
-December 1999 - April 2000
-Design and photographs by Naomi Yang
-Damon Krukowski - acoustic guitar, drums, vocals
-Naomi Yang - bass, harmonium, vocals
-Masaki Batoh - acoustic guitar
-Michio Kurihara - electric guitar
+Produced by Damon & Naomi and Masaki Batoh  
+Arrangements by Kazuo Ogino  
+Engineered and mixed by Damon Krukowski at Kali Studios  
+December 1999 - April 2000  
+Design and photographs by Naomi Yang  
+Damon Krukowski - acoustic guitar, drums, vocals  
+Naomi Yang - bass, harmonium, vocals  
+Masaki Batoh - acoustic guitar  
+Michio Kurihara - electric guitar  
 Kazuo Ogino - keyboards

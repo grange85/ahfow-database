@@ -34,10 +34,10 @@ releases:
          notes: 
          author: CAN
 ---
-Masaki Batoh: guitar vocals - Damon Krukowski: guitar, percussion, backing vocals - Michio Kurihara: electric guitar - Naomi Yang: bass, vocals, harmonium
-Recorded live by paul hilcoff at TT the Bears Cambridge, Massachusetts April 9, 1998
-Thanks to Bily Ruane, Phil McMullen and Ptolemaic Terrascope
-Photograph and design: Naomi Yang
-Label Illustration: Yumiko Yada
-Limited number on clear vinyl
-Andrea Troolin / Grimsey, 28 Bartlett St #4, Beverly MA 01915, USA
+Masaki Batoh: guitar vocals - Damon Krukowski: guitar, percussion, backing vocals - Michio Kurihara: electric guitar - Naomi Yang: bass, vocals, harmonium  
+Recorded live by paul hilcoff at TT the Bears Cambridge, Massachusetts April 9, 1998  
+Thanks to Bily Ruane, Phil McMullen and Ptolemaic Terrascope  
+Photograph and design: Naomi Yang  
+Label Illustration: Yumiko Yada  
+Limited number on clear vinyl  
+Andrea Troolin / Grimsey, 28 Bartlett St #4, Beverly MA 01915, USA  

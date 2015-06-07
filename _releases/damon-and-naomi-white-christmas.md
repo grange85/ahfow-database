@@ -29,8 +29,8 @@ releases:
          notes: 
          author: Irving Berlin
 ---
-Arranged and performed by Damon & Naomi with Michio Kurihara, Bhob Rainey & Greg Kelley, 
-Recorded By Jon Lupfer at Q Division 2008
+Arranged and performed by Damon & Naomi with Michio Kurihara, Bhob Rainey & Greg Kelley  
+Recorded By Jon Lupfer at Q Division 2008  
 From the film Lovely, Still
 
 Edition of 50 with hand-drawn disks by Naomi, available exclusively at an instore gig they played at Rough Trade East, London, UK on October 12, 2008.

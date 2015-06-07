@@ -79,5 +79,5 @@ releases:
     - group: DVD - Three Films
     - group: DVD - Live at O-Nest 2005 and 2008
 ---
-Compilation DVD. Limited edition comes with a vinyl copy of Damon & Naomi's live album Song to the Siren.
+Compilation DVD. Limited edition comes with a vinyl copy of Damon & Naomi's live album Song to the Siren.  
 Liner notes by film historian Haden Guest, director of the Harvard Film Archive

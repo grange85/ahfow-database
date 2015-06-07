@@ -243,15 +243,15 @@ releases:
          notes: 
          author: Krukowski/Yang
 ---
-Damon Krukowski - Acoustic guitar, drums, vocals
-Naomi Yang - Bass, keyboards, vocals
-Michio Kurihara - Electric guitar
-with
-Greg Kelley (trumpet) and Bhob Rainey (soprano sax) on tracks 1, 3, 6 and 10
+Damon Krukowski - Acoustic guitar, drums, vocals  
+Naomi Yang - Bass, keyboards, vocals  
+Michio Kurihara - Electric guitar  
+with  
+Greg Kelley (trumpet) and Bhob Rainey (soprano sax) on tracks 1, 3, 6 and 10  
 Dana Kletter (piano) track 5
 
-Produced by Damon & Naomi
-Engineered and mixed by Damon Krukowski at Kali studios, 2003 - 2004
-Mastered by Alan Douches at West West Side Music
-Design and landscape photographs by Naomi Yang
+Produced by Damon & Naomi  
+Engineered and mixed by Damon Krukowski at Kali studios, 2003 - 2004  
+Mastered by Alan Douches at West West Side Music  
+Design and landscape photographs by Naomi Yang  
 Studio photographs by Kelly Davidson

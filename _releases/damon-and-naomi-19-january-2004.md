@@ -39,6 +39,6 @@ releases:
        - title: Love
          author: Aizawa/Hayakawa
 ---
-Recorded live at Kichijoji Manda-la 2, Tokyo, 19 January 2004
-Originally produced as a promotional giveaway for Disk Union, Japan. 
+Recorded live at Kichijoji Manda-la 2, Tokyo, 19 January 2004  
+Originally produced as a promotional giveaway for Disk Union, Japan.   
 Limited and numbered edition of 100 was produced for sale direct from Damon & Naomi's website.

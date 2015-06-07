@@ -34,10 +34,10 @@ releases:
          notes: 
          author: Scott Walker
 ---
-Acoustic Guitar, Drums, Vocals – Damon Krukowski
-Bass, Keyboards, Vocals – Naomi Yang
-Electric Guitar – Michio Kurihara (Walking Backwards)
-Engineer – Damon Krukowski (Walking Backwards), Jon Lupfer (The World's Strongest Man)
-Photography By – Anabel Vázquez Rodríguez
-Soprano Saxophone, Mellotron – Bhob Rainey (The World's Strongest Man)
+Acoustic Guitar, Drums, Vocals – Damon Krukowski  
+Bass, Keyboards, Vocals – Naomi Yang  
+Electric Guitar – Michio Kurihara (Walking Backwards)  
+Engineer – Damon Krukowski (Walking Backwards), Jon Lupfer (The World's Strongest Man)  
+Photography By – Anabel Vázquez Rodríguez  
+Soprano Saxophone, Mellotron – Bhob Rainey (The World's Strongest Man)  
 Trumpet – Greg Kelley

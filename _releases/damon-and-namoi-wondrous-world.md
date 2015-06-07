@@ -210,5 +210,5 @@ releases:
          notes: 
          author: Krukowski/Yang
 ---
-Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995
+Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995  
 Electric guitar, mellotron, emulator, clarinet, tapes, bass, and backing vocals by Kramer

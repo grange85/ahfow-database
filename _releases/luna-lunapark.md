@@ -8,7 +8,7 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
 title: Lunapark
 initial_release_date: 1992
 albumname: Lunapark
-artist: Luna&sup2;
+artist: Luna
 releases:
   - release: 
     version: elektra-cd
@@ -168,6 +168,8 @@ releases:
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
 ---
+Originally released as Luna&sup2;
+
 Dean Wareham - guitars, vocals  
 Justin Harwood - bass, backing vocals  
 Stanley Demeski - drums, percussion  

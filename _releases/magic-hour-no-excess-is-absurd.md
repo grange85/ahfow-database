@@ -121,6 +121,6 @@ releases:
          notes: 
          author: Wayne Rogers
 ---
-Produced by Magic Hour at Twisted Village
-Engineered by Tom Leonard
+Produced by Magic Hour at Twisted Village  
+Engineered by Tom Leonard  
 Design by Naomi Yang

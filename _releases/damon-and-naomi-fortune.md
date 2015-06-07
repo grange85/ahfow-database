@@ -104,5 +104,5 @@ releases:
          author: Krukowski/Yang
        - title: The North Light
 ---
-Released May 2011 All songs are new originals by Damon & Naomi.
+Released May 2011 All songs are new originals by Damon & Naomi.  
 Cover photo is by Bernard Faucon

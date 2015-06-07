@@ -137,9 +137,9 @@ releases:
          notes: 
          author: Rapp
 ---
-"Compromising quality for the sake of nostalgia"
-All instruments and vocals by Damon Krukowski and Naomi Yang
-Recorded at home, 1996-7
-Design by Naomi Yang
-Photographs of instruments by James Watts
-Photograph of Damon & Naomi by David Corio
+"Compromising quality for the sake of nostalgia"  
+All instruments and vocals by Damon Krukowski and Naomi Yang  
+Recorded at home, 1996-7  
+Design by Naomi Yang  
+Photographs of instruments by James Watts  
+Photograph of Damon & Naomi by David Corio  

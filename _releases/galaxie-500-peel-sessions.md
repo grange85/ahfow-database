@@ -41,7 +41,7 @@ releases:
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
 ---
-Two sessions recorded for BBC Radio 1's John Peel Show.
-Tracks 1-4 recorded at BBC Maida Vale Studios 30th October 1990 - Transmitted 4th November 1990
-Tracks 5-8 recorded at BBC Maida Vale Studios 24th September 1989 - Transmitted 17th October 1989
+Two sessions recorded for BBC Radio 1's John Peel Show.  
+Tracks 1-4 recorded at BBC Maida Vale Studios 30th October 1990 - Transmitted 4th November 1990  
+Tracks 5-8 recorded at BBC Maida Vale Studios 24th September 1989 - Transmitted 17th October 1989  
 Released November 14th 2005

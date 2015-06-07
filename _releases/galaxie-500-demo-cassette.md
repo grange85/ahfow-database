@@ -63,6 +63,6 @@ releases:
        - title: Well... All Right
          author: Holly/Allison/Petty/Mauldin
 ---
-Demo
-Recorded at 6/8 Studios
+Demo  
+Recorded at 6/8 Studios  
 Engineered by Perkins Barnes

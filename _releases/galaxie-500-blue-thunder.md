@@ -61,5 +61,5 @@ releases:
        - title: Cold Night
          author: Krukowski/Wareham/Yang
 ---
-Produced and Engineered by Kramer at Noise New York 1989.
+Produced and Engineered by Kramer at Noise New York 1989.  
 Tenor sax on "Blue Thunder" by Ralph Carney.

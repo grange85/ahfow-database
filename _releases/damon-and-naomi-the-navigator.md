@@ -34,6 +34,6 @@ releases:
          notes: 
          author: Ghost
 ---
-Design, Photography – Naomi Yang
-Recorded at home, 1996. 
+Design, Photography – Naomi Yang  
+Recorded at home, 1996.   
 Released on 1500 copies.

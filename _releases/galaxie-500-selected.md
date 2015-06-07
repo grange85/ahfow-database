@@ -65,7 +65,7 @@ releases:
          notes: 
          author: Krukowski/Wareham/Yang
 ---
-All Tracks produced by Kramer except "The Other Side".
-Remastered by Kramer and Alan Douches, May 1996.
-For promotion only - not for sale.
-Promo only sampler for Box Set.
+All Tracks produced by Kramer except "The Other Side".  
+Remastered by Kramer and Alan Douches, May 1996.  
+For promotion only - not for sale.  
+Promo only sampler for Box Set.  

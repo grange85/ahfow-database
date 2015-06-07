@@ -51,5 +51,5 @@ releases:
        - title: Here She Comes Now
          author: Reed/Cale/Morrison/Tucker
 ---
-Produced and Engineered by Kramer at Noise New York 1990.
+Produced and Engineered by Kramer at Noise New York 1990.  
 Backing Vocals and Mirage on Here She Comes Now by Kramer.
