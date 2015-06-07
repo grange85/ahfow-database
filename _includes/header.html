@@ -35,11 +35,14 @@
 
                 <header>
                     <h2>
-                    {% if page.layout == 'show' %}
-                    {{page.show-date|date: "%-d %B %Y"}} - {{page.artist-name}} - {{ page.show-venue }}
-                    {% else %}
-                    {{ page.title }}
-                    {% endif %}
+                      {% case page.layout %}
+                        {% when 'show' %}
+                          {{page.show-date|date: "%-d %B %Y"}} - {{page.artist-name}} - {{ page.show-venue }}
+                        {% when 'release' %}
+                          {{page.artist}} - {{page.title }}
+                        {% else %}
+                          {{ page.title }}
+                      {% endcase %}
                     </h2>
                 </header>
 

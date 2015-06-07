@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /:categories/:title
+title: /:artist - /:title
 ---
 <div class="row">
     <div class="col-md-12">
@@ -40,7 +41,7 @@ permalink: /:categories/:title
                         {% endif %}
                         <ul>
                             {% for track in group.tracks %}
-                            <li><a href="/database/tracks/{{track.title|slugify}}.html ">{{track.title}}</a>
+                            <li><a href="/tracks/{{track.title|slugify}}.html ">{{track.title}}</a>
                                 {% if track.author %}
                                     <em>({{track.author}})</em>
                                 {% endif %}

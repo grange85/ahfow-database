@@ -27,42 +27,42 @@ releases:
       tracks:
        - title: Slide
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Anesthesia
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Slash Your Tires
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Crazy People
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Time
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Smile
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
     - group: "Lunapark - B"
       tracks:
        - title: I Can't Wait
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Hey Sister
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: I Want Everything
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Time to Quit
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: Goodbye
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
        - title: We're Both Confused
          notes: 
-         author: 
+         author: "Lyrics: Wareham, Music: LUNA"
     - group: "Bewitched - A"
       tracks:
        - title: California (All the Way)

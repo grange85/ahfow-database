@@ -8,7 +8,7 @@ Seminal is a word often bandied about in describing certain influential groups a
 
 Like contemporaries such as Hugo Largo and the Cowboy Junkies, Galaxie 500 took a slower approach to constructing and performing their music. And with Shimmy-Disc founder and producer Kramer at the helm of the mixing board, Galaxie 500 managed to achieve a unique sound that both captivated and repulsed critics and reviewers.
 
-Often brought up in reference to a "slow" movement in rock and roll today, bands such as Low, Sugar Plant, and Mazzy Star owe an obvious debt to Galaxie 500. Unfortunately, as with many intensely creative groups, differences between Dean and Damon & Naomi led to their premature disbanding. Dean went on to form [Luna](/database/luna/), and [Damon & Naomi](/database/damon-and-naomi/) continued on together, under the name Damon & Naomi.
+Often brought up in reference to a "slow" movement in rock and roll today, bands such as Low, Sugar Plant, and Mazzy Star owe an obvious debt to Galaxie 500. Unfortunately, as with many intensely creative groups, differences between Dean and Damon & Naomi led to their premature disbanding. Dean went on to form [Luna](/luna/), and [Damon & Naomi](/damon-and-naomi/) continued on together, under the name Damon & Naomi.
 
 Maybe, just maybe, if we're lucky, 20 years from now there will be a Galaxie 500 reunion concert (if the VU can do it, so can they, damn it!). Until then we have a legacy of three flawless albums to get us through.
 
