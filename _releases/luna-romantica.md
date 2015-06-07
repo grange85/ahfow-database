@@ -4,187 +4,174 @@ permalink: /luna/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
-title: Lunapark
-initial_release_date: 1992
-albumname: Lunapark
-artist: Luna&sup2;
+imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
+title: Romantica
+initial_release_date: 2002
+albumname: Romantica
+artist: Luna
 releases:
   - release: 
-    version: elektra-cd
-    year: 1992
-    releasedate: 1992
+    version: jetset-cd
+    year: 2002
+    releasedate: 2002
     type: album
     format: CD
-    label: ELektra
-    catno: "EU:7559-61360-2 / US:9 61360-2 / Japan: WMC5-563"
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
+    label: Jetset
+    catno: TWA44CD
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
     mbid: 
     discogs: 
     release_notes: 
     groups:
     - group: CD
       tracks:
-       - title: Slide
+       - title: Lovedust
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Anesthesia
+       - title: Weird and Woozy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Slash Your Tires
+       - title: Black Postcards
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Crazy People
+       - title: Black Champagne
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time
+       - title: Swedish Fish
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Smile
+       - title: Renee is Crying
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: I Can't Wait
+       - title: Mermaid Eyes
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Hey Sister
+       - title: "1995"
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: I Want Everything
+       - title: Rememories
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time to Quit
+       - title: Dizzy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Goodbye
+       - title: Orange Peel
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: We're Both Confused
+       - title: Romantica
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
   - release: 
-    version: elektra-cassette
-    year: 1992
-    releasedate: 1992
+    version: jetset-cd
+    year: 2002
+    releasedate: 2002
     type: album
-    format: LP
-    label: ELektra
-    catno: 9-61360-4
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-cassette.jpg
+    format: CD
+    label: Beggars Banquet
+    catno: BBQCD 228
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
     mbid: 
     discogs: 
     release_notes: 
     groups:
-    - group: A
+    - group: CD
       tracks:
-       - title: Slide
+       - title: Lovedust
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Anesthesia
+       - title: Weird and Woozy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Slash Your Tires
+       - title: Black Postcards
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Crazy People
+       - title: Black Champagne
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time
+       - title: Swedish Fish
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Smile
+       - title: Renee is Crying
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: B
-      tracks:
-       - title: I Can't Wait
+       - title: Mermaid Eyes
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Hey Sister
+       - title: "1995"
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: I Want Everything
+       - title: Rememories
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time to Quit
+       - title: Dizzy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Goodbye
+       - title: Orange Peel
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: We're Both Confused
+       - title: Romantica
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
   - release: 
-    version: summershine-lp
-    year: 1992
-    releasedate: 1992
+    version: self-released-digital
+    year: 2011
+    releasedate: 2011-11-01
     type: album
-    format: LP
-    label: Summershine
-    catno: SHINE LP 008
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
+    format: Digital only
+    label: self released
+    catno: 
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
     mbid: 
     discogs: 
-    release_notes: Australian release
+    release_notes: 
     groups:
-    - group: A
+    - group: Digital
       tracks:
-       - title: Slide
+       - title: Lovedust
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Anesthesia
+       - title: Weird and Woozy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Slash Your Tires
+       - title: Black Postcards
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Crazy People
+       - title: Black Champagne
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time
+       - title: Swedish Fish
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Smile
+       - title: Renee is Crying
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-    - group: B
-      tracks:
-       - title: I Can't Wait
+       - title: Mermaid Eyes
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Hey Sister
+       - title: "1995"
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: I Want Everything
+       - title: Rememories
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Time to Quit
+       - title: Dizzy
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: Goodbye
+       - title: Orange Peel
          notes: 
          author: "Lyrics: Wareham, Music: LUNA"
-       - title: We're Both Confused
+       - title: Romantica
          notes: 
+         author: "Lyrics: Wareham, Music: LUNA"
+       - title: Mystic Rattlers
+         notes: 
+         author: "Lyrics: Wareham, Music: LUNA"
+       - title: Renee is Crying
+         notes: alternative mix
+         author: "Lyrics: Wareham, Music: LUNA"
+       - title: Lovedust
+         notes: demo
          author: "Lyrics: Wareham, Music: LUNA"
 ---
-Dean Wareham - guitars, vocals  
-Justin Harwood - bass, backing vocals  
-Stanley Demeski - drums, percussion  
-
-Produced by Fred Maher  
-Engineered by Lloyd Puckitt  
-Assistant engineer: Susanne Dyer  
-
-Recorded and mixed at RPM Studios, NYC  
-Mastered by Bob Ludwig at Masterdisk, NYC  
-
-Grasshopper plays extra electric guitar on "Slide", "Hey Sister", "I Want Everything"  
-Kramer plays piano on "I Want Everything", Hammond organ on "We're Both Confused"  
-David Kleiler plays electric guitar on "Time to Quit"  
-Sarah T Walker sings backing vocals on "Smile"  
-Fred Maher plays acoustic guitar on "We're Both Confused"  
-Thank you Jimmy Chambers and Byron Guthrie  
-
-Art direction: Laurie Henzel  
-Studio photographs by Macioce
+Produced by Luna and Gene Holder.  
+Mixed by Dave Fridmann.
