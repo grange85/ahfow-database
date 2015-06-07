@@ -2,7 +2,7 @@
 layout: show
 title: '1994-05-05: Luna - Shank Hall, Milwaukee, WI, USA'
 name: 1994-05-05-luna-shank-hall-milwaukee-wi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Shank Hall, Milwaukee, WI, USA'
 show-setlist: [
   "California (All the Way)",
@@ -22,6 +22,7 @@ show-setlist: [
   "Hey Sister"
   ]
 show-date: 1994-05-05
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

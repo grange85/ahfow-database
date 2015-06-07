@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-26: Luna - Beachland Ballroom, Cleveland OH, USA'
 name: 2002-05-26-luna-beachland-ballroom-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -23,6 +23,7 @@ show-setlist: [
   "Lost In Space"
   ]
 show-date: 2002-05-26
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

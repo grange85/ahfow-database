@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-23: Dean & Britta - Variety Playhouse, Atlanta GA, USA'
 name: 2007-03-23-dean-britta-variety-playhouse-atlanta-ga-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Variety Playhouse, Atlanta GA, USA'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2007-03-23
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

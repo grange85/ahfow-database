@@ -2,7 +2,7 @@
 layout: show
 title: '1992-03-01: Luna - BBC Radio One, London, UK'
 name: 1992-03-01-luna-bbc-radio-one-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'BBC Radio One, London, UK'
 show-setlist: [
   "Crazy People",
@@ -11,6 +11,7 @@ show-setlist: [
   "I Can't Wait"
   ]
 show-date: 1992-03-01
+category: 1992
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

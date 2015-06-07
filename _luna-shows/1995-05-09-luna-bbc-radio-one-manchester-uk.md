@@ -2,10 +2,11 @@
 layout: show
 title: '1995-05-09: Luna - BBC Radio One, Manchester, UK'
 name: 1995-05-09-luna-bbc-radio-one-manchester-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'BBC Radio One, Manchester, UK'
 show-setlist: 
 show-date: 1995-05-09
+category: 1995
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

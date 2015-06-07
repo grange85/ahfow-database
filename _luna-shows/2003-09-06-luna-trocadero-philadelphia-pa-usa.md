@@ -2,7 +2,7 @@
 layout: show
 title: '2003-09-06: Luna - Trocadero, Philadelphia PA, USA'
 name: 2003-09-06-luna-trocadero-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -25,6 +25,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 2003-09-06
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

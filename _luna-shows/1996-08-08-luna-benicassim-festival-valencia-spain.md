@@ -2,10 +2,11 @@
 layout: show
 title: '1996-08-08: Luna - Benicassim Festival, Valencia, Spain'
 name: 1996-08-08-luna-benicassim-festival-valencia-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Benicassim Festival, Valencia, Spain'
 show-setlist: 
 show-date: 1996-08-08
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

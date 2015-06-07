@@ -2,7 +2,7 @@
 layout: show
 title: '1994-11-18: Luna - Tramps, New York NY, USA'
 name: 1994-11-18-luna-tramps-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Tramps, New York NY, USA'
 show-setlist: [
   "It's Bringing You Down",
@@ -26,6 +26,7 @@ show-setlist: [
   "Sleeping Pill"
   ]
 show-date: 1994-11-18
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

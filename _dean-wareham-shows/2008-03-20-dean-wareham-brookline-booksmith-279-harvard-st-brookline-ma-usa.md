@@ -2,10 +2,11 @@
 layout: show
 title: '2008-03-20: Dean Wareham -  Brookline Booksmith 279 Harvard St. Brookline MA, USA'
 name: 2008-03-20-dean-wareham-brookline-booksmith-279-harvard-st-brookline-ma-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: ' Brookline Booksmith 279 Harvard St. Brookline MA, USA'
 show-setlist: 
 show-date: 2008-03-20
+category: 2008
 show-radio: 
 show-lastfm: 
 show-cancelled: 

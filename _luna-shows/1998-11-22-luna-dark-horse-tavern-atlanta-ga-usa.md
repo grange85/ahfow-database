@@ -2,7 +2,7 @@
 layout: show
 title: '1998-11-22: Luna - Dark Horse Tavern, Atlanta GA, USA'
 name: 1998-11-22-luna-dark-horse-tavern-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Dark Horse Tavern, Atlanta GA, USA'
 show-setlist: [
   "Egg Nog",
@@ -22,6 +22,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 1998-11-22
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

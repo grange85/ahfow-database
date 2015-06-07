@@ -2,10 +2,11 @@
 layout: show
 title: '1993-06-01: Luna - Playhouse, Edinburgh, UK'
 name: 1993-06-01-luna-playhouse-edinburgh-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Playhouse, Edinburgh, UK'
 show-setlist: 
 show-date: 1993-06-01
+category: 1993
 show-radio: 
 show-lastfm: 
 show-cancelled: 

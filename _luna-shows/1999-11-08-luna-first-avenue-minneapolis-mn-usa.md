@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-08: Luna - First avenue, Minneapolis MN, USA'
 name: 1999-11-08-luna-first-avenue-minneapolis-mn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'First avenue, Minneapolis MN, USA'
 show-setlist: [
   "Pup Tent",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-11-08
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

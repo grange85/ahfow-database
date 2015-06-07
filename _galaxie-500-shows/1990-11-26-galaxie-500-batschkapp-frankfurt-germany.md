@@ -2,7 +2,7 @@
 layout: show
 title: '1990-11-26: Galaxie 500 - Batschkapp, Frankfurt, Germany'
 name: 1990-11-26-galaxie-500-batschkapp-frankfurt-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Batschkapp, Frankfurt, Germany'
 show-setlist: [
   "Decomposing Trees",
@@ -19,6 +19,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 1990-11-26
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

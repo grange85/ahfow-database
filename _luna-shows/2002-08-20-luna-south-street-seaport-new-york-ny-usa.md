@@ -2,7 +2,7 @@
 layout: show
 title: '2002-08-20: Luna - South Street Seaport, New York NY, USA'
 name: 2002-08-20-luna-south-street-seaport-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'South Street Seaport, New York NY, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -22,6 +22,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2002-08-20
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

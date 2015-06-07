@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-05: Luna - Aladdin Theatre, Portland OR, USA'
 name: 2002-06-05-luna-aladdin-theatre-portland-or-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Bewitched",
@@ -24,6 +24,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2002-06-05
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

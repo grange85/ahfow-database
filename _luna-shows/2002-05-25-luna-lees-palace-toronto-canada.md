@@ -2,7 +2,7 @@
 layout: show
 title: "2002-05-25: Luna - Lees Palace, Toronto, Canada"
 name: 2002-05-25-luna-lees-palace-toronto-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Lees Palace, Toronto, Canada"
 show-setlist: [
   "Weird And Woozy",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-05-25
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

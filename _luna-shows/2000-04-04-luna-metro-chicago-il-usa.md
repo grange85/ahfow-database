@@ -2,7 +2,7 @@
 layout: show
 title: '2000-04-04: Luna - Metro, Chicago IL, USA'
 name: 2000-04-04-luna-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -23,6 +23,7 @@ show-setlist: [
   "Moon Palace"
   ]
 show-date: 2000-04-04
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

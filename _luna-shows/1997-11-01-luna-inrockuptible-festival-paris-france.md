@@ -2,10 +2,11 @@
 layout: show
 title: '1997-11-01: Luna - Inrockuptible Festival, Paris, France'
 name: 1997-11-01-luna-inrockuptible-festival-paris-france
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Inrockuptible Festival, Paris, France'
 show-setlist: 
 show-date: 1997-11-01
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

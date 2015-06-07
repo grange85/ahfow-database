@@ -2,7 +2,7 @@
 layout: show
 title: '1998-04-04: Luna - Liberty Lunch, Austin TX, USA'
 name: 1998-04-04-luna-liberty-lunch-austin-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Liberty Lunch, Austin TX, USA'
 show-setlist: [
   "California (All the Way)",
@@ -23,6 +23,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1998-04-04
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

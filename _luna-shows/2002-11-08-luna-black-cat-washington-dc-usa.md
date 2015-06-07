@@ -2,7 +2,7 @@
 layout: show
 title: '2002-11-08: Luna - Black Cat, Washington DC, USA'
 name: 2002-11-08-luna-black-cat-washington-dc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "1995",
@@ -25,6 +25,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 2002-11-08
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

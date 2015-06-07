@@ -2,7 +2,7 @@
 layout: show
 title: '2007-11-22: Damon & Naomi - Lemon Tree, Aberdeen, UK'
 name: 2007-11-22-damon-naomi-lemon-tree-aberdeen-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Lemon Tree, Aberdeen, UK'
 show-setlist: [
   "Lilac Land",
@@ -14,6 +14,7 @@ show-setlist: [
   "Stars Never Fade"
   ]
 show-date: 2007-11-22
+category: 2007
 show-radio: 
 show-lastfm: 328148
 show-cancelled: 

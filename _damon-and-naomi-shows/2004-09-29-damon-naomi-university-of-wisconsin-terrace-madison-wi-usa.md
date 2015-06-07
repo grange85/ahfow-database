@@ -2,10 +2,11 @@
 layout: show
 title: '2004-09-29: Damon & Naomi - University of Wisconsin Terrace, Madison WI, USA'
 name: 2004-09-29-damon-naomi-university-of-wisconsin-terrace-madison-wi-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'University of Wisconsin Terrace, Madison WI, USA'
 show-setlist: 
 show-date: 2004-09-29
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

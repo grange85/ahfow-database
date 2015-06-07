@@ -2,7 +2,7 @@
 layout: show
 title: "1997-09-05: Luna - Cats Cradle, Carrboro NC, USA"
 name: 1997-09-05-luna-cats-cradle-carrboro-nc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -23,6 +23,7 @@ show-setlist: [
   "Lost In Space"
   ]
 show-date: 1997-09-05
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

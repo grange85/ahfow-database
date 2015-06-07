@@ -2,7 +2,7 @@
 layout: show
 title: "2004-11-07: Luna - Lees Palace, Toronto, Canada"
 name: 2004-11-07-luna-lees-palace-toronto-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Lees Palace, Toronto, Canada"
 show-setlist: [
   "Malibu Love Nest",
@@ -25,6 +25,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 2004-11-07
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

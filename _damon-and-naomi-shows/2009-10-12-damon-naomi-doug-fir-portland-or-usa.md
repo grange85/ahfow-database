@@ -2,10 +2,11 @@
 layout: show
 title: '2009-10-12: Damon & Naomi - Doug Fir, Portland, OR, USA'
 name: 2009-10-12-damon-naomi-doug-fir-portland-or-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Doug Fir, Portland, OR, USA'
 show-setlist: 
 show-date: 2009-10-12
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

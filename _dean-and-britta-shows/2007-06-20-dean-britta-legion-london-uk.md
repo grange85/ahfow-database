@@ -2,7 +2,7 @@
 layout: show
 title: '2007-06-20: Dean & Britta - Legion, London, UK'
 name: 2007-06-20-dean-britta-legion-london-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Legion, London, UK'
 show-setlist: [
   "Singer Sing",
@@ -21,6 +21,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2007-06-20
+category: 2007
 show-radio: 
 show-lastfm: 225440
 show-cancelled: 

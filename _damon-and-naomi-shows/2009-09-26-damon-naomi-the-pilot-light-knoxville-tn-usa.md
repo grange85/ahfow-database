@@ -2,10 +2,11 @@
 layout: show
 title: '2009-09-26: Damon & Naomi - The Pilot Light, Knoxville, TN, USA'
 name: 2009-09-26-damon-naomi-the-pilot-light-knoxville-tn-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Pilot Light, Knoxville, TN, USA'
 show-setlist: 
 show-date: 2009-09-26
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1998-07-16: Luna - Castle Clinton, Battery Park, New York, NY, USA'
 name: 1998-07-16-luna-castle-clinton-battery-park-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Castle Clinton, Battery Park, New York, NY, USA'
 show-setlist: [
   "Friendly Advice",
@@ -22,6 +22,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 1998-07-16
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

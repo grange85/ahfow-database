@@ -2,10 +2,11 @@
 layout: show
 title: '1997-10-15: Luna - LA2, London, UK'
 name: 1997-10-15-luna-la2-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'LA2, London, UK'
 show-setlist: 
 show-date: 1997-10-15
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

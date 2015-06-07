@@ -2,10 +2,11 @@
 layout: show
 title: '1996-02-02: Luna - (unknown), Austin TX, USA'
 name: 1996-02-02-luna-unknown-austin-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '(unknown), Austin TX, USA'
 show-setlist: 
 show-date: 1996-02-02
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

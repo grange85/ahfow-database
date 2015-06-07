@@ -2,7 +2,7 @@
 layout: show
 title: '2002-12-31: Luna - Maxwells, Hoboken NJ, USA'
 name: 2002-12-31-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "1995",
@@ -25,6 +25,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 2002-12-31
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-09-21: Luna - Bottleneck, Lawrence KS, USA'
 name: 2002-09-21-luna-bottleneck-lawrence-ks-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bottleneck, Lawrence KS, USA'
 show-setlist: [
   "California (All the Way)",
@@ -21,6 +21,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-09-21
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

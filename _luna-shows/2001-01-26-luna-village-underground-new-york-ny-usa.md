@@ -2,7 +2,7 @@
 layout: show
 title: '2001-01-26: Luna - Village Underground, New York NY, USA'
 name: 2001-01-26-luna-village-underground-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -22,6 +22,7 @@ show-setlist: [
   "Freakin' And Peakin'"
   ]
 show-date: 2001-01-26
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

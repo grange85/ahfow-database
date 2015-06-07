@@ -2,7 +2,7 @@
 layout: show
 title: '2002-10-20: Luna - Centre Civic Quart, Girona, Spain'
 name: 2002-10-20-luna-centre-civic-quart-girona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Centre Civic Quart, Girona, Spain'
 show-setlist: [
   "Weird And Woozy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Freakin' And Peakin'"
   ]
 show-date: 2002-10-20
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

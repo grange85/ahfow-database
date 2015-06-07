@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-29: Luna - Irving Plaza, New York NY, USA'
 name: 1999-11-29-luna-irving-plaza-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -22,6 +22,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 1999-11-29
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

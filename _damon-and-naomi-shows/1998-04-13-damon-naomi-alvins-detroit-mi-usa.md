@@ -2,10 +2,11 @@
 layout: show
 title: '1998-04-13: Damon & Naomi - Alvins, Detroit MI, USA'
 name: 1998-04-13-damon-naomi-alvins-detroit-mi-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Alvins, Detroit MI, USA'
 show-setlist: 
 show-date: 1998-04-13
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2007-10-28: Damon & Naomi - Bowery Ballroom, New York NY, USA'
 name: 2007-10-28-damon-naomi-bowery-ballroom-new-york-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: 
 show-date: 2007-10-28
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

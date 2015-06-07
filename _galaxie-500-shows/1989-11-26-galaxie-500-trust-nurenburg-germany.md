@@ -2,7 +2,7 @@
 layout: show
 title: '1989-11-26: Galaxie 500 - Trust, Nurenburg, Germany'
 name: 1989-11-26-galaxie-500-trust-nurenburg-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Trust, Nurenburg, Germany'
 show-setlist: [
   "Flowers",
@@ -18,6 +18,7 @@ show-setlist: [
   "Here She Comes Now [Velvet Underground] "
   ]
 show-date: 1989-11-26
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

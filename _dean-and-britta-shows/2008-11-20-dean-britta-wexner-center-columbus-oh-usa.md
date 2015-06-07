@@ -2,7 +2,7 @@
 layout: show
 title: '2008-11-20: Dean & Britta - Wexner Center, Columbus OH, USA'
 name: 2008-11-20-dean-britta-wexner-center-columbus-oh-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Wexner Center, Columbus OH, USA'
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2008-11-20
+category: 2008
 show-radio: 
 show-lastfm: 762570
 show-cancelled: 

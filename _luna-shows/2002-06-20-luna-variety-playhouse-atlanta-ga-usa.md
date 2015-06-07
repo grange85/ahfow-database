@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-20: Luna - Variety Playhouse, Atlanta GA, USA'
 name: 2002-06-20-luna-variety-playhouse-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Variety Playhouse, Atlanta GA, USA'
 show-setlist: [
   "Lovedust",
@@ -24,6 +24,7 @@ show-setlist: [
   "1995"
   ]
 show-date: 2002-06-20
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

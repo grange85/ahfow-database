@@ -2,10 +2,11 @@
 layout: show
 title: '2011-05-11: Damon & Naomi - Cafe Oto, London, UK'
 name: 2011-05-11-damon-naomi-cafe-oto-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cafe Oto, London, UK'
 show-setlist: 
 show-date: 2011-05-11
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

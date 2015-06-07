@@ -2,10 +2,11 @@
 layout: show
 title: "2009-10-08: Dean & Britta - Yoshi's, San Francisco, CA, USA"
 name: 2009-10-08-dean-britta-yoshis-san-francisco-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: "Yoshi's, San Francisco, CA, USA"
 show-setlist: 
 show-date: 2009-10-08
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

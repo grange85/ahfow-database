@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-19: Luna - Exit/In, Nashville TN, USA'
 name: 2004-11-19-luna-exitin-nashville-tn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Exit/In, Nashville TN, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-11-19
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

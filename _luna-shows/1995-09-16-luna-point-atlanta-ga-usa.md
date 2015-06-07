@@ -2,7 +2,7 @@
 layout: show
 title: '1995-09-16: Luna - Point, Atlanta GA, USA'
 name: 1995-09-16-luna-point-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Point, Atlanta GA, USA'
 show-setlist: [
   "Friendly Advice",
@@ -23,6 +23,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 1995-09-16
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

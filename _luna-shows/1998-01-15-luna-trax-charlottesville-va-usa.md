@@ -2,7 +2,7 @@
 layout: show
 title: '1998-01-15: Luna - Trax, Charlottesville VA, USA'
 name: 1998-01-15-luna-trax-charlottesville-va-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trax, Charlottesville VA, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -21,6 +21,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1998-01-15
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

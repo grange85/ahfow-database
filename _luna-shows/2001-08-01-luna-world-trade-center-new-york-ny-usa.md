@@ -2,7 +2,7 @@
 layout: show
 title: '2001-08-01: Luna - World Trade Center, New York NY, USA'
 name: 2001-08-01-luna-world-trade-center-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'World Trade Center, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -26,6 +26,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2001-08-01
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

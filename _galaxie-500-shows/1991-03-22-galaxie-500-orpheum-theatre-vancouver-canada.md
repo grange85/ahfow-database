@@ -2,10 +2,11 @@
 layout: show
 title: '1991-03-22: Galaxie 500 - Orpheum Theatre, Vancouver, Canada'
 name: 1991-03-22-galaxie-500-orpheum-theatre-vancouver-canada
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Orpheum Theatre, Vancouver, Canada'
 show-setlist: 
 show-date: 1991-03-22
+category: 1991
 show-radio: 
 show-lastfm: 
 show-cancelled: 

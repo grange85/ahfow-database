@@ -2,7 +2,7 @@
 layout: show
 title: '2003-06-21: Dean & Britta - Double Door, Chicago IL, USA'
 name: 2003-06-21-dean-britta-double-door-chicago-il-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Double Door, Chicago IL, USA'
 show-setlist: [
   "Night Nurse",
@@ -21,6 +21,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2003-06-21
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

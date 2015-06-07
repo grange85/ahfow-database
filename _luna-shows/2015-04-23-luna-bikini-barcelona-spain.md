@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-23: Luna - Bikini, Barcelona, Spain'
 name: 2015-04-23-luna-bikini-barcelona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "Slide",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2015-04-23
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

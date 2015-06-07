@@ -2,7 +2,7 @@
 layout: show
 title: '2002-11-23: Luna - North Star Bar, Philadelphia PA, USA'
 name: 2002-11-23-luna-north-star-bar-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'North Star Bar, Philadelphia PA, USA'
 show-setlist: [
   "Lovedust",
@@ -24,6 +24,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 2002-11-23
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

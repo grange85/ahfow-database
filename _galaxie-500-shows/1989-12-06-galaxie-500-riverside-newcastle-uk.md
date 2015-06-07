@@ -2,7 +2,7 @@
 layout: show
 title: '1989-12-06: Galaxie 500 - Riverside, Newcastle, UK'
 name: 1989-12-06-galaxie-500-riverside-newcastle-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Riverside, Newcastle, UK'
 show-setlist: [
   "Decomposing Trees",
@@ -17,6 +17,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 1989-12-06
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

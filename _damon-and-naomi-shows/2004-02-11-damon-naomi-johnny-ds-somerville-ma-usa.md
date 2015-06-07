@@ -2,10 +2,11 @@
 layout: show
 title: "2004-02-11: Damon & Naomi - Johnny Ds, Somerville MA, USA"
 name: 2004-02-11-damon-naomi-johnny-ds-somerville-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: "Johnny Ds, Somerville MA, USA"
 show-setlist: 
 show-date: 2004-02-11
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

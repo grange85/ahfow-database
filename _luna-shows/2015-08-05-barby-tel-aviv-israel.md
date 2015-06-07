@@ -2,10 +2,11 @@
 layout: show
 title: '2015-08-05: Luna - Barby, Tel Aviv, Israel'
 name: 2015-08-05-barby-tel-aviv-israel
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Barby, Tel Aviv, Israel'
 show-setlist: 
 show-date: 2015-08-05
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

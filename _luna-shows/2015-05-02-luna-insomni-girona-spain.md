@@ -2,7 +2,7 @@
 layout: show
 title: '2015-05-02: Luna - Insomni, Girona, Spain'
 name: 2015-05-02-luna-insomni-girona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Insomni, Girona, Spain'
 show-setlist: [
   "Slide",
@@ -19,6 +19,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2015-05-02
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

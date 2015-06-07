@@ -2,7 +2,7 @@
 layout: show
 title: '1990-10-15: Galaxie 500 - Kennel Club, San Francisco CA, USA'
 name: 1990-10-15-galaxie-500-kennel-club-san-francisco-ca-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Kennel Club, San Francisco CA, USA'
 show-setlist: [
   "Fourth of July",
@@ -19,6 +19,7 @@ show-setlist: [
   "Snowstorm"
   ]
 show-date: 1990-10-15
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

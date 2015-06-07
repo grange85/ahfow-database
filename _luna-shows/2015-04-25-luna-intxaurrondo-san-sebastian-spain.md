@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-25: Luna - Intxaurrondo, San Sebastián, Spain'
 name: 2015-04-25-luna-intxaurrondo-san-sebastian-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Intxaurrondo, San Sebastián, Spain'
 show-setlist: [
   "Slide",
@@ -24,6 +24,7 @@ show-setlist: [
   ]
 setlist-source: '<p><a href="https://instagram.com/p/18UkrAgweW/?taken-by=luna_nyc">luna_nyc on instagram</a></p>'
 show-date: 2015-04-25
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

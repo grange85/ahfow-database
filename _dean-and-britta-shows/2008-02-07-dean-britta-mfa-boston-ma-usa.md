@@ -2,7 +2,7 @@
 layout: show
 title: '2008-02-07: Dean & Britta - MFA, Boston MA, USA'
 name: 2008-02-07-dean-britta-mfa-boston-ma-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'MFA, Boston MA, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
@@ -20,6 +20,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2008-02-07
+category: 2008
 show-radio: 
 show-lastfm: 434878
 show-cancelled: 

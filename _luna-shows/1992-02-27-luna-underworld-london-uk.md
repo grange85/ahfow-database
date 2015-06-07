@@ -2,7 +2,7 @@
 layout: show
 title: '1992-02-27: Luna - Underworld, London, UK'
 name: 1992-02-27-luna-underworld-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Underworld, London, UK'
 show-setlist: [
   "Slide",
@@ -19,6 +19,7 @@ show-setlist: [
   "Temperature's Rising"
   ]
 show-date: 1992-02-27
+category: 1992
 show-radio: 
 show-lastfm: 
 show-cancelled: 

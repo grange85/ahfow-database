@@ -2,10 +2,11 @@
 layout: show
 title: '2015-08-02: Luna - CCA, Glasgow, UK'
 name: 2015-08-02-luna-cca-glasgow-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'CCA, Glasgow, UK'
 show-setlist: 
 show-date: 2015-08-02
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

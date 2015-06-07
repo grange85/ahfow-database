@@ -2,10 +2,11 @@
 layout: show
 title: '2004-02-12: Damon & Naomi - Southpaw, Brooklyn NY, USA'
 name: 2004-02-12-damon-naomi-southpaw-brooklyn-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2004-02-12
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

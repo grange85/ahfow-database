@@ -2,7 +2,7 @@
 layout: show
 title: '1996-11-15: Luna - Fletchers, Baltimore MD, USA'
 name: 1996-11-15-luna-fletchers-baltimore-md-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "IHOP",
@@ -24,6 +24,7 @@ show-setlist: [
   "Tiger Lily"
   ]
 show-date: 1996-11-15
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

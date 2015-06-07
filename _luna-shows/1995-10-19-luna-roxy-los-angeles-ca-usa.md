@@ -2,10 +2,11 @@
 layout: show
 title: '1995-10-19: Luna - Roxy, Los Angeles CA, USA'
 name: 1995-10-19-luna-roxy-los-angeles-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Roxy, Los Angeles CA, USA'
 show-setlist: 
 show-date: 1995-10-19
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

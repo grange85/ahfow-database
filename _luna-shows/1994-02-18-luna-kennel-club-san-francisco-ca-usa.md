@@ -2,7 +2,7 @@
 layout: show
 title: '1994-02-18: Luna - Kennel Club, San Francisco CA, USA'
 name: 1994-02-18-luna-kennel-club-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Kennel Club, San Francisco CA, USA'
 show-setlist: [
   "Anesthesia",
@@ -22,6 +22,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 1994-02-18
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

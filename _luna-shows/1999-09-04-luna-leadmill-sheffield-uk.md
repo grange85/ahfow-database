@@ -2,7 +2,7 @@
 layout: show
 title: '1999-09-04: Luna - Leadmill, Sheffield, UK'
 name: 1999-09-04-luna-leadmill-sheffield-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Leadmill, Sheffield, UK'
 show-setlist: [
   "California (All the Way)",
@@ -18,6 +18,7 @@ show-setlist: [
   "Pup Tent"
   ]
 show-date: 1999-09-04
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2007-06-19: Dean & Britta - Metro Club, London, UK'
 name: 2007-06-19-dean-britta-metro-club-london-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Metro Club, London, UK'
 show-setlist: [
   "Singer Sing",
@@ -19,6 +19,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2007-06-19
+category: 2007
 show-radio: 
 show-lastfm: 221443
 show-cancelled: 

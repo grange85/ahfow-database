@@ -2,7 +2,7 @@
 layout: show
 title: '2005-01-29: Luna - Sons of Hermann Hall, Dallas TX, USA'
 name: 2005-01-29-luna-sons-of-hermann-hall-dallas-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Sons of Hermann Hall, Dallas TX, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-01-29
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-08-24: Luna - Northsix, Brooklyn NY, USA'
 name: 2002-08-24-luna-northsix-brooklyn-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Northsix, Brooklyn NY, USA'
 show-setlist: [
   "Chinatown",
@@ -24,6 +24,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 2002-08-24
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

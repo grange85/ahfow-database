@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-14: Luna - La Zona Rosa, Austin TX, USA'
 name: 2002-06-14-luna-la-zona-rosa-austin-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'La Zona Rosa, Austin TX, USA'
 show-setlist: [
   "Chinatown",
@@ -23,6 +23,7 @@ show-setlist: [
   "1995"
   ]
 show-date: 2002-06-14
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1990-11-15: Galaxie 500 - ULU, London, UK'
 name: 1990-11-15-galaxie-500-ulu-london-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'ULU, London, UK'
 show-setlist: [
   "Decomposing Trees",
@@ -20,6 +20,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 1990-11-15
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

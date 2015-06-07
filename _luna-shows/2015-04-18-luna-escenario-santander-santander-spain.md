@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-18: Luna - Escenario Santander, Santander, Spain'
 name: 2015-04-18-luna-escenario-santander-santander-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Escenario Santander, Santander, Spain'
 show-setlist: [
   "Slide",
@@ -26,6 +26,7 @@ show-setlist: [
   ]
 setlist-source: 'https://www.flickr.com/photos/city_kitty/17005570610/'
 show-date: 2015-04-18
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

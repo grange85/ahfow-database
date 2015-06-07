@@ -2,7 +2,7 @@
 layout: show
 title: '1990-11-04: Galaxie 500 - BBC Radio One, London, UK'
 name: 1990-11-04-galaxie-500-bbc-radio-one-london-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'BBC Radio One, London, UK'
 show-setlist: [
   "Moonshot",
@@ -11,6 +11,7 @@ show-setlist: [
   "Final Day"
   ]
 show-date: 1990-11-04
+category: 1990
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

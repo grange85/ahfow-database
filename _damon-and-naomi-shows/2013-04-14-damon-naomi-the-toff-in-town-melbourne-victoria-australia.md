@@ -2,10 +2,11 @@
 layout: show
 title: '2013-04-14: Damon & Naomi - The Toff in Town, Melbourne, Victoria, Australia'
 name: 2013-04-14-damon-naomi-the-toff-in-town-melbourne-victoria-australia
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Toff in Town, Melbourne, Victoria, Australia'
 show-setlist: 
 show-date: 2013-04-14
+category: 2013
 show-radio: 
 show-lastfm: 
 show-cancelled: 

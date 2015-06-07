@@ -2,7 +2,7 @@
 layout: show
 title: '1994-04-03: Luna - Universal Amphitheatre, Los Angeles CA, USA'
 name: 1994-04-03-luna-universal-amphitheatre-los-angeles-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Universal Amphitheatre, Los Angeles CA, USA'
 show-setlist: [
   "California (All the Way)",
@@ -16,6 +16,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1994-04-03
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

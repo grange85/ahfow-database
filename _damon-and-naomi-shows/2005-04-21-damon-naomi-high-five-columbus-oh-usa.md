@@ -2,10 +2,11 @@
 layout: show
 title: '2005-04-21: Damon & Naomi - High Five, Columbus OH, USA'
 name: 2005-04-21-damon-naomi-high-five-columbus-oh-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'High Five, Columbus OH, USA'
 show-setlist: 
 show-date: 2005-04-21
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

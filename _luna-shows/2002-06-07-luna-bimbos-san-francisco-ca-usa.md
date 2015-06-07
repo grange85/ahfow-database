@@ -2,7 +2,7 @@
 layout: show
 title: "2002-06-07: Luna - Bimbos, San Francisco CA, USA"
 name: 2002-06-07-luna-bimbos-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Bimbos, San Francisco CA, USA"
 show-setlist: [
   "Lovedust",
@@ -23,6 +23,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2002-06-07
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2015-04-29: Luna - Las Chocheras del Puerto, Huelva, Spain'
 name: 2015-04-29-luna-las-chocheras-del-puerto-huelva-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Las Chocheras del Puerto, Huelva, Spain'
 show-setlist: 
 show-date: 2015-04-29
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

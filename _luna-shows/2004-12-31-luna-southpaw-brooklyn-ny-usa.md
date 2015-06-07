@@ -2,7 +2,7 @@
 layout: show
 title: '2004-12-31: Luna - Southpaw, Brooklyn NY, USA'
 name: 2004-12-31-luna-southpaw-brooklyn-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -26,6 +26,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2004-12-31
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-03: Luna - Casbah, San Diego CA, USA'
 name: 2005-02-03-luna-casbah-san-diego-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Casbah, San Diego CA, USA'
 show-setlist: [
   "Egg Nog",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-02-03
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

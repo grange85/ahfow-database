@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Luna biography
+title : Luna
 categories: primary
 ---
 

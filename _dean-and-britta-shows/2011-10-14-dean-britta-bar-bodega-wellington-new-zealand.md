@@ -2,10 +2,11 @@
 layout: show
 title: '2011-10-14: Dean & Britta - Bar Bodega, Wellington, New Zealand'
 name: 2011-10-14-dean-britta-bar-bodega-wellington-new-zealand
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Bar Bodega, Wellington, New Zealand'
 show-setlist: 
 show-date: 2011-10-14
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

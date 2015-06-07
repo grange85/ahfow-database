@@ -2,7 +2,7 @@
 layout: show
 title: '1996-03-08: Luna - Electric Factory, Philadelphia PA, USA'
 name: 1996-03-08-luna-electric-factory-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Electric Factory, Philadelphia PA, USA'
 show-setlist: [
   "Moon Palace",
@@ -16,6 +16,7 @@ show-setlist: [
   "Tiger Lily"
   ]
 show-date: 1996-03-08
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

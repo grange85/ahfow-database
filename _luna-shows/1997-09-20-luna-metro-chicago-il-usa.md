@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-20: Luna - Metro, Chicago IL, USA'
 name: 1997-09-20-luna-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -25,6 +25,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 1997-09-20
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

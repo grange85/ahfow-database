@@ -2,10 +2,11 @@
 layout: show
 title: '2005-05-26: Damon & Naomi - Universidad, Huelva, Spain'
 name: 2005-05-26-damon-naomi-universidad-huelva-spain
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Universidad, Huelva, Spain'
 show-setlist: 
 show-date: 2005-05-26
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

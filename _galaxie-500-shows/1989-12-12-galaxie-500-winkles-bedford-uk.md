@@ -2,10 +2,11 @@
 layout: show
 title: '1989-12-12: Galaxie 500 - Winkles, Bedford, UK'
 name: 1989-12-12-galaxie-500-winkles-bedford-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Winkles, Bedford, UK'
 show-setlist: 
 show-date: 1989-12-12
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-10: Luna - Aladdin Theatre, Portland OR, USA'
 name: 2005-02-10-luna-aladdin-theatre-portland-or-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Chinatown",
@@ -23,6 +23,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 2005-02-10
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

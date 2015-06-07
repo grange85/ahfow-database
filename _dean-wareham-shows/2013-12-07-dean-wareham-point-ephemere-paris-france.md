@@ -2,7 +2,7 @@
 layout: show
 title: '2013-12-07: Dean Wareham - Point Ephemere, Paris, France'
 name: 2013-12-07-dean-wareham-point-ephemere-paris-france
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Point Ephemere, Paris, France'
 show-setlist: [
   "Love Is Colder Than Death",
@@ -21,6 +21,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2013-12-07
+category: 2013
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1998-05-01: Luna - Slims, San Francisco CA, USA'
 name: 1998-05-01-luna-slims-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Slims, San Francisco CA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1998-05-01
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

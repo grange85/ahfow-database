@@ -2,10 +2,11 @@
 layout: show
 title: '2002-08-27: Damon & Naomi - SESC Villa Mariana, Sao Paulo, Brazil'
 name: 2002-08-27-damon-naomi-sesc-villa-mariana-sao-paulo-brazil
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'SESC Villa Mariana, Sao Paulo, Brazil'
 show-setlist: 
 show-date: 2002-08-27
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

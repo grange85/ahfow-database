@@ -2,7 +2,7 @@
 layout: show
 title: '2007-06-18: Dean & Britta - Sussex Arts Club, Brighton, UK'
 name: 2007-06-18-dean-britta-sussex-arts-club-brighton-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Sussex Arts Club, Brighton, UK'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2007-06-18
+category: 2007
 show-radio: 
 show-lastfm: 221925
 show-cancelled: 

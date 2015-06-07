@@ -2,10 +2,11 @@
 layout: show
 title: '2009-09-06: Damon & Naomi - Espace En Cours, Paris, France'
 name: 2009-09-06-damon-naomi-espace-en-cours-paris-france
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Espace En Cours, Paris, France'
 show-setlist: 
 show-date: 2009-09-06
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

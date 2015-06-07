@@ -2,10 +2,11 @@
 layout: show
 title: '2015-05-29: Damon & Naomi - The Bell House, Brooklyn, NY, USA'
 name: 2015-05-29-damon-and-naomi-the-bell-house-brooklyn-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Bell House, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2015-05-29
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2011-04-29: Dean & Britta - Strand, Stockholm, Sweden'
 name: 2011-04-29-dean-britta-strand-stockholm-sweden
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Strand, Stockholm, Sweden'
 show-setlist: 
 show-date: 2011-04-29
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

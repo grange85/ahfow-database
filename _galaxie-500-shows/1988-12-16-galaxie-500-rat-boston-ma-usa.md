@@ -2,7 +2,7 @@
 layout: show
 title: '1988-12-16: Galaxie 500 - Rat, Boston MA, USA'
 name: 1988-12-16-galaxie-500-rat-boston-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Rat, Boston MA, USA'
 show-setlist: [
   "Tugboat",
@@ -15,6 +15,7 @@ show-setlist: [
   "Temperature's Rising"
   ]
 show-date: 1988-12-16
+category: 1988
 show-radio: 
 show-lastfm: 
 show-cancelled: 

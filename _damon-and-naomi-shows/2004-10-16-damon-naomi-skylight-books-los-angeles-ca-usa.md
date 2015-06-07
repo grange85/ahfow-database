@@ -2,10 +2,11 @@
 layout: show
 title: '2004-10-16: Damon & Naomi - Skylight Books, Los Angeles CA, USA'
 name: 2004-10-16-damon-naomi-skylight-books-los-angeles-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Skylight Books, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2004-10-16
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-30: Luna - Majestic Theater, Detroit MI, USA'
 name: 2002-05-30-luna-majestic-theater-detroit-mi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Majestic Theater, Detroit MI, USA'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-05-30
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

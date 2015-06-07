@@ -2,7 +2,7 @@
 layout: show
 title: '2000-03-30: Luna - Starfish Room, Vancouver, Canada'
 name: 2000-03-30-luna-starfish-room-vancouver-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Starfish Room, Vancouver, Canada'
 show-setlist: [
   "Bewitched",
@@ -22,6 +22,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2000-03-30
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

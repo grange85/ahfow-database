@@ -2,10 +2,11 @@
 layout: show
 title: '2009-11-24: Dean & Britta - Teatro de la Laboral, Gijon, Spain'
 name: 2009-11-24-dean-britta-teatro-de-la-laboral-gijon-spain
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Teatro de la Laboral, Gijon, Spain'
 show-setlist: 
 show-date: 2009-11-24
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

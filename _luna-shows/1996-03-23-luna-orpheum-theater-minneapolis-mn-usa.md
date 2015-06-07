@@ -2,7 +2,7 @@
 layout: show
 title: '1996-03-23: Luna - Orpheum Theater, Minneapolis MN, USA'
 name: 1996-03-23-luna-orpheum-theater-minneapolis-mn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Orpheum Theater, Minneapolis MN, USA'
 show-setlist: [
   "This Time Around",
@@ -14,6 +14,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 1996-03-23
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

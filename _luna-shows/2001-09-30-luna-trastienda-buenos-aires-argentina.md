@@ -2,7 +2,7 @@
 layout: show
 title: '2001-09-30: Luna - Trastienda, Buenos Aires, Argentina'
 name: 2001-09-30-luna-trastienda-buenos-aires-argentina
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trastienda, Buenos Aires, Argentina'
 show-setlist: [
   "Chinatown",
@@ -20,6 +20,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 2001-09-30
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

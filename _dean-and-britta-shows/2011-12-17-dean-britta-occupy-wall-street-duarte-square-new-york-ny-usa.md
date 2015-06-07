@@ -2,7 +2,7 @@
 layout: show
 title: '2011-12-17: Dean & Britta - Occupy Wall Street, Duarte Square, New York, NY, USA'
 name: 2011-12-17-dean-britta-occupy-wall-street-duarte-square-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Occupy Wall Street, Duarte Square, New York, NY, USA'
 show-setlist: [
   "Tugboat",
@@ -11,6 +11,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2011-12-17
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

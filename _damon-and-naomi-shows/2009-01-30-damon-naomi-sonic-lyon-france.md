@@ -2,10 +2,11 @@
 layout: show
 title: '2009-01-30: Damon & Naomi - Sonic, Lyon, France'
 name: 2009-01-30-damon-naomi-sonic-lyon-france
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Sonic, Lyon, France'
 show-setlist: 
 show-date: 2009-01-30
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

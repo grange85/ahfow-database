@@ -2,10 +2,11 @@
 layout: show
 title: '2001-01-27: Luna - Village Underground, New York NY, USA'
 name: 2001-01-27-luna-village-underground-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: 
 show-date: 2001-01-27
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

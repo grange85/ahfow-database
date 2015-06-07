@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-03: Luna - Terminal West, Atlanta, GA, USA'
 name: 2015-10-03-luna-terminal-west-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Terminal West, Atlanta, GA, USA'
 show-setlist: 
 show-date: 2015-10-03
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

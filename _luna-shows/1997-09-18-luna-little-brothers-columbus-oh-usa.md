@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-18: Luna - Little Brothers, Columbus OH, USA'
 name: 1997-09-18-luna-little-brothers-columbus-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Little Brothers, Columbus OH, USA'
 show-setlist: [
   "Pup Tent",
@@ -22,6 +22,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1997-09-18
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

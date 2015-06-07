@@ -2,10 +2,11 @@
 layout: show
 title: '2009-01-21: Damon & Naomi - Matadero, Huesca, Spain '
 name: 2009-01-21-damon-naomi-matadero-huesca-spain
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Matadero, Huesca, Spain '
 show-setlist: 
 show-date: 2009-01-21
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

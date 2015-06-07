@@ -2,10 +2,11 @@
 layout: show
 title: '2001-09-26: Luna - tbc, Sao Carlos, Brazil'
 name: 2001-09-26-luna-tbc-sao-carlos-brazil
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'tbc, Sao Carlos, Brazil'
 show-setlist: 
 show-date: 2001-09-26
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

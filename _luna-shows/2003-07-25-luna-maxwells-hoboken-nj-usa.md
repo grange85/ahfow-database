@@ -2,7 +2,7 @@
 layout: show
 title: '2003-07-25: Luna - Maxwells, Hoboken NJ, USA'
 name: 2003-07-25-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Teenage Lightning",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2003-07-25
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

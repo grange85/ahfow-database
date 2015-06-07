@@ -2,7 +2,7 @@
 layout: show
 title: '1992-01-17: Luna - CBGBs, New York NY, USA'
 name: 1992-01-17-luna-cbgbs-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Anesthesia",
@@ -15,6 +15,8 @@ show-setlist: [
   "Hey Sister"
   ]
 show-date: 1992-01-17
+category: 1992
+category: 1992
 show-radio: 
 show-lastfm: 
 show-cancelled: 

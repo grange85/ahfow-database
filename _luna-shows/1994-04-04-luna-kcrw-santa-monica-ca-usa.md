@@ -2,7 +2,7 @@
 layout: show
 title: '1994-04-04: Luna - KCRW, Santa Monica CA, USA'
 name: 1994-04-04-luna-kcrw-santa-monica-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Tiger Lily",
@@ -12,6 +12,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 1994-04-04
+category: 1994
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

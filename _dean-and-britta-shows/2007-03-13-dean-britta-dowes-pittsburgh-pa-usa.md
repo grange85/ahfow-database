@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-13: Dean & Britta - Dowes, Pittsburgh PA, USA'
 name: 2007-03-13-dean-britta-dowes-pittsburgh-pa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Dowes, Pittsburgh PA, USA'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2007-03-13
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

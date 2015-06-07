@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-18: Luna - Blueberry Hill Duck Room, St Louis MO, USA'
 name: 2002-06-18-luna-blueberry-hill-duck-room-st-louis-mo-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Blueberry Hill Duck Room, St Louis MO, USA'
 show-setlist: [
   "Lovedust",
@@ -24,6 +24,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 2002-06-18
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

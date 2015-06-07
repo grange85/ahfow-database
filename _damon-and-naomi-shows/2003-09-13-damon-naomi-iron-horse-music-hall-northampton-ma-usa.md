@@ -2,10 +2,11 @@
 layout: show
 title: '2003-09-13: Damon & Naomi - Iron Horse Music Hall, Northampton MA, USA'
 name: 2003-09-13-damon-naomi-iron-horse-music-hall-northampton-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Iron Horse Music Hall, Northampton MA, USA'
 show-setlist: 
 show-date: 2003-09-13
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

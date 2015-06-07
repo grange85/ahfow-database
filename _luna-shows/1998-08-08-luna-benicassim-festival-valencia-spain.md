@@ -2,7 +2,7 @@
 layout: show
 title: '1998-08-08: Luna - Benicassim Festival, Valencia, Spain'
 name: 1998-08-08-luna-benicassim-festival-valencia-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Benicassim Festival, Valencia, Spain'
 show-setlist: [
   "California (All the Way)",
@@ -15,6 +15,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1998-08-08
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

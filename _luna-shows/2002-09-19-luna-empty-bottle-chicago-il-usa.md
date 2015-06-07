@@ -2,10 +2,11 @@
 layout: show
 title: '2002-09-19: Luna - Empty Bottle, Chicago IL, USA'
 name: 2002-09-19-luna-empty-bottle-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Empty Bottle, Chicago IL, USA'
 show-setlist: 
 show-date: 2002-09-19
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

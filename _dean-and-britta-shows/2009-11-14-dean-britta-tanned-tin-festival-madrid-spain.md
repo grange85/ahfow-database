@@ -2,10 +2,11 @@
 layout: show
 title: '2009-11-14: Dean & Britta - Tanned Tin Festival, Madrid, Spain'
 name: 2009-11-14-dean-britta-tanned-tin-festival-madrid-spain
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Tanned Tin Festival, Madrid, Spain'
 show-setlist: 
 show-date: 2009-11-14
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

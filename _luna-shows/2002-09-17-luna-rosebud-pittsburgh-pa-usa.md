@@ -2,10 +2,11 @@
 layout: show
 title: '2002-09-17: Luna - Rosebud, Pittsburgh PA, USA'
 name: 2002-09-17-luna-rosebud-pittsburgh-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Rosebud, Pittsburgh PA, USA'
 show-setlist: 
 show-date: 2002-09-17
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2011-06-04: Damon & Naomi - Satellite, Los Angeles, CA, USA'
 name: 2011-06-04-damon-naomi-satellite-los-angeles-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Satellite, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2011-06-04
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

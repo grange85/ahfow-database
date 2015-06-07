@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-15: Luna - High Noon Saloon, Madison WI, USA'
 name: 2004-11-15-luna-high-noon-saloon-madison-wi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-11-15
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

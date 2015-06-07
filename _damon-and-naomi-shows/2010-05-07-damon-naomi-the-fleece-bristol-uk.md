@@ -2,10 +2,11 @@
 layout: show
 title: '2010-05-07: Damon & Naomi - The Fleece, Bristol, UK'
 name: 2010-05-07-damon-naomi-the-fleece-bristol-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Fleece, Bristol, UK'
 show-setlist: 
 show-date: 2010-05-07
+category: 2010
 show-radio: 
 show-lastfm: 1422052
 show-cancelled: 

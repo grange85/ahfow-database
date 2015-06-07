@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-29: Dean & Britta - Black Cat, Washington DC, USA'
 name: 2007-03-29-dean-britta-black-cat-washington-dc-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-03-29
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

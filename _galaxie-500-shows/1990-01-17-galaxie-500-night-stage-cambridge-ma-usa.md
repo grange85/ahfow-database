@@ -2,7 +2,7 @@
 layout: show
 title: '1990-01-17: Galaxie 500 - Night Stage, Cambridge MA, USA'
 name: 1990-01-17-galaxie-500-night-stage-cambridge-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Night Stage, Cambridge MA, USA'
 show-setlist: [
   "Flowers",
@@ -17,6 +17,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 1990-01-17
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

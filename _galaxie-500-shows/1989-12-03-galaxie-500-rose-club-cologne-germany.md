@@ -2,10 +2,11 @@
 layout: show
 title: '1989-12-03: Galaxie 500 - Rose Club, Cologne, Germany'
 name: 1989-12-03-galaxie-500-rose-club-cologne-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Rose Club, Cologne, Germany'
 show-setlist: 
 show-date: 1989-12-03
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

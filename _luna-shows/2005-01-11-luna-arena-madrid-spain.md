@@ -2,10 +2,11 @@
 layout: show
 title: '2005-01-11: Luna - Arena, Madrid, Spain'
 name: 2005-01-11-luna-arena-madrid-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Arena, Madrid, Spain'
 show-setlist: 
 show-date: 2005-01-11
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

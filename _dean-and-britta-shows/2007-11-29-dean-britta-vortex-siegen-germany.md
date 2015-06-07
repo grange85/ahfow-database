@@ -2,7 +2,7 @@
 layout: show
 title: '2007-11-29: Dean & Britta - Vortex, Siegen, Germany'
 name: 2007-11-29-dean-britta-vortex-siegen-germany
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Vortex, Siegen, Germany'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "We're Not Supposed to Be Lovers"
   ]
 show-date: 2007-11-29
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

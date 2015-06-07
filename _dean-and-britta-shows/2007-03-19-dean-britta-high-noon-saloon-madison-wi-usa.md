@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-19: Dean & Britta - High Noon Saloon, Madison WI, USA'
 name: 2007-03-19-dean-britta-high-noon-saloon-madison-wi-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-03-19
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

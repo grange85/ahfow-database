@@ -2,7 +2,7 @@
 layout: show
 title: '2002-11-30: Luna - Bowery Ballroom, New York NY, USA'
 name: 2002-11-30-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Chinatown",
@@ -25,6 +25,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2002-11-30
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

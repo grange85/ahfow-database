@@ -2,10 +2,11 @@
 layout: show
 title: '2011-07-24: Dean & Britta - Truck Festival, Didcot, Oxfordshire, UK'
 name: 2011-07-24-dean-britta-truck-festival-didcot-oxfordshire-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Truck Festival, Didcot, Oxfordshire, UK'
 show-setlist: 
 show-date: 2011-07-24
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

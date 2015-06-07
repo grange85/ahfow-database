@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-19: Luna - 40 Watt Club, Athens GA, USA'
 name: 2002-06-19-luna-40-watt-club-athens-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '40 Watt Club, Athens GA, USA'
 show-setlist: [
   "Egg Nog",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2002-06-19
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

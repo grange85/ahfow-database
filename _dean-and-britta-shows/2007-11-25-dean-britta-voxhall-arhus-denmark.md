@@ -2,10 +2,11 @@
 layout: show
 title: '2007-11-25: Dean & Britta - Voxhall, Arhus, Denmark'
 name: 2007-11-25-dean-britta-voxhall-arhus-denmark
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Voxhall, Arhus, Denmark'
 show-setlist: 
 show-date: 2007-11-25
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

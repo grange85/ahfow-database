@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-21: Luna - Teatro Lara, Madrid, Spain'
 name: 2015-04-21-luna-teatro-lara-madrid-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Teatro Lara, Madrid, Spain'
 show-setlist: [
   "Slide",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2015-04-21
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

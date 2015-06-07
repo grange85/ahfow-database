@@ -2,7 +2,7 @@
 layout: show
 title: '2003-08-22: Luna - Southpaw, Brooklyn NY, USA'
 name: 2003-08-22-luna-southpaw-brooklyn-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: [
   "IHOP",
@@ -24,6 +24,7 @@ show-setlist: [
   "Fuzzy Wuzzy"
   ]
 show-date: 2003-08-22
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

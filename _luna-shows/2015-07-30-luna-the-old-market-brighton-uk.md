@@ -2,10 +2,11 @@
 layout: show
 title: '2015-07-30: Luna - The Old Market, Brighton, UK'
 name: 2015-07-30-luna-the-old-market-brighton-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Old Market, Brighton, UK'
 show-setlist: 
 show-date: 2015-07-30
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

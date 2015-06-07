@@ -2,10 +2,11 @@
 layout: show
 title: '2011-04-25: Dean & Britta - 013, Tilburg, Netherlands'
 name: 2011-04-25-dean-britta-013-tilburg-netherlands
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: '013, Tilburg, Netherlands'
 show-setlist: 
 show-date: 2011-04-25
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

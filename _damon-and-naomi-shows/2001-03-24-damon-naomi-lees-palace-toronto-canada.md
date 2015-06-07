@@ -2,10 +2,11 @@
 layout: show
 title: "2001-03-24: Damon & Naomi - Lees Palace, Toronto, Canada"
 name: 2001-03-24-damon-naomi-lees-palace-toronto-canada
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: "Lees Palace, Toronto, Canada"
 show-setlist: 
 show-date: 2001-03-24
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-17: Luna - Gijon Sound Festival, Gijon, Spain'
 name: 2015-04-17-luna-gijon-sound-festival-gijon-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Gijon Sound Festival, Teatro Albéniz, Gijon, Spain'
 show-setlist: [
   "Slide",
@@ -21,6 +21,7 @@ show-setlist: [
   ]
 setlist-source: '<p><a href="https://www.flickr.com/photos/city_kitty/16996351769/">photo on Flickr by city kitty</a>'
 show-date: 2015-04-17
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-07-16: Damon & Naomi - Star, Tokyo, Japan'
 name: 2002-07-16-damon-naomi-star-tokyo-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Star, Tokyo, Japan'
 show-setlist: [
   "Judah and the Maccabees",
@@ -23,6 +23,7 @@ show-setlist: [
   "Oh, Sister"
   ]
 show-date: 2002-07-16
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

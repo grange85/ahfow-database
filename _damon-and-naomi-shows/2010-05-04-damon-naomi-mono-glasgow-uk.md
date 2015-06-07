@@ -2,10 +2,11 @@
 layout: show
 title: '2010-05-04: Damon & Naomi - Mono, Glasgow, UK'
 name: 2010-05-04-damon-naomi-mono-glasgow-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Mono, Glasgow, UK'
 show-setlist: 
 show-date: 2010-05-04
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

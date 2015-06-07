@@ -2,7 +2,7 @@
 layout: show
 title: '2002-04-27: Luna - WFMU, Jersey City NJ, USA'
 name: 2002-04-27-luna-wfmu-jersey-city-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'WFMU, Jersey City NJ, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -14,6 +14,7 @@ show-setlist: [
   "Lost In Space"
   ]
 show-date: 2002-04-27
+category: 2002
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

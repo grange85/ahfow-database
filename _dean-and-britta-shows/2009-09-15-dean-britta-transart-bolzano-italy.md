@@ -2,10 +2,11 @@
 layout: show
 title: '2009-09-15: Dean & Britta - Transart, Bolzano, Italy'
 name: 2009-09-15-dean-britta-transart-bolzano-italy
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Transart, Bolzano, Italy'
 show-setlist: 
 show-date: 2009-09-15
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

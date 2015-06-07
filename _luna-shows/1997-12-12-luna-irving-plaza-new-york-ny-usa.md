@@ -2,7 +2,7 @@
 layout: show
 title: '1997-12-12: Luna - Irving Plaza, New York NY, USA'
 name: 1997-12-12-luna-irving-plaza-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Pup Tent",
@@ -24,6 +24,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1997-12-12
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

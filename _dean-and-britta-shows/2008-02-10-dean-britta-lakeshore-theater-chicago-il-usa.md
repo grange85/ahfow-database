@@ -2,7 +2,7 @@
 layout: show
 title: '2008-02-10: Dean & Britta - Lakeshore Theater, Chicago IL, USA'
 name: 2008-02-10-dean-britta-lakeshore-theater-chicago-il-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Lakeshore Theater, Chicago IL, USA'
 show-setlist: [
   "We're Not Supposed to Be Lovers",
@@ -18,6 +18,7 @@ show-setlist: [
   "Tiger Lily"
   ]
 show-date: 2008-02-10
+category: 2008
 show-radio: 
 show-lastfm: 
 show-cancelled: 

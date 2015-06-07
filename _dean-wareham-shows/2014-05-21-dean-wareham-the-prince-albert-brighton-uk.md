@@ -2,7 +2,7 @@
 layout: show
 title: '2014-05-21: Dean Wareham - The Prince Albert, Brighton, UK'
 name: 2014-05-21-dean-wareham-the-prince-albert-brighton-uk
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'The Prince Albert, Brighton, UK'
 show-setlist: [
   "Flowers",
@@ -22,6 +22,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2014-05-21
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

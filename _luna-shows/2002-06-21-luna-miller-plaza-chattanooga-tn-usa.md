@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-21: Luna - Miller Plaza, Chattanooga TN, USA'
 name: 2002-06-21-luna-miller-plaza-chattanooga-tn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Miller Plaza, Chattanooga TN, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -23,6 +23,7 @@ show-setlist: [
   "Black Postcards"
   ]
 show-date: 2002-06-21
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

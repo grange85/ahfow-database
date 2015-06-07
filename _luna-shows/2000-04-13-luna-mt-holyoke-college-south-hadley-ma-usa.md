@@ -2,7 +2,7 @@
 layout: show
 title: '2000-04-13: Luna - Mt Holyoke College, South Hadley MA, USA'
 name: 2000-04-13-luna-mt-holyoke-college-south-hadley-ma-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Mt Holyoke College, South Hadley MA, USA'
 show-setlist: [
   "Four Thousand Days",
@@ -15,6 +15,7 @@ show-setlist: [
   "IHOP"
   ]
 show-date: 2000-04-13
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

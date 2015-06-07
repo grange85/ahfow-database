@@ -2,10 +2,11 @@
 layout: show
 title: '2010-05-02: Damon & Naomi - Philips Church, Salford, Manchester, UK'
 name: 2010-05-02-damon-naomi-philips-church-salford-manchester-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Philips Church, Salford, Manchester, UK'
 show-setlist: 
 show-date: 2010-05-02
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

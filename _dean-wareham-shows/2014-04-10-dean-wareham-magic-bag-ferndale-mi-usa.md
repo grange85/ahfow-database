@@ -2,10 +2,11 @@
 layout: show
 title: '2014-04-10: Dean Wareham - Magic Bag, Ferndale, MI, USA'
 name: 2014-04-10-dean-wareham-magic-bag-ferndale-mi-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Magic Bag, Ferndale, MI, USA'
 show-setlist: 
 show-date: 2014-04-10
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2007-07-12: Dean & Britta - Rams Head Tavern, Annapolis MD, USA'
 name: 2007-07-12-dean-britta-rams-head-tavern-annapolis-md-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Rams Head Tavern, Annapolis MD, USA'
 show-setlist: [
   "Singer Sing",
@@ -24,6 +24,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2007-07-12
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

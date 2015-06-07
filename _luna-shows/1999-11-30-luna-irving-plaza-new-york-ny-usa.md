@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-30: Luna - Irving Plaza, New York NY, USA'
 name: 1999-11-30-luna-irving-plaza-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-11-30
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

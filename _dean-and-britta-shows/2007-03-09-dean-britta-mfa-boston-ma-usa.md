@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-09: Dean & Britta - MFA, Boston MA, USA'
 name: 2007-03-09-dean-britta-mfa-boston-ma-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'MFA, Boston MA, USA'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2007-03-09
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

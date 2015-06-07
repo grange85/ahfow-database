@@ -2,7 +2,7 @@
 layout: show
 title: '2002-02-23: Luna - Maxwells, Hoboken NJ, USA'
 name: 2002-02-23-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Dear Diary",
@@ -23,6 +23,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 2002-02-23
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

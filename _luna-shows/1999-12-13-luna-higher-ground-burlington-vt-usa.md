@@ -2,7 +2,7 @@
 layout: show
 title: '1999-12-13: Luna - Higher Ground, Burlington VT, USA'
 name: 1999-12-13-luna-higher-ground-burlington-vt-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Higher Ground, Burlington VT, USA'
 show-setlist: [
   "Egg Nog",
@@ -25,6 +25,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 1999-12-13
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2000-04-01: Luna - Fillmore, San Francisco CA, USA'
 name: 2000-04-01-luna-fillmore-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Bewitched",
@@ -23,6 +23,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2000-04-01
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

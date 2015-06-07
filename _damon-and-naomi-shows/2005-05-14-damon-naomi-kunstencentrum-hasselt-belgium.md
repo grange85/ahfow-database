@@ -2,10 +2,11 @@
 layout: show
 title: '2005-05-14: Damon & Naomi - Kunstencentrum, Hasselt, Belgium'
 name: 2005-05-14-damon-naomi-kunstencentrum-hasselt-belgium
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Kunstencentrum, Hasselt, Belgium'
 show-setlist: 
 show-date: 2005-05-14
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

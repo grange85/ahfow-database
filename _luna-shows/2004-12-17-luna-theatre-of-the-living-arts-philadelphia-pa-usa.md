@@ -2,7 +2,7 @@
 layout: show
 title: '2004-12-17: Luna - Theatre of the Living Arts, Philadelphia PA, USA'
 name: 2004-12-17-luna-theatre-of-the-living-arts-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Theatre of the Living Arts, Philadelphia PA, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-12-17
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

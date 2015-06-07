@@ -2,7 +2,7 @@
 layout: show
 title: '1990-11-24: Galaxie 500 - Philipshalle, Dusseldorf, Germany'
 name: 1990-11-24-galaxie-500-philipshalle-dusseldorf-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Philipshalle, Dusseldorf, Germany'
 show-setlist: [
   "Decomposing Trees",
@@ -12,6 +12,7 @@ show-setlist: [
   "Listen the Snow is Falling"
   ]
 show-date: 1990-11-24
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2011-10-12: Dean & Britta - Anadale Hotel, Sydney, Australia'
 name: 2011-10-12-dean-britta-anadale-hotel-sydney-australia
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Anadale Hotel, Sydney, Australia'
 setlist-source: 'scan'
 show-setlist: [
@@ -24,6 +24,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2011-10-12
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

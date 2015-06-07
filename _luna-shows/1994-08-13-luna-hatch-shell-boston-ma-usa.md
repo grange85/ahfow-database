@@ -2,10 +2,11 @@
 layout: show
 title: '1994-08-13: Luna - Hatch Shell, Boston, MA, USA'
 name: 1994-08-13-luna-hatch-shell-boston-ma-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Hatch Shell, Boston, MA, USA'
 show-setlist: 
 show-date: 1994-08-13
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2001-08-30: Damon & Naomi - Bottom of the Hill, San Francisco CA, USA'
 name: 2001-08-30-damon-naomi-bottom-of-the-hill-san-francisco-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Bottom of the Hill, San Francisco CA, USA'
 show-setlist: [
   "Judah and the Maccabees",
@@ -17,6 +17,7 @@ show-setlist: [
   "New York City"
   ]
 show-date: 2001-08-30
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

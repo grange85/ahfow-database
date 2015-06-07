@@ -2,10 +2,11 @@
 layout: show
 title: '2003-01-31: Luna - Twilight, Tampa FL, USA'
 name: 2003-01-31-luna-twilight-tampa-fl-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Twilight, Tampa FL, USA'
 show-setlist: 
 show-date: 2003-01-31
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

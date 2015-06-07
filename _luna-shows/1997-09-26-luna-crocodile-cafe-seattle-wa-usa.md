@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-26: Luna - Crocodile Cafe, Seattle WA, USA'
 name: 1997-09-26-luna-crocodile-cafe-seattle-wa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Crocodile Cafe, Seattle WA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 1997-09-26
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2015-04-11: Damon & Naomi - Salon IKSV, Istanbul, Turkey'
 name: 2015-04-11-damon-and-naomi-salon-iksv-istanbul-turkey
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Salon IKSV, Istanbul, Turkey'
 show-setlist: 
 show-date: 2015-04-11
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

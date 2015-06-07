@@ -2,10 +2,11 @@
 layout: show
 title: '2009-10-13: Damon & Naomi - Tractor, Seattle, WA, USA'
 name: 2009-10-13-damon-naomi-tractor-seattle-wa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Tractor, Seattle, WA, USA'
 show-setlist: 
 show-date: 2009-10-13
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

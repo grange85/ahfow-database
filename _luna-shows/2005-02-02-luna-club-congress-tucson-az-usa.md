@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-02: Luna - Club Congress, Tucson AZ, USA'
 name: 2005-02-02-luna-club-congress-tucson-az-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Club Congress, Tucson AZ, USA'
 show-setlist: [
   "Chinatown",
@@ -26,6 +26,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 2005-02-02
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

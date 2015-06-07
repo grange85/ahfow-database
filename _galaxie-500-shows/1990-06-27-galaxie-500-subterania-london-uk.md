@@ -2,10 +2,11 @@
 layout: show
 title: '1990-06-27: Galaxie 500 - Subterania, London, UK'
 name: 1990-06-27-galaxie-500-subterania-london-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Subterania, London, UK'
 show-setlist: 
 show-date: 1990-06-27
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

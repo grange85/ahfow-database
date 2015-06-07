@@ -2,7 +2,7 @@
 layout: show
 title: '1993-03-02: Luna - Opera House, Toronto, Canada'
 name: 1993-03-02-luna-opera-house-toronto-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Opera House, Toronto, Canada'
 setlist-source: 'recording'
 show-setlist: [
@@ -18,6 +18,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1993-03-02
+category: 1993
 show-radio: 
 show-lastfm: 
 show-cancelled: 

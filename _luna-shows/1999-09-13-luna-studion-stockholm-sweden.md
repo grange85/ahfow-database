@@ -2,10 +2,11 @@
 layout: show
 title: '1999-09-13: Luna - Studion, Stockholm, Sweden'
 name: 1999-09-13-luna-studion-stockholm-sweden
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Studion, Stockholm, Sweden'
 show-setlist: 
 show-date: 1999-09-13
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

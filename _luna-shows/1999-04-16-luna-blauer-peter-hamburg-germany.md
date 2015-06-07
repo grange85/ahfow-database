@@ -2,10 +2,11 @@
 layout: show
 title: '1999-04-16: Luna - Blauer Peter, Hamburg, Germany'
 name: 1999-04-16-luna-blauer-peter-hamburg-germany
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Blauer Peter, Hamburg, Germany'
 show-setlist: 
 show-date: 1999-04-16
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

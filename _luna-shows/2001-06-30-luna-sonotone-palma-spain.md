@@ -2,7 +2,7 @@
 layout: show
 title: '2001-06-30: Luna - Sonotone, Palma, Spain'
 name: 2001-06-30-luna-sonotone-palma-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Sonotone, Palma, Spain'
 show-setlist: [
   "Chinatown",
@@ -21,6 +21,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2001-06-30
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

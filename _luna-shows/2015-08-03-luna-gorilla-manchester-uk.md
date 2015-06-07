@@ -2,10 +2,11 @@
 layout: show
 title: '2015-08-03: Luna - Gorilla, Manchester, UK'
 name: 2015-08-03-luna-gorilla-manchester-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Gorilla, Manchester, UK'
 show-setlist: 
 show-date: 2015-08-03
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

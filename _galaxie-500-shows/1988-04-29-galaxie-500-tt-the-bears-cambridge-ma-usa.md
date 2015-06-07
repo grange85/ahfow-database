@@ -2,10 +2,11 @@
 layout: show
 title: '1988-04-29: Galaxie 500 - TT the Bears, Cambridge MA, USA'
 name: 1988-04-29-galaxie-500-tt-the-bears-cambridge-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'TT the Bears, Cambridge MA, USA'
 show-setlist: 
 show-date: 1988-04-29
+category: 1988
 show-radio: 
 show-lastfm: 
 show-cancelled: 

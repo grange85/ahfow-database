@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-07: Luna - Bowery Ballroom, New York, NY, USA'
 name: 2015-10-07-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York, NY, USA'
 show-setlist: 
 show-date: 2015-10-07
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

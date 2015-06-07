@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-09: Luna - Beachland Ballroom, Cleveland OH, USA'
 name: 2004-11-09-luna-beachland-ballroom-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -26,6 +26,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 2004-11-09
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

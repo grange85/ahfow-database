@@ -2,7 +2,7 @@
 layout: show
 title: "2004-11-21: Luna - Cats Cradle, Carrboro NC, USA"
 name: 2004-11-21-luna-cats-cradle-carrboro-nc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Chinatown",
@@ -24,6 +24,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2004-11-21
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

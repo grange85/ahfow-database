@@ -2,7 +2,7 @@
 layout: show
 title: '2005-12-08: Dean & Britta - Paula Cooper Gallery, New York NY, USA'
 name: 2005-12-08-dean-britta-paula-cooper-gallery-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Paula Cooper Gallery, New York NY, USA'
 show-setlist: [
   "Swedish Fish",
@@ -11,6 +11,7 @@ show-setlist: [
   "Night Nurse"
   ]
 show-date: 2005-12-08
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

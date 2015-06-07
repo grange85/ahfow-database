@@ -2,7 +2,7 @@
 layout: show
 title: '1988-03-19: Galaxie 500 – The Middle East, Cambridge, MA, USA'
 name: 1988-03-19-galaxie-500-middle-east-cambridge-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'The Middle East, Cambridge, MA, USA'
 show-setlist: [
   "Oblivious",
@@ -11,6 +11,7 @@ show-setlist: [
   "Buzz in My Head"
   ]
 show-date: 1988-03-19
+category: 1988
 show-radio: 
 show-lastfm: 
 show-cancelled: 

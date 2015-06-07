@@ -2,10 +2,11 @@
 layout: show
 title: '2005-06-22: Damon & Naomi - Cafe Independants, Kyoto, Japan'
 name: 2005-06-22-damon-naomi-cafe-independants-kyoto-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cafe Independants, Kyoto, Japan'
 show-setlist: 
 show-date: 2005-06-22
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: "1999-10-31: Luna - Idiots Delight WNEW, New York NY, USA"
 name: 1999-10-31-luna-idiots-delight-wnew-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Idiots Delight WNEW, New York NY, USA"
 show-setlist: [
   "Four Thousand Days",
@@ -15,6 +15,7 @@ show-setlist: [
   "Sweet Child O' Mine"
   ]
 show-date: 1999-10-31
+category: 1999
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2011-06-03: Damon & Naomi - Bottom of the Hill, San Francosco, CA, USA'
 name: 2011-06-03-damon-naomi-bottom-of-the-hill-san-francosco-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Bottom of the Hill, San Francosco, CA, USA'
 show-setlist: 
 show-date: 2011-06-03
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -42,6 +42,40 @@ collections:
     output: true
     permalink: dean-wareham/shows/:title.html
 
+
+defaults: 
+  -
+    scope:
+      path: ""
+      type: galaxie-500-shows
+    values:
+      artistslug: galaxie-500
+  -
+    scope:
+      path: ""
+      type: luna-shows
+    values:
+      artistslug: luna
+  -
+    scope:
+      path: ""
+      type: _damon-and-naomi-shows
+    values:
+      artistslug: damon-and-naomi
+  -
+    scope:
+      path: ""
+      type: dean-and-britta-shows
+    values:
+      artistslug: dean-and-britta
+  -
+    scope:
+      path: ""
+      type: dean-wareham-shows
+    values:
+      artistslug: dean-wareham
+
+
 # Build settings
 markdown: kramdown
 source: /Volumes/XANDER3/06-AHFOW_JEKYLL/

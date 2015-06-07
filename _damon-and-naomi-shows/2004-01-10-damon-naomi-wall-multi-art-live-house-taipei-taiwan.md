@@ -2,10 +2,11 @@
 layout: show
 title: '2004-01-10: Damon & Naomi - Wall Multi-Art Live House, Taipei, Taiwan'
 name: 2004-01-10-damon-naomi-wall-multi-art-live-house-taipei-taiwan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Wall Multi-Art Live House, Taipei, Taiwan'
 show-setlist: 
 show-date: 2004-01-10
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

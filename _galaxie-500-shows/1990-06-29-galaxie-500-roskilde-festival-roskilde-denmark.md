@@ -2,7 +2,7 @@
 layout: show
 title: '1990-06-29: Galaxie 500 - Roskilde Festival, Roskilde, Denmark'
 name: 1990-06-29-galaxie-500-roskilde-festival-roskilde-denmark
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Roskilde Festival, Roskilde, Denmark'
 show-setlist: [
   "Fourth of July",
@@ -16,6 +16,7 @@ show-setlist: [
   "Don't Let Our Youth Go To Waste"
   ]
 show-date: 1990-06-29
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

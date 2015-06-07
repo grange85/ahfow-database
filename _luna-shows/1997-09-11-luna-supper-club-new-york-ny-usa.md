@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-11: Luna - Supper Club, New York NY, USA'
 name: 1997-09-11-luna-supper-club-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Supper Club, New York NY, USA'
 show-setlist: [
   "Bewitched",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1997-09-11
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-13: Luna - The Echo, Los Angeles, CA, USA'
 name: 2015-04-13-luna-echo-los-angeles-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Echo, Los Angeles, CA, USA'
 show-setlist: [
   "Slide",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2015-04-13
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2002-08-31: Damon & Naomi - Cine Iris, Rio de Janeiro, Brazil'
 name: 2002-08-31-damon-naomi-cine-ris-rio-de-janeiro-brazil
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cine Iris, Rio de Janeiro, Brazil'
 show-setlist: 
 show-date: 2002-08-31
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

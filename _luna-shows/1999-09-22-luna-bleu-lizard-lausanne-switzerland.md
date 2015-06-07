@@ -2,10 +2,11 @@
 layout: show
 title: '1999-09-22: Luna - Bleu Lizard, Lausanne, Switzerland'
 name: 1999-09-22-luna-bleu-lizard-lausanne-switzerland
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bleu Lizard, Lausanne, Switzerland'
 show-setlist: 
 show-date: 1999-09-22
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

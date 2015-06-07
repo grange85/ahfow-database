@@ -2,7 +2,7 @@
 layout: show
 title: '1995-05-10: Luna - Borderline, London, UK'
 name: 1995-05-10-luna-borderline-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Borderline, London, UK'
 show-setlist: [
   "Sideshow By The Seashore",
@@ -20,6 +20,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1995-05-10
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

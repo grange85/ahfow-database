@@ -2,10 +2,11 @@
 layout: show
 title: '1999-09-16: Luna - Knaack, Berlin, Germany'
 name: 1999-09-16-luna-knaack-berlin-germany
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Knaack, Berlin, Germany'
 show-setlist: 
 show-date: 1999-09-16
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

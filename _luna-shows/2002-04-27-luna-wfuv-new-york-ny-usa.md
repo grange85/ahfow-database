@@ -2,7 +2,7 @@
 layout: show
 title: '2002-04-27: Luna - WFUV, New York NY, USA'
 name: 2002-04-27-luna-wfuv-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'WFUV, New York NY, USA'
 show-setlist: [
   "1995",
@@ -13,6 +13,7 @@ show-setlist: [
   "Swedish Fish"
   ]
 show-date: 2002-04-27
+category: 2002
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

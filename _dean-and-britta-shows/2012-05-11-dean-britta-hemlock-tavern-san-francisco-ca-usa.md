@@ -2,7 +2,7 @@
 layout: show
 title: '2012-05-11: Dean & Britta - Hemlock Tavern, San Francisco, CA, USA'
 name: 2012-05-11-dean-britta-hemlock-tavern-san-francisco-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Hemlock Tavern, San Francisco, CA, USA'
 show-setlist: [
   "When Will You Come Home",
@@ -22,6 +22,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2012-05-11
+category: 2012
 show-radio: 
 show-lastfm: 
 show-cancelled: 

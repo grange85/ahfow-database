@@ -2,10 +2,11 @@
 layout: show
 title: '2014-05-15: Damon & Naomi - Mono, Glasgow, UK'
 name: 2014-05-15-damon-naomi-mono-glasgow-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Mono, Glasgow, UK'
 show-setlist: 
 show-date: 2014-05-15
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

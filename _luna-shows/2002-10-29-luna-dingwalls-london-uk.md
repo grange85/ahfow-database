@@ -2,7 +2,7 @@
 layout: show
 title: '2002-10-29: Luna - Dingwalls, London, UK'
 name: 2002-10-29-luna-dingwalls-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Dingwalls, London, UK'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2002-10-29
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

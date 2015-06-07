@@ -2,10 +2,11 @@
 layout: show
 title: '1990-02-06: Galaxie 500 - Leicester University, Leicester, UK'
 name: 1990-02-06-galaxie-500-leicester-university-leicester-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Leicester University, Leicester, UK'
 show-setlist: 
 show-date: 1990-02-06
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

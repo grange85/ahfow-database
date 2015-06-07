@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-15: Luna - Troubadour, Los Angeles CA, USA'
 name: 1999-11-15-luna-troubadour-los-angeles-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Troubadour, Los Angeles CA, USA'
 show-setlist: [
   "Friendly Advice",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-11-15
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

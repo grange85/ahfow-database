@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-18: Luna - Southgate House, Newport KY, USA'
 name: 2004-11-18-luna-southgate-house-newport-ky-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Southgate House, Newport KY, USA'
 show-setlist: [
   "Speedbumps",
@@ -25,6 +25,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 2004-11-18
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

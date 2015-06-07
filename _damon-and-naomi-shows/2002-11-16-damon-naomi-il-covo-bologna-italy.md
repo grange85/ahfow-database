@@ -2,10 +2,11 @@
 layout: show
 title: '2002-11-16: Damon & Naomi - Il Covo, Bologna, Italy'
 name: 2002-11-16-damon-naomi-il-covo-bologna-italy
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Il Covo, Bologna, Italy'
 show-setlist: 
 show-date: 2002-11-16
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

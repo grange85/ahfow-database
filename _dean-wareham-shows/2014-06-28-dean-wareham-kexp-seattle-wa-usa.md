@@ -2,7 +2,7 @@
 layout: show
 title: '2014-06-28: Dean Wareham - KEXP, Seattle, WA, USA'
 name: 2014-06-28-dean-wareham-kexp-seattle-wa-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
   "The Dancer Disappears",
@@ -12,6 +12,7 @@ show-setlist: [
   "Ceremony [Joy Division]"
   ]
 show-date: 2014-06-28
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

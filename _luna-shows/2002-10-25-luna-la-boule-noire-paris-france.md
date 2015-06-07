@@ -2,10 +2,11 @@
 layout: show
 title: '2002-10-25: Luna - La Boule Noire, Paris, France'
 name: 2002-10-25-luna-la-boule-noire-paris-france
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'La Boule Noire, Paris, France'
 show-setlist: 
 show-date: 2002-10-25
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

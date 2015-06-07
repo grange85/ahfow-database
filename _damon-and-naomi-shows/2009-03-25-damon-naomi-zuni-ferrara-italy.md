@@ -2,10 +2,11 @@
 layout: show
 title: '2009-03-25: Damon & Naomi - Zuni, Ferrara, Italy'
 name: 2009-03-25-damon-naomi-zuni-ferrara-italy
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Zuni, Ferrara, Italy'
 show-setlist: 
 show-date: 2009-03-25
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

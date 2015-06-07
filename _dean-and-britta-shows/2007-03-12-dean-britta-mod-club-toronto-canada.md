@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-12: Dean & Britta - Mod Club, Toronto, Canada'
 name: 2007-03-12-dean-britta-mod-club-toronto-canada
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Mod Club, Toronto, Canada'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2007-03-12
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-30: Luna - Planta Baja, Granada, Spain'
 name: 2015-04-30-luna-planta-baja-granada-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Planta Baja, Granada, Spain'
 show-setlist: [
   "Chinatown",
@@ -24,6 +24,7 @@ show-setlist: [
   ]
 setlist-source: '<p><a href="https://instagram.com/p/2Ja-J1gwSF/">luna_nyc on instagram</a>'
 show-date: 2015-04-30
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -11,10 +11,10 @@
                           <span class="caret"></span>
                       </a>
                       <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
-                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/index.html">{{artist.artist}} biography</a></li>
+                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/index.html">{{artist.artist}} home</a></li>
                           <li role="presentation" class="divider"></li>
-                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/releases/index.html">{{artist.artist}} discography</a></li>
-                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/shows/index.html">{{artist.artist}} gigography</a></li>
+                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/releases/index.html">{{artist.artist}} releases</a></li>
+                          <li role="presentation"><a role="menuitem" tabindex="-1" href="{{site.baseurl}}/{{artist.artistslug}}/shows/index.html">{{artist.artist}} shows</a></li>
                       </ul>
                   </li>
                   {% endfor %}
@@ -37,7 +37,7 @@
                     <h2>
                       {% case page.layout %}
                         {% when 'show' %}
-                          {{page.show-date|date: "%-d %B %Y"}} - {{page.artist-name}} - {{ page.show-venue }}
+                          {{page.show-date|date: "%-d %B %Y"}} - {{page.artist}} - {{ page.show-venue }}
                         {% when 'release' %}
                           {{page.artist}} - {{page.title }}
                         {% else %}
@@ -45,7 +45,6 @@
                       {% endcase %}
                     </h2>
                 </header>
-
           </div>
     </div>
 </header>

@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-12: Luna - Abbey Pub, Chicago IL, USA'
 name: 2004-11-12-luna-abbey-pub-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Speedbumps",
@@ -25,6 +25,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2004-11-12
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

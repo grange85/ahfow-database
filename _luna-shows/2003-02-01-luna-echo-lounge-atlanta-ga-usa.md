@@ -2,7 +2,7 @@
 layout: show
 title: '2003-02-01: Luna - Echo Lounge, Atlanta GA, USA'
 name: 2003-02-01-luna-echo-lounge-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Echo Lounge, Atlanta GA, USA'
 show-setlist: [
   "Slide",
@@ -23,6 +23,7 @@ show-setlist: [
   "Fuzzy Wuzzy"
   ]
 show-date: 2003-02-01
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

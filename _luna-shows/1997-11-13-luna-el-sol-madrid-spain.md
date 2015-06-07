@@ -2,7 +2,7 @@
 layout: show
 title: '1997-11-13: Luna - El Sol, Madrid, Spain'
 name: 1997-11-13-luna-el-sol-madrid-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'El Sol, Madrid, Spain'
 show-setlist: [
   "Sideshow By The Seashore",
@@ -22,6 +22,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1997-11-13
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

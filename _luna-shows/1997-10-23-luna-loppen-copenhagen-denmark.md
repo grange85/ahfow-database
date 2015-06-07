@@ -2,7 +2,7 @@
 layout: show
 title: '1997-10-23: Luna - Loppen, Copenhagen, Denmark '
 name: 1997-10-23-luna-loppen-copenhagen-denmark
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Loppen, Copenhagen, Denmark '
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -22,6 +22,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1997-10-23
+category: 1997
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

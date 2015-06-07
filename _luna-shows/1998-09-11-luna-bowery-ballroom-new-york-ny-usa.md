@@ -2,7 +2,7 @@
 layout: show
 title: '1998-09-11: Luna - Bowery Ballroom, New York NY, USA'
 name: 1998-09-11-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -22,6 +22,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 1998-09-11
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

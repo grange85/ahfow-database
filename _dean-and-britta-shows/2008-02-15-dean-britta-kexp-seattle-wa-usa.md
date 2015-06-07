@@ -2,7 +2,7 @@
 layout: show
 title: '2008-02-15: Dean & Britta - KEXP, Seattle WA, USA'
 name: 2008-02-15-dean-britta-kexp-seattle-wa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'KEXP, Seattle WA, USA'
 show-setlist: [
   "Knives From Bavaria",
@@ -10,6 +10,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2008-02-15
+category: 2008
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

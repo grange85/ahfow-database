@@ -2,7 +2,7 @@
 layout: show
 title: '1997-10-17: Luna - Venue, Edinburgh, UK'
 name: 1997-10-17-luna-venue-edinburgh-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Venue, Edinburgh, UK'
 show-setlist: [
   "Pup Tent",
@@ -17,6 +17,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 1997-10-17
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

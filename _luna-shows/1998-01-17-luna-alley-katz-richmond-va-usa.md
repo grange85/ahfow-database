@@ -2,7 +2,7 @@
 layout: show
 title: '1998-01-17: Luna - Alley Katz, Richmond VA, USA'
 name: 1998-01-17-luna-alley-katz-richmond-va-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Alley Katz, Richmond VA, USA'
 show-setlist: [
   "Pup Tent",
@@ -24,6 +24,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1998-01-17
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

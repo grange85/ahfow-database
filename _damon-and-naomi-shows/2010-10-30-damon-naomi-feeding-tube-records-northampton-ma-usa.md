@@ -2,10 +2,11 @@
 layout: show
 title: '2010-10-30: Damon & Naomi - Feeding Tube Records, Northampton, MA, USA '
 name: 2010-10-30-damon-naomi-feeding-tube-records-northampton-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Feeding Tube Records, Northampton, MA, USA '
 show-setlist: 
 show-date: 2010-10-30
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

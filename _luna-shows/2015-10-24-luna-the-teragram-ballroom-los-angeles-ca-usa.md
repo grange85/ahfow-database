@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-24: Luna - The Teragram Ballroom, Los Angeles, CA, USA'
 name: 2015-10-24-luna-the-teragram-ballroom-los-angeles-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Teragram Ballroom, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2015-10-24
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

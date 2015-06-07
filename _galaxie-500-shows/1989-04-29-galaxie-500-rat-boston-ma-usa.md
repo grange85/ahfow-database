@@ -2,7 +2,7 @@
 layout: show
 title: '1989-04-29: Galaxie 500 - Rat, Boston MA, USA'
 name: 1989-04-29-galaxie-500-rat-boston-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Rat, Boston MA, USA'
 show-setlist: [
   "Flowers",
@@ -16,6 +16,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 1989-04-29
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

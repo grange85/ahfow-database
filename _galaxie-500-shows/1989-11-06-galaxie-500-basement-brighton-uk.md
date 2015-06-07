@@ -2,10 +2,11 @@
 layout: show
 title: '1989-11-06: Galaxie 500 - Basement, Brighton, UK'
 name: 1989-11-06-galaxie-500-basement-brighton-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Basement, Brighton, UK'
 show-setlist: 
 show-date: 1989-11-06
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

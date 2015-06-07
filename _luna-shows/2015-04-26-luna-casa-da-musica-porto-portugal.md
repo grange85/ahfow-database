@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-26: Luna - Casa Da Musica, Porto, Portugal'
 name: 2015-04-26-luna-casa-da-musica-porto-portugal
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Casa Da Musica, Porto, Portugal'
 show-setlist: [
     "Chinatown",
@@ -23,6 +23,7 @@ show-setlist: [
     "Bonnie and Clyde"
     ]
 show-date: 2015-04-26
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

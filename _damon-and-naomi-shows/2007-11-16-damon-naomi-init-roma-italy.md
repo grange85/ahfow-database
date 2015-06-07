@@ -2,10 +2,11 @@
 layout: show
 title: '2007-11-16: Damon & Naomi - Init, Roma, Italy'
 name: 2007-11-16-damon-naomi-init-roma-italy
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Init, Roma, Italy'
 show-setlist: 
 show-date: 2007-11-16
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2001-11-03: Luna - Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA'
 name: 2001-11-03-luna-pittsburgh-filmmakers-parking-ga-pittsburgh-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Pittsburgh Filmmakers Parking Ga, Pittsburgh PA, USA'
 show-setlist: 
 show-date: 2001-11-03
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

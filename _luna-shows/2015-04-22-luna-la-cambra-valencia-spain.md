@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-22: Luna - La Cambra, Valencia, Spain'
 name: 2015-04-22-luna-la-cambra-valencia-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'La Cambra Valencia, Spain'
 show-setlist: [
   "Slide",
@@ -26,6 +26,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 2015-04-22
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

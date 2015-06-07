@@ -2,10 +2,11 @@
 layout: show
 title: '2011-04-28: Dean & Britta - Pusterviksbaren, Gothenberg, Sweden'
 name: 2011-04-28-dean-britta-pusterviksbaren-gothenberg-sweden
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Pusterviksbaren, Gothenberg, Sweden'
 show-setlist: 
 show-date: 2011-04-28
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

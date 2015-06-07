@@ -2,7 +2,7 @@
 layout: show
 title: '2005-01-31: Luna - Fox Theatre, Boulder CO, USA'
 name: 2005-01-31-luna-fox-theatre-boulder-co-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fox Theatre, Boulder CO, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -24,6 +24,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2005-01-31
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

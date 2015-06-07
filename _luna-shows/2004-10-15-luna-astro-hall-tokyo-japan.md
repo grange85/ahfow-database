@@ -2,7 +2,7 @@
 layout: show
 title: '2004-10-15: Luna - Astro Hall, Tokyo, Japan'
 name: 2004-10-15-luna-astro-hall-tokyo-japan
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Astro Hall, Tokyo, Japan'
 show-setlist: [
   "Lovedust",
@@ -25,6 +25,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 2004-10-15
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

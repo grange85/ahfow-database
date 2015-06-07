@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-20: Dean & Britta - Music Mill, Indianapolis IN, USA'
 name: 2007-03-20-dean-britta-music-mill-indianapolis-in-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Music Mill, Indianapolis IN, USA'
 show-setlist: [
   "Singer Sing",
@@ -21,6 +21,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2007-03-20
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

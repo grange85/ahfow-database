@@ -2,10 +2,11 @@
 layout: show
 title: "1996-02-06: Luna - Ciceros, St Louis MO, USA"
 name: 1996-02-06-luna-ciceros-st-louis-mo-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Ciceros, St Louis MO, USA"
 show-setlist: 
 show-date: 1996-02-06
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2002-10-10: Luna - KB, Malmo, Sweden'
 name: 2002-10-10-luna-kb-malmo-sweden
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KB, Malmo, Sweden'
 show-setlist: 
 show-date: 2002-10-10
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

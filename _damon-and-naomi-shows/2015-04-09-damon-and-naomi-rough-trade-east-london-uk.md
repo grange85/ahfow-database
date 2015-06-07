@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-09: Damon & Naomi - Rough Trade East, London, UK'
 name: 2015-04-09-damon-and-naomi-rough-trade-east-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Rough Trade East, London, UK'
 show-setlist: [
   "Song to the Siren",
@@ -20,6 +20,7 @@ show-setlist: [
   "Time Won't Own Me"
   ]
 show-date: 2015-04-09
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

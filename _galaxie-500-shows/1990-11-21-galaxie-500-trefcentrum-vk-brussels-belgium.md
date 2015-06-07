@@ -2,7 +2,7 @@
 layout: show
 title: '1990-11-21: Galaxie 500 - Trefcentrum VK, Brussels, Belgium'
 name: 1990-11-21-galaxie-500-trefcentrum-vk-brussels-belgium
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Trefcentrum VK, Brussels, Belgium'
 show-setlist: [
   "Blue Thunder",
@@ -18,6 +18,7 @@ show-setlist: [
   "Listen the Snow is Falling"
   ]
 show-date: 1990-11-21
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

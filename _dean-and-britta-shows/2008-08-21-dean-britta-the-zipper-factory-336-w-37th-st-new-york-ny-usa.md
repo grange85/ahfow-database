@@ -2,7 +2,7 @@
 layout: show
 title: '2008-08-21: Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA'
 name: 2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'The Zipper Factory, 336 W. 37th St, New York NY, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
@@ -24,6 +24,7 @@ show-setlist: [
   "Bonnie And Clyde"
   ]
 show-date: 2008-08-21
+category: 2008
 show-radio: 
 show-lastfm: 598075
 show-cancelled: 

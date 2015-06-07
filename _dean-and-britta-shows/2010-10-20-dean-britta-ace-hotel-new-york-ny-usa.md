@@ -2,7 +2,7 @@
 layout: show
 title: '2010-10-20: Dean & Britta - Ace Hotel, New York, NY, USA'
 name: 2010-10-20-dean-britta-ace-hotel-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Ace Hotel, New York, NY, USA'
 show-setlist: [
   "I'll Keep It With Mine",
@@ -13,6 +13,7 @@ show-setlist: [
   "Strange"
   ]
 show-date: 2010-10-20
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

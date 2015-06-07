@@ -1,6 +1,19 @@
 ---
 layout: default
 ---
+<div class="row">
+    <div class="col-md-12">
+                <nav>
+                  <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+        <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
+        <li>{{page.artist}} releases</li>
+    </ul>
+    </nav>
+    </div>
+</div>
+
+
 {% assign releases = site.releases | where: "artistslug", page.artistslug | group_by: "section" %}
 
 {% assign releases = releases | sort: 'name' %}

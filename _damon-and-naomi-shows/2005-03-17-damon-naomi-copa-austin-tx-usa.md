@@ -2,10 +2,11 @@
 layout: show
 title: '2005-03-17: Damon & Naomi - Copa, Austin TX, USA'
 name: 2005-03-17-damon-naomi-copa-austin-tx-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Copa, Austin TX, USA'
 show-setlist: 
 show-date: 2005-03-17
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

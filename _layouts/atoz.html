@@ -2,13 +2,29 @@
 layout: default
 ---
 
+<div class="row">
+    <div class="col-md-12">
+                <nav>
+                  <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+
 {% case page.title %}
     {% when 'Covers' %}
         {% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
         {% assign cover = true %}
+      <li><a href="/tracks/">Tracks</a></li>
+      <li>Covers</li>
     {% else %}
         {% assign tracks = site.tracks | sort: 'track-sort' %}
+      <li>Tracks</li>
 {% endcase %}
+
+    </ul>
+    </nav>
+    </div>
+</div>
+
+
 {% assign newsection = 'A' %}
 <h3>A</h3>
 <ul>

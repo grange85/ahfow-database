@@ -2,10 +2,11 @@
 layout: show
 title: '2014-07-31: Dean Wareham - Off Festival, Katowice, Poland'
 name: 2014-07-31-dean-wareham-festival-katowice-poland
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Off Festival, Katowice, Poland'
 show-setlist: 
 show-date: 2014-07-31
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

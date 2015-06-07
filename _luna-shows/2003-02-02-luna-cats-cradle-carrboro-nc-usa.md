@@ -2,7 +2,7 @@
 layout: show
 title: "2003-02-02: Luna - Cats Cradle, Carrboro NC, USA"
 name: 2003-02-02-luna-cats-cradle-carrboro-nc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2003-02-02
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

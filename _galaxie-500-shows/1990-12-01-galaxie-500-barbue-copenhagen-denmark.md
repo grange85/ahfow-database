@@ -2,7 +2,7 @@
 layout: show
 title: '1990-12-01: Galaxie 500 - Barbue, Copenhagen, Denmark'
 name: 1990-12-01-galaxie-500-barbue-copenhagen-denmark
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Barbue, Copenhagen, Denmark'
 show-setlist: [
   "Decomposing Trees",
@@ -16,6 +16,7 @@ show-setlist: [
   "Don't Let Our Youth Go To Waste"
   ]
 show-date: 1990-12-01
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

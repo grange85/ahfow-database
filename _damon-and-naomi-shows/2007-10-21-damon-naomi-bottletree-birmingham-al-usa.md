@@ -2,10 +2,11 @@
 layout: show
 title: '2007-10-21: Damon & Naomi - Bottletree, Birmingham AL, USA'
 name: 2007-10-21-damon-naomi-bottletree-birmingham-al-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Bottletree, Birmingham AL, USA'
 show-setlist: 
 show-date: 2007-10-21
+category: 2007
 show-radio: 
 show-lastfm: 293995
 show-cancelled: 

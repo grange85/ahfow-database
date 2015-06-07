@@ -1,12 +1,27 @@
 ---
 layout: default
 ---
+
+<div class="row">
+    <div class="col-md-12">
+      <nav>
+        <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
+      <li><a href="/{{page.artistslug}}/shows/">{{page.artist}} shows</a></li>
+      <li>{{page.show-date|date: "%-d %B %Y"}} - {{page.artist}} - {{ page.show-venue }}</li>
+    </ul>
+    </nav>
+    </div>
+</div>
+
+
       <div class="row">
           <div class="col-md-6">
             <h3>Information</h3>
             <ul>
             <li>Date: {{page.show-date|date: "%-d %B %Y"}}</li>
-            <li>Artist: {{page.artist-name}}</li>
+            <li>Artist: {{page.artist}}</li>
             <li>Venue: {{page.show-venue}}</li>
 
                 {% if page.facebook-event-url %}
@@ -52,15 +67,14 @@ layout: default
 
           <div class="row">
               <div class="col-md-12">
-          {% if page.show-setlist %}
-          <h3>Setlist</h3>
-              <ul>
-                  {% for track in page.show-setlist %}
-                  <li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
-                  {% endfor %}
-              </ul>
-           {% endif %}
-
+                {% if page.show-setlist %}
+                <h3>Setlist</h3>
+                    <ul>
+                        {% for track in page.show-setlist %}
+                        <li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+                        {% endfor %}
+                    </ul>
+                 {% endif %}
               </div>
           </div>
       </div>

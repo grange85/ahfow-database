@@ -2,7 +2,7 @@
 layout: show
 title: '2009-06-05: Dean & Britta - Black Cat, Washington DC, USA'
 name: 2009-06-05-dean-britta-black-cat-washington-dc-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Silver Factory",
@@ -22,6 +22,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2009-06-05
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

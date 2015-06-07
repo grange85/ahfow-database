@@ -2,10 +2,11 @@
 layout: show
 title: '1998-02-06: Luna - Metro, Chicago IL, USA'
 name: 1998-02-06-luna-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: 
 show-date: 1998-02-06
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1995-12-16: Luna - Garage, London, UK'
 name: 1995-12-16-luna-garage-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Garage, London, UK'
 show-setlist: [
   "Friendly Advice",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1995-12-16
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

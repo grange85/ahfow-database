@@ -2,10 +2,11 @@
 layout: show
 title: '1999-10-06: Luna - Roxy, Valencia, Spain'
 name: 1999-10-06-luna-roxy-valencia-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Roxy, Valencia, Spain'
 show-setlist: 
 show-date: 1999-10-06
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

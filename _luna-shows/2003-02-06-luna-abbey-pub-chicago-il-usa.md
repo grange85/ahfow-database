@@ -2,7 +2,7 @@
 layout: show
 title: '2003-02-06: Luna - Abbey Pub, Chicago IL, USA'
 name: 2003-02-06-luna-abbey-pub-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Slide",
@@ -24,6 +24,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 2003-02-06
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

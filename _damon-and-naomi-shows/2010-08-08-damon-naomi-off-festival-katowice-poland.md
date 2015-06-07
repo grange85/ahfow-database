@@ -2,10 +2,11 @@
 layout: show
 title: '2010-08-08: Damon & Naomi - OFF Festival, Katowice, Poland'
 name: 2010-08-08-damon-naomi-off-festival-katowice-poland
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'OFF Festival, Katowice, Poland'
 show-setlist: 
 show-date: 2010-08-08
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

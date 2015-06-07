@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-04: Luna - Showbox, Seattle WA, USA'
 name: 2002-06-04-luna-showbox-seattle-wa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Showbox, Seattle WA, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-06-04
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

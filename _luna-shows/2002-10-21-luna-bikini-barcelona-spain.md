@@ -2,7 +2,7 @@
 layout: show
 title: '2002-10-21: Luna - Bikini, Barcelona, Spain'
 name: 2002-10-21-luna-bikini-barcelona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2002-10-21
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

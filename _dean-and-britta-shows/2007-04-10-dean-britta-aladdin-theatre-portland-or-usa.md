@@ -2,7 +2,7 @@
 layout: show
 title: '2007-04-10: Dean & Britta - Aladdin Theatre, Portland OR, USA'
 name: 2007-04-10-dean-britta-aladdin-theatre-portland-or-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-04-10
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

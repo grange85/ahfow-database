@@ -2,7 +2,7 @@
 layout: show
 title: '2000-04-19: Luna - Fletchers, Baltimore MD, USA'
 name: 2000-04-19-luna-fletchers-baltimore-md-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "Pup Tent",
@@ -23,6 +23,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2000-04-19
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

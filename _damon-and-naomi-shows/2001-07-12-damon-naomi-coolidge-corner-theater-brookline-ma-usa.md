@@ -2,10 +2,11 @@
 layout: show
 title: '2001-07-12: Damon & Naomi - Coolidge Corner Theater, Brookline MA, USA'
 name: 2001-07-12-damon-naomi-coolidge-corner-theater-brookline-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Coolidge Corner Theater, Brookline MA, USA'
 show-setlist: 
 show-date: 2001-07-12
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

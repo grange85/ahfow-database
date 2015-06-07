@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-20: Luna - Echo Lounge, Atlanta GA, USA'
 name: 2004-11-20-luna-echo-lounge-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Echo Lounge, Atlanta GA, USA'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2004-11-20
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

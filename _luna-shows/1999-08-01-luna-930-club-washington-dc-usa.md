@@ -2,7 +2,7 @@
 layout: show
 title: '1999-08-01: Luna - 9:30 Club, Washington DC, USA'
 name: 1999-08-01-luna-930-club-washington-dc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Friendly Advice",
@@ -22,6 +22,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 1999-08-01
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

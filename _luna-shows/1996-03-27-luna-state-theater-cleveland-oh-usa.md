@@ -2,7 +2,7 @@
 layout: show
 title: '1996-03-27: Luna - State Theater, Cleveland OH, USA'
 name: 1996-03-27-luna-state-theater-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'State Theater, Cleveland OH, USA'
 show-setlist: [
   "California (All the Way)",
@@ -14,6 +14,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 1996-03-27
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

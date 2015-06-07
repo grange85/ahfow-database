@@ -2,10 +2,11 @@
 layout: show
 title: '2012-03-24: Dean & Britta - Royal Canadian Legion, Calgary, Canada'
 name: 2012-03-24-dean-britta-royal-canadian-legion-calgary-canada
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Royal Canadian Legion, Calgary, Canada'
 show-setlist: 
 show-date: 2012-03-24
+category: 2012
 show-radio: 
 show-lastfm: 
 show-cancelled: 

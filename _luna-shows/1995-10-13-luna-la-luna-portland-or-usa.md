@@ -2,7 +2,7 @@
 layout: show
 title: '1995-10-13: Luna - La Luna, Portland OR, USA'
 name: 1995-10-13-luna-la-luna-portland-or-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'La Luna, Portland OR, USA'
 show-setlist: [
   "Friendly Advice",
@@ -15,6 +15,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1995-10-13
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

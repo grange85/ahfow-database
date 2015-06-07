@@ -2,7 +2,7 @@
 layout: show
 title: '2014-06-19: Dean Wareham at KCRW, Santa Monica, CA, USA'
 name: 2014-06-19-dean-wareham-kcrw-santa-monica-ca-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'KCRW, Santa Monica, CA, USA'
 show-setlist: [
   "The Dancer Disappears",
@@ -16,6 +16,7 @@ show-setlist: [
   "Blue Thunder"
   ]
 show-date: 2014-06-19
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

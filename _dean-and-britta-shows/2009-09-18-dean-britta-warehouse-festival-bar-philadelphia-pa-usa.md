@@ -2,10 +2,11 @@
 layout: show
 title: '2009-09-18: Dean & Britta - Warehouse Festival Bar, Philadelphia, PA, USA'
 name: 2009-09-18-dean-britta-warehouse-festival-bar-philadelphia-pa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Warehouse Festival Bar, Philadelphia, PA, USA'
 show-setlist: 
 show-date: 2009-09-18
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2003-02-08: Luna - Blind Pig, Ann Arbor MI, USA'
 name: 2003-02-08-luna-blind-pig-ann-arbor-mi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Blind Pig, Ann Arbor MI, USA'
 show-setlist: [
   "Lovedust",
@@ -24,6 +24,7 @@ show-setlist: [
   "Moon Palace"
   ]
 show-date: 2003-02-08
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

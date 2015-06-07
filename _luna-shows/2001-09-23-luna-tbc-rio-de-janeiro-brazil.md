@@ -2,10 +2,11 @@
 layout: show
 title: '2001-09-23: Luna - tbc, Rio de Janeiro, Brazil'
 name: 2001-09-23-luna-tbc-rio-de-janeiro-brazil
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'tbc, Rio de Janeiro, Brazil'
 show-setlist: 
 show-date: 2001-09-23
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

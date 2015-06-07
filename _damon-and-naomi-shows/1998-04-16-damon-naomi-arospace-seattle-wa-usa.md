@@ -2,10 +2,11 @@
 layout: show
 title: '1998-04-16: Damon & Naomi - ARO.space, Seattle WA, USA'
 name: 1998-04-16-damon-naomi-arospace-seattle-wa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'ARO.space, Seattle WA, USA'
 show-setlist: 
 show-date: 1998-04-16
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

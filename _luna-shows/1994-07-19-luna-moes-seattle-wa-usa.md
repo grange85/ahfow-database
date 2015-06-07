@@ -2,7 +2,7 @@
 layout: show
 title: "1994-07-19: Luna - Moes, Seattle WA, USA"
 name: 1994-07-19-luna-moes-seattle-wa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Moes, Seattle WA, USA"
 show-setlist: [
   "California (All the Way)",
@@ -21,6 +21,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1994-07-19
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

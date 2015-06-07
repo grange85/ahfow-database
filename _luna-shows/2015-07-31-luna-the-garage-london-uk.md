@@ -2,10 +2,11 @@
 layout: show
 title: '2015-07-31: Luna - The Garage, London, UK'
 name: 2015-07-31-luna-the-garage-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Garage, London, UK'
 show-setlist: 
 show-date: 2015-07-31
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

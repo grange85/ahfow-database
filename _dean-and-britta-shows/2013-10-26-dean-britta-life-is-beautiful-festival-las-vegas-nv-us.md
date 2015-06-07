@@ -2,10 +2,11 @@
 layout: show
 title: '2013-10-26: Dean & Britta - Life is Beautiful Festival, Las Vegas, NV, US'
 name: 2013-10-26-dean-britta-life-is-beautiful-festival-las-vegas-nv-us
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Life is Beautiful Festival, Las Vegas, NV, US'
 show-setlist: 
 show-date: 2013-10-26
+category: 2013
 show-radio: 
 show-lastfm: 
 show-cancelled: 

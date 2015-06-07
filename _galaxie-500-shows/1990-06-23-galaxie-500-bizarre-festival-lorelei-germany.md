@@ -2,10 +2,11 @@
 layout: show
 title: '1990-06-23: Galaxie 500 - Bizarre Festival, Lorelei, Germany'
 name: 1990-06-23-galaxie-500-bizarre-festival-lorelei-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Bizarre Festival, Lorelei, Germany'
 show-setlist: 
 show-date: 1990-06-23
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

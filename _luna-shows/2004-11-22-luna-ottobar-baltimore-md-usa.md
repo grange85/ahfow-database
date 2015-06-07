@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-22: Luna - Ottobar, Baltimore MD, USA'
 name: 2004-11-22-luna-ottobar-baltimore-md-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Ottobar, Baltimore MD, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-11-22
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

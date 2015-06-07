@@ -2,7 +2,7 @@
 layout: show
 title: '2002-11-29: Luna - Bowery Ballroom, New York NY, USA'
 name: 2002-11-29-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Slide",
@@ -24,6 +24,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2002-11-29
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

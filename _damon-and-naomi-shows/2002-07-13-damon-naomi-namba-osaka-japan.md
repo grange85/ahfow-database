@@ -2,7 +2,7 @@
 layout: show
 title: '2002-07-13: Damon & Naomi - Namba, Osaka, Japan'
 name: 2002-07-13-damon-naomi-namba-osaka-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Namba, Osaka, Japan'
 show-setlist: [
   "Turn Of The Century",
@@ -21,6 +21,7 @@ show-setlist: [
   "Watashi No Hana"
   ]
 show-date: 2002-07-13
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

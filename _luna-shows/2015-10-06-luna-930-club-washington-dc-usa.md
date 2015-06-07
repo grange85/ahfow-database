@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-06: Luna - 9:30 Club, Washington, DC, USA'
 name: 2015-10-06-luna-930-club-washington-dc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '9:30 Club, Washington, DC, USA'
 show-setlist: 
 show-date: 2015-10-06
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

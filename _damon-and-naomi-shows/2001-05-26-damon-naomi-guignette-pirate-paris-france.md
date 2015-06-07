@@ -2,10 +2,11 @@
 layout: show
 title: '2001-05-26: Damon & Naomi - Guignette Pirate, Paris, France'
 name: 2001-05-26-damon-naomi-guignette-pirate-paris-france
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Guignette Pirate, Paris, France'
 show-setlist: 
 show-date: 2001-05-26
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

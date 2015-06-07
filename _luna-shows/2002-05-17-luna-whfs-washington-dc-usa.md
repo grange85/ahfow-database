@@ -2,13 +2,14 @@
 layout: show
 title: '2002-05-17: Luna - WHFS, Washington DC, USA'
 name: 2002-05-17-luna-whfs-washington-dc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'WHFS, Washington DC, USA'
 show-setlist: [
   "Swedish Fish",
   "The Slow Song"
   ]
 show-date: 2002-05-17
+category: 2002
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

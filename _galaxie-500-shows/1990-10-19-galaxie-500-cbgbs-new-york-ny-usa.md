@@ -2,7 +2,7 @@
 layout: show
 title: '1990-10-19: Galaxie 500 - CBGBs, New York NY, USA'
 name: 1990-10-19-galaxie-500-cbgbs-new-york-ny-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Fourth of July",
@@ -18,6 +18,7 @@ show-setlist: [
   "Here She Comes Now"
   ]
 show-date: 1990-10-19
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

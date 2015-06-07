@@ -2,7 +2,7 @@
 layout: show
 title: "1995-10-12: Luna - Moes, Seattle WA, USA"
 name: 1995-10-12-luna-moes-seattle-wa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Moes, Seattle WA, USA"
 show-setlist: [
   "Friendly Advice",
@@ -19,6 +19,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1995-10-12
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

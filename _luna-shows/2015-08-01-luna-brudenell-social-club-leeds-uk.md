@@ -2,10 +2,11 @@
 layout: show
 title: '2015-08-01: Luna - Brudenell Social Club, Leeds, UK'
 name: 2015-08-01-luna-brudenell-social-club-leeds-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Brudenell Social Club, Leeds, UK'
 show-setlist: 
 show-date: 2015-08-01
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

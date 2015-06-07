@@ -2,7 +2,7 @@
 layout: show
 title: '2000-04-03: Luna - Fox Theatre, Boulder CO, USA'
 name: 2000-04-03-luna-fox-theatre-boulder-co-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fox Theatre, Boulder CO, USA'
 show-setlist: [
   "Bewitched",
@@ -24,6 +24,7 @@ show-setlist: [
   ""
   ]
 show-date: 2000-04-03
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

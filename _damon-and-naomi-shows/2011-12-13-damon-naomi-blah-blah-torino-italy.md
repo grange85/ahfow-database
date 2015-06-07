@@ -2,10 +2,11 @@
 layout: show
 title: '2011-12-13: Damon & Naomi - Blah Blah, Torino, Italy'
 name: 2011-12-13-damon-naomi-blah-blah-torino-italy
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Blah Blah, Torino, Italy'
 show-setlist: 
 show-date: 2011-12-13
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

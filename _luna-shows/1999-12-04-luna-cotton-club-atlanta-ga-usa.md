@@ -2,7 +2,7 @@
 layout: show
 title: '1999-12-04: Luna - Cotton Club, Atlanta GA, USA'
 name: 1999-12-04-luna-cotton-club-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Cotton Club, Atlanta GA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-12-04
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

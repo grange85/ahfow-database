@@ -2,7 +2,7 @@
 layout: show
 title: '1994-05-23: Luna - Bierkeller, Bristol, UK'
 name: 1994-05-23-luna-bierkeller-bristol-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bierkeller, Bristol, UK'
 setlist-source: 'setlist scan'
 show-setlist: [
@@ -17,6 +17,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1994-05-23
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

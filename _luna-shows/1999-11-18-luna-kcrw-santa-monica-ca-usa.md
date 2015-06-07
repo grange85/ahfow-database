@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-18: Luna - KCRW, Santa Monica CA, USA'
 name: 1999-11-18-luna-kcrw-santa-monica-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Dear Diary",
@@ -12,6 +12,7 @@ show-setlist: [
   "US Out Of My Pants"
   ]
 show-date: 1999-11-18
+category: 1999
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

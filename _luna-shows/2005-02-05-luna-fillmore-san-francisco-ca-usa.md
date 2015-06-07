@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-05: Luna - Fillmore, San Francisco CA, USA'
 name: 2005-02-05-luna-fillmore-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Sideshow By The Seashore",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-02-05
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

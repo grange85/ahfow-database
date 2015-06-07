@@ -2,7 +2,7 @@
 layout: show
 title: '2013-11-12: Dean Wareham - Chapel, San Francisco, CA, USA'
 name: 2013-11-12-dean-wareham-chapel-san-francisco-ca-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Chapel, San Francisco, CA, USA'
 show-setlist: [
   "Love Is Colder Than Death",
@@ -22,6 +22,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2013-11-12
+category: 2013
 show-radio: 
 show-lastfm: 
 show-cancelled: 

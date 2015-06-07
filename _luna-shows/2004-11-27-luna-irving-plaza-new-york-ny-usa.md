@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-27: Luna - Irving Plaza, New York NY, USA'
 name: 2004-11-27-luna-irving-plaza-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -23,6 +23,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 2004-11-27
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

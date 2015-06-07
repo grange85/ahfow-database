@@ -2,7 +2,7 @@
 layout: show
 title: '2009-02-28: Dean & Britta - Walker Arts Center, Minneapolis MN, USA '
 name: 2009-02-28-dean-britta-walker-arts-center-minneapolis-mn-usa-2
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Walker Arts Center, Minneapolis MN, USA '
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2009-02-28
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-07-15: Damon & Naomi - Tokuzo, Nagoya, Japan'
 name: 2002-07-15-damon-naomi-tokuzo-nagoya-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Tokuzo, Nagoya, Japan'
 show-setlist: [
   "Judah and the Maccabees",
@@ -22,6 +22,7 @@ show-setlist: [
   "Watashi No Hana"
   ]
 show-date: 2002-07-15
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2006-03-12: Damon & Naomi - Museum of Fine Arts, Boston MA, USA'
 name: 2006-03-12-damon-naomi-museum-of-fine-arts-boston-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Museum of Fine Arts, Boston MA, USA'
 show-setlist: 
 show-date: 2006-03-12
+category: 2006
 show-radio: 
 show-lastfm: 
 show-cancelled: 

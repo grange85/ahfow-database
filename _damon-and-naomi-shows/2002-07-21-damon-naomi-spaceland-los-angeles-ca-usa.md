@@ -2,10 +2,11 @@
 layout: show
 title: '2002-07-21: Damon & Naomi - Spaceland, Los Angeles CA, USA'
 name: 2002-07-21-damon-naomi-spaceland-los-angeles-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Spaceland, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2002-07-21
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

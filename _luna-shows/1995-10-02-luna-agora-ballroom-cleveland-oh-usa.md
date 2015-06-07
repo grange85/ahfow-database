@@ -2,10 +2,11 @@
 layout: show
 title: '1995-10-02: Luna - Agora Ballroom, Cleveland OH, USA'
 name: 1995-10-02-luna-agora-ballroom-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Agora Ballroom, Cleveland OH, USA'
 show-setlist: 
 show-date: 1995-10-02
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

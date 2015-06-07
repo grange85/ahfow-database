@@ -2,10 +2,11 @@
 layout: show
 title: '1995-10-06: Luna - Metro, Chicago IL, USA'
 name: 1995-10-06-luna-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: 
 show-date: 1995-10-06
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

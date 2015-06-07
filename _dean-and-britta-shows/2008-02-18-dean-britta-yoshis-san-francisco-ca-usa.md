@@ -2,10 +2,11 @@
 layout: show
 title: "2008-02-18: Dean & Britta - Yoshi's, San Francisco CA, USA"
 name: 2008-02-18-dean-britta-yoshis-san-francisco-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: "Yoshi's, San Francisco CA, USA"
 show-setlist: 
 show-date: 2008-02-18
+category: 2008
 show-radio: 
 show-lastfm: 
 show-cancelled: 

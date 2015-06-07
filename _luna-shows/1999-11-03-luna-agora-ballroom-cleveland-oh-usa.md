@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-03: Luna - Agora Ballroom, Cleveland OH, USA'
 name: 1999-11-03-luna-agora-ballroom-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Agora Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Pup Tent",
@@ -22,6 +22,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-11-03
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

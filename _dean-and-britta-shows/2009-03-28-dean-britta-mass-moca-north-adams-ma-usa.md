@@ -2,7 +2,7 @@
 layout: show
 title: '2009-03-28: Dean & Britta - Mass MoCA, North Adams, MA, USA'
 name: 2009-03-28-dean-britta-mass-moca-north-adams-ma-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Mass MoCA, North Adams, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2009-03-28
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

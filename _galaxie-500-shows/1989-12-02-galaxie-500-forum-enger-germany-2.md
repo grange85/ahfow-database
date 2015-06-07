@@ -2,7 +2,7 @@
 layout: show
 title: '1989-12-02: Galaxie 500 - Forum, Enger, Germany'
 name: 1989-12-02-galaxie-500-forum-enger-germany-2
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Forum, Enger, Germany'
 show-setlist: [
   "Flowers",
@@ -21,6 +21,7 @@ show-setlist: [
   "Rain"
   ]
 show-date: 1989-12-02
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

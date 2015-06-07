@@ -2,7 +2,7 @@
 layout: show
 title: "2002-10-26: Luna - LEscalier, Liege, Belgium"
 name: 2002-10-26-luna-lescalier-liege-belgium
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "LEscalier, Liege, Belgium"
 show-setlist: [
   "1995",
@@ -22,6 +22,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 2002-10-26
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-11: Luna - Abbey Pub, Chicago IL, USA'
 name: 2004-11-11-luna-abbey-pub-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Malibu Love Nest",
@@ -25,6 +25,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2004-11-11
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

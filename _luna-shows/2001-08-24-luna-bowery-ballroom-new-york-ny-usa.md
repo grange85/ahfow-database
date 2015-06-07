@@ -2,7 +2,7 @@
 layout: show
 title: '2001-08-24: Luna - Bowery Ballroom, New York NY, USA'
 name: 2001-08-24-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Slide Rule",
@@ -22,6 +22,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2001-08-24
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

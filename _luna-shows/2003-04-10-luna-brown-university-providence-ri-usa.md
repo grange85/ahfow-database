@@ -2,7 +2,7 @@
 layout: show
 title: '2003-04-10: Luna - Brown University, Providence RI, USA'
 name: 2003-04-10-luna-brown-university-providence-ri-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Brown University, Providence RI, USA'
 show-setlist: [
   "Sideshow By The Seashore",
@@ -13,6 +13,7 @@ show-setlist: [
   "1995"
   ]
 show-date: 2003-04-10
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

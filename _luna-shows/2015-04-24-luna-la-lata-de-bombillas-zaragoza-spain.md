@@ -2,7 +2,7 @@
 layout: show
 title: '2015-04-24: Luna - La Lata de Bombillas, Zaragoza, Spain'
 name: 2015-04-24-luna-la-lata-de-bombillas-zaragoza-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Centro de Las Armas, Zaragoza, Spain'
 show-setlist: [
   "Chinatown ",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2015-04-24
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

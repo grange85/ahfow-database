@@ -2,10 +2,11 @@
 layout: show
 title: '1990-11-02: Galaxie 500 - The Venue, Edinburgh, UK'
 name: 1990-11-02-galaxie-500-the-venue-edinburgh-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'The Venue, Edinburgh, UK'
 show-setlist: 
 show-date: 1990-11-02
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

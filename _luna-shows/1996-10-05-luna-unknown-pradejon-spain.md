@@ -2,10 +2,11 @@
 layout: show
 title: '1996-10-05: Luna - (unknown), Pradejon, Spain'
 name: 1996-10-05-luna-unknown-pradejon-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '(unknown), Pradejon, Spain'
 show-setlist: 
 show-date: 1996-10-05
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

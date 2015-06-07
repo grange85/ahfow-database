@@ -2,10 +2,11 @@
 layout: show
 title: '1999-01-31: Damon & Naomi - Tonic, New York NY, USA'
 name: 1999-01-31-damon-naomi-tonic-new-york-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Tonic, New York NY, USA'
 show-setlist: 
 show-date: 1999-01-31
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

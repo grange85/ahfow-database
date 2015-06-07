@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-11: Luna - Trocadero, Philadelphia PA, USA'
 name: 2002-05-11-luna-trocadero-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "Chinatown"
   ]
 show-date: 2002-05-11
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

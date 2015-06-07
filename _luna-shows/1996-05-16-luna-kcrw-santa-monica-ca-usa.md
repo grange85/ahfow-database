@@ -2,7 +2,7 @@
 layout: show
 title: '1996-05-16: Luna - KCRW, Santa Monica CA, USA'
 name: 1996-05-16-luna-kcrw-santa-monica-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Tracy I Love You",
@@ -11,6 +11,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 1996-05-16
+category: 1996
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2004-01-19: Damon & Naomi - Mandala-2, Tokyo, Japan'
 name: 2004-01-19-damon-naomi-mandala-2-tokyo-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Mandala-2, Tokyo, Japan'
 show-setlist: [
   "Araca Azul",
@@ -13,6 +13,7 @@ show-setlist: [
   "Love"
   ]
 show-date: 2004-01-19
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

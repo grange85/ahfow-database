@@ -2,10 +2,11 @@
 layout: show
 title: '2011-02-12: Dean & Britta - Stereo, Glasgow, UK'
 name: 2011-02-12-dean-britta-stereo-glasgow-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Stereo, Glasgow, UK'
 show-setlist: 
 show-date: 2011-02-12
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1993-06-03: Luna - Borderline, London, UK'
 name: 1993-06-03-luna-borderline-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Borderline, London, UK'
 show-setlist: [
   "Crazy People",
@@ -23,6 +23,7 @@ show-setlist: [
   "When Will You Come Home"
   ]
 show-date: 1993-06-03
+category: 1993
 show-radio: 
 show-lastfm: 
 show-cancelled: 

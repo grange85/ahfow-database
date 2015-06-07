@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-14: Luna - Fine Line Music Cafe, Minneapolis MN, USA'
 name: 2004-11-14-luna-fine-line-music-cafe-minneapolis-mn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fine Line Music Cafe, Minneapolis MN, USA'
 show-setlist: [
   "Cindy Tastes of Barbecue",
@@ -24,6 +24,7 @@ show-setlist: [
   "Friendly Advice"
   ]
 show-date: 2004-11-14
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

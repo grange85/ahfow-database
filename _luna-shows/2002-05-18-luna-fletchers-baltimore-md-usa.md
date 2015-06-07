@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-18: Luna - Fletchers, Baltimore MD, USA'
 name: 2002-05-18-luna-fletchers-baltimore-md-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "1995",
@@ -23,6 +23,7 @@ show-setlist: [
   "Slash Your Tires"
   ]
 show-date: 2002-05-18
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

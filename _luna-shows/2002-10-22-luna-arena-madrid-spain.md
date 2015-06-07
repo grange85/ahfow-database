@@ -2,10 +2,11 @@
 layout: show
 title: '2002-10-22: Luna - Arena, Madrid, Spain'
 name: 2002-10-22-luna-arena-madrid-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Arena, Madrid, Spain'
 show-setlist: 
 show-date: 2002-10-22
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

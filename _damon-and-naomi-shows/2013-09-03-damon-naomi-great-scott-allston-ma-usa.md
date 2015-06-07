@@ -2,10 +2,11 @@
 layout: show
 title: '2013-09-03: Damon & Naomi - Great Scott, Allston, MA, USA'
 name: 2013-09-03-damon-naomi-great-scott-allston-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Great Scott, Allston, MA, USA'
 show-setlist: 
 show-date: 2013-09-03
+category: 2013
 show-radio: 
 show-lastfm: 
 show-cancelled: 

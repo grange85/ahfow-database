@@ -2,10 +2,11 @@
 layout: show
 title: '2007-11-14: Damon & Naomi - Mano, Pescara, Italy'
 name: 2007-11-14-damon-naomi-mano-pescara-italy
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Mano, Pescara, Italy'
 show-setlist: 
 show-date: 2007-11-14
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

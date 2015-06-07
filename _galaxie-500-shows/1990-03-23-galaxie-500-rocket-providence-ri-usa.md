@@ -2,7 +2,7 @@
 layout: show
 title: '1990-03-23: Galaxie 500 - Rocket, Providence RI, USA'
 name: 1990-03-23-galaxie-500-rocket-providence-ri-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Rocket, Providence RI, USA'
 show-setlist: [
   "Blue Thunder",
@@ -17,6 +17,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 1990-03-23
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

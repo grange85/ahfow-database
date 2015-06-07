@@ -1,6 +1,7 @@
 ---
 layout: page
-title : Dean Wareham biography
+title : Dean Wareham
+artist: Dean Wareham
 categories: primary
 ---
 

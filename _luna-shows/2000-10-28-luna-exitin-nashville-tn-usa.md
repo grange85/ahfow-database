@@ -2,7 +2,7 @@
 layout: show
 title: '2000-10-28: Luna - Exit/In, Nashville TN, USA'
 name: 2000-10-28-luna-exitin-nashville-tn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Exit/In, Nashville TN, USA'
 show-setlist: [
   "Lovedust",
@@ -20,6 +20,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2000-10-28
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

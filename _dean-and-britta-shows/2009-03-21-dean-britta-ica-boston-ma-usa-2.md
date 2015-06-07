@@ -2,7 +2,7 @@
 layout: show
 title: '2009-03-21: Dean & Britta - ICA, Boston, MA, USA'
 name: 2009-03-21-dean-britta-ica-boston-ma-usa-2
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'ICA, Boston, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2009-03-21
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

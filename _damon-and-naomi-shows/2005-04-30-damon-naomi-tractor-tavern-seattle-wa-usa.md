@@ -2,10 +2,11 @@
 layout: show
 title: '2005-04-30: Damon & Naomi - Tractor Tavern, Seattle WA, USA'
 name: 2005-04-30-damon-naomi-tractor-tavern-seattle-wa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Tractor Tavern, Seattle WA, USA'
 show-setlist: 
 show-date: 2005-04-30
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

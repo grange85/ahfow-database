@@ -2,10 +2,11 @@
 layout: show
 title: '2014-05-17: Dean Wareham - Arci Ohibò, Milan, Italy'
 name: 2014-05-17-dean-wareham-arci-ohibo-milan-italy
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Venue'
 show-setlist: 
 show-date: 2014-05-17
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

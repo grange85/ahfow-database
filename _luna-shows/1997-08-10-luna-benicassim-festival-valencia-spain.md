@@ -2,10 +2,11 @@
 layout: show
 title: '1997-08-10: Luna - Benicassim Festival, Valencia, Spain'
 name: 1997-08-10-luna-benicassim-festival-valencia-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Benicassim Festival, Valencia, Spain'
 show-setlist: 
 show-date: 1997-08-10
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

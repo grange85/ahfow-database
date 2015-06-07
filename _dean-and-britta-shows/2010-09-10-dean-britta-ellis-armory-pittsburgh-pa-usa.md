@@ -2,10 +2,11 @@
 layout: show
 title: '2010-09-10: Dean & Britta - Ellis Armory, Pittsburgh, PA, USA'
 name: 2010-09-10-dean-britta-ellis-armory-pittsburgh-pa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Ellis Armory, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2010-09-10
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

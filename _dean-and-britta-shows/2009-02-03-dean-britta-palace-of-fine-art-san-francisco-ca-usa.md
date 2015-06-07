@@ -2,7 +2,7 @@
 layout: show
 title: '2009-02-03: Dean & Britta - Palace of Fine Art, San Francisco, CA, USA'
 name: 2009-02-03-dean-britta-palace-of-fine-art-san-francisco-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Palace of Fine Art, San Francisco, CA, USA'
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2009-02-03
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

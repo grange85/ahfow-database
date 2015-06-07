@@ -2,7 +2,7 @@
 layout: show
 title: '1999-07-23: Luna - Prospect Park Bandstand, New York NY, USA'
 name: 1999-07-23-luna-prospect-park-bandstand-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Prospect Park Bandstand, New York NY, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -21,6 +21,7 @@ show-setlist: [
   "Sweet Child O' Mine"
   ]
 show-date: 1999-07-23
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '1999-04-17: Luna - Bourges Festival, Bourges, France'
 name: 1999-04-17-luna-bourges-festival-bourges-france
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bourges Festival, Bourges, France'
 show-setlist: 
 show-date: 1999-04-17
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '1989-12-04: Galaxie 500 - (unknown), Hamburg, Germany'
 name: 1989-12-04-galaxie-500-unknown-hamburg-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: '(unknown), Hamburg, Germany'
 show-setlist: 
 show-date: 1989-12-04
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

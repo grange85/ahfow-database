@@ -2,7 +2,7 @@
 layout: show
 title: '2001-09-24: Luna - Programa Garagem - Brasil 2000 FM, Brazil'
 name: 2001-09-24-luna-programa-garagem-brasil-2000-fm-brazil
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Programa Garagem - Brasil 2000 FM, Brazil'
 show-setlist: [
   "Black Champagne",
@@ -16,6 +16,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2001-09-24
+category: 2001
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2003-03-21: Luna - Knitting Factory, New York NY, USA'
 name: 2003-03-21-luna-knitting-factory-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -23,6 +23,7 @@ show-setlist: [
   "Fuzzy Wuzzy"
   ]
 show-date: 2003-03-21
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

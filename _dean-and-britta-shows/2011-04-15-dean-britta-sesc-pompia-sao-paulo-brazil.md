@@ -2,10 +2,11 @@
 layout: show
 title: '2011-04-15: Dean & Britta - SESC Pompéia, Sao Paulo, Brazil'
 name: 2011-04-15-dean-britta-sesc-pompia-sao-paulo-brazil
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'SESC Pompéia, Sao Paulo, Brazil'
 show-setlist: 
 show-date: 2011-04-15
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

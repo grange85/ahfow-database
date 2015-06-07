@@ -2,10 +2,11 @@
 layout: show
 title: '1994-08-10: Luna - Lupos Heartbreak Hotel, Providence, RI, USA'
 name: 1994-08-10-luna-lupos-heartbreak-hotel-providence-ri-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Lupos Heartbreak Hotel, Providence, RI, USA'
 show-setlist: 
 show-date: 1994-08-12
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

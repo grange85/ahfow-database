@@ -2,10 +2,11 @@
 layout: show
 title: '2015-04-18: Damon & Naomi - EMP Museum, Seattle, WA, USA'
 name: 2015-04-18-damon-and-naomi-emp-museum-seattle-wa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'EMP Museum, Seattle, WA, USA'
 show-setlist: 
 show-date: 2015-04-18
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

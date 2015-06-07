@@ -2,7 +2,7 @@
 layout: show
 title: '2009-01-30: Dean & Britta -  PuSh International Performing Arts Festival, Vancouver, BC, Canada'
 name: 2009-01-30-dean-britta-push-international-performing-arts-festival-vancouver-bc-canada
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: ' PuSh International Performing Arts Festival, Vancouver, BC, Canada'
 show-setlist: [
   "Richard Rheem Theme",
@@ -20,6 +20,7 @@ show-setlist: [
   "Knives From Bavaria"
   ]
 show-date: 2009-01-30
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1999-11-06: Luna - Metro, Chicago IL, USA'
 name: 1999-11-06-luna-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Pup Tent",
@@ -22,6 +22,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1999-11-06
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2001-05-15: Damon & Naomi - Garage, London, UK'
 name: 2001-05-15-damon-naomi-garage-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Garage, London, UK'
 show-setlist: [
   "Judah and the Maccabees",
@@ -19,6 +19,7 @@ show-setlist: [
   "This Car Climbed Mt. Washington"
   ]
 show-date: 2001-05-15
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

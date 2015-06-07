@@ -2,7 +2,7 @@
 layout: show
 title: '1999-09-05: Luna - King Tuts Wah Wah Hut, Glasgow, UK'
 name: 1999-09-05-luna-king-tuts-wah-wah-hut-glasgow-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'King Tuts Wah Wah Hut, Glasgow, UK'
 show-setlist: [
   "Egg Nog",
@@ -21,6 +21,7 @@ show-setlist: [
   "Moon Palace"
   ]
 show-date: 1999-09-05
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

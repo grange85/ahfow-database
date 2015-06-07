@@ -2,10 +2,11 @@
 layout: show
 title: '2009-06-17: Dean & Britta - KCRW, Santa Monica, CA, USA'
 name: 2009-06-17-dean-britta-kcrw-santa-monica-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'KCRW, Santa Monica, CA, USA'
 show-setlist: 
 show-date: 2009-06-17
+category: 2009
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

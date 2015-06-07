@@ -2,7 +2,7 @@
 layout: show
 title: '2000-12-31: Luna - CBGBs, New York NY, USA'
 name: 2000-12-31-luna-cbgbs-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -24,6 +24,7 @@ show-setlist: [
   "Sweet Child O' Mine"
   ]
 show-date: 2000-12-31
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

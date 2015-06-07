@@ -2,7 +2,7 @@
 layout: show
 title: '2001-09-29: Luna - Teatro del Circulo, Montevideo, Uruguay'
 name: 2001-09-29-luna-teatro-del-circulo-montevideo-uruguay
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Teatro del Circulo, Montevideo, Uruguay'
 show-setlist: [
   "Hello Little One",
@@ -25,6 +25,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2001-09-29
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-27: Luna - Bowery Ballroom, New York NY, USA'
 name: 2005-02-27-luna-bowery-ballroom-new-york-ny-usa-2
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Superfreaky Memories",
@@ -24,6 +24,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2005-02-27
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

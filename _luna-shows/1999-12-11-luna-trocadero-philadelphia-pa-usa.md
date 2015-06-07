@@ -2,7 +2,7 @@
 layout: show
 title: '1999-12-11: Luna - Trocadero, Philadelphia PA, USA'
 name: 1999-12-11-luna-trocadero-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -23,6 +23,7 @@ show-setlist: [
   "Sweet Child O' Mine"
   ]
 show-date: 1999-12-11
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2012-11-07: Dean & Britta – The Silver Studio, The Andy Warhol Museum, Pittsburgh, PA, USA'
 name: 2012-11-07-dean-britta-silver-studio-andy-warhol-museum-pittsburgh-pa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'The Silver Studio, The Andy Warhol Museum, Pittsburgh PA, USA'
 show-setlist: [
   "I'll Keep it With Mine",
@@ -11,6 +11,7 @@ show-setlist: [
   "Blue Thunder"
   ]
 show-date: 2012-11-07
+category: 2012
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '1991-04-05: Galaxie 500 - Bowdoin College, Brunswick ME, USA'
 name: 1991-04-05-galaxie-500-bowdoin-college-brunswick-me-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Bowdoin College, Brunswick ME, USA'
 show-setlist: 
 show-date: 1991-04-05
+category: 1991
 show-radio: 
 show-lastfm: 
 show-cancelled: 

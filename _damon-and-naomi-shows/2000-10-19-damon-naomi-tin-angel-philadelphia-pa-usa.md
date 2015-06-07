@@ -2,7 +2,7 @@
 layout: show
 title: '2000-10-19: Damon & Naomi - Tin Angel, Philadelphia PA, USA'
 name: 2000-10-19-damon-naomi-tin-angel-philadelphia-pa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Tin Angel, Philadelphia PA, USA'
 show-setlist: [
   "I Dreamed of the Caucasus",
@@ -17,6 +17,7 @@ show-setlist: [
   "I Shall Be Released"
   ]
 show-date: 2000-10-19
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

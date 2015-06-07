@@ -2,10 +2,11 @@
 layout: show
 title: '2000-10-18: Damon & Naomi - Middle East, Cambridge MA, USA'
 name: 2000-10-18-damon-naomi-middle-east-cambridge-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: 
 show-date: 2000-10-18
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

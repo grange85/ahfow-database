@@ -2,10 +2,11 @@
 layout: show
 title: '2009-10-17: Dean & Britta - Merlyn Theatre, Melbourne, Australia'
 name: 2009-10-17-dean-britta-merlyn-theatre-melbourne-australia
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Merlyn Theatre, Melbourne, Australia'
 show-setlist: 
 show-date: 2009-10-17
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

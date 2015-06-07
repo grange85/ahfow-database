@@ -2,7 +2,7 @@
 layout: show
 title: '1997-11-14: Luna - Bikini, Barcelona, Spain'
 name: 1997-11-14-luna-bikini-barcelona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "Sideshow By The Seashore",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1997-11-14
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

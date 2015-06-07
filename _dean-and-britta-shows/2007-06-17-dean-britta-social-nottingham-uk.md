@@ -2,7 +2,7 @@
 layout: show
 title: '2007-06-17: Dean & Britta - Social, Nottingham, UK'
 name: 2007-06-17-dean-britta-social-nottingham-uk
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Social, Nottingham, UK'
 show-setlist: [
   "Words You Used To Say",
@@ -23,6 +23,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2007-06-17
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2004-11-10: Luna - Blind Pig, Ann Arbor MI, USA'
 name: 2004-11-10-luna-blind-pig-ann-arbor-mi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Blind Pig, Ann Arbor MI, USA'
 show-setlist: [
   "Cindy Tastes of Barbecue",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-11-10
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

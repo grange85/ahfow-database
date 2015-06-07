@@ -2,7 +2,7 @@
 layout: show
 title: "1995-10-14: Luna - John Henrys, Eugene OR, USA"
 name: 1995-10-14-luna-john-henrys-eugene-or-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "John Henrys, Eugene OR, USA"
 show-setlist: [
   "Egg Nog",
@@ -20,6 +20,7 @@ show-setlist: [
   "Rain"
   ]
 show-date: 1995-10-14
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

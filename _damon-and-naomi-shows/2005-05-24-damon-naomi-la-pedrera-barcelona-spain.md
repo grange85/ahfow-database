@@ -2,10 +2,11 @@
 layout: show
 title: '2005-05-24: Damon & Naomi - La Pedrera, Barcelona, Spain'
 name: 2005-05-24-damon-naomi-la-pedrera-barcelona-spain
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'La Pedrera, Barcelona, Spain'
 show-setlist: 
 show-date: 2005-05-24
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

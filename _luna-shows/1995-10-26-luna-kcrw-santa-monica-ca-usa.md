@@ -2,7 +2,7 @@
 layout: show
 title: '1995-10-26: Luna - KCRW, Santa Monica CA, USA'
 name: 1995-10-26-luna-kcrw-santa-monica-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Double Feature",
@@ -11,6 +11,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 1995-10-26
+category: 1995
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

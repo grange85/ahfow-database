@@ -2,7 +2,7 @@
 layout: show
 title: '1990-06-26: Galaxie 500 - International 1, Manchester, UK'
 name: 1990-06-26-galaxie-500-international-1-manchester-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'International 1, Manchester, UK'
 setlist-source: 'recording'
 show-setlist: [
@@ -19,6 +19,7 @@ show-setlist: [
   "Victory Garden"
   ]
 show-date: 1990-06-26
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

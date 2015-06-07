@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-17: Luna - The Cedar, Minneapolis, MN, USA'
 name: 2015-10-17-luna-the-cedar-minneapolis-mn-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Cedar, Minneapolis, MN, USA'
 show-setlist: 
 show-date: 2015-10-17
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

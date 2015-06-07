@@ -2,10 +2,11 @@
 layout: show
 title: '2014-07-11: Dean Wareham -  ICA, Boston, MA, USA'
 name: 2014-07-11-dean-wareham-ica-boston-ma-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'ICA, Boston, MA, USA'
 show-setlist: 
 show-date: 2014-07-11
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

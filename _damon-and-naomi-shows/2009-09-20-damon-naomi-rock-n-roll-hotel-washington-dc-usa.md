@@ -2,10 +2,11 @@
 layout: show
 title: "2009-09-20: Damon & Naomi - Rock N Roll Hotel, Washington DC, USA"
 name: 2009-09-20-damon-naomi-rock-n-roll-hotel-washington-dc-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: "Rock N Roll Hotel, Washington DC, USA"
 show-setlist: 
 show-date: 2009-09-20
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

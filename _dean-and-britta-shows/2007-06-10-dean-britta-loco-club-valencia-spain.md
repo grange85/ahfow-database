@@ -2,7 +2,7 @@
 layout: show
 title: '2007-06-10: Dean & Britta - Loco Club, Valencia, Spain'
 name: 2007-06-10-dean-britta-loco-club-valencia-spain
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Loco Club, Valencia, Spain'
 show-setlist: [
   "Words You Used To Say",
@@ -22,6 +22,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2007-06-10
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

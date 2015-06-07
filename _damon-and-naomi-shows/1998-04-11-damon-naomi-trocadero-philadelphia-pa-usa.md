@@ -2,10 +2,11 @@
 layout: show
 title: '1998-04-11: Damon & Naomi - Trocadero, Philadelphia PA, USA'
 name: 1998-04-11-damon-naomi-trocadero-philadelphia-pa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: 
 show-date: 1998-04-11
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

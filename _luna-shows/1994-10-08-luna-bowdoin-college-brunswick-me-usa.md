@@ -2,10 +2,11 @@
 layout: show
 title: '1994-10-08: Luna - Bowdoin College, Brunswick, ME, USA'
 name: 1994-10-08-luna-bowdoin-college-brunswick-me-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowdoin College, Brunswick, ME, USA'
 show-setlist: 
 show-date: 1994-10-08
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

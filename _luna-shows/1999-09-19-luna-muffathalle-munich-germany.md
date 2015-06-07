@@ -2,10 +2,11 @@
 layout: show
 title: '1999-09-19: Luna - Muffathalle, Munich, Germany'
 name: 1999-09-19-luna-muffathalle-munich-germany
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Muffathalle, Munich, Germany'
 show-setlist: 
 show-date: 1999-09-19
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

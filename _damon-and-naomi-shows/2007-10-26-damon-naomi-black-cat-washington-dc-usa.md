@@ -2,7 +2,7 @@
 layout: show
 title: '2007-10-26: Damon & Naomi - Black Cat, Washington DC, USA'
 name: 2007-10-26-damon-naomi-black-cat-washington-dc-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Lilac Land",
@@ -15,6 +15,7 @@ show-setlist: [
   "Stars Never Fade"
   ]
 show-date: 2007-10-26
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

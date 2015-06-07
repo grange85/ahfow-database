@@ -2,7 +2,7 @@
 layout: show
 title: '2002-10-27: Luna - Paradiso, Amsterdam, Netherlands'
 name: 2002-10-27-luna-paradiso-amsterdam-netherlands
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Paradiso, Amsterdam, Netherlands'
 show-setlist: [
   "Lovedust",
@@ -22,6 +22,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-10-27
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

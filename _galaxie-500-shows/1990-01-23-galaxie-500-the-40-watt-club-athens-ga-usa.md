@@ -2,7 +2,7 @@
 layout: show
 title: '1990-01-23: Galaxie 500 - The 40 Watt Club, Athens, GA, USA'
 name: 1990-01-23-galaxie-500-the-40-watt-club-athens-ga-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'The 40 Watt Club, Athens, GA, USA'
 show-setlist: [
   "Decomposing Trees",
@@ -16,6 +16,7 @@ show-setlist: [
   "Here She Comes Now"
   ]
 show-date: 1990-01-23
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

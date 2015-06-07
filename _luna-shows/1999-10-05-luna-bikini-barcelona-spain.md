@@ -2,10 +2,11 @@
 layout: show
 title: '1999-10-05: Luna - Bikini, Barcelona, Spain'
 name: 1999-10-05-luna-bikini-barcelona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: 
 show-date: 1999-10-05
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

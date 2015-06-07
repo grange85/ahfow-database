@@ -2,10 +2,11 @@
 layout: show
 title: '1990-02-09: Galaxie 500 - Manchester University, Manchester, UK'
 name: 1990-02-09-galaxie-500-manchester-university-manchester-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Manchester University, Manchester, UK'
 show-setlist: 
 show-date: 1990-02-09
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

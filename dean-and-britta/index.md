@@ -1,6 +1,7 @@
 ---
 layout: page
-title : Dean & Britta biography
+title : Dean &amp; Britta
+artist: Dean &amp; Britta
 categories: primary
 ---
 

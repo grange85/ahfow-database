@@ -2,10 +2,11 @@
 layout: show
 title: '2003-10-07: Damon & Naomi - Water Rats, London, UK'
 name: 2003-10-07-damon-naomi-water-rats-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Water Rats, London, UK'
 show-setlist: 
 show-date: 2003-10-07
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

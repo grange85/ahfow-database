@@ -2,10 +2,11 @@
 layout: show
 title: '2002-10-23: Luna - (unknown), Bilbao, Spain'
 name: 2002-10-23-luna-unknown-bilbao-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '(unknown), Bilbao, Spain'
 show-setlist: 
 show-date: 2002-10-23
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

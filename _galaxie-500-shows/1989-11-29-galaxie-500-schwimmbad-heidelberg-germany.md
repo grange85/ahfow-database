@@ -2,10 +2,11 @@
 layout: show
 title: '1989-11-29: Galaxie 500 - Schwimmbad, Heidelberg, Germany'
 name: 1989-11-29-galaxie-500-schwimmbad-heidelberg-germany
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Schwimmbad, Heidelberg, Germany'
 show-setlist: 
 show-date: 1989-11-29
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2014-10-14: Damon & Naomi - The Body Actualized Center, Brooklyn, NY'
 name: 2014-10-14-damon-naomi-body-actualized-center-brooklyn-ny
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Body Actualized Center, Brooklyn, NY'
 show-setlist: 
 show-date: 2014-10-14
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

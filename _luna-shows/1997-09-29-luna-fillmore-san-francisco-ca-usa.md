@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-29: Luna - Fillmore, San Francisco CA, USA'
 name: 1997-09-29-luna-fillmore-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Pup Tent",
@@ -25,6 +25,7 @@ show-setlist: [
   "Everybody's Talkin'"
   ]
 show-date: 1997-09-29
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 

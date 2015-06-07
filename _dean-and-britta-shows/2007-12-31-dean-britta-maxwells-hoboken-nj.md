@@ -2,7 +2,7 @@
 layout: show
 title: '2007-12-31: Dean & Britta - Maxwells, Hoboken NJ'
 name: 2007-12-31-dean-britta-maxwells-hoboken-nj
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Maxwells, Hoboken NJ'
 show-setlist: [
   "Rock Your Baby",
@@ -22,6 +22,7 @@ show-setlist: [
   "Moon Palace"
   ]
 show-date: 2007-12-31
+category: 2007
 show-radio: 
 show-lastfm: 429491
 show-cancelled: 

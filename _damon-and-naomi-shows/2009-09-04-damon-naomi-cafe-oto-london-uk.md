@@ -2,10 +2,11 @@
 layout: show
 title: '2009-09-04: Damon & Naomi - Cafe Oto, London UK'
 name: 2009-09-04-damon-naomi-cafe-oto-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cafe Oto, London UK'
 show-setlist: 
 show-date: 2009-09-04
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

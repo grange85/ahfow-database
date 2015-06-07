@@ -2,10 +2,11 @@
 layout: show
 title: '1989-12-13: Galaxie 500 - Subterania, London, UK'
 name: 1989-12-13-galaxie-500-subterania-london-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Subterania, London, UK'
 show-setlist: 
 show-date: 1989-12-13
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

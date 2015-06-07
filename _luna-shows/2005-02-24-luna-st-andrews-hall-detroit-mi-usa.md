@@ -2,7 +2,7 @@
 layout: show
 title: "2005-02-24: Luna - St. Andrews Hall, Detroit MI, USA"
 name: 2005-02-24-luna-st-andrews-hall-detroit-mi-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "St. Andrews Hall, Detroit MI, USA"
 show-setlist: [
   "California (All the Way)",
@@ -25,6 +25,7 @@ show-setlist: [
   "Moon Palace"
   ]
 show-date: 2005-02-24
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

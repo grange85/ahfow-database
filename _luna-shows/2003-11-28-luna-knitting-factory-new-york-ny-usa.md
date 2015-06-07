@@ -2,7 +2,7 @@
 layout: show
 title: '2003-11-28: Luna - Knitting Factory, New York NY, USA'
 name: 2003-11-28-luna-knitting-factory-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Chinatown",
@@ -24,6 +24,7 @@ show-setlist: [
   "Going Home"
   ]
 show-date: 2003-11-28
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

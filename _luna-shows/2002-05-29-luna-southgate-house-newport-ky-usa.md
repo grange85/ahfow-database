@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-29: Luna - Southgate House, Newport KY, USA'
 name: 2002-05-29-luna-southgate-house-newport-ky-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Southgate House, Newport KY, USA'
 show-setlist: [
   "Lovedust",
@@ -22,6 +22,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2002-05-29
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

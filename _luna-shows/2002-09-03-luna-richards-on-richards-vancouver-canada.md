@@ -2,10 +2,11 @@
 layout: show
 title: "2002-09-03: Luna - Richards on Richards, Vancouver, Canada"
 name: 2002-09-03-luna-richards-on-richards-vancouver-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Richards on Richards, Vancouver, Canada"
 show-setlist: 
 show-date: 2002-09-03
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

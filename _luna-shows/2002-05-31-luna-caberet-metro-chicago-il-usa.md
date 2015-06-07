@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-31: Luna - Caberet Metro, Chicago IL, USA'
 name: 2002-05-31-luna-caberet-metro-chicago-il-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -22,6 +22,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2002-05-31
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

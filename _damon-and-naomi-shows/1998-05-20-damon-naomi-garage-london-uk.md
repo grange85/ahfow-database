@@ -2,10 +2,11 @@
 layout: show
 title: '1998-05-20: Damon & Naomi - Garage, London, UK'
 name: 1998-05-20-damon-naomi-garage-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Garage, London, UK'
 show-setlist: 
 show-date: 1998-05-20
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

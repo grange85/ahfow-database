@@ -2,7 +2,7 @@
 layout: show
 title: '1990-02-19: Galaxie 500 - TT the Bears, Cambridge MA, USA'
 name: 1990-02-19-galaxie-500-tt-the-bears-cambridge-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'TT the Bears, Cambridge MA, USA'
 show-setlist: [
   "Here She Comes Now",
@@ -17,6 +17,7 @@ show-setlist: [
   "Pictures"
   ]
 show-date: 1990-02-19
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

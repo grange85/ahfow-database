@@ -2,7 +2,7 @@
 layout: show
 title: '2005-01-10: Luna - Apolo, Barcelona, Spain'
 name: 2005-01-10-luna-apolo-barcelona-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Apolo, Barcelona, Spain'
 show-setlist: [
   "Malibu Love Nest",
@@ -25,6 +25,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-01-10
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2003-10-21: Luna - Roseland, New York NY, USA'
 name: 2003-10-21-luna-roseland-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Roseland, New York NY, USA'
 show-setlist: 
 show-date: 2003-10-21
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

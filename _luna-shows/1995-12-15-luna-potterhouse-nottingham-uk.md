@@ -2,10 +2,11 @@
 layout: show
 title: '1995-12-15: Luna - Potterhouse, Nottingham, UK'
 name: 1995-12-15-luna-potterhouse-nottingham-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Potterhouse, Nottingham, UK'
 show-setlist: 
 show-date: 1995-12-15
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

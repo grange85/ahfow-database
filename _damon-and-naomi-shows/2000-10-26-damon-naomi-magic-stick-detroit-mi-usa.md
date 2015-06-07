@@ -2,10 +2,11 @@
 layout: show
 title: '2000-10-26: Damon & Naomi - Magic Stick, Detroit MI, USA'
 name: 2000-10-26-damon-naomi-magic-stick-detroit-mi-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Magic Stick, Detroit MI, USA'
 show-setlist: 
 show-date: 2000-10-26
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 

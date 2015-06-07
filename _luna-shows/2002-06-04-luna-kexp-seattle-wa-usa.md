@@ -2,7 +2,7 @@
 layout: show
 title: '2002-06-04: Luna - KEXP, Seattle, WA, USA'
 name: 2002-06-04-luna-kexp-seattle-wa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
   "[interview]",
@@ -10,6 +10,7 @@ show-setlist: [
   "Weird and Woozy"
   ]
 show-date: 2002-06-04
+category: 2002
 show-radio: true
 show-lastfm: 
 show-cancelled: 

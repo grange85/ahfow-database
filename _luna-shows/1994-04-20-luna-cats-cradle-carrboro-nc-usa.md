@@ -2,7 +2,7 @@
 layout: show
 title: "1994-04-20: Luna - Cats Cradle, Carrboro NC, USA"
 name: 1994-04-20-luna-cats-cradle-carrboro-nc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "California (All the Way)",
@@ -22,6 +22,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1994-04-20
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

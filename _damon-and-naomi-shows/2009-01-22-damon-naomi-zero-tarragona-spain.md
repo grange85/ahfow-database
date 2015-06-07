@@ -2,10 +2,11 @@
 layout: show
 title: '2009-01-22: Damon & Naomi - Zero, Tarragona, Spain'
 name: 2009-01-22-damon-naomi-zero-tarragona-spain
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Zero, Tarragona, Spain'
 show-setlist: 
 show-date: 2009-01-22
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

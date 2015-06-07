@@ -2,10 +2,11 @@
 layout: show
 title: '2009-11-20: Dean & Britta - La Comete, Chalons-en-Champagne, France'
 name: 2009-11-20-dean-britta-la-comete-chalons-en-champagne-france
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'La Comete, Chalons-en-Champagne, France'
 show-setlist: 
 show-date: 2009-11-20
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

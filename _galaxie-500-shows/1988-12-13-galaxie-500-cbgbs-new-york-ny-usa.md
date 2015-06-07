@@ -2,10 +2,11 @@
 layout: show
 title: '1988-12-13: Galaxie 500 - CBGBs, New York NY, USA'
 name: 1988-12-13-galaxie-500-cbgbs-new-york-ny-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: 
 show-date: 1988-12-13
+category: 1988
 show-radio: 
 show-lastfm: 
 show-cancelled: 

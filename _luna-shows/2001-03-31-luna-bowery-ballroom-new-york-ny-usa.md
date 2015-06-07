@@ -2,7 +2,7 @@
 layout: show
 title: '2001-03-31: Luna - Bowery Ballroom, New York NY, USA'
 name: 2001-03-31-luna-bowery-ballroom-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Egg Nog",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2001-03-31
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

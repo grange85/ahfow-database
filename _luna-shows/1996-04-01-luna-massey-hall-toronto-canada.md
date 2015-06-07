@@ -2,7 +2,7 @@
 layout: show
 title: '1996-04-01: Luna - Massey Hall, Toronto, Canada'
 name: 1996-04-01-luna-massey-hall-toronto-canada
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Massey Hall, Toronto, Canada'
 show-setlist: [
   "Slide",
@@ -14,6 +14,7 @@ show-setlist: [
   "Ride Into The Sun"
   ]
 show-date: 1996-04-01
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

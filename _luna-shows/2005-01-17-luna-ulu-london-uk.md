@@ -2,7 +2,7 @@
 layout: show
 title: '2005-01-17: Luna - ULU, London, UK'
 name: 2005-01-17-luna-ulu-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'ULU, London, UK'
 show-setlist: [
   "Malibu Love Nest",
@@ -24,6 +24,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-01-17
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

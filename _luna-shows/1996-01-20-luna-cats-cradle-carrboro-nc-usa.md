@@ -2,7 +2,7 @@
 layout: show
 title: "1996-01-20: Luna - Cats Cradle, Carrboro NC, USA"
 name: 1996-01-20-luna-cats-cradle-carrboro-nc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Double Feature",
@@ -23,6 +23,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 1996-01-20
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

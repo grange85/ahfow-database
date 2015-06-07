@@ -2,7 +2,7 @@
 layout: show
 title: '1997-09-09: Luna - World Cafe, Philadelphia PA, USA'
 name: 1997-09-09-luna-world-cafe-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'World Cafe, Philadelphia PA, USA'
 setlist-source: 'recording'
 show-setlist: [
@@ -12,6 +12,7 @@ show-setlist: [
   "Beggar's Bliss"
   ]
 show-date: 1997-09-09
+category: 1997
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

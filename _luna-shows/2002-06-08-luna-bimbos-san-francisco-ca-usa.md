@@ -2,7 +2,7 @@
 layout: show
 title: "2002-06-08: Luna - Bimbos, San Francisco CA, USA"
 name: 2002-06-08-luna-bimbos-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Bimbos, San Francisco CA, USA"
 show-setlist: [
   "Weird And Woozy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Season Of The Witch"
   ]
 show-date: 2002-06-08
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

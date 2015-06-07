@@ -2,10 +2,11 @@
 layout: show
 title: '1993-06-08: Luna - Paradiso, Amsterdam, Netherlands'
 name: 1993-06-08-luna-paradiso-amsterdam-netherlands
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Paradiso, Amsterdam, Netherlands'
 show-setlist: 
 show-date: 1993-06-08
+category: 1993
 show-radio: 
 show-lastfm: 
 show-cancelled: 

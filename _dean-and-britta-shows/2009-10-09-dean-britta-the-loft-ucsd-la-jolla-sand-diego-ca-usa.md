@@ -2,10 +2,11 @@
 layout: show
 title: '2009-10-09: Dean & Britta - The Loft, UCSD, La Jolla, Sand Diego, CA, USA'
 name: 2009-10-09-dean-britta-the-loft-ucsd-la-jolla-sand-diego-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'The Loft, UCSD, La Jolla, Sand Diego, CA, USA'
 show-setlist: 
 show-date: 2009-10-09
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

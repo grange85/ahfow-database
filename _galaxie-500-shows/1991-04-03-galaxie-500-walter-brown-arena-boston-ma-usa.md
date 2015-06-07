@@ -2,10 +2,11 @@
 layout: show
 title: '1991-04-03: Galaxie 500 - Walter Brown Arena, Boston MA, USA'
 name: 1991-04-03-galaxie-500-walter-brown-arena-boston-ma-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Walter Brown Arena, Boston MA, USA'
 show-setlist: 
 show-date: 1991-04-03
+category: 1991
 show-radio: 
 show-lastfm: 
 show-cancelled: 

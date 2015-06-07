@@ -2,10 +2,11 @@
 layout: show
 title: '2001-09-22: Luna - Garage Cafe, Goiania, Brazil'
 name: 2001-09-22-luna-garage-cafe-goiania-brazil
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Garage Cafe, Goiania, Brazil'
 show-setlist: 
 show-date: 2001-09-22
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

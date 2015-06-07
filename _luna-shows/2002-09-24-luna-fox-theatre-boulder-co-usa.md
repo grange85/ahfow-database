@@ -2,10 +2,11 @@
 layout: show
 title: '2002-09-24: Luna - Fox Theatre, Boulder CO, USA'
 name: 2002-09-24-luna-fox-theatre-boulder-co-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fox Theatre, Boulder CO, USA'
 show-setlist: 
 show-date: 2002-09-24
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

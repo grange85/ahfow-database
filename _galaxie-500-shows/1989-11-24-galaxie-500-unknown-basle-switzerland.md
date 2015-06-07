@@ -2,10 +2,11 @@
 layout: show
 title: '1989-11-24: Galaxie 500 - (unknown), Basle, Switzerland'
 name: 1989-11-24-galaxie-500-unknown-basle-switzerland
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: '(unknown), Basle, Switzerland'
 show-setlist: 
 show-date: 1989-11-24
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

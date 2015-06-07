@@ -2,7 +2,7 @@
 layout: show
 title: '2008-10-12: Damon & Naomi - Rough Trade East, London, UK'
 name: 2008-10-12-damon-naomi-rough-trade-east-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Rough Trade East, London, UK'
 show-setlist: [
   "Ueno Station",
@@ -12,6 +12,7 @@ show-setlist: [
   "Cruel Queen"
   ]
 show-date: 2008-10-12
+category: 2008
 show-radio: 
 show-lastfm: 766785
 show-cancelled: 

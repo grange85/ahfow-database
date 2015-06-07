@@ -2,10 +2,11 @@
 layout: show
 title: '1995-09-21: Luna - Paradise, Boston MA, USA'
 name: 1995-09-21-luna-paradise-boston-ma-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Paradise, Boston MA, USA'
 show-setlist: 
 show-date: 1995-09-21
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

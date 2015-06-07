@@ -2,10 +2,11 @@
 layout: show
 title: '2003-07-01: Dean & Britta - FNAC, Madrid, Spain'
 name: 2003-07-01-dean-britta-fnac-madrid-spain
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'FNAC, Madrid, Spain'
 show-setlist: 
 show-date: 2003-07-01
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

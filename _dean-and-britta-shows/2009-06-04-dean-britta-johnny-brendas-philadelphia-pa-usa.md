@@ -2,7 +2,7 @@
 layout: show
 title: "2009-06-04: Dean & Britta - Johnny Brenda's, Philadelphia, PA, USA"
 name: 2009-06-04-dean-britta-johnny-brendas-philadelphia-pa-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: "Johnny Brenda's, Philadelphia, PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
@@ -21,6 +21,7 @@ show-setlist: [
   "Ceremony"
   ]
 show-date: 2009-06-04
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

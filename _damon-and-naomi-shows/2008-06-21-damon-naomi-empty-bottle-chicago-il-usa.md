@@ -2,10 +2,11 @@
 layout: show
 title: '2008-06-21: Damon & Naomi - Empty Bottle, Chicago IL, USA'
 name: 2008-06-21-damon-naomi-empty-bottle-chicago-il-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Empty Bottle, Chicago IL, USA'
 show-setlist: 
 show-date: 2008-06-21
+category: 2008
 show-radio: 
 show-lastfm: 
 show-cancelled: 

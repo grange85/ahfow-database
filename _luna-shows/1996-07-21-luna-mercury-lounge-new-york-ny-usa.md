@@ -2,7 +2,7 @@
 layout: show
 title: '1996-07-21: Luna - Mercury Lounge, New York NY, USA'
 name: 1996-07-21-luna-mercury-lounge-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Mercury Lounge, New York NY, USA'
 show-setlist: [
   "Hey Sister",
@@ -22,6 +22,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 1996-07-21
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

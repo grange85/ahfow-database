@@ -2,7 +2,7 @@
 layout: show
 title: '1992-02-22: Luna - Maxwells, Hoboken NJ, USA'
 name: 1992-02-22-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Slide",
@@ -19,6 +19,7 @@ show-setlist: [
   "Temperature's Rising"
   ]
 show-date: 1992-02-22
+category: 1992
 show-radio: 
 show-lastfm: 
 show-cancelled: 

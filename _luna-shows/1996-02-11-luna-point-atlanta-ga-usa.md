@@ -2,7 +2,7 @@
 layout: show
 title: '1996-02-11: Luna - Point, Atlanta GA, USA'
 name: 1996-02-11-luna-point-atlanta-ga-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Point, Atlanta GA, USA'
 show-setlist: [
   "Friendly Advice",
@@ -22,6 +22,7 @@ show-setlist: [
   "Walk On The Wild Side"
   ]
 show-date: 1996-02-11
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 

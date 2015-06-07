@@ -2,7 +2,7 @@
 layout: show
 title: '1995-11-11: Luna - Knitting Factory, New York NY, USA'
 name: 1995-11-11-luna-knitting-factory-new-york-ny-usa-2
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Freakin' And Peakin'",
@@ -21,6 +21,7 @@ show-setlist: [
   "Tiger Lily"
   ]
 show-date: 1995-11-11
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

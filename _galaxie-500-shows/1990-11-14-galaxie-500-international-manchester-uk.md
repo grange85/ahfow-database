@@ -2,10 +2,11 @@
 layout: show
 title: '1990-11-14: Galaxie 500 - International, Manchester, UK'
 name: 1990-11-14-galaxie-500-international-manchester-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'International, Manchester, UK'
 show-setlist: 
 show-date: 1990-11-14
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

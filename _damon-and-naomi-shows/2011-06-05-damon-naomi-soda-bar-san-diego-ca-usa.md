@@ -2,10 +2,11 @@
 layout: show
 title: '2011-06-05: Damon & Naomi - Soda Bar, San Diego, CA, USA'
 name: 2011-06-05-damon-naomi-soda-bar-san-diego-ca-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Soda Bar, San Diego, CA, USA'
 show-setlist: 
 show-date: 2011-06-05
+category: 2011
 show-radio: 
 show-lastfm: 
 show-cancelled: 

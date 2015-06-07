@@ -2,10 +2,11 @@
 layout: show
 title: '2014-06-28: Dean Wareham at The Crocodile, Seattle, WA, USA'
 name: 2014-06-28-dean-wareham-crocodile-seattle-wa-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'The Crocodile, Seattle, WA, USA'
 show-setlist: 
 show-date: 2014-06-28
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

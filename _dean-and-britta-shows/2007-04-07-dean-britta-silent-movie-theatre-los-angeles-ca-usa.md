@@ -2,10 +2,11 @@
 layout: show
 title: '2007-04-07: Dean & Britta - Silent Movie Theatre, Los Angeles CA, USA'
 name: 2007-04-07-dean-britta-silent-movie-theatre-los-angeles-ca-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Silent Movie Theatre, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2007-04-07
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

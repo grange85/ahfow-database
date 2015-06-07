@@ -2,10 +2,11 @@
 layout: show
 title: '1991-03-26: Galaxie 500 - Paramount Theater, Denver CO, USA'
 name: 1991-03-26-galaxie-500-paramount-theater-denver-co-usa
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Paramount Theater, Denver CO, USA'
 show-setlist: 
 show-date: 1991-03-26
+category: 1991
 show-radio: 
 show-lastfm: 
 show-cancelled: 

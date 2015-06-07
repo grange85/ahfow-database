@@ -1,16 +1,22 @@
 ---
 layout: default
-permalink: /:categories/:title
 title: /:artist - /:title
 ---
+
 <div class="row">
     <div class="col-md-12">
-    <uL class="breadcrumb">
-        <li><a href="{{site.url}}">Home</a></li>
-        <li><a href="{{site.url}}/{{page.artistslug}}">{{page.artist}}</a></li>
+                <nav>
+                  <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+        <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
+        <li><a href="/{{page.artistslug}}/releases/">{{page.artist}} releases</a></li>
         <li>{{page.artist}} - {{page.albumname}}</li>
+    </ul>
+    </nav>
     </div>
 </div>
+
+
 <div class="row">
     <div class="col-md-12">
         {% if page.notes %}

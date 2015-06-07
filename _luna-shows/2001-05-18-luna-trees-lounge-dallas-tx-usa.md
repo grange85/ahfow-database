@@ -2,7 +2,7 @@
 layout: show
 title: '2001-05-18: Luna - Trees Lounge, Dallas TX, USA'
 name: 2001-05-18-luna-trees-lounge-dallas-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Trees Lounge, Dallas TX, USA'
 show-setlist: [
   "Lovedust",
@@ -22,6 +22,7 @@ show-setlist: [
   "Fourth of July"
   ]
 show-date: 2001-05-18
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

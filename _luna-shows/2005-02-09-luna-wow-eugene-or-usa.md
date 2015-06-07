@@ -2,7 +2,7 @@
 layout: show
 title: '2005-02-09: Luna - WOW, Eugene OR, USA'
 name: 2005-02-09-luna-wow-eugene-or-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'WOW, Eugene OR, USA'
 show-setlist: [
   "California (All the Way)",
@@ -23,6 +23,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2005-02-09
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

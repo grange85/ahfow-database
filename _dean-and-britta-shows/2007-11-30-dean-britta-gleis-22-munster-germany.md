@@ -2,7 +2,7 @@
 layout: show
 title: '2007-11-30: Dean & Britta - Gleis 22, Munster, Germany'
 name: 2007-11-30-dean-britta-gleis-22-munster-germany
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Gleis 22, Munster, Germany'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-11-30
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

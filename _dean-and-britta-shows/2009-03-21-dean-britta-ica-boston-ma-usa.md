@@ -2,10 +2,11 @@
 layout: show
 title: '2009-03-21: Dean & Britta - ICA, Boston, MA, USA'
 name: 2009-03-21-dean-britta-ica-boston-ma-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'ICA, Boston, MA, USA'
 show-setlist: 
 show-date: 2009-03-21
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

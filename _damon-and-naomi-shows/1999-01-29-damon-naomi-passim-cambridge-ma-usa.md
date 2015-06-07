@@ -2,10 +2,11 @@
 layout: show
 title: '1999-01-29: Damon & Naomi - Passim, Cambridge MA, USA'
 name: 1999-01-29-damon-naomi-passim-cambridge-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Passim, Cambridge MA, USA'
 show-setlist: 
 show-date: 1999-01-29
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

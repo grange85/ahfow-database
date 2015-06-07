@@ -2,7 +2,7 @@
 layout: show
 title: '1999-07-27: Luna - Maxwells, Hoboken NJ, USA'
 name: 1999-07-27-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Lost In Space",
@@ -23,6 +23,7 @@ show-setlist: [
   "US Out Of My Pants"
   ]
 show-date: 1999-07-27
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

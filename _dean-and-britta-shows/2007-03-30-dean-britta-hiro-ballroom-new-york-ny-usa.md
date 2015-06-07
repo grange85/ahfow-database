@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-30: Dean & Britta - Hiro Ballroom, New York NY, USA'
 name: 2007-03-30-dean-britta-hiro-ballroom-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Hiro Ballroom, New York NY, USA'
 show-setlist: [
   "Singer Sing",
@@ -23,6 +23,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-03-30
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

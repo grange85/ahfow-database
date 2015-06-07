@@ -2,7 +2,7 @@
 layout: show
 title: '2002-12-13: Luna - Fillmore, San Francisco CA, USA'
 name: 2002-12-13-luna-fillmore-san-francisco-ca-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "1995",
@@ -25,6 +25,7 @@ show-setlist: [
   "Bonnie and Clyde"
   ]
 show-date: 2002-12-13
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

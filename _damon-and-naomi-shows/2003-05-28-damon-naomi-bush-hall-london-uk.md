@@ -2,10 +2,11 @@
 layout: show
 title: '2003-05-28: Damon & Naomi - Bush Hall, London, UK'
 name: 2003-05-28-damon-naomi-bush-hall-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Bush Hall, London, UK'
 show-setlist: 
 show-date: 2003-05-28
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

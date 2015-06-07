@@ -2,7 +2,7 @@
 layout: show
 title: '2003-07-26: Luna - Maxwells, Hoboken NJ, USA'
 name: 2003-07-26-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Everybody's Talkin'",
@@ -23,6 +23,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2003-07-26
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

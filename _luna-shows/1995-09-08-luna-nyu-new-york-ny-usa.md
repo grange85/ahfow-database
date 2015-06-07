@@ -2,7 +2,7 @@
 layout: show
 title: '1995-09-08: Luna - NYU, New York NY, USA'
 name: 1995-09-08-luna-nyu-new-york-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'NYU, New York NY, USA'
 show-setlist: [
   "Friendly Advice",
@@ -21,6 +21,7 @@ show-setlist: [
   "Egg Nog"
   ]
 show-date: 1995-09-08
+category: 1995
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1998-06-12: Luna - Hultsfed Festival, Hultsfed, Sweden'
 name: 1998-06-12-luna-hultsfed-festival-hultsfed-sweden
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Hultsfed Festival, Hultsfed, Sweden'
 show-setlist: [
   "Pup Tent",
@@ -18,6 +18,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 1998-06-12
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

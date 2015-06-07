@@ -2,7 +2,7 @@
 layout: show
 title: '1992-09-24: Luna - Clapham Grand, London, UK'
 name: 1992-09-24-luna-clapham-grand-london-uk
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Clapham Grand, London, UK'
 show-setlist: [
   "Slash Your Tires",
@@ -13,6 +13,7 @@ show-setlist: [
   "That's What You Always Say"
   ]
 show-date: 1992-09-24
+category: 1992
 show-radio: 
 show-lastfm: 
 show-cancelled: 

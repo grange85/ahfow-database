@@ -2,10 +2,11 @@
 layout: show
 title: '2015-03-07: Damon & Naomi at The Black Box, Paramount Theater, Boston, MA, USA'
 name: 2015-03-07-damon-naomi-black-box-paramount-theater-boston-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'The Black Box, Paramount Theater, Boston, MA, USA'
 show-setlist: 
 show-date: 2015-03-07
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

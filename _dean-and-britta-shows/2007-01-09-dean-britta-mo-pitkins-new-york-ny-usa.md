@@ -2,7 +2,7 @@
 layout: show
 title: "2007-01-09: Dean & Britta - Mo Pitkin's, New York NY, USA"
 name: 2007-01-09-dean-britta-mo-pitkins-new-york-ny-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: "Mo Pitkin's, New York NY, USA"
 show-setlist: [
   "The Sun Is Still Sunny",
@@ -20,6 +20,7 @@ show-setlist: [
   "Blue Thunder"
   ]
 show-date: 2007-01-09
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

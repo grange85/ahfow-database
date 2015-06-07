@@ -2,7 +2,7 @@
 layout: show
 title: '2002-07-18: Damon & Naomi - Dolphy, Yokohama, Japan'
 name: 2002-07-18-damon-naomi-dolphy-yokohama-japan
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Dolphy, Yokohama, Japan'
 show-setlist: [
   "Turn Of The Century",
@@ -23,6 +23,7 @@ show-setlist: [
   "Oh, Sister"
   ]
 show-date: 2002-07-18
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '1994-05-08: Luna - Euclid Tavern, Cleveland OH, USA'
 name: 1994-05-08-luna-euclid-tavern-cleveland-oh-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Euclid Tavern, Cleveland OH, USA'
 show-setlist: 
 show-date: 1994-05-08
+category: 1994
 show-radio: 
 show-lastfm: 
 show-cancelled: 

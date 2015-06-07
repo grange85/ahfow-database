@@ -2,10 +2,11 @@
 layout: show
 title: '2004-10-07: Damon & Naomi - Harvard Book Store, Cambridge MA, USA'
 name: 2004-10-07-damon-naomi-harvard-book-store-cambridge-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Harvard Book Store, Cambridge MA, USA'
 show-setlist: 
 show-date: 2004-10-07
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

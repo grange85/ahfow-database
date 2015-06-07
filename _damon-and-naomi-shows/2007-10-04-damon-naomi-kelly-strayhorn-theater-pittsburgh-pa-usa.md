@@ -2,10 +2,11 @@
 layout: show
 title: '2007-10-04: Damon & Naomi - Kelly-Strayhorn Theater, Pittsburgh PA, USA'
 name: 2007-10-04-damon-naomi-kelly-strayhorn-theater-pittsburgh-pa-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Kelly-Strayhorn Theater, Pittsburgh PA, USA'
 show-setlist: 
 show-date: 2007-10-04
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

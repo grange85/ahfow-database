@@ -2,10 +2,11 @@
 layout: show
 title: '1992-11-24: Luna - WXPN, Philadelphia PA, USA'
 name: 1992-11-24-luna-wxpn-philadelphia-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'WXPN, Philadelphia PA, USA'
 show-setlist: 
 show-date: 1992-11-24
+category: 1992
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

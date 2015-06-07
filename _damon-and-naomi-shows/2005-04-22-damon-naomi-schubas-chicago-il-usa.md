@@ -2,10 +2,11 @@
 layout: show
 title: "2005-04-22: Damon & Naomi - Schubas, Chicago IL, USA"
 name: 2005-04-22-damon-naomi-schubas-chicago-il-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: "Schubas, Chicago IL, USA"
 show-setlist: 
 show-date: 2005-04-22
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

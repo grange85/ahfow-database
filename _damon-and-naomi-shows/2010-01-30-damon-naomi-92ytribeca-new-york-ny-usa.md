@@ -2,10 +2,11 @@
 layout: show
 title: '2010-01-30: Damon & Naomi - 92YTribeca, New York, NY, USA'
 name: 2010-01-30-damon-naomi-92ytribeca-new-york-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: '92YTribeca, New York, NY, USA'
 show-setlist: 
 show-date: 2010-01-30
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

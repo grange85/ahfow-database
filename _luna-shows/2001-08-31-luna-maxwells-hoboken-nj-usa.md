@@ -2,10 +2,11 @@
 layout: show
 title: '2001-08-31: Luna - Maxwells, Hoboken NJ, USA'
 name: 2001-08-31-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: 
 show-date: 2001-08-31
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '1989-12-11: Galaxie 500 - Premises, Norwich, UK'
 name: 1989-12-11-galaxie-500-premises-norwich-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Premises, Norwich, UK'
 show-setlist: 
 show-date: 1989-12-11
+category: 1989
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '2002-05-17: Luna - 9:30 Club, Washington DC, USA'
 name: 2002-05-17-luna-930-club-washington-dc-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Weird And Woozy",
@@ -24,6 +24,7 @@ show-setlist: [
   "Fuzzy Wuzzy"
   ]
 show-date: 2002-05-17
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

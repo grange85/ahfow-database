@@ -2,7 +2,7 @@
 layout: show
 title: '2004-10-30: Luna - Maxwells, Hoboken NJ, USA'
 name: 2004-10-30-luna-maxwells-hoboken-nj-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Season Of The Witch",
@@ -26,6 +26,7 @@ show-setlist: [
   "Indian Summer"
   ]
 show-date: 2004-10-30
+category: 2004
 show-radio: 
 show-lastfm: 
 show-cancelled: 

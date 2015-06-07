@@ -2,10 +2,11 @@
 layout: show
 title: '1999-10-01: Damon & Naomi - (unknown), Jamaica Plain MA, USA'
 name: 1999-10-01-damon-naomi-unknown-jamaica-plain-ma-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: '(unknown), Jamaica Plain MA, USA'
 show-setlist: 
 show-date: 1999-10-01
+category: 1999
 show-radio: 
 show-lastfm: 
 show-cancelled: 

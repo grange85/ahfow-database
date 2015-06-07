@@ -2,10 +2,11 @@
 layout: show
 title: '2001-06-29: Luna - Camelot, Pola Alicante, Spain'
 name: 2001-06-29-luna-camelot-pola-alicante-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Camelot, Pola Alicante, Spain'
 show-setlist: 
 show-date: 2001-06-29
+category: 2001
 show-radio: 
 show-lastfm: 
 show-cancelled: 

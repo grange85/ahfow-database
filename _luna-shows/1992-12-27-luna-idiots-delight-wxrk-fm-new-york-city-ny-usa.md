@@ -2,7 +2,7 @@
 layout: show
 title: "1992-12-27: Luna - Idiots Delight, WXRK-FM, New York City NY, USA"
 name: 1992-12-27-luna-idiots-delight-wxrk-fm-new-york-city-ny-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Idiots Delight, WXRK-FM, New York City NY, USA"
 show-setlist: [
   "Anesthesia",
@@ -12,6 +12,7 @@ show-setlist: [
   "We're Both Confused"
   ]
 show-date: 1992-12-27
+category: 1992
 show-radio: Radio session
 show-lastfm: 
 show-cancelled: 

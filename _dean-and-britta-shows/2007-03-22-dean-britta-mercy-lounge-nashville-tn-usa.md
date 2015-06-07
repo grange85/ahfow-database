@@ -2,7 +2,7 @@
 layout: show
 title: '2007-03-22: Dean & Britta - Mercy Lounge, Nashville TN, USA'
 name: 2007-03-22-dean-britta-mercy-lounge-nashville-tn-usa
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Mercy Lounge, Nashville TN, USA'
 show-setlist: [
   "Singer Sing",
@@ -22,6 +22,7 @@ show-setlist: [
   "Bewitched"
   ]
 show-date: 2007-03-22
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

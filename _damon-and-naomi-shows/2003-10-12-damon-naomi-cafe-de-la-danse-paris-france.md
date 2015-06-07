@@ -2,10 +2,11 @@
 layout: show
 title: '2003-10-12: Damon & Naomi - Cafe de la Danse, Paris, France'
 name: 2003-10-12-damon-naomi-cafe-de-la-danse-paris-france
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cafe de la Danse, Paris, France'
 show-setlist: 
 show-date: 2003-10-12
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

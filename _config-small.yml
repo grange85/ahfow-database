@@ -20,15 +20,48 @@ ahfow_artists:
   - artist: Dean Wareham
     artistslug: dean-wareham
 
+
+defaults: 
+  -
+    scope:
+      path: ""
+      type: galaxie-500-shows
+    values:
+      artistslug: galaxie-500
+  -
+    scope:
+      path: ""
+      type: luna-shows
+    values:
+      artistslug: luna
+  -
+    scope:
+      path: ""
+      type: _damon-and-naomi-shows
+    values:
+      artistslug: damon-and-naomi
+  -
+    scope:
+      path: ""
+      type: dean-and-britta-shows
+    values:
+      artistslug: dean-and-britta
+  -
+    scope:
+      path: ""
+      type: dean-wareham-shows
+    values:
+      artistslug: dean-wareham
+
 collections: 
   releases:
     output: true
-#  tracks:
-#    output: true
-#    permalink: tracks/:title.html
-#  galaxie-500-shows:
-#    output: true
-#    permalink: galaxie-500/shows/:title.html
+  tracks:
+    output: true
+    permalink: tracks/:title.html
+  galaxie-500-shows:
+    output: true
+    permalink: galaxie-500/shows/:title.html
 #  luna-shows:
 #    output: true
 #    permalink: luna/shows/:title.html
@@ -45,13 +78,13 @@ collections:
 # Build settings
 markdown: kramdown
 exclude: [
-    '_galaxie-500-shows',
     '_luna-shows',
     '_damon-and-naomi-shows',
     '_dean-and-britta-shows',
-    '_dean-wareham-shows',
-    '_tracks',
-    'tracks'
+    '_dean-wareham-shows'
+#    '_galaxie-500-shows',
+#    '_tracks',
+#    'tracks'
   ]
 gems: 
    - jekyll-sitemap

@@ -1,6 +1,7 @@
 ---
 layout: page
-title : Damon & Naomi biography
+title : Damon &amp; Naomi
+artist: Damon &amp; Naomi
 categories: primary
 ---
 

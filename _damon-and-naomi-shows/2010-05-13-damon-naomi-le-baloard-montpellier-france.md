@@ -2,10 +2,11 @@
 layout: show
 title: '2010-05-13: Damon & Naomi - Le Baloard, Montpellier, France'
 name: 2010-05-13-damon-naomi-le-baloard-montpellier-france
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Le Baloard, Montpellier, France'
 show-setlist: 
 show-date: 2010-05-13
+category: 2010
 show-radio: 
 show-lastfm: 
 show-cancelled: 

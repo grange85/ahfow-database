@@ -2,10 +2,11 @@
 layout: show
 title: '2002-06-04: Damon & Naomi - Knitting Factory, New York NY, USA'
 name: 2002-06-04-damon-naomi-knitting-factory-new-york-ny-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 2002-06-04
+category: 2002
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,7 +2,7 @@
 layout: show
 title: '1998-02-20: Luna - Middle East, Cambridge MA, USA'
 name: 1998-02-20-luna-middle-east-cambridge-ma-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: [
   "Pup Tent",
@@ -22,6 +22,7 @@ show-setlist: [
   "California (All the Way)"
   ]
 show-date: 1998-02-20
+category: 1998
 show-radio: 
 show-lastfm: 
 show-cancelled: 

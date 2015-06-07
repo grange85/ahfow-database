@@ -2,10 +2,11 @@
 layout: show
 title: '2014-05-18: Damon & Naomi - Cafe Oto, London, UK'
 name: 2014-05-18-damon-naomi-cafe-oto-london-uk
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: 'Cafe Oto, London, UK'
 show-setlist: 
 show-date: 2014-05-18
+category: 2014
 show-radio: 
 show-lastfm: 
 show-cancelled: 

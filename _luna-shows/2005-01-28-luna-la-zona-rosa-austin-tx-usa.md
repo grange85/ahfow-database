@@ -2,7 +2,7 @@
 layout: show
 title: '2005-01-28: Luna - La Zona Rosa, Austin TX, USA'
 name: 2005-01-28-luna-la-zona-rosa-austin-tx-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'La Zona Rosa, Austin TX, USA'
 show-setlist: [
   "Chinatown",
@@ -25,6 +25,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 2005-01-28
+category: 2005
 show-radio: 
 show-lastfm: 
 show-cancelled: 

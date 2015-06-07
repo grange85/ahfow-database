@@ -2,10 +2,11 @@
 layout: show
 title: '1990-11-04: Galaxie 500 - Dance Factory, Dundee, UK'
 name: 1990-11-04-galaxie-500-dance-factory-dundee-uk
-artist-name: 'Galaxie 500'
+artist: 'Galaxie 500'
 show-venue: 'Dance Factory, Dundee, UK'
 show-setlist: 
 show-date: 1990-11-04
+category: 1990
 show-radio: 
 show-lastfm: 
 show-cancelled: 

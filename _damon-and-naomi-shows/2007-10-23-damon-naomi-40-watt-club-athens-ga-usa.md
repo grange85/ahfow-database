@@ -2,10 +2,11 @@
 layout: show
 title: '2007-10-23: Damon & Naomi - 40 Watt Club, Athens GA, USA'
 name: 2007-10-23-damon-naomi-40-watt-club-athens-ga-usa
-artist-name: 'Damon & Naomi'
+artist: 'Damon & Naomi'
 show-venue: '40 Watt Club, Athens GA, USA'
 show-setlist: 
 show-date: 2007-10-23
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

@@ -2,10 +2,11 @@
 layout: show
 title: '2015-10-14: Luna - The Andy Warhol Museum, Pittsburgh, PA, USA'
 name: 2015-10-14-luna-the-andy-warhol-museum-pittsburgh-pa-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'The Andy Warhol Museum, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2015-10-14
+category: 2015
 show-radio: 
 show-lastfm: 
 show-cancelled: 

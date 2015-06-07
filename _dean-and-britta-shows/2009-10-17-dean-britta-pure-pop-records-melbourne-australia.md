@@ -2,7 +2,7 @@
 layout: show
 title: '2009-10-17: Dean & Britta - Pure Pop Records, Melbourne, Australia'
 name: 2009-10-17-dean-britta-pure-pop-records-melbourne-australia
-artist-name: 'Dean & Britta'
+artist: 'Dean & Britta'
 show-venue: 'Pure Pop Records, Melbourne, Australia'
 show-setlist: [
   "Tiger Lily",
@@ -13,6 +13,7 @@ show-setlist: [
   "Tugboat"
   ]
 show-date: 2009-10-17
+category: 2009
 show-radio: 
 show-lastfm: 
 show-cancelled: 

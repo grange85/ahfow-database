@@ -2,7 +2,7 @@
 layout: show
 title: '2003-06-30: Luna - Cine Salesianos, Vigo, Spain'
 name: 2003-06-30-luna-cine-salesianos-vigo-spain
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: 'Cine Salesianos, Vigo, Spain'
 show-setlist: [
   "Slash Your Tires",
@@ -21,6 +21,7 @@ show-setlist: [
   "23 Minutes in Brussels"
   ]
 show-date: 2003-06-30
+category: 2003
 show-radio: 
 show-lastfm: 
 show-cancelled: 

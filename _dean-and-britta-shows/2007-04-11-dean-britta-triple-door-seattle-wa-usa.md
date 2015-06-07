@@ -2,10 +2,11 @@
 layout: show
 title: '2007-04-11: Dean & Britta - Triple Door, Seattle WA, USA'
 name: 2007-04-11-dean-britta-triple-door-seattle-wa-usa
-artist-name: 'Dean Wareham'
+artist: 'Dean Wareham'
 show-venue: 'Triple Door, Seattle WA, USA'
 show-setlist: 
 show-date: 2007-04-11
+category: 2007
 show-radio: 
 show-lastfm: 
 show-cancelled: 

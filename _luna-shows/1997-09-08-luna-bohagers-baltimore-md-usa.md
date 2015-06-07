@@ -2,7 +2,7 @@
 layout: show
 title: "1997-09-08: Luna - Bohagers, Baltimore MD, USA"
 name: 1997-09-08-luna-bohagers-baltimore-md-usa
-artist-name: 'Luna'
+artist: 'Luna'
 show-venue: "Bohagers, Baltimore MD, USA"
 show-setlist: [
   "Sideshow By The Seashore",
@@ -22,6 +22,7 @@ show-setlist: [
   "Time to Quit"
   ]
 show-date: 1997-09-08
+category: 1997
 show-radio: 
 show-lastfm: 
 show-cancelled: 
