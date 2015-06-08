@@ -1,6 +1,6 @@
 ---
 layout: discography
-title : Luna discography
+title : Luna releases
 artistslug: luna
 artist: Luna
 categories: primary

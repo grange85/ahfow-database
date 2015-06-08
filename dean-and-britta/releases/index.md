@@ -1,6 +1,6 @@
 ---
-layout: page
-title : Dean & Britta discography
+layout: discography
+title : Dean & Britta releases
 artistslug: dean-and-britta
 artist: Dean &amp; Britta
 categories: primary

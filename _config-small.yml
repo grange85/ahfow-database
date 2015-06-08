@@ -59,9 +59,9 @@ collections:
   tracks:
     output: true
     permalink: tracks/:title.html
-  galaxie-500-shows:
-    output: true
-    permalink: galaxie-500/shows/:title.html
+#  galaxie-500-shows:
+#    output: true
+#    permalink: galaxie-500/shows/:title.html
 #  luna-shows:
 #    output: true
 #    permalink: luna/shows/:title.html
@@ -81,10 +81,10 @@ exclude: [
     '_luna-shows',
     '_damon-and-naomi-shows',
     '_dean-and-britta-shows',
-    '_dean-wareham-shows'
-#    '_galaxie-500-shows',
-#    '_tracks',
-#    'tracks'
+    '_dean-wareham-shows',
+    '_galaxie-500-shows',
+    '_tracks',
+    'tracks'
   ]
 gems: 
    - jekyll-sitemap
