@@ -36,11 +36,11 @@ releases:
          author: Michael Holland
        - title: My Eyes Are Blue
          notes: 
-         author: Krukowski/Wareham/Yang
+         author: Dean Wareham
        - title: Love Is Not a Roof Against the Rain
          notes: 
          author: Dean Wareham
-    - group: A
+    - group: B
       tracks:
        - title: Holding Pattern
          notes: 
@@ -80,11 +80,11 @@ releases:
          author: Michael Holland
        - title: My Eyes Are Blue
          notes: 
-         author: Krukowski/Wareham/Yang
+         author: Dean Wareham
        - title: Love Is Not a Roof Against the Rain
          notes: 
          author: Dean Wareham
-    - group: A
+    - group: B
       tracks:
        - title: Holding Pattern
          notes: 
@@ -124,7 +124,7 @@ releases:
          author: Michael Holland
        - title: My Eyes Are Blue
          notes: 
-         author: Krukowski/Wareham/Yang
+         author: Dean Wareham
        - title: Love Is Not a Roof Against the Rain
          notes: 
          author: Dean Wareham
@@ -166,7 +166,7 @@ releases:
          author: Michael Holland
        - title: My Eyes Are Blue
          notes: 
-         author: Krukowski/Wareham/Yang
+         author: Dean Wareham
        - title: Love Is Not a Roof Against the Rain
          notes: 
          author: Dean Wareham
