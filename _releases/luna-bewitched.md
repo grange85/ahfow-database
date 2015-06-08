@@ -27,34 +27,34 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: This Time Around
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Great Jones Street
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Going Home
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Into the Fold
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Know You Tried
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sleeping Pill
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: wea-japan-cd
     year: 1994
@@ -72,37 +72,37 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: This Time Around
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Great Jones Street
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Going Home
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Into the Fold
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Know You Tried
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sleeping Pill
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sucking Ice Cubes
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: elektra-cassette
     year: 1994
@@ -120,36 +120,36 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: This Time Around
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Great Jones Street
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Going Home
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Into the Fold
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Know You Tried
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sleeping Pill
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: gotta-groove-lp
     year: 2012
@@ -167,36 +167,36 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: This Time Around
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Great Jones Street
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Going Home
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Into the Fold
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Know You Tried
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sleeping Pill
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
 
 ---
 Stanley Demeski - drums, percussion  

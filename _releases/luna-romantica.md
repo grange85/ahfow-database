@@ -27,40 +27,40 @@ releases:
       tracks:
        - title: Lovedust
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Weird and Woozy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Postcards
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Champagne
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Swedish Fish
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Renee is Crying
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Mermaid Eyes
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: "1995"
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rememories
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Dizzy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Orange Peel
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Romantica
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: jetset-cd
     year: 2002
@@ -78,40 +78,40 @@ releases:
       tracks:
        - title: Lovedust
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Weird and Woozy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Postcards
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Champagne
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Swedish Fish
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Renee is Crying
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Mermaid Eyes
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: "1995"
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rememories
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Dizzy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Orange Peel
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Romantica
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: self-released-digital
     year: 2011
@@ -129,49 +129,49 @@ releases:
       tracks:
        - title: Lovedust
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Weird and Woozy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Postcards
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Black Champagne
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Swedish Fish
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Renee is Crying
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Mermaid Eyes
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: "1995"
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rememories
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Dizzy
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Orange Peel
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Romantica
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Mystic Rattlers
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Renee is Crying
          notes: alternative mix
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lovedust
          notes: demo
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
 ---
 Produced by Luna and Gene Holder.  
 Mixed by Dave Fridmann.

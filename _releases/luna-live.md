@@ -27,37 +27,37 @@ releases:
       tracks:
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Pup Tent
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Anesthesia
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Four Thousand Days
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fourth of July
          notes: 
          author: Krukowski/Wareham/Yang
@@ -81,44 +81,44 @@ releases:
       tracks:
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Pup Tent
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Anesthesia
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Four Thousand Days
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hello Little One
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: C
       tracks:
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fourth of July
          notes: 
          author: Krukowski/Wareham/Yang
@@ -129,13 +129,13 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bobby Peru
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Indian Summer
          notes: 
          author: Calvin Johnson
@@ -156,40 +156,40 @@ releases:
       tracks:
        - title: Bewitched
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Pup Tent
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Anesthesia
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Four Thousand Days
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hello Little One
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fourth of July
          notes: 
          author: Krukowski/Wareham/Yang
@@ -200,10 +200,10 @@ releases:
       tracks:
        - title: California (All the Way)
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bobby Peru
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Indian Summer
          notes: 
          author: Calvin Johnson

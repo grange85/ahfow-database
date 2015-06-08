@@ -71,7 +71,13 @@ title: /:artist - /:title
                     </div>
                     <div class="col-md-6">
                         <figure>
+
+                        {%  capture imagetest %}X{{releases.imageurl}}{% endcapture %}
+                        {% if imagetest == 'X' %}
+                            <img src="http://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg">
+                        {% else %}
                             <img src="{{releases.imageurl}}">
+                        {% endif %}
                             <figcaption>{{ page.albumname }}</figcaption>
                         </figure>
                     </div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: discography
 title : Dean Wareham releases
 artistslug: dean-wareham
 artist: Dean Wareham

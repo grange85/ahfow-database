@@ -27,34 +27,34 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bonnie and Clyde 
          notes: Clyde Barrow version
          author: Serge Gainsbourg
@@ -75,34 +75,34 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bonnie and Clyde 
          notes: Clyde Barrow version
          author: Serge Gainsbourg
@@ -123,36 +123,36 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: beggars-banquet-cassette
     year: 1995
@@ -170,36 +170,36 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: elektra-cassette
     year: 1995
@@ -217,36 +217,36 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
     version: elektra-japan-cd
     year: 1995
@@ -264,34 +264,34 @@ releases:
       tracks:
        - title: Chinatown
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Lost in Space
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bonnie and Clyde 
          notes: Clyde Barrow version
          author: Serge Gainsbourg

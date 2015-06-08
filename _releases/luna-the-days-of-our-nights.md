@@ -27,37 +27,37 @@ releases:
       tracks:
        - title: Dear Diary
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hello, Little One
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Old Fashioned Way
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Four Thousand Days
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Seven Steps to Satan
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Superfreaky Memories
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Math Wiz
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Words Without Wrinkles
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Rustler
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: U.S. Out of My Pants
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Slow Song
          notes: 
-         author: "Lyrics: Wareham, Music: LUNA"
+         author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sweet Child o' Mine
          notes: 
          author: Slash/Rose/Stradlin/McKagen/Adler

@@ -27,58 +27,58 @@ releases:
       tracks:
       - title: Moon Palace
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Sideshow by the Seashore
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Anesthesia
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Friendly Advice
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: California (All the Way)
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Slide
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tiger Lily
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Chinatown
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lost in Space
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: 23 Minutes in Brussels
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Egg Nog
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Bobby Peru
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: IHOP
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Into the Fold
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Superfreaky Memories
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Dear Diary
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lovedust
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Black Postcards
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
     - group: CD2 - Lunafied
       tracks:
       - title: Bonnie and Clyde 
@@ -149,53 +149,53 @@ releases:
       tracks:
       - title: Moon Palace
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: California (All the Way)
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Anesthesia
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Friendly Advice
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Sideshow by the Seashore
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Pup Tent
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Slide
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tiger Lily
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Chinatown
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tracy I Love
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Bewitched
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Superfreaky Memories
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Astronaut
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lovedust
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: I Want Everything
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lost in Space
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
       - title: 23 Minutes in Brussels
         notes: 
-        author: "Lyrics: Wareham, Music: LUNA"
+        author: "Lyrics by Dean Wareham, music by Luna"
 ---

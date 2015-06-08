@@ -8,7 +8,7 @@ title: He's Coming Home / Old Toy Trains
 initial_release_date: 2007
 albumname: He's Coming Home / Old Toy Trains
 artist: Dean &amp; Britta
-imageurl: 
+imageurl:
 releases:
   - release: 
     version: chimney-rocks-single
@@ -18,7 +18,7 @@ releases:
     format: 7"
     label: Chimney Rocks!
     catno: PAD-002
-    imageurl: 
+    imageurl:
     mbid: 
     discogs: 
     release_notes:
