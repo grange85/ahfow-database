@@ -31,11 +31,11 @@ layout: default
 {% when 'luna' %}
   {% assign shows = site.luna-shows | where: "category", page.year %}
 {% when 'damon-and-naomi' %}
-  {% assign shows = site.damon-and-naomi-shows %}
+  {% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
 {% when 'dean-and-britta' %}
-  {% assign shows = site.dean-and-britta-shows %}
+  {% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
 {% when 'dean-wareham' %}
-  {% assign shows = site.dean-wareham-shows %}
+  {% assign shows = site.dean-wareham-shows | where: "category", page.year %}
 {% endcase %}
 
 <div class="row">

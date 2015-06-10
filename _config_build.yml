@@ -1,24 +1,13 @@
 # Site settings
 title: 'A Head Full of Wishes: data'
 email: andy@fullofwishes.co.uk
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   A Head Full of Wishes is a fan site for Galaxie 500, Luna, Damon and Naomi, Dean and Britta and Dean Wareham,
   it includes news as well as an extensive discography and gigography
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://db.fullofwishes.co.uk" # the base hostname & protocol for your site
 twitter_username: ahfow
 github_username:  grange85
-ahfow_artists: 
-  - artist: Galaxie 500
-    artistslug: galaxie-500
-  - artist: Luna
-    artistslug: luna
-  - artist: Damon and Naomi
-    artistslug: damon-and-naomi
-  - artist: Dean and Britta
-    artistslug: dean-and-britta
-  - artist: Dean Wareham
-    artistslug: dean-wareham
 
 collections: 
   releases:
@@ -59,7 +48,7 @@ defaults:
   -
     scope:
       path: ""
-      type: _damon-and-naomi-shows
+      type: damon-and-naomi-shows
     values:
       artistslug: damon-and-naomi
   -

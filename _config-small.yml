@@ -8,18 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://db.fullofwishes.co.uk" # the base hostname & protocol for your site
 twitter_username: ahfow
 github_username:  grange85
-ahfow_artists: 
-  - artist: Galaxie 500
-    artistslug: galaxie-500
-  - artist: Luna
-    artistslug: luna
-  - artist: Damon and Naomi
-    artistslug: damon-and-naomi
-  - artist: Dean and Britta
-    artistslug: dean-and-britta
-  - artist: Dean Wareham
-    artistslug: dean-wareham
-
 
 defaults: 
   -
