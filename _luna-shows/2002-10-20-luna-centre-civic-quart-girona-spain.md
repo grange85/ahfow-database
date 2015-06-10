@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-20: Luna - Centre Civic Quart, Girona, Spain'
 name: 2002-10-20-luna-centre-civic-quart-girona-spain
-artist: 'Luna'
 show-venue: 'Centre Civic Quart, Girona, Spain'
 show-setlist: [
   "Weird And Woozy",

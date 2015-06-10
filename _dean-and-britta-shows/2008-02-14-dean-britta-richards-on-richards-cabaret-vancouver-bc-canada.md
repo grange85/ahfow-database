@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-14: Dean & Britta - Richards On Richards Cabaret, Vancouver BC, Canada'
 name: 2008-02-14-dean-britta-richards-on-richards-cabaret-vancouver-bc-canada
-artist: 'Dean & Britta'
 show-venue: 'Richards On Richards Cabaret, Vancouver BC, Canada'
 show-setlist: 
 show-date: 2008-02-14

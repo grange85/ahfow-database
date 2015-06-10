@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-27: Dean & Britta - Black Cat, Washington DC, USA'
 name: 2008-02-27-dean-britta-black-cat-washington-dc-usa
-artist: 'Dean & Britta'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Teenage Lightning",

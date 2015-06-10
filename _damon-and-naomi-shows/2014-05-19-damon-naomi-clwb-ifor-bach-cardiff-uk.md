@@ -2,7 +2,6 @@
 layout: show
 title: '2014-05-19: Damon & Naomi - Clwb Ifor Bach, Cardiff, UK'
 name: 2014-05-19-damon-naomi-clwb-ifor-bach-cardiff-uk
-artist: 'Damon & Naomi'
 show-venue: 'Clwb Ifor Bach, Cardiff, UK'
 show-setlist: 
 show-date: 2014-05-19

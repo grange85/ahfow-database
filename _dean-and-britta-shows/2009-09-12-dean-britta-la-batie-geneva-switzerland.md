@@ -2,7 +2,6 @@
 layout: show
 title: '2009-09-12: Dean & Britta - La Batie, Geneva, Switzerland'
 name: 2009-09-12-dean-britta-la-batie-geneva-switzerland
-artist: 'Dean & Britta'
 show-venue: 'La Batie, Geneva, Switzerland'
 show-setlist: 
 show-date: 2009-09-12

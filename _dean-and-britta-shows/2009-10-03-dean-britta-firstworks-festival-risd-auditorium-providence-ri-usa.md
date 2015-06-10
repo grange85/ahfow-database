@@ -2,7 +2,6 @@
 layout: show
 title: '2009-10-03: Dean & Britta - FirstWorks Festival, RISD Auditorium, Providence, RI, USA'
 name: 2009-10-03-dean-britta-firstworks-festival-risd-auditorium-providence-ri-usa
-artist: 'Dean & Britta'
 show-venue: 'FirstWorks Festival, RISD Auditorium, Providence, RI, USA'
 show-setlist: 
 show-date: 2009-10-03

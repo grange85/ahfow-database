@@ -2,7 +2,6 @@
 layout: show
 title: '1990-01-17: Galaxie 500 - Night Stage, Cambridge MA, USA'
 name: 1990-01-17-galaxie-500-night-stage-cambridge-ma-usa
-artist: 'Galaxie 500'
 show-venue: 'Night Stage, Cambridge MA, USA'
 show-setlist: [
   "Flowers",

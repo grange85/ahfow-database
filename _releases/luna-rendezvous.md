@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
 title: Rendezvous
 initial_release_date: 2004
 albumname: Rendezvous
-artist: Luna
 releases:
   - release: 
     version: jetset-cd

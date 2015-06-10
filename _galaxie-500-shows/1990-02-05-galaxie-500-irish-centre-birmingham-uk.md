@@ -2,7 +2,6 @@
 layout: show
 title: '1990-02-05: Galaxie 500 - Irish Centre, Birmingham, UK'
 name: 1990-02-05-galaxie-500-irish-centre-birmingham-uk
-artist: 'Galaxie 500'
 show-venue: 'Irish Centre, Birmingham, UK'
 show-setlist: 
 show-date: 1990-02-05

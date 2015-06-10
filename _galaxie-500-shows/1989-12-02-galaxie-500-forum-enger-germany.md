@@ -2,7 +2,6 @@
 layout: show
 title: '1989-12-02: Galaxie 500 - Forum, Enger, Germany'
 name: 1989-12-02-galaxie-500-forum-enger-germany
-artist: 'Galaxie 500'
 show-venue: 'Forum, Enger, Germany'
 show-setlist: 
 show-date: 1989-12-02

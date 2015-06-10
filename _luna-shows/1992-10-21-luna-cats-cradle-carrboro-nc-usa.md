@@ -2,7 +2,6 @@
 layout: show
 title: "1992-10-21: Luna - Cats Cradle, Carrboro NC, USA"
 name: 1992-10-21-luna-cats-cradle-carrboro-nc-usa
-artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 1992-10-21

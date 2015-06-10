@@ -2,7 +2,6 @@
 layout: show
 title: '1989-11-15: Galaxie 500 - Burgerweehuis, Deventer, Netherlands'
 name: 1989-11-15-galaxie-500-burgerweehuis-deventer-netherlands
-artist: 'Galaxie 500'
 show-venue: 'Burgerweehuis, Deventer, Netherlands'
 show-setlist: 
 show-date: 1989-11-15

@@ -2,7 +2,6 @@
 layout: show
 title: '2007-10-26: Damon & Naomi - Black Cat, Washington DC, USA'
 name: 2007-10-26-damon-naomi-black-cat-washington-dc-usa
-artist: 'Damon & Naomi'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Lilac Land",

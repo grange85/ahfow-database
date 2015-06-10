@@ -2,7 +2,6 @@
 layout: show
 title: '2009-03-22: Damon & Naomi - Mattatoio, Carpi, Modena, Italy'
 name: 2009-03-22-damon-naomi-mattatoio-carpi-modena-italy
-artist: 'Damon & Naomi'
 show-venue: 'Mattatoio, Carpi, Modena, Italy'
 show-setlist: 
 show-date: 2009-03-22

@@ -2,7 +2,6 @@
 layout: show
 title: '2007-06-20: Dean & Britta - Legion, London, UK'
 name: 2007-06-20-dean-britta-legion-london-uk
-artist: 'Dean & Britta'
 show-venue: 'Legion, London, UK'
 show-setlist: [
   "Singer Sing",

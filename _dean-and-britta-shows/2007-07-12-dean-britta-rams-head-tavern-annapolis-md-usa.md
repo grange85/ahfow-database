@@ -2,7 +2,6 @@
 layout: show
 title: '2007-07-12: Dean & Britta - Rams Head Tavern, Annapolis MD, USA'
 name: 2007-07-12-dean-britta-rams-head-tavern-annapolis-md-usa
-artist: 'Dean & Britta'
 show-venue: 'Rams Head Tavern, Annapolis MD, USA'
 show-setlist: [
   "Singer Sing",

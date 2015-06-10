@@ -2,7 +2,6 @@
 layout: show
 title: '2007-03-30: Dean & Britta - Hiro Ballroom, New York NY, USA'
 name: 2007-03-30-dean-britta-hiro-ballroom-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'Hiro Ballroom, New York NY, USA'
 show-setlist: [
   "Singer Sing",

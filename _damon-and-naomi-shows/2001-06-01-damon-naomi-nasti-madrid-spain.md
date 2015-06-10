@@ -2,7 +2,6 @@
 layout: show
 title: '2001-06-01: Damon & Naomi - Nasti, Madrid, Spain'
 name: 2001-06-01-damon-naomi-nasti-madrid-spain
-artist: 'Damon & Naomi'
 show-venue: 'Nasti, Madrid, Spain'
 show-setlist: 
 show-date: 2001-06-01

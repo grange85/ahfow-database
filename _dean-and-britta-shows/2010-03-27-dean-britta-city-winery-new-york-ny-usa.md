@@ -2,7 +2,6 @@
 layout: show
 title: '2010-03-27: Dean & Britta - City Winery, New York, NY, USA'
 name: 2010-03-27-dean-britta-city-winery-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'City Winery, New York, NY, USA'
 show-setlist: 
 show-date: 2010-03-27

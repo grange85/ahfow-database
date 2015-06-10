@@ -7,7 +7,6 @@ artistslug: dean-wareham
 title: Dean Wareham
 initial_release_date: 2014
 albumname: Dean Wareham
-artist: Dean Wareham
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral.jpg
 releases:
   - release: 

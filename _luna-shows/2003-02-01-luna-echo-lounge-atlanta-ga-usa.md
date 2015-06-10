@@ -2,7 +2,6 @@
 layout: show
 title: '2003-02-01: Luna - Echo Lounge, Atlanta GA, USA'
 name: 2003-02-01-luna-echo-lounge-atlanta-ga-usa
-artist: 'Luna'
 show-venue: 'Echo Lounge, Atlanta GA, USA'
 show-setlist: [
   "Slide",

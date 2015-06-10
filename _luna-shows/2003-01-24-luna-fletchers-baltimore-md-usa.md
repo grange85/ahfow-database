@@ -2,7 +2,6 @@
 layout: show
 title: '2003-01-24: Luna - Fletchers, Baltimore MD, USA'
 name: 2003-01-24-luna-fletchers-baltimore-md-usa
-artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "Weird And Woozy",

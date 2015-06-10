@@ -2,7 +2,6 @@
 layout: show
 title: '1996-10-02: Luna - ULU, London, UK'
 name: 1996-10-02-luna-ulu-london-uk
-artist: 'Luna'
 show-venue: 'ULU, London, UK'
 show-setlist: 
 show-date: 1996-10-02

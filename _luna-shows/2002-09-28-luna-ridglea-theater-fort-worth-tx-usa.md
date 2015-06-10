@@ -2,7 +2,6 @@
 layout: show
 title: '2002-09-28: Luna - Ridglea Theater, Fort Worth TX, USA'
 name: 2002-09-28-luna-ridglea-theater-fort-worth-tx-usa
-artist: 'Luna'
 show-venue: 'Ridglea Theater, Fort Worth TX, USA'
 show-setlist: 
 show-date: 2002-09-28

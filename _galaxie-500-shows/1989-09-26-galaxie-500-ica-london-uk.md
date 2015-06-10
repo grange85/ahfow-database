@@ -2,7 +2,6 @@
 layout: show
 title: '1989-09-26: Galaxie 500 - ICA, London, UK'
 name: 1989-09-26-galaxie-500-ica-london-uk
-artist: 'Galaxie 500'
 show-venue: 'ICA, London, UK'
 show-setlist: [
   "Flowers",

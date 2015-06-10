@@ -2,7 +2,6 @@
 layout: show
 title: '2002-06-28: Damon & Naomi - Oni Gallery, Boston MA, USA'
 name: 2002-06-28-damon-naomi-oni-gallery-boston-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'Oni Gallery, Boston MA, USA'
 show-setlist: 
 show-date: 2002-06-28

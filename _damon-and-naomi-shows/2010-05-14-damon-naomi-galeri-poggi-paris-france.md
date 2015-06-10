@@ -2,7 +2,6 @@
 layout: show
 title: '2010-05-14: Damon & Naomi - Galeri Poggi, Paris, France'
 name: 2010-05-14-damon-naomi-galeri-poggi-paris-france
-artist: 'Damon & Naomi'
 show-venue: 'Galeri Poggi, Paris, France'
 show-setlist: 
 show-date: 2010-05-14

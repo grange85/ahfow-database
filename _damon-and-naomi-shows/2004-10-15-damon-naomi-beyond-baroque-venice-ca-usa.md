@@ -2,7 +2,6 @@
 layout: show
 title: '2004-10-15: Damon & Naomi - Beyond Baroque, Venice CA, USA'
 name: 2004-10-15-damon-naomi-beyond-baroque-venice-ca-usa
-artist: 'Damon & Naomi'
 show-venue: 'Beyond Baroque, Venice CA, USA'
 show-setlist: 
 show-date: 2004-10-15

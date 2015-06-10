@@ -2,7 +2,6 @@
 layout: show
 title: '2008-01-19: Damon & Naomi - Knave, Osaka, Japan'
 name: 2008-01-19-damon-naomi-knave-osaka-japan
-artist: 'Damon & Naomi'
 show-venue: 'Knave, Osaka, Japan'
 show-setlist: 
 show-date: 2008-01-19

@@ -2,7 +2,6 @@
 layout: show
 title: '2009-06-05: Dean & Britta - Black Cat, Washington DC, USA'
 name: 2009-06-05-dean-britta-black-cat-washington-dc-usa
-artist: 'Dean & Britta'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Silver Factory",

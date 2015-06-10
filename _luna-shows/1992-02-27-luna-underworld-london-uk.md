@@ -2,7 +2,6 @@
 layout: show
 title: '1992-02-27: Luna - Underworld, London, UK'
 name: 1992-02-27-luna-underworld-london-uk
-artist: 'Luna'
 show-venue: 'Underworld, London, UK'
 show-setlist: [
   "Slide",

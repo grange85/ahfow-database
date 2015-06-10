@@ -2,7 +2,6 @@
 layout: show
 title: '2001-09-29: Luna - Teatro del Circulo, Montevideo, Uruguay'
 name: 2001-09-29-luna-teatro-del-circulo-montevideo-uruguay
-artist: 'Luna'
 show-venue: 'Teatro del Circulo, Montevideo, Uruguay'
 show-setlist: [
   "Hello Little One",

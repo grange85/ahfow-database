@@ -2,7 +2,6 @@
 layout: show
 title: '1996-11-15: Luna - Fletchers, Baltimore MD, USA'
 name: 1996-11-15-luna-fletchers-baltimore-md-usa
-artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "IHOP",

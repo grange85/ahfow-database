@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+{% assign artist = site.data.artists[page.artistslug] %}
 
-{% case page.artistslug %}
+{% case artist.slug %}
 {% when 'galaxie-500' %}
   {% assign shows = site.galaxie-500-shows %}
 {% when 'luna' %}

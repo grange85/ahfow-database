@@ -2,7 +2,6 @@
 layout: show
 title: '1990-03-16: Galaxie 500 - Paradise, Boston MA, USA'
 name: 1990-03-16-galaxie-500-paradise-boston-ma-usa
-artist: 'Galaxie 500'
 show-venue: 'Paradise, Boston MA, USA'
 show-setlist: [
   "Decomposing Trees",

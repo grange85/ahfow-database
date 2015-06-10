@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-10: Luna - KB, Malmo, Sweden'
 name: 2002-10-10-luna-kb-malmo-sweden
-artist: 'Luna'
 show-venue: 'KB, Malmo, Sweden'
 show-setlist: 
 show-date: 2002-10-10

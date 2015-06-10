@@ -2,7 +2,6 @@
 layout: show
 title: "2002-05-10: Luna - Lupos, Providence RI, USA"
 name: 2002-05-10-luna-lupos-providence-ri-usa
-artist: 'Luna'
 show-venue: "Lupos, Providence RI, USA"
 show-setlist: 
 show-date: 2002-05-10

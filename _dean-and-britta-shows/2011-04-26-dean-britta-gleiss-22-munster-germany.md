@@ -2,7 +2,6 @@
 layout: show
 title: '2011-04-26: Dean & Britta - Gleiss 22, Munster, Germany'
 name: 2011-04-26-dean-britta-gleiss-22-munster-germany
-artist: 'Dean & Britta'
 show-venue: 'Gleiss 22, Munster, Germany'
 show-setlist: 
 show-date: 2011-04-26

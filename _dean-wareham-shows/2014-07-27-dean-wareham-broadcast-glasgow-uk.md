@@ -2,7 +2,6 @@
 layout: show
 title: '2014-07-27: Dean Wareham - Broadcast, Glasgow, UK'
 name: 2014-07-27-dean-wareham-broadcast-glasgow-uk
-artist: 'Dean Wareham'
 show-venue: 'Broadcast, Glasgow, UK'
 show-setlist: 
 show-date: 2014-07-27

@@ -2,7 +2,6 @@
 layout: show
 title: '2013-03-22: Damon & Naomi - Portsmouth Book and Bar, Portsmouth, NH, USA'
 name: 2013-03-22-damon-naomi-portsmouth-book-and-bar-portsmouth-nh-usa
-artist: 'Damon & Naomi'
 show-venue: 'Portsmouth Book and Bar, Portsmouth, NH, USA'
 show-setlist: 
 show-date: 2013-03-22

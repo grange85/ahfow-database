@@ -2,7 +2,6 @@
 layout: show
 title: '2000-07-13: Luna - Theatre of the Living Arts, Philadelphia PA, USA'
 name: 2000-07-13-luna-theatre-of-the-living-arts-philadelphia-pa-usa
-artist: 'Luna'
 show-venue: 'Theatre of the Living Arts, Philadelphia PA, USA'
 show-setlist: [
   "Rhythm King",

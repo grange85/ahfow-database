@@ -2,7 +2,6 @@
 layout: show
 title: '2015-08-05: Luna - Barby, Tel Aviv, Israel'
 name: 2015-08-05-barby-tel-aviv-israel
-artist: 'Luna'
 show-venue: 'Barby, Tel Aviv, Israel'
 show-setlist: 
 show-date: 2015-08-05

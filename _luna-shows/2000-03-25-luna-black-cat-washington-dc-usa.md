@@ -2,7 +2,6 @@
 layout: show
 title: '2000-03-25: Luna - Black Cat, Washington DC, USA'
 name: 2000-03-25-luna-black-cat-washington-dc-usa
-artist: 'Luna'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Bewitched",

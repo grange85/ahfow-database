@@ -2,7 +2,6 @@
 layout: show
 title: '1993-06-05: Luna - Forum, London, UK'
 name: 1993-06-05-luna-forum-london-uk
-artist: 'Luna'
 show-venue: 'Forum, London, UK'
 show-setlist: 
 show-date: 1993-06-05

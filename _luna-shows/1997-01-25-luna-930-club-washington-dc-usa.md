@@ -2,7 +2,6 @@
 layout: show
 title: '1997-01-25: Luna - 9:30 Club, Washington DC, USA'
 name: 1997-01-25-luna-930-club-washington-dc-usa
-artist: 'Luna'
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

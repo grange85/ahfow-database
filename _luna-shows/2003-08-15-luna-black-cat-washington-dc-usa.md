@@ -2,7 +2,6 @@
 layout: show
 title: '2003-08-15: Luna - Black Cat, Washington DC, USA'
 name: 2003-08-15-luna-black-cat-washington-dc-usa
-artist: 'Luna'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Chinatown",

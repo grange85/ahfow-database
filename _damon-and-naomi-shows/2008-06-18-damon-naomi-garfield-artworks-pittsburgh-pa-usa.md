@@ -2,7 +2,6 @@
 layout: show
 title: '2008-06-18: Damon & Naomi - Garfield Artworks, Pittsburgh PA, USA'
 name: 2008-06-18-damon-naomi-garfield-artworks-pittsburgh-pa-usa
-artist: 'Damon & Naomi'
 show-venue: 'Garfield Artworks, Pittsburgh PA, USA'
 show-setlist: 
 show-date: 2008-06-18

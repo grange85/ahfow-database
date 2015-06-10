@@ -2,7 +2,6 @@
 layout: show
 title: '2002-11-23: Luna - North Star Bar, Philadelphia PA, USA'
 name: 2002-11-23-luna-north-star-bar-philadelphia-pa-usa
-artist: 'Luna'
 show-venue: 'North Star Bar, Philadelphia PA, USA'
 show-setlist: [
   "Lovedust",

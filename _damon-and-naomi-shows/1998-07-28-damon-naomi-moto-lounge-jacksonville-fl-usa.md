@@ -2,7 +2,6 @@
 layout: show
 title: '1998-07-28: Damon & Naomi - Moto Lounge.  Jacksonville, FL, USA'
 name: 1998-07-28-damon-naomi-moto-lounge-jacksonville-fl-usa
-artist: 'Damon & Naomi'
 show-venue: 'Moto Lounge.  Jacksonville, FL, USA'
 show-setlist: 
 show-date: 1998-07-28

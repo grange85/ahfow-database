@@ -2,7 +2,6 @@
 layout: show
 title: '1994-05-16: Luna - Caberet Metro, Chicago IL, USA'
 name: 1994-05-16-luna-caberet-metro-chicago-il-usa
-artist: 'Luna'
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: [
   "California (All the Way)",

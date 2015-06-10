@@ -2,7 +2,6 @@
 layout: show
 title: '2000-08-04: Luna - Warhol Museum, Pittsburgh PA, USA'
 name: 2000-08-04-luna-warhol-museum-pittsburgh-pa-usa
-artist: 'Luna'
 show-venue: 'Warhol Museum, Pittsburgh PA, USA'
 show-setlist: [
   "Chinatown",

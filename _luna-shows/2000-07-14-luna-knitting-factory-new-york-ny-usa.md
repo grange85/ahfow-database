@@ -2,7 +2,6 @@
 layout: show
 title: '2000-07-14: Luna - Knitting Factory, New York NY, USA'
 name: 2000-07-14-luna-knitting-factory-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 2000-07-14

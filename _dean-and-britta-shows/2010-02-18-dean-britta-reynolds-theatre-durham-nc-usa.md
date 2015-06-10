@@ -2,7 +2,6 @@
 layout: show
 title: '2010-02-18: Dean & Britta - Reynolds Theatre, Durham, NC, USA'
 name: 2010-02-18-dean-britta-reynolds-theatre-durham-nc-usa
-artist: 'Dean & Britta'
 show-venue: 'Reynolds Theatre, Durham, NC, USA'
 show-setlist: 
 show-date: 2010-02-18

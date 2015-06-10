@@ -2,7 +2,6 @@
 layout: show
 title: '2010-05-03: Damon & Naomi - The Harley, Sheffield, UK'
 name: 2010-05-03-damon-naomi-the-harley-sheffield-uk
-artist: 'Damon & Naomi'
 show-venue: 'The Harley, Sheffield, UK'
 show-setlist: 
 show-date: 2010-05-03

@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-19: Dean & Britta - El Rey Theatre, Los Angeles CA, USA'
 name: 2008-02-19-dean-britta-el-rey-theatre-los-angeles-ca-usa
-artist: 'Dean & Britta'
 show-venue: 'El Rey Theatre, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2008-02-19

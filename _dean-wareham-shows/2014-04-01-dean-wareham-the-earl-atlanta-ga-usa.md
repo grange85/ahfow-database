@@ -2,7 +2,6 @@
 layout: show
 title: '2014-04-01: Dean Wareham - The Earl, Atlanta, GA, USA'
 name: 2014-04-01-dean-wareham-the-earl-atlanta-ga-usa
-artist: 'Dean Wareham'
 show-venue: 'The Earl, Atlanta, GA, USA'
 show-setlist: 
 show-date: 2014-04-01

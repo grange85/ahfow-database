@@ -2,7 +2,6 @@
 layout: show
 title: '2003-05-24: Damon & Naomi - Tolbooth, Stirling, UK'
 name: 2003-05-24-damon-naomi-tolbooth-stirling-uk
-artist: 'Damon & Naomi'
 show-venue: 'Tolbooth, Stirling, UK'
 show-setlist: 
 show-date: 2003-05-24

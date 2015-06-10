@@ -2,7 +2,6 @@
 layout: show
 title: '1997-10-23: Luna - Loppen, Copenhagen, Denmark '
 name: 1997-10-23-luna-loppen-copenhagen-denmark
-artist: 'Luna'
 show-venue: 'Loppen, Copenhagen, Denmark '
 show-setlist: [
   "Fuzzy Wuzzy",

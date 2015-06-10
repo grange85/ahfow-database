@@ -2,7 +2,6 @@
 layout: show
 title: '1993-06-13: Luna - Palac Kultury, Prague, Czech Republic'
 name: 1993-06-13-luna-palac-kultury-prague-czech-republic
-artist: 'Luna'
 show-venue: 'Palac Kultury, Prague, Czech Republic'
 show-setlist: [
   "Slide",

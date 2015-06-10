@@ -2,7 +2,6 @@
 layout: show
 title: '2009-09-18: Damon & Naomi - YMCA Theatre, Cambridge, MA, USA'
 name: 2009-09-18-damon-naomi-ymca-theatre-cambridge-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'YMCA Theatre, Cambridge, MA, USA'
 show-setlist: 
 show-date: 2009-09-18

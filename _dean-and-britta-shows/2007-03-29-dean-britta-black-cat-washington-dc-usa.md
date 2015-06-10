@@ -2,7 +2,6 @@
 layout: show
 title: '2007-03-29: Dean & Britta - Black Cat, Washington DC, USA'
 name: 2007-03-29-dean-britta-black-cat-washington-dc-usa
-artist: 'Dean & Britta'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Singer Sing",

@@ -2,7 +2,6 @@
 layout: show
 title: '2002-05-29: Luna - Southgate House, Newport KY, USA'
 name: 2002-05-29-luna-southgate-house-newport-ky-usa
-artist: 'Luna'
 show-venue: 'Southgate House, Newport KY, USA'
 show-setlist: [
   "Lovedust",

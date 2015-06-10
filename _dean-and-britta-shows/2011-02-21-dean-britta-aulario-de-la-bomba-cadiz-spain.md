@@ -2,7 +2,6 @@
 layout: show
 title: '2011-02-21: Dean & Britta - Aulario de la Bomba, Cadiz, Spain'
 name: 2011-02-21-dean-britta-aulario-de-la-bomba-cadiz-spain
-artist: 'Dean & Britta'
 show-venue: 'Aulario de la Bomba, Cadiz, Spain'
 show-setlist: 
 show-date: 2011-02-21

@@ -2,7 +2,6 @@
 layout: show
 title: '1989-11-16: Galaxie 500 - Vera, Groningen, Netherlands'
 name: 1989-11-16-galaxie-500-vera-groningen-netherlands
-artist: 'Galaxie 500'
 show-venue: 'Vera, Groningen, Netherlands'
 show-setlist: 
 show-date: 1989-11-16

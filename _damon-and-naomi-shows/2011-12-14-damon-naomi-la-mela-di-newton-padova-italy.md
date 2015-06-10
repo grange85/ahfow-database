@@ -2,7 +2,6 @@
 layout: show
 title: '2011-12-14: Damon & Naomi - La Mela di Newton, Padova, Italy'
 name: 2011-12-14-damon-naomi-la-mela-di-newton-padova-italy
-artist: 'Damon & Naomi'
 show-venue: 'La Mela di Newton, Padova, Italy'
 show-setlist: 
 show-date: 2011-12-14

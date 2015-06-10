@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-30: Luna - Planta Baja, Granada, Spain'
 name: 2015-04-30-luna-planta-baja-granada-spain
-artist: 'Luna'
 show-venue: 'Planta Baja, Granada, Spain'
 show-setlist: [
   "Chinatown",

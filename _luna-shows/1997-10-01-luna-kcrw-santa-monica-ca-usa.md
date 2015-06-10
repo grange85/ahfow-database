@@ -2,7 +2,6 @@
 layout: show
 title: '1997-10-01: Luna - KCRW, Santa Monica CA, USA'
 name: 1997-10-01-luna-kcrw-santa-monica-ca-usa
-artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Beggar's Bliss",

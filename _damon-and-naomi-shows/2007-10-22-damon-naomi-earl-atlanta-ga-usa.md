@@ -2,7 +2,6 @@
 layout: show
 title: '2007-10-22: Damon & Naomi - Earl, Atlanta GA, USA'
 name: 2007-10-22-damon-naomi-earl-atlanta-ga-usa
-artist: 'Damon & Naomi'
 show-venue: 'Earl, Atlanta GA, USA'
 show-setlist: 
 show-date: 2007-10-22

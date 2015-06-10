@@ -2,7 +2,6 @@
 layout: show
 title: '2010-11-10: Dean & Britta - Anthology, San Diego, CA, USA'
 name: 2010-11-10-dean-britta-anthology-san-diego-ca-usa
-artist: 'Dean & Britta'
 show-venue: 'Anthology, San Diego, CA, USA'
 show-setlist: 
 show-date: 2010-11-10

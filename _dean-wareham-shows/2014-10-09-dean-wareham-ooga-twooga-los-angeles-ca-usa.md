@@ -2,7 +2,6 @@
 layout: show
 title: '2014-10-09: Dean Wareham at Ooga Twooga, Los Angeles, CA, USA'
 name: 2014-10-09-dean-wareham-ooga-twooga-los-angeles-ca-usa
-artist: 'Dean Wareham'
 show-venue: 'Ooga Twooga, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2014-10-09

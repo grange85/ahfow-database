@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withgho
 title: Damon & Naomi with Ghost
 initial_release_date: 2000
 albumname: Damon & Naomi with Ghost
-artist: Damon & Naomi
 releases:
   - release: 
     version: sub-pop-cd

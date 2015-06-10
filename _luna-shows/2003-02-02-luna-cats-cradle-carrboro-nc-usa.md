@@ -2,7 +2,6 @@
 layout: show
 title: "2003-02-02: Luna - Cats Cradle, Carrboro NC, USA"
 name: 2003-02-02-luna-cats-cradle-carrboro-nc-usa
-artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "1995",

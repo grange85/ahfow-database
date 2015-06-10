@@ -2,7 +2,6 @@
 layout: show
 title: '2007-03-12: Dean & Britta - Mod Club, Toronto, Canada'
 name: 2007-03-12-dean-britta-mod-club-toronto-canada
-artist: 'Dean & Britta'
 show-venue: 'Mod Club, Toronto, Canada'
 show-setlist: [
   "Singer Sing",

@@ -2,7 +2,6 @@
 layout: show
 title: '1996-04-01: Luna - Massey Hall, Toronto, Canada'
 name: 1996-04-01-luna-massey-hall-toronto-canada
-artist: 'Luna'
 show-venue: 'Massey Hall, Toronto, Canada'
 show-setlist: [
   "Slide",

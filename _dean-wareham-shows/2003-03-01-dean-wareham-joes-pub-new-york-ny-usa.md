@@ -2,7 +2,6 @@
 layout: show
 title: '2003-03-01: Dean Wareham - Joes Pub, New York NY, USA'
 name: 2003-03-01-dean-wareham-joes-pub-new-york-ny-usa
-artist: 'Dean Wareham'
 show-venue: 'Joes Pub, New York NY, USA'
 show-setlist: [
   "No Train to Stockholm"

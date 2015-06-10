@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-11: Dean & Britta - The Current, Minneapolis Public Radio, Minneapolis MN, USA'
 name: 2008-02-11-dean-britta-the-current-minneapolis-public-radio-minneapolis-mn-usa
-artist: 'Dean & Britta'
 show-venue: 'The Current, Minneapolis Public Radio, Minneapolis MN, USA'
 show-setlist: [
   "Knives From Bavaria",

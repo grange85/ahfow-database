@@ -2,7 +2,6 @@
 layout: show
 title: '2003-02-21: Damon & Naomi - Southpaw, Brooklyn NY, USA'
 name: 2003-02-21-damon-naomi-southpaw-brooklyn-ny-usa
-artist: 'Damon & Naomi'
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2003-02-21

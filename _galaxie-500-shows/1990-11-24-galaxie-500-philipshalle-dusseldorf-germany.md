@@ -2,7 +2,6 @@
 layout: show
 title: '1990-11-24: Galaxie 500 - Philipshalle, Dusseldorf, Germany'
 name: 1990-11-24-galaxie-500-philipshalle-dusseldorf-germany
-artist: 'Galaxie 500'
 show-venue: 'Philipshalle, Dusseldorf, Germany'
 show-setlist: [
   "Decomposing Trees",

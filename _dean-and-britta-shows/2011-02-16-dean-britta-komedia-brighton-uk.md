@@ -2,7 +2,6 @@
 layout: show
 title: '2011-02-16: Dean & Britta - Komedia, Brighton, UK'
 name: 2011-02-16-dean-britta-komedia-brighton-uk
-artist: 'Dean & Britta'
 show-venue: 'Komedia, Brighton, UK'
 show-setlist: 
 show-date: 2011-02-16

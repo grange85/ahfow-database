@@ -2,7 +2,6 @@
 layout: show
 title: '1999-11-03: Luna - Agora Ballroom, Cleveland OH, USA'
 name: 1999-11-03-luna-agora-ballroom-cleveland-oh-usa
-artist: 'Luna'
 show-venue: 'Agora Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Pup Tent",

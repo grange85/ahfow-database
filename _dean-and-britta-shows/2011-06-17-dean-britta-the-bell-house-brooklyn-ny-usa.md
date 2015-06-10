@@ -2,7 +2,6 @@
 layout: show
 title: '2011-06-17: Dean & Britta - The Bell House, Brooklyn, NY, USA'
 name: 2011-06-17-dean-britta-the-bell-house-brooklyn-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'The Bell House, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2011-06-17

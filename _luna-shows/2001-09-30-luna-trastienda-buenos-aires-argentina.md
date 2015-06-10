@@ -2,7 +2,6 @@
 layout: show
 title: '2001-09-30: Luna - Trastienda, Buenos Aires, Argentina'
 name: 2001-09-30-luna-trastienda-buenos-aires-argentina
-artist: 'Luna'
 show-venue: 'Trastienda, Buenos Aires, Argentina'
 show-setlist: [
   "Chinatown",

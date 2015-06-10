@@ -2,7 +2,6 @@
 layout: show
 title: '1994-04-04: Luna - KCRW, Santa Monica CA, USA'
 name: 1994-04-04-luna-kcrw-santa-monica-ca-usa
-artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Tiger Lily",

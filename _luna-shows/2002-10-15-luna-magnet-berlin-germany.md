@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-15: Luna - Magnet, Berlin, Germany'
 name: 2002-10-15-luna-magnet-berlin-germany
-artist: 'Luna'
 show-venue: 'Magnet, Berlin, Germany'
 show-setlist: 
 show-date: 2002-10-15

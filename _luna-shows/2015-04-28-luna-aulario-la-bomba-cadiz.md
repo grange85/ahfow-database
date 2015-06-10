@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-28: Luna - Aulario la Bomba, Cádiz, Spain'
 name: 2015-04-28-luna-aulario-la-bomba-cadiz
-artist: 'Luna'
 show-venue: 'Aulario la Bomba, Cádiz, Spain'
 show-setlist: 
 show-date: 2015-04-28

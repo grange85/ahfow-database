@@ -2,7 +2,6 @@
 layout: show
 title: '1995-10-09: Luna - Fox Theatre, Denver CO, USA'
 name: 1995-10-09-luna-fox-theatre-denver-co-usa
-artist: 'Luna'
 show-venue: 'Fox Theatre, Denver CO, USA'
 show-setlist: 
 show-date: 1995-10-09

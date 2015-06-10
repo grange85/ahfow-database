@@ -2,7 +2,6 @@
 layout: show
 title: '2012-03-31: Dean & Britta - High Museum of Art, Atlanta, GA, USA'
 name: 2012-03-31-dean-britta-high-museum-of-art-atlanta-ga-usa
-artist: 'Dean & Britta'
 show-venue: 'High Museum of Art, Atlanta, GA, USA'
 show-setlist: 
 show-date: 2012-03-31

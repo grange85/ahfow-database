@@ -2,7 +2,6 @@
 layout: show
 title: '2002-05-26: Luna - Beachland Ballroom, Cleveland OH, USA'
 name: 2002-05-26-luna-beachland-ballroom-cleveland-oh-usa
-artist: 'Luna'
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Weird And Woozy",

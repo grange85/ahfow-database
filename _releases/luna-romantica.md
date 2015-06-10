@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
 title: Romantica
 initial_release_date: 2002
 albumname: Romantica
-artist: Luna
 releases:
   - release: 
     version: jetset-cd

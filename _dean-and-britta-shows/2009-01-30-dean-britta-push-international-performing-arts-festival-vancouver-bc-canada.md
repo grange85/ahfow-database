@@ -2,7 +2,6 @@
 layout: show
 title: '2009-01-30: Dean & Britta -  PuSh International Performing Arts Festival, Vancouver, BC, Canada'
 name: 2009-01-30-dean-britta-push-international-performing-arts-festival-vancouver-bc-canada
-artist: 'Dean & Britta'
 show-venue: ' PuSh International Performing Arts Festival, Vancouver, BC, Canada'
 show-setlist: [
   "Richard Rheem Theme",

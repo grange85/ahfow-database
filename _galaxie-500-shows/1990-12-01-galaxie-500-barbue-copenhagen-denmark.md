@@ -2,7 +2,6 @@
 layout: show
 title: '1990-12-01: Galaxie 500 - Barbue, Copenhagen, Denmark'
 name: 1990-12-01-galaxie-500-barbue-copenhagen-denmark
-artist: 'Galaxie 500'
 show-venue: 'Barbue, Copenhagen, Denmark'
 show-setlist: [
   "Decomposing Trees",

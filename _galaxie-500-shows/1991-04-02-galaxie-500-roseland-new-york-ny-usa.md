@@ -2,7 +2,6 @@
 layout: show
 title: '1991-04-02: Galaxie 500 - Roseland, New York NY, USA'
 name: 1991-04-02-galaxie-500-roseland-new-york-ny-usa
-artist: 'Galaxie 500'
 show-venue: 'Roseland, New York NY, USA'
 show-setlist: 
 show-date: 1991-04-02

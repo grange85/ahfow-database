@@ -2,7 +2,6 @@
 layout: show
 title: '2002-09-21: Luna - Bottleneck, Lawrence KS, USA'
 name: 2002-09-21-luna-bottleneck-lawrence-ks-usa
-artist: 'Luna'
 show-venue: 'Bottleneck, Lawrence KS, USA'
 show-setlist: [
   "California (All the Way)",

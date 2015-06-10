@@ -2,7 +2,6 @@
 layout: show
 title: "2008-02-28: Dean & Britta - Johnny Brenda's, Philadelphia PA, USA"
 name: 2008-02-28-dean-britta-johnny-brendas-philadelphia-pa-usa
-artist: 'Dean & Britta'
 show-venue: "Johnny Brenda's, Philadelphia PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

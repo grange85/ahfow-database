@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-05: Luna - Fillmore, San Francisco CA, USA'
 name: 2005-02-05-luna-fillmore-san-francisco-ca-usa
-artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Sideshow By The Seashore",

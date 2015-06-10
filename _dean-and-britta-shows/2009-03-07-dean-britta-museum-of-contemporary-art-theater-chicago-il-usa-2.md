@@ -2,7 +2,6 @@
 layout: show
 title: '2009-03-07: Dean & Britta - Museum of Contemporary Art Theater, Chicago IL, USA'
 name: 2009-03-07-dean-britta-museum-of-contemporary-art-theater-chicago-il-usa-2
-artist: 'Dean & Britta'
 show-venue: 'Museum of Contemporary Art Theater, Chicago IL, USA'
 show-setlist: [
   "Richard Rheem Theme",

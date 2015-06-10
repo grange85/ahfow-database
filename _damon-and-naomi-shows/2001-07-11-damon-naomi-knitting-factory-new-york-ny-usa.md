@@ -2,7 +2,6 @@
 layout: show
 title: '2001-07-11: Damon & Naomi - Knitting Factory, New York NY, USA'
 name: 2001-07-11-damon-naomi-knitting-factory-new-york-ny-usa
-artist: 'Damon & Naomi'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 2001-07-11

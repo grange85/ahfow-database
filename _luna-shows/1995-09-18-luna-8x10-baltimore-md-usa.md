@@ -2,7 +2,6 @@
 layout: show
 title: '1995-09-18: Luna - 8x10, Baltimore MD, USA'
 name: 1995-09-18-luna-8x10-baltimore-md-usa
-artist: 'Luna'
 show-venue: '8x10, Baltimore MD, USA'
 show-setlist: 
 show-date: 1995-09-18

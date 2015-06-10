@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_bewitched.jpg
 title: Bewitched
 initial_release_date: 1994
 albumname: Bewitched
-artist: Luna
 releases:
   - release: 
     version: elektra-cd

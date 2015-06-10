@@ -2,7 +2,6 @@
 layout: show
 title: '1990-02-24: Galaxie 500 - Maxwells, Hoboken NJ, USA'
 name: 1990-02-24-galaxie-500-maxwells-hoboken-nj-usa
-artist: 'Galaxie 500'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Decomposing Trees",

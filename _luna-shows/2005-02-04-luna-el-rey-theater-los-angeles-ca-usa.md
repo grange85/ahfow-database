@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-04: Luna - El Rey Theater, Los Angeles CA, USA'
 name: 2005-02-04-luna-el-rey-theater-los-angeles-ca-usa
-artist: 'Luna'
 show-venue: 'El Rey Theater, Los Angeles CA, USA'
 show-setlist: [
   "Chinatown",

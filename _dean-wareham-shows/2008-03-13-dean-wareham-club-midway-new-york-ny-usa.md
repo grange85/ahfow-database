@@ -2,7 +2,6 @@
 layout: show
 title: '2008-03-13: Dean Wareham - Club Midway, New York NY, USA'
 name: 2008-03-13-dean-wareham-club-midway-new-york-ny-usa
-artist: 'Dean Wareham'
 show-venue: 'Club Midway, New York NY, USA'
 show-setlist: 
 show-date: 2008-03-13

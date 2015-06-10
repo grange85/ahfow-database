@@ -2,7 +2,6 @@
 layout: show
 title: '2002-07-20: Luna - Maxwells, Hoboken NJ, USA'
 name: 2002-07-20-luna-maxwells-hoboken-nj-usa
-artist: 'Luna'
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "1995",

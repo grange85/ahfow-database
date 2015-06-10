@@ -2,7 +2,6 @@
 layout: show
 title: '2000-04-08: Luna - Bowery Ballroom, New York NY, USA'
 name: 2000-04-08-luna-bowery-ballroom-new-york-ny-usa-2
-artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "IHOP",

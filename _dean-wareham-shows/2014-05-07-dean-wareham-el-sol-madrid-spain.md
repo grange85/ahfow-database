@@ -2,7 +2,6 @@
 layout: show
 title: '2014-05-07: Dean Wareham - El Sol, Madrid, Spain'
 name: 2014-05-07-dean-wareham-el-sol-madrid-spain
-artist: 'Dean Wareham'
 show-venue: 'El Sol, Madrid, Spain'
 show-setlist: 
 show-date: 2014-05-07

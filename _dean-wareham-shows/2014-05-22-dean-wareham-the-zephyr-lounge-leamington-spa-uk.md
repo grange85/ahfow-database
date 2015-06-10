@@ -2,7 +2,6 @@
 layout: show
 title: '2014-05-22: Dean Wareham - The Zephyr Lounge, Leamington Spa, UK'
 name: 2014-05-22-dean-wareham-the-zephyr-lounge-leamington-spa-uk
-artist: 'Dean Wareham'
 show-venue: 'The Zephyr Lounge, Leamington Spa, UK'
 show-setlist: [
   "Emancipated Hearts",

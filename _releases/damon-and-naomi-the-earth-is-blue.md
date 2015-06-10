@@ -7,7 +7,6 @@ artistslug: damon-and-naomi
 title: Damon & Naomi - The Earth is Blue
 initial_release_date: 2005
 albumname: The Earh is Blue
-artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_theearthisblue.jpg
 releases:
   - release: 

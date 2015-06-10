@@ -2,7 +2,6 @@
 layout: show
 title: '2002-06-29: Luna - Bowery Ballroom, New York NY, USA'
 name: 2002-06-29-luna-bowery-ballroom-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: 
 show-date: 2002-06-29

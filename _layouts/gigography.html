@@ -1,24 +1,35 @@
 ---
 layout: default
 ---
+{% assign artist = site.data.artists[page.artistslug] %}
+
 <div class="row">
     <div class="col-md-12">
       <nav>
         <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
-      <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
-      <li>{{page.artist}} shows</li>
+      <li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+      <li>{{artist.name}} shows</li>
+      {% if page.year %}
+        <li>{{page.year}}</li>
+      {% endif %}
     </ul>
     </nav>
     </div>
 </div>
 
-
-{% case page.artistslug %}
+<nav>
+<ul class="list-inline">
+{% for year in artist.yearsactive %}
+  <li class="presentation"><a href="/{{artist.slug}}/shows/{{year}}/">{{year | append: ""}}</a></li>
+{% endfor %}
+</ul>
+</nav>
+{% case artist.slug %}
 {% when 'galaxie-500' %}
-  {% assign shows = site.galaxie-500-shows %}
+  {% assign shows = site.galaxie-500-shows | where: "category", page.year %}
 {% when 'luna' %}
-  {% assign shows = site.luna-shows %}
+  {% assign shows = site.luna-shows | where: "category", page.year %}
 {% when 'damon-and-naomi' %}
   {% assign shows = site.damon-and-naomi-shows %}
 {% when 'dean-and-britta' %}

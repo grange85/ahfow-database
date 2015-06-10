@@ -2,7 +2,6 @@
 layout: show
 title: '2003-06-24: Dean & Britta - Village Underground, New York NY, USA'
 name: 2003-06-24-dean-britta-village-underground-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: [
   "Night Nurse",

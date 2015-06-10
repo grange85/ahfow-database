@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopy
 title: The Sub Pop Years
 initial_release_date: 2009
 albumname: False Beats and True Hearts
-artist: Damon & Naomi
 releases:
   - release: 
     version: 202020-cd

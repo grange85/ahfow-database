@@ -2,7 +2,6 @@
 layout: show
 title: '1990-01-23: Galaxie 500 - The 40 Watt Club, Athens, GA, USA'
 name: 1990-01-23-galaxie-500-the-40-watt-club-athens-ga-usa
-artist: 'Galaxie 500'
 show-venue: 'The 40 Watt Club, Athens, GA, USA'
 show-setlist: [
   "Decomposing Trees",

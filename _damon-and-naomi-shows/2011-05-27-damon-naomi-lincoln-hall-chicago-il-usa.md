@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-27: Damon & Naomi - Lincoln Hall, Chicago, IL, USA'
 name: 2011-05-27-damon-naomi-lincoln-hall-chicago-il-usa
-artist: 'Damon & Naomi'
 show-venue: 'Lincoln Hall, Chicago, IL, USA'
 show-setlist: 
 show-date: 2011-05-27

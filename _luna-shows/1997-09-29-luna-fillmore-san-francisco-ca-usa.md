@@ -2,7 +2,6 @@
 layout: show
 title: '1997-09-29: Luna - Fillmore, San Francisco CA, USA'
 name: 1997-09-29-luna-fillmore-san-francisco-ca-usa
-artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Pup Tent",

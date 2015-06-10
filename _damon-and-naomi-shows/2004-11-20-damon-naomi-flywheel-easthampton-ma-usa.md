@@ -2,7 +2,6 @@
 layout: show
 title: '2004-11-20: Damon & Naomi - Flywheel, Easthampton MA, USA'
 name: 2004-11-20-damon-naomi-flywheel-easthampton-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'Flywheel, Easthampton MA, USA'
 show-setlist: 
 show-date: 2004-11-20

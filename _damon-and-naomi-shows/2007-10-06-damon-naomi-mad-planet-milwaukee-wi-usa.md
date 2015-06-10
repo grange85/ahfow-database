@@ -2,7 +2,6 @@
 layout: show
 title: '2007-10-06: Damon & Naomi - Mad Planet, Milwaukee WI, USA'
 name: 2007-10-06-damon-naomi-mad-planet-milwaukee-wi-usa
-artist: 'Damon & Naomi'
 show-venue: 'Mad Planet, Milwaukee WI, USA'
 show-setlist: 
 show-date: 2007-10-06

@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-12: Luna - Richards on Richards, Vancouver, Canada'
 name: 2005-02-12-luna-richards-on-richards-vancouver-canada
-artist: 'Luna'
 show-venue: 'Richards on Richards, Vancouver, Canada'
 show-setlist: [
   "Sideshow By The Seashore",

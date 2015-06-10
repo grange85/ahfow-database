@@ -2,7 +2,6 @@
 layout: show
 title: '2007-01-17: Damon & Naomi - Galerie En Marge, Paris, France'
 name: 2007-01-17-damon-naomi-galerie-en-marge-paris-france
-artist: 'Damon & Naomi'
 show-venue: 'Galerie En Marge, Paris, France'
 show-setlist: 
 show-date: 2007-01-17

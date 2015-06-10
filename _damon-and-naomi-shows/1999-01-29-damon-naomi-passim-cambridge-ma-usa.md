@@ -2,7 +2,6 @@
 layout: show
 title: '1999-01-29: Damon & Naomi - Passim, Cambridge MA, USA'
 name: 1999-01-29-damon-naomi-passim-cambridge-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'Passim, Cambridge MA, USA'
 show-setlist: 
 show-date: 1999-01-29

@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-27: Dean & Britta - Gruner Jager, Hamburg, Germany'
 name: 2007-11-27-dean-britta-gruner-jager-hamburg-germany
-artist: 'Dean & Britta'
 show-venue: 'Gruner Jager, Hamburg, Germany'
 show-setlist: 
 show-date: 2007-11-27

@@ -7,7 +7,6 @@ artistslug: galaxie-500
 title: Galaxie 500 - Selected
 initial_release_date: 1996
 albumname: Selected
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
 releases:
   - release: 

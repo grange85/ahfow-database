@@ -2,7 +2,6 @@
 layout: show
 title: '2002-06-04: Luna - Showbox, Seattle WA, USA'
 name: 2002-06-04-luna-showbox-seattle-wa-usa
-artist: 'Luna'
 show-venue: 'Showbox, Seattle WA, USA'
 show-setlist: [
   "Weird And Woozy",

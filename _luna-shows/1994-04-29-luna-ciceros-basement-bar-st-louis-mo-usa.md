@@ -2,7 +2,6 @@
 layout: show
 title: "1994-04-29: Luna -  Ciceros Basement Bar, St. Louis, MO, USA"
 name: 1994-04-29-luna-ciceros-basement-bar-st-louis-mo-usa
-artist: 'Luna'
 show-venue: " Ciceros Basement Bar, St. Louis, MO, USA"
 show-setlist: 
 show-date: 1994-04-29

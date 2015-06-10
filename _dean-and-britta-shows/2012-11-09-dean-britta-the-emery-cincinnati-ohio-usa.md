@@ -2,7 +2,6 @@
 layout: show
 title: '2012-11-09: Dean & Britta - The Emery, Cincinnati, Ohio, USA'
 name: 2012-11-09-dean-britta-the-emery-cincinnati-ohio-usa
-artist: 'Dean & Britta'
 show-venue: 'The Emery, Cincinnati, Ohio, USA'
 show-setlist: 
 show-date: 2012-11-09

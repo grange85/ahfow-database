@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-13: Luna - So What, Oslo, Norway'
 name: 2002-10-13-luna-so-what-oslo-norway
-artist: 'Luna'
 show-venue: 'So What, Oslo, Norway'
 show-setlist: 
 show-date: 2002-10-13

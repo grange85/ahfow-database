@@ -2,7 +2,6 @@
 layout: show
 title: '1990-11-03: Galaxie 500 - College of Building and Printing, Glasgow, UK'
 name: 1990-11-03-galaxie-500-college-of-building-printing-glasgow-uk
-artist: 'Galaxie 500'
 show-venue: 'College of Building and Printing, Glasgow, UK'
 show-setlist: [
   "Fourth of July",

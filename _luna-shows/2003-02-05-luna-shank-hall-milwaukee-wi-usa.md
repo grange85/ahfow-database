@@ -2,7 +2,6 @@
 layout: show
 title: '2003-02-05: Luna - Shank Hall, Milwaukee WI, USA'
 name: 2003-02-05-luna-shank-hall-milwaukee-wi-usa
-artist: 'Luna'
 show-venue: 'Shank Hall, Milwaukee WI, USA'
 show-setlist: [
   "1995",

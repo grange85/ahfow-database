@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
 title: Lunapark
 initial_release_date: 1992
 albumname: Lunapark
-artist: Luna
 releases:
   - release: 
     version: elektra-cd

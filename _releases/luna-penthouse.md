@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg
 title: Penthouse
 initial_release_date: 1995
 albumname: Penthouse
-artist: Luna
 releases:
   - release: 
     version: elektra-cd

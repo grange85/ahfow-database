@@ -2,7 +2,6 @@
 layout: show
 title: '2010-03-08: Dean & Britta - WOMADelaide, Botanic Park, Adelaide, Australia'
 name: 2010-03-08-dean-britta-womadelaide-botanic-park-adelaide-australia
-artist: 'Dean & Britta'
 show-venue: 'WOMADelaide, Botanic Park, Adelaide, Australia'
 show-setlist: 
 show-date: 2010-03-08

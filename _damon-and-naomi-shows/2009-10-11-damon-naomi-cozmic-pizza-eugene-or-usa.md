@@ -2,7 +2,6 @@
 layout: show
 title: '2009-10-11: Damon & Naomi - Cozmic Pizza, Eugene, OR, USA'
 name: 2009-10-11-damon-naomi-cozmic-pizza-eugene-or-usa
-artist: 'Damon & Naomi'
 show-venue: 'Cozmic Pizza, Eugene, OR, USA'
 show-setlist: 
 show-date: 2009-10-11

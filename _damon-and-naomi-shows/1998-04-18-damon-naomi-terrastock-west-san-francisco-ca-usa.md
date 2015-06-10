@@ -2,7 +2,6 @@
 layout: show
 title: '1998-04-18: Damon & Naomi - Terrastock West, San Francisco CA, USA'
 name: 1998-04-18-damon-naomi-terrastock-west-san-francisco-ca-usa
-artist: 'Damon & Naomi'
 show-venue: 'Terrastock West, San Francisco CA, USA'
 show-setlist: 
 show-date: 1998-04-18

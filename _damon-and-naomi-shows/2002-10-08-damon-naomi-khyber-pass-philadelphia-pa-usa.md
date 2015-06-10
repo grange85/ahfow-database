@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-08: Damon & Naomi - Khyber Pass, Philadelphia PA, USA'
 name: 2002-10-08-damon-naomi-khyber-pass-philadelphia-pa-usa
-artist: 'Damon & Naomi'
 show-venue: 'Khyber Pass, Philadelphia PA, USA'
 show-setlist: 
 show-date: 2002-10-08

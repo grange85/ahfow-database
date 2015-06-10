@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebe
 title: False Beats and True Hearts
 initial_release_date: 2011
 albumname: False Beats and True Hearts
-artist: Damon & Naomi
 releases:
   - release: 
     version: 202020-cd

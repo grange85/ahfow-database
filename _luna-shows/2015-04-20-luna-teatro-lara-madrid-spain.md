@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-20: Luna - Teatro Lara, Madrid, Spain'
 name: 2015-04-20-luna-teatro-lara-madrid-spain
-artist: 'Luna'
 show-venue: 'Teatro Lara, Madrid, Spain'
 show-setlist: [
   "Chinatown",

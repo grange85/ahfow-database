@@ -2,7 +2,6 @@
 layout: show
 title: '2001-05-24: Damon & Naomi - Ekko, Utrecht, Netherlands'
 name: 2001-05-24-damon-naomi-ekko-utrecht-netherlands
-artist: 'Damon & Naomi'
 show-venue: 'Ekko, Utrecht, Netherlands'
 show-setlist: [
   "Judah and the Maccabees",

@@ -2,7 +2,6 @@
 layout: show
 title: '2011-07-02: Dean & Britta - The Wall Livehouse, Taipei, Taiwan'
 name: 2011-07-02-dean-britta-the-wall-livehouse-taipei-taiwan
-artist: 'Dean & Britta'
 show-venue: 'The Wall Livehouse, Taipei, Taiwan'
 show-setlist: [
   "Flowers",

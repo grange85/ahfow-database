@@ -2,7 +2,6 @@
 layout: show
 title: "2005-02-07: Luna - Harlows Night Club, Sacramento CA, USA"
 name: 2005-02-07-luna-harlows-night-club-sacramento-ca-usa
-artist: 'Luna'
 show-venue: "Harlows Night Club, Sacramento CA, USA"
 show-setlist: [
   "Slide",

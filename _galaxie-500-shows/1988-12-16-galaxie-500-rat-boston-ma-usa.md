@@ -2,7 +2,6 @@
 layout: show
 title: '1988-12-16: Galaxie 500 - Rat, Boston MA, USA'
 name: 1988-12-16-galaxie-500-rat-boston-ma-usa
-artist: 'Galaxie 500'
 show-venue: 'Rat, Boston MA, USA'
 show-setlist: [
   "Tugboat",

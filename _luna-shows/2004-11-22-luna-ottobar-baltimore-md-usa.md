@@ -2,7 +2,6 @@
 layout: show
 title: '2004-11-22: Luna - Ottobar, Baltimore MD, USA'
 name: 2004-11-22-luna-ottobar-baltimore-md-usa
-artist: 'Luna'
 show-venue: 'Ottobar, Baltimore MD, USA'
 show-setlist: [
   "Weird And Woozy",

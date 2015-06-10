@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-29: Dean & Britta - Vortex, Siegen, Germany'
 name: 2007-11-29-dean-britta-vortex-siegen-germany
-artist: 'Dean & Britta'
 show-venue: 'Vortex, Siegen, Germany'
 show-setlist: [
   "Singer Sing",

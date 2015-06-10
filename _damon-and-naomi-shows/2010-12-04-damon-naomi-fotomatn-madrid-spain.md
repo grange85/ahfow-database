@@ -2,7 +2,6 @@
 layout: show
 title: '2010-12-04: Damon & Naomi - Fotomatón, Madrid, Spain '
 name: 2010-12-04-damon-naomi-fotomatn-madrid-spain
-artist: 'Damon & Naomi'
 show-venue: 'Fotomatón, Madrid, Spain '
 show-setlist: 
 show-date: 2010-12-04

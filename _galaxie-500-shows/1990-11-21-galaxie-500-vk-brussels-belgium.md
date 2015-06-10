@@ -2,7 +2,6 @@
 layout: show
 title: '1990-11-21: Galaxie 500 - VK, Brussels, Belgium'
 name: 1990-11-21-galaxie-500-vk-brussels-belgium
-artist: 'Galaxie 500'
 show-venue: 'VK, Brussels, Belgium'
 show-setlist: 
 show-date: 1990-11-21

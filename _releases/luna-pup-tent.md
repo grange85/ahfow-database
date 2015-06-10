@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
 title: Pup Tent
 initial_release_date: 1997
 albumname: Pup Tent
-artist: Luna
 releases:
   - release: 
     version: captured-tracks-box

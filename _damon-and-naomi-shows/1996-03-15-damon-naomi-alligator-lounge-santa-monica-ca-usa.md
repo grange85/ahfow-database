@@ -2,7 +2,6 @@
 layout: show
 title: '1996-03-15: Damon & Naomi - Alligator Lounge, Santa Monica CA, USA'
 name: 1996-03-15-damon-naomi-alligator-lounge-santa-monica-ca-usa
-artist: 'Damon & Naomi'
 show-venue: 'Alligator Lounge, Santa Monica CA, USA'
 show-setlist: [
   "Spirit of Love",

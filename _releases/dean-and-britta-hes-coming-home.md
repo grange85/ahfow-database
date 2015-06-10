@@ -7,7 +7,6 @@ artistslug: dean-and-britta
 title: He's Coming Home / Old Toy Trains
 initial_release_date: 2007
 albumname: He's Coming Home / Old Toy Trains
-artist: Dean &amp; Britta
 imageurl:
 releases:
   - release: 

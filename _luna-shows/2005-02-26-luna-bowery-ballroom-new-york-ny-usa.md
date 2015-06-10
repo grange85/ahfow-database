@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-26: Luna - Bowery Ballroom, New York NY, USA'
 name: 2005-02-26-luna-bowery-ballroom-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

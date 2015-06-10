@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-24: Luna - La Lata de Bombillas, Zaragoza, Spain'
 name: 2015-04-24-luna-la-lata-de-bombillas-zaragoza-spain
-artist: 'Luna'
 show-venue: 'Centro de Las Armas, Zaragoza, Spain'
 show-setlist: [
   "Chinatown ",

@@ -8,7 +8,6 @@ title: Galaxie 500 - Peel Sessions
 categories : [discography, galaxie-500, albums]
 initial_release_date: 2005
 albumname: Peel Sessions
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_peelsessions.jpg
 wikipedia: 
 releases:

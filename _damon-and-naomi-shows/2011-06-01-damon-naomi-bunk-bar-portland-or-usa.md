@@ -2,7 +2,6 @@
 layout: show
 title: '2011-06-01: Damon & Naomi - Bunk Bar, Portland, OR, USA'
 name: 2011-06-01-damon-naomi-bunk-bar-portland-or-usa
-artist: 'Damon & Naomi'
 show-venue: 'Bunk Bar, Portland, OR, USA'
 show-setlist: 
 show-date: 2011-06-01

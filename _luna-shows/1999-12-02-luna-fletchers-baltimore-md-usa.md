@@ -2,7 +2,6 @@
 layout: show
 title: '1999-12-02: Luna - Fletchers, Baltimore MD, USA'
 name: 1999-12-02-luna-fletchers-baltimore-md-usa
-artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "Pup Tent",

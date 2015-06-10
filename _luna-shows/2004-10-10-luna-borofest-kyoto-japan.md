@@ -2,7 +2,6 @@
 layout: show
 title: '2004-10-10: Luna - Borofest, Kyoto, Japan'
 name: 2004-10-10-luna-borofest-kyoto-japan
-artist: 'Luna'
 show-venue: 'Borofest, Kyoto, Japan'
 show-setlist: [
   "Malibu Love Nest",

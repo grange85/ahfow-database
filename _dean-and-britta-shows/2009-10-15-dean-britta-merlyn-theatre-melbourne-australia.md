@@ -2,7 +2,6 @@
 layout: show
 title: '2009-10-15: Dean & Britta - Merlyn Theatre, Melbourne, Australia'
 name: 2009-10-15-dean-britta-merlyn-theatre-melbourne-australia
-artist: 'Dean & Britta'
 show-venue: 'Merlyn Theatre, Melbourne, Australia'
 show-setlist: [
   "Richard Rheem Theme",

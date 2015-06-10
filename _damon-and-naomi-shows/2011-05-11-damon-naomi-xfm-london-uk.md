@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-11: Damon & Naomi - Xfm, London, UK'
 name: 2011-05-11-damon-naomi-xfm-london-uk
-artist: 'Damon & Naomi'
 show-venue: 'Xfm, London, UK'
 show-setlist: 
 show-date: 2011-05-11

@@ -2,7 +2,6 @@
 layout: show
 title: '1998-07-02: Damon & Naomi - Tin Angel. Philadelphia, PA, USA'
 name: 1998-07-02-damon-naomi-tin-angel-philadelphia-pa-usa
-artist: 'Damon & Naomi'
 show-venue: 'Tin Angel. Philadelphia, PA, USA'
 show-setlist: 
 show-date: 1998-07-02

@@ -2,7 +2,6 @@
 layout: show
 title: '2002-08-24: Luna - Northsix, Brooklyn NY, USA'
 name: 2002-08-24-luna-northsix-brooklyn-ny-usa
-artist: 'Luna'
 show-venue: 'Northsix, Brooklyn NY, USA'
 show-setlist: [
   "Chinatown",

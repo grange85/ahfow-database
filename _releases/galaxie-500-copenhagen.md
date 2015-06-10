@@ -8,7 +8,6 @@ title: Galaxie 500 - Copenhagen
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1997
 albumname: Copenhagen
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
 wikipedia: 
 releases:

@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
+{% assign artist = site.data.artists[page.artistslug] %}
 
 <div class="row">
     <div class="col-md-12">
       <nav>
         <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
-      <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
-      <li><a href="/{{page.artistslug}}/shows/">{{page.artist}} shows</a></li>
-      <li>{{page.show-date|date: "%-d %B %Y"}} - {{page.artist}} - {{ page.show-venue }}</li>
+      <li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+      <li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
+      <li>{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}</li>
     </ul>
     </nav>
     </div>
@@ -21,7 +22,7 @@ layout: default
             <h3>Information</h3>
             <ul>
             <li>Date: {{page.show-date|date: "%-d %B %Y"}}</li>
-            <li>Artist: {{page.artist}}</li>
+            <li>Artist: {{artist.name}}</li>
             <li>Venue: {{page.show-venue}}</li>
 
                 {% if page.facebook-event-url %}

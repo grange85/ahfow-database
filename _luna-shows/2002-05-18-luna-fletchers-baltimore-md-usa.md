@@ -2,7 +2,6 @@
 layout: show
 title: '2002-05-18: Luna - Fletchers, Baltimore MD, USA'
 name: 2002-05-18-luna-fletchers-baltimore-md-usa
-artist: 'Luna'
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "1995",

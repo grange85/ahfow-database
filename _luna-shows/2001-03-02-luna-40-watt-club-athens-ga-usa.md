@@ -2,7 +2,6 @@
 layout: show
 title: '2001-03-02: Luna - 40 Watt Club, Athens GA, USA'
 name: 2001-03-02-luna-40-watt-club-athens-ga-usa
-artist: 'Luna'
 show-venue: '40 Watt Club, Athens GA, USA'
 show-setlist: [
   "Lovedust",

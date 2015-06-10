@@ -7,7 +7,6 @@ artistslug: galaxie-500
 title: Galaxie 500 - Melt Away
 initial_release_date: 1997
 albumname: 'Melt Away'
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_meltaway.jpg
 releases:
   - release: 

@@ -2,7 +2,6 @@
 layout: show
 title: '2010-07-30: Dean & Britta - The Barbican, London, UK'
 name: 2010-07-30-dean-britta-the-barbican-london-uk
-artist: 'Dean & Britta'
 show-venue: 'The Barbican, London, UK'
 show-setlist: 
 show-date: 2010-07-30

@@ -2,7 +2,6 @@
 layout: show
 title: '2011-11-12: Dean & Britta - National Gallery of Art, Washington DC, USA'
 name: 2011-11-12-dean-britta-national-gallery-of-art-washington-dc-usa
-artist: 'Dean & Britta'
 show-venue: 'National Gallery of Art, Washington DC, USA'
 show-setlist: 
 show-date: 2011-11-12

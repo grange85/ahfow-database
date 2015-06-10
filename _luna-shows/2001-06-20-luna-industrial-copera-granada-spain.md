@@ -2,7 +2,6 @@
 layout: show
 title: '2001-06-20: Luna - Industrial Copera, Granada, Spain'
 name: 2001-06-20-luna-industrial-copera-granada-spain
-artist: 'Luna'
 show-venue: 'Industrial Copera, Granada, Spain'
 show-setlist: 
 show-date: 2001-06-20

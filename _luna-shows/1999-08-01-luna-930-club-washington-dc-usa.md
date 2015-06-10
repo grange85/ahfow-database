@@ -2,7 +2,6 @@
 layout: show
 title: '1999-08-01: Luna - 9:30 Club, Washington DC, USA'
 name: 1999-08-01-luna-930-club-washington-dc-usa
-artist: 'Luna'
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Friendly Advice",

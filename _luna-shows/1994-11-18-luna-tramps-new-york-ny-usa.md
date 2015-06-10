@@ -2,7 +2,6 @@
 layout: show
 title: '1994-11-18: Luna - Tramps, New York NY, USA'
 name: 1994-11-18-luna-tramps-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Tramps, New York NY, USA'
 show-setlist: [
   "It's Bringing You Down",

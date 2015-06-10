@@ -2,7 +2,6 @@
 layout: show
 title: '2015-07-31: Luna - The Garage, London, UK'
 name: 2015-07-31-luna-the-garage-london-uk
-artist: 'Luna'
 show-venue: 'The Garage, London, UK'
 show-setlist: 
 show-date: 2015-07-31

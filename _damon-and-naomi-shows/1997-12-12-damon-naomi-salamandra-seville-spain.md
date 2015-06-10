@@ -2,7 +2,6 @@
 layout: show
 title: '1997-12-12: Damon & Naomi - Salamandra, Seville, Spain'
 name: 1997-12-12-damon-naomi-salamandra-seville-spain
-artist: 'Damon & Naomi'
 show-venue: 'Salamandra, Seville, Spain'
 show-setlist: 
 show-date: 1997-12-12

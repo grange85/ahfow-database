@@ -2,7 +2,6 @@
 layout: show
 title: '2002-05-28: Luna - Highdive, Champaign IL, USA'
 name: 2002-05-28-luna-highdive-champaign-il-usa
-artist: 'Luna'
 show-venue: 'Highdive, Champaign IL, USA'
 show-setlist: [
   "Weird And Woozy",

@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-03: Luna - Casbah, San Diego CA, USA'
 name: 2005-02-03-luna-casbah-san-diego-ca-usa
-artist: 'Luna'
 show-venue: 'Casbah, San Diego CA, USA'
 show-setlist: [
   "Egg Nog",

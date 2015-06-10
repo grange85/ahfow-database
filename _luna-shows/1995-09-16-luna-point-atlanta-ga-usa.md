@@ -2,7 +2,6 @@
 layout: show
 title: '1995-09-16: Luna - Point, Atlanta GA, USA'
 name: 1995-09-16-luna-point-atlanta-ga-usa
-artist: 'Luna'
 show-venue: 'Point, Atlanta GA, USA'
 show-setlist: [
   "Friendly Advice",

@@ -2,7 +2,6 @@
 layout: show
 title: '2004-11-19: Luna - Exit/In, Nashville TN, USA'
 name: 2004-11-19-luna-exitin-nashville-tn-usa
-artist: 'Luna'
 show-venue: 'Exit/In, Nashville TN, USA'
 show-setlist: [
   "Malibu Love Nest",

@@ -2,7 +2,6 @@
 layout: show
 title: '1993-06-11: Luna - Alsterdorfer Sporthalle, Hamburg, Germany'
 name: 1993-06-11-luna-alsterdorfer-sporthalle-hamburg-germany
-artist: 'Luna'
 show-venue: 'Alsterdorfer Sporthalle, Hamburg, Germany'
 show-setlist: 
 show-date: 1993-06-11

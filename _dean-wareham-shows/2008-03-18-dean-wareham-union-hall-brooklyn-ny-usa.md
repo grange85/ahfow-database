@@ -2,7 +2,6 @@
 layout: show
 title: '2008-03-18: Dean Wareham - Union Hall, Brooklyn NY, USA'
 name: 2008-03-18-dean-wareham-union-hall-brooklyn-ny-usa
-artist: 'Dean Wareham'
 show-venue: 'Union Hall, Brooklyn NY, USA'
 setlist-source: 'http://www.fullofwishes.co.uk/2008/03/18/dean-wareham-on-wnyc-this-afternoon-and-in-brooklyn-this-evening/#comment-572'
 show-setlist: [

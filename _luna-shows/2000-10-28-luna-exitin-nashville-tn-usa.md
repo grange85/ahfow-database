@@ -2,7 +2,6 @@
 layout: show
 title: '2000-10-28: Luna - Exit/In, Nashville TN, USA'
 name: 2000-10-28-luna-exitin-nashville-tn-usa
-artist: 'Luna'
 show-venue: 'Exit/In, Nashville TN, USA'
 show-setlist: [
   "Lovedust",

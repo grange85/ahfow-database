@@ -2,7 +2,6 @@
 layout: show
 title: '1996-05-16: Luna - KCRW, Santa Monica CA, USA'
 name: 1996-05-16-luna-kcrw-santa-monica-ca-usa
-artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Tracy I Love You",

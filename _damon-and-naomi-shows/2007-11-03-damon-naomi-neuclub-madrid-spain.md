@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-03: Damon & Naomi - Neu!Club, Madrid, Spain'
 name: 2007-11-03-damon-naomi-neuclub-madrid-spain
-artist: 'Damon & Naomi'
 show-venue: 'Neu!Club, Madrid, Spain'
 show-setlist: 
 show-date: 2007-11-03

@@ -2,7 +2,6 @@
 layout: show
 title: '1998-04-14: Damon & Naomi - Empty Bottle, Chicago IL, USA'
 name: 1998-04-14-damon-naomi-empty-bottle-chicago-il-usa
-artist: 'Damon & Naomi'
 show-venue: 'Empty Bottle, Chicago IL, USA'
 show-setlist: 
 show-date: 1998-04-14

@@ -2,7 +2,6 @@
 layout: show
 title: '1996-03-23: Luna - Orpheum Theater, Minneapolis MN, USA'
 name: 1996-03-23-luna-orpheum-theater-minneapolis-mn-usa
-artist: 'Luna'
 show-venue: 'Orpheum Theater, Minneapolis MN, USA'
 show-setlist: [
   "This Time Around",

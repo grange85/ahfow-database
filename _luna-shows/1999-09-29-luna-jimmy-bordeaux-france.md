@@ -2,7 +2,6 @@
 layout: show
 title: '1999-09-29: Luna - Jimmy, Bordeaux, France'
 name: 1999-09-29-luna-jimmy-bordeaux-france
-artist: 'Luna'
 show-venue: 'Jimmy, Bordeaux, France'
 show-setlist: 
 show-date: 1999-09-29

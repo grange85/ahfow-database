@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-02: Luna - Club Congress, Tucson AZ, USA'
 name: 2005-02-02-luna-club-congress-tucson-az-usa
-artist: 'Luna'
 show-venue: 'Club Congress, Tucson AZ, USA'
 show-setlist: [
   "Chinatown",

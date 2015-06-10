@@ -2,7 +2,6 @@
 layout: show
 title: '2014-09-19: Damon & Naomi – Film Box, Montreal, Canada'
 name: 2014-09-19-damon-naomi-film-box-montreal-canada
-artist: 'Damon & Naomi'
 show-venue: 'Film BOX (Quartiers POP), Montreal, Canada'
 show-setlist: 
 show-date: 2014-09-19

@@ -2,7 +2,6 @@
 layout: show
 title: '1999-09-14: Luna - Loppen, Copenhagen, Denmark'
 name: 1999-09-14-luna-loppen-copenhagen-denmark
-artist: 'Luna'
 show-venue: 'Loppen, Copenhagen, Denmark'
 show-setlist: [
   "Pup Tent",

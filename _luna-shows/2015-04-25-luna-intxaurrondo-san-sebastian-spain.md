@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-25: Luna - Intxaurrondo, San Sebastián, Spain'
 name: 2015-04-25-luna-intxaurrondo-san-sebastian-spain
-artist: 'Luna'
 show-venue: 'Intxaurrondo, San Sebastián, Spain'
 show-setlist: [
   "Slide",

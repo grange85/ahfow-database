@@ -2,7 +2,6 @@
 layout: show
 title: '2008-10-12: Damon & Naomi - Rough Trade East, London, UK'
 name: 2008-10-12-damon-naomi-rough-trade-east-london-uk
-artist: 'Damon & Naomi'
 show-venue: 'Rough Trade East, London, UK'
 show-setlist: [
   "Ueno Station",

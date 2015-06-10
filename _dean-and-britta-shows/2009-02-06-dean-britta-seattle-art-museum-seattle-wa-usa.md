@@ -2,7 +2,6 @@
 layout: show
 title: '2009-02-06: Dean & Britta - Seattle Art Museum, Seattle, WA, USA'
 name: 2009-02-06-dean-britta-seattle-art-museum-seattle-wa-usa
-artist: 'Dean & Britta'
 show-venue: 'Seattle Art Museum, Seattle, WA, USA'
 show-setlist: [
   "Richard Rheem Theme",

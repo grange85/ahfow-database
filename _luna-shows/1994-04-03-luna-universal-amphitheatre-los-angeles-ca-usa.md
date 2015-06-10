@@ -2,7 +2,6 @@
 layout: show
 title: '1994-04-03: Luna - Universal Amphitheatre, Los Angeles CA, USA'
 name: 1994-04-03-luna-universal-amphitheatre-los-angeles-ca-usa
-artist: 'Luna'
 show-venue: 'Universal Amphitheatre, Los Angeles CA, USA'
 show-setlist: [
   "California (All the Way)",

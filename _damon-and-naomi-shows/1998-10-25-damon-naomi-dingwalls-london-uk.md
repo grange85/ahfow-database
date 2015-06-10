@@ -2,7 +2,6 @@
 layout: show
 title: '1998-10-25: Damon & Naomi - Dingwalls, London, UK'
 name: 1998-10-25-damon-naomi-dingwalls-london-uk
-artist: 'Damon & Naomi'
 show-venue: 'Dingwalls, London, UK'
 show-setlist: 
 show-date: 1998-10-25

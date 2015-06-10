@@ -2,7 +2,6 @@
 layout: show
 title: '2003-08-16: Dean & Britta - WFUV, New York NY, USA'
 name: 2003-08-16-dean-britta-wfuv-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'WFUV, New York NY, USA'
 show-setlist: 
 show-date: 2003-08-16

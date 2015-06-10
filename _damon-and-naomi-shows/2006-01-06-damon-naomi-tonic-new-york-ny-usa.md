@@ -2,7 +2,6 @@
 layout: show
 title: '2006-01-06: Damon & Naomi - Tonic, New York NY, USA'
 name: 2006-01-06-damon-naomi-tonic-new-york-ny-usa
-artist: 'Damon & Naomi'
 show-venue: 'Tonic, New York NY, USA'
 show-setlist: 
 show-date: 2006-01-06

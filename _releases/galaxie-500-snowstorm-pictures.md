@@ -8,7 +8,6 @@ title: Galaxie 500 - Snowstorm / Pictures
 categories : [discography, galaxie-500, single]
 initial_release_date: 2004
 albumname: Snowstorm / Pictures
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
 wikipedia: 
 releases:

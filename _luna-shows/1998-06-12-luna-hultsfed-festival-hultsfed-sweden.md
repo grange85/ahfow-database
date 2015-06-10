@@ -2,7 +2,6 @@
 layout: show
 title: '1998-06-12: Luna - Hultsfed Festival, Hultsfed, Sweden'
 name: 1998-06-12-luna-hultsfed-festival-hultsfed-sweden
-artist: 'Luna'
 show-venue: 'Hultsfed Festival, Hultsfed, Sweden'
 show-setlist: [
   "Pup Tent",

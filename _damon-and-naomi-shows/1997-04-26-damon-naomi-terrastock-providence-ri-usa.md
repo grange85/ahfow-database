@@ -2,7 +2,6 @@
 layout: show
 title: '1997-04-26: Damon & Naomi - Terrastock, Providence RI, USA'
 name: 1997-04-26-damon-naomi-terrastock-providence-ri-usa
-artist: 'Damon & Naomi'
 show-venue: 'Terrastock, Providence RI, USA'
 show-setlist: [
   "Spirit of Love",

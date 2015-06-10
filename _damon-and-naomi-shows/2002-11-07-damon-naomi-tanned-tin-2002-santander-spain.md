@@ -2,7 +2,6 @@
 layout: show
 title: '2002-11-07: Damon & Naomi - Tanned Tin 2002, Santander, Spain'
 name: 2002-11-07-damon-naomi-tanned-tin-2002-santander-spain
-artist: 'Damon & Naomi'
 show-venue: 'Tanned Tin 2002, Santander, Spain'
 show-setlist: 
 show-date: 2002-11-07

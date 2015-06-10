@@ -2,7 +2,6 @@
 layout: show
 title: '2001-06-22: Luna - Sala Roxy, Valencia, Spain'
 name: 2001-06-22-luna-sala-roxy-valencia-spain
-artist: 'Luna'
 show-venue: 'Sala Roxy, Valencia, Spain'
 show-setlist: 
 show-date: 2001-06-22

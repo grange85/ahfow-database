@@ -2,7 +2,6 @@
 layout: show
 title: '1999-07-23: Luna - Prospect Park Bandstand, New York NY, USA'
 name: 1999-07-23-luna-prospect-park-bandstand-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Prospect Park Bandstand, New York NY, USA'
 show-setlist: [
   "Season Of The Witch",

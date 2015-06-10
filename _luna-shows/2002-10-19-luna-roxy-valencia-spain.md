@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-19: Luna - Roxy, Valencia, Spain'
 name: 2002-10-19-luna-roxy-valencia-spain
-artist: 'Luna'
 show-venue: 'Roxy, Valencia, Spain'
 show-setlist: 
 show-date: 2002-10-19

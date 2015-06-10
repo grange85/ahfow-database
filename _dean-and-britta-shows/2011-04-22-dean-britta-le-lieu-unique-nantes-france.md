@@ -2,7 +2,6 @@
 layout: show
 title: '2011-04-22: Dean & Britta - Le Lieu Unique, Nantes, France'
 name: 2011-04-22-dean-britta-le-lieu-unique-nantes-france
-artist: 'Dean & Britta'
 show-venue: 'Le Lieu Unique, Nantes, France'
 show-setlist: 
 show-date: 2011-04-22

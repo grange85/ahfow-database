@@ -2,7 +2,6 @@
 layout: show
 title: '2013-12-07: Dean Wareham - Point Ephemere, Paris, France'
 name: 2013-12-07-dean-wareham-point-ephemere-paris-france
-artist: 'Dean Wareham'
 show-venue: 'Point Ephemere, Paris, France'
 show-setlist: [
   "Love Is Colder Than Death",

@@ -2,7 +2,6 @@
 layout: show
 title: '2001-02-24: Luna - Fillmore, San Francisco CA, USA'
 name: 2001-02-24-luna-fillmore-san-francisco-ca-usa
-artist: 'Luna'
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Egg Nog",

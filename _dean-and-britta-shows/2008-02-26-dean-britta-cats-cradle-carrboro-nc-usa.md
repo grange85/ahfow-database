@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-26: Dean & Britta - Cats Cradle, Carrboro NC, USA'
 name: 2008-02-26-dean-britta-cats-cradle-carrboro-nc-usa
-artist: 'Dean & Britta'
 show-venue: 'Cats Cradle, Carrboro NC, USA'
 show-setlist:
 show-date: 2008-02-26

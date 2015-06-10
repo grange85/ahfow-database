@@ -2,7 +2,6 @@
 layout: show
 title: "2007-01-09: Dean & Britta - Mo Pitkin's, New York NY, USA"
 name: 2007-01-09-dean-britta-mo-pitkins-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: "Mo Pitkin's, New York NY, USA"
 show-setlist: [
   "The Sun Is Still Sunny",

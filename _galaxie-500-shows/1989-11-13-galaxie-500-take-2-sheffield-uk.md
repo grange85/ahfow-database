@@ -2,7 +2,6 @@
 layout: show
 title: '1989-11-13: Galaxie 500 - Take 2, Sheffield, UK'
 name: 1989-11-13-galaxie-500-take-2-sheffield-uk
-artist: 'Galaxie 500'
 show-venue: 'Take 2, Sheffield, UK'
 show-setlist: 
 show-date: 1989-11-13

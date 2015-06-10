@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-22: Luna - La Cambra, Valencia, Spain'
 name: 2015-04-22-luna-la-cambra-valencia-spain
-artist: 'Luna'
 show-venue: 'La Cambra Valencia, Spain'
 show-setlist: [
   "Slide",

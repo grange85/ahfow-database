@@ -2,7 +2,6 @@
 layout: show
 title: '1994-04-04: Luna - KXLU-FM, Los Angeles CA, USA'
 name: 1994-04-04-luna-kxlu-fm-los-angeles-ca-usa
-artist: 'Luna'
 show-venue: 'KXLU-FM, Los Angeles CA, USA'
 setlist-source: 'recording'
 show-setlist: [

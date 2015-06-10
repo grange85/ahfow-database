@@ -37,9 +37,9 @@
                     <h2>
                       {% case page.layout %}
                         {% when 'show' %}
-                          {{page.show-date|date: "%-d %B %Y"}} - {{page.artist}} - {{ page.show-venue }}
+                          {{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}
                         {% when 'release' %}
-                          {{page.artist}} - {{page.title }}
+                            {{ title }}
                         {% else %}
                           {{ page.title }}
                       {% endcase %}

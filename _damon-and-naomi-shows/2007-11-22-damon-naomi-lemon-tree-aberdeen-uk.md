@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-22: Damon & Naomi - Lemon Tree, Aberdeen, UK'
 name: 2007-11-22-damon-naomi-lemon-tree-aberdeen-uk
-artist: 'Damon & Naomi'
 show-venue: 'Lemon Tree, Aberdeen, UK'
 show-setlist: [
   "Lilac Land",

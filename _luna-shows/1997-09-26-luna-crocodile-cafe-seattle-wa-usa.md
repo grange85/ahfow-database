@@ -2,7 +2,6 @@
 layout: show
 title: '1997-09-26: Luna - Crocodile Cafe, Seattle WA, USA'
 name: 1997-09-26-luna-crocodile-cafe-seattle-wa-usa
-artist: 'Luna'
 show-venue: 'Crocodile Cafe, Seattle WA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

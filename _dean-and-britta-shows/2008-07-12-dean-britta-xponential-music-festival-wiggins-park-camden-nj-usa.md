@@ -2,7 +2,6 @@
 layout: show
 title: '2008-07-12: Dean & Britta - XPoNential Music Festival, Wiggins Park, Camden NJ, USA'
 name: 2008-07-12-dean-britta-xponential-music-festival-wiggins-park-camden-nj-usa
-artist: 'Dean & Britta'
 show-venue: 'XPoNential Music Festival, Wiggins Park, Camden NJ, USA'
 show-setlist: 
 show-date: 2008-07-12

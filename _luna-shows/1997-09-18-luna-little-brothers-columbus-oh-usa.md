@@ -2,7 +2,6 @@
 layout: show
 title: '1997-09-18: Luna - Little Brothers, Columbus OH, USA'
 name: 1997-09-18-luna-little-brothers-columbus-oh-usa
-artist: 'Luna'
 show-venue: 'Little Brothers, Columbus OH, USA'
 show-setlist: [
   "Pup Tent",

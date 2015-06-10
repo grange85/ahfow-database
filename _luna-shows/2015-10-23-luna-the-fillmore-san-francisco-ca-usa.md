@@ -2,7 +2,6 @@
 layout: show
 title: '2015-10-23: Luna - The Fillmore, San Francisco, CA, USA'
 name: 2015-10-23-luna-the-fillmore-san-francisco-ca-usa
-artist: 'Luna'
 show-venue: 'The Fillmore, San Francisco, CA, USA'
 show-setlist: 
 show-date: 2015-10-23

@@ -7,7 +7,6 @@ artistslug: damon-and-naomi
 title: Damon & Naomi - Pierre &Eacute;toile
 initial_release_date: 1991
 albumname: Pierre &Eacute;toile
-artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
 releases:
   - release: 

@@ -2,7 +2,6 @@
 layout: show
 title: '2014-06-26: Dean Wareham - The Bunk Bar, Portland, OR, USA'
 name: 2014-06-26-dean-wareham-the-bunk-bar-portland-or-usa
-artist: 'Dean Wareham'
 show-venue: 'The Bunk Bar, Portland, OR, USA'
 show-setlist: 
 show-date: 2014-06-26

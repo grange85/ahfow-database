@@ -7,7 +7,6 @@ artistslug: galaxie-500
 title: Galaxie 500 - Galaxie 500
 initial_release_date: 1997
 albumname: Galaxie 500
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
 releases:
   - release: 

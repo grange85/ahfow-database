@@ -2,7 +2,6 @@
 layout: show
 title: '1995-12-14: Luna - Cathouse, Glasgow, UK'
 name: 1995-12-14-luna-cathouse-glasgow-uk
-artist: 'Luna'
 show-venue: 'Cathouse, Glasgow, UK'
 show-setlist: 
 show-date: 1995-12-14

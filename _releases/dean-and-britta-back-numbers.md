@@ -7,7 +7,6 @@ artistslug: dean-and-britta
 title: Back Numbers
 initial_release_date: 2007
 albumname: Back Numbers
-artist: Dean &amp; Britta
 imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_backnumbers.jpg
 releases:
   - release: 

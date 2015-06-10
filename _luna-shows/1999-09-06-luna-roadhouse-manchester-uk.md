@@ -2,7 +2,6 @@
 layout: show
 title: '1999-09-06: Luna - Roadhouse, Manchester, UK'
 name: 1999-09-06-luna-roadhouse-manchester-uk
-artist: 'Luna'
 show-venue: 'Roadhouse, Manchester, UK'
 show-setlist: 
 show-date: 1999-09-06

@@ -2,7 +2,6 @@
 layout: show
 title: "2009-10-08: Dean & Britta - Yoshi's, San Francisco, CA, USA"
 name: 2009-10-08-dean-britta-yoshis-san-francisco-ca-usa-2
-artist: 'Dean & Britta'
 show-venue: "Yoshis, San Francisco, CA, USA"
 show-setlist: 
 show-date: 2009-10-08

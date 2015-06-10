@@ -7,7 +7,6 @@ artistslug: galaxie-500
 title: Galaxie 500 - Today
 initial_release_date: 1988
 albumname: Today
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
 releases:
   - release: 

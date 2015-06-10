@@ -2,7 +2,6 @@
 layout: show
 title: '2000-04-21: Luna - Performing Arts Center, Providence RI, USA'
 name: 2000-04-21-luna-performing-arts-center-providence-ri-usa
-artist: 'Luna'
 show-venue: 'Performing Arts Center, Providence RI, USA'
 show-setlist: 
 show-date: 2000-04-21

@@ -2,7 +2,6 @@
 layout: show
 title: '2008-02-07: Dean & Britta - MFA, Boston MA, USA'
 name: 2008-02-07-dean-britta-mfa-boston-ma-usa
-artist: 'Dean & Britta'
 show-venue: 'MFA, Boston MA, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

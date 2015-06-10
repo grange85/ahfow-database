@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-23: Dean & Britta - Studenterhuset, Copenhagen, Denmark'
 name: 2007-11-23-dean-britta-studenterhuset-copenhagen-denmark
-artist: 'Dean & Britta'
 show-venue: 'Studenterhuset, Copenhagen, Denmark'
 show-setlist: [
   "Night Nurse",

@@ -2,7 +2,6 @@
 layout: show
 title: '2011-02-11: Dean & Britta - The Workmans Club, Dublin, Eire'
 name: 2011-02-11-dean-britta-the-workmans-club-dublin-eire
-artist: 'Dean & Britta'
 show-venue: 'The Workmans Club, Dublin, Eire'
 show-setlist: 
 show-date: 2011-02-11

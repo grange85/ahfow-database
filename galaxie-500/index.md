@@ -1,7 +1,6 @@
 ---
 layout: page
 title : Galaxie 500
-artist: Galaxie 500
 scategories: primary
 ---
 

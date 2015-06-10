@@ -2,7 +2,6 @@
 layout: show
 title: '1994-07-13: Luna - Coach House, Los Angeles CA, USA'
 name: 1994-07-13-luna-coach-house-los-angeles-ca-usa
-artist: 'Luna'
 show-venue: 'Coach House, Los Angeles CA, USA'
 show-setlist: 
 show-date: 1994-07-13

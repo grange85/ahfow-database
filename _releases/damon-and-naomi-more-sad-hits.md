@@ -7,7 +7,6 @@ artistslug: damon-and-naomi
 title: Damon & Naomi - More Sad Hits
 initial_release_date: 1992
 albumname: More Sad Hits
-artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_moresadhits.jpg
 releases:
   - release: 

@@ -2,7 +2,6 @@
 layout: show
 title: '1988-03-19: Galaxie 500 – The Middle East, Cambridge, MA, USA'
 name: 1988-03-19-galaxie-500-middle-east-cambridge-ma-usa
-artist: 'Galaxie 500'
 show-venue: 'The Middle East, Cambridge, MA, USA'
 show-setlist: [
   "Oblivious",

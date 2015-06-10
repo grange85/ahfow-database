@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-28: Damon & Naomi - Triple Rock, Minneapolis, MN, USA'
 name: 2011-05-28-damon-naomi-triple-rock-minneapolis-mn-usa
-artist: 'Damon & Naomi'
 show-venue: 'Triple Rock, Minneapolis, MN, USA'
 show-setlist: 
 show-date: 2011-05-28

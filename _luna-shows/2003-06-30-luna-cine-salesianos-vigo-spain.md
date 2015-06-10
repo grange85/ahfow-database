@@ -2,7 +2,6 @@
 layout: show
 title: '2003-06-30: Luna - Cine Salesianos, Vigo, Spain'
 name: 2003-06-30-luna-cine-salesianos-vigo-spain
-artist: 'Luna'
 show-venue: 'Cine Salesianos, Vigo, Spain'
 show-setlist: [
   "Slash Your Tires",

@@ -2,7 +2,6 @@
 layout: show
 title: '1997-09-09: Luna - World Cafe, Philadelphia PA, USA'
 name: 1997-09-09-luna-world-cafe-philadelphia-pa-usa
-artist: 'Luna'
 show-venue: 'World Cafe, Philadelphia PA, USA'
 setlist-source: 'recording'
 show-setlist: [

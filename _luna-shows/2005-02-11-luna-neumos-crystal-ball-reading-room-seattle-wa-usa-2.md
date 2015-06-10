@@ -2,7 +2,6 @@
 layout: show
 title: '2005-02-11: Luna - Neumos Crystal Ball Reading Room, Seattle WA, USA'
 name: 2005-02-11-luna-neumos-crystal-ball-reading-room-seattle-wa-usa-2
-artist: 'Luna'
 show-venue: 'Neumos Crystal Ball Reading Room, Seattle WA, USA'
 show-setlist: [
   "Chinatown",

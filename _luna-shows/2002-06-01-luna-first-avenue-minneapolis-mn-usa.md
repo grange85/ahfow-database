@@ -2,7 +2,6 @@
 layout: show
 title: '2002-06-01: Luna - First avenue, Minneapolis MN, USA'
 name: 2002-06-01-luna-first-avenue-minneapolis-mn-usa
-artist: 'Luna'
 show-venue: 'First avenue, Minneapolis MN, USA'
 show-setlist: [
   "Chinatown",

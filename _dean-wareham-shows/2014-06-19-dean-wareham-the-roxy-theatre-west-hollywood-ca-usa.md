@@ -2,7 +2,6 @@
 layout: show
 title: '2014-06-19: Dean Wareham - The Roxy Theatre, West Hollywood, CA, USA'
 name: 2014-06-19-dean-wareham-the-roxy-theatre-west-hollywood-ca-usa
-artist: 'Dean Wareham'
 show-venue: 'The Roxy Theatre, West Hollywood, CA, USA'
 show-setlist: 
 show-date: 2014-06-19

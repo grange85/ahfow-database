@@ -2,7 +2,6 @@
 layout: show
 title: '2005-04-19: Damon & Naomi - IOTA, Arlington VA, USA'
 name: 2005-04-19-damon-naomi-iota-arlington-va-usa
-artist: 'Damon & Naomi'
 show-venue: 'IOTA, Arlington VA, USA'
 show-setlist: 
 show-date: 2005-04-19

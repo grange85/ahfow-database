@@ -2,7 +2,6 @@
 layout: show
 title: '2002-05-11: Luna - Trocadero, Philadelphia PA, USA'
 name: 2002-05-11-luna-trocadero-philadelphia-pa-usa
-artist: 'Luna'
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
   "1995",

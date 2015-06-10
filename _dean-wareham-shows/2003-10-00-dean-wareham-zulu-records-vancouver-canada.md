@@ -2,7 +2,6 @@
 layout: show
 title: '2003-10-00: Dean Wareham - ZULU Records, Vancouver, Canada'
 name: 2003-10-00-dean-wareham-zulu-records-vancouver-canada
-artist: 'Dean Wareham'
 show-venue: 'ZULU Records, Vancouver, Canada'
 show-setlist: 
 show-date: 2003-10-00

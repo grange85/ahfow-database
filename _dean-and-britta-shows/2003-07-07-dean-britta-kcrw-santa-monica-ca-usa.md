@@ -2,7 +2,6 @@
 layout: show
 title: '2003-07-07: Dean & Britta - KCRW, Santa Monica CA, USA'
 name: 2003-07-07-dean-britta-kcrw-santa-monica-ca-usa
-artist: 'Dean & Britta'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: 
 show-date: 2003-07-07

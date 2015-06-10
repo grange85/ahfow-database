@@ -2,7 +2,6 @@
 layout: show
 title: '2001-05-18: Luna - Trees Lounge, Dallas TX, USA'
 name: 2001-05-18-luna-trees-lounge-dallas-tx-usa
-artist: 'Luna'
 show-venue: 'Trees Lounge, Dallas TX, USA'
 show-setlist: [
   "Lovedust",

@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-n
 title: 1001 Nights
 initial_release_date: 2009
 albumname: 1001 Nights
-artist: Damon & Naomi
 releases:
   - release: 
     version: factory-25-lp-dvd

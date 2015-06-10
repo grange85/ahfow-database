@@ -2,7 +2,6 @@
 layout: show
 title: '2004-11-15: Luna - High Noon Saloon, Madison WI, USA'
 name: 2004-11-15-luna-high-noon-saloon-madison-wi-usa
-artist: 'Luna'
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [
   "Malibu Love Nest",

@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-26: Luna - Casa Da Musica, Porto, Portugal'
 name: 2015-04-26-luna-casa-da-musica-porto-portugal
-artist: 'Luna'
 show-venue: 'Casa Da Musica, Porto, Portugal'
 show-setlist: [
     "Chinatown",

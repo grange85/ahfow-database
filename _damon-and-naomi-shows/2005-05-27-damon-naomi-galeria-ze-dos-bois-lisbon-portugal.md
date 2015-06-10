@@ -2,7 +2,6 @@
 layout: show
 title: '2005-05-27: Damon & Naomi - Galeria Ze Dos Bois, Lisbon, Portugal'
 name: 2005-05-27-damon-naomi-galeria-ze-dos-bois-lisbon-portugal
-artist: 'Damon & Naomi'
 show-venue: 'Galeria Ze Dos Bois, Lisbon, Portugal'
 show-setlist: 
 show-date: 2005-05-27

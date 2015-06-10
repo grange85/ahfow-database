@@ -2,7 +2,6 @@
 layout: show
 title: '2002-06-10: Luna - KCRW, Santa Monica CA, USA'
 name: 2002-06-10-luna-kcrw-santa-monica-ca-usa
-artist: 'Luna'
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Black Champagne",

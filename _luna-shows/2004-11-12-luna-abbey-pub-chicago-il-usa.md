@@ -2,7 +2,6 @@
 layout: show
 title: '2004-11-12: Luna - Abbey Pub, Chicago IL, USA'
 name: 2004-11-12-luna-abbey-pub-chicago-il-usa
-artist: 'Luna'
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Speedbumps",

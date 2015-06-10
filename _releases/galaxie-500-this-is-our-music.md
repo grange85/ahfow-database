@@ -8,7 +8,6 @@ title: Galaxie 500 - This is Our Music
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1990
 albumname: This is Our Music
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_thisisourmusic.jpg
 wikipedia: 
 releases:

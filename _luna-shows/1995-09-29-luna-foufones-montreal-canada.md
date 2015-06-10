@@ -2,7 +2,6 @@
 layout: show
 title: '1995-09-29: Luna - Foufones, Montreal, Canada'
 name: 1995-09-29-luna-foufones-montreal-canada
-artist: 'Luna'
 show-venue: 'Foufones, Montreal, Canada'
 show-setlist: 
 show-date: 1995-09-29

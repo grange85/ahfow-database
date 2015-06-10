@@ -7,7 +7,6 @@ artistslug: damon-and-naomi
 title: Damon & Naomi - Playback Singers
 initial_release_date: 1998
 albumname: Playback Singers
-artist: Damon & Naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
 releases:
   - release: 

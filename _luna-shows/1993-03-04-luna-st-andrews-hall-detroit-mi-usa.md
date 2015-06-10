@@ -2,7 +2,6 @@
 layout: show
 title: "1993-03-04: Luna - St. Andrews Hall, Detroit MI, USA"
 name: 1993-03-04-luna-st-andrews-hall-detroit-mi-usa
-artist: 'Luna'
 show-venue: "St. Andrews Hall, Detroit MI, USA"
 show-setlist: [
   "Slide",

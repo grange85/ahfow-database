@@ -2,7 +2,6 @@
 layout: show
 title: '2002-11-08: Luna - Black Cat, Washington DC, USA'
 name: 2002-11-08-luna-black-cat-washington-dc-usa
-artist: 'Luna'
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "1995",

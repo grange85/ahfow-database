@@ -2,7 +2,6 @@
 layout: show
 title: '2009-06-13: Dean & Britta - The Warhol Museum, Pittsburgh, PA, USA'
 name: 2009-06-13-dean-britta-the-warhol-museum-pittsburgh-pa-usa
-artist: 'Dean & Britta'
 show-venue: 'The Warhol Museum, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2009-06-13

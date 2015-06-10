@@ -2,7 +2,6 @@
 layout: show
 title: '2001-06-28: Luna - Casa del Loco, Zaragoza, Spain'
 name: 2001-06-28-luna-casa-del-loco-zaragoza-spain
-artist: 'Luna'
 show-venue: 'Casa del Loco, Zaragoza, Spain'
 show-setlist: 
 show-date: 2001-06-28

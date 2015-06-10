@@ -2,7 +2,6 @@
 layout: show
 title: "2010-05-11: Damon & Naomi - Mains DOeuvre, Paris, France"
 name: 2010-05-11-damon-naomi-mains-doeuvre-paris-france
-artist: 'Damon & Naomi'
 show-venue: "Mains DOeuvre, Paris, France"
 show-setlist: 
 show-date: 2010-05-11

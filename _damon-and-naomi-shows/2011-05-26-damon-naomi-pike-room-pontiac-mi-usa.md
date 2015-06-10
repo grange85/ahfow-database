@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-26: Damon & Naomi - Pike Room, Pontiac, MI, USA'
 name: 2011-05-26-damon-naomi-pike-room-pontiac-mi-usa
-artist: 'Damon & Naomi'
 show-venue: 'Pike Room, Pontiac, MI, USA'
 show-setlist: 
 show-date: 2011-05-26

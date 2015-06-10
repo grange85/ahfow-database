@@ -2,7 +2,6 @@
 layout: show
 title: '2001-09-24: Luna - Programa Garagem - Brasil 2000 FM, Brazil'
 name: 2001-09-24-luna-programa-garagem-brasil-2000-fm-brazil
-artist: 'Luna'
 show-venue: 'Programa Garagem - Brasil 2000 FM, Brazil'
 show-setlist: [
   "Black Champagne",

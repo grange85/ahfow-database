@@ -2,7 +2,6 @@
 layout: show
 title: '1999-10-01: Luna - Rincon de Goya, Zaragoza, Spain'
 name: 1999-10-01-luna-rincon-de-goya-zaragoza-spain
-artist: 'Luna'
 show-venue: 'Rincon de Goya, Zaragoza, Spain'
 show-setlist: 
 show-date: 1999-10-01

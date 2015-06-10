@@ -2,7 +2,6 @@
 layout: show
 title: '2015-10-14: Luna - The Andy Warhol Museum, Pittsburgh, PA, USA'
 name: 2015-10-14-luna-the-andy-warhol-museum-pittsburgh-pa-usa
-artist: 'Luna'
 show-venue: 'The Andy Warhol Museum, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2015-10-14

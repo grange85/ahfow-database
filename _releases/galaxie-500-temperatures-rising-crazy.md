@@ -8,7 +8,6 @@ title: Galaxie 500 - Temperature's Rising / Crazy
 categories : [discography, galaxie-500, single]
 initial_release_date: 2013
 albumname: Temperature's Rising / Crazy
-artist: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
 wikipedia: 
 releases:

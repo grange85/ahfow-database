@@ -2,7 +2,6 @@
 layout: show
 title: '2000-03-30: Luna - Starfish Room, Vancouver, Canada'
 name: 2000-03-30-luna-starfish-room-vancouver-canada
-artist: 'Luna'
 show-venue: 'Starfish Room, Vancouver, Canada'
 show-setlist: [
   "Bewitched",

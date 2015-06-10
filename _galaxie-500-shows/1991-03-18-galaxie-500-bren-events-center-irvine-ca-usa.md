@@ -2,7 +2,6 @@
 layout: show
 title: '1991-03-18: Galaxie 500 - Bren Events Center, Irvine CA, USA'
 name: 1991-03-18-galaxie-500-bren-events-center-irvine-ca-usa
-artist: 'Galaxie 500'
 show-venue: 'Bren Events Center, Irvine CA, USA'
 show-setlist: 
 show-date: 1991-03-18

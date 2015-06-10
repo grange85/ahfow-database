@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrou
 title: Damon & Naomi - The Wondrous World of Damon & Naomi
 initial_release_date: 1995
 albumname: The Wondrous World of Damon & Naomi
-artist: Damon & Naomi
 releases:
   - release: 
     version: sub-pop-vinyl

@@ -2,7 +2,6 @@
 layout: show
 title: '2007-12-31: Dean & Britta - Maxwells, Hoboken NJ'
 name: 2007-12-31-dean-britta-maxwells-hoboken-nj
-artist: 'Dean & Britta'
 show-venue: 'Maxwells, Hoboken NJ'
 show-setlist: [
   "Rock Your Baby",

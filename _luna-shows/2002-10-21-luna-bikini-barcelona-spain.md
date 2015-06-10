@@ -2,7 +2,6 @@
 layout: show
 title: '2002-10-21: Luna - Bikini, Barcelona, Spain'
 name: 2002-10-21-luna-bikini-barcelona-spain
-artist: 'Luna'
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "1995",

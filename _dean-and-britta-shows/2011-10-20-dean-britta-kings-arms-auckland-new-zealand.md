@@ -2,7 +2,6 @@
 layout: show
 title: '2011-10-20: Dean & Britta - Kings Arms, Auckland, New Zealand'
 name: 2011-10-20-dean-britta-kings-arms-auckland-new-zealand
-artist: 'Dean & Britta'
 show-venue: 'Kings Arms, Auckland, New Zealand'
 show-setlist: 
 show-date: 2011-10-20

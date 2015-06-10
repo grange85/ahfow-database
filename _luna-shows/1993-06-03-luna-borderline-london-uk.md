@@ -2,7 +2,6 @@
 layout: show
 title: '1993-06-03: Luna - Borderline, London, UK'
 name: 1993-06-03-luna-borderline-london-uk
-artist: 'Luna'
 show-venue: 'Borderline, London, UK'
 show-setlist: [
   "Crazy People",

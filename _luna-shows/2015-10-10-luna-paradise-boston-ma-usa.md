@@ -2,7 +2,6 @@
 layout: show
 title: '2015-10-10: Luna - Paradise, Boston, MA, USA'
 name: 2015-10-10-luna-paradise-boston-ma-usa
-artist: 'Luna'
 show-venue: 'Paradise, Boston, MA, USA'
 show-setlist: 
 show-date: 2015-10-10

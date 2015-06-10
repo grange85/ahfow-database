@@ -2,7 +2,6 @@
 layout: show
 title: '2010-12-17: Dean & Britta - Music Hall of Williamsburg, Brooklyn, NY, USA'
 name: 2010-12-17-dean-britta-music-hall-of-williamsburg-brooklyn-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'Music Hall of Williamsburg, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2010-12-17

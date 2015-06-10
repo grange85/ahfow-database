@@ -2,7 +2,6 @@
 layout: show
 title: '1998-08-08: Luna - Benicassim Festival, Valencia, Spain'
 name: 1998-08-08-luna-benicassim-festival-valencia-spain
-artist: 'Luna'
 show-venue: 'Benicassim Festival, Valencia, Spain'
 show-setlist: [
   "California (All the Way)",

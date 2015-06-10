@@ -2,7 +2,6 @@
 layout: show
 title: '1989-11-27: Galaxie 500 - Cookys, Frankfurt, Germany'
 name: 1989-11-27-galaxie-500-cookys-frankfurt-germany
-artist: 'Galaxie 500'
 show-venue: 'Cookys, Frankfurt, Germany'
 show-setlist: 
 show-date: 1989-11-27

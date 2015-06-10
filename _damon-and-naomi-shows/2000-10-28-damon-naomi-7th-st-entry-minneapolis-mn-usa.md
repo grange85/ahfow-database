@@ -2,7 +2,6 @@
 layout: show
 title: '2000-10-28: Damon & Naomi - 7th St. Entry, Minneapolis MN, USA'
 name: 2000-10-28-damon-naomi-7th-st-entry-minneapolis-mn-usa
-artist: 'Damon & Naomi'
 show-venue: '7th St. Entry, Minneapolis MN, USA'
 show-setlist: 
 show-date: 2000-10-28

@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-
 title: Long Players 92-99
 initial_release_date: 2015
 albumname: Long Players 92-99
-artist: Luna
 releases:
   - release: 
     version: captured-tracks-box

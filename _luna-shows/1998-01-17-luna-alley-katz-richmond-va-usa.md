@@ -2,7 +2,6 @@
 layout: show
 title: '1998-01-17: Luna - Alley Katz, Richmond VA, USA'
 name: 1998-01-17-luna-alley-katz-richmond-va-usa
-artist: 'Luna'
 show-venue: 'Alley Katz, Richmond VA, USA'
 show-setlist: [
   "Pup Tent",

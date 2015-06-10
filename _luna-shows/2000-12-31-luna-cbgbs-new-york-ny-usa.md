@@ -2,7 +2,6 @@
 layout: show
 title: '2000-12-31: Luna - CBGBs, New York NY, USA'
 name: 2000-12-31-luna-cbgbs-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Egg Nog",

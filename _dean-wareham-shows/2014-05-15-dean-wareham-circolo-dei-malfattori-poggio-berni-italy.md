@@ -2,7 +2,6 @@
 layout: show
 title: '2014-05-15: Dean Wareham - Circolo dei Malfattori, Poggio Berni, Italy'
 name: 2014-05-15-dean-wareham-circolo-dei-malfattori-poggio-berni-italy
-artist: 'Dean Wareham'
 show-venue: 'Circolo dei Malfattori, Poggio Berni, Italy'
 show-setlist: 
 show-date: 2014-05-15

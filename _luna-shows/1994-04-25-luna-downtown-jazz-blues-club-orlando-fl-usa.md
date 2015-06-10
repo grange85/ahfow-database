@@ -2,7 +2,6 @@
 layout: show
 title: '1994-04-25: Luna - Downtown Jazz and Blues Club, Orlando, FL, USA'
 name: 1994-04-25-luna-downtown-jazz-blues-club-orlando-fl-usa
-artist: 'Luna'
 show-venue: 'Downtown Jazz and Blues Club, Orlando, FL, USA'
 show-setlist: 
 show-date: 1994-04-25

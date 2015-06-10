@@ -2,7 +2,6 @@
 layout: show
 title: '1994-05-23: Luna - Bierkeller, Bristol, UK'
 name: 1994-05-23-luna-bierkeller-bristol-uk
-artist: 'Luna'
 show-venue: 'Bierkeller, Bristol, UK'
 setlist-source: 'setlist scan'
 show-setlist: [

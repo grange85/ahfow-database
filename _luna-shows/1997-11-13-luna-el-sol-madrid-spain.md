@@ -2,7 +2,6 @@
 layout: show
 title: '1997-11-13: Luna - El Sol, Madrid, Spain'
 name: 1997-11-13-luna-el-sol-madrid-spain
-artist: 'Luna'
 show-venue: 'El Sol, Madrid, Spain'
 show-setlist: [
   "Sideshow By The Seashore",

@@ -2,7 +2,6 @@
 layout: show
 title: '2007-11-13: Damon & Naomi - Spazio 211, Torino, Italy'
 name: 2007-11-13-damon-naomi-spazio-211-torino-italy
-artist: 'Damon & Naomi'
 show-venue: 'Spazio 211, Torino, Italy'
 show-setlist: 
 show-date: 2007-11-13

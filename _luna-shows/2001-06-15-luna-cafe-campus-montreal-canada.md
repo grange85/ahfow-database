@@ -2,7 +2,6 @@
 layout: show
 title: '2001-06-15: Luna - Cafe Campus, Montreal, Canada'
 name: 2001-06-15-luna-cafe-campus-montreal-canada
-artist: 'Luna'
 show-venue: 'Cafe Campus, Montreal, Canada'
 show-setlist: 
 show-date: 2001-06-15

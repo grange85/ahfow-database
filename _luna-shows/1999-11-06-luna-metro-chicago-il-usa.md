@@ -2,7 +2,6 @@
 layout: show
 title: '1999-11-06: Luna - Metro, Chicago IL, USA'
 name: 1999-11-06-luna-metro-chicago-il-usa
-artist: 'Luna'
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Pup Tent",

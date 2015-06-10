@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-28: Dean & Britta - Primavera Festival, Parc del Forum, Barcelona, Spain'
 name: 2011-05-28-dean-britta-primavera-festival-parc-del-forum-barcelona-spain
-artist: 'Dean & Britta'
 show-venue: 'Primavera Festival, Parc del Forum, Barcelona, Spain'
 show-setlist: 
 show-date: 2011-05-28

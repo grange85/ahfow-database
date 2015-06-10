@@ -2,7 +2,6 @@
 layout: show
 title: '2014-10-24: Dean Wareham - Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA'
 name: 2014-10-24-dean-wareham-exposed-songs-for-unseen-warhol-films
-artist: 'Dean Wareham'
 show-venue: 'Royce Hall, Center for the Art of Performance at UCLA, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2014-10-24

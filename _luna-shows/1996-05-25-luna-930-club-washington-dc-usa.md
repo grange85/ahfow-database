@@ -2,7 +2,6 @@
 layout: show
 title: '1996-05-25: Luna - 9:30 Club, Washington DC, USA'
 name: 1996-05-25-luna-930-club-washington-dc-usa
-artist: 'Luna'
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Season Of The Witch",

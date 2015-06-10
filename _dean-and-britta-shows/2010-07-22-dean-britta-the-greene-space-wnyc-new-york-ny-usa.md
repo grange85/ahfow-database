@@ -2,7 +2,6 @@
 layout: show
 title: '2010-07-22: Dean & Britta - The Greene Space, WNYC, New York, NY, USA'
 name: 2010-07-22-dean-britta-the-greene-space-wnyc-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'The Greene Space, WNYC, New York, NY, USA'
 show-setlist: 
 show-date: 2010-07-22

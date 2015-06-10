@@ -7,7 +7,6 @@ artistslug: dean-and-britta
 title: Sonic Souvenirs
 initial_release_date: 2003
 albumname: Sonic Souvenirs
-artist: Dean &amp; Britta
 imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
 releases:
   - release: 

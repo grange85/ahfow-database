@@ -2,7 +2,6 @@
 layout: show
 title: '2007-06-18: Dean & Britta - Sussex Arts Club, Brighton, UK'
 name: 2007-06-18-dean-britta-sussex-arts-club-brighton-uk
-artist: 'Dean & Britta'
 show-venue: 'Sussex Arts Club, Brighton, UK'
 show-setlist: [
   "Singer Sing",

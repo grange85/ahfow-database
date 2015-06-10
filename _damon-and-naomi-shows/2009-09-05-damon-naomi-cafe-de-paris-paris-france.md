@@ -2,7 +2,6 @@
 layout: show
 title: '2009-09-05: Damon & Naomi - Cafe de Paris, Paris, France'
 name: 2009-09-05-damon-naomi-cafe-de-paris-paris-france
-artist: 'Damon & Naomi'
 show-venue: 'Cafe de Paris, Paris, France'
 show-setlist: 
 show-date: 2009-09-05

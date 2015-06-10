@@ -1,6 +1,7 @@
-- name : Galaxie 500
+galaxie-500:
+  name : Galaxie 500
   slug : galaxie-500
-  yearsactive : 1987 - 1991
+  yearsactive : [1987,1988,1989,1990,1991]
   members :
     - name : Dean Wareham
       yearsactive : 1987 - 1991
@@ -12,9 +13,26 @@
       yearsactive : 1987 - 1991
       role : drums
 
-- name : Luna
+luna:
+  name : Luna
   slug : luna
-  yearsactive : 1992 - 2005, 2015
+  yearsactive : [
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2015
+                ]
   members :
     - name : Dean Wareham
       yearsactive : 1992 - 2005, 2015
@@ -35,9 +53,35 @@
       yearsactive : 2000 - 2005, 2015
       role : bass / vocals
 
-- name : Damon and Naomi
+damon-and-naomi:
+  name : Damon and Naomi
   slug : damon-and-naomi
-  yearsactive : 1992 - 
+  yearsactive : [
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015
+                ]
   members :
     - name : Damon Krukowski
       yearsactive : 1991 - 
@@ -45,3 +89,32 @@
     - name : Naomi Yang
       yearsactive : 1991 -
       role : bass / keyboards / vocals
+
+dean-and-britta:
+  name: Dean & Britta
+  slug: dean-and-britta
+  yearsactive: [
+               2003,
+               2004,
+               2005,
+               2006,
+               2007,
+               2008,
+               2009,
+               2010,
+               2011,
+               2012,
+               2013,
+               2014,
+               2015
+               ]
+
+dean-wareham:
+  name: Dean Wareham
+  slug: dean-wareham
+  yearsactive: [
+                2003,
+                2008
+                2013,
+                2014
+                ] 

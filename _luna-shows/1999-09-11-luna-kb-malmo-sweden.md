@@ -2,7 +2,6 @@
 layout: show
 title: '1999-09-11: Luna - KB, Malmo, Sweden'
 name: 1999-09-11-luna-kb-malmo-sweden
-artist: 'Luna'
 show-venue: 'KB, Malmo, Sweden'
 show-setlist: 
 show-date: 1999-09-11

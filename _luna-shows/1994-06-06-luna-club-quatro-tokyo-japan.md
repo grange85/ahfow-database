@@ -2,7 +2,6 @@
 layout: show
 title: '1994-06-06: Luna - Club Quatro, Tokyo, Japan'
 name: 1994-06-06-luna-club-quatro-tokyo-japan
-artist: 'Luna'
 show-venue: 'Club Quatro, Tokyo, Japan'
 show-setlist: [
   "Sleeping Pill",

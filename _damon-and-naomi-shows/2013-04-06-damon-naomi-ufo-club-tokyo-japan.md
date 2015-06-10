@@ -2,7 +2,6 @@
 layout: show
 title: '2013-04-06: Damon & Naomi - UFO Club, Tokyo, Japan'
 name: 2013-04-06-damon-naomi-ufo-club-tokyo-japan
-artist: 'Damon & Naomi'
 show-venue: 'UFO Club, Tokyo, Japan'
 show-setlist: 
 show-date: 2013-04-06

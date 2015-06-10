@@ -2,7 +2,6 @@
 layout: show
 title: '2012-10-18: Damon & Naomi - The Brattle Theatre, Cambridge, MA, USA'
 name: 2012-10-18-damon-naomi-the-brattle-theatre-cambridge-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'The Brattle Theatre, Cambridge, MA, USA'
 show-setlist: 
 show-date: 2012-10-18

@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
 title: The Days of Our Nights
 initial_release_date: 1999
 albumname: The Days of Our Nights
-artist: Luna
 releases:
   - release: 
     version: beggars-banquet-cd

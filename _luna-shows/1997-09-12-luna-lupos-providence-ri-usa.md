@@ -2,7 +2,6 @@
 layout: show
 title: "1997-09-12: Luna - Lupos, Providence RI, USA"
 name: 1997-09-12-luna-lupos-providence-ri-usa
-artist: 'Luna'
 show-venue: "Lupos, Providence RI, USA"
 show-setlist: 
 show-date: 1997-09-12

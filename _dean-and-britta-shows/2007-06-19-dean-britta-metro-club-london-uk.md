@@ -2,7 +2,6 @@
 layout: show
 title: '2007-06-19: Dean & Britta - Metro Club, London, UK'
 name: 2007-06-19-dean-britta-metro-club-london-uk
-artist: 'Dean & Britta'
 show-venue: 'Metro Club, London, UK'
 show-setlist: [
   "Singer Sing",

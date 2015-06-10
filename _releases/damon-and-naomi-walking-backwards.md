@@ -8,7 +8,6 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking
 title: Walking Backwards / The World's Strongest Man
 initial_release_date: 2011
 albumname: Walking Backwards / The World's Strongest Man
-artist: Damon & Naomi
 releases:
   - release: 
     version: great-pop-supplement-single

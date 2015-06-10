@@ -2,7 +2,6 @@
 layout: show
 title: '2015-04-19: Luna - Teatre de Lloseta, Lloseta, Mallorca, Spain'
 name: 2015-04-19-luna-mallorca-spain
-artist: 'Luna'
 show-venue: 'Teatre de Lloseta, Lloseta, Mallorca, Spain, Mallorca, Spain'
 show-setlist: [
   "Chinatown",

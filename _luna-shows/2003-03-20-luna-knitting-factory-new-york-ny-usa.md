@@ -2,7 +2,6 @@
 layout: show
 title: '2003-03-20: Luna - Knitting Factory, New York NY, USA'
 name: 2003-03-20-luna-knitting-factory-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Kill For Peace",

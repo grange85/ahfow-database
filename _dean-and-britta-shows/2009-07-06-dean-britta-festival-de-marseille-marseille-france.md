@@ -2,7 +2,6 @@
 layout: show
 title: '2009-07-06: Dean & Britta - Festival de Marseille, Marseille, France'
 name: 2009-07-06-dean-britta-festival-de-marseille-marseille-france
-artist: 'Dean & Britta'
 show-venue: 'Festival de Marseille, Marseille, France'
 show-setlist: 
 show-date: 2009-07-06

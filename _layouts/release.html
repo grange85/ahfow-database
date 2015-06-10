@@ -1,16 +1,16 @@
 ---
 layout: default
-title: /:artist - /:title
 ---
-
+{% assign artist = site.data.artists[page.artistslug] %}
+{% capture title %}{{artist.name}} - {{page.title}}{% endcapture %}
 <div class="row">
     <div class="col-md-12">
                 <nav>
                   <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
-        <li><a href="/{{page.artistslug}}">{{page.artist}}</a></li>
-        <li><a href="/{{page.artistslug}}/releases/">{{page.artist}} releases</a></li>
-        <li>{{page.artist}} - {{page.albumname}}</li>
+        <li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+        <li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
+        <li>{{artist.name}} - {{page.albumname}}</li>
     </ul>
     </nav>
     </div>

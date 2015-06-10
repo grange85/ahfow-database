@@ -2,7 +2,6 @@
 layout: show
 title: '1999-10-27: Luna - Union Square Tower Records, New York NY, USA'
 name: 1999-10-27-luna-union-square-tower-records-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Union Square Tower Records, New York NY, USA'
 show-setlist: [
   "Dear Diary",

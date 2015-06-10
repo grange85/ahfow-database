@@ -2,7 +2,6 @@
 layout: show
 title: "1995-09-15: Luna - Cats Cradle, Carrboro NC, USA"
 name: 1995-09-15-luna-cats-cradle-carrboro-nc-usa
-artist: 'Luna'
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Friendly Advice",

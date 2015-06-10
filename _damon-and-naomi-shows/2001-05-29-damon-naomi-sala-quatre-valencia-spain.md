@@ -2,7 +2,6 @@
 layout: show
 title: '2001-05-29: Damon & Naomi - Sala Quatre, Valencia, Spain'
 name: 2001-05-29-damon-naomi-sala-quatre-valencia-spain
-artist: 'Damon & Naomi'
 show-venue: 'Sala Quatre, Valencia, Spain'
 show-setlist: 
 show-date: 2001-05-29

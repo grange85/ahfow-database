@@ -2,7 +2,6 @@
 layout: show
 title: "1997-08-03: Luna - Idiots Delight WNEW, New York NY, USA"
 name: 1997-08-03-luna-idiots-delight-wnew-new-york-ny-usa
-artist: 'Luna'
 show-venue: "Idiots Delight WNEW, New York NY, USA"
 show-setlist: [
   "Beggar's Bliss",

@@ -2,7 +2,6 @@
 layout: show
 title: '1998-06-07: Damon & Naomi - Central Square, Cambridge MA, USA'
 name: 1998-06-07-damon-naomi-central-square-cambridge-ma-usa
-artist: 'Damon & Naomi'
 show-venue: 'Central Square, Cambridge MA, USA'
 show-setlist: 
 show-date: 1998-06-07

@@ -2,7 +2,6 @@
 layout: show
 title: '1996-03-31: Luna - Academy, New York NY, USA'
 name: 1996-03-31-luna-academy-new-york-ny-usa
-artist: 'Luna'
 show-venue: 'Academy, New York NY, USA'
 show-setlist: 
 show-date: 1996-03-31

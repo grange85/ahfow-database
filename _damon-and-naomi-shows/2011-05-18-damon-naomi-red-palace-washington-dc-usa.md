@@ -2,7 +2,6 @@
 layout: show
 title: '2011-05-18: Damon & Naomi - Red Palace, Washington DC, USA'
 name: 2011-05-18-damon-naomi-red-palace-washington-dc-usa
-artist: 'Damon & Naomi'
 show-venue: 'Red Palace, Washington DC, USA'
 show-setlist: 
 show-date: 2011-05-18

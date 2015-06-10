@@ -2,7 +2,6 @@
 layout: show
 title: '2007-03-14: Dean & Britta - Beachland Ballroom, Cleveland OH, USA'
 name: 2007-03-14-dean-britta-beachland-ballroom-cleveland-oh-usa
-artist: 'Dean & Britta'
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: 
 show-date: 2007-03-14

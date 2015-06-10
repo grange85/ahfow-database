@@ -2,7 +2,6 @@
 layout: show
 title: '2009-11-10: Damon & Naomi - Jive, Hiroshima, Japan'
 name: 2009-11-10-damon-naomi-jive-hiroshima-japan
-artist: 'Damon & Naomi'
 show-venue: 'Jive, Hiroshima, Japan'
 show-setlist: 
 show-date: 2009-11-10

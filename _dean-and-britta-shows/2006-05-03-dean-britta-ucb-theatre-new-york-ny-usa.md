@@ -2,7 +2,6 @@
 layout: show
 title: '2006-05-03: Dean & Britta - UCB Theatre, New York NY, USA'
 name: 2006-05-03-dean-britta-ucb-theatre-new-york-ny-usa
-artist: 'Dean & Britta'
 show-venue: 'UCB Theatre, New York NY, USA'
 show-setlist: 
 show-date: 2006-05-03

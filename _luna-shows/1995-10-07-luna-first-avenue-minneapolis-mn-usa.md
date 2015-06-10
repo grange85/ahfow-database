@@ -2,7 +2,6 @@
 layout: show
 title: '1995-10-07: Luna - First avenue, Minneapolis MN, USA'
 name: 1995-10-07-luna-first-avenue-minneapolis-mn-usa
-artist: 'Luna'
 show-venue: 'First avenue, Minneapolis MN, USA'
 show-setlist: 
 show-date: 1995-10-07
