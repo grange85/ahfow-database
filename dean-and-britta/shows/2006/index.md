@@ -1,5 +1,5 @@
 ---
 layout: gigography
-artistslug: damon-and-naomi
+artistslug: dean-and-britta
 year: 2006
 ---

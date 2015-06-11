@@ -1,5 +1,5 @@
 ---
 layout: gigography
-artistslug: dean-wareham
+artistslug: dean-and-britta
 year: 2013
 ---
