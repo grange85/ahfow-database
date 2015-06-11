@@ -1,6 +1,7 @@
 ---
 layout: page
 title : Luna
+artistslug: luna
 categories: primary
 ---
 

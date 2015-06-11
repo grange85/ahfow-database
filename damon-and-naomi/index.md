@@ -1,6 +1,7 @@
 ---
 layout: page
-title : Damon &amp; Naomi
+title : Damon & Naomi
+artistslug: damon-and-naomi
 categories: primary
 ---
 
