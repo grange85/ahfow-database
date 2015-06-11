@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-10-26: Luna - KCRW, Santa Monica CA, USA'
-name: 1995-10-26-luna-kcrw-santa-monica-ca-usa
+artistslug: luna
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Double Feature",

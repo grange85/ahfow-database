@@ -4,7 +4,6 @@ permalink: /dean-and-britta/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: dean-and-britta
-title: Words You Used to Say
 initial_release_date: 2006
 albumname: Words You Used to Say
 imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-12-11: Galaxie 500 - Premises, Norwich, UK'
-name: 1989-12-11-galaxie-500-premises-norwich-uk
+artistslug: galaxie-500
 show-venue: 'Premises, Norwich, UK'
 show-setlist: 
 show-date: 1989-12-11

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2002-05-25: Luna - Lees Palace, Toronto, Canada"
-name: 2002-05-25-luna-lees-palace-toronto-canada
+artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
 show-setlist: [
   "Weird And Woozy",

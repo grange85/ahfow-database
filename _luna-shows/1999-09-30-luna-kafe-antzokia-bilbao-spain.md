@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-09-30: Luna - Kafe Antzokia, Bilbao, Spain'
-name: 1999-09-30-luna-kafe-antzokia-bilbao-spain
+artistslug: luna
 show-venue: 'Kafe Antzokia, Bilbao, Spain'
 show-setlist: 
 show-date: 1999-09-30

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-09-06: Luna - Trocadero, Philadelphia PA, USA'
-name: 2003-09-06-luna-trocadero-philadelphia-pa-usa
+artistslug: luna
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
   "Malibu Love Nest",

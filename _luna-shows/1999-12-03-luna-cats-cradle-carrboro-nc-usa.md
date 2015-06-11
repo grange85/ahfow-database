@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1999-12-03: Luna - Cats Cradle, Carrboro NC, USA"
-name: 1999-12-03-luna-cats-cradle-carrboro-nc-usa
+artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 1999-12-03

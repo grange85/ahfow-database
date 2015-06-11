@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-06-08: Dean & Britta - Kafe Antzokia, Bilbao, Spain'
-name: 2007-06-08-dean-britta-kafe-antzokia-bilbao-spain
+artistslug: dean-and-britta
 show-venue: 'Kafe Antzokia, Bilbao, Spain'
 show-setlist: 
 show-date: 2007-06-08

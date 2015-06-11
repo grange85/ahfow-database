@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-06-06: Dean & Britta - Zac Club, Barcelona, Spain'
-name: 2007-06-06-dean-britta-zac-club-barcelona-spain
+artistslug: dean-and-britta
 show-venue: 'Zac Club, Barcelona, Spain'
 show-setlist: 
 show-date: 2007-06-06

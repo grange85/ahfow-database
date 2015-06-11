@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-12-13: Luna - BBC Radio One, Manchester, UK'
-name: 1995-12-13-luna-bbc-radio-one-manchester-uk
+artistslug: luna
 show-venue: 'BBC Radio One, Manchester, UK'
 show-setlist: [
   "Indian Summer",

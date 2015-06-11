@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-01-17: Luna - CBGBs, New York NY, USA'
-name: 1992-01-17-luna-cbgbs-new-york-ny-usa
+artistslug: luna
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Anesthesia",

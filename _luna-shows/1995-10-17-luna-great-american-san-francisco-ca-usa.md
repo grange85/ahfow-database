@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-10-17: Luna - Great American, San Francisco CA, USA'
-name: 1995-10-17-luna-great-american-san-francisco-ca-usa
+artistslug: luna
 show-venue: 'Great American, San Francisco CA, USA'
 show-setlist: 
 show-date: 1995-10-17

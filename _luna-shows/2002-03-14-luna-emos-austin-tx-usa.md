@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2002-03-14: Luna - Emos, Austin TX, USA"
-name: 2002-03-14-luna-emos-austin-tx-usa
+artistslug: luna
 show-venue: "Emos, Austin TX, USA"
 show-setlist: 
 show-date: 2002-03-14

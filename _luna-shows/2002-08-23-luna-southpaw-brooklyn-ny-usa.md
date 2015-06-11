@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-08-23: Luna - Southpaw, Brooklyn NY, USA'
-name: 2002-08-23-luna-southpaw-brooklyn-ny-usa
+artistslug: luna
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: [
   "1995",

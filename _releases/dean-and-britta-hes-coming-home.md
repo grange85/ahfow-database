@@ -4,7 +4,6 @@ permalink: /dean-and-britta/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: dean-and-britta
-title: He's Coming Home / Old Toy Trains
 initial_release_date: 2007
 albumname: He's Coming Home / Old Toy Trains
 imageurl:

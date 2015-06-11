@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-10-16: Dean & Britta - Bowery Ballroom, New York NY, USA'
-name: 2007-10-16-dean-britta-bowery-ballroom-new-york-ny-usa
+artistslug: dean-and-britta
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Singer Sing",

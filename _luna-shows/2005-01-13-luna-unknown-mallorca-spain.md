@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-13: Luna - [unknown], Mallorca, Spain'
-name: 2005-01-13-luna-unknown-mallorca-spain
+artistslug: luna
 show-venue: '[unknown], Mallorca, Spain'
 show-setlist: 
 show-date: 2005-01-13

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2002-10-26: Luna - LEscalier, Liege, Belgium"
-name: 2002-10-26-luna-lescalier-liege-belgium
+artistslug: luna
 show-venue: "LEscalier, Liege, Belgium"
 show-setlist: [
   "1995",

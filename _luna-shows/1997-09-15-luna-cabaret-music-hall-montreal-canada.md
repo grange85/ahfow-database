@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-15: Luna - Cabaret Music Hall, Montreal, Canada'
-name: 1997-09-15-luna-cabaret-music-hall-montreal-canada
+artistslug: luna
 show-venue: 'Cabaret Music Hall, Montreal, Canada'
 show-setlist: 
 show-date: 1997-09-15

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-10-17: Luna - Venue, Edinburgh, UK'
-name: 1997-10-17-luna-venue-edinburgh-uk
+artistslug: luna
 show-venue: 'Venue, Edinburgh, UK'
 show-setlist: [
   "Pup Tent",

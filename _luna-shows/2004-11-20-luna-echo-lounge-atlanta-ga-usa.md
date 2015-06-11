@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-11-20: Luna - Echo Lounge, Atlanta GA, USA'
-name: 2004-11-20-luna-echo-lounge-atlanta-ga-usa
+artistslug: luna
 show-venue: 'Echo Lounge, Atlanta GA, USA'
 show-setlist: [
   "1995",

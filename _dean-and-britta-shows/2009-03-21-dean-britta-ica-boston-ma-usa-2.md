@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-03-21: Dean & Britta - ICA, Boston, MA, USA'
-name: 2009-03-21-dean-britta-ica-boston-ma-usa-2
+artistslug: dean-and-britta
 show-venue: 'ICA, Boston, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",

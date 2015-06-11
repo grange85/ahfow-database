@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-09-23: Luna - tbc, Rio de Janeiro, Brazil'
-name: 2001-09-23-luna-tbc-rio-de-janeiro-brazil
+artistslug: luna
 show-venue: 'tbc, Rio de Janeiro, Brazil'
 show-setlist: 
 show-date: 2001-09-23

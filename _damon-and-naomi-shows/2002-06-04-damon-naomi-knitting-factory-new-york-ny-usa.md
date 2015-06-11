@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-04: Damon & Naomi - Knitting Factory, New York NY, USA'
-name: 2002-06-04-damon-naomi-knitting-factory-new-york-ny-usa
+artistslug: damon-and-naomi
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 2002-06-04

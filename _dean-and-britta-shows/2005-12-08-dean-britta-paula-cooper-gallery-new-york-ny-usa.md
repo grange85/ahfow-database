@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-12-08: Dean & Britta - Paula Cooper Gallery, New York NY, USA'
-name: 2005-12-08-dean-britta-paula-cooper-gallery-new-york-ny-usa
+artistslug: dean-and-britta
 show-venue: 'Paula Cooper Gallery, New York NY, USA'
 show-setlist: [
   "Swedish Fish",

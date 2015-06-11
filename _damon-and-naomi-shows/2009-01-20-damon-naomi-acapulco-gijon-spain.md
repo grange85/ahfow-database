@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-01-20: Damon & Naomi - Acapulco, Gijon, Spain'
-name: 2009-01-20-damon-naomi-acapulco-gijon-spain
+artistslug: damon-and-naomi
 show-venue: 'Acapulco, Gijon, Spain'
 show-setlist: 
 show-date: 2009-01-20

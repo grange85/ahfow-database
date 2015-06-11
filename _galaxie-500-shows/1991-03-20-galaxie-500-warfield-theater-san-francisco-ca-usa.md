@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1991-03-20: Galaxie 500 - Warfield Theater, San Francisco CA, USA'
-name: 1991-03-20-galaxie-500-warfield-theater-san-francisco-ca-usa
+artistslug: galaxie-500
 show-venue: 'Warfield Theater, San Francisco CA, USA'
 show-setlist: [
   "When Will You Come Home",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-11-18: Luna - Southgate House, Newport KY, USA'
-name: 2004-11-18-luna-southgate-house-newport-ky-usa
+artistslug: luna
 show-venue: 'Southgate House, Newport KY, USA'
 show-setlist: [
   "Speedbumps",

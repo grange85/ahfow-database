@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-03-17: Damon & Naomi - Copa, Austin TX, USA'
-name: 2005-03-17-damon-naomi-copa-austin-tx-usa
+artistslug: damon-and-naomi
 show-venue: 'Copa, Austin TX, USA'
 show-setlist: 
 show-date: 2005-03-17

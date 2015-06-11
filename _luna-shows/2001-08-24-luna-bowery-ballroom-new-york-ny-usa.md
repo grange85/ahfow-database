@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-08-24: Luna - Bowery Ballroom, New York NY, USA'
-name: 2001-08-24-luna-bowery-ballroom-new-york-ny-usa
+artistslug: luna
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Slide Rule",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-04-09: Damon & Naomi - TT the Bears, Cambridge MA, USA'
-name: 1998-04-09-damon-naomi-tt-the-bears-cambridge-ma-usa
+artistslug: damon-and-naomi
 show-venue: 'TT the Bears, Cambridge MA, USA'
 show-setlist: 
 show-date: 1998-04-09

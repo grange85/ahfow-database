@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-03-31: Luna - Paradigm, Portland OR, USA'
-name: 2000-03-31-luna-paradigm-portland-or-usa
+artistslug: luna
 show-venue: 'Paradigm, Portland OR, USA'
 show-setlist: 
 show-date: 2000-03-31

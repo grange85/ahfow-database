@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-11-14: Luna - Middle East, Cambridge MA, USA'
-name: 2002-11-14-luna-middle-east-cambridge-ma-usa
+artistslug: luna
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: 
 show-date: 2002-11-14

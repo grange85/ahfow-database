@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-05-22: Dean & Britta - Forum de la Passerelle, Bretagne, France'
-name: 2010-05-22-dean-britta-forum-de-la-passerelle-bretagne-france
+artistslug: dean-and-britta
 show-venue: 'Forum de la Passerelle, Bretagne, France'
 show-setlist: 
 show-date: 2010-05-22

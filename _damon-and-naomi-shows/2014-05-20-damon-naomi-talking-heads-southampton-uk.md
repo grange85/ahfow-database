@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-20: Damon & Naomi - Talking Heads, Southampton, UK'
-name: 2014-05-20-damon-naomi-talking-heads-southampton-uk
+artistslug: damon-and-naomi
 show-venue: 'Talking Heads, Southampton, UK'
 show-setlist: 
 show-date: 2014-05-20

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-04-06: Dean & Britta - Getty, Los Angeles CA, USA'
-name: 2007-04-06-dean-britta-getty-los-angeles-ca-usa
+artistslug: dean-and-britta
 show-venue: 'Getty, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2007-04-06

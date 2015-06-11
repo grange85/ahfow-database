@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-11-16: Luna - Highdive, Champaign IL, USA'
-name: 2004-11-16-luna-highdive-champaign-il-usa
+artistslug: luna
 show-venue: 'Highdive, Champaign IL, USA'
 show-setlist: 
 show-date: 2004-11-16

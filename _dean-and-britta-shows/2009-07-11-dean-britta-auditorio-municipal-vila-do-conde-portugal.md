@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-07-11: Dean & Britta - Auditorio Municipal, Vila do Conde, Portugal'
-name: 2009-07-11-dean-britta-auditorio-municipal-vila-do-conde-portugal
+artistslug: dean-and-britta
 show-venue: 'Auditorio Municipal, Vila do Conde, Portugal'
 show-setlist: 
 show-date: 2009-07-11

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-28: Luna - La Zona Rosa, Austin TX, USA'
-name: 2005-01-28-luna-la-zona-rosa-austin-tx-usa
+artistslug: luna
 show-venue: 'La Zona Rosa, Austin TX, USA'
 show-setlist: [
   "Chinatown",

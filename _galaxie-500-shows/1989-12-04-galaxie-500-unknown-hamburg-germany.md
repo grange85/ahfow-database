@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-12-04: Galaxie 500 - (unknown), Hamburg, Germany'
-name: 1989-12-04-galaxie-500-unknown-hamburg-germany
+artistslug: galaxie-500
 show-venue: '(unknown), Hamburg, Germany'
 show-setlist: 
 show-date: 1989-12-04

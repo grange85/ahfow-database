@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2011-10-08: Dean & Britta - Asagiri Jam Festival, Asagiri, Japan'
-name: 2011-10-08-dean-britta-asagiri-jam-festival-asagiri-japan
+artistslug: dean-and-britta
 show-venue: 'Asagiri Jam Festival, Asagiri, Japan'
 show-setlist: 
 show-date: 2011-10-08

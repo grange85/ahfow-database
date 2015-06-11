@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-title: Damon & Naomi with Ghost
 initial_release_date: 2000
 albumname: Damon & Naomi with Ghost
 releases:

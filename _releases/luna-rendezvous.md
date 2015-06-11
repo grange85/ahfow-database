@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
-title: Rendezvous
 initial_release_date: 2004
 albumname: Rendezvous
 releases:

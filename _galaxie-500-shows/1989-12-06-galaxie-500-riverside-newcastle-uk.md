@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-12-06: Galaxie 500 - Riverside, Newcastle, UK'
-name: 1989-12-06-galaxie-500-riverside-newcastle-uk
+artistslug: galaxie-500
 show-venue: 'Riverside, Newcastle, UK'
 show-setlist: [
   "Decomposing Trees",

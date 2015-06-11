@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-02-20: Damon & Naomi - Middle East, Cambridge MA, USA'
-name: 2003-02-20-damon-naomi-middle-east-cambridge-ma-usa
+artistslug: damon-and-naomi
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: 
 show-date: 2003-02-20

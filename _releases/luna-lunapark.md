@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
-title: Lunapark
 initial_release_date: 1992
 albumname: Lunapark
 releases:

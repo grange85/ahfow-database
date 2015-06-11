@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-02-06: Luna - Abbey Pub, Chicago IL, USA'
-name: 2003-02-06-luna-abbey-pub-chicago-il-usa
+artistslug: luna
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Slide",

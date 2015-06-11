@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-12-05: Damon & Naomi - Cafe and Pop Torgal, Ourense, Spain'
-name: 2010-12-05-damon-naomi-cafe-pop-torgal-ourense-spain
+artistslug: damon-and-naomi
 show-venue: 'Cafe and Pop Torgal, Ourense, Spain'
 show-setlist: 
 show-date: 2010-12-05

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-09-04: Luna - Leadmill, Sheffield, UK'
-name: 1999-09-04-luna-leadmill-sheffield-uk
+artistslug: luna
 show-venue: 'Leadmill, Sheffield, UK'
 show-setlist: [
   "California (All the Way)",

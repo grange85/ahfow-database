@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-12-17: Luna - WXPN, Philadelphia PA, USA'
-name: 2004-12-17-luna-wxpn-philadelphia-pa-usa
+artistslug: luna
 show-venue: 'WXPN, Philadelphia PA, USA'
 show-setlist: [
   "Malibu Love Nest",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-02-16: Luna - Brooklyn Museum, Brooklyn NY, USA (first set)'
-name: 2002-02-16-luna-brooklyn-museum-brooklyn-ny-usa
+artistslug: luna
 show-venue: 'Brooklyn Museum, Brooklyn NY, USA'
 show-setlist: [
   "Egg Nog",

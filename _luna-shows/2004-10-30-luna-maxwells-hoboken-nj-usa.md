@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-10-30: Luna - Maxwells, Hoboken NJ, USA'
-name: 2004-10-30-luna-maxwells-hoboken-nj-usa
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Season Of The Witch",

@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg
-title: Within These Walls
 initial_release_date: 2007
 albumname: Within These Walls
 releases:

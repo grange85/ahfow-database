@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-11: Luna - Arena, Madrid, Spain'
-name: 2005-01-11-luna-arena-madrid-spain
+artistslug: luna
 show-venue: 'Arena, Madrid, Spain'
 show-setlist: 
 show-date: 2005-01-11

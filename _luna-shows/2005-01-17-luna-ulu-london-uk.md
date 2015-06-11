@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-17: Luna - ULU, London, UK'
-name: 2005-01-17-luna-ulu-london-uk
+artistslug: luna
 show-venue: 'ULU, London, UK'
 show-setlist: [
   "Malibu Love Nest",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-29: Damon & Naomi - Ryman Auditorium, Nashville TN, USA'
-name: 2002-10-29-damon-naomi-ryman-auditorium-nashville-tn-usa
+artistslug: damon-and-naomi
 show-venue: 'Ryman Auditorium, Nashville TN, USA'
 show-setlist: 
 show-date: 2002-10-29

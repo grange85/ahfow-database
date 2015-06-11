@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-11-14: Luna - Bikini, Barcelona, Spain'
-name: 1997-11-14-luna-bikini-barcelona-spain
+artistslug: luna
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "Sideshow By The Seashore",

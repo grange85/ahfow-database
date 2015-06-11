@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-11-22: Luna - Dark Horse Tavern, Atlanta GA, USA'
-name: 1998-11-22-luna-dark-horse-tavern-atlanta-ga-usa
+artistslug: luna
 show-venue: 'Dark Horse Tavern, Atlanta GA, USA'
 show-setlist: [
   "Egg Nog",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-07-12: Damon & Naomi - Taku Taku, Kyoto, Japan'
-name: 2002-07-12-damon-naomi-taku-taku-kyoto-japan
+artistslug: damon-and-naomi
 show-venue: 'Taku Taku, Kyoto, Japan'
 show-setlist: [
   "Turn Of The Century",

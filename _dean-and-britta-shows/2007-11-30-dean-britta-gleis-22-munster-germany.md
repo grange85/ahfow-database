@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-11-30: Dean & Britta - Gleis 22, Munster, Germany'
-name: 2007-11-30-dean-britta-gleis-22-munster-germany
+artistslug: dean-and-britta
 show-venue: 'Gleis 22, Munster, Germany'
 show-setlist: [
   "Singer Sing",

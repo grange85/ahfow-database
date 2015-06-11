@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-04-15: Damon & Naomi - Soundcheck (WNYC), New York NY, USA'
-name: 2005-04-15-damon-naomi-soundcheck-wnyc-new-york-ny-usa
+artistslug: damon-and-naomi
 show-venue: 'Soundcheck (WNYC), New York NY, USA'
 show-setlist: 
 show-date: 2005-04-15

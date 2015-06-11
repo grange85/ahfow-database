@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-04-04: Luna - Liberty Lunch, Austin TX, USA'
-name: 1998-04-04-luna-liberty-lunch-austin-tx-usa
+artistslug: luna
 show-venue: 'Liberty Lunch, Austin TX, USA'
 show-setlist: [
   "California (All the Way)",

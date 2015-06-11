@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-09-17: Damon & Naomi - Il Motore, Montreal, Canada'
-name: 2009-09-17-damon-naomi-il-motore-montreal-canada
+artistslug: damon-and-naomi
 show-venue: 'Il Motore, Montreal, Canada'
 show-setlist: 
 show-date: 2009-09-17

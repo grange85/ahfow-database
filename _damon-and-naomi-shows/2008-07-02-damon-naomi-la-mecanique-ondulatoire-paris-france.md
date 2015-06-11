@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-07-02: Damon & Naomi - La Mecanique Ondulatoire, Paris, France'
-name: 2008-07-02-damon-naomi-la-mecanique-ondulatoire-paris-france
+artistslug: damon-and-naomi
 show-venue: 'La Mecanique Ondulatoire, Paris, France'
 show-setlist: 
 show-date: 2008-07-02

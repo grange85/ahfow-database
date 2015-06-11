@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-1001-nights.jpg
-title: 1001 Nights
 initial_release_date: 2009
 albumname: 1001 Nights
 releases:

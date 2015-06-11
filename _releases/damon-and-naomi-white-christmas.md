@@ -5,7 +5,6 @@ resource: discography
 section: 02-single
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-white-christmas.jpg
-title: White Christmas
 initial_release_date: 2008
 albumname: White Christmas
 releases:

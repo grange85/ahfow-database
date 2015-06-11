@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-20: Luna - Metro, Chicago IL, USA'
-name: 1997-09-20-luna-metro-chicago-il-usa
+artistslug: luna
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

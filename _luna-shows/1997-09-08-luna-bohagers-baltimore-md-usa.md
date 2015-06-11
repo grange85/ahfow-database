@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1997-09-08: Luna - Bohagers, Baltimore MD, USA"
-name: 1997-09-08-luna-bohagers-baltimore-md-usa
+artistslug: luna
 show-venue: "Bohagers, Baltimore MD, USA"
 show-setlist: [
   "Sideshow By The Seashore",

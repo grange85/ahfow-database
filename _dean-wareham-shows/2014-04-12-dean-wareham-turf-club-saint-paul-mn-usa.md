@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-12: Dean Wareham - Turf Club, Saint Paul, MN, USA'
-name: 2014-04-12-dean-wareham-turf-club-saint-paul-mn-usa
+artistslug: dean-wareham
 show-venue: 'Turf Club, Saint Paul, MN, USA'
 show-setlist: 
 show-date: 2014-04-12

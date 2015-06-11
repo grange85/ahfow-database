@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-05-28: Damon & Naomi - Subterfugio, Valladolid, Spain'
-name: 2005-05-28-damon-naomi-subterfugio-valladolid-spain
+artistslug: damon-and-naomi
 show-venue: 'Subterfugio, Valladolid, Spain'
 show-setlist: 
 show-date: 2005-05-28

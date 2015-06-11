@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-01: Luna - Fillmore, San Francisco CA, USA'
-name: 2000-04-01-luna-fillmore-san-francisco-ca-usa
+artistslug: luna
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "Bewitched",

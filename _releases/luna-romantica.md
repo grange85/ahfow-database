@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
-title: Romantica
 initial_release_date: 2002
 albumname: Romantica
 releases:

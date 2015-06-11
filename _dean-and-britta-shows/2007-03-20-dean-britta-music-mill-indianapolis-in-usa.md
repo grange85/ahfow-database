@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-03-20: Dean & Britta - Music Mill, Indianapolis IN, USA'
-name: 2007-03-20-dean-britta-music-mill-indianapolis-in-usa
+artistslug: dean-and-britta
 show-venue: 'Music Mill, Indianapolis IN, USA'
 show-setlist: [
   "Singer Sing",

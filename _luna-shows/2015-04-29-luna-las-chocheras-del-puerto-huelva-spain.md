@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-29: Luna - Las Chocheras del Puerto, Huelva, Spain'
-name: 2015-04-29-luna-las-chocheras-del-puerto-huelva-spain
+artistslug: luna
 show-venue: 'Las Chocheras del Puerto, Huelva, Spain'
 show-setlist: 
 show-date: 2015-04-29

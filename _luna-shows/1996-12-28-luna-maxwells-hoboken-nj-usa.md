@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1996-12-28: Luna - Maxwells, Hoboken NJ, USA'
-name: 1996-12-28-luna-maxwells-hoboken-nj-usa
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

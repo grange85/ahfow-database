@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-08: Dean Wareham - Wah Wah, Valencia, Spain'
-name: 2014-05-08-dean-wareham-wah-wah-valencia-spain
+artistslug: dean-wareham
 show-venue: 'Wah Wah, Valencia, Spain'
 show-setlist: 
 show-date: 2014-05-08

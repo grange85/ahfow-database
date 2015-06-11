@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-10-22: Damon & Naomi - Fletchers, Baltimore MD, USA'
-name: 2000-10-22-damon-naomi-fletchers-baltimore-md-usa
+artistslug: damon-and-naomi
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: 
 show-date: 2000-10-22

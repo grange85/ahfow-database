@@ -1,8 +1,16 @@
----
-layout: default
----
 {% assign artist = site.data.artists[page.artistslug] %}
-{% capture title %}{{artist.name}} - {{page.title}}{% endcapture %}
+{% capture newtitle %}{{artist.name}} - {{page.albumname}}{% endcapture %}
+<html>
+  {% include head.html %}
+  <body>
+    {% include facebook.html %}
+    {% include header.html %}
+
+    {% include social.html %}
+
+      <div class="wrapper col-md-9">
+
+
 <div class="row">
     <div class="col-md-12">
                 <nav>
@@ -87,3 +95,25 @@ layout: default
         </div>
     </div>
 </div>
+      {% if page.layout == 'release' or page.layout == 'track' or page.lauyut == 'show' %}
+        <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+      {% endif %}
+
+      </div>
+
+      <div class="col-md-3">
+
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+  </body>
+
+</html>

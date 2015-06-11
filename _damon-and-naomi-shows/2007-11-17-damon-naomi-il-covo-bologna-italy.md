@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-11-17: Damon & Naomi - Il Covo, Bologna, Italy'
-name: 2007-11-17-damon-naomi-il-covo-bologna-italy
+artistslug: damon-and-naomi
 show-venue: 'Il Covo, Bologna, Italy'
 show-setlist: 
 show-date: 2007-11-17

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-05-31: Damon & Naomi - The Thing in the Spring Festival, Peterborough NH, USA'
-name: 2008-05-31-damon-naomi-the-thing-in-the-spring-festival-peterborough-nh-usa
+artistslug: damon-and-naomi
 show-venue: 'The Thing in the Spring Festival, Peterborough NH, USA'
 show-setlist: 
 show-date: 2008-05-31

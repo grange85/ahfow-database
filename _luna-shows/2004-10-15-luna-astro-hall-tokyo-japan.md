@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-10-15: Luna - Astro Hall, Tokyo, Japan'
-name: 2004-10-15-luna-astro-hall-tokyo-japan
+artistslug: luna
 show-venue: 'Astro Hall, Tokyo, Japan'
 show-setlist: [
   "Lovedust",

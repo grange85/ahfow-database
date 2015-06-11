@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-05-16: Damon & Naomi - Kuudes Linja, Helsinki, Finland'
-name: 2010-05-16-damon-naomi-kuudes-linja-helsinki-finland
+artistslug: damon-and-naomi
 show-venue: 'Kuudes Linja, Helsinki, Finland'
 show-setlist: 
 show-date: 2010-05-16

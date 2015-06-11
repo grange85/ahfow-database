@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-08: Luna - Bowery Ballroom, New York NY, USA'
-name: 2000-04-08-luna-bowery-ballroom-new-york-ny-usa
+artistslug: luna
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Pup Tent",

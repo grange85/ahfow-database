@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-11-30: Luna - Irving Plaza, New York NY, USA'
-name: 1999-11-30-luna-irving-plaza-new-york-ny-usa
+artistslug: luna
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Egg Nog",

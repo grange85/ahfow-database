@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-07-25: Damon & Naomi - Black Cat.  Washington DC, USA'
-name: 1998-07-25-damon-naomi-black-cat-washington-dc-usa
+artistslug: damon-and-naomi
 show-venue: 'Black Cat.  Washington DC, USA'
 show-setlist: 
 show-date: 1998-07-25

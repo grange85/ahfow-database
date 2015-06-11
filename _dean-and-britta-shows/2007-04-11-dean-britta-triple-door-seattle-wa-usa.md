@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-04-11: Dean & Britta - Triple Door, Seattle WA, USA'
-name: 2007-04-11-dean-britta-triple-door-seattle-wa-usa
+artistslug: dean-and-britta
 show-venue: 'Triple Door, Seattle WA, USA'
 show-setlist: 
 show-date: 2007-04-11

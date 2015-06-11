@@ -4,7 +4,6 @@ permalink: /dean-wareham/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: dean-wareham
-title: Live at St Pancras Old Church London
 initial_release_date: 2014
 albumname: Live at St Pancras Old Church London
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-live-at-st-pancras-sonic-cathedral.jpg

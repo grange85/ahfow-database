@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2003-02-04: Luna - Birdys, Indianapolis IN, USA"
-name: 2003-02-04-luna-birdys-indianapolis-in-usa
+artistslug: luna
 show-venue: "Birdys, Indianapolis IN, USA"
 show-setlist: 
 show-date: 2003-02-04

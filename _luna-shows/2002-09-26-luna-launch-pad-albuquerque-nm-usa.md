@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-09-26: Luna - Launch Pad, Albuquerque NM, USA'
-name: 2002-09-26-luna-launch-pad-albuquerque-nm-usa
+artistslug: luna
 show-venue: 'Launch Pad, Albuquerque NM, USA'
 show-setlist: 
 show-date: 2002-09-26

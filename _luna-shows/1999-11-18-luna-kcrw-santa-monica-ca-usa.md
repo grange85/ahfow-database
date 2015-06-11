@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-11-18: Luna - KCRW, Santa Monica CA, USA'
-name: 1999-11-18-luna-kcrw-santa-monica-ca-usa
+artistslug: luna
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "Dear Diary",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-06-27: Dean Wareham - Biltmore Cabaret, Vancouver, Canada'
-name: 2014-06-27-dean-wareham-biltmore-cabaret-vancouver-canada
+artistslug: dean-wareham
 show-venue: 'Biltmore Cabaret, Vancouver, Canada'
 show-setlist: 
 show-date: 2014-06-27

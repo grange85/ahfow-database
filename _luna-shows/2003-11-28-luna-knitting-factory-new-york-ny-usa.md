@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-11-28: Luna - Knitting Factory, New York NY, USA'
-name: 2003-11-28-luna-knitting-factory-new-york-ny-usa
+artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Chinatown",

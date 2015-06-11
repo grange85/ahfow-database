@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-05-31: Damon & Naomi - Intersecciones Fest, Oviedo, Spain'
-name: 2001-05-31-damon-naomi-intersecciones-fest-oviedo-spain
+artistslug: damon-and-naomi
 show-venue: 'Intersecciones Fest, Oviedo, Spain'
 show-setlist: 
 show-date: 2001-05-31

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1994-05-20: Luna - LA2, London, UK'
-name: 1994-05-20-luna-la2-london-uk
+artistslug: luna
 show-venue: 'LA2, London, UK'
 setlist-source: 'recording'
 show-setlist: [

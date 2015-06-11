@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-12-06: Dean & Britta - Forum, Bielefeld, Germany'
-name: 2007-12-06-dean-britta-forum-bielefeld-germany
+artistslug: dean-and-britta
 show-venue: 'Forum, Bielefeld, Germany'
 show-setlist: 
 show-date: 2007-12-06

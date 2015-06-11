@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-02-28: Dean & Britta - The Concert Hall, Sydney Opera House, Sydney, Australia'
-name: 2010-02-28-dean-britta-the-concert-hall-sydney-opera-house-sydney-australia
+artistslug: dean-and-britta
 show-venue: 'The Concert Hall, Sydney Opera House, Sydney, Australia'
 show-setlist: 
 show-date: 2010-02-28

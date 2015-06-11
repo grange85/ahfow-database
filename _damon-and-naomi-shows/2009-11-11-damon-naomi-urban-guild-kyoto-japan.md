@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-11-11: Damon & Naomi - Urban Guild, Kyoto, Japan'
-name: 2009-11-11-damon-naomi-urban-guild-kyoto-japan
+artistslug: damon-and-naomi
 show-venue: 'Urban Guild, Kyoto, Japan'
 show-setlist: 
 show-date: 2009-11-11

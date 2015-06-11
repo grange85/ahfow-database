@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-07-16: Dean & Britta - Eglise St Eustache, Paris, France'
-name: 2009-07-16-dean-britta-eglise-st-eustache-paris-france
+artistslug: dean-and-britta
 show-venue: 'Eglise St Eustache, Paris, France'
 show-setlist: 
 show-date: 2009-07-16

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-06-17: Dean & Britta - Social, Nottingham, UK'
-name: 2007-06-17-dean-britta-social-nottingham-uk
+artistslug: dean-and-britta
 show-venue: 'Social, Nottingham, UK'
 show-setlist: [
   "Words You Used To Say",

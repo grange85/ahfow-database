@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-18: Damon & Naomi - Cafe Oto, London, UK'
-name: 2014-05-18-damon-naomi-cafe-oto-london-uk
+artistslug: damon-and-naomi
 show-venue: 'Cafe Oto, London, UK'
 show-setlist: 
 show-date: 2014-05-18

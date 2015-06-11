@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1993-06-02: Luna - Playhouse, Edinburgh, UK'
-name: 1993-06-02-luna-playhouse-edinburgh-uk
+artistslug: luna
 show-venue: 'Playhouse, Edinburgh, UK'
 show-setlist: 
 show-date: 1993-06-02

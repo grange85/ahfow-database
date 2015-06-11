@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-07-30: Dean Wareham - Privatclub, Berlin, Germany'
-name: 2014-07-30-dean-wareham-privatclub-berlin-germany
+artistslug: dean-wareham
 show-venue: 'Privatclub, Berlin, Germany'
 show-setlist: 
 show-date: 2014-07-30

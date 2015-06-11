@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-10-05: Damon & Naomi - Wexner Center for the Arts, Columbus OH, USA'
-name: 2007-10-05-damon-naomi-wexner-center-for-the-arts-columbus-oh-usa
+artistslug: damon-and-naomi
 show-venue: 'Wexner Center for the Arts, Columbus OH, USA'
 show-setlist: 
 show-date: 2007-10-05

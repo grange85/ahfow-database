@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-21: Luna - Miller Plaza, Chattanooga TN, USA'
-name: 2002-06-21-luna-miller-plaza-chattanooga-tn-usa
+artistslug: luna
 show-venue: 'Miller Plaza, Chattanooga TN, USA'
 show-setlist: [
   "Season Of The Witch",

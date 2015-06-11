@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 04-compilation
 artistslug: galaxie-500
-title: Various Artists - Chemical Imbalance #8
 initial_release_date: 1990
 albumname: Chemical Imbalance #8
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_oblivious001.jpg

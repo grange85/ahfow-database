@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-01-31: Luna - Twilight, Tampa FL, USA'
-name: 2003-01-31-luna-twilight-tampa-fl-usa
+artistslug: luna
 show-venue: 'Twilight, Tampa FL, USA'
 show-setlist: 
 show-date: 2003-01-31

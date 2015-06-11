@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-03-22: Dean & Britta - Mercy Lounge, Nashville TN, USA'
-name: 2007-03-22-dean-britta-mercy-lounge-nashville-tn-usa
+artistslug: dean-and-britta
 show-venue: 'Mercy Lounge, Nashville TN, USA'
 show-setlist: [
   "Singer Sing",

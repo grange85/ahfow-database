@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1996-07-21: Luna - Mercury Lounge, New York NY, USA'
-name: 1996-07-21-luna-mercury-lounge-new-york-ny-usa
+artistslug: luna
 show-venue: 'Mercury Lounge, New York NY, USA'
 show-setlist: [
   "Hey Sister",

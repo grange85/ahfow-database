@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-14: Dean Wareham - The Palace, St. Gallen, Switzerland'
-name: 2014-05-14-dean-wareham-the-palace-st-gallen-switzerland
+artistslug: dean-wareham
 show-venue: 'The Palace, St. Gallen, Switzerland'
 show-setlist: 
 show-date: 2014-05-14

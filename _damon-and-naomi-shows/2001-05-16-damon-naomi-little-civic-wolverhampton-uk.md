@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-05-16: Damon & Naomi - Little Civic, Wolverhampton, UK'
-name: 2001-05-16-damon-naomi-little-civic-wolverhampton-uk
+artistslug: damon-and-naomi
 show-venue: 'Little Civic, Wolverhampton, UK'
 show-setlist: 
 show-date: 2001-05-16

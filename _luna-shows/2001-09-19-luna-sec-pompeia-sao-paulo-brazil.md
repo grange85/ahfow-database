@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-09-19: Luna - Sec Pompeia, Sao Paulo, Brazil'
-name: 2001-09-19-luna-sec-pompeia-sao-paulo-brazil
+artistslug: luna
 show-venue: 'Sec Pompeia, Sao Paulo, Brazil'
 show-setlist: 
 show-date: 2001-09-19

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-10: Luna - El Rey Theater, Los Angeles CA, USA'
-name: 2002-06-10-luna-el-rey-theater-los-angeles-ca-usa
+artistslug: luna
 show-venue: 'El Rey Theater, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2002-06-10

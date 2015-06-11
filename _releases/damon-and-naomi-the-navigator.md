@@ -5,7 +5,6 @@ resource: discography
 section: 02-single
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_navigator.jpg
-title: The Navigator / Awake in a Muddle
 initial_release_date: 1997
 albumname: The Navigator / Awake in a Muddle
 releases:

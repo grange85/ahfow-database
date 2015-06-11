@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-12-07: Luna - Somerville Theatre, Somerville MA, USA'
-name: 1999-12-07-luna-somerville-theatre-somerville-ma-usa
+artistslug: luna
 show-venue: 'Somerville Theatre, Somerville MA, USA'
 show-setlist: [
   "Pup Tent",

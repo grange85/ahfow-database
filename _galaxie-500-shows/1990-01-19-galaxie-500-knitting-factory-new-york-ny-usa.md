@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-01-19: Galaxie 500 - Knitting Factory, New York NY, USA'
-name: 1990-01-19-galaxie-500-knitting-factory-new-york-ny-usa
+artistslug: galaxie-500
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Plastic Bird",

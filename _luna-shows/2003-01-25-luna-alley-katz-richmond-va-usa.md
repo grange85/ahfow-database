@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-01-25: Luna - Alley Katz, Richmond VA, USA'
-name: 2003-01-25-luna-alley-katz-richmond-va-usa
+artistslug: luna
 show-venue: 'Alley Katz, Richmond VA, USA'
 show-setlist: 
 show-date: 2003-01-25

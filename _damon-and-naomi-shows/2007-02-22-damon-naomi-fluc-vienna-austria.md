@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-02-22: Damon & Naomi - Fluc, Vienna, Austria'
-name: 2007-02-22-damon-naomi-fluc-vienna-austria
+artistslug: damon-and-naomi
 show-venue: 'Fluc, Vienna, Austria'
 show-setlist: 
 show-date: 2007-02-22

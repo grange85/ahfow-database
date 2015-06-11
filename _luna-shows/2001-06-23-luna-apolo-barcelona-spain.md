@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-06-23: Luna - Apolo, Barcelona, Spain'
-name: 2001-06-23-luna-apolo-barcelona-spain
+artistslug: luna
 show-venue: 'Apolo, Barcelona, Spain'
 show-setlist: 
 show-date: 2001-06-23

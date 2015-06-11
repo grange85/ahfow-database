@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-02-22: Dean & Britta - Ballroom, Marfa TX, USA'
-name: 2008-02-22-dean-britta-ballroom-marfa-tx-usa
+artistslug: dean-and-britta
 show-venue: 'Ballroom, Marfa TX, USA'
 show-setlist: 
 show-date: 2008-02-22

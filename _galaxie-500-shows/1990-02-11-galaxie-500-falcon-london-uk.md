@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-02-11: Galaxie 500 - Falcon, London, UK'
-name: 1990-02-11-galaxie-500-falcon-london-uk
+artistslug: galaxie-500
 show-venue: 'Falcon, London, UK'
 show-setlist: [
   "Decomposing Trees",

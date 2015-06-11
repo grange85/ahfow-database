@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-09-14: Dean & Britta - Teatro Versace, Milan, Italy'
-name: 2009-09-14-dean-britta-teatro-versace-milan-italy
+artistslug: dean-and-britta
 show-venue: 'Teatro Versace, Milan, Italy'
 show-setlist: 
 show-date: 2009-09-14

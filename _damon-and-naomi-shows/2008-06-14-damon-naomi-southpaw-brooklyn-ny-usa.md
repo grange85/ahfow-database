@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-06-14: Damon & Naomi - Southpaw, Brooklyn NY, USA'
-name: 2008-06-14-damon-naomi-southpaw-brooklyn-ny-usa
+artistslug: damon-and-naomi
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2008-06-14

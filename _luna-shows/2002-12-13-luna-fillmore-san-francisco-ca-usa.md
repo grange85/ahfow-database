@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-12-13: Luna - Fillmore, San Francisco CA, USA'
-name: 2002-12-13-luna-fillmore-san-francisco-ca-usa
+artistslug: luna
 show-venue: 'Fillmore, San Francisco CA, USA'
 show-setlist: [
   "1995",

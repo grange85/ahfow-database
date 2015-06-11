@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-05-31: Luna - Caberet Metro, Chicago IL, USA'
-name: 2002-05-31-luna-caberet-metro-chicago-il-usa
+artistslug: luna
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: [
   "Weird And Woozy",

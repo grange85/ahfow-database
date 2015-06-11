@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-12-31: Luna - Southpaw, Brooklyn NY, USA'
-name: 2004-12-31-luna-southpaw-brooklyn-ny-usa
+artistslug: luna
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: [
   "Egg Nog",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-08-21: Dean & Britta - The Zipper Factory, 336 W. 37th St, New York NY, USA'
-name: 2008-08-21-dean-britta-the-zipper-factory-336-w-37th-st-new-york-ny-usa
+artistslug: dean-and-britta
 show-venue: 'The Zipper Factory, 336 W. 37th St, New York NY, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

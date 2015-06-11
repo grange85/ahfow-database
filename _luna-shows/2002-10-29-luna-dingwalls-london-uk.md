@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-29: Luna - Dingwalls, London, UK'
-name: 2002-10-29-luna-dingwalls-london-uk
+artistslug: luna
 show-venue: 'Dingwalls, London, UK'
 show-setlist: [
   "1995",

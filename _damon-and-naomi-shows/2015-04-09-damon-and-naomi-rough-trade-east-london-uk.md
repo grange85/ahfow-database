@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-09: Damon & Naomi - Rough Trade East, London, UK'
-name: 2015-04-09-damon-and-naomi-rough-trade-east-london-uk
+artistslug: damon-and-naomi
 show-venue: 'Rough Trade East, London, UK'
 show-setlist: [
   "Song to the Siren",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-10-10: Dean & Britta - Campbell Hall, UCSB, Santa Barbara, CA, USA'
-name: 2009-10-10-dean-britta-campbell-hall-ucsb-santa-barbara-ca-usa
+artistslug: dean-and-britta
 show-venue: 'Campbell Hall, UCSB, Santa Barbara, CA, USA'
 show-setlist: 
 show-date: 2009-10-10

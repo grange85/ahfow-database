@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2008-06-16: Damon & Naomi - Johnny Brendas, Philadelphia PA, USA"
-name: 2008-06-16-damon-naomi-johnny-brendas-philadelphia-pa-usa
+artistslug: damon-and-naomi
 show-venue: "Johnny Brendas, Philadelphia PA, USA"
 show-setlist: 
 show-date: 2008-06-16

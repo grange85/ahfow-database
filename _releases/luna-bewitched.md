@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_bewitched.jpg
-title: Bewitched
 initial_release_date: 1994
 albumname: Bewitched
 releases:

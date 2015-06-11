@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-05-09: Luna - Borders Bookstore, Boston MA, USA'
-name: 2002-05-09-luna-borders-bookstore-boston-ma-usa
+artistslug: luna
 show-venue: 'Borders Bookstore, Boston MA, USA'
 show-setlist: [
   "Tiger Lily",

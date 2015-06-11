@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-10-13: Luna - Danforth Hall, Toronto, Canada'
-name: 2015-10-13-luna-danforth-hall-toronto-canada
+artistslug: luna
 show-venue: 'Danforth Hall, Toronto, Canada'
 show-setlist: 
 show-date: 2015-10-13

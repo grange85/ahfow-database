@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-06-16: Dean & Britta - Charlotte, Leicester, UK'
-name: 2007-06-16-dean-britta-charlotte-leicester-uk
+artistslug: dean-and-britta
 show-venue: 'Charlotte, Leicester, UK'
 show-setlist: 
 show-date: 2007-06-16

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-12: Luna - Aulario La Bomba, Cadiz, Spain'
-name: 2005-01-12-luna-aulario-la-bomba-cadiz-spain
+artistslug: luna
 show-venue: 'Aulario La Bomba, Cadiz, Spain'
 show-setlist: 
 show-date: 2005-01-12

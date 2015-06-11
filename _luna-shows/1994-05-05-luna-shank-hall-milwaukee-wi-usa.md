@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1994-05-05: Luna - Shank Hall, Milwaukee, WI, USA'
-name: 1994-05-05-luna-shank-hall-milwaukee-wi-usa
+artistslug: luna
 show-venue: 'Shank Hall, Milwaukee, WI, USA'
 show-setlist: [
   "California (All the Way)",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-06-05: Dean & Britta - Teatre de Lloseta, Palma de Mallorca, Spain'
-name: 2007-06-05-dean-britta-teatre-de-lloseta-palma-de-mallorca-spain
+artistslug: dean-and-britta
 show-venue: 'Teatre de Lloseta, Palma de Mallorca, Spain'
 show-setlist: 
 show-date: 2007-06-05

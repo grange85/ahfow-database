@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1996-02-11: Luna - Point, Atlanta GA, USA'
-name: 1996-02-11-luna-point-atlanta-ga-usa
+artistslug: luna
 show-venue: 'Point, Atlanta GA, USA'
 show-setlist: [
   "Friendly Advice",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-01-20: Luna - Maxwells, Hoboken NJ, USA'
-name: 2001-01-20-luna-maxwells-hoboken-nj-usa
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: 
 show-date: 2001-01-20

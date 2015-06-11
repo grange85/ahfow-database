@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-12-31: Luna - Mercury Lounge, New York NY, USA'
-name: 2003-12-31-luna-mercury-lounge-new-york-ny-usa
+artistslug: luna
 show-venue: 'Mercury Lounge, New York NY, USA'
 show-setlist: 
 show-date: 2003-12-31

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-08-20: Luna - South Street Seaport, New York NY, USA'
-name: 2002-08-20-luna-south-street-seaport-new-york-ny-usa
+artistslug: luna
 show-venue: 'South Street Seaport, New York NY, USA'
 show-setlist: [
   "Weird And Woozy",

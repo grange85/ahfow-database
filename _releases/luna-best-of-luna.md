@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
-title: Best of Luna
 initial_release_date: 2006
 albumname: Best of Luna
 releases:

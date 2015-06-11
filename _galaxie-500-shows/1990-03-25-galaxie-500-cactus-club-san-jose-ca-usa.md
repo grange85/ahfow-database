@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-03-25: Galaxie 500 - Cactus Club, San Jose CA, USA'
-name: 1990-03-25-galaxie-500-cactus-club-san-jose-ca-usa
+artistslug: galaxie-500
 show-venue: 'Cactus Club, San Jose CA, USA'
 show-setlist: [
   "Decomposing Trees",

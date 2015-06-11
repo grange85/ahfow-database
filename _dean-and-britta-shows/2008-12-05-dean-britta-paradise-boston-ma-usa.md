@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-12-05: Dean & Britta - Paradise, Boston MA, USA'
-name: 2008-12-05-dean-britta-paradise-boston-ma-usa
+artistslug: dean-and-britta
 show-venue: 'Paradise, Boston MA, USA'
 show-setlist: 
 show-date: 2008-12-05

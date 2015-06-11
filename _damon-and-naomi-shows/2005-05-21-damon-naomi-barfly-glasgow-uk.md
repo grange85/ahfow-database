@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-05-21: Damon & Naomi - Barfly, Glasgow, UK'
-name: 2005-05-21-damon-naomi-barfly-glasgow-uk
+artistslug: damon-and-naomi
 show-venue: 'Barfly, Glasgow, UK'
 show-setlist: 
 show-date: 2005-05-21

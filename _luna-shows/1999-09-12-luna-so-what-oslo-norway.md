@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-09-12: Luna - So What, Oslo, Norway'
-name: 1999-09-12-luna-so-what-oslo-norway
+artistslug: luna
 show-venue: 'So What, Oslo, Norway'
 show-setlist: 
 show-date: 1999-09-12

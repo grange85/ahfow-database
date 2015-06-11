@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-06-19: Dean & Britta - Great American, San Francisco CA, USA'
-name: 2003-06-19-dean-britta-great-american-san-francisco-ca-usa
+artistslug: dean-and-britta
 show-venue: 'Great American, San Francisco CA, USA'
 show-setlist: [
   "Night Nurse",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-23: Dean Wareham - Islington Assembly Hall, London, UK'
-name: 2014-05-23-dean-wareham-islington-assembly-hall-london-uk
+artistslug: dean-wareham
 show-venue: 'Islington Assembly Hall, London, UK'
 show-setlist: [
   "Flowers",

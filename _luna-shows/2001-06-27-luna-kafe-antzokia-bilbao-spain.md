@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-06-27: Luna - Kafe Antzokia, Bilbao, Spain'
-name: 2001-06-27-luna-kafe-antzokia-bilbao-spain
+artistslug: luna
 show-venue: 'Kafe Antzokia, Bilbao, Spain'
 show-setlist: 
 show-date: 2001-06-27

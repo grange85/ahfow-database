@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-25: Luna - La Boule Noire, Paris, France'
-name: 2002-10-25-luna-la-boule-noire-paris-france
+artistslug: luna
 show-venue: 'La Boule Noire, Paris, France'
 show-setlist: 
 show-date: 2002-10-25

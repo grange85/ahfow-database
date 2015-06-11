@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-05-17: Luna - WHFS, Washington DC, USA'
-name: 2002-05-17-luna-whfs-washington-dc-usa
+artistslug: luna
 show-venue: 'WHFS, Washington DC, USA'
 show-setlist: [
   "Swedish Fish",

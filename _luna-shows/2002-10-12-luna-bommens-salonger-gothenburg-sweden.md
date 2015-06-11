@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-12: Luna - Bommens Salonger, Gothenburg, Sweden'
-name: 2002-10-12-luna-bommens-salonger-gothenburg-sweden
+artistslug: luna
 show-venue: 'Bommens Salonger, Gothenburg, Sweden'
 show-setlist: [
   "Lovedust",

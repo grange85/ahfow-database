@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-11-04: Luna - Coach House, San Juan Capistrano CA, USA'
-name: 1992-11-04-luna-coach-house-san-juan-capistrano-ca-usa
+artistslug: luna
 show-venue: 'Coach House, San Juan Capistrano CA, USA'
 show-setlist: [
   "Slide",

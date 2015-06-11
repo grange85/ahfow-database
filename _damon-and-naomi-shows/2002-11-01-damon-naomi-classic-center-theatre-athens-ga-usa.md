@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-11-01: Damon & Naomi - Classic Center Theatre, Athens GA, USA'
-name: 2002-11-01-damon-naomi-classic-center-theatre-athens-ga-usa
+artistslug: damon-and-naomi
 show-venue: 'Classic Center Theatre, Athens GA, USA'
 show-setlist: 
 show-date: 2002-11-01

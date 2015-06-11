@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-10-05: Luna - Trocadero, Philadelphia, PA, USA'
-name: 2015-10-05-luna-trocadero-philadelphia-pa-usa
+artistslug: luna
 show-venue: 'Trocadero, Philadelphia, PA, USA'
 show-setlist: 
 show-date: 2015-10-05

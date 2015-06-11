@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-11-26: Galaxie 500 - Batschkapp, Frankfurt, Germany'
-name: 1990-11-26-galaxie-500-batschkapp-frankfurt-germany
+artistslug: galaxie-500
 show-venue: 'Batschkapp, Frankfurt, Germany'
 show-setlist: [
   "Decomposing Trees",

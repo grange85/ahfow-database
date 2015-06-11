@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-02: Luna - Amoeba Records, San Francisco CA, USA'
-name: 2000-04-02-luna-amoeba-records-san-francisco-ca-usa
+artistslug: luna
 show-venue: 'Amoeba Records, San Francisco CA, USA'
 show-setlist: [
   "Dear Diary",

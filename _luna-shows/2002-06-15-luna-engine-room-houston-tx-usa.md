@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-15: Luna - Engine Room, Houston TX, USA'
-name: 2002-06-15-luna-engine-room-houston-tx-usa
+artistslug: luna
 show-venue: 'Engine Room, Houston TX, USA'
 show-setlist: 
 show-date: 2002-06-15

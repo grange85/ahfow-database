@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-13: Luna - Paradise, Boston MA, USA'
-name: 1997-09-13-luna-paradise-boston-ma-usa
+artistslug: luna
 show-venue: 'Paradise, Boston MA, USA'
 show-setlist: 
 show-date: 1997-09-13

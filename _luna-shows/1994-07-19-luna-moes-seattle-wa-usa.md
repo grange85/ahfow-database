@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1994-07-19: Luna - Moes, Seattle WA, USA"
-name: 1994-07-19-luna-moes-seattle-wa-usa
+artistslug: luna
 show-venue: "Moes, Seattle WA, USA"
 show-setlist: [
   "California (All the Way)",

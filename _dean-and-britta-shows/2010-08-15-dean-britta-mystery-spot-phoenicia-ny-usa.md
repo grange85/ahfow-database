@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-08-15: Dean & Britta - Mystery Spot, Phoenicia, NY, USA'
-name: 2010-08-15-dean-britta-mystery-spot-phoenicia-ny-usa
+artistslug: dean-and-britta
 show-venue: 'Mystery Spot, Phoenicia, NY, USA'
 show-setlist: 
 show-date: 2010-08-15

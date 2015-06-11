@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-04: Dean Wareham - U Street, Washington DC, USA'
-name: 2014-04-04-dean-wareham-u-street-washington-dc-usa
+artistslug: dean-wareham
 show-venue: 'U Street, Washington DC, USA'
 show-setlist: 
 show-date: 2014-04-04

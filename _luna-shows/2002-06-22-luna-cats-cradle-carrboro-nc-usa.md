@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2002-06-22: Luna - Cats Cradle, Carrboro NC, USA"
-name: 2002-06-22-luna-cats-cradle-carrboro-nc-usa
+artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 2002-06-22

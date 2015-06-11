@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-07: Damon & Naomi - Gullivers, Manchester UK'
-name: 2015-04-07-damon-naomi-gullivers-manchester-uk
+artistslug: damon-and-naomi
 show-venue: 'Gullivers, Manchester UK'
 show-setlist: 
 show-date: 2015-04-07

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2006-03-12: Damon & Naomi - Museum of Fine Arts, Boston MA, USA'
-name: 2006-03-12-damon-naomi-museum-of-fine-arts-boston-ma-usa
+artistslug: damon-and-naomi
 show-venue: 'Museum of Fine Arts, Boston MA, USA'
 show-setlist: 
 show-date: 2006-03-12

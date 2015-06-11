@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-03-03: Damon & Naomi - El Mocambo, Toronto, Canada'
-name: 2005-03-03-damon-naomi-el-mocambo-toronto-canada
+artistslug: damon-and-naomi
 show-venue: 'El Mocambo, Toronto, Canada'
 show-setlist: 
 show-date: 2005-03-03

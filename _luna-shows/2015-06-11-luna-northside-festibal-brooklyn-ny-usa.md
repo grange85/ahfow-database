@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-06-11: Luna - Northside Festival, Brooklyn, NY, USA'
-name: 2015-06-11-luna-northside-festibal-brooklyn-ny-usa
+artistslug: luna
 show-venue: 'Northside Festival, Brooklyn, NY, USA'
 show-setlist: [
   ]

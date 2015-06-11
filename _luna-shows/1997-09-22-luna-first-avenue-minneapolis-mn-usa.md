@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-22: Luna - First avenue, Minneapolis MN, USA'
-name: 1997-09-22-luna-first-avenue-minneapolis-mn-usa
+artistslug: luna
 show-venue: 'First avenue, Minneapolis MN, USA'
 show-setlist: 
 show-date: 1997-09-22

@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: galaxie-500
-title: Galaxie 500 - Copenhagen 
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1997
 albumname: Copenhagen

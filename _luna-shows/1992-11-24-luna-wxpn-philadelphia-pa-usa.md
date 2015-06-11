@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-11-24: Luna - WXPN, Philadelphia PA, USA'
-name: 1992-11-24-luna-wxpn-philadelphia-pa-usa
+artistslug: luna
 show-venue: 'WXPN, Philadelphia PA, USA'
 show-setlist: 
 show-date: 1992-11-24

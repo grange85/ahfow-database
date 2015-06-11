@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-15: Luna - Penn State, Penn State PA, USA'
-name: 2000-04-15-luna-penn-state-penn-state-pa-usa
+artistslug: luna
 show-venue: 'Penn State, Penn State PA, USA'
 show-setlist: 
 show-date: 2000-04-15

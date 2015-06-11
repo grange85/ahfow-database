@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-10-06: Luna - Roxy, Valencia, Spain'
-name: 1999-10-06-luna-roxy-valencia-spain
+artistslug: luna
 show-venue: 'Roxy, Valencia, Spain'
 show-setlist: 
 show-date: 1999-10-06

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-11-11: Luna - Crocodile Cafe, Seattle WA, USA'
-name: 1999-11-11-luna-crocodile-cafe-seattle-wa-usa
+artistslug: luna
 show-venue: 'Crocodile Cafe, Seattle WA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

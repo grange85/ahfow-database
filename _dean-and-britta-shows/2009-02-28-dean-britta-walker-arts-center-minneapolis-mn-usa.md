@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-02-28: Dean & Britta - Walker Arts Center, Minneapolis MN, USA '
-name: 2009-02-28-dean-britta-walker-arts-center-minneapolis-mn-usa
+artistslug: dean-and-britta
 show-venue: 'Walker Arts Center, Minneapolis MN, USA '
 show-setlist: 
 show-date: 2009-02-28

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-07-16: Luna - Castle Clinton, Battery Park, New York, NY, USA'
-name: 1998-07-16-luna-castle-clinton-battery-park-new-york-ny-usa
+artistslug: luna
 show-venue: 'Castle Clinton, Battery Park, New York, NY, USA'
 show-setlist: [
   "Friendly Advice",

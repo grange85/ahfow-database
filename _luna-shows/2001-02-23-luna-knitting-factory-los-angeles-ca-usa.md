@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-02-23: Luna - Knitting Factory, Los Angeles CA, USA'
-name: 2001-02-23-luna-knitting-factory-los-angeles-ca-usa
+artistslug: luna
 show-venue: 'Knitting Factory, Los Angeles CA, USA'
 show-setlist: [
   "Egg Nog",

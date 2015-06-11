@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-04-15: Damon & Naomi - Lunapark, Los Angeles CA, USA'
-name: 1998-04-15-damon-naomi-lunapark-los-angeles-ca-usa
+artistslug: luna
 show-venue: 'Lunapark, Los Angeles CA, USA'
 show-setlist: 
 show-date: 1998-04-15

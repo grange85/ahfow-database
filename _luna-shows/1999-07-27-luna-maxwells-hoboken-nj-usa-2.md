@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-07-27: Luna - Maxwells, Hoboken NJ, USA'
-name: 1999-07-27-luna-maxwells-hoboken-nj-usa-2
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "The Slow Song",

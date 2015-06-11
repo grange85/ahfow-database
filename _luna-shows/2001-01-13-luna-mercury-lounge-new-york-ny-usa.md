@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-01-13: Luna - Mercury Lounge, New York NY, USA'
-name: 2001-01-13-luna-mercury-lounge-new-york-ny-usa
+artistslug: luna
 show-venue: 'Mercury Lounge, New York NY, USA'
 show-setlist: 
 show-date: 2001-01-13

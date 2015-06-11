@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-16: Dean Wareham - Mattatoio Culture Club, Carpi Modena, Italy'
-name: 2014-05-16-dean-wareham-mattatoio-culture-club-carpi-modena-italy
+artistslug: dean-wareham
 show-venue: 'Mattatoio Culture Club, Carpi Modena, Italy'
 show-setlist: 
 show-date: 2014-05-16

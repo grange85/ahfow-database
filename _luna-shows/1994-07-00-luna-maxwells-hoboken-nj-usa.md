@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1994-07-00: Luna - Maxwells, Hoboken NJ, USA'
-name: 1994-07-00-luna-maxwells-hoboken-nj-usa
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: 
 show-date: 1994-07-00

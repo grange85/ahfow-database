@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-09-08: Luna - NYU, New York NY, USA'
-name: 1995-09-08-luna-nyu-new-york-ny-usa
+artistslug: luna
 show-venue: 'NYU, New York NY, USA'
 show-setlist: [
   "Friendly Advice",

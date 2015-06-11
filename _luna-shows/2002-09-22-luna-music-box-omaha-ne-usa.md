@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-09-22: Luna - Music Box, Omaha NE, USA'
-name: 2002-09-22-luna-music-box-omaha-ne-usa
+artistslug: luna
 show-venue: 'Music Box, Omaha NE, USA'
 show-setlist: 
 show-date: 2002-09-22

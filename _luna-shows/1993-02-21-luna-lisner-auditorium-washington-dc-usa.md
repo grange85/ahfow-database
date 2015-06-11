@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1993-02-21: Luna - Lisner Auditorium, Washington DC, USA'
-name: 1993-02-21-luna-lisner-auditorium-washington-dc-usa
+artistslug: luna
 show-venue: 'Lisner Auditorium, Washington DC, USA'
 show-setlist: 
 show-date: 1993-02-21

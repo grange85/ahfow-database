@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-11-08: Galaxie 500 - Powerhaus, London, UK'
-name: 1989-11-08-galaxie-500-powerhaus-london-uk
+artistslug: galaxie-500
 show-venue: 'Powerhaus, London, UK'
 show-setlist: 
 show-date: 1989-11-08

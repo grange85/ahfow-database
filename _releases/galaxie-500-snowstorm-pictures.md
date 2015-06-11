@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 04-promo
 artistslug: galaxie-500
-title: Galaxie 500 - Snowstorm / Pictures
 categories : [discography, galaxie-500, single]
 initial_release_date: 2004
 albumname: Snowstorm / Pictures

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-24: Dean Wareham - Amoeba Records, Los Angeles, CA, USA'
-name: 2014-04-24-dean-wareham-amoeba-records-los-angeles-ca-usa
+artistslug: dean-wareham
 show-venue: 'Amoeba Records, Los Angeles, CA, USA'
 show-setlist: 
 show-date: 2014-04-24

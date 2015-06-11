@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-04-23: Damon & Naomi - 400 Bar, Minneapolis MN, USA'
-name: 2005-04-23-damon-naomi-400-bar-minneapolis-mn-usa
+artistslug: damon-and-naomi
 show-venue: '400 Bar, Minneapolis MN, USA'
 show-setlist: 
 show-date: 2005-04-23

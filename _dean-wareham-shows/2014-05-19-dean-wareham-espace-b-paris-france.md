@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-19: Dean Wareham - Espace B, Paris, France'
-name: 2014-05-19-dean-wareham-espace-b-paris-france
+artistslug: dean-wareham
 show-venue: 'Espace B, Paris, France'
 show-setlist: 
 show-date: 2014-05-19

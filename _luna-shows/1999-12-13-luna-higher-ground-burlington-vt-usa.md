@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-12-13: Luna - Higher Ground, Burlington VT, USA'
-name: 1999-12-13-luna-higher-ground-burlington-vt-usa
+artistslug: luna
 show-venue: 'Higher Ground, Burlington VT, USA'
 show-setlist: [
   "Egg Nog",

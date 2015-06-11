@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-10-21: Luna - Roseland, New York NY, USA'
-name: 2003-10-21-luna-roseland-new-york-ny-usa
+artistslug: luna
 show-venue: 'Roseland, New York NY, USA'
 show-setlist: 
 show-date: 2003-10-21

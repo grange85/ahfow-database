@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-04-18: Damon & Naomi - World Cafe Live, Philadelphia PA, USA'
-name: 2005-04-18-damon-naomi-world-cafe-live-philadelphia-pa-usa
+artistslug: damon-and-naomi
 show-venue: 'World Cafe Live, Philadelphia PA, USA'
 show-setlist: 
 show-date: 2005-04-18

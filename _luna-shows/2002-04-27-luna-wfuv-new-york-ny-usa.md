@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-04-27: Luna - WFUV, New York NY, USA'
-name: 2002-04-27-luna-wfuv-new-york-ny-usa
+artistslug: luna
 show-venue: 'WFUV, New York NY, USA'
 show-setlist: [
   "1995",

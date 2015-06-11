@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-09-20: Luna - Mojos, Columbia MO, USA'
-name: 2002-09-20-luna-mojos-columbia-mo-usa
+artistslug: luna
 show-venue: 'Mojos, Columbia MO, USA'
 show-setlist: 
 show-date: 2002-09-20

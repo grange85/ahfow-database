@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1996-10-05: Luna - (unknown), Pradejon, Spain'
-name: 1996-10-05-luna-unknown-pradejon-spain
+artistslug: luna
 show-venue: '(unknown), Pradejon, Spain'
 show-setlist: 
 show-date: 1996-10-05

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-03: Luna - Fox Theatre, Boulder CO, USA'
-name: 2000-04-03-luna-fox-theatre-boulder-co-usa
+artistslug: luna
 show-venue: 'Fox Theatre, Boulder CO, USA'
 show-setlist: [
   "Bewitched",

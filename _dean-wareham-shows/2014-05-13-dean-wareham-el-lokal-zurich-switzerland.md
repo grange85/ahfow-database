@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-13: Dean Wareham - El Lokal, Zurich, Switzerland'
-name: 2014-05-13-dean-wareham-el-lokal-zurich-switzerland
+artistslug: dean-wareham
 show-venue: 'El Lokal, Zurich, Switzerland'
 show-setlist: 
 show-date: 2014-05-13

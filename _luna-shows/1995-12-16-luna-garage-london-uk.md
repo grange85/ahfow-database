@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-12-16: Luna - Garage, London, UK'
-name: 1995-12-16-luna-garage-london-uk
+artistslug: luna
 show-venue: 'Garage, London, UK'
 show-setlist: [
   "Friendly Advice",

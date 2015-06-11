@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-05-21: Dean Wareham - The Prince Albert, Brighton, UK'
-name: 2014-05-21-dean-wareham-the-prince-albert-brighton-uk
+artistslug: dean-wareham
 show-venue: 'The Prince Albert, Brighton, UK'
 show-setlist: [
   "Flowers",

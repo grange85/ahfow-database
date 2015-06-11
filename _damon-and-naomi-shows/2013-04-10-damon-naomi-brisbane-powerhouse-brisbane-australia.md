@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2013-04-10: Damon & Naomi - Brisbane Powerhouse, Brisbane, Australia'
-name: 2013-04-10-damon-naomi-brisbane-powerhouse-brisbane-australia
+artistslug: damon-and-naomi
 show-venue: 'Brisbane Powerhouse, Brisbane, Australia'
 show-setlist: 
 show-date: 2013-04-10

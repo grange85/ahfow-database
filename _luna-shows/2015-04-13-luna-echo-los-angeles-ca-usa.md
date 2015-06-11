@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-13: Luna - The Echo, Los Angeles, CA, USA'
-name: 2015-04-13-luna-echo-los-angeles-ca-usa
+artistslug: luna
 show-venue: 'The Echo, Los Angeles, CA, USA'
 show-setlist: [
   "Slide",

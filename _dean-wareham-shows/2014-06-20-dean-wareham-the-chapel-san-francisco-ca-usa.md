@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-06-20: Dean Wareham - The Chapel, San Francisco, CA, USA'
-name: 2014-06-20-dean-wareham-the-chapel-san-francisco-ca-usa
+artistslug: dean-wareham
 show-venue: 'The Chapel, San Francisco, CA, USA'
 show-notes: ''
 show-setlist: 

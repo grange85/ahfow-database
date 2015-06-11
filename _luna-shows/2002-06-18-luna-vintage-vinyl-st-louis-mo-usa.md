@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-18: Luna - Vintage Vinyl, St Louis MO, USA'
-name: 2002-06-18-luna-vintage-vinyl-st-louis-mo-usa
+artistslug: luna
 show-venue: 'Vintage Vinyl, St Louis MO, USA'
 show-setlist: 
 show-date: 2002-06-18

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-09-15: Luna - Logo, Hamburg, Germany'
-name: 1999-09-15-luna-logo-hamburg-germany
+artistslug: luna
 show-venue: 'Logo, Hamburg, Germany'
 show-setlist: 
 show-date: 1999-09-15

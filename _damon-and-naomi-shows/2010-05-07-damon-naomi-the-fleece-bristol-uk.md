@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-05-07: Damon & Naomi - The Fleece, Bristol, UK'
-name: 2010-05-07-damon-naomi-the-fleece-bristol-uk
+artistslug: damon-and-naomi
 show-venue: 'The Fleece, Bristol, UK'
 show-setlist: 
 show-date: 2010-05-07

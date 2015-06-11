@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2003-06-28: Luna - Hard Club, Oporto, Portugal'
-name: 2003-06-28-luna-hard-club-oporto-portugal
+artistslug: luna
 show-venue: 'Hard Club, Oporto, Portugal'
 show-setlist: 
 show-date: 2003-06-28

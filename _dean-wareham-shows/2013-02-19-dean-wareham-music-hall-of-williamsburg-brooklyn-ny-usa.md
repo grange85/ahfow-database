@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2013-02-19: Dean Wareham -  Music Hall of Williamsburg, Brooklyn, NY, USA'
-name: 2013-02-19-dean-wareham-music-hall-of-williamsburg-brooklyn-ny-usa
+artistslug: dean-wareham
 show-venue: ' Music Hall of Williamsburg, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2013-02-19

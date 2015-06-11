@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2000-05-03: Luna - Howlin Wolf, New Orleans LA, USA"
-name: 2000-05-03-luna-howlin-wolf-new-orleans-la-usa
+artistslug: luna
 show-venue: "Howlin Wolf, New Orleans LA, USA"
 show-setlist: 
 show-date: 2000-05-03

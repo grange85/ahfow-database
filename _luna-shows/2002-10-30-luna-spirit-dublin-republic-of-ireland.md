@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-30: Luna - Spirit, Dublin, Republic of Ireland'
-name: 2002-10-30-luna-spirit-dublin-republic-of-ireland
+artistslug: luna
 show-venue: 'Spirit, Dublin, Republic of Ireland'
 show-setlist: 
 show-date: 2002-10-30

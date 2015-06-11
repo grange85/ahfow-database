@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-01-15: Luna - Trax, Charlottesville VA, USA'
-name: 1998-01-15-luna-trax-charlottesville-va-usa
+artistslug: luna
 show-venue: 'Trax, Charlottesville VA, USA'
 show-setlist: [
   "Season Of The Witch",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1994-05-06: Luna - Caberet Metro, Chicago IL, USA'
-name: 1994-05-06-luna-caberet-metro-chicago-il-usa
+artistslug: luna
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: 
 show-date: 1994-05-06

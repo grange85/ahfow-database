@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-03-17: Dean & Britta - Cedar Cultural Center, Minneapolis MN, USA'
-name: 2007-03-17-dean-britta-cedar-cultural-center-minneapolis-mn-usa
+artistslug: dean-and-britta
 show-venue: 'Cedar Cultural Center, Minneapolis MN, USA'
 show-setlist: [
   "Singer Sing",

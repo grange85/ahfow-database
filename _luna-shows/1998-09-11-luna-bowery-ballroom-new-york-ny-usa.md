@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-09-11: Luna - Bowery Ballroom, New York NY, USA'
-name: 1998-09-11-luna-bowery-ballroom-new-york-ny-usa
+artistslug: luna
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Egg Nog",

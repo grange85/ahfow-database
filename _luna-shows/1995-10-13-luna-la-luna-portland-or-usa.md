@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-10-13: Luna - La Luna, Portland OR, USA'
-name: 1995-10-13-luna-la-luna-portland-or-usa
+artistslug: luna
 show-venue: 'La Luna, Portland OR, USA'
 show-setlist: [
   "Friendly Advice",

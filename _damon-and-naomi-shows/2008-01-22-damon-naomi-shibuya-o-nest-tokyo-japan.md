@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-01-22: Damon & Naomi - Shibuya, O-Nest, Tokyo, Japan'
-name: 2008-01-22-damon-naomi-shibuya-o-nest-tokyo-japan
+artistslug: damon-and-naomi
 show-venue: 'Shibuya, O-Nest, Tokyo, Japan'
 show-setlist: 
 show-date: 2008-01-22

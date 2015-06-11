@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: galaxie-500
-title: Galaxie 500 - Blue Thunder
 initial_release_date: 1989
 albumname: Blue Thunder
 imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif

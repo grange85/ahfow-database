@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-04-28: Luna - XFM, London, UK'
-name: 1999-04-28-luna-xfm-london-uk
+artistslug: luna
 show-venue: 'XFM, London, UK'
 show-setlist: 
 show-date: 1999-04-28

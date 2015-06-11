@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1996-01-20: Luna - Cats Cradle, Carrboro NC, USA"
-name: 1996-01-20-luna-cats-cradle-carrboro-nc-usa
+artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Double Feature",

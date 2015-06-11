@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-09-02: Luna - Bumbershoot, Seattle WA, USA'
-name: 2002-09-02-luna-bumbershoot-seattle-wa-usa
+artistslug: luna
 show-venue: 'Bumbershoot, Seattle WA, USA'
 show-setlist: [
   "1995",

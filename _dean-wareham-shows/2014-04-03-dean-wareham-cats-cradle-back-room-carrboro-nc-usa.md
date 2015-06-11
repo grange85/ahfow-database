@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-03: Dean Wareham - Cats Cradle Back Room, Carrboro, NC, USA'
-name: 2014-04-03-dean-wareham-cats-cradle-back-room-carrboro-nc-usa
+artistslug: dean-wareham
 show-venue: 'Cats Cradle Back Room, Carrboro, NC, USA'
 show-setlist: 
 show-date: 2014-04-03

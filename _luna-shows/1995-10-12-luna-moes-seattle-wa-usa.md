@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1995-10-12: Luna - Moes, Seattle WA, USA"
-name: 1995-10-12-luna-moes-seattle-wa-usa
+artistslug: luna
 show-venue: "Moes, Seattle WA, USA"
 show-setlist: [
   "Friendly Advice",

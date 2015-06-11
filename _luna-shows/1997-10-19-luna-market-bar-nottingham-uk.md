@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-10-19: Luna - Market Bar, Nottingham, UK'
-name: 1997-10-19-luna-market-bar-nottingham-uk
+artistslug: luna
 show-venue: 'Market Bar, Nottingham, UK'
 show-setlist: 
 show-date: 1997-10-19

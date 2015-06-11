@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-06: Luna - 9:30 Club, Washington DC, USA'
-name: 1997-09-06-luna-930-club-washington-dc-usa
+artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: 
 show-date: 1997-09-06

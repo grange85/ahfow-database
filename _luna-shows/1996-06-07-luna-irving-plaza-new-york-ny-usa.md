@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1996-06-07: Luna - Irving Plaza, New York NY, USA'
-name: 1996-06-07-luna-irving-plaza-new-york-ny-usa
+artistslug: luna
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Slide",

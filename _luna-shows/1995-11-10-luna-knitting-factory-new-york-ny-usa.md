@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-11-10: Luna - Knitting Factory, New York NY, USA'
-name: 1995-11-10-luna-knitting-factory-new-york-ny-usa
+artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 1995-11-10

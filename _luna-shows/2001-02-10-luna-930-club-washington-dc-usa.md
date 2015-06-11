@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-02-10: Luna - 9:30 Club, Washington DC, USA'
-name: 2001-02-10-luna-930-club-washington-dc-usa
+artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Sideshow By The Seashore",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1988-12-02: Galaxie 500 - Forum, Enger, Germany'
-name: 1988-12-02-galaxie-500-forum-enger-germany
+artistslug: galaxie-500
 show-venue: 'Forum, Enger, Germany'
 show-setlist: [
   "Flowers",

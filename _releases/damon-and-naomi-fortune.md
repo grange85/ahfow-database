@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
-title: False Beats and True Hearts
 initial_release_date: 2011
 albumname: False Beats and True Hearts
 releases:

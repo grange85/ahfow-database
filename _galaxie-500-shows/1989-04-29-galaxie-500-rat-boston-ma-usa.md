@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-04-29: Galaxie 500 - Rat, Boston MA, USA'
-name: 1989-04-29-galaxie-500-rat-boston-ma-usa
+artistslug: galaxie-500
 show-venue: 'Rat, Boston MA, USA'
 show-setlist: [
   "Flowers",

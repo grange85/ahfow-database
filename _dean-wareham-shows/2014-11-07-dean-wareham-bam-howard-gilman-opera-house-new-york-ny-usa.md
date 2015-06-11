@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-11-07: Dean Wareham - BAM Howard Gilman Opera House, New York, NY, USA'
-name: 2014-11-07-dean-wareham-bam-howard-gilman-opera-house-new-york-ny-usa
+artistslug: dean-wareham
 show-venue: 'BAM Howard Gilman Opera House, New York, NY, USA'
 show-setlist: 
 show-date: 2014-11-07

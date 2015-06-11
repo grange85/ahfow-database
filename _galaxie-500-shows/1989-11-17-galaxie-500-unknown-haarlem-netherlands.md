@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-11-17: Galaxie 500 - (unknown), Haarlem, Netherlands'
-name: 1989-11-17-galaxie-500-unknown-haarlem-netherlands
+artistslug: galaxie-500
 show-venue: '(unknown), Haarlem, Netherlands'
 show-setlist: 
 show-date: 1989-11-17

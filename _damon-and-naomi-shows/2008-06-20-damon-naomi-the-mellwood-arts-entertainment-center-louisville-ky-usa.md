@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-06-20: Damon & Naomi -  The Mellwood Arts and Entertainment Center, Louisville KY, USA'
-name: 2008-06-20-damon-naomi-the-mellwood-arts-entertainment-center-louisville-ky-usa
+artistslug: damon-and-naomi
 show-venue: ' The Mellwood Arts and Entertainment Center, Louisville KY, USA'
 show-setlist: 
 show-date: 2008-06-20

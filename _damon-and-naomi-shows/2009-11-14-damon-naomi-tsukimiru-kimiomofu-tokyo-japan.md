@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-11-14: Damon & Naomi - Tsukimiru kimiomofu, Tokyo, Japan'
-name: 2009-11-14-damon-naomi-tsukimiru-kimiomofu-tokyo-japan
+artistslug: damon-and-naomi
 show-venue: 'Tsukimiru kimiomofu, Tokyo, Japan'
 show-setlist: 
 show-date: 2009-11-14

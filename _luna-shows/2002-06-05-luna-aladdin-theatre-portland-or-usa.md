@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-05: Luna - Aladdin Theatre, Portland OR, USA'
-name: 2002-06-05-luna-aladdin-theatre-portland-or-usa
+artistslug: luna
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Bewitched",

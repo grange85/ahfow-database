@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-06-25: Damon & Naomi - Whelans, Dublin, Ireland'
-name: 2008-06-25-damon-naomi-whelans-dublin-ireland
+artistslug: damon-and-naomi
 show-venue: 'Whelans, Dublin, Ireland'
 show-setlist: 
 show-date: 2008-06-25

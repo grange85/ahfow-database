@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-07-16: Damon & Naomi - Star, Tokyo, Japan'
-name: 2002-07-16-damon-naomi-star-tokyo-japan
+artistslug: damon-and-naomi
 show-venue: 'Star, Tokyo, Japan'
 show-setlist: [
   "Judah and the Maccabees",

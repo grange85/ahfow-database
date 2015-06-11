@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1997-09-05: Luna - Cats Cradle, Carrboro NC, USA"
-name: 1997-09-05-luna-cats-cradle-carrboro-nc-usa
+artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Fuzzy Wuzzy",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-11-11: Galaxie 500 - Bierkeller, Bristol, UK'
-name: 1990-11-11-galaxie-500-bierkeller-bristol-uk
+artistslug: galaxie-500
 show-venue: 'Bierkeller, Bristol, UK'
 show-setlist: 
 show-date: 1990-11-11

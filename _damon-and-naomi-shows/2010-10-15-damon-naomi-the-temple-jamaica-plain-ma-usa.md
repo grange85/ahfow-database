@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-10-15: Damon & Naomi - The Temple, Jamaica Plain MA, USA '
-name: 2010-10-15-damon-naomi-the-temple-jamaica-plain-ma-usa
+artistslug: damon-and-naomi
 show-venue: 'The Temple, Jamaica Plain MA, USA '
 show-setlist: 
 show-date: 2010-10-15

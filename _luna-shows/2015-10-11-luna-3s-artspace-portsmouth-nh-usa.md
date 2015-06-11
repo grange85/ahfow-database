@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-10-11: Luna - 3S Artspace, Portsmouth, NH, USA'
-name: 2015-10-11-luna-3s-artspace-portsmouth-nh-usa
+artistslug: luna
 show-venue: '3S Artspace, Portsmouth, NH, USA'
 show-setlist: 
 show-date: 2015-10-11

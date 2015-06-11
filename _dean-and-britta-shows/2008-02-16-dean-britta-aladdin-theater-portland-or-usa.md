@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2008-02-16: Dean & Britta - Aladdin Theater, Portland OR, USA'
-name: 2008-02-16-dean-britta-aladdin-theater-portland-or-usa
+artistslug: dean-and-britta
 show-venue: 'Aladdin Theater, Portland OR, USA'
 show-setlist: [
   "Teenage Lightning",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2013-12-05: Dean Wareham - St. Pancras Old Church, London, UK'
-name: 2013-12-05-dean-wareham-st-pancras-old-church-london-uk
+artistslug: dean-wareham
 show-venue: 'St. Pancras Old Church, London, UK'
 show-setlist: [
   "Love Is Colder Than Death",

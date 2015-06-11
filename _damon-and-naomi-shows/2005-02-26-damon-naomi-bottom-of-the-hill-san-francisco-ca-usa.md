@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-02-26: Damon & Naomi - Bottom of the Hill, San Francisco CA, USA'
-name: 2005-02-26-damon-naomi-bottom-of-the-hill-san-francisco-ca-usa
+artistslug: damon-and-naomi
 show-venue: 'Bottom of the Hill, San Francisco CA, USA'
 show-setlist: 
 show-date: 2005-02-26

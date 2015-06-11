@@ -4,7 +4,6 @@ permalink: /dean-and-britta/releases/:title.html
 resource: discography
 section: 01-album
 artistslug: dean-and-britta
-title: L'Avventura
 initial_release_date: 2003
 albumname: L'Avventura
 imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg

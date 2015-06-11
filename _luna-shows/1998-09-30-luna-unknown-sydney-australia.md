@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-09-30: Luna - (unknown), Sydney, Australia'
-name: 1998-09-30-luna-unknown-sydney-australia
+artistslug: luna
 show-venue: '(unknown), Sydney, Australia'
 show-setlist: 
 show-date: 1998-09-30

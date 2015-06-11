@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-14: Luna - La Zona Rosa, Austin TX, USA'
-name: 2002-06-14-luna-la-zona-rosa-austin-tx-usa
+artistslug: luna
 show-venue: 'La Zona Rosa, Austin TX, USA'
 show-setlist: [
   "Chinatown",

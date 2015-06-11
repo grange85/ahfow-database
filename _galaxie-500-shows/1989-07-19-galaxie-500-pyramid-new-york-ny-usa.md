@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-07-19: Galaxie 500 - Pyramid, New York NY, USA'
-name: 1989-07-19-galaxie-500-pyramid-new-york-ny-usa
+artistslug: galaxie-500
 show-venue: 'Pyramid, New York NY, USA'
 show-setlist: [
   "Plastic Bird",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-18: Luna - Escenario Santander, Santander, Spain'
-name: 2015-04-18-luna-escenario-santander-santander-spain
+artistslug: luna
 show-venue: 'Escenario Santander, Santander, Spain'
 show-setlist: [
   "Slide",

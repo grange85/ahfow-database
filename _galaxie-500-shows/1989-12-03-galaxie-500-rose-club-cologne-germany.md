@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-12-03: Galaxie 500 - Rose Club, Cologne, Germany'
-name: 1989-12-03-galaxie-500-rose-club-cologne-germany
+artistslug: galaxie-500
 show-venue: 'Rose Club, Cologne, Germany'
 show-setlist: 
 show-date: 1989-12-03

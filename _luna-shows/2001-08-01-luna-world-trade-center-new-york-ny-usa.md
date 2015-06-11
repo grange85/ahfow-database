@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-08-01: Luna - World Trade Center, New York NY, USA'
-name: 2001-08-01-luna-world-trade-center-new-york-ny-usa
+artistslug: luna
 show-venue: 'World Trade Center, New York NY, USA'
 show-setlist: [
   "Egg Nog",

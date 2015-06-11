@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-02-09: Luna - Trocadero, Philadelphia PA, USA'
-name: 2001-02-09-luna-trocadero-philadelphia-pa-usa
+artistslug: luna
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: 
 show-date: 2001-02-09

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-10-17: Dean & Britta - Pure Pop Records, Melbourne, Australia'
-name: 2009-10-17-dean-britta-pure-pop-records-melbourne-australia
+artistslug: dean-and-britta
 show-venue: 'Pure Pop Records, Melbourne, Australia'
 show-setlist: [
   "Tiger Lily",

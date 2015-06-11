@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-15: Luna - Azkena, Bibao, Spain'
-name: 2005-01-15-luna-azkena-bibao-spain
+artistslug: luna
 show-venue: 'Azkena, Bibao, Spain'
 show-setlist: 
 show-date: 2005-01-15

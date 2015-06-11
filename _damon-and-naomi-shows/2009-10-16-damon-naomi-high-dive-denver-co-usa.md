@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-10-16: Damon & Naomi - High Dive, Denver, CO, USA'
-name: 2009-10-16-damon-naomi-high-dive-denver-co-usa
+artistslug: damon-and-naomi
 show-venue: 'High Dive, Denver, CO, USA'
 show-setlist: 
 show-date: 2009-10-16

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-02-23: Luna - Caberet Metro, Chicago IL, USA'
-name: 2005-02-23-luna-caberet-metro-chicago-il-usa
+artistslug: luna
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

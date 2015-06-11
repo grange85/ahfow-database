@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-07-26: Dean Wareham - Indietracks Festival, Derbyshire, UK'
-name: 2014-07-26-dean-wareham-indietracks-festival-derbyshire-uk
+artistslug: dean-wareham
 show-venue: 'Indietracks Festival, Derbyshire, UK'
 show-setlist: [
   "Emancipated Hearts",

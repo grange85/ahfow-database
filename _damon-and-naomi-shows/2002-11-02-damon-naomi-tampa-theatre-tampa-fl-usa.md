@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-11-02: Damon & Naomi - Tampa Theatre, Tampa FL, USA'
-name: 2002-11-02-damon-naomi-tampa-theatre-tampa-fl-usa
+artistslug: damon-and-naomi
 show-venue: 'Tampa Theatre, Tampa FL, USA'
 show-setlist: 
 show-date: 2002-11-02

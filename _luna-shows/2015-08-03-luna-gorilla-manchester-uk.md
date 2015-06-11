@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-08-03: Luna - Gorilla, Manchester, UK'
-name: 2015-08-03-luna-gorilla-manchester-uk
+artistslug: luna
 show-venue: 'Gorilla, Manchester, UK'
 show-setlist: 
 show-date: 2015-08-03

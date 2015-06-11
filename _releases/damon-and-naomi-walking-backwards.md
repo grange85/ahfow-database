@@ -5,7 +5,6 @@ resource: discography
 section: 02-single
 artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg
-title: Walking Backwards / The World's Strongest Man
 initial_release_date: 2011
 albumname: Walking Backwards / The World's Strongest Man
 releases:

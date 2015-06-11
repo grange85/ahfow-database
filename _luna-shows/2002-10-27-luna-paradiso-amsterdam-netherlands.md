@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-27: Luna - Paradiso, Amsterdam, Netherlands'
-name: 2002-10-27-luna-paradiso-amsterdam-netherlands
+artistslug: luna
 show-venue: 'Paradiso, Amsterdam, Netherlands'
 show-setlist: [
   "Lovedust",

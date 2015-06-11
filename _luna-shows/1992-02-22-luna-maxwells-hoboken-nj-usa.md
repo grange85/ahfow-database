@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-02-22: Luna - Maxwells, Hoboken NJ, USA'
-name: 1992-02-22-luna-maxwells-hoboken-nj-usa
+artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Slide",

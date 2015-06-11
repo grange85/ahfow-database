@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-10-06: Damon & Naomi - Other Music, New York NY, USA'
-name: 2004-10-06-damon-naomi-other-music-new-york-ny-usa
+artistslug: damon-and-naomi
 show-venue: 'Other Music, New York NY, USA'
 show-setlist: 
 show-date: 2004-10-06

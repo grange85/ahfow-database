@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2004-11-21: Luna - Cats Cradle, Carrboro NC, USA"
-name: 2004-11-21-luna-cats-cradle-carrboro-nc-usa
+artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Chinatown",

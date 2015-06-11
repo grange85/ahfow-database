@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-04-03: Luna - Knitting Factory, New York NY, USA'
-name: 1992-04-03-luna-knitting-factory-new-york-ny-usa
+artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: 
 show-date: 1992-04-03

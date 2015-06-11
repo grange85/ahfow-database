@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2001-05-11: Damon & Naomi - Schubas, Chicago IL, USA"
-name: 2001-05-11-damon-naomi-schubas-chicago-il-usa
+artistslug: damon-and-naomi
 show-venue: "Schubas, Chicago IL, USA"
 show-setlist: 
 show-date: 2001-05-11

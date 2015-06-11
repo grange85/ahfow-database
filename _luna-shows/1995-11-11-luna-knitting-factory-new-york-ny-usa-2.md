@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1995-11-11: Luna - Knitting Factory, New York NY, USA'
-name: 1995-11-11-luna-knitting-factory-new-york-ny-usa-2
+artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Freakin' And Peakin'",

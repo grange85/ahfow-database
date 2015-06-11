@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-03-19: Dean & Britta - High Noon Saloon, Madison WI, USA'
-name: 2007-03-19-dean-britta-high-noon-saloon-madison-wi-usa
+artistslug: dean-and-britta
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [
   "Singer Sing",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-06: Dean Wareham - WXPN, Philadelphia, PA, USA'
-name: 2014-04-06-dean-wareham-wxpn-philadelphia-pa-usa
+artistslug: dean-wareham
 show-venue: 'WXPN, Philadelphia, PA, USA'
 show-setlist: [
   "Holding Pattern",

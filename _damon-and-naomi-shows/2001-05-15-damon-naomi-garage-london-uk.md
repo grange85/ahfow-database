@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-05-15: Damon & Naomi - Garage, London, UK'
-name: 2001-05-15-damon-naomi-garage-london-uk
+artistslug: damon-and-naomi
 show-venue: 'Garage, London, UK'
 show-setlist: [
   "Judah and the Maccabees",

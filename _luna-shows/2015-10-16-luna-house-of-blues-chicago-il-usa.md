@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-10-16: Luna - House of Blues, Chicago, IL, USA'
-name: 2015-10-16-luna-house-of-blues-chicago-il-usa
+artistslug: luna
 show-venue: 'House of Blues, Chicago, IL, USA'
 show-setlist: 
 show-date: 2015-10-16

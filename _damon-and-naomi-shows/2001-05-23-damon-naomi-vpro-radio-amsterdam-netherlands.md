@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-05-23: Damon & Naomi - VPRO radio, Amsterdam, Netherlands'
-name: 2001-05-23-damon-naomi-vpro-radio-amsterdam-netherlands
+artistslug: damon-and-naomi
 show-venue: 'VPRO radio, Amsterdam, Netherlands'
 show-setlist: 
 show-date: 2001-05-23

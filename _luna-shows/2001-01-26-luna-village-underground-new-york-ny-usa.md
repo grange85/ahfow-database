@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-01-26: Luna - Village Underground, New York NY, USA'
-name: 2001-01-26-luna-village-underground-new-york-ny-usa
+artistslug: luna
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: [
   "Egg Nog",

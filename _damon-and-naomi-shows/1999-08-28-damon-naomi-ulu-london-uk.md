@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-08-28: Damon & Naomi - ULU, London, UK'
-name: 1999-08-28-damon-naomi-ulu-london-uk
+artistslug: damon-and-naomi
 show-venue: 'ULU, London, UK'
 show-setlist: 
 show-date: 1999-08-28

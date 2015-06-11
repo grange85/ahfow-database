@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-09-24: Galaxie 500 - BBC Radio One, London, UK'
-name: 1989-09-24-galaxie-500-bbc-radio-one-london-uk
+artistslug: galaxie-500
 show-venue: 'BBC Radio One, London, UK'
 show-setlist: [
   "Flowers",

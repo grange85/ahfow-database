@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-01-27: Luna - Village Underground, New York NY, USA'
-name: 2001-01-27-luna-village-underground-new-york-ny-usa
+artistslug: luna
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: 
 show-date: 2001-01-27

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2002-06-08: Luna - Bimbos, San Francisco CA, USA"
-name: 2002-06-08-luna-bimbos-san-francisco-ca-usa
+artistslug: luna
 show-venue: "Bimbos, San Francisco CA, USA"
 show-setlist: [
   "Weird And Woozy",

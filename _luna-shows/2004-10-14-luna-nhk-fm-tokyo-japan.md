@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-10-14: Luna - NHK FM, Tokyo, Japan'
-name: 2004-10-14-luna-nhk-fm-tokyo-japan
+artistslug: luna
 show-venue: 'NHK FM, Tokyo, Japan'
 show-setlist: 
 show-date: 2004-10-14

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-09-06: Damon & Naomi - Espace En Cours, Paris, France'
-name: 2009-09-06-damon-naomi-espace-en-cours-paris-france
+artistslug: damon-and-naomi
 show-venue: 'Espace En Cours, Paris, France'
 show-setlist: 
 show-date: 2009-09-06

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-03-23: Luna - Axis, Boston MA, USA'
-name: 2000-03-23-luna-axis-boston-ma-usa
+artistslug: luna
 show-venue: 'Axis, Boston MA, USA'
 show-setlist: 
 show-date: 2000-03-23

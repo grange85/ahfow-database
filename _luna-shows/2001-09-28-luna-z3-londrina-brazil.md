@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-09-28: Luna - Z3, Londrina, Brazil'
-name: 2001-09-28-luna-z3-londrina-brazil
+artistslug: luna
 show-venue: 'Z3, Londrina, Brazil'
 show-setlist: 
 show-date: 2001-09-28

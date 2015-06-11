@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-04: Luna - Metro, Chicago IL, USA'
-name: 2000-04-04-luna-metro-chicago-il-usa
+artistslug: luna
 show-venue: 'Metro, Chicago IL, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

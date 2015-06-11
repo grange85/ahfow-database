@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-02-10: Luna - Aladdin Theatre, Portland OR, USA'
-name: 2005-02-10-luna-aladdin-theatre-portland-or-usa
+artistslug: luna
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Chinatown",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-04-25: Luna - Bowlie Weekender, Camber Sands, UK'
-name: 1999-04-25-luna-bowlie-weekender-camber-sands-uk
+artistslug: luna
 show-venue: 'Bowlie Weekender, Camber Sands, UK'
 show-setlist: 
 show-date: 1999-04-25

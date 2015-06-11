@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2013-04-16: Damon & Naomi - The Vanguard, Sydney, Australia'
-name: 2013-04-16-damon-naomi-the-vanguard-sydney-australia
+artistslug: damon-and-naomi
 show-venue: 'The Vanguard, Sydney, Australia'
 show-setlist: 
 show-date: 2013-04-16

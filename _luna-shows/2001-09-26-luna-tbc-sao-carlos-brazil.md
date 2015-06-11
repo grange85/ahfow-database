@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-09-26: Luna - tbc, Sao Carlos, Brazil'
-name: 2001-09-26-luna-tbc-sao-carlos-brazil
+artistslug: luna
 show-venue: 'tbc, Sao Carlos, Brazil'
 show-setlist: 
 show-date: 2001-09-26

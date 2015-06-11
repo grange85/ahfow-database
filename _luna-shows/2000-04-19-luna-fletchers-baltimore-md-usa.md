@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-04-19: Luna - Fletchers, Baltimore MD, USA'
-name: 2000-04-19-luna-fletchers-baltimore-md-usa
+artistslug: luna
 show-venue: 'Fletchers, Baltimore MD, USA'
 show-setlist: [
   "Pup Tent",

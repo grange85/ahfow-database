@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-10-09: Luna - Music Hall Of Williamsburg, Brooklyn, NY, USA'
-name: 2015-10-09-luna-music-hall-of-williamsburg-brooklyn-ny-usa
+artistslug: luna
 show-venue: 'Music Hall Of Williamsburg, Brooklyn, NY, USA'
 show-setlist: 
 show-date: 2015-10-09

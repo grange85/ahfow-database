@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2007-01-23: Dean & Britta - Mo Pitkin's, New York NY, USA"
-name: 2007-01-23-dean-britta-mo-pitkins-new-york-ny-usa
+artistslug: dean-and-britta
 show-venue: "Mo Pitkin's, New York NY, USA"
 show-setlist: [
   "Singer Sing",

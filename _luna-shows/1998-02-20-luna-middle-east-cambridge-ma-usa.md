@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-02-20: Luna - Middle East, Cambridge MA, USA'
-name: 1998-02-20-luna-middle-east-cambridge-ma-usa
+artistslug: luna
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: [
   "Pup Tent",

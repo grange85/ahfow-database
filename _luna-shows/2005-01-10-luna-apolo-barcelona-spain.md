@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-01-10: Luna - Apolo, Barcelona, Spain'
-name: 2005-01-10-luna-apolo-barcelona-spain
+artistslug: luna
 show-venue: 'Apolo, Barcelona, Spain'
 show-setlist: [
   "Malibu Love Nest",

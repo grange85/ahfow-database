@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-11-12: Damon & Naomi - K.D Japon, Nagoya, Japan'
-name: 2009-11-12-damon-naomi-kd-japon-nagoya-japan
+artistslug: damon-and-naomi
 show-venue: 'K.D Japon, Nagoya, Japan'
 show-setlist: 
 show-date: 2009-11-12

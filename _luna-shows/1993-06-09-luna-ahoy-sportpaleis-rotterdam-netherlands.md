@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1993-06-09: Luna - Ahoy Sportpaleis, Rotterdam, Netherlands"
-name: 1993-06-09-luna-ahoy-sportpaleis-rotterdam-netherlands
+artistslug: luna
 show-venue: "Ahoy Sportpaleis, Rotterdam, Netherlands"
 show-setlist: 
 show-date: 1993-06-09

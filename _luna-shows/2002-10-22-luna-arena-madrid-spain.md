@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-22: Luna - Arena, Madrid, Spain'
-name: 2002-10-22-luna-arena-madrid-spain
+artistslug: luna
 show-venue: 'Arena, Madrid, Spain'
 show-setlist: 
 show-date: 2002-10-22

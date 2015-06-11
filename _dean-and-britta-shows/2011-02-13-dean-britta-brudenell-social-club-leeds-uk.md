@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2011-02-13: Dean & Britta - Brudenell Social Club, Leeds, UK'
-name: 2011-02-13-dean-britta-brudenell-social-club-leeds-uk
+artistslug: dean-and-britta
 show-venue: 'Brudenell Social Club, Leeds, UK'
 show-setlist: 
 show-date: 2011-02-13

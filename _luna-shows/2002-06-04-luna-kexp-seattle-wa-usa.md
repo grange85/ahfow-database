@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-06-04: Luna - KEXP, Seattle, WA, USA'
-name: 2002-06-04-luna-kexp-seattle-wa-usa
+artistslug: luna
 show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
   "[interview]",

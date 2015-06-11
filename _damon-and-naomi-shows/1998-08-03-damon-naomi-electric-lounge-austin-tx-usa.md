@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-08-03: Damon & Naomi - Electric Lounge, Austin TX, USA'
-name: 1998-08-03-damon-naomi-electric-lounge-austin-tx-usa
+artistslug: damon-and-naomi
 show-venue: 'Electric Lounge, Austin TX, USA'
 show-setlist: 
 show-date: 1998-08-03

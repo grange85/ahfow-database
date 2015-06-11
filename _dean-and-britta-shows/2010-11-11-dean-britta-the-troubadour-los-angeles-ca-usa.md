@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-11-11: Dean & Britta - The Troubadour, Los Angeles CA, USA'
-name: 2010-11-11-dean-britta-the-troubadour-los-angeles-ca-usa
+artistslug: dean-and-britta
 show-venue: 'The Troubadour, Los Angeles CA, USA'
 show-setlist: 
 show-date: 2010-11-11

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-04-17: Luna - Bourges Festival, Bourges, France'
-name: 1999-04-17-luna-bourges-festival-bourges-france
+artistslug: luna
 show-venue: 'Bourges Festival, Bourges, France'
 show-setlist: 
 show-date: 1999-04-17

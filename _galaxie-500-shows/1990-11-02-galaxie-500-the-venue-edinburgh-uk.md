@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-11-02: Galaxie 500 - The Venue, Edinburgh, UK'
-name: 1990-11-02-galaxie-500-the-venue-edinburgh-uk
+artistslug: galaxie-500
 show-venue: 'The Venue, Edinburgh, UK'
 show-setlist: 
 show-date: 1990-11-02

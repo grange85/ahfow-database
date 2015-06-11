@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-05-10: Damon & Naomi - Brattle Theater, Cambridge MA, USA'
-name: 2001-05-10-damon-naomi-brattle-theater-cambridge-ma-usa
+artistslug: damon-and-naomi
 show-venue: 'Brattle Theater, Cambridge MA, USA'
 show-setlist: 
 show-date: 2001-05-10

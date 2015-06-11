@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-03-23: Damon & Naomi - (venue tba), Arezzo, Italy'
-name: 2009-03-23-damon-naomi-venue-tba-arezzo-italy
+artistslug: damon-and-naomi
 show-venue: '(venue tba), Arezzo, Italy'
 show-setlist: 
 show-date: 2009-03-23

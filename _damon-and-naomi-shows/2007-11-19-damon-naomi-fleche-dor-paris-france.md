@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2007-11-19: Damon & Naomi - Fleche Dor, Paris, France"
-name: 2007-11-19-damon-naomi-fleche-dor-paris-france
+artistslug: damon-and-naomi
 show-venue: "Fleche Dor, Paris, France"
 show-setlist: 
 show-date: 2007-11-19

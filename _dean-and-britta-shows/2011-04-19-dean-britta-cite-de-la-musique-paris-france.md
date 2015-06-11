@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2011-04-19: Dean & Britta - Cite de La Musique, Paris, France'
-name: 2011-04-19-dean-britta-cite-de-la-musique-paris-france
+artistslug: dean-and-britta
 show-venue: 'Cite de La Musique, Paris, France'
 show-setlist: 
 show-date: 2011-04-19

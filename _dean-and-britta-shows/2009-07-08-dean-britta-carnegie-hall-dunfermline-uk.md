@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-07-08: Dean & Britta - Carnegie Hall, Dunfermline, UK'
-name: 2009-07-08-dean-britta-carnegie-hall-dunfermline-uk
+artistslug: dean-and-britta
 show-venue: 'Carnegie Hall, Dunfermline, UK'
 show-setlist: 
 show-date: 2009-07-08

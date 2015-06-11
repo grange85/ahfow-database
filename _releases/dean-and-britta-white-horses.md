@@ -4,7 +4,6 @@ permalink: /dean-and-britta/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: dean-and-britta
-title: White Horses
 initial_release_date: 2007
 albumname: White Horses
 imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg

@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: galaxie-500
-title: Galaxie 500 - Rain / Don't Let Our Youth Go to Waste 
 categories : [discography, galaxie-500, single]
 initial_release_date: 1990
 albumname: Rain / Don't Let Our Youth Go to Waste

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-10-02: Luna - Sonotone, Palme de Mallorca, Spain'
-name: 1999-10-02-luna-sonotone-palme-de-mallorca-spain
+artistslug: luna
 show-venue: 'Sonotone, Palme de Mallorca, Spain'
 show-setlist: 
 show-date: 1999-10-02

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2002-10-09: Luna - Logo, Hamburg, Germany'
-name: 2002-10-09-luna-logo-hamburg-germany
+artistslug: luna
 show-venue: 'Logo, Hamburg, Germany'
 show-setlist: 
 show-date: 2002-10-09

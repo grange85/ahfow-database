@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2007-10-24: Damon & Naomi - Cats Cradle, Carrboro NC, USA"
-name: 2007-10-24-damon-naomi-cats-cradle-carrboro-nc-usa
+artistslug: damon-and-naomi
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: 
 show-date: 2007-10-24

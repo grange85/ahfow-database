@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1999-12-08: Luna - Lupos, Providence RI, USA"
-name: 1999-12-08-luna-lupos-providence-ri-usa
+artistslug: luna
 show-venue: "Lupos, Providence RI, USA"
 show-setlist: 
 show-date: 1999-12-08

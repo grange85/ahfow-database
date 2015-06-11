@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-10-14: Damon & Naomi - Independent, San Francisco CA, USA'
-name: 2007-10-14-damon-naomi-independent-san-francisco-ca-usa
+artistslug: damon-and-naomi
 show-venue: 'Independent, San Francisco CA, USA'
 show-setlist: 
 show-date: 2007-10-14

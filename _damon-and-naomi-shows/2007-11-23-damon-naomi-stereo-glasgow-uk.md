@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-11-23: Damon & Naomi - Stereo, Glasgow, UK'
-name: 2007-11-23-damon-naomi-stereo-glasgow-uk
+artistslug: damon-and-naomi
 show-venue: 'Stereo, Glasgow, UK'
 show-setlist: 
 show-date: 2007-11-23

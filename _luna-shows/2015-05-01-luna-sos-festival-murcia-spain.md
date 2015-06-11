@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-05-01: Luna - SOS Festival, Murcia, Spain'
-name: 2015-05-01-luna-sos-festival-murcia-spain
+artistslug: luna
 show-venue: 'SOS Festival, Murcia, Spain'
 show-setlist: 
 show-date: 2015-05-01

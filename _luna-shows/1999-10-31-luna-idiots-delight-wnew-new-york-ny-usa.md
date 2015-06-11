@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1999-10-31: Luna - Idiots Delight WNEW, New York NY, USA"
-name: 1999-10-31-luna-idiots-delight-wnew-new-york-ny-usa
+artistslug: luna
 show-venue: "Idiots Delight WNEW, New York NY, USA"
 show-setlist: [
   "Four Thousand Days",

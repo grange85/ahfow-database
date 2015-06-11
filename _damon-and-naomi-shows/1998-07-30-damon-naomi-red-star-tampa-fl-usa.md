@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1998-07-30: Damon & Naomi - Red Star.  Tampa, FL, USA'
-name: 1998-07-30-damon-naomi-red-star-tampa-fl-usa
+artistslug: damon-and-naomi
 show-venue: 'Red Star.  Tampa, FL, USA'
 show-setlist: 
 show-date: 1998-07-30

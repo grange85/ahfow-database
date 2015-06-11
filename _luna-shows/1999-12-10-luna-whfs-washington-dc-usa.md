@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-12-10: Luna - WHFS, Washington DC, USA'
-name: 1999-12-10-luna-whfs-washington-dc-usa
+artistslug: luna
 show-venue: 'WHFS, Washington DC, USA'
 show-setlist: [
   "Dear Diary",

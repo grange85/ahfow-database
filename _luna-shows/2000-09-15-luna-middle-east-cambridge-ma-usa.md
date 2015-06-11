@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-09-15: Luna - Middle East, Cambridge MA, USA'
-name: 2000-09-15-luna-middle-east-cambridge-ma-usa
+artistslug: luna
 show-venue: 'Middle East, Cambridge MA, USA'
 show-setlist: 
 show-date: 2000-09-15

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-03-30: Galaxie 500 - Club Lingerie, Los Angeles CA, USA'
-name: 1990-03-30-galaxie-500-club-lingerie-los-angeles-ca-usa
+artistslug: galaxie-500
 show-venue: 'Club Lingerie, Los Angeles CA, USA'
 show-setlist: 
 show-date: 1990-03-30

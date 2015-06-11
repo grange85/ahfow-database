@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2005-06-22: Damon & Naomi - Cafe Independants, Kyoto, Japan'
-name: 2005-06-22-damon-naomi-cafe-independants-kyoto-japan
+artistslug: damon-and-naomi
 show-venue: 'Cafe Independants, Kyoto, Japan'
 show-setlist: 
 show-date: 2005-06-22

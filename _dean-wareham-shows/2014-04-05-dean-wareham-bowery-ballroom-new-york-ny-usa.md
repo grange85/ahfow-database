@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-05: Dean Wareham - Bowery Ballroom, New York, NY, USA'
-name: 2014-04-05-dean-wareham-bowery-ballroom-new-york-ny-usa
+artistslug: dean-wareham
 show-venue: 'Bowery Ballroom, New York, NY, USA'
 show-setlist: 
 show-date: 2014-04-05

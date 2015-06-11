@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1999-12-04: Luna - Cotton Club, Atlanta GA, USA'
-name: 1999-12-04-luna-cotton-club-atlanta-ga-usa
+artistslug: luna
 show-venue: 'Cotton Club, Atlanta GA, USA'
 show-setlist: [
   "Fuzzy Wuzzy",

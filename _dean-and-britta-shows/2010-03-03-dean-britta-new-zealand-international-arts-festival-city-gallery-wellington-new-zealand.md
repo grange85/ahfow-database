@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-03-03: Dean & Britta - New Zealand International Arts Festival, City Gallery, Wellington, New Zealand'
-name: 2010-03-03-dean-britta-new-zealand-international-arts-festival-city-gallery-wellington-new-zealand
+artistslug: dean-and-britta
 show-venue: 'New Zealand International Arts Festival, City Gallery, Wellington, New Zealand'
 show-setlist: 
 show-date: 2010-03-03

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-03-19: Damon & Naomi - 12 Bar Club, London, UK'
-name: 1997-03-19-damon-naomi-12-bar-club-london-uk
+artistslug: damon-and-naomi
 show-venue: '12 Bar Club, London, UK'
 show-setlist: 
 show-date: 1997-03-19

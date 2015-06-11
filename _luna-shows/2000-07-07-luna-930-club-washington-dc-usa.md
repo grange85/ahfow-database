@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2000-07-07: Luna - 9:30 Club, Washington DC, USA'
-name: 2000-07-07-luna-930-club-washington-dc-usa
+artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: 
 show-date: 2000-07-07

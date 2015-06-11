@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-08: Damon & Naomi - Green Mind @ The Portland Arms, Cambridge, UK'
-name: 2015-04-08-damon-naomi-green-mind-portland-arms-cambridge-uk
+artistslug: damon-and-naomi
 show-venue: 'Green Mind @ The Portland Arms, Cambridge, UK'
 show-setlist: 
 show-date: 2015-04-08

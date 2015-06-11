@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-11-30: Galaxie 500 - Kin and Zilo, Hamburg, Germany'
-name: 1990-11-30-galaxie-500-kin-and-zilo-hamburg-germany
+artistslug: galaxie-500
 show-venue: 'Kin and Zilo, Hamburg, Germany'
 show-setlist: 
 show-date: 1990-11-30

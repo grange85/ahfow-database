@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1989-12-08: Galaxie 500 - Tech, Glasgow, UK'
-name: 1989-12-08-galaxie-500-tech-glasgow-uk
+artistslug: galaxie-500
 show-venue: 'Tech, Glasgow, UK'
 show-setlist: [
   "Decomposing Trees",

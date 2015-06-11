@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2009-09-26: Dean & Britta - The Lovin' Cup, Rochester, NY, USA"
-name: 2009-09-26-dean-britta-the-lovin-cup-rochester-ny-usa
+artistslug: dean-and-britta
 show-venue: "The Lovin Cup, Rochester, NY, USA"
 show-setlist: 
 show-date: 2009-09-26

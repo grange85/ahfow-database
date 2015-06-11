@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2015-04-23: Luna - Bikini, Barcelona, Spain'
-name: 2015-04-23-luna-bikini-barcelona-spain
+artistslug: luna
 show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "Slide",

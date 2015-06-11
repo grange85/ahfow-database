@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-12-31: Luna - Knitting Factory, New York NY, USA'
-name: 2001-12-31-luna-knitting-factory-new-york-ny-usa-2
+artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
   "Weird And Woozy",

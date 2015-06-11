@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-04-09: Dean Wareham - Horseshoe, Toronto, Canada'
-name: 2014-04-09-dean-wareham-horseshoe-toronto-canada
+artistslug: dean-wareham
 show-venue: 'Horseshoe, Toronto, Canada'
 show-setlist: 
 show-date: 2014-04-09

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1997-09-21: Luna - Foellinger Auditorium, Champaign IL, USA'
-name: 1997-09-21-luna-foellinger-auditorium-champaign-il-usa
+artistslug: luna
 show-venue: 'Foellinger Auditorium, Champaign IL, USA'
 show-setlist: 
 show-date: 1997-09-21

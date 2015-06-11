@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2011-11-19: Dean & Britta - Casa da Musica, Porto, Portugal'
-name: 2011-11-19-dean-britta-casa-da-musica-porto-portugal
+artistslug: dean-and-britta
 show-venue: 'Casa da Musica, Porto, Portugal'
 show-setlist: 
 show-date: 2011-11-19

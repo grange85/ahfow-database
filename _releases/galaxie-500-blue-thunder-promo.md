@@ -4,7 +4,6 @@ permalink: /galaxie-500/releases/:title.html
 resource: discography
 section: 04-promo
 artistslug: galaxie-500
-title: Galaxie 500 - Blue Thunder / Victory Garden
 initial_release_date: 1989
 albumname: Blue Thunder / Victory Garden
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg

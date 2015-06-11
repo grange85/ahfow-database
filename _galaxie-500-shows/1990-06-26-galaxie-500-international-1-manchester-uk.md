@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1990-06-26: Galaxie 500 - International 1, Manchester, UK'
-name: 1990-06-26-galaxie-500-international-1-manchester-uk
+artistslug: galaxie-500
 show-venue: 'International 1, Manchester, UK'
 setlist-source: 'recording'
 show-setlist: [

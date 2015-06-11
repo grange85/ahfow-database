@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2010-05-24: Dean & Britta - Sala BBK, Bilbao, Spain'
-name: 2010-05-24-dean-britta-sala-bbk-bilbao-spain
+artistslug: dean-and-britta
 show-venue: 'Sala BBK, Bilbao, Spain'
 show-setlist: 
 show-date: 2010-05-24

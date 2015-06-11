@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '1992-09-24: Luna - Clapham Grand, London, UK'
-name: 1992-09-24-luna-clapham-grand-london-uk
+artistslug: luna
 show-venue: 'Clapham Grand, London, UK'
 show-setlist: [
   "Slash Your Tires",

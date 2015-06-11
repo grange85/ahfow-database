@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "1987-12-07: Galaxie 500 - Chets Last Call, Boston MA, USA"
-name: 1987-12-07-galaxie-500-chets-last-call-boston-ma-usa
+artistslug: galaxie-500
 show-venue: "Chets Last Call, Boston MA, USA"
 show-setlist: 
 show-date: 1987-12-07

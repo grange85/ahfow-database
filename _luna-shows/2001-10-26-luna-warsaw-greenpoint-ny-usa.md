@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-10-26: Luna - Warsaw, Greenpoint NY, USA'
-name: 2001-10-26-luna-warsaw-greenpoint-ny-usa
+artistslug: luna
 show-venue: 'Warsaw, Greenpoint NY, USA'
 show-setlist: 
 show-date: 2001-10-26

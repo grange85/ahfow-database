@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-03-03: Luna - Variety Playhouse, Atlanta GA, USA'
-name: 2001-03-03-luna-variety-playhouse-atlanta-ga-usa
+artistslug: luna
 show-venue: 'Variety Playhouse, Atlanta GA, USA'
 show-setlist: 
 show-date: 2001-03-03

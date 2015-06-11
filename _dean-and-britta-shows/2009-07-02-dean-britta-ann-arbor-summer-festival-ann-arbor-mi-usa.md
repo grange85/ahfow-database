@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2009-07-02: Dean & Britta - Ann Arbor Summer Festival, Ann Arbor, MI, USA'
-name: 2009-07-02-dean-britta-ann-arbor-summer-festival-ann-arbor-mi-usa
+artistslug: dean-and-britta
 show-venue: 'Ann Arbor Summer Festival, Ann Arbor, MI, USA'
 show-setlist: 
 show-date: 2009-07-02

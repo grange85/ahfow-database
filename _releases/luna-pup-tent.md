@@ -5,7 +5,6 @@ resource: discography
 section: 01-album
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
-title: Pup Tent
 initial_release_date: 1997
 albumname: Pup Tent
 releases:

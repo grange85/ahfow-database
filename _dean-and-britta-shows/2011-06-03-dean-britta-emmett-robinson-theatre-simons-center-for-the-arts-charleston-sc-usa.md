@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2011-06-03: Dean & Britta - Emmett Robinson Theatre, Simons Center for the Arts, Charleston, SC, USA'
-name: 2011-06-03-dean-britta-emmett-robinson-theatre-simons-center-for-the-arts-charleston-sc-usa
+artistslug: dean-and-britta
 show-venue: 'Emmett Robinson Theatre, Simons Center for the Arts, Charleston, SC, USA'
 show-setlist: 
 show-date: 2011-06-03

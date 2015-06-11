@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2007-01-25: Dean & Britta - Union Hall, Brooklyn NY, USA'
-name: 2007-01-25-dean-britta-union-hall-brooklyn-ny-usa
+artistslug: dean-and-britta
 show-venue: 'Union Hall, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2007-01-25

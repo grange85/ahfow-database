@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2001-06-30: Luna - Sonotone, Palma, Spain'
-name: 2001-06-30-luna-sonotone-palma-spain
+artistslug: luna
 show-venue: 'Sonotone, Palma, Spain'
 show-setlist: [
   "Chinatown",

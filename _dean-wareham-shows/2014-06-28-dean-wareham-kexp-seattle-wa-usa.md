@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2014-06-28: Dean Wareham - KEXP, Seattle, WA, USA'
-name: 2014-06-28-dean-wareham-kexp-seattle-wa-usa
+artistslug: dean-wareham
 show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
   "The Dancer Disappears",

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: "2011-05-09: Damon & Naomi - Captains Rest, Glasgow, UK"
-name: 2011-05-09-damon-naomi-captains-rest-glasgow-uk
+artistslug: damon-and-naomi
 show-venue: "Captains Rest, Glasgow, UK"
 show-setlist: 
 show-date: 2011-05-09

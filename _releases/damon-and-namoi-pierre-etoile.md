@@ -4,7 +4,6 @@ permalink: /damon-and-naomi/releases/:title.html
 resource: discography
 section: 02-single
 artistslug: damon-and-naomi
-title: Damon & Naomi - Pierre &Eacute;toile
 initial_release_date: 1991
 albumname: Pierre &Eacute;toile
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg

@@ -1,7 +1,6 @@
 ---
 layout: show
-title: '2004-11-27: Luna - Irving Plaza, New York NY, USA'
-name: 2004-11-27-luna-irving-plaza-new-york-ny-usa
+artistslug: luna
 show-venue: 'Irving Plaza, New York NY, USA'
 show-setlist: [
   "Malibu Love Nest",
