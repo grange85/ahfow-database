@@ -1,90 +1,75 @@
-{% assign artist = site.data.artists[page.artistslug] %}
-{% capture newtitle %}{{artist.name}} shows{% endcapture %}
 <html>
-  {% include head.html %}
-  <body>
-    {% include facebook.html %}
-    {% include header.html %}
-
-    {% include social.html %}
-<div class="container">
-
-      <div class="wrapper col-md-9">
-
-<div class="row">
-    <div class="col-md-12">
-      <nav>
-        <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-      <li>{{artist.name}} shows</li>
-      {% if page.year %}
-        <li>{{page.year}}</li>
-      {% endif %}
-    </ul>
-    </nav>
-    </div>
-</div>
-
-<nav>
-<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-<ul class="list-inline">
-{% for year in artist.yearsactive %}
-  <li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item 
-    {% if year == page.year %}
-    active 
-    {% endif %}
-    ">{{year | append: ""}}</a></li>
-{% endfor %}
-</ul>
-</nav>
-{% case artist.slug %}
-{% when 'galaxie-500' %}
-  {% assign shows = site.galaxie-500-shows | where: "category", page.year %}
-{% when 'luna' %}
-  {% assign shows = site.luna-shows | where: "category", page.year %}
-{% when 'damon-and-naomi' %}
-  {% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
-{% when 'dean-and-britta' %}
-  {% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
-{% when 'dean-wareham' %}
-  {% assign shows = site.dean-wareham-shows | where: "category", page.year %}
-{% endcase %}
-
-<div class="row">
- 	<div class="col-md-12">
-
-  {% if page.section == 'topindex' %}
-  {% include upcoming.html artistslug= artist.slug %}
-
-  {% else %}
-  {% if shows %}
-  <h3>{{ artist.name }} shows in {{ page.year }}</h3>
-  <ul>
-  {% for show in shows %}
-    <li><a href="{{ show.url | prepend: site.baseurl}}">{{show.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ show.show-venue }}</a></li>
-  {% endfor %}  
-</ul>
-
-  {% endif %}
-  {% endif %}
-
-  </div>
-</div>
-</div>
-      <div class="col-md-3">
-      {% include sidebar.html %}
-
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-  </body>
-
+	{% assign artist = site.data.artists[page.artistslug] %}
+	{% capture newtitle %}{{artist.name}} shows{% endcapture %}
+	{% include head.html %}
+<body>
+	{% include facebook.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="wrapper col-md-9">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+							<li>{{artist.name}} shows</li>
+							{% if page.year %}
+								<li>{{page.year}}</li>
+							{% endif %}
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<nav>
+				<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
+					<ul class="list-inline">
+					{% for year in artist.yearsactive %}
+						<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item 
+							{% if year == page.year %}
+								active 
+							{% endif %}
+						">{{year | append: ""}}</a></li>
+					{% endfor %}
+				</ul>
+			</nav>
+			{% case artist.slug %}
+				{% when 'galaxie-500' %}
+					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}
+				{% when 'luna' %}
+					{% assign shows = site.luna-shows | where: "category", page.year %}
+				{% when 'damon-and-naomi' %}
+					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
+				{% when 'dean-and-britta' %}
+					{% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
+				{% when 'dean-wareham' %}
+					{% assign shows = site.dean-wareham-shows | where: "category", page.year %}
+			{% endcase %}
+			<div class="row">
+				<div class="col-md-12">
+					{% if page.section == 'topindex' %}
+						{% include upcoming.html artistslug= artist.slug %}
+				{% else %}
+					{% if shows %}
+						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
+						<ul>
+						{% for show in shows %}
+							<li><a href="{{ show.url | prepend: site.baseurl}}">{{show.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ show.show-venue }}</a></li>
+						{% endfor %}  
+						</ul>
+					{% endif %}
+				{% endif %}
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
+	{% include footer.html %}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body>
 </html>

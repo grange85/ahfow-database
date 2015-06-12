@@ -1,79 +1,65 @@
-{% assign artist = site.data.artists[page.artistslug] %}
-{% capture newtitle %}{{artist.name}} - releases {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
 <html>
-  {% include head.html %}
-  <body>
-    {% include facebook.html %}
-    {% include header.html %}
-
-    {% include social.html %}
-
-<div class="container">
-      <div class="wrapper col-md-9">
-
-<div class="row">
-    <div class="col-md-12">
-                <nav>
-                  <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-        <li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-        <li>{{artist.name}} releases</li>
-    </ul>
-    </nav>
-    </div>
-</div>
-
-{% assign releases = site.releases | where: "artistslug", artist.slug | group_by: "section" %}
-
-{% assign releases = releases | sort: 'name' %}
-
-{% for section in releases %}
-{% assign status = '' %}
-{% assign section_name = section.name | split: "-" | last | capitalize%}
-<h2>{{section_name}}</h2>
-  {% assign release_section = section.items | sort: 'initial_release_date' %}
-<div class="row">
-  {% for release in release_section %}
-  {% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
- 	<div class="col-md-6">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
-      </div>
-      <div class="panel-body">
-        <a href="{{ release.url | prepend: site.baseurl }}">
-                        {%  capture imagetest %}X{{release.imageurl}}{% endcapture %}
-                        {% if imagetest == 'X' %}
-                            <img src="http://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg">
-                        {% else %}
-                            <img src="{{release.imageurl}}">
-                        {% endif %}
-        </a>
-      </div>
-    </div>
+	{% assign artist = site.data.artists[page.artistslug] %}
+	{% capture newtitle %}{{artist.name}} - releases {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
+	{% include head.html %}
+<body>
+	{% include facebook.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="wrapper col-md-9">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+							<li>{{artist.name}} releases</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			{% assign releases = site.releases | where: "artistslug", artist.slug | group_by: "section" %}
+			{% assign releases = releases | sort: 'name' %}
+			{% for section in releases %}
+				{% assign status = '' %}
+				{% assign section_name = section.name | split: "-" | last | capitalize%}
+				<h2>{{section_name}}</h2>
+				{% assign release_section = section.items | sort: 'initial_release_date' %}
+				<div class="row">
+					{% for release in release_section %}
+						{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
+						<div class="col-md-6">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
+								</div>
+								<div class="panel-body">
+									<a href="{{ release.url | prepend: site.baseurl }}">
+										{%  capture imagetest %}X{{release.imageurl}}{% endcapture %}
+										{% if imagetest == 'X' %}
+											<img src="http://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg">
+										{% else %}
+											<img src="{{release.imageurl}}">
+										{% endif %}
+									</a>
+								</div>
+							</div>
+						</div>
+						{% if status == 'even' %}
+							</div><div class="row">
+						{% endif %}
+					{% endfor %}  <!-- page-category -->
+				</div>
+			{% endfor %}
+		</div>
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
 	</div>
-  {% if status == 'even' %}
-    </div><div class="row">
-  {% endif %}
-  {% endfor %}  <!-- page-category -->
-</div>
-{% endfor %}
-      </div>
-
-      <div class="col-md-3">
-      {% include sidebar.html %}
-
-      </div>
-    </div>
-
-
-    {% include footer.html %}
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-  </body>
-
+	{% include footer.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body>
 </html>

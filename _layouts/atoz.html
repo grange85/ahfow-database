@@ -1,67 +1,54 @@
 <html>
-  {% assign newtitle = page.title %}
-  {% include head.html %}
-  <body>
-    {% include facebook.html %}
-    {% include header.html %}
+{% assign newtitle = page.title %}
+{% include head.html %}
+<body>
+	{% include facebook.html %}
+	{% include header.html %}
+	{% include social.html %}
+	<div class="container">
+		<div class="wrapper col-md-9">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							{% case page.title %}
+								{% when 'Covers' %}
+								{% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
+								{% assign cover = true %}
+								<li><a href="/tracks/">Tracks</a></li>
+								<li>Covers</li>
+								{% else %}
+								{% assign tracks = site.tracks | sort: 'track-sort' %}
+								<li>Tracks</li>
+							{% endcase %}
+						</ul>
+					</nav>
+				</div>
+			</div>
+			{% assign newsection = 'A' %}
+			<h3>{{ newsection }}</h3>
+			<ul>
+			{% for track in tracks %}
+				{% assign currentsection = newsection %}
+				{% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
+				{% if newsection != currentsection %}
+					</ul><h3>{{ newsection }}</h3><ul>
+				{% endif %}
+				<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
+			{% endfor %}  <!-- page-category -->
+			</ul>
+		</div>
 
-    {% include social.html %}
-<div class="container">
+		<div class="col-md-3">
+			{% include sidebar.html %}
+		</div>
+	</div>
 
-      <div class="wrapper col-md-9">
+{% include footer.html %}
 
-<div class="row">
-    <div class="col-md-12">
-                <nav>
-                  <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-
-{% case page.title %}
-    {% when 'Covers' %}
-        {% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
-        {% assign cover = true %}
-      <li><a href="/tracks/">Tracks</a></li>
-      <li>Covers</li>
-    {% else %}
-        {% assign tracks = site.tracks | sort: 'track-sort' %}
-      <li>Tracks</li>
-{% endcase %}
-
-    </ul>
-    </nav>
-    </div>
-</div>
-
-
-{% assign newsection = 'A' %}
-<h3>A</h3>
-<ul>
-  {% for track in tracks %}
-    {% assign currentsection = newsection %}
-    {% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
-    {% if newsection != currentsection %}
-        </ul><h3>{{ newsection }}</h3><ul>
-    {% endif %}
-          <li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}
-          </li>
-  {% endfor %}  <!-- page-category -->
-</ul>
-      </div>
-
-      <div class="col-md-3">
-      {% include sidebar.html %}
-
-      </div>
-    </div>
-
-
-    {% include footer.html %}
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-  </body>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body>
 </html>
