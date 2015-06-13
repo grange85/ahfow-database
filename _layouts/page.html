@@ -28,36 +28,43 @@
 			{% if page.position == "home" %}
 				<div class="row">
 				{% for artistslugs in site.data.artists %}
+					{% capture status %}{% cycle section_name: 'a', 'b' %}{% endcapture %}
 					{% assign artist = artistslugs[0] %}
 					{% assign artist = site.data.artists[artist] %}
-					<div class="media">
-						<div class="media-left">
+
+
+					<div class="col-sm-6 col-md-6">
+						<div class="thumbnail">
 							<a href="/{{artist.slug}}/">
-							<img class="media-object img-rounded  img-responsive" src="{{artist.imagethumbnail}}" alt="{{artist.name}} thumbnail" width="150" height="150" />
+							<img class="media-object img-rounded  img-responsive" src="{{artist.imagethumbnail}}" alt="{{artist.name}} thumbnail" />
 							</a>
-						</div>
-						<div class="media-body">
-						<h3 class="media-heading"><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
-							<ul>
-								<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
-								<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
-							</ul>
+							<div class="caption">
+								<h3><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
+								<ul>
+									<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
+									<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
+								</ul>
+							</div>
 						</div>
 					</div>
+					{% if status == 'b' %}
+						</div><div class="row">
+					{% endif %}
+
 				{% endfor %}
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">Tracks</h3>
-						</div>
-						<div class="panel-body">
-							<ul>
+					<div class="col-sm-6 col-md-6">
+						<div class="thumbnail">
+							<img class="media-object img-rounded  img-responsive" src="http://media.fullofwishes.co.uk/00-misc/pictures/TIOM-8TRACK.jpg" alt="{{artist.name}} thumbnail" />
+							<div class="caption">
+								<h3>Tracks</h3>
+								<ul>
 								<li><a href="/tracks/index.html">A-Z of tracks</a></li>
 								<li><a href="/tracks/covers.html">A-Z of cover versions</a></li>
 								<li><a href="/tracks/chords.html">A-Z of chords</a></li>
-							</ul>
+								</ul>
+							</div>
 						</div>
 					</div>
-
 				</div>
 
 			{% endif %}
