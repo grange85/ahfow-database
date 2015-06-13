@@ -1,7 +1,7 @@
 galaxie-500:
   name : Galaxie 500
   slug : galaxie-500
-  imagethumbnail: http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxiestill3.jpg
+  image: http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-home-img.jpg
   yearsactive : [1987,1988,1989,1990,1991]
   members :
     - name : Dean Wareham
@@ -17,7 +17,7 @@ galaxie-500:
 luna:
   name : Luna
   slug : luna
-  imagethumbnail: http://media.fullofwishes.co.uk/02-luna/pictures/luna-band-rr01.jpg
+  image: http://media.fullofwishes.co.uk/02-luna/pictures/luna-home-img.jpg
   yearsactive : [
                 1992,
                 1993,
@@ -58,7 +58,7 @@ luna:
 damon-and-naomi:
   name : Damon and Naomi
   slug : damon-and-naomi
-  imagethumbnail: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dandn-2015.jpg
+  image: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-home-img.jpg
   yearsactive : [
                 1992,
                 1993,
@@ -96,7 +96,7 @@ damon-and-naomi:
 dean-and-britta:
   name: Dean & Britta
   slug: dean-and-britta
-  imagethumbnail: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-brita-magnet2009.jpg
+  image: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-brita-home-img.jpg
   yearsactive: [
                2003,
                2004,
@@ -116,7 +116,7 @@ dean-and-britta:
 dean-wareham:
   name: Dean Wareham
   slug: dean-wareham
-  imagethumbnail: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/la-times-2014-06-17-dean-wareham-.jpg
+  image: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-home-img.jpg
   yearsactive: [
                 2003,
                 2008
