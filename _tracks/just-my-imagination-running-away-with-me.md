@@ -6,7 +6,6 @@ name: just-my-imagination-running-away-with-me
 type: ahfow_track
 track-id: 307
 track-lyrics: 
-track-guitar: 
 track-author: Whitfield/Strong
 track-sort: "JUST MY IMAGINATION"
 track-original: The Temptations

@@ -6,7 +6,6 @@ name: i-can-only-give-my-all
 type: ahfow_track
 track-id: 384
 track-lyrics: 
-track-guitar: 
 track-author: Dean Wareham
 track-sort: "I CAN ONLY GIVE MY ALL"
 track-original: 

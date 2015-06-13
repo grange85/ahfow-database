@@ -6,7 +6,6 @@ name: astrafiamante
 type: ahfow_track
 track-id: 134
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "ASTRAFIAMANTE"
 track-original: 

@@ -6,7 +6,6 @@ name: well-all-right
 type: ahfow_track
 track-id: 248
 track-lyrics: 
-track-guitar: 
 track-author: Holly/Allison/Petty/Mauldin
 track-sort: "WELL...ALL RIGHT"
 track-original: Buddy Holly and The Crickets

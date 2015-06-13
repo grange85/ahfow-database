@@ -6,7 +6,6 @@ name: memphis
 type: ahfow_track
 track-id: 182
 track-lyrics: 
-track-guitar: 
 track-author: Black
 track-sort: "MEMPHIS"
 track-original: Karen Black

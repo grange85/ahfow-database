@@ -6,7 +6,6 @@ name: you
 type: ahfow_track
 track-id: 199
 track-lyrics: 
-track-guitar: 
 track-author: Ross/Stim
 track-sort: "YOU"
 track-original: Angel Corpus Christi

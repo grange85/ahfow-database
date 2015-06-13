@@ -6,7 +6,6 @@ name: sally-free-and-easy
 type: ahfow_track
 track-id: 202
 track-lyrics: 
-track-guitar: 
 track-author: Tawney
 track-sort: "SALLY FREE AND EASY"
 track-original: 

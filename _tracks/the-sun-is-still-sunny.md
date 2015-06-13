@@ -6,7 +6,6 @@ name: the-sun-is-still-sunny
 type: ahfow_track
 track-id: 323
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "SUN IS STILL SUNNY"
 track-original: 

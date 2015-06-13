@@ -6,7 +6,6 @@ name: how-you-satisfy-me
 type: ahfow_track
 track-id: 314
 track-lyrics: 
-track-guitar: 
 track-author: Spectrum
 track-sort: "HOW YOU SATISFY ME"
 track-original: Spectrum

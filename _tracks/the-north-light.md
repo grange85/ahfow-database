@@ -6,7 +6,6 @@ name: the-north-light
 type: ahfow_track
 track-id: 
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "NORTH LIGHT"
 track-original: 

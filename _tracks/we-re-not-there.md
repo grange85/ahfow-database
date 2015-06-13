@@ -6,7 +6,6 @@ name: we-re-not-there
 type: ahfow_track
 track-id: 158
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "WE'RE NOT THERE"
 track-original: 

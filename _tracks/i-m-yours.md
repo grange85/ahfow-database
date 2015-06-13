@@ -6,7 +6,6 @@ name: i-m-yours
 type: ahfow_track
 track-id: 155
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "I'M YOURS"
 track-original: 

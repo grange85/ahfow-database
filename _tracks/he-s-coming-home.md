@@ -6,7 +6,6 @@ name: he-s-coming-home
 type: ahfow_track
 track-id: 336
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "HE'S COMING HOME"
 track-original: The Wailers

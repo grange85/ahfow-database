@@ -6,7 +6,6 @@ name: i-ll-keep-it-with-mine
 type: ahfow_track
 track-id: 347
 track-lyrics: 
-track-guitar: 
 track-author: Bob Dylan
 track-sort: "I'LL KEEP IT"
 track-original: Nico

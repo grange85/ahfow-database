@@ -6,7 +6,6 @@ name: old-toy-trains
 type: ahfow_track
 track-id: 337
 track-lyrics: 
-track-guitar: 
 track-author: Roger Miller
 track-sort: "OLD TOY TRAINS"
 track-original: Roger Miller

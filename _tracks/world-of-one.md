@@ -6,7 +6,6 @@ name: world-of-one
 type: ahfow_track
 track-id: 205
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "WORLD OF ONE"
 track-original: 

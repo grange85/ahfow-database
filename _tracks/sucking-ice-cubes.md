@@ -6,7 +6,6 @@ name: sucking-ice-cubes
 type: ahfow_track
 track-id: 70
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "SUCKING ICE CUBES"
 track-original: 

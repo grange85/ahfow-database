@@ -6,7 +6,6 @@ name: love-is-not-a-roof-against-the-rain
 type: ahfow_track
 track-id: 382
 track-lyrics: 
-track-guitar: 
 track-author: Dean Wareham
 track-sort: "LOVE IS NOT A ROOF"
 track-original: 

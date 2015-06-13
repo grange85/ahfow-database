@@ -6,7 +6,6 @@ name: dance-with-me
 type: ahfow_track
 track-id: 121
 track-lyrics: 
-track-guitar: 
 track-author: Jonathan Richman
 track-sort: "DANCE WITH ME"
 track-original: Richman, Jonathan

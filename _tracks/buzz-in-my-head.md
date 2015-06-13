@@ -6,7 +6,6 @@ name: buzz-in-my-head
 type: ahfow_track
 track-id: 275
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "BUZZ IN MY HEAD"
 track-original: 

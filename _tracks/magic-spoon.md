@@ -6,7 +6,6 @@ name: magic-spoon
 type: ahfow_track
 track-id: 232
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "MAGIC SPOON"
 track-original: 

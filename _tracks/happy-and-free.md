@@ -6,7 +6,6 @@ name: happy-and-free
 type: ahfow_track
 track-id: 386
 track-lyrics: 
-track-guitar: 
 track-author: Dean Wareham
 track-sort: "HAPPY AND FREE"
 track-original: 

@@ -6,7 +6,6 @@ name: i-dreamed-of-the-caucasus
 type: ahfow_track
 track-id: 165
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "I DREAMED OF THE CAUCASUS"
 track-original: 

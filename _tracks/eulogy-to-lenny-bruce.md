@@ -6,7 +6,6 @@ name: eulogy-to-lenny-bruce
 type: ahfow_track
 track-id: 168
 track-lyrics: 
-track-guitar: 
 track-author: Tim Hardin
 track-sort: "EULOGY TO LENNY BRUCE"
 track-original: Nico

@@ -6,7 +6,6 @@ name: judah-and-the-maccabees
 type: ahfow_track
 track-id: 162
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "JUDAH AND THE MACCABEES"
 track-original: 

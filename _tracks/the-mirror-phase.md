@@ -6,7 +6,6 @@ name: the-mirror-phase
 type: ahfow_track
 track-id: 160
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "MIRROR PHASE"
 track-original: 

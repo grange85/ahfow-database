@@ -6,7 +6,6 @@ name: fly-into-the-mystery
 type: ahfow_track
 track-id: 189
 track-lyrics: 
-track-guitar: 
 track-author: Jonathan Richman
 track-sort: "FLY INTO THE MYSTERY"
 track-original: Jonathan Richman

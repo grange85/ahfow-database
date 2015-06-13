@@ -6,7 +6,6 @@ name: rosebud
 type: ahfow_track
 track-id: 215
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "ROSEBUD"
 track-original: 

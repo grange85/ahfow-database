@@ -6,7 +6,6 @@ name: our-love-will-still-be-there
 type: ahfow_track
 track-id: 324
 track-lyrics: 
-track-guitar: 
 track-author: Reg Presley
 track-sort: "OUR LOVE WILL STILL BE THERE"
 track-original: The Troggs

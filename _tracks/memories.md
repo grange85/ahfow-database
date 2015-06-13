@@ -6,7 +6,6 @@ name: memories
 type: ahfow_track
 track-id: 133
 track-lyrics: 
-track-guitar: 
 track-author: Hugh Hopper
 track-sort: "MEMORIES"
 track-original: Soft Machine

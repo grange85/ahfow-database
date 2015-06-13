@@ -6,7 +6,6 @@ name: the-wind-s-twelve-quarters
 type: ahfow_track
 track-id: 301
 track-lyrics: 
-track-guitar: 
 track-author: Michio Kurihara/You Ishihara
 track-sort: "WIND'S TWELVE QUARTERS"
 track-original: Michio Kurihara

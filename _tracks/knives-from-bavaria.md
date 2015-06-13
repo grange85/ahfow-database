@@ -7,6 +7,7 @@ type: ahfow_track
 track-id: 265
 track-lyrics: 
 track-guitar: "Gm Bb F C\n\n(provided by britta)"
+track-guitar-flag: true
 track-author: 
 track-sort: "KNIVES FROM BAVARIA"
 track-original: 

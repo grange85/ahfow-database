@@ -6,7 +6,6 @@ name: back-in-your-life
 type: ahfow_track
 track-id: 274
 track-lyrics: 
-track-guitar: 
 track-author: Jonathan Richman
 track-sort: "Back in Your Life"
 track-original: Jonathan Richman

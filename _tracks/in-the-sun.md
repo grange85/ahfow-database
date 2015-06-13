@@ -6,7 +6,6 @@ name: in-the-sun
 type: ahfow_track
 track-id: 153
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "IN THE SUN"
 track-original: 

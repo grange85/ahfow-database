@@ -6,7 +6,6 @@ name: wait-for-me
 type: ahfow_track
 track-id: 316
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "WAIT FOR ME"
 track-original: 

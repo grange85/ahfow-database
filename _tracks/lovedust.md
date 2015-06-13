@@ -7,6 +7,7 @@ type: ahfow_track
 track-id: 224
 track-lyrics: 
 track-guitar: "E  B  C#m  A\n\n(provided by Jon)"
+track-guitar-flag: true
 track-author: 
 track-sort: "LOVEDUST"
 track-original: 

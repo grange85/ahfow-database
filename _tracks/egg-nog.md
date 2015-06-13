@@ -6,7 +6,6 @@ name: egg-nog
 type: ahfow_track
 track-id: 106
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "EGG NOG"
 track-original: 

@@ -6,7 +6,6 @@ name: since-i-lay-my-burden-down
 type: ahfow_track
 track-id: 311
 track-lyrics: 
-track-guitar: 
 track-author: Michael Holland
 track-sort: "SINCE I LAY MY BURDEN DOWN"
 track-original: Michael Holland

@@ -6,7 +6,6 @@ name: park-slope
 type: ahfow_track
 track-id: 298
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "PARK SLOPE"
 track-original: 

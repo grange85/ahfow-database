@@ -6,7 +6,6 @@ name: love
 type: ahfow_track
 track-id: 228
 track-lyrics: 
-track-guitar: 
 track-author: The Jacks
 track-sort: "LOVE"
 track-original: The Jacks

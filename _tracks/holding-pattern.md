@@ -6,7 +6,6 @@ name: holding-pattern
 type: ahfow_track
 track-id: 383
 track-lyrics: 
-track-guitar: 
 track-author: Dean Wareham
 track-sort: "HOLDING PATTERN"
 track-original: 

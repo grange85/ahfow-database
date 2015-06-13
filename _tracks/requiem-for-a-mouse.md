@@ -6,7 +6,6 @@ name: requiem-for-a-mouse
 type: ahfow_track
 track-id: 97
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "REQUIUM FOR A MOUSE"
 track-original: 

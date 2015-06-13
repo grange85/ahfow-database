@@ -6,7 +6,6 @@ name: miss-morse-update
 type: ahfow_track
 track-id: 195
 track-lyrics: 
-track-guitar: 
 track-author: Tom Rapp
 track-sort: "MISS MORSE UPDATE"
 track-original: Pearls Before Swine

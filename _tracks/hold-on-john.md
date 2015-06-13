@@ -6,7 +6,6 @@ name: hold-on-john
 type: ahfow_track
 track-id: 222
 track-lyrics: 
-track-guitar: 
 track-author: John Lennon
 track-sort: "HOLD ON (JOHN)"
 track-original: John Lennon

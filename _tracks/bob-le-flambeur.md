@@ -6,7 +6,6 @@ name: bob-le-flambeur
 type: ahfow_track
 track-id: 122
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "BOB LE FLAMBEUR"
 track-original: 

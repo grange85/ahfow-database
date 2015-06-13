@@ -6,7 +6,6 @@ name: house-of-glass
 type: ahfow_track
 track-id: 288
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "HOUSE OF GLASS"
 track-original: 

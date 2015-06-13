@@ -6,7 +6,6 @@ name: on-the-sofa
 type: ahfow_track
 track-id: 246
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "UNKNOWN TITLE"
 track-original: 

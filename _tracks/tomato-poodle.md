@@ -6,7 +6,6 @@ name: tomato-poodle
 type: ahfow_track
 track-id: 172
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "TOMATO POODLE"
 track-original: 

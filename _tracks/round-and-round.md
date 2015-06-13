@@ -6,7 +6,6 @@ name: round-and-round
 type: ahfow_track
 track-id: 369
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "ROUND AND ROUND"
 track-original: 

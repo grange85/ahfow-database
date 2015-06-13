@@ -6,7 +6,6 @@ name: colours
 type: ahfow_track
 track-id: 312
 track-lyrics: 
-track-guitar: 
 track-author: Donovan Leitch
 track-sort: "COLOURS"
 track-original: Donovan

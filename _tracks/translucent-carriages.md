@@ -6,7 +6,6 @@ name: translucent-carriages
 type: ahfow_track
 track-id: 159
 track-lyrics: 
-track-guitar: 
 track-author: Tom Rapp
 track-sort: "TRANSLUCENT CARRIAGES"
 track-original: Pearls Before Swine

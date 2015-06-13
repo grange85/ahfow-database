@@ -6,7 +6,6 @@ name: northern-blue
 type: ahfow_track
 track-id: 355
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "NORTHERN BLUE"
 track-original: 

@@ -6,7 +6,6 @@ name: ophelia
 type: ahfow_track
 track-id: 360
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "OPHELIA"
 track-original: 

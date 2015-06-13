@@ -6,7 +6,6 @@ name: how-do-i-say-goodbye
 type: ahfow_track
 track-id: 358
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "HOW DO I"
 track-original: 

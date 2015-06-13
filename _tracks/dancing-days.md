@@ -6,7 +6,6 @@ name: dancing-days
 type: ahfow_track
 track-id: 366
 track-lyrics: 
-track-guitar: 
 track-author: Page/Plant
 track-sort: "DANCING DAYS"
 track-original: Led Zeppelin

@@ -6,7 +6,6 @@ name: embers
 type: ahfow_track
 track-id: 363
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "EMBERS"
 track-original: 

@@ -6,7 +6,6 @@ name: drunken-whistler
 type: ahfow_track
 track-id: 252
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "DRUNKEN WHISTLER"
 track-original: 

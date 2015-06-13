@@ -13,15 +13,17 @@
 					<nav>
 						<ul class="breadcrumb">
 							<li><a href="/">Home</a></li>
-							{% case page.title %}
-								{% when 'Covers' %}
-								{% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
-								{% assign cover = true %}
-								<li><a href="/tracks/">Tracks</a></li>
-								<li>Covers</li>
+							{% case page.list %}
+								{% when 'covers' %}
+									{% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
+									{% assign cover = true %}
+									<li><a href="/tracks/">Tracks</a></li>
+									<li>Covers</li>
+								{% when 'chords' %}
+									{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-sort' %}
 								{% else %}
-								{% assign tracks = site.tracks | sort: 'track-sort' %}
-								<li>Tracks</li>
+									{% assign tracks = site.tracks | sort: 'track-sort' %}
+									<li>Tracks</li>
 							{% endcase %}
 						</ul>
 					</nav>

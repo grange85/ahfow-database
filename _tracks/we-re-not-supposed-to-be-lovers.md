@@ -6,7 +6,6 @@ name: we-re-not-supposed-to-be-lovers
 type: ahfow_track
 track-id: 310
 track-lyrics: 
-track-guitar: 
 track-author: Adam Green
 track-sort: "WE'RE NOT SUPPOSED TO BE LOVERS"
 track-original: Adam Green

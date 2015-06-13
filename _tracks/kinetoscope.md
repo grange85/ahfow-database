@@ -6,7 +6,6 @@ name: kinetoscope
 type: ahfow_track
 track-id: 156
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "KINETOSCOPE"
 track-original: 

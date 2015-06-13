@@ -6,7 +6,6 @@ name: time-2
 type: ahfow_track
 track-id: 174
 track-lyrics: 
-track-guitar: 
 track-author: Michael Merchant
 track-sort: "TIME"
 track-original: (information required)

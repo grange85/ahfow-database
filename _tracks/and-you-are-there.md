@@ -6,7 +6,6 @@ name: and-you-are-there
 type: ahfow_track
 track-id: 364
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "AND YOU ARE THERE"
 track-original: 

@@ -6,7 +6,6 @@ name: seven-eleven
 type: ahfow_track
 track-id: 127
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "SEVEN-ELEVEN"
 track-original: 

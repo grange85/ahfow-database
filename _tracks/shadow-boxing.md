@@ -6,7 +6,6 @@ name: shadow-boxing
 type: ahfow_track
 track-id: 359
 track-lyrics: 
-track-guitar: 
 track-author: Krukowski/Yang
 track-sort: "SHADOW BOXING"
 track-original: 

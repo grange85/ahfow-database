@@ -6,7 +6,6 @@ name: mystic-rattlers
 type: ahfow_track
 track-id: 367
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "MYSTIC RATTLERS"
 track-original: 

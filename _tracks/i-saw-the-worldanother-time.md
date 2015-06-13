@@ -6,7 +6,6 @@ name: i-saw-the-worldanother-time
 type: ahfow_track
 track-id: 194
 track-lyrics: 
-track-guitar: 
 track-author: Tom Rapp
 track-sort: "I SAW THE WORLD/ANOTHER TIME"
 track-original: Pearls Before Swine

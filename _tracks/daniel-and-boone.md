@@ -6,7 +6,6 @@ name: daniel-and-boone
 type: ahfow_track
 track-id: 350
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "DANIEL AND BOONE"
 track-original: 

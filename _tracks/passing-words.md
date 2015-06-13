@@ -6,7 +6,6 @@ name: passing-words
 type: ahfow_track
 track-id: 213
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "PASSING WORDS"
 track-original: 

@@ -6,7 +6,6 @@ name: je-t-aime-i-wanna-boogie-with-you
 type: ahfow_track
 track-id: 197
 track-lyrics: 
-track-guitar: 
 track-author: Serge Gainsbourg (Reed/Fonfara)
 track-sort: "JE T'AIME (I WANNA BOOGIE WITH YOU)"
 track-original: Serge Gainsbourg and Jane Birkin

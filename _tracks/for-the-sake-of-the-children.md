@@ -6,7 +6,6 @@ name: for-the-sake-of-the-children
 type: ahfow_track
 track-id: 181
 track-lyrics: 
-track-guitar: 
 track-author: Baskin/Relcheg
 track-sort: "FOR THE SAKE OF THE CHILDREN"
 track-original: Henry Gibson

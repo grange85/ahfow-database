@@ -39,6 +39,7 @@ track-lyrics: |
     You heard it all before
     And now they say it's magic
 track-guitar: "intro: G D/C\nG--0-2-4-2-4-2-0\nG D/C\nchange: G C\n(provided by J Guyer)"
+track-guitar-flag: true
 track-author: 
 track-sort: "LOST IN SPACE"
 track-original: 

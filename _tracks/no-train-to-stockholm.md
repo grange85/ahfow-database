@@ -6,7 +6,6 @@ name: no-train-to-stockholm
 type: ahfow_track
 track-id: 305
 track-lyrics: 
-track-guitar: 
 track-author: Lee Hazelwood
 track-sort: "NO TRAIN TO STOCKHOLM"
 track-original: Lee Hazelwood

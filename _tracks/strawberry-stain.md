@@ -6,7 +6,6 @@ name: strawberry-stain
 type: ahfow_track
 track-id: 303
 track-lyrics: 
-track-guitar: 
 track-author: Dean Wareham
 track-sort: "STRAWBERRY STAIN"
 track-original: 

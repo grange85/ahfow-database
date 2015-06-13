@@ -6,7 +6,6 @@ name: greyhound-goin-somewhere
 type: ahfow_track
 track-id: 180
 track-lyrics: 
-track-guitar: 
 track-author: Murphy/Dorsey
 track-sort: "GREYHOUND GOIN' SOMEWHERE"
 track-original: Bobbie Gentry

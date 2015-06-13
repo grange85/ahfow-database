@@ -6,7 +6,6 @@ name: she-went-walking-in-the-rain
 type: ahfow_track
 track-id: 372
 track-lyrics: 
-track-guitar: 
 track-author: Kember/Popra
 track-sort: "SHE WENT WALKING"
 track-original: Cheval Sombre

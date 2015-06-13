@@ -6,7 +6,6 @@ name: herringbone-tweed
 type: ahfow_track
 track-id: 354
 track-lyrics: 
-track-guitar: 
 track-author: 
 track-sort: "HERRINGBONE"
 track-original: 

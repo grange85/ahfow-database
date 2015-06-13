@@ -33,7 +33,6 @@ track-lyrics: |
     Paint a different color on your front door
     And tomorrow we will still be there
     And tomorrow we will still be there
-track-guitar: 
 track-author: Gram Parsons
 track-sort: "SONG FOR YOU"
 track-original: Gram Parsons

@@ -6,7 +6,6 @@ name: by-the-way-i-still-love-you
 type: ahfow_track
 track-id: 175
 track-lyrics: 
-track-guitar: 
 track-author: Lee Hazlewood
 track-sort: "BY THE WAY (I STILL LOVE YOU)"
 track-original: Sinatra, Nancy

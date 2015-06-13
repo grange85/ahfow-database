@@ -6,7 +6,6 @@ name: walk-on-the-wild-side
 type: ahfow_track
 track-id: 223
 track-lyrics: 
-track-guitar: 
 track-author: Lou Reed
 track-sort: "WALK ON THE WILD SIDE"
 track-original: Lou Reed

@@ -6,7 +6,6 @@ name: yoo-doo-right
 type: ahfow_track
 track-id: 171
 track-lyrics: 
-track-guitar: 
 track-author: Can
 track-sort: "YOO DOO RIGHT"
 track-original: Can
