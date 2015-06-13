@@ -60,12 +60,19 @@
 					{% endif %}
 				</div>
 				<div class="col-md-6">
+					<div class="thumbnail">
 					{% if page.show-poster-url %}
-					<figure>
-						<img src="{{page.show-poster-url}}">
-						<figcaption>poster</figcaption>
-					</figure>
+						<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+						<div class="caption">
+							Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
+						</div>
+					{% else %}
+						<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+						<div class="caption">
+							{{artist.name}}
+						</div>
 					{% endif %}
+					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -80,8 +87,8 @@
 					</div>
 				</div>
 			</div>
+			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 		</div>
-		<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 		<div class="col-md-3">
 			{% include sidebar.html %}
 		</div>

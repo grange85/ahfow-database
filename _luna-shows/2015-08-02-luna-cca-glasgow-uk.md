@@ -15,7 +15,7 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg'
+show-poster-url: 
 show-ticket-url: 'http://ccaglasgow.ticketsolve.com/shows/873530579/events?show_id=873530579'
 show-venue-website: 'http://www.cca-glasgow.com/programme/5506b7778c50e6d36600001d'
 show-additional: 'a:1:{i:0;s:10:"Radio show";}'

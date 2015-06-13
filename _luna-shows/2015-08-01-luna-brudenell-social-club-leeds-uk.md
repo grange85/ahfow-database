@@ -15,7 +15,7 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg'
+show-poster-url: 
 show-ticket-url: 'http://www.brudenellsocialclub.co.uk/whats-on/luna/'
 show-venue-website: 'http://www.brudenellsocialclub.co.uk/whats-on/luna/'
 show-additional: 

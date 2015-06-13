@@ -22,7 +22,7 @@
     {% assign showdate = show.show-date | date: '%s' %}
 	{% assign showdate = showdate | plus: 0 %}
     {% if showdate >= curdate %}
-   	    <li><a href="{{ show.url | prepend: site.baseurl}}">{{ show.title }}</a></li>
+   	    <li><a href="{{ show.url | prepend: site.baseurl}}">{{show.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ show.show-venue }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>

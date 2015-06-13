@@ -15,7 +15,7 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-07-31/20150731-luna-london.jpg'
+show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-07-31/20150731-luna-london-new.jpg'
 show-ticket-url: 'http://www.ticketweb.co.uk/event/AJI3107Z'
 show-venue-website: 
 show-additional: 
