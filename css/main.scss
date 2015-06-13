@@ -1,11 +1,18 @@
 ---
 ---
+
+
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
+$grid-float-breakpoint: 992px;
+
 @import "bootstrap";
 @import "bootstrap/theme";
+
+
+
 @import "base";
 
 

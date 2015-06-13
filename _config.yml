@@ -1,5 +1,6 @@
 # Site settings
-title: 'A Head Full of Wishes: data'
+title: 'A Head Full of Wishes'
+subtitle: 'Releases, shows and tracks'
 email: andy@fullofwishes.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   A Head Full of Wishes is a fan site for Galaxie 500, Luna, Damon and Naomi, Dean and Britta and Dean Wareham,
