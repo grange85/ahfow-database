@@ -60,19 +60,35 @@
 					{% endif %}
 				</div>
 				<div class="col-md-6">
-					<div class="thumbnail">
 					{% if page.show-poster-url %}
-						<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
-						<div class="caption">
-							Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
+						<div class="thumbnail">
+							<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+							<div class="caption">
+								Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
+							</div>
 						</div>
 					{% else %}
-						<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
-						<div class="caption">
-							{{artist.name}}
-						</div>
+						{% case artist.slug %}
+						{% when 'luna' %}
+							{% assign showdate = page.show-date | date: '%s' %}
+							{% assign brittadate = '2000-03-01' | date: '%s' %}
+							{% if showdate > brittadate %}
+								<div class="thumbnail">
+									<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+									<div class="caption">
+										{{artist.name}}
+									</div>
+								</div>
+							{% endif %}
+						{% else %}
+							<div class="thumbnail">
+								<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+									<div class="caption">
+									{{artist.name}}
+								</div>
+							</div>
+						{% endcase %}
 					{% endif %}
-					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
