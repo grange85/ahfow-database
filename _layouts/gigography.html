@@ -60,11 +60,14 @@
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
-						<ul>
+						<table class="table table-striped">
 						{% for show in shows %}
-							<li><a href="{{ show.url | prepend: site.baseurl}}">{{show.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ show.show-venue }}</a></li>
+							<tr>
+							<th>{{show.show-date|date: "%-d %B %Y"}}</th>
+							<td><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
+							</tr>
 						{% endfor %}  
-						</ul>
+						</table>
 					{% endif %}
 				{% endif %}
 				</div>
