@@ -19,13 +19,15 @@
 <h3 id="upcoming">Upcoming {{artist.name}} shows</h3>
 <div class="row"><div class="pull-right"><a href="/{{artist.slug}}/shows/upcoming.xml"><span class="rss-icon">{% icon fa-rss %}</span> Subscribe to a feed of upcoming {{artist.name}} shows </a></div></div>
 <div class="row">
-<table class="dl-horizontal">
+<table class="table table-striped">
 {% for show in shows %}
     {% assign showdate = show.show-date | date: '%s' %}
 	{% assign showdate = showdate | plus: 0 %}
     {% if showdate >= curdate %}
-              <dt>{{show.show-date|date: "%-d %B %Y"}}</dt>
-              <dd><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></dd>
+        <tr>
+        <th>{{show.show-date|date: "%-d %B %Y"}}</th>
+        <td><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
+        </tr>
     {% endif %}
 {% endfor %}
 </table>
