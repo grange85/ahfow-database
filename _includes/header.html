@@ -46,6 +46,9 @@
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid-->
 		</nav>
-	</div><!-- /.navbar-collapse -->
+		<div class="page-header">
+			<h2>{% if newtitle %}{{ newtitle }}{% else %}{{ page.title }}{% endif %}</h2>
+		</div>
+	</div><!-- /.container -->
 </header>
 		
