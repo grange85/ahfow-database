@@ -16,6 +16,7 @@
 							<li><a href="/">Home</a></li>
 							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
 							<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
+							<li><a href="/{{artist.slug}}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
 							<li>{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}</li>
 						</ul>
 					</nav>

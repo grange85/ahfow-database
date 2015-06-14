@@ -15,9 +15,11 @@
 						<ul class="breadcrumb">
 							<li><a href="/">Home</a></li>
 							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-							<li>{{artist.name}} shows</li>
 							{% if page.year %}
+								<li><a href="/{{artist.slug}}/shows">{{artist.name}} shows</a></li>
 								<li>{{page.year}}</li>
+							{% else %}
+								<li>{{artist.name}} shows</li>
 							{% endif %}
 						</ul>
 					</nav>
