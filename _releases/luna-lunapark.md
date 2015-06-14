@@ -14,7 +14,7 @@ releases:
     releasedate: 1992
     type: album
     format: CD
-    label: ELektra
+    label: Elektra
     catno: "EU:7559-61360-2 / US:9 61360-2 / Japan: WMC5-563"
     imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
     mbid: 
@@ -65,7 +65,7 @@ releases:
     releasedate: 1992
     type: album
     format: LP
-    label: ELektra
+    label: Elektra
     catno: 9-61360-4
     imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-cassette.jpg
     mbid: 

@@ -19,13 +19,30 @@ releases:
     mbid: 
     imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
     discogs: 
-    release_notes:
+    release_notes: Split promo with Straightjacket Fits "Hail" on the b-side
     groups:
     - group: A
       tracks:
        - title: Blue Thunder
          author: Krukowski/Wareham/Yang
        - title: Victory Garden
+         author: Thompson/Cunningham
     - group: B - Straightjacket Fits
+  - release: 
+    version: catlogue-flexi-promo
+    year: 1989
+    releasedate: 1989
+    type: promo
+    format: 7" flexi
+    label: The Catalogue
+    catno: CAT 075
+    mbid: 
+    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_victory_garden_006.jpg
+    discogs: 
+    release_notes: also includes 'Hail' by Straightjacket Fits
+    groups:
+    - group: Flexi
+      tracks:
+       - title: Victory Garden
+         author: Thompson/Cunningham
 ---
-Split promo with Straightjacket Fits "Hail" on the b-side
