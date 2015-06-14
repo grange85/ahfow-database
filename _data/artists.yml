@@ -87,10 +87,8 @@ damon-and-naomi:
                 ]
   members :
     - name : Damon Krukowski
-      yearsactive : 1991 - 
       role : drums / guitar / vocals
     - name : Naomi Yang
-      yearsactive : 1991 -
       role : bass / keyboards / vocals
 
 dean-and-britta:
@@ -112,6 +110,12 @@ dean-and-britta:
                2014,
                2015
                ]
+  members :
+    - name : Dean Wareham
+      role : guitar / vocals
+    - name : Britta Phillips
+      role : bass / keyboards / vocals
+
 
 dean-wareham:
   name: Dean Wareham
@@ -119,7 +123,7 @@ dean-wareham:
   image: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-home-img.jpg
   yearsactive: [
                 2003,
-                2008
+                2008,
                 2013,
                 2014
-                ] 
+                ]
