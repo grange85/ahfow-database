@@ -225,7 +225,7 @@ releases:
          notes: 
          author: Dean Wareham
   - release: 
-    version: sonic-cathedral-cd
+    version: sonic-cathedral-cd-limited
     year: 2014
     releasedate: 2014
     type: album
