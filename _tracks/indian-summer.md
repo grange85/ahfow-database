@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Indian Summer (Beat Happening cover)
+title: Indian Summer
 name: indian-summer
 type: ahfow_track
 track-id: 105
