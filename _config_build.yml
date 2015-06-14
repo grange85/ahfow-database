@@ -79,5 +79,7 @@ exclude: [
 #    '_tracks',
 #    'tracks'
   ]
-gems: 
-   - jekyll-sitemap
+gems: [
+        jekyll-sitemap,
+        jekyll-last-modified-at
+      ]
