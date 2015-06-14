@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   it includes news as well as an extensive lists of releases and past and future shows. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://db.fullofwishes.co.uk" # the base hostname & protocol for your site
+image: http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 twitter_username: ahfow
 github_username:  grange85
 
@@ -51,9 +52,9 @@ collections:
 #  galaxie-500-shows:
 #    output: true
 #    permalink: galaxie-500/shows/:title.html
-  luna-shows:
-    output: true
-    permalink: luna/shows/:title.html
+#  luna-shows:
+#    output: true
+#    permalink: luna/shows/:title.html
 #  damon-and-naomi-shows:
 #    output: true
 #    permalink: damon-and-naomi/shows/:title.html
@@ -67,15 +68,19 @@ collections:
 # Build settings
 markdown: kramdown
 exclude: [
+    'damon-and-naomi/shows/upcoming.xml',
+    'luna/shows/upcoming.xml',
+    'dean-and-britta/shows/upcoming.xml',
+    'dean-wareham/shows/upcoming.xml',
 #    '_luna-shows',
     '_damon-and-naomi-shows',
     '_dean-and-britta-shows',
     '_dean-wareham-shows',
     '_galaxie-500-shows',
     '_tracks',
-    'tracks'
+    'tracks',
   ]
 gems: [
-        jekyll-sitemap,
-        jekyll-last-modified-at
+        jekyll-sitemap
+#        jekyll-last-modified-at
       ]

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
+	{% capture description %}Comprehensive list of {{artist.name}} releases with sleeve scans.{% endcapture %}
 	{% capture newtitle %}{{artist.name}} - releases {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
 	{% include head.html %}
 <body>

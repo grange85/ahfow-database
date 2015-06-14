@@ -1,6 +1,6 @@
 ---
 layout: page
-title : The database
+title : Releases, shows and tracks
 position: home
 ---
 ### Misc

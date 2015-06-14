@@ -2,6 +2,8 @@
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
 	{% capture newtitle %}{{artist.name}} - {{page.albumname}}{% endcapture %}
+	{% capture description %}Details for the release {{page.albumname}} by {{artist.name}} first issued in {{page.initial_release_date}}. Including track listings, production credits and sleeve scans.{% endcapture %}
+	{% assign ogimage = page.imageurl %}
 	{% include head.html %}
 <body>
 	{% include facebook.html %}

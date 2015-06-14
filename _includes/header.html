@@ -52,9 +52,11 @@
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid-->
 		</nav>
+		{% if page.position != 'home' %}
 		<div class="page-header">
 			<h2>{% if newtitle %}{{ newtitle }}{% else %}{{ page.title }}{% endif %}</h2>
 		</div>
+		{% endif %}
 	</div><!-- /.container -->
 </header>
 		
