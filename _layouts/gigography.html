@@ -37,6 +37,8 @@
 					{% endfor %}
 				</ul>
 			</nav>
+			<div class="row alert alert-warning" role="alert">{% icon fa-exclamation-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
+
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
 					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}
@@ -52,7 +54,9 @@
 			<div class="row">
 				<div class="col-md-12">
 					{% if page.section == 'topindex' %}
-						{% include upcoming.html artistslug= artist.slug %}
+						{% if artist.slug != 'galaxie-500' %}
+							{% include upcoming.html artistslug= artist.slug %}
+						{% endif %}	
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
