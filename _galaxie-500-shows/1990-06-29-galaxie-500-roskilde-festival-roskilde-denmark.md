@@ -28,5 +28,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/emi5m1mgwjm/1990-06-29_Galaxie_500-Roskilde_Festival.zip
 ---
 

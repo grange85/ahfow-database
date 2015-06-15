@@ -32,12 +32,17 @@
 				<div class="col-md-6">
 					<h3>Information</h3>
 					<ul>
-					<li>Date: {{page.show-date|date: "%-d %B %Y"}}</li>
+					<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
 					<li>Artist: {{artist.name}}</li>
 					<li>Venue: {{page.show-venue}}</li>
+					{% if page.show-download %}
+						<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
+					{% endif %}
+
+
 
 					{% if page.facebook-event-url %}
-						<li><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+						<li>{% icon fa-facebook %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
 					{% endif %}
 					{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
 					{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
@@ -45,10 +50,10 @@
 					{% assign showdate = showdate | plus: 0 %}
 					{% if showdate > nowdate %}
 						{% if page.show-ticket-url %}
-							<li><a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
+							<li>{% icon fa-external-link %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
 						{% endif %}
 						{% if page.show-venue-website %}
-							<li><a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+							<li>{% icon fa-external-link %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
 						{% endif %}
 					{% endif %}
 					</ul>

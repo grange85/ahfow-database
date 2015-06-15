@@ -31,5 +31,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/wxnynkzuown/Luna_1993-06-03_Luna_London.zip
 ---
 

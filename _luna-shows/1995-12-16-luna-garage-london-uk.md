@@ -31,5 +31,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/g5f0gihpann2e6u/luna-1995-12-16_-the-garage-london-uk.zip
 ---
 
