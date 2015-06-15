@@ -19,7 +19,13 @@
     <![endif]-->
 
 <!-- social sharing tags -->
+
+{% case layout %}
+{% when 'track' %}
+<meta name="twitter:card" content="summary">
+{% else %}
 <meta name="twitter:card" content="summary_large_image">
+{% endcase %}
 <meta name="twitter:site" content="@ahfow">
 <meta name="twitter:creator" content="@grange85">
 <meta property="fb:app_id" content="137187479629913" />
@@ -29,6 +35,9 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 <meta property="og:image" content="{% if ogimage %}{{ ogimage }}{% else %}{{site.image}}{% endif %}" />
+{% if artist.image %}
+<meta property="og:image" content="{{artist.image}}" />
+{% endif %}
 <!-- end social sharing tags -->
 
 <script>

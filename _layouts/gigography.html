@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
+	{% capture description %}Collection of all known shows played by {{artist.name}} {% if page.year %} in {{page.year}}{%else%}{% unless artist.slug=='galaxie-500' %} including any forthcoming shows{% endunless %}{% endif %}{% endcapture %}
 	{% capture newtitle %}{{artist.name}} shows{% endcapture %}
 	{% include head.html %}
 <body>

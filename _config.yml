@@ -2,9 +2,9 @@
 title: 'A Head Full of Wishes'
 subtitle: 'Releases, shows and tracks'
 email: andy@fullofwishes.co.uk
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   A Head Full of Wishes is a fan site for Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham,
-  it includes news as well as an extensive lists of releases and past and future shows. 
+  it includes news, articles and lists of releases and past and future shows. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://db.fullofwishes.co.uk" # the base hostname & protocol for your site
 image: http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
@@ -46,9 +46,9 @@ defaults:
 collections: 
   releases:
     output: true
-#  tracks:
-#    output: true
-#    permalink: tracks/:title.html
+  tracks:
+    output: true
+    permalink: tracks/:title.html
 #  galaxie-500-shows:
 #    output: true
 #    permalink: galaxie-500/shows/:title.html
@@ -76,9 +76,9 @@ exclude: [
     '_damon-and-naomi-shows',
     '_dean-and-britta-shows',
     '_dean-wareham-shows',
-    '_galaxie-500-shows',
-    '_tracks',
-    'tracks',
+    '_galaxie-500-shows'
+#    '_tracks',
+#    'tracks',
   ]
 gems: [
         jekyll-sitemap
