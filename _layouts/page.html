@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% if page.artistslug %}{% assign artist = site.data.artists[page.artistslug] %}{% endif %}
+	{% if page.description %}{% assign description = page.description %}{% endif %}
 	{% assign newtitle = page.title %}
 	{% include head.html %}
 <body>

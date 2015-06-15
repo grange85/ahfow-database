@@ -2,7 +2,9 @@
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
 	{% capture newtitle %}{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
+{% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Details of {{artist.name}}'s show at {{artist.venue}} on {{page.show-date| date "%-d %B %Y"}}. Including, when available, setlist, poster, photographs, and other details.{% endcapture %}
+{% endif %}
 	{% include head.html %}
 <body>
 	{% include facebook.html %}

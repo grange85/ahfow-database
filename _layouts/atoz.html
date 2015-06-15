@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html>
 {% assign newtitle = page.title %}
-{% case page.list %}
-{% when 'covers' %}
-	{% assign description = "An a-z list of covers of other people's tracks performed by Galaxie 500, Luna, Damon & Naomi, Dean & Britta or Dean Wareham."%}
-{% when 'chords' %}
-	{% assign description = "An a-z list of tracks performed by Galaxie 500, Luna, Damon & Naomi, Dean & Britta or Dean Wareham that have guitar chords or tab."%}
-{% else %}
-	{% assign description = "An a-z list of tracks performed by Galaxie 500, Luna, Damon & Naomi, Dean & Britta or Dean Wareham."%}
-{% endcase %}
+{% if page.description %}{% assign description = page.description %}{% endif %}
 {% include head.html %}
 <body>
 	{% include facebook.html %}
