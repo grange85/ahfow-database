@@ -32,5 +32,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/e7toee6ux7k2924/Luna_2005-01-17__ULU,_London,_UK.zip
 ---
 

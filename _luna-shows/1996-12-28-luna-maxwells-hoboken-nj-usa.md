@@ -29,5 +29,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/i8t8xcgqdikusji/Luna_1996-12-28__Maxwells-Hoboken-NJ-USA.zip
 ---
 

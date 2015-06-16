@@ -30,8 +30,8 @@ description: >
 {% for show in shows %}
     {% if show.show-download %}
         <tr>
-        <th>{{show.show-date|date: "%-d %B %Y"}}</th>
-        <td><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
+        <th class="col-md-4">{{show.show-date|date: "%-d %B %Y"}}</th>
+        <td class="col-md-8"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
         </tr>
     {% endif %}
 {% endfor %}

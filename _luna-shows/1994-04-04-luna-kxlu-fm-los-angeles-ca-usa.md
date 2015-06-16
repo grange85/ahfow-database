@@ -20,6 +20,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/3f3cgco2js377cf/Luna_1994-04-04__KXLU-FM,_Los_Angeles,_CA,_USA.zip
 ---
 
 (possibly 1994-04-03)

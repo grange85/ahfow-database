@@ -32,5 +32,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/0mu1tpy221s0r1c/Luna_2000-12-31__CBGBs_New_York_NY_USA.zip
 ---
 

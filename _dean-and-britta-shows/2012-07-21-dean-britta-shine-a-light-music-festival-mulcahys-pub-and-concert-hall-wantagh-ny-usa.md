@@ -28,6 +28,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: NYCTaper
+  url: http://www.nyctaper.com/2012/07/dean-britta-with-luna-reunion-july-21-2012-mulcahys-wantagh-ny-flac-and-mp3-downloads-streaming-songs/
 ---
 
 Sean Eden joined Dean & Britta for a number of Luna and Galaxie 500 songs

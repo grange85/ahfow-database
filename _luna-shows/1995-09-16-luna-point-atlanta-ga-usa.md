@@ -31,6 +31,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/0pniiayqe2x5s7h/Luna_1995-09-16__The_Point,_Atlanta,_GA,_USA.zip
 ---
 
 Setlist source: recording

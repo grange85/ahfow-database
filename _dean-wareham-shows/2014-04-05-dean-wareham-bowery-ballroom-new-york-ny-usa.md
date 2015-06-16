@@ -14,5 +14,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: NYCTaper
+  url: http://www.nyctaper.com/2014/04/dean-wareham-april-5-2014-bowery-ballroom-flacmp3streaming/
 ---
 
