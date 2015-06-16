@@ -1,7 +1,7 @@
 <header class="site-header">
 	<div class="container">
 		<div class="page-header">
-			<h1><a href="/">{{ site.title }}</a> <small>{{site.subtitle}}</small></h1>
+			<h1>{% if page.position == 'home' %}{{ site.title }}{% else %}<a href="/">{{site.title}}</a>{% endif %} <small>{{site.subtitle}}</small></h1>
 		</div>
 		<nav class="navbar navbar-default">
 			<div class="container-fluid">
