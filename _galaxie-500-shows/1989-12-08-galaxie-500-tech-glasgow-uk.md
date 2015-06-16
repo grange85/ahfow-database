@@ -29,5 +29,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/dzain022ya1y8p7/galaxie-500-1989-12-08_-glasgow-tech-glasgow-uk.zip
 ---
 

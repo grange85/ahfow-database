@@ -27,5 +27,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/t9jrk7ahvtaa5a8/Galaxie-500_1990-02-24__Maxwells-Hoboken-NJ-USA.zip
 ---
 

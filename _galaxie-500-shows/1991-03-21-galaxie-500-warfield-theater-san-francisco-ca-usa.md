@@ -26,5 +26,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/ttzyy5ymw2n/1991-03-21__Galaxie_500_SF_USA.zip
 ---
 

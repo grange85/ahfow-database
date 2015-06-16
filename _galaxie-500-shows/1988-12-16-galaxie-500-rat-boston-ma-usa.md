@@ -27,5 +27,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: mediafire
+  url: http://www.mediafire.com/download/3kdph0idz80fpev/Galaxie_500_1988-12-16__The_Rat,_Boston,_MA,_USA.zip
 ---
 <p>Supporting The Pixies.</p><p>This was in the database as a show from December 1987 but having listened to it evidence suggests that its probably from a year later.</p><p>In the show Dean mentions asks if anyone has their album which wasnt released until October 1988, and he also shouts "stick around for The Pixies" at the end.</p>

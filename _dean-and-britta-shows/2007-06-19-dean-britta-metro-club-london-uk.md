@@ -27,6 +27,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/0utqw6dxd04wkkt/Dean_&_Britta_2007-06-19__Metro_London_UK.zip
 ---
 
 with Asobi Seksu

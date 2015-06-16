@@ -30,5 +30,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/download/lindniw2xng/2001-05-15_Damon-Naomi_London.zip
 ---
 

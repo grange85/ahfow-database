@@ -29,6 +29,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/vuyigzjecin/2009-03-20_Dean-Britta.zip
 ---
 
 Worcester college consortium students only

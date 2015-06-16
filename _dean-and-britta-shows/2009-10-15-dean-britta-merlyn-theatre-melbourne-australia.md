@@ -30,6 +30,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/download/0yizt1gmnzt/2009-10-15_Dean-Britta_Melbourne.zip
 ---
 
 13 Most Beautiful...Songs for Andy Warhols Screen Tests
