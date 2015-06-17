@@ -17,7 +17,7 @@ show-setlist: [
   "Slash Your Tires",
   "Bewitched",
   "Moon Palace",
-  "23 Minutes",
+  "23 Minutes in Brussels",
   "[encore]",
   "Tiger Lily",
   "Indian Summer"
