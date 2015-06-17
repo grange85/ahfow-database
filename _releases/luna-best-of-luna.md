@@ -172,7 +172,7 @@ releases:
       - title: Chinatown
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
-      - title: Tracy I Love
+      - title: Tracy I Love You
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Bewitched
