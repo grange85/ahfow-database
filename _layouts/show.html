@@ -29,7 +29,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
+				{% if page.show-poster-url %}<div class="col-md-6">{% else %}<div class="col-md-12">{% endif %}
 					<h3>Information</h3>
 					<ul>
 					<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
@@ -70,6 +70,17 @@
 						{% endfor %}
 					</uL>
 					{% endif %}
+
+					{% if page.show-setlist %}
+						<h3>Setlist</h3>
+						<ul>
+						{% for track in page.show-setlist %}
+							<li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+						{% endfor %}
+						</ul>
+					{% endif %}
+
+
 				</div>
 				<div class="col-md-6">
 					{% if page.show-poster-url %}
@@ -101,18 +112,6 @@
 							</div>
 						{% endcase %}
 					{% endif %}
-				</div>
-				<div class="row">
-					<div class="col-md-12">
-					{% if page.show-setlist %}
-						<h3>Setlist</h3>
-						<ul>
-						{% for track in page.show-setlist %}
-							<li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
-						{% endfor %}
-						</ul>
-					{% endif %}
-					</div>
 				</div>
 			</div>
 			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
