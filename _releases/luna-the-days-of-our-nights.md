@@ -50,7 +50,7 @@ releases:
        - title: The Rustler
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: U.S. Out of My Pants
+       - title: US Out of My Pants
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Slow Song
