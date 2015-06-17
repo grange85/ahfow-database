@@ -17,8 +17,7 @@ show-setlist: [
   "Bewitched",
   "Fourth of July",
   "Tiger Lily",
-  "Time to Quit",
-  ""
+  "Time to Quit"
   ]
 show-date: 1996-06-07
 category: 1996
