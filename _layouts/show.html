@@ -75,7 +75,11 @@
 						<h3>Setlist</h3>
 						<ul>
 						{% for track in page.show-setlist %}
+							{% if track contains '[' %}
+							<li>{{track}}</li>
+							{% else %}
 							<li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+							{% endif %}
 						{% endfor %}
 						</ul>
 					{% endif %}
