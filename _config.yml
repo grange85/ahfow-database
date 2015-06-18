@@ -12,26 +12,26 @@ twitter_username: ahfow
 github_username:  grange85
 
 collections: 
-  releases:
-    output: true
-  tracks:
-    output: true
-    permalink: tracks/:title.html
-  galaxie-500-shows:
-    output: true
-    permalink: galaxie-500/shows/:title.html
+#  releases:
+#    output: true
+#  tracks:
+#    output: true
+#    permalink: tracks/:title.html
+#  galaxie-500-shows:
+#    output: true
+#    permalink: galaxie-500/shows/:title.html
   luna-shows:
     output: true
     permalink: luna/shows/:title.html
-  damon-and-naomi-shows:
-    output: true
-    permalink: damon-and-naomi/shows/:title.html
-  dean-and-britta-shows:
-    output: true
-    permalink: dean-and-britta/shows/:title.html
-  dean-wareham-shows:
-    output: true
-    permalink: dean-wareham/shows/:title.html
+#  damon-and-naomi-shows:
+#    output: true
+#    permalink: damon-and-naomi/shows/:title.html
+#  dean-and-britta-shows:
+#    output: true
+#    permalink: dean-and-britta/shows/:title.html
+#  dean-wareham-shows:
+#    output: true
+#    permalink: dean-wareham/shows/:title.html
 
 
 defaults: 
@@ -73,14 +73,20 @@ exclude: [
     'damon-and-naomi/shows/upcoming.xml',
     'luna/shows/upcoming.xml',
     'dean-and-britta/shows/upcoming.xml',
-    'dean-wareham/shows/upcoming.xml'
-#    '_luna-shows',
-#    '_damon-and-naomi-shows',
-#    '_dean-and-britta-shows',
-#    '_dean-wareham-shows',
-#    '_galaxie-500-shows'
-#    '_tracks',
-#    'tracks',
+    'dean-wareham/shows/upcoming.xml',
+    '_galaxie-500-shows',
+    '_damon-and-naomi-shows',
+    '_dean-and-britta-shows',
+    '_dean-wareham-shows',
+    'releases',
+    'luna/releases',
+    'damon-and-naomi',
+    'dean-and-britta',
+    'dean-wareham',
+    'galaxie-500',
+    '_galaxie-500',
+    '_tracks',
+    'tracks'
   ]
 gems: [
         jekyll-sitemap
