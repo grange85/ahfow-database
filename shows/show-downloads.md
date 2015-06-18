@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: A-Z of shows available to download
+title: List of shows available to download
 list: downloads
 categories: primary
 description: >
