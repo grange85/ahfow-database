@@ -18,8 +18,7 @@ show-setlist: [
   "IHOP",
   "California (All the Way)",
   "Indian Summer",
-  "Moon Palace",
-  ""
+  "Moon Palace"
   ]
 show-date: 2000-04-03
 category: 2000
