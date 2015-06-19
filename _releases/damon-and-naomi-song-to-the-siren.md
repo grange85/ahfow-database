@@ -29,7 +29,7 @@ releases:
        - title: The New World
          notes: 
          author: Krukowski/Yang/Batoh
-       - title: The Eye of the Storm
+       - title: Eye of the Storm
          notes: 
          author: Krukowski/Yang
        - title: Song to the Siren
