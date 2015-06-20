@@ -12,17 +12,17 @@ twitter_username: ahfow
 github_username:  grange85
 
 collections: 
-#  releases:
-#    output: true
-#  tracks:
-#    output: true
-#    permalink: tracks/:title.html
+  releases:
+    output: true
+  tracks:
+    output: true
+    permalink: tracks/:title.html
 #  galaxie-500-shows:
 #    output: true
 #    permalink: galaxie-500/shows/:title.html
-  luna-shows:
-    output: true
-    permalink: luna/shows/:title.html
+#  luna-shows:
+#    output: true
+#    permalink: luna/shows/:title.html
 #  damon-and-naomi-shows:
 #    output: true
 #    permalink: damon-and-naomi/shows/:title.html
@@ -78,15 +78,16 @@ exclude: [
     '_damon-and-naomi-shows',
     '_dean-and-britta-shows',
     '_dean-wareham-shows',
-    'releases',
-    'luna/releases',
-    'damon-and-naomi',
-    'dean-and-britta',
-    'dean-wareham',
-    'galaxie-500',
-    '_galaxie-500',
-    '_tracks',
-    'tracks'
+    '_notes'
+#    'releases',
+#    'luna/releases',
+#    'damon-and-naomi',
+#    'dean-and-britta',
+#    'dean-wareham',
+#    'galaxie-500',
+#    '_galaxie-500',
+#    '_tracks',
+#    'tracks'
   ]
 gems: [
         jekyll-sitemap

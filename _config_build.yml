@@ -72,6 +72,7 @@ markdown: kramdown
 source: /Volumes/XANDER3/06-AHFOW_JEKYLL/
 destination: /Volumes/XANDER3/db.fullofwishes.co.uk/
 exclude: [
+    '_notes'
 #    '_galaxie-500-shows',
 #    '_luna-shows',
 #    '_damon-and-naomi-shows',
