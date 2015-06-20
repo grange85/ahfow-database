@@ -4,7 +4,7 @@ permalink: /luna/releases/:title.html
 resource: discography
 section: 01-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/images/misc/luna_bobbyperu.jpg
+imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_bobbyperu.jpg
 initial_release_date: 1997
 albumname: Bobby Peru
 releases:
@@ -16,7 +16,7 @@ releases:
     format: CD
     label: Beggars Banquet
     catno: BBQ319CD
-    imageurl: http://media.fullofwishes.co.uk/images/misc/luna_bobbyperu.jpg
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_bobbyperu.jpg
     discogs: 
     release_notes: 
     groups:
