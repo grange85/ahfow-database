@@ -27,7 +27,6 @@ releases:
          author: Fred Neil
     - group: B
       tracks:
-      tracks:
        - title: Fuzzy Wuzzy
          notes: demo
          author: "Lyrics by Dean Wareham, music by Luna"

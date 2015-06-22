@@ -30,7 +30,6 @@ releases:
        - title: Dance With Me
          notes: 
          author: Jonthan Richman
-      tracks:
        - title: Bob Le Flambeur
          notes: 
          author: "Music by Luna"
