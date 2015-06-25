@@ -18,6 +18,7 @@ luna:
   name : Luna
   slug : luna
   image: http://media.fullofwishes.co.uk/02-luna/pictures/luna-home-img.jpg
+  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-luna-shows
   yearsactive : [
                 1992,
                 1993,
@@ -59,6 +60,7 @@ damon-and-naomi:
   name : Damon & Naomi
   slug : damon-and-naomi
   image: http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-home-img.jpg
+  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows
   yearsactive : [
                 1992,
                 1993,
@@ -95,6 +97,7 @@ dean-and-britta:
   name: Dean & Britta
   slug: dean-and-britta
   image: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-home-img.jpg
+  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows
   yearsactive: [
                2003,
                2004,
@@ -120,6 +123,7 @@ dean-wareham:
   name: Dean Wareham
   slug: dean-wareham
   image: http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-home-img.jpg
+  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-dean-wareham-shows
   yearsactive: [
                 2003,
                 2008,
