@@ -7,8 +7,6 @@ artistslug: dean-wareham
 initial_release_date: 1991
 albumname: 1991
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_anesthesia_minttea.jpg
-bandcamp-url: https://luna.bandcamp.com/album/luna-demos-1991
-bandcamp-id: 1687436887
 releases:
   - release: 
     version: mint-tea-12
