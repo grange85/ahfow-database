@@ -69,8 +69,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
-source: /Volumes/XANDER3/06-AHFOW_JEKYLL/
-destination: /Volumes/XANDER3/db.fullofwishes.co.uk/
+source: /Users/andrew/Sites/ahfow-jekyll/
+destination: /Users/andrew/db.fullofwishes.co.uk/
 exclude: [
     '_notes'
 #    '_galaxie-500-shows',
