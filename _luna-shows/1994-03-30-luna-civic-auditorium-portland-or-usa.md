@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Civic Auditorium, Portland OR, USA'
 show-setlist: 
-show-date: 1994-04-30
+show-date: 1994-03-30
 category: 1994
 show-radio: 
 show-lastfm: 

@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'The Old Market, Brighton, UK'
+show-venue: "Sticky Mike's Frog Bar, Brighton, UK"
 show-setlist: 
 show-date: 2015-07-30
 category: 2015
@@ -16,7 +16,8 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 'http://tom.tickets.red61.com/listprices.php?performanceId=1131:1402'
-show-venue-website: 'http://theoldmarket.com/shows/luna/'
+show-ticket-url: 'https://www.gigantic.com/luna-the-old-market-hove-2015-07-30-19-30'
+show-venue-website: 'https://www.drinkinbrighton.co.uk/events/stickymikesfrogbar/2015/07/29'
 show-additional: 
 ---
+Venue updated
