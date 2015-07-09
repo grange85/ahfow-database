@@ -28,7 +28,7 @@ releases:
        - title: Fuzzy Wuzzy
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Words Without Wrinkes
+       - title: Words Without Wrinkles
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
   - release: 
@@ -50,7 +50,7 @@ releases:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
-       - title: Words Without Wrinkes
+       - title: Words Without Wrinkles
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
 ---
