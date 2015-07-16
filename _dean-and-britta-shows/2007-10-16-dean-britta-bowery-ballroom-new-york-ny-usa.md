@@ -25,5 +25,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: The Sound of Indie
+  url: http://www.thesoundofindie.com/2007/10/29/the-cmj-roundupthe-monday-set-dean-britta-new-york-city-ny-101607/
 ---
 

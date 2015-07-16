@@ -17,7 +17,8 @@
 {% assign curdate = site.time | date: '%s' %}
 {% assign curdate = curdate | plus: 0 %}
 <h3 id="upcoming">Upcoming {{artist.name}} shows</h3>
-<div class="row"><div class="pull-right"><a href="{{artist.upcoming-shows-feed}}"><span class="rss-icon">{% icon fa-rss %}</span> Subscribe to a feed of upcoming {{artist.name}} shows </a></div></div>
+<div class="row"><div class="pull-right"><a href="{{artist.upcoming-shows-feed}}"><span class="rss-icon">{% icon fa-rss %}</span> Subscribe to a feed of upcoming {{artist.name}} shows </a></div>
+</div>
 <div class="row">
 <table class="table table-striped">
 {% for show in shows %}

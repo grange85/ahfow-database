@@ -32,6 +32,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: The Sound of Indie
+  url: http://www.thesoundofindie.com/2008/11/10/the-monday-set-dean-britta-new-york-city-ny-8-21-08/
 ---
-
 10PM

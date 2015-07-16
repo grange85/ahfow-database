@@ -19,4 +19,7 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Past Daily
+  url: http://pastdaily.com/2015/07/07/luna-live-at-festival-sos-4-8-nights-at-the-roundtable-festival-edition/
 ---

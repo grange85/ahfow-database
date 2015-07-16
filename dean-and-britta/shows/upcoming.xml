@@ -16,7 +16,15 @@ description: Upcoming shows for Dean & Britta.
 {% assign curdate = site.time | date: '%s' %}{% assign curdate = curdate | plus: 0 %}{% for show in site.dean-and-britta-shows %}{% assign showdate = show.show-date | date: '%s' %}{% assign showdate = showdate | plus: 0 %}{% if showdate >= curdate %}{% capture newtitle %}{{show.show-date|date: "%-d %B %Y"}} - Dean & Britta at {{ show.show-venue }}{% endcapture %}
 		<item>
 			<title>{{ newtitle | xml_escape }}</title>
-			<description>{{ show.notes | xml_escape }}</description>
+			<description><![CDATA[
+
+				{% if show.notes %}
+					<div>{{ show.notes}}</div>
+				{% endif %}
+				{% if show.content %}
+					<div>{{ show.content}}</div>
+				{% endif %}
+			]]></description>
 			<pubDate>{{ show.last_modified_at | date_to_rfc822 }}</pubDate>
 			<link>{{ show.url | prepend: site.baseurl | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ show.url | prepend: site.baseurl | prepend: site.url }}</guid>
