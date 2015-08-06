@@ -2,7 +2,25 @@
 layout: show
 artistslug: luna
 show-venue: 'Gorilla, Manchester, UK'
-show-setlist: 
+show-setlist: [
+  "California (All The Way)",
+  "Sideshow by The Seashore",
+  "Malibu Love Nest",
+  "The Owl and the Pussycat",
+  "Anesthesia",
+  "Still at Home",
+  "Pup Tent",
+  "Friendly Advice",
+  "Bewitched",
+  "Tracy I Love You",
+  "Chinatown",
+  "23 Minutes in Brussels",
+  "[encore 1]",
+  "Indian Summer",
+  "Speedbumps",
+  "Slash Your Tires",
+  "Sweet Child O'Mine"
+  ]
 show-date: 2015-08-03
 category: 2015
 show-radio: 

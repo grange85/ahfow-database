@@ -3,6 +3,7 @@ layout: page
 title : Luna
 artistslug: luna
 categories: primary
+description: All about the band Luna, including a full discography and a collection of shows with photos and other memorabilia
 ---
 
 Luna were one of the most underrated independent rock groups of the 1990s and beyond. Described by Rolling Stone magazine as "the best band you've never heard of", Luna combined intricate guitar work with traditional rock rhythms and poetic lyrics that elegantly capture the romance of late night. Their music resembles flowers in cracked pavement: arresting beauty out of well-trodden ground.

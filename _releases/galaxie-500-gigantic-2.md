@@ -5,7 +5,7 @@ resource: discography
 section: 04-compilation
 artistslug: galaxie-500
 initial_release_date: 1990
-albumname: Rutles Highway Revisited
+albumname: Gigantic 2
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
 releases:
   - release: 

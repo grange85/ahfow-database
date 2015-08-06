@@ -2,7 +2,25 @@
 layout: show
 artistslug: luna
 show-venue: 'The Garage, London, UK'
-show-setlist: 
+show-setlist: [
+  "Slide",
+  "Chinatown",
+  "Sideshow by the Seashore",
+  "Malibu Love Nest",
+  "Tiger Lily",
+  "This Time Around",
+  "Friendly Advice",
+  "Tracy I Love You",
+  "Cindy Tastes of Barbecue",
+  "Lost in Space",
+  "Bobby Peru",
+  "Moon Palace",
+  "23 Minutes in Brussels",
+  "[encore]",
+  "Anesthesia",
+  "Blue Thunder",
+  "Indian Summer"
+  ]
 show-date: 2015-07-31
 category: 2015
 show-radio: 
@@ -20,3 +38,4 @@ show-ticket-url: 'http://www.ticketweb.co.uk/event/AJI3107Z'
 show-venue-website: 
 show-additional: 
 ---
+Support from Flowers and El May

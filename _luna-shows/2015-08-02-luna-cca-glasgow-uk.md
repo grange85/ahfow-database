@@ -2,7 +2,23 @@
 layout: show
 artistslug: luna
 show-venue: 'CCA, Glasgow, UK'
-show-setlist: 
+show-setlist: [
+  "Slide",
+  "Chinatown",
+  "Cindy Tastes of Barbecue",
+  "Sideshow by the Seashore",
+  "Tiger Lily",
+  "Pup Tent",
+  "Malibu Love Nest",
+  "Tracy I Love You",
+  "Bobby Peru",
+  "Friendly Advice",
+  "Lost in Space",
+  "23 Minutes in Brussels",
+  "[encore]",
+  "Blue Thunder",
+  "Indian Summer"
+  ]
 show-date: 2015-08-02
 category: 2015
 show-radio: 

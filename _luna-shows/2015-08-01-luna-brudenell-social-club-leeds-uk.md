@@ -2,7 +2,26 @@
 layout: show
 artistslug: luna
 show-venue: 'Brudenell Social Club, Leeds, UK'
-show-setlist: 
+show-setlist: [
+  "Chinatown",
+  "Malibu Love Nest",
+  "Sideshow by the Seashore",
+  "Still at Home",
+  "Friendly Advice",
+  "Speedbumps",
+  "Tracy I Love You",
+  "Bewitched",
+  "Bonnie and Clyde",
+  "Moon Palace",
+  "Fuzzy Wuzzy",
+  "Time to Quit",
+  "23 Minutes in Brussels",
+  "[encore 1]",
+  "Tugboat",
+  "Indian Summer",
+  "[encore 2]",
+  "Tiger Lily"
+]
 show-date: 2015-08-01
 category: 2015
 show-radio: 
@@ -15,8 +34,7 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: 
-show-poster-url: 
-show-ticket-url: 'http://www.brudenellsocialclub.co.uk/whats-on/luna/'
-show-venue-website: 'http://www.brudenellsocialclub.co.uk/whats-on/luna/'
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-08-01/2015-08-01-luna-brudenell-leeds-poster.jpg
 show-additional: 
 ---
+Support from Flowers and Hookworms

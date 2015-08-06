@@ -3,6 +3,7 @@ layout: page
 title : Galaxie 500
 artistslug: galaxie-500
 categories: primary
+description: All about the band Galaxie 500, including a full discography and a collection of shows with photos and other memorabilia
 ---
 
 Seminal is a word often bandied about in describing certain influential groups and their works. And sadly, I must use the hackneyed word in an attempt to convey the underrated greatness that was Galaxie 500. Like the Velvet Underground before them, Galaxie 500 didn't have a large contemporary audience, but they had a profound effect on almost everyone who listened to them. And just as the Velvet Underground are credited as the prodigious founders of a new movement in rock and roll, the same can be said of Galaxie 500.
