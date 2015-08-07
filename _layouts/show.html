@@ -117,6 +117,19 @@
 						{% endcase %}
 					{% endif %}
 				</div>
+				{% if page.flickr %}
+				<div class="row">
+				<div class="col-md-12">
+				<h3>Photos</h3>
+				{% assign count = 0 %}
+				{% for gallery in page.flickr %}
+					{% assign count = count | plus: 1 %}
+					<h4><a href="{{gallery.url}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
+					<div class="galleria" id="galleria-{{count}}"></div>
+				{% endfor %}
+				</div>
+				</div>
+				{% endif %}
 			</div>
 			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 		</div>

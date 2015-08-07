@@ -14,6 +14,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157632616429439
+    id: 72157632616429439
 ---
 
 Supporting Richard Youngs. Damon will also be performing with Richard youngs

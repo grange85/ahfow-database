@@ -14,6 +14,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157625950504515
+    id: 72157625950504515
 ---
 
 Dean Wareham plays Galaxie 500

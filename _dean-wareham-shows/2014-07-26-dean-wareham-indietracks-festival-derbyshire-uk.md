@@ -32,5 +32,9 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'http://www.indietracks.co.uk/tickets/'
 show-venue-website: 'http://www.indietracks.co.uk/'
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157646043181385
+    id: 72157646043181385
 ---
 Played the indoor stage at 20:00 on the Saturday of the festival.

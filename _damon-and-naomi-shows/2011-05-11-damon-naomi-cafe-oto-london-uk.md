@@ -14,6 +14,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157626576170631
+    id: 72157626576170631
 ---
 
 with Michio Kurihara and Richard Youngs

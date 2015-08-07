@@ -29,6 +29,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157600414156222
+    id: 72157600414156222
 ---
 
 with The Clientele and Flowers Of Hell

@@ -37,5 +37,12 @@ show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-07-31
 show-ticket-url: 'http://www.ticketweb.co.uk/event/AJI3107Z'
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157656637112975
+    id: 72157656637112975
+  - user: -christoph-
+    url: https://www.flickr.com/photos/-christoph-/sets/72157654348264253
+    id: 72157654348264253
 ---
 Support from Flowers and El May

@@ -14,6 +14,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+flickr:
+  - user: grange85
+    url: https://www.flickr.com/photos/grange85/sets/72157622245442704
+    id: 72157622245442704
 ---
 
-with Amor de Dias (Alasdair from The Clientele and Lupe from Pipas)
+with Amor de Dias (Alasdair from The Clientele and Lupe from Pipas) and The Left Outsides
