@@ -36,9 +36,9 @@ performers: [
 facebook-event-url: 
 show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-08-01/2015-08-01-luna-brudenell-leeds-poster.jpg
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157656706994745
+    type: flickr-set
     id: 72157656706994745
 ---
 Support from Flowers and Hookworms

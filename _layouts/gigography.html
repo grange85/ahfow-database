@@ -77,8 +77,11 @@
 							{% if show.show-poster-url %}
 								<span class="icon" title="poster">{% icon fa-map-o %}</span>
 							{% endif %}
-							{% if show.flickr %}
+							{% if show.photos %}
 								<span class="icon" title="pictures">{% icon fa-camera-retro %}</span>
+							{% endif %}
+							{% if show.videos %}
+								<span class="icon" title="videos">{% icon fa-video-camera %}</span>
 							{% endif %}
 							{% if show.show-download %}
 								<span class="icon" title="show available for download">{% icon fa-download %}</span>

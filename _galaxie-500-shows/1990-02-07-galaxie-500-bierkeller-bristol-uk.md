@@ -18,6 +18,30 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+photos:
+  - type: ahfow-set
+    data: "[
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-01.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-01.jpg',
+        title: 'Photo by Stephen Blake'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-02.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-02.jpg',
+        title: 'Photo by Stephen Blake'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-03.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-03.jpg',
+        title: 'Photo by Stephen Blake'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-flyer.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1990-02-07/19900207-g500-bristol-flyer.jpg',
+        title: 'Photo by Stephen Blake'
+      }
+      ]"
 ---
 
 Supporting The Sundays

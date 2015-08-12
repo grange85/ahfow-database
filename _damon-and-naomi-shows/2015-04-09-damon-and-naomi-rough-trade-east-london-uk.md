@@ -31,9 +31,9 @@ show-poster-url: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets
 show-ticket-url: 'http://www.roughtrade.com/events/2015/4/1154'
 show-venue-website: 
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157649532502063
+    type: flickr-set
     id: 72157649532502063
 ---
 Lunchtime showing of Naomis film Fortune with live accompaniment

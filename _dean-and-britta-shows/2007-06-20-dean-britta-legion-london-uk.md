@@ -29,9 +29,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157600414156222
+    type: flickr-set
     id: 72157600414156222
 ---
 

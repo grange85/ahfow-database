@@ -34,8 +34,8 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'https://dashboard.ticketscript.com/channel/web2/get-dates/rid/VHCHB5LE/eid/200621/language/en/format/html'
 show-venue-website: 'http://zephyrlounge.co.uk/'
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157644788889922
+    type: flickr-set
     id: 72157644788889922
 ---

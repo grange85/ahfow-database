@@ -36,8 +36,8 @@ show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-04-26
 show-ticket-url: 'http://www.casadamusica.com/pt/agenda/2015/04/26-abril-2015-luna'
 show-venue-website: 
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157651851409830
+    type: flickr-set
     id: 72157651851409830
 ---

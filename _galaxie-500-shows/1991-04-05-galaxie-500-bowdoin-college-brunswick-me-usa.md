@@ -18,4 +18,33 @@ show-poster-url: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/199
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+photos:
+  - type: ahfow-set
+    data: "[
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-01.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-01.jpg',
+        title: 'Photo by Dan Pearson'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-02.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-02.jpg',
+        title: 'Photo by Dan Pearson'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-03.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-03.jpg',
+        title: 'Photo by Dan Pearson'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-04.jpg',
+        title: 'Photo by Dan Pearson'
+      },
+      {
+        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg',
+        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1991-04-05/19910405-galaxie-500-bowdoin-college-05.jpg',
+        title: 'Photo by Dan Pearson'
+      }
+      ]"
 ---

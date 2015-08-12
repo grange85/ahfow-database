@@ -30,9 +30,9 @@ show-additional:
 show-download: 
   site: Mediafire
   url: http://www.mediafire.com/download/0utqw6dxd04wkkt/Dean_&_Britta_2007-06-19__Metro_London_UK.zip
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157600404043105
+    type: flickr-set
     id: 72157600404043105
 ---
 

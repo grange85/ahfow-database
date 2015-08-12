@@ -14,9 +14,9 @@ show-poster-url:
 show-ticket-url: 'http://www.wegottickets.com/event/269393'
 show-venue-website: 'http://www.cafeoto.co.uk/damon-and-naomi-2014.shtm'
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157644779106483
+    type: flickr-set
     id: 72157644779106483
 ---
 Showing of Naomi Yangs silent film Fortune with live accompaniment by Damon & Naomi

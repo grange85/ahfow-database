@@ -29,7 +29,7 @@
 				</div>
 			</div>
 			<div class="row">
-				{% if page.show-poster-url %}<div class="col-md-6">{% else %}<div class="col-md-12">{% endif %}
+				<div class="col-md-6">
 					<h3>Information</h3>
 					<ul>
 					<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
@@ -117,19 +117,44 @@
 						{% endcase %}
 					{% endif %}
 				</div>
-				{% if page.flickr %}
+				{% if page.photos %}
 				<div class="row">
 				<div class="col-md-12">
 				<h3>Photos</h3>
 				{% assign count = 0 %}
-				{% for gallery in page.flickr %}
+				{% for gallery in page.photos %}
 					{% assign count = count | plus: 1 %}
-					<h4><a href="{{gallery.url}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
-					<div class="galleria" id="galleria-{{count}}"></div>
+					{% case gallery.type %}
+						{% when "flickr-set" %}
+							<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
+						{% when "ahfow-set" %}
+							<h4>Photos sent to A Head Full of Wishes</h4>
+					{% endcase %}
+						<div class="galleria" id="galleria-{{count}}"></div>
 				{% endfor %}
 				</div>
 				</div>
 				{% endif %}
+
+
+				{% if page.videos %}
+				<div class="row">
+				<div class="col-md-12">
+				<h3>Videos</h3>
+				{% for gallery in page.videos %}
+					{% assign count = count | plus: 1 %}
+					{% case gallery.type %}
+						{% when "youtube" %}
+							<h4>Videos on YouTube</h4>
+					{% endcase %}
+						<div class="galleria" id="galleria-{{count}}"></div>
+				{% endfor %}
+				</div>
+				</div>
+				{% endif %}
+
+
+
 			</div>
 			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 		</div>

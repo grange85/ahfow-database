@@ -37,12 +37,26 @@ show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-07-31
 show-ticket-url: 'http://www.ticketweb.co.uk/event/AJI3107Z'
 show-venue-website: 
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157656637112975
+    type: flickr-set
     id: 72157656637112975
   - user: -christoph-
-    url: https://www.flickr.com/photos/-christoph-/sets/72157654348264253
+    type: flickr-set
     id: 72157654348264253
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'http://www.youtube.com/watch?v=35oBjJM0mj4',
+        title: 'Luna - Malibu Love Nest - The Garage, London, England, 31 July 2015',
+        description: 'by Kiwichrisha'
+      },
+      {
+        video: 'http://www.youtube.com/watch?v=79NnpWEmhvU',
+        title: 'LUNA: Lost In Space live in London @ the Garage 31.07.2015',
+        description: 'by shorttrashmovies'
+    }
+    ]"
 ---
 Support from Flowers and El May

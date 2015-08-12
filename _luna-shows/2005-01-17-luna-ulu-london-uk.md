@@ -35,9 +35,9 @@ show-additional:
 show-download: 
   site: Mediafire
   url: http://www.mediafire.com/download/e7toee6ux7k2924/Luna_2005-01-17__ULU,_London,_UK.zip
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157600000883138
+    type: flickr-set
     id: 72157600000883138
 ---
 

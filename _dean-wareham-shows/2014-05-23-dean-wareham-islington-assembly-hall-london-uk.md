@@ -36,9 +36,9 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'http://www.alt-tickets.co.uk/alttickets/home_dean_wareham.html'
 show-venue-website: 'http://www.islington.gov.uk/assemblyhall/Pages/default.aspx'
 show-additional: 
-flickr:
+photos:
   - user: grange85
-    url: https://www.flickr.com/photos/grange85/sets/72157644819665224
+    type: flickr-set
     id: 72157644819665224
 ---
 Support: Darren Hayman
