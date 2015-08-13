@@ -69,19 +69,15 @@ defaults:
 
 # Build settings
 markdown: kramdown
-source: /Users/andrew/Sites/ahfow-jekyll/
-destination: /Users/andrew/db.fullofwishes.co.uk/
+source: /home/andy/sites/ahfow-db/
+destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
-    '_notes'
-#    '_galaxie-500-shows',
-#    '_luna-shows',
-#    '_damon-and-naomi-shows',
-#    '_dean-and-britta-shows',
-#    '_dean-wareham-shows',
-#    '_tracks',
-#    'tracks'
+    '_notes',
+    'Gemfile',
+    'Gemfile.lock'
   ]
 gems: [
         jekyll-sitemap,
-        jekyll-last-modified-at
+        jekyll-last-modified-at,
+        bootstrap-sass
       ]

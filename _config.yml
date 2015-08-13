@@ -17,21 +17,21 @@ collections:
   tracks:
     output: true
     permalink: tracks/:title.html
-#  galaxie-500-shows:
-#    output: true
-#    permalink: galaxie-500/shows/:title.html
+  galaxie-500-shows:
+    output: true
+    permalink: galaxie-500/shows/:title.html
   luna-shows:
     output: true
     permalink: luna/shows/:title.html
-#  damon-and-naomi-shows:
-#    output: true
-#    permalink: damon-and-naomi/shows/:title.html
-#  dean-and-britta-shows:
-#    output: true
-#    permalink: dean-and-britta/shows/:title.html
-#  dean-wareham-shows:
-#    output: true
-#    permalink: dean-wareham/shows/:title.html
+  damon-and-naomi-shows:
+    output: true
+    permalink: damon-and-naomi/shows/:title.html
+  dean-and-britta-shows:
+    output: true
+    permalink: dean-and-britta/shows/:title.html
+  dean-wareham-shows:
+    output: true
+    permalink: dean-wareham/shows/:title.html
 
 
 defaults: 
@@ -70,15 +70,15 @@ defaults:
 # Build settings
 markdown: kramdown
 exclude: [
-    'damon-and-naomi/shows/upcoming.xml',
-    'luna/shows/upcoming.xml',
-    'dean-and-britta/shows/upcoming.xml',
-    'dean-wareham/shows/upcoming.xml',
-    '_galaxie-500-shows',
-    '_damon-and-naomi-shows',
-    '_dean-and-britta-shows',
-    '_dean-wareham-shows',
-    '_notes'
+#    'damon-and-naomi/shows/upcoming.xml',
+#    'luna/shows/upcoming.xml',
+#    'dean-and-britta/shows/upcoming.xml',
+#    'dean-wareham/shows/upcoming.xml',
+#    '_galaxie-500-shows',
+#    '_damon-and-naomi-shows',
+#    '_dean-and-britta-shows',
+#    '_dean-wareham-shows',
+    '_notes',
 #    'releases',
 #    'luna/releases',
 #    'damon-and-naomi',
@@ -87,9 +87,13 @@ exclude: [
 #    'galaxie-500',
 #    '_galaxie-500',
 #    '_tracks',
-#    'tracks'
+#    'tracks',
+    'Gemfile',
+    'Gemfile.lock'
   ]
+
 gems: [
-        jekyll-sitemap
-#        jekyll-last-modified-at
-      ]
+  jekyll-sitemap,
+  jekyll-last-modified-at,
+  bootstrap-sass
+  ]
