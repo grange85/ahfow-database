@@ -18,11 +18,25 @@ $grid-float-breakpoint: 992px;
 .galleria{
 }
 
-.social{
-  height: 34px;
-  padding: 8px 15px;
-  line-height: 10px;
+/* This gets Google to fall into place */
+.social {
+        font-size: 1px;
 }
+
+/* This gets Facebook to fall into place */
+.social iframe {
+        vertical-align: middle;
+}
+
+/* Set an optional width for your button wrappers */
+.social span {
+        padding-right:8px;
+}
+
+/* Adjust the widths individually if you like */
+.social .google {
+}
+
 .rss-icon{
 	color: #ff6600;
 }

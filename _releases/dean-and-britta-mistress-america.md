@@ -23,8 +23,32 @@ releases:
     groups:
     - group: CD
       tracks:
-       - title: Mistress America
-         notes: full tracklist to follow
-         author: Wareham/Phillips
+      - title: Mistress America
+        author: Wareham/Phillips
+      - title: Tracy & Tony
+        author: Wareham/Phillips
+      - title: Do Everything (Soul Cycle)
+        author: Wareham/Phillips
+      - title: Mom's
+        author: Wareham/Phillips
+      - title: Tracy in New York
+        author: Wareham/Phillips
+      - title: Do Everything (Gas Station)
+        author: Wareham/Phillips
+      - title: Hooks & Ladders
+        author: Wareham/Phillips
+      - title: Robbers
+        author: Wareham/Phillips
+      - title: Tracy & Tony
+        notes: reprise
+        author: Wareham/Phillips
+      - title: Happy and Free
+        notes: Jim James remix
+        author: Wareham
+      - title: Tracy & Brooke
+        notes: Mom's reprise
+        author: Wareham/Phillips
 ---
-Soundtrack album for the Noah Baumbach movie Mistress America
+Soundtrack album for the Noah Baumbach movie Mistress America.  
+Also includes tracks by OMD, Suicide, Paul McCartney and Hot Chocolate
+

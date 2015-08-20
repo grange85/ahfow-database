@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
-	{% capture newtitle %}{{artist.name}} - {{page.albumname}}{% endcapture %}
+	{% capture newtitle %}{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}{% endcapture %}
 {% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Details for the release {{page.albumname}} by {{artist.name}} first issued in {{page.initial_release_date}}. Including track listings, production credits and sleeve scans.{% endcapture %}
 {% endif %}
@@ -20,7 +20,7 @@
 							<li><a href="/">Home</a></li>
 							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
 							<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
-							<li>{{artist.name}} - {{page.albumname}}</li>
+							<li>{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}</li>
 						</ul>
 					</nav>
 				</div>
