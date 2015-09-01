@@ -16,9 +16,9 @@ The subject matter of Luna's songs can be found, on any given day, in the pocket
 
 Luna was formed following the dissolution of Galaxie 500 in 1992. Wareham met Harwood at the dog races in Bath, England. They developed an immediate rapport. When informed that cult faves, the Feelies, were no more, Wareham made a phone call to New Jersey.
 
-> "Stanley, you don't know me, but, you're in my band…"
-> "Oh really… what's it called?"
-> Wareham flipped through his worn-out tarot cards and replied:
+> "Stanley, you don't know me, but, you're in my band…"  
+> "Oh really… what's it called?"  
+> Wareham flipped through his worn-out tarot cards and replied:  
 > "uhh… Luna."
 
 After recording LUNAPARK it was agreed that the band would benefit from the addition of a forth player. The redoubtable Sean Eden was brought into the fold and the band embarked on a rigorous schedule of touring. In support of LUNAPARK and BEWITCHED the band has played with such rock luminaries as the Screaming Trees, The Velvet Underground, and the Cocteau Twins. Look for them to maintain their hectic, globetrotting lifestyle with the release of their new album, due out some time in July (sorry, no title yet!).
