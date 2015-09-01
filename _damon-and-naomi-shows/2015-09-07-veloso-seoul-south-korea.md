@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: damon-and-naomi
-show-venue: '[tba], Seoul, South Korea'
+show-venue: 'Veloso, Seoul, South Korea'
 show-setlist: [
   ]
 show-date: 2015-09-07
