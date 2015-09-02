@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: /luna/releases/:title.html
+permalink: /luna/releases/:title/
 resource: discography
 section: 01-single
 artistslug: luna

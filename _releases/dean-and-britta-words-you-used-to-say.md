@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: /dean-and-britta/releases/:title.html
+permalink: /dean-and-britta/releases/:title/
 resource: discography
 section: 02-single
 artistslug: dean-and-britta

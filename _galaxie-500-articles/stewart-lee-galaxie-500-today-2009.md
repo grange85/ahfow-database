@@ -1,6 +1,6 @@
 ---
 type: page
-layout: article
+layout: page
 date: 2009
 title: Stewart Lee's sleeve notes for the 2009 reissue of Galaxie 500's Today
 ---

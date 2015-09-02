@@ -1,6 +1,6 @@
 ---
 type: page
-layout: article
+layout: page
 date: 1995
 title: Luna history (Elektra press release - 1995)
 ---

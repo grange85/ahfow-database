@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: /dean-wareham/releases/:title.html
+permalink: /dean-wareham/releases/:title/
 resource: discography
 section: 02-single
 artistslug: dean-wareham

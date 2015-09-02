@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: /damon-and-naomi/releases/:title.html
+permalink: /damon-and-naomi/releases/:title/
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi

@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: damon-and-naomi
-show-venue: '[tba], Tokyo, Japan'
+show-venue: 'Moon Romantic, Tokyo, Japan'
 show-setlist: [
   ]
 show-date: 2015-09-11
@@ -15,7 +15,7 @@ performers: [
   "Michio Kurihara - guitars"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/03-damon-and-naomi/show_assets/2015-09-10/2015-09-10-vacant-tokyo-japan.jpg
 show-ticket-url: http://baram-jp.weebly.com/international-sad-hits.html
 show-venue-website: 
 show-additional: 

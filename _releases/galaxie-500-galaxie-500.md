@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: /galaxie-500/releases/:title.html
+permalink: /galaxie-500/releases/:title/
 resource: discography
 section: 01-album
 artistslug: galaxie-500
