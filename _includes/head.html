@@ -29,6 +29,7 @@
 <meta name="twitter:site" content="@ahfow">
 <meta name="twitter:creator" content="@grange85">
 <meta property="fb:app_id" content="137187479629913" />
+<meta property="fb:admins" content="grange85"/>
 <meta property="og:site_name" content="{{site.title}}" />
 <meta property="og:title" content="{{newtitle}}" />
 <meta property="og:description" content="{% if description %}{{ description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
@@ -38,14 +39,4 @@
 {% if artist.image %}
 <meta property="og:image" content="{{artist.image}}" />
 {% endif %}
-<!-- end social sharing tags -->
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-386732-5', 'auto');
-  ga('send', 'pageview');
-</script>
 </head>

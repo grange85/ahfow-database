@@ -8,6 +8,7 @@
 	{% include header.html %}
 	{% include social.html %}
 	<div class="container">
+		<div class="row">
 		<div class="wrapper col-md-9">
 			<div class="row">
 				<div class="col-md-12">
@@ -31,24 +32,27 @@
 				</div>
 			</div>
 			{% assign newsection = 'A' %}
-			<h3>{{ newsection }}</h3>
-			<ul>
-			{% for track in tracks %}
-				{% assign currentsection = newsection %}
-				{% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
-				{% if newsection != currentsection %}
-					</ul><h3>{{ newsection }}</h3><ul>
-				{% endif %}
-				<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
-			{% endfor %}  <!-- page-category -->
-			</ul>
+			<div class="row">
+				<div class="col-md-12">
+				<h3>{{ newsection }}</h3>
+				<ul>
+				{% for track in tracks %}
+					{% assign currentsection = newsection %}
+					{% assign newsection = track.track-sort | truncate: 1, '' | upcase %}
+					{% if newsection != currentsection %}
+						</ul><h3>{{ newsection }}</h3><ul>
+					{% endif %}
+					<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
+				{% endfor %}  <!-- page-category -->
+				</ul>
+				</div>
+			</div>
 		</div>
-
 		<div class="col-md-3">
 			{% include sidebar.html %}
 		</div>
 	</div>
-
+</div>
 {% include footer.html %}
 </body>
 </html>

@@ -14,154 +14,145 @@
 	{% include header.html %}
 	{% include social.html %}
 	<div class="container">
-		<div class="wrapper col-md-9">
-			<div class="row">
-				<div class="col-md-12">
-					<nav>
-						<ul class="breadcrumb">
-							<li><a href="/">Home</a></li>
-							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-							<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
-							<li><a href="/{{artist.slug}}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
-							<li>{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}</li>
-						</ul>
-					</nav>
+		<div class="row">
+			<div class="wrapper col-md-9">
+				<div class="row">
+					<div class="col-md-12">
+						<nav>
+							<ul class="breadcrumb">
+								<li><a href="/">Home</a></li>
+								<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+								<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
+								<li><a href="/{{artist.slug}}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
+								<li>{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}</li>
+							</ul>
+						</nav>
+					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<h3>Information</h3>
-					<ul>
-					<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
-					<li>Artist: {{artist.name}}</li>
-					<li>Venue: {{page.show-venue}}</li>
-					{% if page.show-download %}
-						<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
-					{% endif %}
-
-
-
-					{% if page.facebook-event-url %}
-						<li>{% icon fa-facebook %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
-					{% endif %}
-					{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
-					{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
-					{% assign nowdate = nowdate | plus: 0 %}
-					{% assign showdate = showdate | plus: 0 %}
-					{% if showdate > nowdate %}
-						{% if page.show-ticket-url %}
-							<li>{% icon fa-external-link %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
-						{% endif %}
-						{% if page.show-venue-website %}
-							<li>{% icon fa-external-link %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
-						{% endif %}
-					{% endif %}
-					</ul>
-					{% assign content = page.content | strip_newlines %}
-					{% if content != "" %}
-						<h3>Notes</h3>
-						<p>{{ content }}</p>
-					{% endif %}
-					{% if page.performers %}
-						<h3>Performers</h3>
-					<uL>
-						{% for performer in page.performers %}
-							<li>{{ performer }}</li>
-						{% endfor %}
-					</uL>
-					{% endif %}
-
-					{% if page.show-setlist %}
-						<h3>Setlist</h3>
+				<div class="row">
+					<div class="col-md-6">
+						<h3>Information</h3>
 						<ul>
-						{% for track in page.show-setlist %}
-							{% if track contains '[' %}
-							<li>{{track}}</li>
-							{% else %}
-							<li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+						<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
+						<li>Artist: {{artist.name}}</li>
+						<li>Venue: {{page.show-venue}}</li>
+						{% if page.show-download %}
+							<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
+						{% endif %}
+						{% if page.facebook-event-url %}
+							<li>{% icon fa-facebook %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+						{% endif %}
+						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
+						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
+						{% assign nowdate = nowdate | plus: 0 %}
+						{% assign showdate = showdate | plus: 0 %}
+						{% if showdate > nowdate %}
+							{% if page.show-ticket-url %}
+								<li>{% icon fa-external-link %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
 							{% endif %}
-						{% endfor %}
+							{% if page.show-venue-website %}
+								<li>{% icon fa-external-link %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+							{% endif %}
+						{% endif %}
 						</ul>
-					{% endif %}
-
-
-				</div>
-				<div class="col-md-6">
-					{% if page.show-poster-url %}
-						<div class="thumbnail">
-							<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
-							<div class="caption">
-								Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
-							</div>
-						</div>
-					{% else %}
-						{% case artist.slug %}
-						{% when 'luna' %}
-							{% assign showdate = page.show-date | date: '%s' %}
-							{% assign brittadate = '2000-03-01' | date: '%s' %}
-							{% if showdate > brittadate %}
-								<div class="thumbnail">
-									<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
-									<div class="caption">
-										{{artist.name}}
-									</div>
-								</div>
-							{% endif %}
-						{% else %}
+						{% assign content = page.content | strip_newlines %}
+						{% if content != "" %}
+							<h3>Notes</h3>
+							<p>{{ content }}</p>
+						{% endif %}
+						{% if page.performers %}
+							<h3>Performers</h3>
+							<ul>
+							{% for performer in page.performers %}
+								<li>{{ performer }}</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+						{% if page.show-setlist %}
+							<h3>Setlist</h3>
+							<ul>
+							{% for track in page.show-setlist %}
+								{% if track contains '[' %}
+									<li>{{track}}</li>
+								{% else %}
+									<li><a href="/tracks/{{track|slugify}}.html ">{{track}}</a></li>
+								{% endif %}
+							{% endfor %}
+							</ul>
+						{% endif %}
+					</div>
+					<div class="col-md-6">
+						{% if page.show-poster-url %}
 							<div class="thumbnail">
-								<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
-									<div class="caption">
-									{{artist.name}}
+								<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+								<div class="caption">
+									Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
 								</div>
 							</div>
-						{% endcase %}
-					{% endif %}
+						{% else %}
+							{% case artist.slug %}
+								{% when 'luna' %}
+									{% assign showdate = page.show-date | date: '%s' %}
+									{% assign brittadate = '2000-03-01' | date: '%s' %}
+									{% if showdate > brittadate %}
+										<div class="thumbnail">
+											<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+											<div class="caption">
+												{{artist.name}}
+											</div>
+										</div>
+									{% endif %}
+									{% else %}
+										<div class="thumbnail">
+											<img class="img-responsive" src="{{artist.image}}" alt="{{artist.name}}">
+											<div class="caption">
+												{{artist.name}}
+											</div>
+										</div>
+							{% endcase %}
+						{% endif %}
+					</div>
 				</div>
 				{% if page.photos %}
 				<div class="row">
-				<div class="col-md-12">
-				<h3>Photos</h3>
-				{% assign count = 0 %}
-				{% for gallery in page.photos %}
-					{% assign count = count | plus: 1 %}
-					{% case gallery.type %}
-						{% when "flickr-set" %}
-							<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
-						{% when "ahfow-set" %}
-							<h4>Photos sent to A Head Full of Wishes</h4>
-					{% endcase %}
-						<div class="galleria" id="galleria-{{count}}"></div>
-				{% endfor %}
-				</div>
+					<div class="col-md-12">
+						<h3>Photos</h3>
+						{% assign count = 0 %}
+						{% for gallery in page.photos %}
+							{% assign count = count | plus: 1 %}
+							{% case gallery.type %}
+								{% when "flickr-set" %}
+									<h4><a href="https://www.flickr.com/photos/{{gallery.user}}/sets/{{gallery.id}}">Photos by <strong>{{gallery.user}}</strong> on Flickr</a></h4>
+								{% when "ahfow-set" %}
+									<h4>Photos sent to A Head Full of Wishes</h4>
+							{% endcase %}
+							<div class="galleria" id="galleria-{{count}}"></div>
+						{% endfor %}
+					</div>
 				</div>
 				{% endif %}
-
-
 				{% if page.videos %}
 				<div class="row">
-				<div class="col-md-12">
-				<h3>Videos</h3>
-				{% for gallery in page.videos %}
-					{% assign count = count | plus: 1 %}
-					{% case gallery.type %}
-						{% when "youtube" %}
-							<h4>Videos on YouTube</h4>
-					{% endcase %}
-						<div class="galleria" id="galleria-{{count}}"></div>
-				{% endfor %}
-				</div>
+					<div class="col-md-12">
+						<h3>Videos</h3>
+						{% for gallery in page.videos %}
+							{% assign count = count | plus: 1 %}
+							{% case gallery.type %}
+							{% when "youtube" %}
+								<h4>Videos on YouTube</h4>
+							{% endcase %}
+							<div class="galleria" id="galleria-{{count}}"></div>
+						{% endfor %}
+					</div>
 				</div>
 				{% endif %}
-
-
-
-			</div>
-			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+				<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 		</div>
 		<div class="col-md-3">
 			{% include sidebar.html %}
 		</div>
 	</div>
+</div>
 	{% include footer.html %}
 </body>
 </html>

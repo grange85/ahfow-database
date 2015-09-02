@@ -11,6 +11,7 @@
 	{% include header.html %}
 	{% include social.html %}
 	<div class="container">
+		<div class="row">
 		<div class="wrapper col-md-9">
 			<div class="row">
 				<div class="col-md-12">
@@ -28,20 +29,23 @@
 					</nav>
 				</div>
 			</div>
-			<nav>
-				<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
-					<ul class="list-inline">
-					{% for year in artist.yearsactive %}
-						<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item 
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
+						<ul class="list-inline">
+						{% for year in artist.yearsactive %}
+							<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item 
 							{% if year == page.year %}
 								active 
 							{% endif %}
 						">{{year | append: ""}}</a></li>
-					{% endfor %}
-				</ul>
-			</nav>
-			<div class="row alert alert-warning" role="alert">{% icon fa-exclamation-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
-
+						{% endfor %}
+						</ul>
+					</nav>
+					<div class="alert alert-warning" role="alert">{% icon fa-exclamation-triangle %} The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div>
+				</div>
+			</div>
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
 					{% assign shows = site.galaxie-500-shows | where: "category", page.year %}
@@ -63,7 +67,7 @@
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
-						<div class="row alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download</div>
+						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download</div>
 						<table class="table table-striped">
 						{% for show in shows %}
 							<tr>
@@ -101,6 +105,7 @@
 			{% include sidebar.html %}
 		</div>
 	</div>
+</div>
 	{% include footer.html %}
 </body>
 </html>

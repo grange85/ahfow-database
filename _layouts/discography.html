@@ -11,6 +11,7 @@
 	{% include header.html %}
 	{% include social.html %}
 	<div class="container">
+		<div class="row">
 		<div class="wrapper col-md-9">
 			<div class="row">
 				<div class="col-md-12">
@@ -23,14 +24,16 @@
 					</nav>
 				</div>
 			</div>
-			{% assign releases = site.releases | where: "artistslug", artist.slug | group_by: "section" %}
-			{% assign releases = releases | sort: 'name' %}
-			{% for section in releases %}
-				{% assign status = '' %}
-				{% assign section_name = section.name | split: "-" | last | capitalize%}
-				<h2>{{section_name}}</h2>
-				{% assign release_section = section.items | sort: 'initial_release_date' %}
-				<div class="row">
+			<div class="row">
+				<div class="col-md-12">
+				{% assign releases = site.releases | where: "artistslug", artist.slug | group_by: "section" %}
+				{% assign releases = releases | sort: 'name' %}
+				{% for section in releases %}
+					{% assign status = '' %}
+					{% assign section_name = section.name | split: "-" | last | capitalize%}
+					<h2>{{section_name}}</h2>
+					{% assign release_section = section.items | sort: 'initial_release_date' %}
+					<div class="row">
 					{% for release in release_section %}
 						{% capture status %}{% cycle section_name: 'odd', 'even' %}{% endcapture %}
 						<div class="col-md-6">
@@ -56,11 +59,14 @@
 					{% endfor %}  <!-- page-category -->
 				</div>
 			{% endfor %}
+			</div>
+		</div>
 		</div>
 		<div class="col-md-3">
 			{% include sidebar.html %}
 		</div>
 	</div>
+</div>
 	{% include footer.html %}
 </body>
 </html>

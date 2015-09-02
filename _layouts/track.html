@@ -10,37 +10,39 @@
 	{% include header.html %}
 	{% include social.html %}
 	<div class="container">
-		<div class="wrapper col-md-9">
-			<div class="row">
-				<div class="col-md-12">
-					<nav>
-						<ul class="breadcrumb">
-							<li><a href="/">Home</a></li>
-							<li><a href="/tracks/">Tracks</a></li>
-							<li>{{page.title}}</li>
-						</ul>
-					</nav>
+		<div class="row">
+			<div class="wrapper col-md-9">
+				<div class="row">
+					<div class="col-md-12">
+						<nav>
+							<ul class="breadcrumb">
+								<li><a href="/">Home</a></li>
+								<li><a href="/tracks/">Tracks</a></li>
+								<li>{{page.title}}</li>
+							</ul>
+						</nav>
+					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-8">
-					{{content}}
-					{% if page.track-lyrics %}
-						<h3>Lyrics</h3>
-						{{page.track-lyrics | newline_to_br}}
-					{% endif %}     
-					{% if page.track-guitar %}
-						<h3>Guitar</h3>
-						<pre>{{page.track-guitar}}</pre>
-					{% endif %}     
-				</div>
-			</div>
-			{% if page.layout == 'release' or page.layout == 'track' or page.lauyut == 'show' %}
+				<div class="row">
+					<div class="col-md-12">
+						{{content}}
+						{% if page.track-lyrics %}
+							<h3>Lyrics</h3>
+							{{page.track-lyrics | newline_to_br}}
+						{% endif %}     
+						{% if page.track-guitar %}
+							<h3>Guitar</h3>
+							<pre>{{page.track-guitar}}</pre>
+						{% endif %}     
+					</div>
+				{% if page.layout == 'release' or page.layout == 'track' or page.lauyut == 'show' %}
 				<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
-			{% endif %}
-		</div>
-		<div class="col-md-3">
-			{% include sidebar.html %}
+				{% endif %}
+				</div>
+			</div>
+			<div class="col-md-3">
+				{% include sidebar.html %}
+			</div>
 		</div>
 	</div>
 	{% include footer.html %}

@@ -69,31 +69,15 @@ defaults:
 
 # Build settings
 markdown: kramdown
+source: /home/andy/sites/ahfow-db/
+destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
-#    'damon-and-naomi/shows/upcoming.xml',
-#    'luna/shows/upcoming.xml',
-#    'dean-and-britta/shows/upcoming.xml',
-#    'dean-wareham/shows/upcoming.xml',
-#    '_galaxie-500-shows',
-#    '_damon-and-naomi-shows',
-#    '_dean-and-britta-shows',
-#    '_dean-wareham-shows',
     '_notes',
-#    'releases',
-#    'luna/releases',
-#    'damon-and-naomi',
-#    'dean-and-britta',
-#    'dean-wareham',
-#    'galaxie-500',
-#    '_galaxie-500',
-#    '_tracks',
-#    'tracks',
     'Gemfile',
     'Gemfile.lock'
   ]
-
 gems: [
-  jekyll-sitemap,
-  jekyll-last-modified-at,
-  bootstrap-sass
-  ]
+        jekyll-sitemap,
+        jekyll-last-modified-at,
+        bootstrap-sass
+      ]

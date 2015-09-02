@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: luna
-show-venue: St Andrew\'s Hall, Deroit, MI, USA
+show-venue: "St Andrew's Hall, Deroit, MI, USA"
 show-setlist: 
 show-date: 2015-10-15
 category: 2015

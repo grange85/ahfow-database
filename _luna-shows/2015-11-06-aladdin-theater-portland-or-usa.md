@@ -1,10 +1,10 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Northcote Social Club, Melbourne, Australia'
+show-venue: 'Aladdin Theater, Portland, OR, USA'
 show-notes: ''
 show-setlist: 
-show-date: 2015-09-17
+show-date: 2015-11-06
 category: 2015
 show-radio: 
 show-lastfm: 
@@ -17,7 +17,9 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: http://northcotesc.ticketscout.com.au/gigs/4089/Luna
-show-venue-website: 
+show-ticket-url: https://www.ticketfly.com/purchase/event/916739
+show-venue-website: http://www.aladdin-theater.com/event/916739-luna-portland/
 show-additional: 
+support:
+ - "The Parson Red Heads"
 ---
