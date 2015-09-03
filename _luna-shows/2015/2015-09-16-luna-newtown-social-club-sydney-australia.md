@@ -20,4 +20,6 @@ show-poster-url:
 show-ticket-url: http://newtownsc.ticketscout.com.au/gigs/4090/Luna
 show-venue-website: 
 show-additional: 
+support:
+ - "The Sand Pebbles"
 ---
