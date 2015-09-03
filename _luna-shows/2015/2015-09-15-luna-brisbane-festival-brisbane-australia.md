@@ -16,7 +16,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-australia-nz/luna-2015-aus-nz.jpg
 show-ticket-url: http://brisbanefestival.com.au/
 show-venue-website: 
 show-additional: 
