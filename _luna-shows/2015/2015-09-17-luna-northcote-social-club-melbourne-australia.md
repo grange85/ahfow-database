@@ -20,4 +20,6 @@ show-poster-url:
 show-ticket-url: http://northcotesc.ticketscout.com.au/gigs/4089/Luna
 show-venue-website: 
 show-additional: 
+support:
+ - "The Sand Pebbles"
 ---
