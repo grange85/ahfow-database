@@ -13,8 +13,7 @@ show-setlist: [
   "Four Thousand Days",
   "Pup Tent",
   "The Slow Song",
-  "23 Minutes in Brussels",
-  ""
+  "23 Minutes in Brussels"
   ]
 show-date: 2002-02-16
 category: 2002

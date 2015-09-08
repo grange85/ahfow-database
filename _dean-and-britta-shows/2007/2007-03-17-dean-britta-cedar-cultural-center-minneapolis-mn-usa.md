@@ -18,8 +18,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Ginger Snaps",
   "Bewitched",
-  "Tugboat",
-  ""
+  "Tugboat"
   ]
 show-date: 2007-03-17
 category: 2007

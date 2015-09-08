@@ -13,8 +13,7 @@ show-setlist: [
   "Knives From Bavaria",
   "Words You Used To Say",
   "You Turned My Head Around",
-  "Tiger Lily",
-  ""
+  "Tiger Lily"
   ]
 show-date: 2008-02-16
 category: 2008

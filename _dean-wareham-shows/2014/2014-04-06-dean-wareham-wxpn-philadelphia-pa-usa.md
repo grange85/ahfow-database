@@ -5,8 +5,7 @@ show-venue: 'WXPN, Philadelphia, PA, USA'
 show-setlist: [
   "Holding Pattern",
   "Heartless People",
-  "Tiger Lily",
-  ""
+  "Tiger Lily"
   ]
 show-date: 2014-04-06
 category: 2014

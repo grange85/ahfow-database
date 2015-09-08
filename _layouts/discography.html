@@ -26,7 +26,19 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-				{% assign releases = site.releases | where: "artistslug", artist.slug | group_by: "section" %}
+					{% case artist.slug %}
+						{% when 'galaxie-500' %}
+							{% assign releases = site.galaxie-500-releases | group_by: "section" %}
+						{% when 'luna' %}
+							{% assign releases = site.luna-releases | group_by: "section" %}
+						{% when 'damon-and-naomi' %}
+							{% assign releases = site.damon-and-naomi-releases | group_by: "section" %}
+						{% when 'dean-and-britta' %}
+							{% assign releases = site.dean-and-britta-releases | group_by: "section" %}
+						{% when 'dean-wareham' %}
+							{% assign releases = site.dean-wareham-releases | group_by: "section" %}
+					{% endcase %}
+
 				{% assign releases = releases | sort: 'name' %}
 				{% for section in releases %}
 					{% assign status = '' %}

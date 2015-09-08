@@ -16,8 +16,7 @@ show-setlist: [
   "Knives From Bavaria",
   "You Turned My Head Around",
   "Tiger Lily",
-  "Bonnie and Clyde",
-  ""
+  "Bonnie and Clyde"
   ]
 show-date: 2008-02-09
 category: 2008

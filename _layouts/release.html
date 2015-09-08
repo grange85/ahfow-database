@@ -71,7 +71,7 @@
 											{% endif %}
 											<ul>
 											{% for track in group.tracks %}
-												<li><a href="/tracks/{{track.title|slugify}}/ ">{{track.title}}</a>
+												<li><a href="/tracks/{{track.title|slugify}}/ ">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
 													{% if track.author %}
 														<em>({{track.author}})</em>
 													{% endif %}

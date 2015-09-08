@@ -13,8 +13,7 @@ show-setlist: [
   "When Will You Come Home",
   "Ceremony",
   "Tugboat",
-  "Rain",
-  ""
+  "Rain"
   ]
 show-date: 1989-09-26
 category: 1989

@@ -14,8 +14,7 @@ show-setlist: [
   "Pup Tent",
   "Bonnie and Clyde",
   "23 Minutes in Brussels",
-  "Chinatown",
-  ""
+  "Chinatown"
   ]
 show-date: 2002-02-16
 category: 2002
