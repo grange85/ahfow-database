@@ -9,6 +9,10 @@ show-radio: Radio session
 show-lastfm: 
 show-cancelled: 
 performers: 
+ - Dean Wareham - guitar/vocals
+ - Justin Harwood - bass
+ - Stanley Demeski - drums
+ - Sean Eden - guitar
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 

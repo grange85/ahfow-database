@@ -40,5 +40,8 @@ photos:
   - user: grange85
     type: flickr-set
     id: 72157656706994745
+show-download: 
+  site: NYCTaper
+  url: http://www.nyctaper.com/2015/09/luna-august-1-2015-leeds-uk-flacmp3streaming/
 ---
 Support from Flowers and Hookworms

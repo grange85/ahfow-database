@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^tracks\/(.*?)\.html$ /tracks/$1/ [R=301,L]
+Redirect gone /wiki/
+Redirect gone /w/
+Redirect gone /track/
+
+ErrorDocument 410 /error.html
+ErrorDocument 404 /error.html
