@@ -3,6 +3,20 @@ layout: show
 artistslug: luna
 show-venue: 'Coach House, Los Angeles CA, USA'
 show-setlist: 
+ - Sleeping Pill
+ - This Time Around
+ - Ride Into The Sun
+ - Anesthesia
+ - Going Home
+ - Thank You For Sending Me An Angel
+ - Tiger Lily
+ - California (All The Way)
+ - Hold On (John)
+ - Slash Your Tires
+ - Flowers
+ - Friendly Advice
+ - That's What You Always Say                                               - Into The Fold
+ - Indian Summer
 show-date: 1994-07-13
 category: 1994
 show-radio: 

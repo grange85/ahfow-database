@@ -80,6 +80,16 @@
 							{% endfor %}
 							</ul>
 						{% endif %}
+						{% if page.links %}
+							<h3>Links</h3>
+							<ul>
+							{% for link in page.links %}
+									<li>{% icon fa-external-link %} <a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+
+
 					</div>
 					<div class="col-md-6">
 						{% if page.show-poster-url %}

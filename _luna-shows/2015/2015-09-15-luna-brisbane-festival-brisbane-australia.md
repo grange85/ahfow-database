@@ -4,6 +4,18 @@ artistslug: luna
 show-venue: 'Brisbane Festival, Brisbane, Australia'
 show-notes: ''
 show-setlist: 
+ - Slide
+ - Chinatown
+ - Malibu Love Nest
+ - Sideshow by The Seashore
+ - Tracy I Love You
+ - Tiger Lily
+ - Speedbumps
+ - Bewitched
+ - Moon Palace
+ - Friendly Advice
+ - Lost in Space
+ - 23 Minutes in Brussels
 show-date: 2015-09-15
 category: 2015
 show-radio: 

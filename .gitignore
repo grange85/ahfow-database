@@ -1,3 +1,9 @@
 _site
 .sass-cache
 .DS_Store
+Gemfile
+Gemfile.lock
+_sass/bootstrap
+_sass/_bootstrap*
+_sass/_layout.scss
+_sass/_syntax-highlighting.scss

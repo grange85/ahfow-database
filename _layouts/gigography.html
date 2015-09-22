@@ -67,7 +67,7 @@
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
-						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download</div>
+						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link %} = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}
 							<tr>
@@ -90,8 +90,9 @@
 							{% if show.show-download %}
 								<span class="icon" title="show available for download">{% icon fa-download %}</span>
 							{% endif %}
-
-
+							{% if show.links %}
+								<span class="icon" title="links to reviews and other content">{% icon fa-external-link %}</span>
+							{% endif %}
 							</td>
 							</tr>
 						{% endfor %}  

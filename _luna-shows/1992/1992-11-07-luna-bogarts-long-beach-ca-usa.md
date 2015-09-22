@@ -1,26 +1,20 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Casbah, San Diego CA, USA'
-show-setlist: 
- - Hey Sister
- - California (All The Way)
- - Anesthesia
- - Going Home
- - Thank You For Sending Me an Angel
- - Tiger Lily
+show-venue: "Bogart's, Long Beach CA, USA"
+show-setlist:
  - Slide
- - This Time Around
- - We're Both Confused
- - Crazy People
- - Friendly Advice
- - Into The Fold
- - That's What You Always Say
+ - Say Goodbye
+ - Slash Your Tires
+ - Smile
+ - I Can't Wait
+ - Hey Sister
+ - Temperature's Rising
+ - Anesthesia
  - Time to Quit
  - Indian Summer
-show-date: 1994-07-12
-category: 1994
-show-radio: 
+show-date: 1992-11-07
+category: 1992
 show-lastfm: 
 show-cancelled: 
 performers: 
@@ -34,4 +28,7 @@ show-ticket-url:
 show-venue-website: 
 show-additional: 
 ---
+Setlist source: YouTube video
+
+
 

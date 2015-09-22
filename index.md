@@ -34,8 +34,8 @@ position: home
 				<h4>Tracks</h4>
 				<ul>
 				<li><a href="/tracks/index.html">A-Z of tracks</a></li>
-				<li><a href="/tracks/covers.html">A-Z of cover versions</a></li>
-				<li><a href="/tracks/chords.html">A-Z of chords</a></li>
+				<li><a href="/tracks/covers/">A-Z of cover versions</a></li>
+				<li><a href="/tracks/chords/">A-Z of chords</a></li>
 				</ul>
 				<h4>Downloads</h4>
 				<ul>

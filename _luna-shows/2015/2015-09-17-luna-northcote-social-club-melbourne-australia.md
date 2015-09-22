@@ -4,6 +4,22 @@ artistslug: luna
 show-venue: 'Northcote Social Club, Melbourne, Australia'
 show-notes: ''
 show-setlist: 
+- Slide
+- Chinatown
+- Malibu Love Nest
+- Sideshow by The Seashore
+- Speedbumps
+- Double Feature
+- Cindy Tastes of Barbecue
+- Tracy I Love You
+- Bewitched
+- Moon Palace
+- Friendly Advice
+- California (All The Way)
+- 23 Minutes in Brussels
+- "[encore]"
+- Tugboat
+- Indian Summer
 show-date: 2015-09-17
 category: 2015
 show-radio: 
