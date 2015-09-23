@@ -18,6 +18,7 @@ show-setlist:
 - California (All The Way)
 - 23 Minutes in Brussels
 - "[encore]"
+- Bobby Peru
 - Tugboat
 - Indian Summer
 show-date: 2015-09-17
