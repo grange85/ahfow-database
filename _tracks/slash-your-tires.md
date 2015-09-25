@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "SLASH YOUR TIRES"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=_z92bEk7TfQ',
+        title: 'Promo video (1992)',
+        description: ''
+      }
+    ]"
 ---

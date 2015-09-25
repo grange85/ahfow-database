@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "WHEN WILL YOU COME HOME"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=i9hgVPdv3rk',
+        title: 'Promo video',
+        description: 'Directed by Sergio Huidor'
+      }
+    ]"
 ---

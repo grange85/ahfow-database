@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "BOBBY PERU"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=jZ9t869USqs',
+        title: 'Promo video (1997)',
+        description: ''
+      }
+    ]"
 ---

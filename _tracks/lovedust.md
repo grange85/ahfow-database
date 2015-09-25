@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "LOVEDUST"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=wEwouUjDTTE',
+        title: 'Promo video (2002)',
+        description: ''
+      }
+    ]"
 ---

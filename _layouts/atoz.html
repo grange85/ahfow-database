@@ -23,6 +23,12 @@
 									<li>Covers</li>
 								{% when 'chords' %}
 									{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-sort' %}
+									<li><a href="/tracks/">Tracks</a></li>
+									<li>Chords</li>
+								{% when 'videos' %}
+									{% assign tracks = site.tracks | where: "video-flag", true | sort: 'track-sort' %}
+									<li><a href="/tracks/">Tracks</a></li>
+									<li>Videos</li>
 								{% else %}
 									{% assign tracks = site.tracks | sort: 'track-sort' %}
 									<li>Tracks</li>

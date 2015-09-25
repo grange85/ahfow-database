@@ -11,4 +11,19 @@ track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "FOURTH OF JULY"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=_53uWFIxJAw',
+        title: 'Promo video',
+        description: 'Directed by Sergio Huidor'
+      },
+      { 
+        video: 'https://www.youtube.com/watch?v=IrNvxv-ppnQ',
+        title: 'Noise TV Kids Korner',
+        description: 'Kids review Fourth of July video'
+      }
+    ]"
 ---

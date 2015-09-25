@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "BLUE THUNDER"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=lc3kxjy2GNk',
+        title: 'Promo video',
+        description: 'Directed by Sergio Huidor'
+      }
+    ]"
 ---

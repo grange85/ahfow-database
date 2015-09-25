@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "NIGHT NURSE"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=8CQK5LBA4ls',
+        title: 'Promo video (2003)',
+        description: 'Directed by Stefano Giovannini'
+      }
+    ]"
 ---

@@ -36,6 +36,7 @@ position: home
 				<li><a href="/tracks/index.html">A-Z of tracks</a></li>
 				<li><a href="/tracks/covers/">A-Z of cover versions</a></li>
 				<li><a href="/tracks/chords/">A-Z of chords</a></li>
+				<li><a href="/tracks/videos/">A-Z of tracks with promo videos</a></li>
 				</ul>
 				<h4>Downloads</h4>
 				<ul>

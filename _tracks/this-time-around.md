@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "THIS TIME AROUND"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=PLAW7Zm-2s4',
+        title: 'Promo video (1994)',
+        description: ''
+      }
+    ]"
 ---

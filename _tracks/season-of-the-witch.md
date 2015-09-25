@@ -12,4 +12,14 @@ track-author: Donovan Leitch
 track-sort: "SEASON OF THE WITCH"
 track-original: Donovan
 cover: true
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=wwzjjpcOTVE',
+        title: 'Promo video',
+        description: ''
+      }
+    ]"
 ---
