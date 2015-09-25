@@ -36,6 +36,8 @@ show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-austra
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - FAZERDAZE
 links: 
  - url: http://13thfloor.co.nz/luna-the-tuning-fork-september-19-2015/
    source: "13th Floor"
@@ -43,4 +45,7 @@ links:
  - url: http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11516098
    source: "NZ Herald"
    title: "Live review: Luna, Tuning Fork"
+ - url: http://cheeseontoast.co.nz/2015/09/21/live-photos-of-luna-at-the-tuning-fork-on-saturday-19-sept-w-fazerdaze/
+   source: "Cheese on Toast NZ"
+   title: "Live photos of LUNA at The Tuning Fork on Saturday 19 Sept w/ FAZERDAZE"
 ---
