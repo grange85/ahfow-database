@@ -11,4 +11,14 @@ track-guitar-flag: true
 track-author: 
 track-sort: "SLIDE"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=xAnwSlwWJA8',
+        title: 'Promo video',
+        description: ''
+      }
+    ]"
 ---

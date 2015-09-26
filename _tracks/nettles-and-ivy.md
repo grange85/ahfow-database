@@ -9,4 +9,14 @@ track-lyrics:
 track-author: Krukowski/Yang
 track-sort: "NETTLES AND"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=r2PuLsAkFns',
+        title: 'Promo video',
+        description: 'Video by Lisandro Alonso'
+      }
+    ]"
 ---

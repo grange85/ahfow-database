@@ -11,7 +11,7 @@ releases:
   - release: 
     version: self-released-cdr
     year: 2005
-    releasedate: 1991
+    releasedate: 2005
     type: album
     format: CDr
     label: (no label)

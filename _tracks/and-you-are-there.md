@@ -9,4 +9,14 @@ track-lyrics:
 track-author: Krukowski/Yang
 track-sort: "AND YOU ARE THERE"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=id-uNRxKGcU',
+        title: 'Promo video',
+        description: 'Image by Chris Marker'
+      }
+    ]"
 ---

@@ -33,7 +33,7 @@ position: home
 				<h3>Lists</h3>
 				<h4>Tracks</h4>
 				<ul>
-				<li><a href="/tracks/index.html">A-Z of tracks</a></li>
+				<li><a href="/tracks/">A-Z of tracks</a></li>
 				<li><a href="/tracks/covers/">A-Z of cover versions</a></li>
 				<li><a href="/tracks/chords/">A-Z of chords</a></li>
 				<li><a href="/tracks/videos/">A-Z of tracks with promo videos</a></li>

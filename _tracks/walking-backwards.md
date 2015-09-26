@@ -9,4 +9,14 @@ track-lyrics:
 track-author: Krukowski/Yang
 track-sort: "WALKING BACKWARDS"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=KYxbXe2SFWo',
+        title: 'Promo video',
+        description: ''
+      }
+    ]"
 ---

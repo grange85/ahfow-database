@@ -1,6 +1,5 @@
 ---
 layout: release
-
 resource: discography
 section: 02-single
 artistslug: damon-and-naomi
@@ -26,7 +25,7 @@ releases:
       tracks:
        - title: It's All Over Now, Baby Blue
          notes: 
-         author: Bob Dylam
+         author: Bob Dylan
     - group: B
       tracks:
        - title: Yoo Doo Right

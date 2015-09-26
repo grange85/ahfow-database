@@ -1,0 +1,50 @@
+---
+layout: release
+resource: discography
+section: 04-dvd
+artistslug: damon-and-naomi
+initial_release_date: 2006
+albumname: Shibuya O Nest, Tokyo, Japan - June 24, 2004
+imageurl: 
+releases:
+  - release: 
+    version: self-released-dvd
+    year: 2006
+    releasedate: 2006
+    type: dvd
+    format: DVD
+    label: (no label)
+    catno: 
+    imageurl: 
+    mbid: 
+    discogs: 
+    groups:
+    - group: DVD
+      tracks:
+       - title: New York City
+       - title: House of Glass
+       - title: Turn of The Century
+       - title: Song to the Siren
+         author: Tim Buckley
+       - title: Awake in a Muddle
+         author: Masaki Batoh
+       - title: Beautiful Close Double
+       - title: The Robot Speaks
+       - title: ^The Wind's Twelve Quarters
+         author: Michio Kurihara / Your Ishihara
+       - title: A Second Life
+       - title: Araca Azul
+         notes: 
+         author: Caetano Veloso
+       - title: The Earth is Blue
+         notes: 
+         author: Krukowski/Yang
+       - title: Ueno Station
+       - title: ^Sendou Kouta
+         author: traditional
+       - title: Blue Thunder
+         author: Krukowski/Wareham/Yang
+---
+Damon & Naomi with Michio Kurihara, Masaki Batoh, Bhob Rainey & special guest Kan Mikami  
+Filmed and edited by Hiroo Ishihara   
+Cover design by Naomi Yang

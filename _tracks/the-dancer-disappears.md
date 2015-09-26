@@ -29,4 +29,14 @@ track-lyrics: |
 track-author: Dean Wareham
 track-sort: "DANCER DISAPPEARS"
 track-original: 
+video-flag: true
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=4Jr4SmThHHk',
+        title: 'Promo video',
+        description: 'Video directed by Meesoo Lee'
+      }
+    ]"
 ---
