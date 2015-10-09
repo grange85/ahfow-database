@@ -6,11 +6,11 @@ show-setlist: [
   "The Dancer Disappears",
   "Holding Pattern",
   "Emancipated Hearts",
-  "[interview]",
+  "^interview",
   "Air [The Incredible String Band|]",
   "Love is Not a Roof Against The Rain",
   "Heartless People [Michael Holland|]",
-  "[interview]",
+  "^interview",
   "Blue Thunder"
   ]
 show-date: 2014-06-19

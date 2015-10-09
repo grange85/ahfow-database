@@ -16,7 +16,7 @@ show-setlist: [
   "Bewitched",
   "Moon Palace",
   "Friendly Advice",
-  "[encore]",
+  "^encore",
   "Ride Into the Sun",
   "23 Minutes in Brussels",
   "Outdoor Miner",

@@ -16,7 +16,7 @@ show-setlist: [
   "Moon Palace",
   "Friendly Advice",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Blue Thunder",
   "Indian Summer"
   ]
@@ -36,5 +36,7 @@ show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-07-30/
 show-ticket-url: 'https://www.gigantic.com/luna-the-old-market-hove-2015-07-30-19-30'
 show-venue-website: 'https://www.drinkinbrighton.co.uk/events/stickymikesfrogbar/2015/07/29'
 show-additional: 
+support:
+ - Flowers
 ---
 Support from Flowers

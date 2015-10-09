@@ -42,7 +42,7 @@ releases:
          notes: Lets You Down Gently
          author: Phillips
 ---
-Releases as Britta Phillips &amp; Dean Wareham
+Released as Britta Phillips &amp; Dean Wareham
 
 Re-mixed by Sonic Boom.  
 Re-mix engineer: Nick Kramer.  

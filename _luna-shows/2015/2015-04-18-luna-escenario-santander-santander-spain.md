@@ -16,10 +16,10 @@ show-setlist: [
   "Moon Palace",
   "Time to Quit",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Ride Into the Sun",
   "Indian Summer",
-  "[encore]",
+  "^encore",
   "Slash Your Tires"
   ]
 setlist-source: 'https://www.flickr.com/photos/city_kitty/17005570610/'

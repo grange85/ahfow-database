@@ -17,7 +17,7 @@ show-setlist:
 - Friendly Advice
 - California (All The Way)
 - 23 Minutes in Brussels
-- "[encore]"
+- "^encore"
 - Bobby Peru
 - Tugboat
 - Indian Summer

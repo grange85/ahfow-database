@@ -19,4 +19,6 @@ show-poster-url:
 show-ticket-url: 'https://www.ticketfly.com/purchase/event/855435?utm_medium=bks'
 show-venue-website: 'http://www.thecedar.org/events/2015/10/17/luna-special-guest'
 show-additional: 
+support:
+ - Diane Coffee
 ---

@@ -5,9 +5,9 @@ show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
   "The Dancer Disappears",
   "Holding Pattern",
-  "[interview]",
+  "^interview",
   "Happy and Free",
-  "Ceremony [Joy Division]"
+  "Ceremony"
   ]
 show-date: 2014-06-28
 category: 2014

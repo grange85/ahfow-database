@@ -15,7 +15,7 @@ show-setlist: [
   "Tracy I Love You",
   "Chinatown",
   "23 Minutes in Brussels",
-  "[encore 1]",
+  "^encore 1",
   "Indian Summer",
   "Speedbumps",
   "Slash Your Tires",

@@ -16,10 +16,10 @@ show-setlist: [
   "Moon Palace",
   "Fuzzy Wuzzy",
   "Indian Summer",
-  "[encore]",
+  "^encore",
   "Sweet Child o' Mine",
   "23 Minutes in Brussels",
-  "[encore 2]",
+  "^encore 2",
   "Bonnie and Clyde",
   "Slash Your Tires"
   ]

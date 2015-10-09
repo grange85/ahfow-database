@@ -18,7 +18,7 @@ show-setlist: [
   "Bewitched",
   "Moon Palace",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Tiger Lily",
   "Indian Summer"
   ]

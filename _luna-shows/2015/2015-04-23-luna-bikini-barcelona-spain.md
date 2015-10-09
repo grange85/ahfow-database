@@ -17,7 +17,7 @@ show-setlist: [
   "Bewitched",
   "Friendly Advice",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Ride Into the Sun",
   "Indian Summer"
   ]

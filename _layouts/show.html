@@ -72,11 +72,19 @@
 							<h3>Setlist</h3>
 							<ul>
 							{% for track in page.show-setlist %}
-								{% if track contains '[' %}
-									<li>{{track}}</li>
+								{% if track contains '^' %}
+									<li class="text-muted">{{track | remove_first:'^'}}</li>
 								{% else %}
 									<li><a href="/tracks/{{track|slugify}}/ ">{{track}}</a></li>
 								{% endif %}
+							{% endfor %}
+							</ul>
+						{% endif %}
+						{% if page.support %}
+							<h3>Support</h3>
+							<ul>
+							{% for act in page.support %}
+									<li>{{act}}</li>
 							{% endfor %}
 							</ul>
 						{% endif %}

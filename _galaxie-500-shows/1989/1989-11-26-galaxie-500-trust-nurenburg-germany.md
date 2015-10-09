@@ -9,11 +9,11 @@ show-setlist: [
   "Snowstorm",
   "Plastic Bird",
   "Temperature's Rising",
-  "Don't Let Our Youth Go To Waste [Jonathan Richman]",
+  "Don't Let Our Youth Go To Waste",
   "When Will You Come Home",
   "Blue Thunder",
-  "Ceremony [Joy Division]",
-  "Here She Comes Now [Velvet Underground] "
+  "Ceremony",
+  "Here She Comes Now"
   ]
 show-date: 1989-11-26
 category: 1989

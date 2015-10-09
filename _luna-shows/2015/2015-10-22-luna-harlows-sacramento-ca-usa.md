@@ -14,5 +14,7 @@ show-poster-url:
 show-ticket-url: http://www.ticketfly.com/purchase/event/897441?utm_medium=459899
 show-venue-website: 
 show-additional: 
+support:
+ - Quilt
 ---
 Support from Quilt

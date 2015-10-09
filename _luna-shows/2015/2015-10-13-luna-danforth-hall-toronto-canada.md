@@ -19,4 +19,6 @@ show-poster-url:
 show-ticket-url: 'http://www.ticketmaster.ca/event/10004EA7D74C744E'
 show-venue-website: 
 show-additional: 
+support:
+ - Diane Coffee
 ---

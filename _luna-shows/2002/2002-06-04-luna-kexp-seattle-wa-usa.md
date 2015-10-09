@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'KEXP, Seattle, WA, USA'
 show-setlist: [
-  "[interview]",
+  "^interview",
   "Swedish Fish",
   "Weird and Woozy"
   ]

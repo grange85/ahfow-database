@@ -3,6 +3,24 @@ layout: show
 artistslug: luna
 show-venue: 'Bowery Ballroom, New York, NY, USA'
 show-setlist: 
+ - Chinatown
+ - Going Home
+ - Double Feature
+ - Sideshow by The Seashore
+ - California (All The Way)
+ - Malibu Love Nest
+ - Tracy I Love You
+ - Moon Palace
+ - Lost in Space
+ - Bonnie and Clyde
+ - Bewitched
+ - Friendly Advice
+ - ^encore 1
+ - Fuzzy Wuzzy
+ - Anesthesia
+ - 23 Minutes in Brussels
+ - ^encore 2
+ - Blue Thunder
 show-date: 2015-10-07
 category: 2015
 show-radio: 
@@ -19,4 +37,24 @@ show-poster-url:
 show-ticket-url: 'http://www.ticketmaster.com/luna-new-york-new-york-10-07-2015/event/00004EA70605A182?artistid=733769&majorcatid=10001&minorcatid=60'
 show-venue-website: 'http://www.boweryballroom.com/event/854005-luna-new-york'
 show-additional: 
+support:
+ - Diane Coffee
+videos:
+  - type: youtube
+    data: "[
+    {
+      video: 'https://www.youtube.com/watch?v=VCbZgOR9kOk',
+      title: 'luna ~ Double Feature Bowery Ballroom, NYC 10 7 15',
+      description: 'by michaelfgioia'
+    },
+    {
+      video: 'https://www.youtube.com/watch?v=7MGbgr3FFqU',
+      title: 'luna ~ Bonnie & Clyde Bowery Ballroom, NYC 10 7 15',
+      description: 'by michaelfgioia'
+    },
+    {
+      video: 'https://www.youtube.com/watch?v=m4fusaAf4Wg',
+      title: 'Luna - Bewitched - NYC 7 Oct 2015',
+      description: 'by nbmkms'
+    }    ]"
 ---

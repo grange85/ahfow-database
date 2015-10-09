@@ -16,7 +16,7 @@ show-setlist: [
   "Bobby Peru",
   "Moon Palace",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Anesthesia",
   "Blue Thunder",
   "Indian Summer"

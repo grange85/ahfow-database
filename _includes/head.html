@@ -53,4 +53,12 @@
 
 <script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
 <!-- End Cookie Consent plugin -->
+
+{% if artist %}
+<script>
+  dataLayer = [{
+    'page-artist': '{{artist.slug}}'
+  }];
+</script>
+{% endif %}
 </head>

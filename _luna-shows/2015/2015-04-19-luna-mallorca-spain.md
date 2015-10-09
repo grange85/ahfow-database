@@ -15,7 +15,7 @@ show-setlist: [
   "Moon Palace",
   "Ride Into the Sun",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Outdoor Miner",
   "Indian Summer"
   ]

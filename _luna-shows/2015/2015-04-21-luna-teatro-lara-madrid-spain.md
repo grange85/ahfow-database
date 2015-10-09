@@ -16,7 +16,7 @@ show-setlist: [
   "Bewitched",
   "Bonnie and Clyde",
   "Indian Summer",
-  "[encore]",
+  "^encore",
   "Slash Your Tires",
   "23 Minutes in Brussels"
   ]

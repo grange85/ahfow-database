@@ -15,7 +15,7 @@ show-setlist: [
   "Friendly Advice",
   "Lost in Space",
   "23 Minutes in Brussels",
-  "[encore]",
+  "^encore",
   "Blue Thunder",
   "Indian Summer"
   ]

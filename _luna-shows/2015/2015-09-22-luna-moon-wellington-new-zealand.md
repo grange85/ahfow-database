@@ -16,7 +16,7 @@ show-setlist:
  - Friendly Advice
  - Chinatown
  - 23 Minutes in Brussels
- - "[encore]"
+ - "^encore"
  - Bewitched
  - Indian Summer
 show-date: 2015-09-22
