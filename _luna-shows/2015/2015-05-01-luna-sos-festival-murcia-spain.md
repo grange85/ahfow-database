@@ -3,6 +3,12 @@ layout: show
 artistslug: luna
 show-venue: 'SOS Festival, Murcia, Spain'
 show-setlist: 
+ - Malibu Love Nest
+ - Friendly Advice
+ - Tracy I Love You
+ - Slash Your Tires
+ - 23 Minutes in Brussels
+ - Indian Summer
 show-date: 2015-05-01
 category: 2015
 show-radio: 
