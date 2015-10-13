@@ -1,10 +1,10 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Aulario la Bomba, Cádiz, Spain'
+show-venue: 'Ciseros, Park City, UT, USA'
 show-setlist: 
-show-date: 2015-04-28
-category: 2015
+show-date: 2000-01-25
+category: 2000
 show-radio: 
 show-lastfm: 
 show-cancelled: 
@@ -12,10 +12,13 @@ performers:
  - "Dean Wareham - guitar/vocals"
  - "Sean Eden - guitar"
  - "Lee Wall - drums"
- - "Britta Phillips - bass"
+ - "Matt Quigley - bass"
 facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-tour-spain-2015.jpg'
+show-poster-url: 
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - Wild Colonials
 ---
+Private party at the Slamdance Film Festival

@@ -9,6 +9,8 @@ show-radio: Radio session
 show-lastfm: 
 show-cancelled: 
 performers: 
+ - "Dean Wareham - guitar/vocals"
+ - "Sean Eden - guitar"
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 

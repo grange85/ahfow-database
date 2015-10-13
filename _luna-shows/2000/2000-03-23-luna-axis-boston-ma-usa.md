@@ -9,10 +9,15 @@ show-radio:
 show-lastfm: 
 show-cancelled: 
 performers: 
+ - "Dean Wareham - guitar/vocals"
+ - "Sean Eden - guitar"
+ - "Lee Wall - drums"
+ - "Britta Phillips - bass"
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
 ---
+Britta's first live show
 

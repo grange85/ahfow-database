@@ -22,3 +22,4 @@ show-additional:
 support:
  - Quilt
 ---
+Luna will play Penthouse from start to finish for this show.

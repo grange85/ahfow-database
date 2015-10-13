@@ -44,16 +44,6 @@ videos:
  - type: youtube
    data: "[
    {
-    video: 'https://www.youtube.com/watch?v=IXYY1Ag7w5I',
-    title: 'luna ~ "This Time Around' Bowery Ballroom, NYC 10.8.15',
-    description: 'by by michaelfgioia'
-   },
-   {
-    video: 'https://www.youtube.com/watch?v=IXYY1Ag7w5I',
-    title: 'Chinatown',
-    description: 'by Scott Ettin'
-   },
-   {
     video: 'https://www.youtube.com/watch?v=0_BpzPlzQAs',
     title: 'Luna Kalamazoo oct 8 2015',
     description: 'by Joakim Bengtsson'
@@ -67,9 +57,6 @@ videos:
     video: 'https://www.youtube.com/watch?v=l5TpkTsufro',
     title: 'Luna Season of the Witch oct 8 2015',
     description: 'by Joakim Bengtsson'
-   },
-
-
-
+   }
    ]"
 ---

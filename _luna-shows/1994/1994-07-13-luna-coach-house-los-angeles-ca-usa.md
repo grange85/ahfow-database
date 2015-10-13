@@ -15,7 +15,8 @@ show-setlist:
  - Slash Your Tires
  - Flowers
  - Friendly Advice
- - That's What You Always Say                                               - Into The Fold
+ - That's What You Always Say                                               
+ - Into The Fold
  - Indian Summer
 show-date: 1994-07-13
 category: 1994
@@ -23,6 +24,10 @@ show-radio:
 show-lastfm: 
 show-cancelled: 
 performers: 
+ - "Dean Wareham - guitar/vocals"
+ - "Justin Harwood - bass"
+ - "Stanley Demeski - drums"
+ - "Sean Eden - guitar"
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 

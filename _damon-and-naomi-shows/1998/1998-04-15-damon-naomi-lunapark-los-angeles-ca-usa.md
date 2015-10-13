@@ -1,6 +1,6 @@
 ---
 layout: show
-artistslug: luna
+artistslug: damon-and-naomi
 show-venue: 'Lunapark, Los Angeles CA, USA'
 show-setlist: 
 show-date: 1998-04-15

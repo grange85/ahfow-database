@@ -25,6 +25,10 @@ show-radio:
 show-lastfm: 
 show-cancelled: 
 performers: 
+ - "Dean Wareham - guitar/vocals"
+ - "Justin Harwood - bass"
+ - "Stanley Demeski - drums"
+ - "Sean Eden - guitar"
 facebook-event-url: 
 show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-06-07/1996-06-07-luna-poster.jpg'
 show-ticket-url: 

@@ -3,6 +3,20 @@ layout: show
 artistslug: luna
 show-venue: '3S Artspace, Portsmouth, NH, USA'
 show-setlist: 
+ - Egg Nog
+ - Chinatown
+ - Cindy Tastes of Barbecue
+ - Malibu Love Nest
+ - Anesthesia
+ - Sideshow by The Seashore
+ - Tiger Lily
+ - Lost in Space
+ - Kalamazoo
+ - Bewitched
+ - Friendly Advice
+ - ^encore
+ - Ride Into the Sun
+ - 23 Minutes in Brussels
 show-date: 2015-10-11
 category: 2015
 show-radio: 

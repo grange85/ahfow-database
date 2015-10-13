@@ -1,21 +1,22 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Aulario la Bomba, Cádiz, Spain'
+show-venue: 'NYU, New York, NY, USA'
 show-setlist: 
-show-date: 2015-04-28
-category: 2015
+show-date: 1996-09-02
+category: 1996
 show-radio: 
 show-lastfm: 
 show-cancelled: 
 performers: 
  - "Dean Wareham - guitar/vocals"
+ - "Justin Harwood - bass"
  - "Sean Eden - guitar"
  - "Lee Wall - drums"
- - "Britta Phillips - bass"
 facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-tour-spain-2015.jpg'
+show-poster-url: 
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
 ---
+Lee Wall's first show with LUNA
