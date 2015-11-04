@@ -27,9 +27,11 @@ performers:
  - "Sean Eden - guitar"
  - "Lee Wall - drums"
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/1997-03-01/1997-03-01-vassar-college-poster.jpg
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
 ---
-Supporting Yo La Tengo
+Supporting Yo La Tengo  
+
+Thanks to Nicole for the poster and details.

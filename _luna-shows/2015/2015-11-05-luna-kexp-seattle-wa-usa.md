@@ -1,11 +1,11 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Las Chocheras del Puerto, Huelva, Spain'
-show-setlist: 
-show-date: 2015-04-29
+show-venue: KEXP, Seattle, WA, USA
+show-setlist:
+show-date: 2015-11-05
 category: 2015
-show-radio: 
+show-radio: true
 show-lastfm: 
 show-cancelled: 
 performers: [
@@ -16,7 +16,8 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 'http://huelvatickets.com/luna/'
+show-ticket-url: 
 show-venue-website: 
 show-additional: 
 ---
+Luna live on KEXP at 15:00 PST

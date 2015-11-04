@@ -101,5 +101,8 @@ links:
    title: Luna at Terminal West, Atlanta, October 2, 2015
 support:
  - Matt Hollywood & The Bad Feelings
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2015/10/luna-october-2-2015-terminal-west-atlanta/ 
 ---
 For the first time Luna played their album Penthouse in it's entirety

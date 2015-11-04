@@ -34,7 +34,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/luna-new-york-new-york-10-08-2015/event/00004EA70608A186?artistid=733769&majorcatid=10001&minorcatid=60'
 show-venue-website: 'http://www.boweryballroom.com/event/854007-luna-new-york'
 show-additional: 
@@ -49,14 +49,48 @@ videos:
     description: 'by Joakim Bengtsson'
    },
    {
+    video: 'https://www.youtube.com/watch?v=iXiOk6BzObI',
+    title: 'Tiger Lily Luna oct 8 2015',
+    description: 'by Joakim Bengtsson'
+   },
+   {
+    video: 'https://www.youtube.com/watch?v=tTfGG__pQso',
+    title: 'Friendly Advice Luna oct 8 2015',
+    description: 'by Joakim Bengtsson'
+   },
+   {
+    video: 'https://www.youtube.com/watch?v=Mg0oNNYqwNE',
+    title: 'Bewitched Luna oct 8 2015',
+    description: 'by Joakim Bengtsson'
+   },
+   {
     video: 'https://www.youtube.com/watch?v=khmtt4DNfdg',
     title: 'Freakin and Peakin Luna oct 8 2015',
+    description: 'by Joakim Bengtsson'
+   },
+   {
+    video: 'https://www.youtube.com/watch?v=XhZ2bCFLCfk',
+    title: 'Luna Slash Your Tires Bowery Ballroom 8 oct 2015',
+    description: 'by Joakim Bengtsson'
+   },
+   {
+    video: 'https://www.youtube.com/watch?v=4bpNTuenCas',
+    title: '23 Minutes in Brussels Luna oct 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=l5TpkTsufro',
     title: 'Luna Season of the Witch oct 8 2015',
     description: 'by Joakim Bengtsson'
+   },
+   {
+    video: 'https://www.youtube.com/watch?v=saOHblH0l8c',
+    title: 'Luna Indian Summer oct 8 2015',
+    description: 'by Joakim Bengtsson'
    }
    ]"
+links:
+ - url: http://www.fullofwishes.co.uk/2015/10/25/he-only-dances-to-new-order-luna-in-ny-and-brooklyn-part-two/
+   source: AHFoW
+   title: "He only dances to New Order - Luna in New York and Brooklyn, part two: Thursday"
 ---

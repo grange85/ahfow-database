@@ -21,7 +21,7 @@ show-venue-website:
 show-additional: 
 show-download:
   site: NYCTaper
-  url: http://www.nyctaper.com/2015/06/luna-june-11-2015-mccarren-park-northside-fest-flacmp3streaming/comment-page-1/#comment-1519749
+  url: http://www.nyctaper.com/2015/06/luna-june-11-2015-mccarren-park-northside-fest-flacmp3streaming/comment-page-1/
 show-setlist: [
   "Slide",
   "California (All the Way)",

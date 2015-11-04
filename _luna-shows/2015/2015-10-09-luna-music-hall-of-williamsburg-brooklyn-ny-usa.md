@@ -36,8 +36,7 @@ performers: [
   "Stanley Demeski - drums"
   ]
 facebook-event-url: 
-show-poster-url: 
-show-ticket-url: 'http://www.ticketmaster.com/luna-brooklyn-new-york-10-09-2015/event/00004EA8A9FF5473?artistid=733769&majorcatid=10001&minorcatid=60'
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-venue-website: 'http://www.musichallofwilliamsburg.com/event/854003-luna-brooklyn'
 show-additional: 
 support:
@@ -49,6 +48,11 @@ videos:
      video: 'https://www.youtube.com/watch?v=JfEsz01K0RU',
      title: 'Luna - California (All The Way) - MHW 9 Oct 2015',
      description: 'by nbmkms'
+     },
+     {
+     video: 'https://www.youtube.com/watch?v=Re4EuSQk6tU',
+     title: 'Luna - Pup Tent - Williamsburg Music Hall 10.09.2015',
+     description: 'by theonlymiriclemik'
      },
      {
      video: 'https://www.youtube.com/watch?v=1MwSuDMjQ2o',
@@ -81,9 +85,106 @@ videos:
      description: 'by nbmkms'
      }
    ]"
+photos:
+  - type: ahfow-set
+    data: "[
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-001.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-001.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-002.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-002.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-003.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-003.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-004.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-004.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-001.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-001.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-002.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-002.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-003.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-003.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-004.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-004.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-005.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-005.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-006.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-006.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-009.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-009.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-010.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-010.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-011.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-011.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-012.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-012.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-frank.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-frank.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
+  },
+  {
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan with luna-janice.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan with luna-janice.jpg', 
+    title: 'Luna at the Music Hall of Williamsburg (photo: Janice)'
+  }
+  ]"
 links: 
  - url: http://www.fullofwishes.co.uk/2015/10/10/stanley-demeski-guests-with-luna-in-brooklyn-last-night/
    source: "A Head Full of Wishes"
    title: "Stanley Demeski guests with Luna in Brooklyn last night"
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2015/11/luna-october-9-2015-music-hall-of-williamsburg/
 ---
-Setlist to be confirmed
+<a href="http://shop.strawberryluna.com/product/luna-north-american-tour-poster">Poster available to buy from strawberryluna</a>.

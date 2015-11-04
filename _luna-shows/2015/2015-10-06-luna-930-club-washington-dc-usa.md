@@ -33,12 +33,16 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/854481
 show-venue-website: http://www.930.com/event/854481-luna-washington/
 show-additional: 
 support:
  - Diane Coffee
+photos:
+  - user: Matt Condon
+    type: flickr-set
+    id: 72157657391741534
 videos:
  - type: youtube
    data: "[{
@@ -46,4 +50,8 @@ videos:
    	title: 'Luna - 23 Minutes in Brussels - Live 10/6/15 at 9:30 Club Washington D.C.',
    	description: 'by schelzel'
 	}]"
+links:
+ - url: http://www.chunkyglasses.com/content/luna-930-club-10615
+   source: "Chunky Glasses"
+   title: "Live: LUNA @ 9:30 Club - 10/6/15"
 ---

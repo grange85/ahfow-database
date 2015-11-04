@@ -29,10 +29,47 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
 support:
  - Diane Coffee
+photos:
+  - type: flickr-set
+    user: Jack Fraser
+    id: 72157659868446638
+  - type: ahfow-set
+    data: "[
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-01.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-01.jpg',
+        title: 'Luna (Photo: Dana Brownrigg)'
+      },
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-03.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-03.jpg',
+        title: 'Luna (Photo: Dana Brownrigg)'
+      },
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-04.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-04.jpg',
+        title: 'Britta &amp; Dean (Photo: Dana Brownrigg)'
+      },
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-05.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-05.jpg',
+        title: 'Dean (Photo: Dana Brownrigg)'
+      },
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-06.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-06.jpg',
+        title: 'Britta - eyes closed (Photo: Dana Brownrigg)'
+      },
+       {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-07.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-07.jpg',
+        title: 'Lee &amp; Sean (Photo: Dana Brownrigg)'
+      }
+      ]"
 ---

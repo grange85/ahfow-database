@@ -39,4 +39,8 @@ show-venue-website:
 show-additional: 
 support:
  - "The Sand Pebbles"
+links:
+ - url: http://www.beat.com.au/music/luna-northcote-social-club
+   source: Beat
+   title: Luna @ Northcote Social Club
 ---
