@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Moon, Wellington, New Zealand'
 show-setlist: 
  - California (All The Way)
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Anesthesia
  - Tracy I Love You

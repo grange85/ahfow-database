@@ -5,7 +5,7 @@ show-venue: 'Trocadero, Philadelphia, PA, USA'
 show-setlist: 
  - Chinatown
  - Speedbumps
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Going Home
  - Tiger Lily
@@ -20,7 +20,7 @@ show-setlist:
  - California (All The Way)
  - 23 Minutes in Brussels
  - ^encore 2
- - Season of The Witch
+ - Season of the Witch
  - Indian Summer
 show-date: 2015-10-05
 category: 2015

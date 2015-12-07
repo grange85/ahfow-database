@@ -3,6 +3,11 @@ layout: show
 artistslug: luna
 show-venue: KEXP, Seattle, WA, USA
 show-setlist:
+ - Malibu Love Nest
+ - Tracy I Love You
+ - ^interview
+ - Rhythm King
+ - Ride Into the Sun
 show-date: 2015-11-05
 category: 2015
 show-radio: true
@@ -17,7 +22,11 @@ performers: [
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 
-show-venue-website: 
+show-venue-website: http://www.kexp.org/
 show-additional: 
+photos:
+  - user: KEXP
+    type: flickr-set
+    id: 72157660851250822 
 ---
-Luna live on KEXP at 15:00 PST
+Luna live on <a href="http://www.kexp.org/">KEXP</a> at 15:00 PST

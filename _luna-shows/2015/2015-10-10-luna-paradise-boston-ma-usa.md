@@ -12,7 +12,7 @@ show-setlist:
  - Still at Home
  - Tracy I Love You
  - Tiger Lily
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - "Freakin' and Peakin'"
  - Bewitched
  - Friendly Advice

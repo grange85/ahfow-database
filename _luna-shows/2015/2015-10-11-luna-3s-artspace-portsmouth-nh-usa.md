@@ -8,7 +8,7 @@ show-setlist:
  - Cindy Tastes of Barbecue
  - Malibu Love Nest
  - Anesthesia
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Tiger Lily
  - Lost in Space
  - Kalamazoo

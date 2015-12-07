@@ -7,7 +7,7 @@ show-setlist:
  - Slide
  - Chinatown
  - Malibu Love Nest
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Tracy I Love You
  - Tiger Lily
  - Speedbumps

@@ -9,7 +9,7 @@ show-setlist:
  - Chinatown
  - Tracy I Love You
  - Malibu Love Nest
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Kalamazoo
  - Tiger Lily
  - Friendly Advice
@@ -18,7 +18,7 @@ show-setlist:
  - Slash Your Tires
  - 23 Minutes in Brussels
  - ^encore 1
- - Season of The Witch
+ - Season of the Witch
  - Indian Summer
  - ^encore 2
  - Moon Palace

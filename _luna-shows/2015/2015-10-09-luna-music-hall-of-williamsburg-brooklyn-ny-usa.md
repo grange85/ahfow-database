@@ -6,7 +6,7 @@ show-setlist:
  - California (All The Way)
  - Pup Tent
  - Cindy Tastes of Barbecue
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Still at Home
  - Malibu Love Nest
  - Tiger Lily
@@ -19,7 +19,7 @@ show-setlist:
  - Bonnie & Clyde
  - Time to Quit
  - ^encore 1
- - Season of The Witch
+ - Season of the Witch
  - Indian Summer
  - ^encore 2
  - Fuzzy Wuzzy

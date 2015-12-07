@@ -5,7 +5,7 @@ show-venue: '9:30 Club, Washington, DC, USA'
 show-setlist: 
  - Slide
  - Chinatown
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Bobby Peru
  - Tiger Lily
@@ -20,7 +20,7 @@ show-setlist:
  - Time to Quit
  - 23 Minutes in Brussels
  - ^encore 2
- - Season of The Witch
+ - Season of the Witch
 show-date: 2015-10-06
 category: 2015
 show-radio: 
@@ -43,6 +43,9 @@ photos:
   - user: Matt Condon
     type: flickr-set
     id: 72157657391741534
+  - user: Lazaros Oreopoulos
+    type: flickr-set
+    id: 72157660194775789
 videos:
  - type: youtube
    data: "[{

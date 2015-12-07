@@ -7,7 +7,7 @@ show-setlist:
 - Slide
 - Chinatown
 - Malibu Love Nest
-- Sideshow by The Seashore
+- Sideshow by the Seashore
 - Speedbumps
 - Double Feature
 - Cindy Tastes of Barbecue

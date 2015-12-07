@@ -6,7 +6,7 @@ show-notes: ''
 show-setlist: 
  - "^Penthouse"
  - Chinatown
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Moon Palace
  - Double Feature
  - 23 Minutes in Brussels

@@ -5,7 +5,7 @@ show-venue: 'Terminal West, Atlanta, GA, USA'
 show-setlist: 
  - Slide
  - Speedbumps
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Chinatown
  - Tiger Lily

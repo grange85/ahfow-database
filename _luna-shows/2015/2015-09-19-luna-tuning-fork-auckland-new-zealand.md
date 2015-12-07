@@ -5,7 +5,7 @@ show-venue: 'Tuning Fork, Auckland, New Zealand'
 show-notes: ''
 show-setlist: 
  - California (All The Way)
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Anesthesia
  - Malibu Love Nest
  - Tiger Lily

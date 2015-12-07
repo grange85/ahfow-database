@@ -6,7 +6,7 @@ show-setlist:
  - Chinatown
  - Going Home
  - Double Feature
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - California (All The Way)
  - Malibu Love Nest
  - Tracy I Love You

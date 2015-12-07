@@ -85,7 +85,6 @@ defaults:
     values:
       artistslug: dean-wareham
 
-
 # Build settings
 markdown: kramdown
 source: /home/andy/sites/ahfow-db/

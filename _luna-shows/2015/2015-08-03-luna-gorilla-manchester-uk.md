@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Gorilla, Manchester, UK'
 show-setlist: [
   "California (All The Way)",
-  "Sideshow by The Seashore",
+  "Sideshow by the Seashore",
   "Malibu Love Nest",
   "The Owl and the Pussycat",
   "Anesthesia",
