@@ -18,5 +18,15 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - Ride
+videos:
+ - type: youtube
+   data: "[
+   {
+    video: 'https://www.youtube.com/watch?v=oZosyvu95mk',
+    title: 'Galaxie 500 - Snowstorm',
+    description: 'SNUB TV'
+   }]"
 ---
 

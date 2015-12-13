@@ -14,5 +14,14 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'https://shop.tapeterecords.com/dean-wareham-live.html'
 show-venue-website: 
 show-additional: 
+videos:
+ - type: youtube
+   data: "[
+   {
+    video: 'https://www.youtube.com/watch?v=wyqFPIZvzHc',
+    title: 'Dean Wareham live @ Lokalhelden Augsburg - Blue Thunder',
+    description: '77KinK'
+   }]"
+support:
+ - Friedrich Sunlight
 ---
-Support: Friedrich Sunlight

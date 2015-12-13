@@ -19,4 +19,12 @@ show-poster-url:
 show-ticket-url: 'http://portland.strangertickets.com/events/15363730/dean-wareham-plus-guest'
 show-venue-website: 'http://www.bunksandwiches.com/shows/2014/5/27/dean-wareham-and-parson-redheads'
 show-additional: 
+videos:
+ - type: youtube
+   data: "[
+   {
+    video: 'https://www.youtube.com/watch?v=l6KUChMT5FE',
+    title: 'Dean Wareham - Flowers',
+    description: 'Stephanie Neil'
+   }]"
 ---

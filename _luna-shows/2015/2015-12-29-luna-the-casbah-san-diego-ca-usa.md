@@ -15,7 +15,7 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: https://www.facebook.com/events/1499644063664312/
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-29/2015-12-29-luna-san-diego-poster.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/1004413
 show-venue-website: 
 show-additional: 
