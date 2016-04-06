@@ -25,7 +25,7 @@ description: Upcoming shows for Damon & Naomi.
 					<div>{{ show.content}}</div>
 				{% endif %}
 			]]></description>
-			<pubDate>{{ show.last_modified_at | date_to_rfc822 }}</pubDate>
+			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
 			<link>{{ show.url | prepend: site.baseurl | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ show.url | prepend: site.baseurl | prepend: site.url }}</guid>
 		</item>{% endif %}{% endfor %}

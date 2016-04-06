@@ -15,7 +15,7 @@ show-setlist: [
   "We're Both Confused",
   "Lost In Space",
   "California (All the Way)",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Bewitched",
   "Hedgehog",
   "Season Of The Witch"

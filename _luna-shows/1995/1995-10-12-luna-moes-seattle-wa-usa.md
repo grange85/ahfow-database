@@ -10,7 +10,7 @@ show-setlist: [
   "This Time Around",
   "Moon Palace",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Lost In Space",
   "California (All the Way)",
   "Hedgehog",

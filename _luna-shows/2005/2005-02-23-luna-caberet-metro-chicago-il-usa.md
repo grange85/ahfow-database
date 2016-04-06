@@ -16,7 +16,7 @@ show-setlist: [
   "Moon Palace",
   "Black Postcards",
   "Blue Thunder",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Chinatown",
   "23 Minutes in Brussels"
   ]

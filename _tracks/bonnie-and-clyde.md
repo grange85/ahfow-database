@@ -12,4 +12,19 @@ track-author: Serge Gainsbourg
 track-sort: "BONNIE AND CLYDE"
 track-original: Gainsbourg, Serge and Bardot, Brigitte
 cover: true
+available-on:
+ - release: Luna - Penthouse
+   url: /luna/releases/luna-penthouse/
+ - release: Luna - Best of Luna
+   url: /luna/releases/luna-best-of-luna/
+ - release: Luna - Bonnie and Clyde / Chinatown
+   url: /luna/releases/luna-bonnie-and-clyde-chinatown/
+ - release: Luna - Live
+   url: /luna/releases/luna-live/
+ - release: Luna - Long Players 92 - 99
+   url: /luna/releases/luna-long-players-92-99/
+ - release: Luna - Lunafied Luna Covers
+   url: /luna/releases/luna-lunafied-luna-covers/
+ - release: Luna - Roundup
+   url: /luna/releases/luna-roundup/
 ---

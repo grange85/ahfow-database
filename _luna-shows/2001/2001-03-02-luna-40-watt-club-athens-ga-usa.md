@@ -15,7 +15,7 @@ show-setlist: [
   "The Slow Song",
   "Lost In Space",
   "23 Minutes in Brussels",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Bewitched",
   "Bonnie and Clyde"
   ]

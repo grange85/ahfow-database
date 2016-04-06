@@ -12,7 +12,7 @@ show-setlist: [
   "Sideshow By The Seashore",
   "Rhythm King",
   "The Slow Song",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "This Time Around",
   "Tracy I Love You",
   "Lost In Space",

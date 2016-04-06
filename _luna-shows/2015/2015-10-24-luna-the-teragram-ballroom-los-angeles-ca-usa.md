@@ -10,7 +10,7 @@ show-setlist:
  - Pup Tent
  - Tracy I Love You
  - Still at Home
- - Freakin&apos; &amp; Peakin&apos;
+ - Freakin' and Peakin'
  - Tiger Lily
  - Bewitched
  - Friendly Advice
@@ -33,7 +33,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/event/09004EA60D8B536E'
 show-venue-website: 'http://www.teragramballroom.com/event/851763-luna-los-angeles/'
 show-additional: 

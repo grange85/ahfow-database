@@ -13,7 +13,7 @@ show-setlist: [
   "Bewitched",
   "Friendly Advice",
   "Mermaid Eyes",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Rhythm King",
   "Bonnie and Clyde",
   "Moon Palace",

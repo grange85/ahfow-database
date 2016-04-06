@@ -33,7 +33,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/luna-new-york-new-york-10-07-2015/event/00004EA70605A182?artistid=733769&majorcatid=10001&minorcatid=60'
 show-venue-website: 'http://www.boweryballroom.com/event/854005-luna-new-york'
 show-additional: 

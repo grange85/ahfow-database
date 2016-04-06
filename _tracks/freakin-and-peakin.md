@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Freakin' And Peakin'
+title: Freakin' and Peakin'
 name: freakin-and-peakin
 type: ahfow_track
 track-id: 80

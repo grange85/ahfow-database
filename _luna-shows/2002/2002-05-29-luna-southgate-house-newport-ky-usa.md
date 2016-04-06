@@ -15,7 +15,7 @@ show-setlist: [
   "Tiger Lily",
   "Friendly Advice",
   "The Slow Song",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "1995",
   "Bonnie and Clyde"
   ]

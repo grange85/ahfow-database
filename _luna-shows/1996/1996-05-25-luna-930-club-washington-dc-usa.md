@@ -17,7 +17,7 @@ show-setlist: [
   "I Want Everything",
   "California (All the Way)",
   "Time to Quit",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Tiger Lily",
   "Indian Summer",
   "Slash Your Tires"

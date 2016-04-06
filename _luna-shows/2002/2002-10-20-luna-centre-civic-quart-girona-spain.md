@@ -19,7 +19,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Fuzzy Wuzzy",
   "Tiger Lily",
-  "Freakin' And Peakin'"
+  "Freakin' and Peakin'"
   ]
 show-date: 2002-10-20
 category: 2002

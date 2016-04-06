@@ -2,24 +2,24 @@
 layout: show
 artistslug: dean-and-britta
 show-venue: 'Social, Nottingham, UK'
-show-setlist: [
-  "Words You Used To Say",
-  "Our Love Will Still Be There",
-  "You Turned My Head Around",
-  "Singer Sing",
-  "Indian Summer",
-  "White Horses",
-  "Since I Lay My Burden Down",
-  "Knives From Bavaria",
-  "Hear The Wind Blow",
-  "Night Nurse",
-  "Ginger Snaps",
-  "Tugboat",
-  "Strange",
-  "Bonnie and Clyde",
-  "Bewitched",
-  "Ceremony"
-  ]
+show-setlist: 
+ - title: Words You Used To Say
+ - title: Our Love Will Still Be There
+ - title: You Turned My Head Around
+ - title: Singer Sing
+ - title: Indian Summer
+   link: indian-summer-doors
+ - title: White Horses
+ - title: Since I Lay My Burden Down
+ - title: Knives From Bavaria
+ - title: Hear The Wind Blow
+ - title: Night Nurse
+ - title: Ginger Snaps
+ - title: Tugboat
+ - title: Strange
+ - title: Bonnie and Clyde
+ - title: Bewitched
+ - title: Ceremony
 show-date: 2007-06-17
 category: 2007
 show-radio: 

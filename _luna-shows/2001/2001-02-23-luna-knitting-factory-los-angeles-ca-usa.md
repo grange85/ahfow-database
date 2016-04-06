@@ -6,7 +6,7 @@ show-setlist: [
   "Egg Nog",
   "Dear Diary",
   "Lovedust",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Pup Tent",
   "Sideshow By The Seashore",
   "Four Thousand Days",

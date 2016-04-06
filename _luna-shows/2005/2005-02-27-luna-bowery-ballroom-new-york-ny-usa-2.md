@@ -16,7 +16,7 @@ show-setlist: [
   "Moon Palace",
   "Bonnie and Clyde",
   "Bewitched",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Sweet Child O' Mine",
   "Fourth of July",
   "23 Minutes in Brussels"

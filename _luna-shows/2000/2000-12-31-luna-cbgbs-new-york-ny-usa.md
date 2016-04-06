@@ -11,7 +11,7 @@ show-setlist: [
   "Moon Palace",
   "Pup Tent",
   "Lovedust",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Tiger Lily",
   "Anesthesia",
   "Sideshow By The Seashore",

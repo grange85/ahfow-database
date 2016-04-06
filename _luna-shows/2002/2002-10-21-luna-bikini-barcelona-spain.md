@@ -6,7 +6,7 @@ show-setlist: [
   "1995",
   "Lovedust",
   "Dear Diary",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Mermaid Eyes",
   "Friendly Advice",
   "Tracy I Love You",

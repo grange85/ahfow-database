@@ -34,7 +34,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/event/01004EA6B9594698'
 show-venue-website: 
 show-additional: 

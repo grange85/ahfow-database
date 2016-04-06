@@ -35,7 +35,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'https://www.ticketfly.com/purchase/event/855435?utm_medium=bks'
 show-venue-website: 'http://www.thecedar.org/events/2015/10/17/luna-special-guest'
 show-additional: 

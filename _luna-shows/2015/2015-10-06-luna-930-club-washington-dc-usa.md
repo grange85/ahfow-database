@@ -33,7 +33,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/854481
 show-venue-website: http://www.930.com/event/854481-luna-washington/
 show-additional: 
@@ -43,9 +43,6 @@ photos:
   - user: Matt Condon
     type: flickr-set
     id: 72157657391741534
-  - user: Lazaros Oreopoulos
-    type: flickr-set
-    id: 72157660194775789
 videos:
  - type: youtube
    data: "[{
@@ -57,4 +54,7 @@ links:
  - url: http://www.chunkyglasses.com/content/luna-930-club-10615
    source: "Chunky Glasses"
    title: "Live: LUNA @ 9:30 Club - 10/6/15"
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2016/03/luna-october-6-2015-930-club-washington-dc/
 ---

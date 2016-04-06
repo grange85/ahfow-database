@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Slide",
   "Rhythm King",
   "California (All the Way)",

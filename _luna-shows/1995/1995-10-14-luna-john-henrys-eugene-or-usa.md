@@ -14,7 +14,7 @@ show-setlist: [
   "California (All the Way)",
   "Time to Quit",
   "Lost In Space",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Rain"
   ]
 show-date: 1995-10-14

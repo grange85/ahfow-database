@@ -8,7 +8,7 @@ show-setlist: [
   "Four Thousand Days",
   "Mermaid Eyes",
   "Pup Tent",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Bewitched",
   "Weird And Woozy",
   "Tiger Lily",

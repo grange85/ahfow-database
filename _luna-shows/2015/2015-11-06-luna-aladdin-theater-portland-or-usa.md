@@ -14,7 +14,7 @@ show-setlist:
  - Still at Home
  - Tracy I Love You
  - Lost in Space
- - Freakin&apos; and Peakin&apos;
+ - Freakin' and Peakin'
  - Bewitched
  - Friendly Advice
  - ^encore
@@ -34,7 +34,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-2-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-2-strawberryluna.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/916739
 show-venue-website: http://www.aladdin-theater.com/event/916739-luna-portland/
 show-additional: 

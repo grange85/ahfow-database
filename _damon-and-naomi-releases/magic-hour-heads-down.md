@@ -1,6 +1,5 @@
 ---
 layout: release
-
 resource: discography
 section: 06-Magic Hour single
 artistslug: damon-and-naomi

@@ -20,7 +20,7 @@ show-setlist: [
   "Superfreaky Memories",
   "Bonnie and Clyde",
   "Bewitched",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "California (All the Way)"
   ]
 show-date: 2001-02-24

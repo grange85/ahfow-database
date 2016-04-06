@@ -36,7 +36,7 @@ performers: [
   "Stanley Demeski - drums"
   ]
 facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show-assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-venue-website: 'http://www.musichallofwilliamsburg.com/event/854003-luna-brooklyn'
 show-additional: 
 support:

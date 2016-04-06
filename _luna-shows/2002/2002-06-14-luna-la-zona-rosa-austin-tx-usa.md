@@ -14,7 +14,7 @@ show-setlist: [
   "Mermaid Eyes",
   "Tracy I Love You",
   "Pup Tent",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Lost In Space",
   "23 Minutes in Brussels",
   "Bonnie and Clyde",

@@ -1,7 +1,7 @@
 ---
 type: page
 layout: page
-date: 2009
+published: 2009
 title: Richard King's sleeve notes for the 2009 reissue of Galaxie 500's On Fire
 ---
 

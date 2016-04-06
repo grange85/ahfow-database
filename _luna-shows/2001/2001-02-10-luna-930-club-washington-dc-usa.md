@@ -11,7 +11,7 @@ show-setlist: [
   "Lost In Space",
   "23 Minutes in Brussels",
   "Time to Quit",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Bonnie and Clyde",
   "Sweet Child O' Mine"
   ]

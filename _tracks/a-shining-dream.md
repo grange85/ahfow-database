@@ -9,4 +9,7 @@ track-lyrics:
 track-author: Krukowski/Yang
 track-sort: "SHINING DREAM"
 track-original: 
+available-on:
+ - release: Damon & Naomi - Fortune
+   url: /damon-and-naomi/releases/damon-and-naomi-fortune/
 ---

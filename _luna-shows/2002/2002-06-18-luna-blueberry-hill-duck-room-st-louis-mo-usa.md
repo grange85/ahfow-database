@@ -9,7 +9,7 @@ show-setlist: [
   "Black Champagne",
   "Weird And Woozy",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Mermaid Eyes",
   "Dear Diary",
   "Pup Tent",

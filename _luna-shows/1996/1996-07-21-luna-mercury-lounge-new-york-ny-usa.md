@@ -14,7 +14,7 @@ show-setlist: [
   "I Want Everything",
   "Hedgehog",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "California (All the Way)",
   "Dream Baby Dream",
   "Indian Summer"

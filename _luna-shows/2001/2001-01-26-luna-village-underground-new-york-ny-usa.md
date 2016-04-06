@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Bonnie and Clyde",
   "Tiger Lily",
-  "Freakin' And Peakin'"
+  "Freakin' and Peakin'"
   ]
 show-date: 2001-01-26
 category: 2001

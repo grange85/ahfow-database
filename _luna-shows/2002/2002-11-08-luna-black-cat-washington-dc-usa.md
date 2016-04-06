@@ -17,7 +17,7 @@ show-setlist: [
   "Bewitched",
   "Black Postcards",
   "Teenage Lightning",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Tugboat",
   "Sweet Child O' Mine",
   "California (All the Way)"

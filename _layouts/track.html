@@ -24,6 +24,28 @@
 					</div>
 				</div>
 
+
+				<div class="row">
+					<div class="col-md-12">
+						<h3>Information</h3>
+						<ul>
+						<li>Title: {{page.title}}</li>
+						<li>Written by: {{page.track-author}}</li>
+						{% if page.track-original %}
+							<li>Original by: {{page.track-original}}</li>
+						{% endif %}
+						{% if page.available-on %}
+						</ul>
+							<h3>Available on</h3>
+							<ul>
+							{% for avail in page.available-on %}
+								<li><a href="{{avail.url}} ">{{avail.release}}</a></li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+					</div>
+				</div>
+
 				{% if page.videos %}
 				{% assign count = 0 %}
 				<div class="row">

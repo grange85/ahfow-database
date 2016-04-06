@@ -18,5 +18,22 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-setlist:
+ - Egg Nog
+ - Dear Diary
+ - Beautiful View
+ - Sideshow by The Seashore
+ - Superfreaky Memories
+ - Bobby Peru
+ - Moon Palace
+ - Seven Steps to Satan
+ - Pup Tent
+ - California (All The Way)
+ - Hello Little One
+ - Lost in Space
+ - 23 Minutes in Brussels
+ - ^encore
+ - Tiger Lily
+ - IHOP
 ---
 

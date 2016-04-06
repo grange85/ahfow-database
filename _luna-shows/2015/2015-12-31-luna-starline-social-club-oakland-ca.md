@@ -3,6 +3,24 @@ layout: show
 artistslug: luna
 show-venue: Starline Social Club, Oakland, CA, USA
 show-setlist:
+ - Egg Nog
+ - California (All The Way)
+ - Going Home
+ - Malibu Love Nest
+ - Chinatown
+ - This Time Around
+ - Tracy I Love You
+ - Freakin' and Peakin'
+ - Lost in Space
+ - Time to Quit
+ - Friendly Advice
+ - Rock Your Baby
+ - 23 Minutes in Brussels
+ - Sweet Child O' Mine
+ - ^encore
+ - Season of the Witch
+ - Bonnie & Clyde
+setlist-source: Scan 
 show-date: 2015-12-31
 category: 2015
 show-radio: 
@@ -23,3 +41,4 @@ support:
  - Papercuts
  - Extra Classic
 ---
+Setlist was changed from the printed setlist, still awaiting final conformation.

@@ -53,7 +53,8 @@ releases:
        - title: Random Rules
          notes: 
          author: Berman
-       - title: Indian Summer (Doors)
+       - title: Indian Summer
+         link: indian-summer-doors
          notes: 
          author: Morrison/Krieger
   - release: 
@@ -103,7 +104,8 @@ releases:
        - title: Random Rules
          notes: 
          author: Berman
-       - title: Indian Summer (Doors)
+       - title: Indian Summer
+         link: indian-summer-doors
          notes: 
          author: Morrison/Krieger
   - release: 
@@ -151,7 +153,8 @@ releases:
        - title: Random Rules
          notes: 
          author: Berman
-       - title: Indian Summer (Doors)
+       - title: Indian Summer
+         link: indian-summer-doors
          notes: 
          author: Morrison/Krieger
        - title: Your Baby 

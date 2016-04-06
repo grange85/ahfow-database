@@ -14,7 +14,7 @@ show-setlist: [
   "Tracy I Love You",
   "Lost In Space",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Pup Tent",
   "Bonnie and Clyde",
   "Moon Palace",

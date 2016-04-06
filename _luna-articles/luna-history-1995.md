@@ -1,7 +1,7 @@
 ---
 type: page
 layout: page
-date: 1995
+published: 1995
 title: Luna history (Elektra press release - 1995)
 ---
 Quicksilver guitars rush and roar. The guy you're standing next to at the bar mutters out of the corner of his mouth, "I don't know what you're saying… but I hate it anyway." Is this the place? You're living on a diet of stale cigarettes and warm beer and maybe, today, you're not in the same time zone that you were yesterday… welcome to "Chinatown", the leadoff track of PENTHOUSE, the latest release from Luna.

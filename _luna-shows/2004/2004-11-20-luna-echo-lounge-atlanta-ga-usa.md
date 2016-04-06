@@ -14,7 +14,7 @@ show-setlist: [
   "Lost In Space",
   "Bonnie and Clyde",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Tugboat",
   "Black Postcards",
   "California (All the Way)",

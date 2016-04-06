@@ -11,4 +11,19 @@ track-guitar-flag: true
 track-author: 
 track-sort: "TWENTY THREE MINUTES IN BRUSSELS"
 track-original: 
+available-on:
+ - release: Luna - Penthouse
+   url: /luna/releases/luna-penthouse/
+ - release: Luna - Hedgehog / 23 Minutes in Brussels
+   url: /luna/releases/luna-hedgehog-23-minutes-in-brussels/
+ - release: Luna - Bonnie and Clyde / 23 Minutes in Brussels
+   url: /luna/releases/luna-bonnie-and-clyde-chinatown/
+ - release: Luna - Season of the Witch
+   url: /luna/releases/luna-season-of-the-witch/
+ - release: Luna - Live
+   url: /luna/releases/luna-live/
+ - release: Luna - Best of Luna
+   url: /luna/releases/luna-best-of-luna/
+ - release: Luna - Long Players 92 - 99
+   url: /luna/releases/luna-long-players-92-99/
 ---

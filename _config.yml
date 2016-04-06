@@ -66,36 +66,41 @@ defaults:
       type: luna-shows
     values:
       artistslug: luna
+      date-added: 1994-01-01
   -
     scope:
       path: ""
       type: damon-and-naomi-shows
     values:
       artistslug: damon-and-naomi
+      date-added: 1994-01-01
   -
     scope:
       path: ""
       type: dean-and-britta-shows
     values:
       artistslug: dean-and-britta
+      date-added: 1994-01-01
   -
     scope:
       path: ""
       type: dean-wareham-shows
     values:
       artistslug: dean-wareham
+      date-added: 1994-01-01
 
 # Build settings
+port: 4000
 markdown: kramdown
 source: /home/andy/sites/ahfow-db/
 destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
     '_notes',
     'Gemfile',
-    'Gemfile.lock'
+    'Gemfile.lock',
+    'vendor'
   ]
 gems: [
         jekyll-sitemap,
-        jekyll-last-modified-at,
         bootstrap-sass
       ]

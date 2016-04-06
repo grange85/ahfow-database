@@ -37,4 +37,7 @@ track-author: Gram Parsons
 track-sort: "SONG FOR YOU"
 track-original: Gram Parsons
 cover: true
+available-on:
+ - release: Damon & Naomi - The Earth is Blue
+   url: /damon-and-naomi/releases/damon-and-naomi-the-earth-is-blue/
 ---

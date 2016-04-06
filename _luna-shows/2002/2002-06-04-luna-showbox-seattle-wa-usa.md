@@ -11,7 +11,7 @@ show-setlist: [
   "Mermaid Eyes",
   "Pup Tent",
   "Swedish Fish",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Lovedust",
   "Four Thousand Days",
   "Lost In Space",

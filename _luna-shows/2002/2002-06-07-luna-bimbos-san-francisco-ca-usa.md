@@ -11,7 +11,7 @@ show-setlist: [
   "Lost In Space",
   "Dear Diary",
   "Tiger Lily",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Mermaid Eyes",
   "Tracy I Love You",
   "Hello Little One",

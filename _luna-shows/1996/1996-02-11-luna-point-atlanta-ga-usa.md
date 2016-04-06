@@ -8,7 +8,7 @@ show-setlist: [
   "Tracy I Love You",
   "Anesthesia",
   "Kalamazoo",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Moon Palace",
   "Into The Fold",
   "We're Both Confused",

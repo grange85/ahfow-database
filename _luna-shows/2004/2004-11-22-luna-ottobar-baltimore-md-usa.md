@@ -11,7 +11,7 @@ show-setlist: [
   "The Owl and the Pussycat",
   "Going Home",
   "Pup Tent",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Sideshow By The Seashore",
   "Astronaut",
   "California (All the Way)",

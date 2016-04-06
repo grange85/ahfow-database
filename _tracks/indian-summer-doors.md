@@ -1,7 +1,8 @@
 ---
 layout: track
 categories: track
-title: Indian Summer (The Doors cover)
+title: Indian Summer
+permalink: /tracks/indian-summer-doors/
 name: indian-summer-doors
 type: ahfow_track
 track-id: 267

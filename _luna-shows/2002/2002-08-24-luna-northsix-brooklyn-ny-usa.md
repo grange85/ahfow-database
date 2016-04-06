@@ -7,7 +7,7 @@ show-setlist: [
   "Weird And Woozy",
   "Black Postcards",
   "Bewitched",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Beggar's Bliss",
   "1995",
   "Pup Tent",

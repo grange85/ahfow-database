@@ -1,17 +1,16 @@
 ---
 layout: release
-
 resource: discography
 section: 01-album
 artistslug: galaxie-500
-initial_release_date: 1997
+initial_release_date: 1996
 albumname: Galaxie 500
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
 releases:
   - release: 
     version: galaxie-500-box-set-cd
     year: 1996
-    releasedate: 1996
+    releasedate: 1996-09-24
     type: album
     format: 4xCD
     label: Rykodisc

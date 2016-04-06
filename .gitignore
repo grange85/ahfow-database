@@ -1,15 +1,1 @@
-_site
-.sass-cache
-.DS_Store
-Gemfile
-Gemfile.lock
-_sass/bootstrap
-_sass/_bootstrap*
-_sass/_layout.scss
-_sass/_syntax-highlighting.scss
-js/bootstrap*
-js/galleria*
-js/npm.js
-js/plugins*
-js/themes*
-fonts/*
+/node_modules/

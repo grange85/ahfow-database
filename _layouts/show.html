@@ -72,10 +72,24 @@
 							<h3>Setlist</h3>
 							<ul>
 							{% for track in page.show-setlist %}
-								{% if track contains '^' %}
-									<li class="text-muted">{{track | remove_first:'^'}}</li>
+								{% capture hastrack %}{{track.title}}{% endcapture %}
+								{% if hastrack == '' %}
+									{% if track contains '^' %}
+										<li class="text-muted">{{track | remove_first:'^'}}</li>
+									{% else %}
+										<li>
+											<a href="/tracks/{{track|slugify}}/ ">{{track}}</a></li>
+									{% endif %}
 								{% else %}
-									<li><a href="/tracks/{{track|slugify}}/ ">{{track}}</a></li>
+									{% if track.title contains '^' %}
+										<li class="text-muted">{{track.title | remove_first:'^'}}</li>
+									{% else %}
+										<li>
+
+											<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
+
+										</li>
+									{% endif %}
 								{% endif %}
 							{% endfor %}
 							</ul>

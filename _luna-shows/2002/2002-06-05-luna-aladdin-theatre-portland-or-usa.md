@@ -10,7 +10,7 @@ show-setlist: [
   "Black Champagne",
   "Mermaid Eyes",
   "Moon Palace",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Hello Little One",
   "Black Postcards",
   "Friendly Advice",

@@ -8,7 +8,7 @@ show-setlist: [
   "Chinatown",
   "California (All the Way)",
   "Moon Palace",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Strange",
   "Hedgehog",
   "Kalamazoo",

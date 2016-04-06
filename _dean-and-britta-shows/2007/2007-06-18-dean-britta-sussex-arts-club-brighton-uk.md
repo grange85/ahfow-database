@@ -2,24 +2,23 @@
 layout: show
 artistslug: dean-and-britta
 show-venue: 'Sussex Arts Club, Brighton, UK'
-show-setlist: [
-  "Singer Sing",
-  "Indian Summer",
-  "You Turned My Head Around",
-  "Hear The Wind Blow",
-  "Words You Used To Say",
-  "White Horses",
-  "Since I Lay My Burden Down",
-  "Knives From Bavaria",
-  "Night Nurse",
-  "Ginger Snaps",
-  "Tugboat",
-  "Strange",
-  "Bonnie and Clyde",
-  "Random Rules",
-  "Bewitched",
-  "Ceremony"
-  ]
+show-setlist: 
+ - title: Singer Sing
+ - title: Indian Summer
+ - title: You Turned My Head Around
+ - title: Hear The Wind Blow
+ - title: Words You Used To Say
+ - title: White Horses
+ - title: Since I Lay My Burden Down
+ - title: Knives From Bavaria
+ - title: Night Nurse
+ - title: Ginger Snaps
+ - title: Tugboat
+ - title: Strange
+ - title: Bonnie and Clyde
+ - title: Random Rules
+ - title: Bewitched
+ - title: Ceremony
 show-date: 2007-06-18
 category: 2007
 show-radio: 

@@ -7,7 +7,7 @@ show-setlist: [
   "California (All the Way)",
   "Anesthesia",
   "Chinatown",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Tiger Lily",
   "Thank You For Sending Me An Angel",
   "Bonnie and Clyde",

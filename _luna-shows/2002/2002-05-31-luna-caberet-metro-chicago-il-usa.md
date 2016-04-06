@@ -11,7 +11,7 @@ show-setlist: [
   "Moon Palace",
   "Black Postcards",
   "Pup Tent",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Sideshow By The Seashore",
   "Four Thousand Days",
   "Friendly Advice",

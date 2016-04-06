@@ -17,7 +17,7 @@ show-setlist: [
   "Lost In Space",
   "Bonnie and Clyde",
   "23 Minutes in Brussels",
-  "Freakin' And Peakin'"
+  "Freakin' and Peakin'"
   ]
 show-date: 2002-05-28
 category: 2002

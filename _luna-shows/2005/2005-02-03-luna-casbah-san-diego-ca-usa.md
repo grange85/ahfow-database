@@ -16,7 +16,7 @@ show-setlist: [
   "Into The Fold",
   "Math Wiz",
   "Bonnie and Clyde",
-  "Freakin' And Peakin'",
+  "Freakin' and Peakin'",
   "Moon Palace",
   "Fourth of July",
   "Indian Summer"
