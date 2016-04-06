@@ -1,0 +1,36 @@
+---
+permalink: .htaccess
+---
+ErrorDocument 410 /error.html
+ErrorDocument 404 /error.html
+
+RewriteEngine on
+RewriteRule ^tracks\/(.*?)\.html$ /tracks/$1/ [R=301,L]
+
+
+# Redirects for renamed articles
+Redirect 301 /luna/shows/2016/2016-05-04-granada-theatre-dallas-tx-usa/ /luna/shows/2016/2016-05-04-granada-theater-dallas-tx-usa/
+Redirect 301 /luna/shows/2015/2015-11-05-showbox-seattle-wa-usa/ /luna/shows/2015/2015-11-05-luna-showbox-seattle-wa-usa/
+Redirect 301 /daniel-boone/ /daniel-and-boone/
+Redirect 301 /dean-and-britta/releases/dean-and-britta-dont-think-twice-hey-paula/ /dean-wareham/releases/dean-wareham-dont-think-twice-hey-paula/
+Redirect 301 /tracks/e-t-a/ /tracks/eta/
+Redirect 301 /dont-think-twice-its-alright/ /don-t-think-twice-it-s-alright/
+Redirect 301 /tracks/bonnie-clyde/ /tracks/bonnie-and-clyde/
+Redirect 301 /tracks/silver-factory/ /tracks/silver-factory-theme/
+Redirect 301 /tracks/heads-down-1/ /tracks/heads-down/
+Redirect 301 /tracks/heads-down-2/ /tracks/heads-down/
+Redirect 301 /luna/shows/2016/2016-05-05-austin-tx-usa/ /luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/
+Redirect 301 /luna/shows/2016/2016-05-04-granada-theater-dallas-tx-usa/ /luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/
+Redirect 301 /luna/shows/2016/2016-05-07-numbers-houston-tx-usa/ /luna/shows/2016/2016-05-07-luna-numbers-houston-tx-usa/
+
+# Catch and redirect some old URLs
+RewriteRule ^(luna|galaxie-500|damon-and-naomi|dean-wareham|dean-and-britta)/shows/(([0-9]{4})-[0-9]{2}.*)\.html$ /$1/shows/$3/$2/ [R=301,L]
+RewriteRule ^(luna|galaxie-500|damon-and-naomi|dean-wareham|dean-and-britta)/releases/(.*)\.html$ /$1/releases/$2/ [R=301,L]
+
+# Send outdated database and discography links to the home page
+RewriteRule ^(w|wiki|database|discography|gigography)\/(.*)$ / [R=301,L]
+
+# Send old track requests to track homepage
+RewriteRule ^track\/(.*)$ /tracks/ [R=301,L]
+
+RewriteRule ^.*galaxie500box.*$ http://static.fullofwishes.co.uk/galaxie500box/ [R=301,L]

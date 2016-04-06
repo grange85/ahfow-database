@@ -1,0 +1,25 @@
+---
+layout: show
+artistslug: damon-and-naomi
+show-venue: 'Gr&uuml;ner Salon, Berlin, Germany'
+show-setlist: [
+  ]
+show-date: 2016-04-22
+date-added: 2016-01-25
+category: 2016
+show-radio: 
+show-lastfm: 
+show-cancelled: 
+performers: [
+  "Damon Krukowski - guitar/vocals",
+  "Naomi Yang - keyboards/vocals"
+  ]
+facebook-event-url: 
+show-poster-url: 
+show-ticket-url: 
+show-venue-website: http://www.gruener-salon.de/
+show-additional: 
+support:
+ - Richard Youngs
+---
+Damon will also be drumming for Richard Youngs
