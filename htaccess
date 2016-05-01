@@ -22,6 +22,7 @@ Redirect 301 /tracks/heads-down-2/ /tracks/heads-down/
 Redirect 301 /luna/shows/2016/2016-05-05-austin-tx-usa/ /luna/shows/2016/2016-05-05-luna-mohawk-austin-tx-usa/
 Redirect 301 /luna/shows/2016/2016-05-04-granada-theater-dallas-tx-usa/ /luna/shows/2016/2016-05-04-luna-granada-theater-dallas-tx-usa/
 Redirect 301 /luna/shows/2016/2016-05-07-numbers-houston-tx-usa/ /luna/shows/2016/2016-05-07-luna-numbers-houston-tx-usa/
+Redirect 301 /damon-and-naomi/shows/2016/2016-04-15-all-tomorrows-parties-pontins-prestatyn-uk/ /damon-and-naomi/shows/2016/2016-04-17-all-tomorrows-parties-pontins-prestatyn-uk/
 
 # Catch and redirect some old URLs
 RewriteRule ^(luna|galaxie-500|damon-and-naomi|dean-wareham|dean-and-britta)/shows/(([0-9]{4})-[0-9]{2}.*)\.html$ /$1/shows/$3/$2/ [R=301,L]

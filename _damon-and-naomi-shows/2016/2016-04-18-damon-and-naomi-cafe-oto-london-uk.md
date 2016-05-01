@@ -14,7 +14,7 @@ performers: [
   "Damon Krukowski - guitar/vocals",
   "Naomi Yang - keyboards/vocals"
   ]
-facebook-event-url: 
+facebook-event-url: https://www.facebook.com/events/247001448979828/
 show-poster-url: 
 show-ticket-url: https://www.cafeoto.co.uk/events/damon-naomi-richard-youngs/
 show-venue-website: https://www.cafeoto.co.uk/events/damon-naomi-richard-youngs/

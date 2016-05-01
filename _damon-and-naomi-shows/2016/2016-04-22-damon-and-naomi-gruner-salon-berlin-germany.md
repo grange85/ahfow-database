@@ -14,7 +14,7 @@ performers: [
   "Damon Krukowski - guitar/vocals",
   "Naomi Yang - keyboards/vocals"
   ]
-facebook-event-url: 
+facebook-event-url: https://www.facebook.com/events/942003062565605/
 show-poster-url: 
 show-ticket-url: 
 show-venue-website: http://www.gruener-salon.de/
