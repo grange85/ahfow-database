@@ -2,7 +2,7 @@
 layout: track
 categories: track
 title: Don't Think Twice, It's Alright
-name: dont-think-twiceits-alright
+name: dont-think-twice-its-alright
 type: ahfow_track
 track-lyrics: |
     It ain’t no use to sit and wonder why, babe
@@ -42,7 +42,7 @@ track-lyrics: |
     But don’t think twice, it’s all right
 track-author: Bob Dylan
 track-sort: "DON'T THINK TWICE IT'S ALRIGHT"
-track-original: Paul and Paula
+track-original: Bob Dylan
 cover: true
 available-on:
  - release: Britta Phillips / Dean Wareham - Don't Think Twice, It's Alright / Hey Paula
