@@ -17,10 +17,11 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-29/2016-05-29-luna-the-columbus-theatre-poster.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/1154791
 show-venue-website: 
 show-additional: 
 support:
  - Long Trees
+ - Britta Phillips
 ---

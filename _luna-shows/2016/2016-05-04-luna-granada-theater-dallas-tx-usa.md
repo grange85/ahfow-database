@@ -3,7 +3,25 @@ layout: show
 artistslug: luna
 show-venue: 'Granada Theater, Dallas, TX, USA'
 show-notes: ''
-show-setlist: 
+show-setlist:
+ - Slide
+ - Speedbumps
+ - Chinatown
+ - Sideshow by The Seashore
+ - Malibu Love Nest
+ - Pup Tent
+ - This Time Around
+ - California (All The Way)
+ - Tracy I Love You
+ - Bewitched
+ - Moon Palace
+ - Lost in Space
+ - 23 Minutes in Brussels
+ - ^encore
+ - Friendly Advice
+ - Indian Summer
+ - ^encore 2
+ - Tiger Lily
 show-date: 2016-05-04
 date-added: 2016-03-04
 category: 2016
@@ -17,7 +35,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05/2016-05-luna-texas.jpg
 show-ticket-url: http://www.granadatheater.com/event/1119699-luna-dallas/
 show-venue-website: 
 show-additional: 
