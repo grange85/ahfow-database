@@ -92,7 +92,7 @@ defaults:
 # Build settings
 port: 4000
 markdown: kramdown
-source: /media/xander3/06-AHFOW-DB/
+source: /media/xander2/06-AHFOW-DB/
 destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
     '_notes',
