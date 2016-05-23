@@ -13,7 +13,8 @@ facebook-event-url:
 show-poster-url: 
 show-ticket-url: 
 show-venue-website: 
-show-additional: 
+show-additional:
+show-series: Dean Wareham plays Galaxie 500
 show-download: 
   site: NYCTaper
   url: http://www.nyctaper.com/2011/01/dean-wareham-january-13-2011-maxwells-flac-and-mp3-downloads-streaming-songs/

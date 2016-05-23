@@ -14,5 +14,6 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'http://commerce.bam.org/tickets/production.aspx?pid=8929'
 show-venue-website: 'http://www.bam.org/music/2014/exposed-songs-for-unseen-warhol-films'
 show-additional: 
+show-series: "Exposed: Songs For Unseen Warhol Films"
 ---
 Exposed: Songs for Unseen Warhol Films 

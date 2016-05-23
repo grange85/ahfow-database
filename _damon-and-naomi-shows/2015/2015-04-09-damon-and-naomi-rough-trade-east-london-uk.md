@@ -30,7 +30,8 @@ facebook-event-url:
 show-poster-url: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-04-09/2015-04-09-damon-and-naomi-rough-trade.jpg'
 show-ticket-url: 'http://www.roughtrade.com/events/2015/4/1154'
 show-venue-website: 
-show-additional: 
+show-additional:
+show-series: Fortune
 photos:
   - user: grange85
     type: flickr-set

@@ -92,7 +92,7 @@ defaults:
 # Build settings
 port: 4000
 markdown: kramdown
-source: /media/xander2/06-AHFOW-DB/
+source: /media/xander4/DATA/06-AHFOW-DB/
 destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
     '_notes',
@@ -101,5 +101,6 @@ exclude: [
     'vendor'
   ]
 gems: [
-        bootstrap-sass
+        bootstrap-sass,
+        jekyll-sitemap
       ]

@@ -14,5 +14,6 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-series: "Exposed: Songs For Unseen Warhol Films"
 ---
 Exposed: Songs For Unseen Warhol Films

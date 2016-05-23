@@ -9,7 +9,7 @@ date-added: 2016-01-25
 category: 2016
 show-radio: 
 show-lastfm: 
-show-cancelled: 
+show-cancelled: true
 performers: [
   "Damon Krukowski - guitar/vocals",
   "Naomi Yang - keyboards/vocals"
@@ -22,4 +22,4 @@ show-additional:
 support:
  - Richard Youngs
 ---
-Damon will also be drumming for Richard Youngs
+Damon & Naomi's performance was cancelled after Damon felt unwell after an earlier fall. Damon had drummed during Richard Youngs' support slot before feeling unwell and being taken to hospital.

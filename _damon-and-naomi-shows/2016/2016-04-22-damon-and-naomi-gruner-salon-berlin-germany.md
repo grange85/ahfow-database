@@ -2,8 +2,18 @@
 layout: show
 artistslug: damon-and-naomi
 show-venue: 'Gr&uuml;ner Salon, Berlin, Germany'
-show-setlist: [
-  ]
+show-setlist:
+ - The Seeker
+ - Amnesia
+ - It's Over
+ - Reflections
+ - A Shining Dream
+ - Shadows
+ - Towards Tomorrow
+ - Sky Memories
+ - Hunt House
+ - The North Light
+ - Time Won't Own Me
 show-date: 2016-04-22
 date-added: 2016-01-25
 category: 2016
@@ -19,6 +29,7 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: http://www.gruener-salon.de/
 show-additional: 
+show-series: Fortune
 support:
  - Richard Youngs
 ---

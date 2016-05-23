@@ -4,12 +4,12 @@ artistslug: dean-and-britta
 show-venue: 'Wexner Center, Columbus OH, USA'
 show-setlist: [
   "Richard Rheem Theme",
-  "Singer Sing",
+  "Ann Buchanan Theme",
   "Teenage Lightning",
   "It Don't Rain in Beverly Hills",
-  "Silver Factory",
+  "Silver Factory Theme",
   "International Velvet Theme",
-  "The Enabler",
+  "Herringbone Tweed",
   "I Found It Not So",
   "I'll Keep It With Mine",
   "Incandescent Innocent",
@@ -24,10 +24,11 @@ show-lastfm: 762570
 show-cancelled: 
 performers: 
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
 show-ticket-url: 
 show-venue-website: 
-show-additional: 
+show-additional:
+show-series: 13 Most Beautiful
 ---
 
-13 Most Beautiful...Songs for Andy Warhols Screen Tests
+13 Most Beautiful...Songs for Andy Warhol's Screen Tests

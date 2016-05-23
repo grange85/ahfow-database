@@ -31,6 +31,7 @@ facebook-event-url:
 show-poster-url: 
 show-ticket-url: 
 show-venue-website: 
-show-additional: 
+show-additional:
+show-series: Dean Wareham plays Galaxie 500
 ---
 Dean Wareham plays Galaxie 500
