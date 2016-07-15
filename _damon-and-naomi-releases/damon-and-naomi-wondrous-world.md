@@ -7,6 +7,8 @@ artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
 initial_release_date: 1995
 albumname: The Wondrous World of Damon & Naomi
+bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition
+bandcamp-id: 1184884747
 releases:
   - release: 
     version: sub-pop-vinyl

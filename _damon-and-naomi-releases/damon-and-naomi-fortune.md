@@ -6,6 +6,8 @@ artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
 initial_release_date: 2011
 albumname: Fortune
+bandcamp-url: https://damonandnaomi.bandcamp.com/album/fortune
+bandcamp-id: 2505063369
 releases:
   - release: 
     version: 202020-lp

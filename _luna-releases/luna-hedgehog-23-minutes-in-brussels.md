@@ -2,7 +2,7 @@
 layout: release
 
 resource: discography
-section: 01-single
+section: 02-single
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-hedgehog-23-minutes.jpg
 initial_release_date: 1995

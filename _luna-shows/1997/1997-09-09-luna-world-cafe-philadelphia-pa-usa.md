@@ -26,4 +26,4 @@ show-venue-website:
 show-additional: 
 ---
 
-The show was broadcast on 15th October 1997. This recording date is a guess based on when they had last passed through Philadelphia on tour. if anyone knows better please let me know.
+The show was broadcast on 15 October 1997. This recording date is a guess based on when they had last passed through Philadelphia on tour. if anyone knows better please let me know.

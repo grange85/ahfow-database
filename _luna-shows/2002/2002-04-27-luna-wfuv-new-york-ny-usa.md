@@ -23,4 +23,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Radio show: Vin Scelsa\'s Idiot\'s Delight - live broadcast 27th April 2002
+Radio show: Vin Scelsa\'s Idiot\'s Delight - live broadcast 27 April 2002

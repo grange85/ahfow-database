@@ -25,4 +25,4 @@ show-venue-website:
 show-additional: 
 ---
 
-John Peel Session<ul><li>Recorded: 24th September 1989</li><li>Transmitted: 17th October 1989</li></ul>
+John Peel Session<ul><li>Recorded: 24 September 1989</li><li>Transmitted: 17 October 1989</li></ul>

@@ -45,47 +45,47 @@ videos:
    data: "[
    {
     video: 'https://www.youtube.com/watch?v=0_BpzPlzQAs',
-    title: 'Luna Kalamazoo oct 8 2015',
+    title: 'Luna Kalamazoo October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=iXiOk6BzObI',
-    title: 'Tiger Lily Luna oct 8 2015',
+    title: 'Tiger Lily Luna October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=tTfGG__pQso',
-    title: 'Friendly Advice Luna oct 8 2015',
+    title: 'Friendly Advice Luna October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=Mg0oNNYqwNE',
-    title: 'Bewitched Luna oct 8 2015',
+    title: 'Bewitched Luna October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=khmtt4DNfdg',
-    title: 'Freakin and Peakin Luna oct 8 2015',
+    title: 'Freakin and Peakin Luna October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=XhZ2bCFLCfk',
-    title: 'Luna Slash Your Tires Bowery Ballroom 8 oct 2015',
+    title: 'Luna Slash Your Tires Bowery Ballroom 8 October 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=4bpNTuenCas',
-    title: '23 Minutes in Brussels Luna oct 8 2015',
+    title: '23 Minutes in Brussels Luna October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=l5TpkTsufro',
-    title: 'Luna Season of the Witch oct 8 2015',
+    title: 'Luna Season of the Witch October 8 2015',
     description: 'by Joakim Bengtsson'
    },
    {
     video: 'https://www.youtube.com/watch?v=saOHblH0l8c',
-    title: 'Luna Indian Summer oct 8 2015',
+    title: 'Luna Indian Summer October 8 2015',
     description: 'by Joakim Bengtsson'
    }
    ]"

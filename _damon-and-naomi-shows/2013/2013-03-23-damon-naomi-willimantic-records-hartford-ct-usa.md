@@ -16,4 +16,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Rescheduled from 10th February because of the weather<br/>Instore - on stage at 1pm
+Rescheduled from 10 February because of the weather<br/>Instore - on stage at 1pm

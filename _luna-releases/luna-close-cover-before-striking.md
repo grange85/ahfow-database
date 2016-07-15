@@ -2,11 +2,13 @@
 layout: release
 
 resource: discography
-section: 01-single
+section: 02-single
 artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
 initial_release_date: 2002
 albumname: Close Cover Before Striking
+bandcamp-url: https://luna.bandcamp.com/album/close-cover-before-striking
+bandcamp-id: 3884059705
 releases:
   - release: 
     version: jetset-cd

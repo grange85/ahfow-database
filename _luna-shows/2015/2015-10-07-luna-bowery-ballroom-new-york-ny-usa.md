@@ -54,7 +54,7 @@ videos:
     },
     {
       video: 'https://www.youtube.com/watch?v=m4fusaAf4Wg',
-      title: 'Luna - Bewitched - NYC 7 Oct 2015',
+      title: 'Luna - Bewitched - NYC 7 October 2015',
       description: 'by nbmkms'
     }    ]"
 links:

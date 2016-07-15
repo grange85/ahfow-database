@@ -2,9 +2,9 @@
 layout: release
 
 resource: discography
-section: 01-single
+section: 02-single
 artistslug: luna
-imageurl: 
+imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-in-the-flesh.jpg
 initial_release_date: 1997
 albumname: In the Flesh
 releases:
@@ -16,7 +16,7 @@ releases:
     format: 7"
     label: Trade 2
     catno: TRDSC 005
-    imageurl: 
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-in-the-flesh.jpg
     discogs: 
     release_notes: 
     groups:

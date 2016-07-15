@@ -35,4 +35,4 @@ show-venue-website:
 show-additional: 
 ---
 
-w/ special guest Laetitia Sadier guesting on Bonnie and Clyde - <a href="http://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html">David Rose\'s blog post</a> has a review and a scan of the setlist - it also confirms the date of the show was 10th May 1995 (not the 12th)
+w/ special guest Laetitia Sadier guesting on Bonnie and Clyde - <a href="http://gigbook.blogspot.com/2010/11/294-luna-pram-london-wc2-borderline.html">David Rose\'s blog post</a> has a review and a scan of the setlist - it also confirms the date of the show was 10 May 1995 (not the 12th)

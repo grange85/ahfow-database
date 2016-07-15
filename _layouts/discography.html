@@ -53,7 +53,7 @@
 								<div class="panel-heading">
 									<h4><a href="{{ release.url | prepend: site.baseurl }}">{{ release.albumname }}</a></h4>
 								</div>
-								<div class="panel-body">
+								<div class="panel-body text-center">
 									<a href="{{ release.url | prepend: site.baseurl }}">
 										{%  capture imagetest %}X{{release.imageurl}}{% endcapture %}
 										{% if imagetest == 'X' %}

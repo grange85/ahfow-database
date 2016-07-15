@@ -86,7 +86,7 @@
 									{% else %}
 										<li>
 
-											<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
+											<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
 
 										</li>
 									{% endif %}

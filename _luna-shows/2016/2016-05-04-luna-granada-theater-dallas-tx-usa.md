@@ -39,6 +39,9 @@ show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05/201
 show-ticket-url: http://www.granadatheater.com/event/1119699-luna-dallas/
 show-venue-website: 
 show-additional: 
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2016/05/luna-may-4-2016-granada-theater-dallas-tx/
 support:
  - Britta Phillips
 ---

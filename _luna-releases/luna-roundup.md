@@ -3,7 +3,7 @@ layout: release
 resource: discography
 section: 04-promo
 artistslug: luna
-imageurl: 
+imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
 initial_release_date: 2002
 albumname: Roundup
 releases:
@@ -15,7 +15,7 @@ releases:
     format: CD
     label: Maine Road Management
     catno: 
-    imageurl: 
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
     mbid: 
     discogs: 
     release_notes: 

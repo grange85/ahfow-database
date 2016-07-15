@@ -7,6 +7,8 @@ artistslug: galaxie-500
 initial_release_date: 1988
 albumname: Today
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+bandcamp-url: https://galaxie500.bandcamp.com/album/today
+bandcamp-id: 3830882259
 releases:
   - release: 
     version: aurora

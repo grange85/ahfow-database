@@ -4,6 +4,28 @@ artistslug: luna
 show-venue: 'Columbus Theatre, Providence, RI, USA'
 show-notes: ''
 show-setlist: 
+ - Chinatown
+ - Sideshow by the Seashore
+ - Speedbumps
+ - Pup Tent
+ - Malibu Love Nest
+ - This Time Around
+ - track:
+   title: One Fine Summer Morning
+   notes: Britta Phillips
+ - track:
+   title: Ingrid Superstar
+   notes: Britta Phillips
+ - Califronia (All The Way)
+ - Tracy I Love You
+ - Moon Palace
+ - Lost in Space
+ - Friendly Advice
+ - ^encore
+ - Fire in Cairo
+ - 23 Minutes in Brussels
+ - ^encore 2
+ - Tugboat
 show-date: 2016-05-29
 date-added: 2016-04-06
 category: 2016

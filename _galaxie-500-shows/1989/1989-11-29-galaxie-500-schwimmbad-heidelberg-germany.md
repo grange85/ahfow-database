@@ -2,7 +2,6 @@
 layout: show
 artistslug: galaxie-500
 show-venue: 'Schwimmbad, Heidelberg, Germany'
-show-setlist: 
 show-date: 1989-11-29
 category: 1989
 show-radio: 
@@ -18,5 +17,16 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+setlist-source: recording
+show-setlist: 
+  - Flowers
+  - Pictures
+  - Decomposing Trees
+  - Snowstorm
+  - When Will You Come Home
+  - Temperature's Rising
+  - Don't Let Our Youth Go To Waste
+  - Blue Thunder
+  - Ceremony
 ---
 

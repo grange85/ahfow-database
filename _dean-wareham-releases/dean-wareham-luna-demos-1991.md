@@ -1,6 +1,5 @@
 ---
 layout: release
-
 resource: discography
 section: 01-album
 artistslug: dean-wareham

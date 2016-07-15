@@ -7,6 +7,8 @@ artistslug: dean-wareham
 initial_release_date: 2014
 albumname: Live at St Pancras Old Church London
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-live-at-st-pancras-sonic-cathedral.jpg
+bandcamp-url: https://soniccathedral.bandcamp.com/album/live-at-st-pancras-old-church-london-december-2013-2
+bandcamp-id: 1608301513
 releases:
   - release: 
     version: sonic-cathedral-cassette
@@ -62,4 +64,4 @@ releases:
          notes: 
          author: Joy Division
 ---
-Recorded at St Pancras Old Church in London on the 5th and 6th December 2013
+Recorded at St Pancras Old Church in London on the 5th and 6 December 2013

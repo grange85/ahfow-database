@@ -32,7 +32,7 @@ releases:
       - title: One Fine Summer Morning 
         notes: 
         author: Evie Sands
-      - title: The Million Dollar Doll
+      - title: Million Dollar Doll
         notes: 
         author: 
       - title: Drive 
@@ -102,7 +102,15 @@ releases:
         author:
 
 ---
-Tracks 1,2,5 produced by Tony Visconti.  
-Track 3 mixed by Sonic Boom.  
-Track 4 mixed by Britta Phillips.  
-
+Produced by Eric Broucek & Britta Phillips  
+Mixed by Eric Broucek  
+Additional recording by Scott Hardkiss & Michael Judeh at Room Zero, Brooklyn, NY (tracks 5, 8); by Roger Brogan & Prathik Nadungadi, assisted by Omar Yakar Jr (track 3)  
+Mastered by Emily Lazar at The Lodge, assisted by Chris Allgood  
+Britta Phillips: vocals, bass, keys, guitar (tracks 3, 5, 7, 10)  
+Dean Wareham: guitar (tracks 1, 3, 4, 6, 8, 9)  
+Jeff Brodsky: drums  
+Artwork by Angela Bolliger/Lafont London  
+Photos by Luz Gallardo  
+Makeup & hair by Stephanie Nicole Smith  
+Special thanks to Laurie Hamilton, Judith Kyvik, Chris Hollow, Jonathan Bree, Derek Meade, Brian McCarter, The Taylors  
+Dedicated to Scott Hardkiss & Peter Phillips

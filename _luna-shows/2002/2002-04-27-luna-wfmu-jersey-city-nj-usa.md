@@ -24,4 +24,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Radio Show: The Three Chord Monte with Joe Belock - recorded 27th April 2002 - broadcast: 9th May 2002
+Radio Show: The Three Chord Monte with Joe Belock - recorded 27 April 2002 - broadcast: 9 May 2002

@@ -1,6 +1,5 @@
 ---
 layout: release
-
 resource: discography
 section: 01-album
 artistslug: galaxie-500
@@ -8,6 +7,8 @@ categories : [discography, galaxie-500, albums]
 initial_release_date: 1990
 albumname: This is Our Music
 imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_thisisourmusic.jpg
+bandcamp-url: https://galaxie500.bandcamp.com/album/this-is-our-music
+bandcamp-id: 2405309532
 wikipedia: 
 releases:
   - release:

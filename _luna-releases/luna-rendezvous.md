@@ -7,6 +7,8 @@ artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
 initial_release_date: 2004
 albumname: Rendezvous
+bandcamp-url: https://luna.bandcamp.com/album/rendezvous
+bandcamp-id: 126122972
 releases:
   - release: 
     version: jetset-cd

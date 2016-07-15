@@ -22,4 +22,5 @@ show-ticket-url: http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadS
 show-venue-website: http://thaliahallchicago.com/?event_id=6725855
 show-additional: 
 support:
+ - Deeper
 ---

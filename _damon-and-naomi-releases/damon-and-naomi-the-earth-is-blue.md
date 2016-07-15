@@ -7,6 +7,8 @@ artistslug: damon-and-naomi
 initial_release_date: 2005
 albumname: The Earh is Blue
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_theearthisblue.jpg
+bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-earth-is-blue
+bandcamp-id: 4211041915
 releases:
   - release: 
     version: 202020-cd

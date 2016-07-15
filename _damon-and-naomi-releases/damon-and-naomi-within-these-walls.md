@@ -7,6 +7,8 @@ artistslug: damon-and-naomi
 imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withinthesewalls.jpg
 initial_release_date: 2007
 albumname: Within These Walls
+bandcamp-url: https://damonandnaomi.bandcamp.com/album/within-these-walls
+bandcamp-id: 497607034
 releases:
   - release: 
     version: 202020-cd

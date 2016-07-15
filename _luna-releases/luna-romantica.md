@@ -7,6 +7,8 @@ artistslug: luna
 imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
 initial_release_date: 2002
 albumname: Romantica
+bandcamp-url: https://luna.bandcamp.com/album/romantica
+bandcamp-id: 3481617757
 releases:
   - release: 
     version: jetset-cd

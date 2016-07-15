@@ -25,4 +25,4 @@ show-venue-website:
 show-additional: 
 ---
 
-John Peel Session<ul><li>Recorded: 30th October 1990</li><li>Transmitted: 4th November 1990</li></ul>
+John Peel Session<ul><li>Recorded: 30 October 1990</li><li>Transmitted: 4 November 1990</li></ul>

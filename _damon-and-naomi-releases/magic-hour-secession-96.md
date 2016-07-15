@@ -8,6 +8,8 @@ imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_s
 initial_release_date: 1996
 albumname:  Secession 96
 artist: Magic Hour
+bandcamp-url: https://magic-hour.bandcamp.com/album/secession-96
+bandcamp-id: 4265088759
 releases:
   - release: 
     version: twisted-village-cd

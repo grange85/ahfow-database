@@ -2,9 +2,9 @@
 layout: release
 
 resource: discography
-section: 01-single
+section: 02-single
 artistslug: luna
-imageurl:
+imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
 initial_release_date: 2004
 albumname: Speedbumps
 releases:
@@ -16,7 +16,7 @@ releases:
     format: 7"
     label: Little Teddy
     catno: LiTe757
-    imageurl:
+    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
     discogs: 
     release_notes: 
     groups:

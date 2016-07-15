@@ -46,7 +46,7 @@ videos:
    data: "[
      {
      video: 'https://www.youtube.com/watch?v=JfEsz01K0RU',
-     title: 'Luna - California (All The Way) - MHW 9 Oct 2015',
+     title: 'Luna - California (All The Way) - MHW 9 October 2015',
      description: 'by nbmkms'
      },
      {
@@ -56,7 +56,7 @@ videos:
      },
      {
      video: 'https://www.youtube.com/watch?v=1MwSuDMjQ2o',
-     title: 'Luna - Cindy Tastes of Barbecue - MHW 9 Oct 2015',
+     title: 'Luna - Cindy Tastes of Barbecue - MHW 9 October 2015',
      description: 'by nbmkms'
      },
      {
@@ -66,22 +66,22 @@ videos:
      },
      {
      video: 'https://www.youtube.com/watch?v=v98YlGc9Qpk',
-     title: 'Luna - Tracy I Love You - MHW 9 Oct 2015',
+     title: 'Luna - Tracy I Love You - MHW 9 October 2015',
      description: 'by nbmkms'
      },
      {
      video: 'https://www.youtube.com/watch?v=r9mze1a1auY',
-     title: 'Luna 23 Minutes From Brussels oct 9 2015',
+     title: 'Luna 23 Minutes From Brussels October 9 2015',
      description: 'by Joakim Bengtsson'
      },
      {
      video: 'https://www.youtube.com/watch?v=JtZ8_5xcTsQ',
-     title: 'Luna - Bonnie and Clyde - MHW 9 Oct 2015',
+     title: 'Luna - Bonnie and Clyde - MHW 9 October 2015',
      description: 'by nbmkms'
      },
      {
      video: 'https://www.youtube.com/watch?v=ONum7zYd8Zw',
-     title: 'Luna - Fuzzy Wuzzy - MHW 9 Oct 2015',
+     title: 'Luna - Fuzzy Wuzzy - MHW 9 October 2015',
      description: 'by nbmkms'
      }
    ]"

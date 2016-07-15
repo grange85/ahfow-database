@@ -22,4 +22,14 @@ show-ticket-url: http://tickets.massmoca.org/single/selectSeating.aspx?p=2993
 show-venue-website: http://massmoca.org/event/luna/
 show-additional: 
 support:
+photos:
+  - type: ahfow-set
+    data: |
+      [
+      {
+        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01-thumb.jpg',
+        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg',
+        title: 'Photo by Thomas Barrasso'
+      }
+      ]
 ---
