@@ -1,30 +1,14 @@
-# A Head Full of Wishes - database
+# The A Head Full of Wishes database into Jekyll
 
-no
 
-## Getting Started
-Download the [production version][min] or the [development version][max].
+It's a big site (1000s of pages) so may be a challenge for Jekyll - but... you know, it keeps me off the streets.
 
-[min]: https://raw.github.com/grange85/ahfow-jekyll/master/dist/ahfow-db.min.js
-[max]: https://raw.github.com/grange85/ahfow-jekyll/master/dist/ahfow-db.js
+You can see the work in progress here:
 
-In your web page:
+[A Head Full of Wishes database](http://db.fullofwishes.co.uk/)
 
-```html
-<script src="jquery.js"></script>
-<script src="dist/ahfow-db.min.js"></script>
-<script>
-jQuery(function($) {
-  $.awesome(); // "awesome"
-});
-</script>
-```
+It's built with Jekyll and uses Bootstrap (and for now the default Boostrap theme)
 
-## Documentation
-_(Coming soon)_
+The rest of A Head Full of Wishes (including the db in Wordpress) can be found over here:
 
-## Examples
-_(Coming soon)_
-
-## Release History
-_(Nothing yet)_
+[A Head Full of Wishes](http://www.fullofwishes.co.uk)
