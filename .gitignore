@@ -97,7 +97,7 @@ jspm_packages
 
 ### Ruby ###
 *.gem
-*.rbcSorry, the tracking system is having technical difficulties. Please try your search again later.
+*.rbc
 /.config
 /coverage/
 /InstalledFiles
