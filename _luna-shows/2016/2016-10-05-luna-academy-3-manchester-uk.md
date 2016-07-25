@@ -17,7 +17,7 @@ performers: [
   "Britta Phillips - bass"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-05/2016-10-05-luna-manchester-poster.jpg
 show-ticket-url: https://www.manchesteracademy.net/order/tickets/13318247/luna-manchester-academy-3-2016-10-05-19-30-00
 show-venue-website: 
 show-additional: 
