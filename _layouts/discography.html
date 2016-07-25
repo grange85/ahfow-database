@@ -37,6 +37,8 @@
 							{% assign releases = site.dean-and-britta-releases | group_by: "section" %}
 						{% when 'dean-wareham' %}
 							{% assign releases = site.dean-wareham-releases | group_by: "section" %}
+						{% when 'britta-phillips' %}
+							{% assign releases = site.britta-phillips-releases | group_by: "section" %}
 					{% endcase %}
 
 				{% assign releases = releases | sort: 'name' %}

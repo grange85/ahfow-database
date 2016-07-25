@@ -2,7 +2,7 @@
 layout: release
 resource: discography
 section: 02-single
-artistslug: dean-wareham
+artistslug: britta-phillips
 initial_release_date: 2014
 albumname: Love
 imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg
@@ -32,6 +32,6 @@ releases:
          notes: performed by Britta Phillips
          author: Dennis Wilson
 ---
-Split 7" single with Britta  
+Split 7" single with Dean
 20 copies in marbled blue vinyl  
 330 copies in black vinyl

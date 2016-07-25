@@ -35,13 +35,9 @@
 <meta property="og:description" content="{% if description %}{{ description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+{% if page.show-poster-url %}<meta property="og:image" content="{{page.show-poster-url}}" />{% endif %}
+{% if artist.image %}<meta property="og:image" content="{{artist.image}}" />{% endif %}
 <meta property="og:image" content="{% if ogimage %}{{ ogimage }}{% else %}{{site.image}}{% endif %}" />
-{% if artist.image %}
-<meta property="og:image" content="{{artist.image}}" />
-{% endif %}
-{% if page.show-poster-url %}
-<meta property="og:image" content="{{page.show-poster-url}}" />
-{% endif %}
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 <script type="text/javascript">
     window.cookieconsent_options = {

@@ -51,6 +51,12 @@ collections:
   dean-wareham-shows:
     output: true
     permalink: dean-wareham/shows/:path/
+  britta-phillips-releases:
+    output: true
+    permalink: britta-phillips/releases/:title/
+  britta-phillips-shows:
+    output: true
+    permalink: britta-phillips/shows/:path/
 
 
 defaults: 
@@ -87,6 +93,13 @@ defaults:
       type: dean-wareham-shows
     values:
       artistslug: dean-wareham
+      date-added: 1994-01-01
+  -
+    scope:
+      path: ""
+      type: britta-phillips-shows
+    values:
+      artistslug: britta-phillips
       date-added: 1994-01-01
 
 # Build settings

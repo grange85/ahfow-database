@@ -133,3 +133,13 @@ dean-wareham:
                 2014,
                 2016
                 ]
+                
+britta-phillips:
+  name: Britta Phillips
+  slug: britta-phillips
+  image: http://media.fullofwishes.co.uk/09-britta-phillips/pictures/britta-phillips-stefano-giovanni-1280-720.jpg
+  upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-britta-phillips-shows
+  yearsactive: [
+                2012,
+                2016
+                ]              
