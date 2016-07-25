@@ -13,5 +13,3 @@ photos:
         title: 'Britta Phillips (photo: Stefano Giovanni)'
         }]"
 ---
-
-{% ahfowrss http://feeds.feedburner.com/ahfow-upcoming-luna-shows 3 %}
