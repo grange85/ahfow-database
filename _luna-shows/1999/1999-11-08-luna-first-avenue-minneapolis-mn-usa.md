@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Tiger Lily",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer"
   ]
 show-date: 1999-11-08

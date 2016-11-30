@@ -17,7 +17,7 @@ show-setlist: [
   "Freakin' and Peakin'",
   "Tugboat",
   "Black Postcards",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels"
   ]
 show-date: 2004-11-20

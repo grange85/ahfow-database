@@ -12,7 +12,7 @@ show-setlist: [
   "Bobby Peru",
   "Tiger Lily",
   "IHOP",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 1997-10-17
 category: 1997

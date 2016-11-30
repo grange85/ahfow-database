@@ -16,7 +16,7 @@ show-setlist: [
   "We're Both Confused",
   "IHOP",
   "Tiger Lily",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer"
   ]
 show-date: 1998-09-12

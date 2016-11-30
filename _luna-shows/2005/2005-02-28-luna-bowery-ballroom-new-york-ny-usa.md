@@ -6,7 +6,7 @@ show-setlist: [
   "Chinatown",
   "Sideshow By The Seashore",
   "Astronaut",
-  "California (All the Way)",
+  "California (All The Way)",
   "Malibu Love Nest",
   "Tiger Lily",
   "Broken Chair",

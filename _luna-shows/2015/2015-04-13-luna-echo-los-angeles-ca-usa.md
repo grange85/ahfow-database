@@ -9,7 +9,7 @@ show-setlist: [
   "Malibu Love Nest",
   "Going Home",
   "Weird and Woozy",
-  "California (All the Way)",
+  "California (All The Way)",
   "Friendly Advice",
   "Lost in Space",
   "Tracy I Love You",

@@ -14,7 +14,7 @@ show-setlist: [
   "Freakin' and Peakin'",
   "Sideshow By The Seashore",
   "Astronaut",
-  "California (All the Way)",
+  "California (All The Way)",
   "Lost In Space",
   "Black Postcards",
   "Tugboat",

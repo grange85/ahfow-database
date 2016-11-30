@@ -4,6 +4,27 @@ artistslug: luna
 show-venue: 'Rough Trade NYC, Brooklyn, NY, USA'
 show-notes: ''
 show-setlist: 
+ - 23 Minutes In Brussels
+ - Pup Tent
+ - Malibu Love Nest
+ - Tiger Lily
+ - This Time Around
+ - Still At Home
+ - Speedbumps
+ - track:
+   title: One Fine Summer Morning
+   notes: Britta Phillips
+ - Tracy I Love You
+ - Bewitched
+ - Kalamazoo
+ - Lost In Space
+ - Friendly Advice
+ - ^encore
+ - Anesthesia
+ - Chinatown
+ - Indian Summer
+ - ^encore 2
+ - Blue Thunder
 show-date: 2016-10-01
 date-added: 2016-05-02
 category: 2016

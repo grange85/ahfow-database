@@ -20,7 +20,7 @@ show-setlist: [
   "Tugboat",
   "Indian Summer",
   "23 Minutes in Brussels",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 2004-10-15
 category: 2004

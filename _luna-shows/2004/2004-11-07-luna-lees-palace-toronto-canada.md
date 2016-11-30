@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: "Lees Palace, Toronto, Canada"
 show-setlist: [
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Astronaut",
   "The Owl and the Pussycat",

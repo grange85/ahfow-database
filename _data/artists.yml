@@ -35,14 +35,15 @@ luna:
                 2004,
                 2005,
                 2015,
-                2016
+                2016,
+                2017
                 ]
   members :
     - name : Dean Wareham
-      yearsactive : 1992 - 2005, 2015
+      yearsactive : 1992 - 2005, 2015 -
       role : guitar / vocals
     - name : Sean Eden
-      yearsactive : 1992 - 2005, 2015
+      yearsactive : 1992 - 2005, 2015 -
       role : guitar / vocals
     - name : Stanley Demeski
       yearsactive : 1992 - 1996
@@ -51,10 +52,10 @@ luna:
       yearsactive : 1992 - 2000
       role : bass
     - name : Lee Wall
-      yearsactive : 1996 - 2005, 2015
+      yearsactive : 1996 - 2005, 2015 -
       role : drums
     - name : Britta Phillips
-      yearsactive : 2000 - 2005, 2015
+      yearsactive : 2000 - 2005, 2015 - 
       role : bass / vocals
 
 damon-and-naomi:

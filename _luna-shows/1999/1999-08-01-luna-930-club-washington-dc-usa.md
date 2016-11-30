@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Friendly Advice",
-  "California (All the Way)",
+  "California (All The Way)",
   "Lost In Space",
   "Dear Diary",
   "Pup Tent",

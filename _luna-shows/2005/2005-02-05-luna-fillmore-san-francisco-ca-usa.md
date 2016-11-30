@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Bewitched",
   "Black Postcards",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fuzzy Wuzzy",
   "Rock Your Baby",
   "Indian Summer"

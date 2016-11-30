@@ -14,7 +14,7 @@ show-setlist: [
   "Mermaid Eyes",
   "23 Minutes in Brussels",
   "Swedish Fish",
-  "California (All the Way)",
+  "California (All The Way)",
   "Black Postcards",
   "Indian Summer",
   "I Can't Wait",

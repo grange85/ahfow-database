@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: "St. Andrews Hall, Detroit MI, USA"
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Malibu Love Nest",
   "Rhythm King",
   "Speedbumps",

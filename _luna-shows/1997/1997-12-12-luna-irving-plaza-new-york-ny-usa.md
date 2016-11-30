@@ -15,7 +15,7 @@ show-setlist: [
   "Lost In Space",
   "Time to Quit",
   "Beggar's Bliss",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Chinatown",
   "Season Of The Witch",

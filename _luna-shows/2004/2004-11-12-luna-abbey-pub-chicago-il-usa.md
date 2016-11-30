@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Abbey Pub, Chicago IL, USA'
 show-setlist: [
   "Speedbumps",
-  "California (All the Way)",
+  "California (All The Way)",
   "The Owl and the Pussycat",
   "Lost In Space",
   "Broken Chair",

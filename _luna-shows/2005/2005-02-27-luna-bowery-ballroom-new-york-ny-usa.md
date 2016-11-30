@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Bowery Ballroom, New York NY, USA'
 show-setlist: [
   "Egg Nog",
-  "California (All the Way)",
+  "California (All The Way)",
   "Weird And Woozy",
   "Broken Chair",
   "Tiger Lily",

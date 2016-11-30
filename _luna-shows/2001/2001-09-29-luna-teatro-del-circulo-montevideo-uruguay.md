@@ -8,7 +8,7 @@ show-setlist: [
   "Math Wiz",
   "Lost In Space",
   "Weird And Woozy",
-  "California (All the Way)",
+  "California (All The Way)",
   "Superfreaky Memories",
   "Sideshow By The Seashore",
   "Pup Tent",

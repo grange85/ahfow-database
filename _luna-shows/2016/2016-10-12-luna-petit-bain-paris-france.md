@@ -23,4 +23,6 @@ show-venue-website: http://www.petitbain.org/LUNA-MATT-ELLIOTT?date=2016-10-12
 show-additional: 
 support:
  - Matt Elliott
+ - Corrina Repp
 ---
+Luna play Penthouse in full

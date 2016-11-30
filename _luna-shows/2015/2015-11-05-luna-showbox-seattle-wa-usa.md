@@ -19,7 +19,7 @@ show-setlist:
  - Bewitched
  - Fuzzy Wuzzy
  - ^encore
- - California (All the Way)
+ - California (All The Way)
  - 23 Minutes in Brussels
  - ^encore 2
  - Indian Summer

@@ -7,7 +7,7 @@ show-setlist: [
   "Sideshow by the Seashore",
   "Anesthesia",
   "Speedbumps",
-  "California (All the Way)",
+  "California (All The Way)",
   "Pup Tent",
   "Tracy I Love You",
   "Friendly Advice",

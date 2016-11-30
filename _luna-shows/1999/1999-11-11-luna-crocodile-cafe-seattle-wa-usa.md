@@ -16,7 +16,7 @@ show-setlist: [
   "Tiger Lily",
   "Lost In Space",
   "23 Minutes in Brussels",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer"
   ]
 show-date: 1999-11-11

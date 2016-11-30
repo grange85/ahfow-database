@@ -5,7 +5,7 @@ show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Season Of The Witch",
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Tracy I Love You",
   "The Owl and the Pussycat",

@@ -8,7 +8,7 @@ show-setlist: [
   "Sideshow By The Seashore",
   "Hello Little One",
   "Dear Diary",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Four Thousand Days",
   "23 Minutes in Brussels",

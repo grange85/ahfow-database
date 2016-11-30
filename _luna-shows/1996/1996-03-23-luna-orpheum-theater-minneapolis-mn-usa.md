@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Orpheum Theater, Minneapolis MN, USA'
 show-setlist: [
   "This Time Around",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "Sideshow By The Seashore",
   "Moon Palace",

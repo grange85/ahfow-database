@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
   "Egg Nog",
-  "California (All the Way)",
+  "California (All The Way)",
   "Malibu Love Nest",
   "Cindy Tastes of Barbecue",
   "Speedbumps",

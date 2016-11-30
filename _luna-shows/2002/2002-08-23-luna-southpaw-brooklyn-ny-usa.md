@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Southpaw, Brooklyn NY, USA'
 show-setlist: [
   "1995",
-  "California (All the Way)",
+  "California (All The Way)",
   "Weird And Woozy",
   "Black Champagne",
   "Pup Tent",

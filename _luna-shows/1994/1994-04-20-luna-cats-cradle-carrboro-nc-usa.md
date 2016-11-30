@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Slide",
   "Going Home",
   "Slash Your Tires",

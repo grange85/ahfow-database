@@ -18,7 +18,7 @@ show-setlist: [
   "Everybody's Talkin'",
   "Sideshow By The Seashore",
   "Friendly Advice",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 2001-12-31
 category: 2001

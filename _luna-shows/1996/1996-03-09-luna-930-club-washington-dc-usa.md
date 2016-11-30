@@ -7,7 +7,7 @@ show-setlist: [
   "Chinatown",
   "Moon Palace",
   "23 Minutes in Brussels",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Friendly Advice"
   ]

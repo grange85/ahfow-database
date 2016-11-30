@@ -13,7 +13,7 @@ show-setlist: [
   "Chinatown",
   "IHOP",
   "Lost In Space",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 1998-06-12
 category: 1998

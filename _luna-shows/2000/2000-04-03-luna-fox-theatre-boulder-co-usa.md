@@ -16,7 +16,7 @@ show-setlist: [
   "Tiger Lily",
   "Time to Quit",
   "IHOP",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer",
   "Moon Palace"
   ]

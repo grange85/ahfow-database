@@ -17,7 +17,7 @@ show-setlist: [
   "Tiger Lily",
   "IHOP",
   "Lost In Space",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 1998-02-20
 category: 1998

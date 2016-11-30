@@ -10,7 +10,7 @@ show-setlist: [
   "Weird And Woozy",
   "Pup Tent",
   "Four Thousand Days",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "The Slow Song",
   "Time to Quit",

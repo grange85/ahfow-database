@@ -15,7 +15,7 @@ show-setlist: [
   "Time to Quit",
   "Lost In Space",
   "23 Minutes in Brussels",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Fourth of July"
   ]

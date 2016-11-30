@@ -15,7 +15,7 @@ show-setlist: [
   "Slide",
   "Slash Your Tires",
   "Lost In Space",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Everybody's Talkin'",
   "Chinatown",

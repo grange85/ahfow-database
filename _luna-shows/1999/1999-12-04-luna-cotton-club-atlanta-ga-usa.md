@@ -16,7 +16,7 @@ show-setlist: [
   "Time to Quit",
   "Tiger Lily",
   "Hello Little One",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "Indian Summer"
   ]

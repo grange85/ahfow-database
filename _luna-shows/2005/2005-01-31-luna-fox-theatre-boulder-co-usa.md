@@ -18,7 +18,7 @@ show-setlist: [
   "Tiger Lily",
   "Black Postcards",
   "Bewitched",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels"
   ]
 show-date: 2005-01-31

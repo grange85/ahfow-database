@@ -6,7 +6,7 @@ show-setlist: [
   "Freakin' and Peakin'",
   "Slide",
   "Rhythm King",
-  "California (All the Way)",
+  "California (All The Way)",
   "This Time Around",
   "Friendly Advice",
   "Double Feature",

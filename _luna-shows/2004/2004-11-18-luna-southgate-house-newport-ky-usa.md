@@ -6,7 +6,7 @@ show-setlist: [
   "Speedbumps",
   "Chinatown",
   "The Owl and the Pussycat",
-  "California (All the Way)",
+  "California (All The Way)",
   "Still At Home",
   "Malibu Love Nest",
   "Lost In Space",

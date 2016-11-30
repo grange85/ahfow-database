@@ -15,7 +15,7 @@ show-setlist: [
   "Pup Tent",
   "Time to Quit",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Indian Summer",
   "Lost In Space"

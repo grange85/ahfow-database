@@ -6,7 +6,7 @@ show-setlist: [
   "Four Thousand Days",
   "Sideshow By The Seashore",
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Lost In Space",
   "23 Minutes in Brussels",
   "Dear Diary",

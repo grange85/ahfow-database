@@ -114,7 +114,14 @@
 
 					</div>
 					<div class="col-md-6">
-						{% if page.show-poster-url %}
+						{% if page.featured-image %}
+							<div class="thumbnail">
+								<img class="img-responsive" src="{{page.featured-image.url}}" alt="{{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+								<div class="caption">
+									<a href="{{page.featured-image.link}}">{{page.featured-image.caption}}</a><br/><small class="text-muted">(Photo: <a href="{{page.featured-image.link}}">{{page.featured-image.credit}}</a>)</small>
+								</div>
+							</div>
+						{% elsif page.show-poster-url %}
 							<div class="thumbnail">
 								<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
 								<div class="caption">

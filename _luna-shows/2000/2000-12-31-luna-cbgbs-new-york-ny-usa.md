@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'CBGBs, New York NY, USA'
 show-setlist: [
   "Egg Nog",
-  "California (All the Way)",
+  "California (All The Way)",
   "Four Thousand Days",
   "Hello Little One",
   "Double Feature",

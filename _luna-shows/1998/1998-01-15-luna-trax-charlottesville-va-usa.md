@@ -14,7 +14,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Pup Tent",
   "Slash Your Tires",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Indian Summer"
   ]

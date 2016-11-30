@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: "St Andrew's Hall, Deroit, MI, USA"
 show-setlist: 
 - Chinatown
-- California (All the Way)
+- California (All The Way)
 - Speedbumps
 - Sideshow by the Seashore
 - Malibu Love Nest

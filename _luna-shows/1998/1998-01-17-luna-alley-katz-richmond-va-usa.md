@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Alley Katz, Richmond VA, USA'
 show-setlist: [
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Anesthesia",
   "Double Feature",
   "Chinatown",

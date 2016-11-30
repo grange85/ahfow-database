@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Caberet Metro, Chicago IL, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Anesthesia",
   "Going Home",
   "Slide",

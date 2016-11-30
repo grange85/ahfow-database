@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Benicassim Festival, Valencia, Spain'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Bobby Peru",
   "23 Minutes in Brussels",
   "Chinatown",

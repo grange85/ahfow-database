@@ -13,7 +13,7 @@ show-setlist: [
   "Beggar's Bliss",
   "Moon Palace",
   "The Slow Song",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels",
   "Bonnie and Clyde",
   "Tiger Lily",

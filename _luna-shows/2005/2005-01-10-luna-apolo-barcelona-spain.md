@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Apolo, Barcelona, Spain'
 show-setlist: [
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Going Home",
   "Broken Chair",

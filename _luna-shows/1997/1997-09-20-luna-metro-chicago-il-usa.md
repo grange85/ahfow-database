@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Lost In Space",
   "Slash Your Tires",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Beggar's Bliss",
   "Friendly Advice"

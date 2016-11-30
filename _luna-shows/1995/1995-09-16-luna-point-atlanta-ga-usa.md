@@ -14,7 +14,7 @@ show-setlist: [
   "We're Both Confused",
   "Into The Fold",
   "Hedgehog",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "23 Minutes in Brussels",
   "Strange",

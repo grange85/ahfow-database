@@ -10,7 +10,7 @@ show-setlist: [
   "(unknown)",
   "23 Minutes in Brussels",
   "(unknown)",
-  "California (All the Way)",
+  "California (All The Way)",
   "Beggar's Bliss",
   "Bobby Peru",
   "Tiger Lily",

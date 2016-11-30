@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Borderline, London, UK'
 show-setlist: [
   "Sideshow By The Seashore",
-  "California (All the Way)",
+  "California (All The Way)",
   "Anesthesia",
   "Chinatown",
   "Freakin' and Peakin'",

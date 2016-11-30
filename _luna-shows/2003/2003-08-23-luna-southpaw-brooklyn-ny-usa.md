@@ -6,7 +6,7 @@ show-setlist: [
   "Malibu Love Nest",
   "Slide",
   "Weird And Woozy",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tracy I Love You",
   "Four Thousand Days",
   "Chinatown",

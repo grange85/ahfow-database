@@ -11,7 +11,7 @@ show-setlist: [
   "Tracy I Love You",
   "23 Minutes in Brussels",
   "1995",
-  "California (All the Way)",
+  "California (All The Way)",
   "The Slow Song",
   "Chinatown",
   "Black Postcards",

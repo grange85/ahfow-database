@@ -6,7 +6,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Slide",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Moon Palace",
   "Friendly Advice",
   "We're Both Confused",

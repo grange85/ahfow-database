@@ -15,7 +15,7 @@ show-setlist: [
   "Slash Your Tires",
   "Bobby Peru",
   "Fly Into The Mystery",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Chinatown",
   "Slide",

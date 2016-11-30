@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Into The Fold",
   "Black Postcards",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fuzzy Wuzzy"
   ]
 show-date: 2005-02-12

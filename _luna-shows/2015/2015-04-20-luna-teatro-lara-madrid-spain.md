@@ -6,7 +6,7 @@ show-setlist: [
   "Chinatown",
   "Sideshow by the Seashore",
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Cindy Tastes of Barbecue",
   "Tracy I Love You",
   "Pup Tent",

@@ -13,7 +13,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Superfreaky Memories",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Tiger Lily",
   "Indian Summer"

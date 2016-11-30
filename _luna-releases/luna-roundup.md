@@ -28,7 +28,7 @@ releases:
        - title: Romantica
        - title: Superfreaky Memories
        - title: Egg Nog
-       - title: California (All the Way)
+       - title: California (All The Way)
        - title: Tiger Lily
        - title: Sideshow by the Seashore
        - title: Moon Palace

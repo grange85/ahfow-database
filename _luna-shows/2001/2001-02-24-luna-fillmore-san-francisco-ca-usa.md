@@ -21,7 +21,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Bewitched",
   "Freakin' and Peakin'",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 2001-02-24
 category: 2001

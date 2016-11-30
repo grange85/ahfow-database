@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Massey Hall, Toronto, Canada'
 show-setlist: [
   "Slide",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "23 Minutes in Brussels",
   "Sideshow By The Seashore",

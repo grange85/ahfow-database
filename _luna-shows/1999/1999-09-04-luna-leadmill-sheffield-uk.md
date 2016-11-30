@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Leadmill, Sheffield, UK'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Dear Diary",
   "Hello Little One",
   "Bobby Peru",

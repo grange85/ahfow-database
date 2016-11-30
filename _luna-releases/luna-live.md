@@ -125,7 +125,7 @@ releases:
          author: Serge Gainsbourg
     - group: D
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
@@ -196,7 +196,7 @@ releases:
          author: Serge Gainsbourg
     - group: CD2
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bobby Peru

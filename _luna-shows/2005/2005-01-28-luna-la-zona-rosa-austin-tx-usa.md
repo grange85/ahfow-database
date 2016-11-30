@@ -18,7 +18,7 @@ show-setlist: [
   "Black Postcards",
   "Teenage Lightning",
   "Fuzzy Wuzzy",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels",
   "Time to Quit"
   ]

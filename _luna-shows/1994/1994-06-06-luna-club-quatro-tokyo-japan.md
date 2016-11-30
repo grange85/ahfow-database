@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Club Quatro, Tokyo, Japan'
 show-setlist: [
   "Sleeping Pill",
-  "California (All the Way)",
+  "California (All The Way)",
   "Slide",
   "Going Home",
   "Anesthesia",

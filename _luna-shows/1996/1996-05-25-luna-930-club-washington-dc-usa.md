@@ -15,7 +15,7 @@ show-setlist: [
   "Moon Palace",
   "Hedgehog",
   "I Want Everything",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "Freakin' and Peakin'",
   "Tiger Lily",

@@ -20,7 +20,7 @@ show-setlist:
  - Moon Palace
  - Indian Summer
  - ^encore 2
- - California (All the Way)
+ - California (All The Way)
 show-date: 2015-10-24
 category: 2015
 show-radio: 
@@ -49,7 +49,7 @@ videos:
     },
     {
         video: 'https://www.youtube.com/watch?v=_eHyrmGqakw',
-        title: 'Luna - &quot;California (All the Way)&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
+        title: 'Luna - &quot;California (All The Way)&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
         description: 'by Dave Ryder'
     },
     {

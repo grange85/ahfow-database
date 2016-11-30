@@ -15,7 +15,7 @@ show-setlist: [
   "Bobby Peru",
   "Friendly Advice",
   "Tiger Lily",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels",
   "Pup Tent",
   "Indian Summer",

@@ -35,7 +35,7 @@ releases:
       - title: Friendly Advice
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
-      - title: California (All the Way)
+      - title: California (All The Way)
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Slide
@@ -148,7 +148,7 @@ releases:
       - title: Moon Palace
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
-      - title: California (All the Way)
+      - title: California (All The Way)
         notes: 
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Anesthesia

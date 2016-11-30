@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Neumos Crystal Ball Reading Room, Seattle WA, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Pup Tent",
   "Malibu Love Nest",

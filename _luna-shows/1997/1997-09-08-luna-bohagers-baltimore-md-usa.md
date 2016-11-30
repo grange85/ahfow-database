@@ -14,7 +14,7 @@ show-setlist: [
   "Chinatown",
   "Slash Your Tires",
   "Beggar's Bliss",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Season Of The Witch",
   "Time to Quit"
