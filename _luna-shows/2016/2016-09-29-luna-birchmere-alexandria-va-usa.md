@@ -39,4 +39,8 @@ show-venue-website: http://www.birchmere.com/events/luna/
 show-additional: 
 support:
  - Britta Phillips
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2016/11/luna-september-29-2016-alexandria-va/
+
 ---

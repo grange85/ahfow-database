@@ -17,7 +17,7 @@ galaxie-500:
 luna:
   name : Luna
   slug : luna
-  image: http://media.fullofwishes.co.uk/02-luna/pictures/luna-home-img.jpg
+  image: http://media.fullofwishes.co.uk/02-luna/pictures/luna-2017-promo-luz-gallardo.jpg
   upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-luna-shows
   yearsactive : [
                 1992,
@@ -36,7 +36,8 @@ luna:
                 2005,
                 2015,
                 2016,
-                2017
+                2017,
+                2018
                 ]
   members :
     - name : Dean Wareham
@@ -88,7 +89,9 @@ damon-and-naomi:
                 2013,
                 2014,
                 2015,
-                2016
+                2016,
+                2017,
+                2018
                 ]
   members :
     - name : Damon Krukowski
@@ -114,7 +117,8 @@ dean-and-britta:
                2013,
                2014,
                2015,
-               2016
+               2016,
+               2017
                ]
   members :
     - name : Dean Wareham
@@ -132,7 +136,8 @@ dean-wareham:
                 2008,
                 2013,
                 2014,
-                2016
+                2016,
+                2017
                 ]
                 
 britta-phillips:
@@ -142,5 +147,6 @@ britta-phillips:
   upcoming-shows-feed: http://feeds.feedburner.com/ahfow-upcoming-britta-phillips-shows
   yearsactive: [
                 2012,
-                2016
+                2016,
+                2017
                 ]              

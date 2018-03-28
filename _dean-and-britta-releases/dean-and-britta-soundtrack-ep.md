@@ -27,8 +27,8 @@ releases:
          author: Roger Waters
        - title: Family Conference
        - title: Park Slope
-       - title: Daniel & Boone
-       - title: Around & Around Again
+       - title: Daniel and Boone
+       - title: Around and Around Again
 ---
 Tracks 1 to 3 from "The Squid and The Whale" soundtrack  
 Tracks 4 and 5 from the soundtrack to "Just Like The Sun"

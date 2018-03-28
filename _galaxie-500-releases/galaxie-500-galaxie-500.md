@@ -116,7 +116,7 @@ releases:
        - title: Way Up High
          notes: 
          author: Krukowski/Wareham/Yang
-       - title: Listen The Snow Is Falling
+       - title: Listen, the Snow Is Falling
          notes: 
          author: Yoko Ono
        - title: Sorry
@@ -185,6 +185,6 @@ releases:
          notes: video
          author: Krukowski/Wareham/Yang
 ---
-Produced & engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988  
+Produced and engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988  
 Remastered by Kramer and Alan Douches, 1996.  
 Includes the videos for Tugboat, When Will You Come Home, Fourth of July and Blue Thunder all directed by Sergio Huidor (1988-90).

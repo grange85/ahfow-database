@@ -19,7 +19,7 @@ show-setlist:
  - Sweet Child O' Mine
  - ^encore
  - Season of the Witch
- - Bonnie & Clyde
+ - Bonnie and Clyde
 setlist-source: Scan 
 show-date: 2015-12-31
 category: 2015

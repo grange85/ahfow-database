@@ -32,6 +32,6 @@ releases:
          notes: Sonic Boom mix
          author: Roger Miller
 ---
-A-side: Recorded & mixed at Studio 105, NYC  
+A-side: Recorded and mixed at Studio 105, NYC  
 B-side: Recorded at Studio 105, NYC and New Atlantis Studio, Rugby England. Mixed at New Atlantis Studio.  
 Design and screen printing by Dan Rugh at CommonWealth Press. 

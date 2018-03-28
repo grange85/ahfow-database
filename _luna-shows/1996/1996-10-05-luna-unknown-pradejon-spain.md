@@ -24,32 +24,32 @@ photos:
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_01.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_01.jpg',
-      title: '&quot;Dean&quot; by Rosa Faus'
+      title: '\"Dean\" by Rosa Faus'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_02.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_02.jpg',
-      title: '&quot;Dean and Sean&quot; by Rosa Faus'
+      title: '\"Dean and Sean\" by Rosa Faus'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_03.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_03.jpg',
-      title: '&quot;Justin&quot; by Rosa Faus'
+      title: '\"Justin\" by Rosa Faus'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_04.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_04.jpg',
-      title: '&quot;Justin, Dean and Lee&quot; by Rosa Faus'
+      title: '\"Justin, Dean and Lee\" by Rosa Faus'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_05.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_05.jpg',
-      title: '&quot;Lee and Dean&quot; by Rosa Faus'
+      title: '\"Lee and Dean\" by Rosa Faus'
       },
       {
       thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_06.jpg',
       image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/1996-10-05/19961005_pradejon_06.jpg',
-      title: '&quot;Lee, Dean and Sean&quot; by Rosa Faus'
+      title: '\"Lee, Dean and Sean\" by Rosa Faus'
       }
       ]"
 ---

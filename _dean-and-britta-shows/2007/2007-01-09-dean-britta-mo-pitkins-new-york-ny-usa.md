@@ -30,4 +30,4 @@ show-venue-website:
 show-additional: 
 ---
 
-<p>with Sonic Boom</p><p>&quot;We had Matt Johnson on drums and Seal McCaul on vibraphones (both of them play on both of our albums). And Sonic Boom joined us on Casio, Electribe and Omnichord for 4 songs.&quot;</p><p>Britta Phillips</p>
+<p>with Sonic Boom</p><p>"We had Matt Johnson on drums and Seal McCaul on vibraphones (both of them play on both of our albums). And Sonic Boom joined us on Casio, Electribe and Omnichord for 4 songs."</p><p>Britta Phillips</p>

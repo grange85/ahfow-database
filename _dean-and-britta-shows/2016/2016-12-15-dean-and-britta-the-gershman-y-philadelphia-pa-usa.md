@@ -34,5 +34,8 @@ show-venue-website: http://www.gershmany.org/what-goes-on-velvet-underground-at-
 show-additional:
 support: Yo La Tengo
 show-series: 13 Most Beautiful
+show-download:
+  site: NYCTaper
+  url: http://www.nyctaper.com/2017/02/dean-and-britta-december-15-2016-philadephia/
 ---
-Dean & Britta will perform 13 Most Beautiful&hellip;  Songs for Andy Warhol's Screen Tests as part of What Goes On: The Velvet Underground at the Y 50th Anniversary
+Dean & Britta performed 13 Most Beautiful&hellip;  Songs for Andy Warhol's Screen Tests as part of What Goes On: The Velvet Underground at the Y 50th Anniversary

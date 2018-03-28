@@ -25,7 +25,7 @@ releases:
       tracks:
       - title: Mistress America
         author: Wareham/Phillips
-      - title: Tracy & Tony
+      - title: Tracy and Tony
         author: Wareham/Phillips
       - title: Do Everything (Soul Cycle)
         author: Wareham/Phillips
@@ -35,17 +35,17 @@ releases:
         author: Wareham/Phillips
       - title: Do Everything (Gas Station)
         author: Wareham/Phillips
-      - title: Hooks & Ladders
+      - title: Hooks and Ladders
         author: Wareham/Phillips
       - title: Robbers
         author: Wareham/Phillips
-      - title: Tracy & Tony
+      - title: Tracy and Tony
         notes: reprise
         author: Wareham/Phillips
       - title: Happy and Free
         notes: Jim James remix
         author: Wareham
-      - title: Tracy & Brooke
+      - title: Tracy and Brooke
         notes: Mom's reprise
         author: Wareham/Phillips
   - release: 
@@ -65,7 +65,7 @@ releases:
       tracks:
       - title: Mistress America
         author: Wareham/Phillips
-      - title: Tracy & Tony
+      - title: Tracy and Tony
         author: Wareham/Phillips
       - title: Do Everything (Soul Cycle)
         author: Wareham/Phillips
@@ -75,19 +75,19 @@ releases:
         author: Wareham/Phillips
       - title: Do Everything (Gas Station)
         author: Wareham/Phillips
-      - title: Hooks & Ladders
+      - title: Hooks and Ladders
         author: Wareham/Phillips
     - group: Side B
       tracks:
       - title: Robbers
         author: Wareham/Phillips
-      - title: Tracy & Tony
+      - title: Tracy and Tony
         notes: reprise
         author: Wareham/Phillips
       - title: Happy and Free
         notes: Jim James remix
         author: Wareham
-      - title: Tracy & Brooke
+      - title: Tracy and Brooke
         notes: Mom's reprise
         author: Wareham/Phillips
 ---

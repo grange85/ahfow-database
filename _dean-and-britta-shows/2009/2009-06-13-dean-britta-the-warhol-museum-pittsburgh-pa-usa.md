@@ -16,4 +16,4 @@ show-venue-website:
 show-additional: 
 ---
 
-Opening of The Warhol Museums "Warhol Live" exhibition.
+Opening of the Warhol Museums "Warhol Live" exhibition.

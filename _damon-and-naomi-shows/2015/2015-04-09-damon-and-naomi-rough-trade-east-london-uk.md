@@ -4,7 +4,7 @@ artistslug: damon-and-naomi
 show-venue: 'Rough Trade East, London, UK'
 show-setlist: [
   "Song to the Siren",
-  "Listen the Snow is Falling",
+  "Listen, the Snow Is Falling",
   "The Seeker",
   "Amnesia",
   "It's Over",

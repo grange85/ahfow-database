@@ -13,7 +13,7 @@ show-setlist: [
   "When Will You Come Home",
   "Sorry",
   "Melt Away",
-  "Listen the Snow is Falling"
+  "Listen, the Snow Is Falling"
   ]
 show-date: 1990-11-21
 category: 1990

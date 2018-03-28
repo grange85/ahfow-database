@@ -1,8 +1,8 @@
 ---
 layout: track
 categories: track
-title: Tracy & Tony
-name: tracy-tony
+title: Tracy and Tony
+name: tracy-and-tony
 type: ahfow_track
 track-lyrics: 
 track-author: Wareham/Phillips

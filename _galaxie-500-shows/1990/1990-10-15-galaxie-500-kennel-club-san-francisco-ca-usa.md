@@ -11,7 +11,7 @@ show-setlist: [
   "Hearing Voices",
   "Don't Let Our Youth Go To Waste",
   "Melt Away",
-  "Listen the Snow is Falling",
+  "Listen, the Snow Is Falling",
   "Ceremony",
   "Here She Comes Now",
   "Snowstorm"

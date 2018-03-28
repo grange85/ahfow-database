@@ -48,5 +48,5 @@ Produced and Engineered by Kramer at Noise New York 1990
 From liner notes (a supposed interview with ex-Rutle Ron Nasty (Neil Innes))...  
 Debbie: - O.K., here's the first track. It's by GALAXIE 500.  
 Ron: - Another bloody sequel! Which one have they done?  
-Debbie: - Cheese & Onions  
+Debbie: - Cheese and Onions  
 Ron: - I like the start, I think this lot have got something, probably constipation, they're obviously high on laxatives...yep, they're speeding up...heading for the lavatory...aaaahh...nope! Ah well, back to the laxatives.

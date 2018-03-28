@@ -45,25 +45,23 @@
 				<div class="row">
 					<div class="col-md-12">
 						{% if page.releases.size > 1 %}
-						<ul class="nav nav-tabs" role="tablist" id="versionstab">
-							<li role="presentation" class="dropdown active">
-								<a href="#" id="release-versions" class="dropdown-toggle" data-toggle="dropdown" aria-controls="release-versions-contents" aria-expanded="false">Version <span class="caret"></span></a>
-								<ul class="dropdown-menu" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
+							<h3>Versions</h3>
+								<ul class="" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
 								{% for releases in page.releases %}
-									<li role="presentation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="tab" data-toggle="tab">
+									<li role="navigation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="" data-toggle="">
 									{% if releases.version %}{{ releases.label }} {% endif %} 
 									{% if releases.year %} {{ releases.year }} {% endif %}
 									{% if releases.format %} {{ releases.format }} {% endif %}
 									{% if releases.version %} ({{ releases.version }}) {% endif %}</a></li>
 								{% endfor %}
 								</ul>
-							</li>
-						</ul>
 						{% endif %}
-						<div class="tab-content">
+						<div class="">
 							{% for releases in page.releases %}
-							<div role="tabpanel" class="tab-pane fade {% if forloop.first == true %}active in{% endif %}" id="{{ releases.version }}">
-								<h3>{{ releases.label }} ({{ releases.year }})</h3>
+							<div role="" class="panel panel-default" id="{{ releases.version }}">
+								<div class="panel-heading"><h3>{{ releases.label }} ({{ releases.year }})</h3></div>
+
+								<div class="panel-body">
 								<div class="row">
 									<div class="col-md-6">
 										{% for group in releases.groups %}
@@ -101,6 +99,7 @@
 										<figcaption>{{ page.albumname }}</figcaption>
 										</figure>
 									</div>
+								</div>
 								</div>
 							</div>
 						{% endfor %}

@@ -43,6 +43,9 @@ show-ticket-url: http://www.ticketmaster.com/luna-brooklyn-new-york-10-01-2016/e
 show-venue-website: http://www.roughtradenyc.com/event/1178991-luna-brooklyn
 show-additional: 
 support:
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2016/10/luna-october-1-2016-rough-trade/
 ---
 Tickets on sale Friday 6 May at 12:00 PM EDT  
 Pre-sale Wednesday 4 May at 12:00 PM EDT  

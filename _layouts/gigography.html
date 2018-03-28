@@ -72,31 +72,20 @@
 						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link %} = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}
-							<tr>
-							<th class="col-md-3">{{show.show-date|date: "%-d %B %Y"}}</th>
-							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a>
+							{% assign day = show.show-date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
+
+						<tr>
+							<th class="col-md-3">{{ ordinaldate }}</th>
+							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
+							<td class="col-md-2">{% if show.show-setlist.size > 0 %}
+								<span class="icon" title="setlist">{% icon fa-list %}</span>{% endif %}{% if show.show-poster-url %}
+								<span class="icon" title="poster">{% icon fa-map-o %}</span>{% endif %}{% if show.photos %}
+								<span class="icon" title="pictures">{% icon fa-camera-retro %}</span>{% endif %}{% if show.videos %}
+								<span class="icon" title="videos">{% icon fa-video-camera %}</span>{% endif %}{% if show.show-download %}
+								<span class="icon" title="show available for download">{% icon fa-download %}</span>{% endif %}{% if show.links %}
+								<span class="icon" title="links to reviews and other content">{% icon fa-external-link %}</span>{% endif %}
 							</td>
-							<td class="col-md-2">
-							{% if show.show-setlist.size > 0 %}
-								<span class="icon" title="setlist">{% icon fa-list %}</span>
-							{% endif %}
-							{% if show.show-poster-url %}
-								<span class="icon" title="poster">{% icon fa-map-o %}</span>
-							{% endif %}
-							{% if show.photos %}
-								<span class="icon" title="pictures">{% icon fa-camera-retro %}</span>
-							{% endif %}
-							{% if show.videos %}
-								<span class="icon" title="videos">{% icon fa-video-camera %}</span>
-							{% endif %}
-							{% if show.show-download %}
-								<span class="icon" title="show available for download">{% icon fa-download %}</span>
-							{% endif %}
-							{% if show.links %}
-								<span class="icon" title="links to reviews and other content">{% icon fa-external-link %}</span>
-							{% endif %}
-							</td>
-							</tr>
+						</tr>
 						{% endfor %}  
 						</table>
 					{% endif %}

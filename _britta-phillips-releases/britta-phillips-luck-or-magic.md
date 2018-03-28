@@ -102,15 +102,15 @@ releases:
         author:
 
 ---
-Produced by Eric Broucek & Britta Phillips  
+Produced by Eric Broucek and Britta Phillips  
 Mixed by Eric Broucek  
-Additional recording by Scott Hardkiss & Michael Judeh at Room Zero, Brooklyn, NY (tracks 5, 8); by Roger Brogan & Prathik Nadungadi, assisted by Omar Yakar Jr (track 3)  
+Additional recording by Scott Hardkiss and Michael Judeh at Room Zero, Brooklyn, NY (tracks 5, 8); by Roger Brogan and Prathik Nadungadi, assisted by Omar Yakar Jr (track 3)  
 Mastered by Emily Lazar at The Lodge, assisted by Chris Allgood  
 Britta Phillips: vocals, bass, keys, guitar (tracks 3, 5, 7, 10)  
 Dean Wareham: guitar (tracks 1, 3, 4, 6, 8, 9)  
 Jeff Brodsky: drums  
 Artwork by Angela Bolliger/Lafont London  
 Photos by Luz Gallardo  
-Makeup & hair by Stephanie Nicole Smith  
+Makeup and hair by Stephanie Nicole Smith  
 Special thanks to Laurie Hamilton, Judith Kyvik, Chris Hollow, Jonathan Bree, Derek Meade, Brian McCarter, The Taylors  
-Dedicated to Scott Hardkiss & Peter Phillips
+Dedicated to Scott Hardkiss and Peter Phillips

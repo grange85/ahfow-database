@@ -36,7 +36,7 @@ releases:
     year: 1997
     releasedate: 1997
     type: single
-    format: CD
+    format: 7"
     label: Beggars Banquet
     catno: BBQ313
     imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg

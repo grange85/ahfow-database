@@ -27,15 +27,15 @@ show-radio:
 show-lastfm: 
 show-cancelled: 
 performers: [
-  "Dean Wareham - guitar/vocals",
-  "Sean Eden - guitar",
-  "Lee Wall - drums",
-  "Britta Phillips - bass"
+  \"Dean Wareham - guitar/vocals\",
+  \"Sean Eden - guitar\",
+  \"Lee Wall - drums\",
+  \"Britta Phillips - bass\"
   ]
 facebook-event-url: 
 show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
-show-ticket-url: 'http://www.ticketmaster.com/event/09004EA60D8B536E'
-show-venue-website: 'http://www.teragramballroom.com/event/851763-luna-los-angeles/'
+show-ticket-url: http://www.ticketmaster.com/event/09004EA60D8B536E
+show-venue-website: http://www.teragramballroom.com/event/851763-luna-los-angeles/
 show-additional: 
 support:
  - Quilt
@@ -44,22 +44,22 @@ videos:
    data: "[
     {
         video: 'https://www.youtube.com/watch?v=a4_GvSEivx8',
-        title: 'Luna - &quot;Friendly Advice&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
+        title: 'Luna - \"Friendly Advice\" Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
         description: 'by Dave Ryder'
     },
     {
         video: 'https://www.youtube.com/watch?v=_eHyrmGqakw',
-        title: 'Luna - &quot;California (All The Way)&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
+        title: 'Luna - \"California (All The Way)\" Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
         description: 'by Dave Ryder'
     },
     {
         video: 'https://www.youtube.com/watch?v=EhlY8jVNtiw',
-        title: 'Luna - &quot;Freakin and Peakin&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
+        title: 'Luna - \"Freakin and Peakin\" Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
         description: 'by Dave Ryder'
     },
     {
         video: 'https://www.youtube.com/watch?v=BwqyLQEqJOY',
-        title: 'Luna - &quot;Chinatown&quot; Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
+        title: 'Luna - \"Chinatown\" Live at Teragram Ballroom - Los Angeles, CA - October 24, 2015',
         description: 'by Dave Ryder'
     },
     {
@@ -69,7 +69,7 @@ videos:
     },
     {
         video: 'https://www.youtube.com/watch?v=PKW90mZ7Bkk',
-        title: 'LUNA - &quot;Indian Summer&quot; live at the Teragram',
+        title: 'LUNA - \"Indian Summer\" live at the Teragram',
         description: 'by Roger Brogan'
     }
     ]"

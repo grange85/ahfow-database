@@ -16,7 +16,7 @@ show-setlist:
  - Chinatown
  - Friendly Advice
  - Bewitched
- - Bonnie & Clyde
+ - Bonnie and Clyde
  - Time to Quit
  - ^encore 1
  - Season of the Witch

@@ -23,7 +23,7 @@ releases:
       tracks:
        - title: New York City
        - title: House of Glass
-       - title: Turn of The Century
+       - title: Turn of the Century
        - title: Song to the Siren
          author: Tim Buckley
        - title: Awake in a Muddle
@@ -45,6 +45,6 @@ releases:
        - title: Blue Thunder
          author: Krukowski/Wareham/Yang
 ---
-Damon & Naomi with Michio Kurihara, Masaki Batoh, Bhob Rainey & special guest Kan Mikami  
+Damon & Naomi with Michio Kurihara, Masaki Batoh, Bhob Rainey and special guest Kan Mikami  
 Filmed and edited by Hiroo Ishihara   
 Cover design by Naomi Yang
