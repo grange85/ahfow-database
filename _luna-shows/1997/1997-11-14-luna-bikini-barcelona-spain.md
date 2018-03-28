@@ -5,7 +5,7 @@ show-venue: 'Bikini, Barcelona, Spain'
 show-setlist: [
   "Sideshow By The Seashore",
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tracy I Love You",
   "Moon Palace",
   "Beautiful View",

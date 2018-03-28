@@ -206,7 +206,7 @@ releases:
        - title: Whispering Pines
          notes: 
          author: Manuel/Robertson
-       - title: Round & Round
+       - title: Round and Round
          notes: 
          author: Krukowski/Yang
 ---

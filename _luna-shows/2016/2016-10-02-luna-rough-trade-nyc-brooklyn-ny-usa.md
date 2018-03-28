@@ -4,6 +4,22 @@ artistslug: luna
 show-venue: 'Rough Trade NYC, Brooklyn, NY, USA'
 show-notes: ''
 show-setlist: 
+ - ^Penthouse
+ - Chinatown
+ - Sideshow By The Seashore
+ - Moon Palace
+ - Double Feature
+ - 23 Minutes In Brussels
+ - Lost In Space
+ - Rhythm King
+ - Kalamazoo
+ - Freakin' and Peakin'
+ - Bonnie and Clyde
+ - ^encore
+ - Slide
+ - Lovedust
+ - Season Of The Witch
+ - Fuzzy Wuzzy
 show-date: 2016-10-02
 date-added: 2016-05-02
 category: 2016

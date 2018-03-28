@@ -9,7 +9,7 @@ show-setlist: [
   "Weird And Woozy",
   "Black Postcards",
   "Swedish Fish",
-  "California (All the Way)",
+  "California (All The Way)",
   "Four Thousand Days",
   "Bewitched",
   "Sideshow By The Seashore",

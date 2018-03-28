@@ -14,7 +14,7 @@ show-setlist: [
   "Time to Quit",
   "23 Minutes in Brussels",
   "Beautiful View",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Tiger Lily",
   "Indian Summer"

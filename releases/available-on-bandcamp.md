@@ -22,6 +22,8 @@ description: >
 		{% assign releases = site.dean-and-britta-releases %}
 	{% when 'dean-wareham' %}
 		{% assign releases = site.dean-wareham-releases %}
+	{% when 'britta-phillips' %}
+		{% assign releases = site.britta-phillips-releases %}
 	{% endcase %}
 	
 {% if releases %}

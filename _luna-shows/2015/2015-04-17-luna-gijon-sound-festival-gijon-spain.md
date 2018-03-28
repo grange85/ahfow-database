@@ -10,7 +10,7 @@ show-setlist: [
   "Malibu Love Nest",
   "Friendly Advice",
   "Tiger Lily",
-  "Tracy, I Love You",
+  "Tracy I Love You",
   "Pup Tent",
   "Bewitched",
   "23 Minutes in Brussels",

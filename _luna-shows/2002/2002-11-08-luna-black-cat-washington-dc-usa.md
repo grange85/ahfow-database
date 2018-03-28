@@ -20,7 +20,7 @@ show-setlist: [
   "Freakin' and Peakin'",
   "Tugboat",
   "Sweet Child O' Mine",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 2002-11-08
 category: 2002

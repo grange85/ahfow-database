@@ -6,7 +6,7 @@ show-setlist: [
   "Malibu Love Nest",
   "Going Home",
   "Speedbumps",
-  "California (All the Way)",
+  "California (All The Way)",
   "Broken Chair",
   "1995",
   "Cindy Tastes of Barbecue",

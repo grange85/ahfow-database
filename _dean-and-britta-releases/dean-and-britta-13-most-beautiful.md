@@ -1,6 +1,5 @@
 ---
 layout: release
-
 resource: discography
 section: 01-album
 artistslug: dean-and-britta
@@ -142,7 +141,61 @@ releases:
        - title: Knives from Bavaria
          notes: (Spoonful of Fun) - Sonic Boom remix
          author: Wareham
-
+  - release: 
+    version: wouldnt-waste-2lp
+    year: 2017
+    releasedate: 2017
+    type: album
+    format: LPx2
+    label: Wouldn't Waste
+    catno: WWR-01
+    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_13mostbeautiful_pink.jpg
+    mbid: 
+    discogs: 
+    release_notes:
+    groups:
+    - group: A
+      tracks:
+       - title: Ann Buchanan Theme
+         notes: 
+         author: Phillips/Wareham
+       - title: Teenage Lightning
+         notes: (and Lonely Highways) - Sonic Boom remix
+         author: Wareham/Phillips/Eden/Wall/Kember
+       - title: It Don't Rain in Beverly Hills
+         notes: Scott Hardkiss remix
+         author: Early/Boyette/Kress/Max/Kramer
+       - title: Silver Factory Theme
+         notes: 
+         author: Phillips/Wareham/LaMarca/Sumrow
+       - title: International Velvet Theme
+         notes: 
+         author: Wareham
+    - group: B
+      tracks:
+       - title: Herringbone Tweed
+         notes: 
+         author: Harwood
+       - title: I Found it Not So
+         notes: 
+         author: Popora
+       - title: I'll Keep it With Mine
+         notes: Scott Hardkiss electric remix
+         author: Bob Dylan
+    - group: C
+      tracks:
+       - title: Richard Rheem Theme
+         notes: 
+         author: Phillips/Kember
+       - title: Eyes in My Smoke
+         notes: 
+         author: Wareham/Phillips/Eden/Wall
+       - title: Not a Young Man Anymore
+         notes: 
+         author: Cale/Reed/Tucker/Morrison
+       - title: Knives from Bavaria
+         notes: (Spoonful of Fun) - Sonic Boom remix
+         author: Wareham
 
 ---
 Produced by Dean & Britta  
@@ -152,7 +205,7 @@ Musicians: Anthony LaMarca, Britta Phillips, Matt Sumrow, Dean Wareham
 
 Thanks to Frank Riley and Dina Dusko at High Road Touring, Sarah Ford and Aicha Boutella at Quaternaire.
 
-Also to Rick Armstrong, Peter Arsenault, C & C Drums, Paul Champion, Paul Dalen, Ryan Dimock, Anne Doran Eastwood Guitars, Nick Filsell, Tor Hansen,Ben Harrison, David Jackson, Jason Lawrence, Mechelle Lois, Rob Long, Malden Guitars, Doug McDermott, Mary Moyer, Scott Nelson, Paul Organisak, Ian Scobie, Thomas Sokolowski
+Also to Rick Armstrong, Peter Arsenault, C and C Drums, Paul Champion, Paul Dalen, Ryan Dimock, Anne Doran Eastwood Guitars, Nick Filsell, Tor Hansen,Ben Harrison, David Jackson, Jason Lawrence, Mechelle Lois, Rob Long, Malden Guitars, Doug McDermott, Mary Moyer, Scott Nelson, Paul Organisak, Ian Scobie, Thomas Sokolowski
 
 Special Thanks Lee Walters
 

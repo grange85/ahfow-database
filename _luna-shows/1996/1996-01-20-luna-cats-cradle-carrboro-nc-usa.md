@@ -14,7 +14,7 @@ show-setlist: [
   "Tiger Lily",
   "We're Both Confused",
   "Lost In Space",
-  "California (All the Way)",
+  "California (All The Way)",
   "Freakin' and Peakin'",
   "Bewitched",
   "Hedgehog",

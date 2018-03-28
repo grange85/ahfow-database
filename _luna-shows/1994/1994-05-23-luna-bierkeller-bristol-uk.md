@@ -5,7 +5,7 @@ show-venue: 'Bierkeller, Bristol, UK'
 setlist-source: 'setlist scan'
 show-setlist: [
   "Time",
-  "California (All the Way)",
+  "California (All The Way)",
   "Thank You For Sending Me An Angel",
   "Tiger Lily",
   "Slash Your Tires",

@@ -63,7 +63,7 @@ releases:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Bewitched - A"
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily

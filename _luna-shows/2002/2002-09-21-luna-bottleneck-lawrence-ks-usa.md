@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Bottleneck, Lawrence KS, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Sideshow By The Seashore",
   "Weird And Woozy",
   "Friendly Advice",

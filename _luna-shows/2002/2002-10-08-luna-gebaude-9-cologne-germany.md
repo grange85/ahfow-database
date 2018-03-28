@@ -16,7 +16,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "The Slow Song",
   "Bonnie and Clyde",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fourth of July"
   ]
 show-date: 2002-10-08

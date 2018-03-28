@@ -6,7 +6,7 @@ setlist-source: 'recording'
 show-setlist: [
   "Pup Tent",
   "Beautiful View",
-  "California (All the Way)",
+  "California (All The Way)",
   "Beggar's Bliss"
   ]
 show-date: 1997-09-09

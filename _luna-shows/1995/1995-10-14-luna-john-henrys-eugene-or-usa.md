@@ -11,7 +11,7 @@ show-setlist: [
   "Moon Palace",
   "Tiger Lily",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "Lost In Space",
   "Freakin' and Peakin'",

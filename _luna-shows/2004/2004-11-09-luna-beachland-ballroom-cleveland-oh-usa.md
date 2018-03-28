@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Beachland Ballroom, Cleveland OH, USA'
 show-setlist: [
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Pup Tent",
   "Broken Chair",

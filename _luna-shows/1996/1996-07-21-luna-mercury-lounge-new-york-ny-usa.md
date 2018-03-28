@@ -15,7 +15,7 @@ show-setlist: [
   "Hedgehog",
   "Tiger Lily",
   "Freakin' and Peakin'",
-  "California (All the Way)",
+  "California (All The Way)",
   "Dream Baby Dream",
   "Indian Summer"
   ]

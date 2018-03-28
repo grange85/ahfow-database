@@ -16,7 +16,7 @@ show-setlist: [
   "Slash Your Tires",
   "IHOP",
   "Tiger Lily",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "Ride Into The Sun",
   "Time to Quit",

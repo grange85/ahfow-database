@@ -9,7 +9,7 @@ show-setlist: [
   "Moon Palace",
   "Tiger Lily",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit"
   ]
 show-date: 1995-10-13

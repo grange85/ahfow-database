@@ -14,7 +14,7 @@ show-setlist: [
   "Anesthesia",
   "Friendly Advice",
   "Four Thousand Days",
-  "California (All the Way)",
+  "California (All The Way)",
   "Moon Palace",
   "23 Minutes in Brussels",
   "Slash Your Tires",

@@ -2748,7 +2748,7 @@ Galleria.prototype = {
             return this;
         }
 
-        // merge the theme & caller options
+        // merge the theme and caller options
         $.extend( true, options, this.theme.defaults, this._original.options, Galleria.configure.options );
 
         // internally we use boolean for swipe
@@ -2901,7 +2901,7 @@ Galleria.prototype = {
                 // create a new Picture instance
                 var image = new Galleria.Picture();
 
-                // apply some styles, create & prepend overlay
+                // apply some styles, create and prepend overlay
                 $( image.container ).css({
                     position: 'absolute',
                     top: 0,
@@ -3209,7 +3209,7 @@ Galleria.prototype = {
         return this;
     },
 
-    // parse width & height from CSS or options
+    // parse width and height from CSS or options
 
     _getWH : function() {
 
@@ -3233,7 +3233,7 @@ Galleria.prototype = {
                     $target[ m ]()                                   // the target jQuery method
                 ];
 
-                // if first time, include the min-width & min-height
+                // if first time, include the min-width and min-height
                 if ( !self[ '_'+m ] ) {
                     arr.splice(arr.length,
                         Utils.parseValue( $container.css( 'min-'+m ) ),
@@ -3453,7 +3453,7 @@ Galleria.prototype = {
                     src    : src
                 };
 
-                // grab & reset size for smoother thumbnail loads
+                // grab and reset size for smoother thumbnail loads
                 if ( o.thumbCrop !== true ) {
                     $container.css( { width: 'auto', height: 'auto' } );
                 } else {
@@ -3627,7 +3627,7 @@ Galleria.prototype = {
     },
 
     // the internal _run method should be called after loading data into galleria
-    // makes sure the gallery has proper measurements before postrun & ready
+    // makes sure the gallery has proper measurements before postrun and ready
     _run : function() {
 
         var self = this;
@@ -4355,7 +4355,7 @@ $(document).mousemove(function(e) {
     console.log( gallery.getMousePosition(e).x );
 });
 
-        @returns {Object} Object with x & y of the relative mouse postion
+        @returns {Object} Object with x and y of the relative mouse postion
     */
 
     getMousePosition : function(e) {
@@ -4971,7 +4971,7 @@ this.prependChild( 'info', 'myElement' );
 
         self.$('container').toggleClass('iframe', !!data.isIframe).removeClass( 'videoplay' );
 
-        // to be fired when loading & transition is complete:
+        // to be fired when loading and transition is complete:
         var complete = (function( data, next, active, queue, thumb ) {
 
             return function() {
@@ -5357,7 +5357,7 @@ this.prependChild( 'info', 'myElement' );
 
     /**
         Set options to the instance.
-        You can set options using a key & value argument or a single object argument (see examples)
+        You can set options using a key and value argument or a single object argument (see examples)
 
         @param {string} key The option key
         @param {string} value the the options value
@@ -6170,7 +6170,7 @@ Galleria.Picture.prototype = {
 
         @param {string} src The image source path, ex '/path/to/img.jpg'
         @param {Object} [size] The forced size of the image, defined as an object { width: xx, height:xx }
-        @param {Function} callback The function to be executed when the image is loaded & scaled
+        @param {Function} callback The function to be executed when the image is loaded and scaled
 
         @returns The image container (jQuery object)
     */

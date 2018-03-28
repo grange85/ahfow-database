@@ -5,7 +5,7 @@ show-venue: 'Trastienda, Buenos Aires, Argentina'
 show-setlist: [
   "Chinatown",
   "1995",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Four Thousand Days",
   "Pup Tent",

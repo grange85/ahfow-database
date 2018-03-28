@@ -5,7 +5,7 @@ show-venue: 'LA2, London, UK'
 setlist-source: 'recording'
 show-setlist: [
   "Crazy People",
-  "California (All the Way)",
+  "California (All The Way)",
   "Thank You For Sending Me An Angel",
   "Tiger Lily",
   "This Time Around",

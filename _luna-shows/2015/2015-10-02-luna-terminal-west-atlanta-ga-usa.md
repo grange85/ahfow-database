@@ -95,12 +95,12 @@ videos:
 links:
  - url: http://blurtonline.com/news/luna-tour-kicks-off-in-atlanta-last-night-we-have-photos-to-prove-it/
    source: Blurt
-   title: Luna Tour Kicks Off in Atlanta Last Night & We Have Photos to Prove It
+   title: Luna Tour Kicks Off in Atlanta Last Night and We Have Photos to Prove It
  - url: http://shokai2.blogspot.co.uk/2015/10/luna-at-terminal-west-atlanta-october-2.html
    source: Music Disolves Water
    title: Luna at Terminal West, Atlanta, October 2, 2015
 support:
- - Matt Hollywood & The Bad Feelings
+ - Matt Hollywood and The Bad Feelings
 show-download:
    site: NYCTaper
    url: http://www.nyctaper.com/2015/10/luna-october-2-2015-terminal-west-atlanta/ 

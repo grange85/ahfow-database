@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: "Moes, Seattle WA, USA"
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Anesthesia",
   "This Time Around",
   "Going Home",

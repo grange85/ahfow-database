@@ -5,7 +5,7 @@ show-venue: 'Loppen, Copenhagen, Denmark '
 show-setlist: [
   "Fuzzy Wuzzy",
   "Beggar's Bliss",
-  "California (All the Way)",
+  "California (All The Way)",
   "Beautiful View",
   "Sideshow By The Seashore",
   "Pup Tent",

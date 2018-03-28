@@ -27,7 +27,7 @@ releases:
          notes: 
          author: Irving Berlin
 ---
-Arranged and performed by Damon & Naomi with Michio Kurihara, Bhob Rainey & Greg Kelley  
+Arranged and performed by Damon & Naomi with Michio Kurihara, Bhob Rainey and Greg Kelley  
 Recorded By Jon Lupfer at Q Division 2008  
 From the film Lovely, Still
 

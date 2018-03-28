@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 	{% assign artist = site.data.artists[page.artistslug] %}
-	{% capture newtitle %}{{page.show-date | date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
+	{% assign day = page.show-date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
+	{% capture newtitle %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
 	{% if page.description %}{% assign description = page.description %}{% else %}
 		{% capture description %}
 			Details of {{artist.name}}'s show at {{page.show-venue}} on {{page.show-date| date: "%-d %B %Y"}}. 
@@ -13,6 +14,8 @@
 	{% include tagmanager.html %}
 	{% include header.html %}
 	{% include social.html %}
+
+
 	<div class="container">
 		<div class="row">
 			<div class="wrapper col-md-9">
@@ -24,7 +27,7 @@
 								<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
 								<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
 								<li><a href="/{{artist.slug}}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
-								<li>{{page.show-date|date: "%-d %B %Y"}} - {{artist.name}} - {{ page.show-venue }}</li>
+								<li>{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
 							</ul>
 						</nav>
 					</div>
@@ -33,8 +36,8 @@
 					<div class="col-md-6">
 						<h3>Information</h3>
 						<ul>
-						<li>{% icon fa-calendar %} {{page.show-date|date: "%-d %B %Y"}}</li>
-						<li>Artist: {{artist.name}}</li>
+						<li>{% icon fa-calendar %} {{ ordinaldate }}</li>
+						<li>Artist: {% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</li>
 						<li>Venue: {{page.show-venue}}</li>
 						{% if page.show-download %}
 							<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
@@ -114,7 +117,14 @@
 
 					</div>
 					<div class="col-md-6">
-						{% if page.show-poster-url %}
+						{% if page.featured-image %}
+							<div class="thumbnail">
+								<img class="img-responsive" src="{{page.featured-image.url}}" alt="{{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
+								<div class="caption">
+									<a href="{{page.featured-image.link}}">{{page.featured-image.caption}}</a><br/><small class="text-muted">(Photo: <a href="{{page.featured-image.link}}">{{page.featured-image.credit}}</a>)</small>
+								</div>
+							</div>
+						{% elsif page.show-poster-url %}
 							<div class="thumbnail">
 								<img class="img-responsive" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}" />
 								<div class="caption">

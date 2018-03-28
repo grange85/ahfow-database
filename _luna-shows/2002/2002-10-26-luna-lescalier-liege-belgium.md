@@ -17,7 +17,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "23 Minutes in Brussels",
   "Chinatown",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 2002-10-26
 category: 2002

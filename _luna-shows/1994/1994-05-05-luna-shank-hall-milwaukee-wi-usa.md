@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Shank Hall, Milwaukee, WI, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Slide",
   "Going Home",
   "Anesthesia",

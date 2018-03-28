@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
   "Fuzzy Wuzzy",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tracy I Love You",
   "Anesthesia",
   "Friendly Advice",

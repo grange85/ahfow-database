@@ -32,6 +32,9 @@ show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/20
 show-ticket-url: 'http://www.indietracks.co.uk/tickets/'
 show-venue-website: 'http://www.indietracks.co.uk/'
 show-additional: 
+show-download:
+   site: AHFoW (MediaFire)
+   url: http://www.mediafire.com/download/yn0acrjwg6soujj/wareham-dean-2014-07-26_-indietracks-festival-derbyshire-uk.zip
 photos:
   - user: grange85
     type: flickr-set

@@ -28,9 +28,9 @@ releases:
        - title: Bobby Peru
          notes: US Radio edit
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: live
          author: "Lyrics by Dean Wareham, music by Luna"
 ---
-"California (All the Way)" recorded live and mixed at Pachyderm Studios, Cannon Falls, MN  
+"California (All The Way)" recorded live and mixed at Pachyderm Studios, Cannon Falls, MN  
 "Bobby Peru" remix by Bob Clearmountain

@@ -16,7 +16,7 @@ show-setlist: [
   "That's What You Always Say",
   "Tiger Lily",
   "23 Minutes in Brussels",
-  "California (All the Way)",
+  "California (All The Way)",
   "Walk On The Wild Side"
   ]
 show-date: 1996-02-11

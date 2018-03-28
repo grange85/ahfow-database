@@ -38,7 +38,7 @@ releases:
        - title: When I Remembered
          notes: 
          author: Wayne Rogers
-       - title: Jonathan & Charles
+       - title: Jonathan and Charles
          notes: 
          author: Wayne Rogers
     - group: B
@@ -73,7 +73,7 @@ releases:
        - title: When I Remembered
          notes: 
          author: Wayne Rogers
-       - title: Jonathan & Charles
+       - title: Jonathan and Charles
          notes: 
          author: Wayne Rogers
        - title: Passing Words
@@ -106,7 +106,7 @@ releases:
        - title: When I Remembered
          notes: 
          author: Wayne Rogers
-       - title: Jonathan & Charles
+       - title: Jonathan and Charles
          notes: 
          author: Wayne Rogers
        - title: Passing Words

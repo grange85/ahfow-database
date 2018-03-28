@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Universal Amphitheatre, Los Angeles CA, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Slide",
   "Friendly Advice",
   "Anesthesia",

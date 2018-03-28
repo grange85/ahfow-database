@@ -7,7 +7,7 @@ show-setlist: [
   "Fourth of July",
   "When Will You Come Home",
   "Don't Let Our Youth Go To Waste",
-  "Listen the Snow is Falling"
+  "Listen, the Snow Is Falling"
   ]
 show-date: 1990-11-24
 category: 1990

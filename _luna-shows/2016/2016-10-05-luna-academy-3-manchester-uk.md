@@ -4,6 +4,26 @@ artistslug: luna
 show-venue: 'Academy 3, Manchester, UK'
 show-notes: ''
 show-setlist: 
+ - ^Penthouse
+ - Chinatown
+ - Sideshow By The Seashore
+ - Moon Palace
+ - Double Feature
+ - 23 Minutes In Brussels
+ - Lost In Space
+ - Rhythm King
+ - Kalamazoo
+ - Hedgehog
+ - Freakin' and Peakin'
+ - Bonnie and Clyde
+ - ^encore
+ - track:
+   title: One Fine Summer Morning
+   notes: Britta Phillips
+ - Malibu Love Nest
+ - Speedbumps
+ - Anesthesia
+ - Friendly Advice
 show-date: 2016-10-05
 date-added: 2016-07-11
 category: 2016

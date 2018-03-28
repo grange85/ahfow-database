@@ -18,7 +18,7 @@ show-setlist: [
   "Friendly Advice",
   "Moon Palace",
   "Black Postcards",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fuzzy Wuzzy",
   "Bewitched",
   "Fourth of July"

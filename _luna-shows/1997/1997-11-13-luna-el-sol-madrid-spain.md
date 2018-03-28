@@ -12,7 +12,7 @@ show-setlist: [
   "Chinatown",
   "23 Minutes in Brussels",
   "Beautiful View",
-  "California (All the Way)",
+  "California (All The Way)",
   "Outdoor Miner",
   "Beggar's Bliss",
   "IHOP",

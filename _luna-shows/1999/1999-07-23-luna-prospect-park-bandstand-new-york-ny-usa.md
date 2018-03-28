@@ -12,7 +12,7 @@ show-setlist: [
   "Beggar's Bliss",
   "Hello Little One",
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Seven Steps to Satan",
   "23 Minutes in Brussels",

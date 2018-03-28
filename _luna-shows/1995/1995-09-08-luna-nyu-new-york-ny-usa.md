@@ -5,7 +5,7 @@ show-venue: 'NYU, New York NY, USA'
 show-setlist: [
   "Friendly Advice",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Sideshow By The Seashore",
   "Tiger Lily",
   "Moon Palace",

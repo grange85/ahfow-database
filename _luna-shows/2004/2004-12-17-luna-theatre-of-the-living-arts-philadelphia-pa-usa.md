@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: 'Theatre of the Living Arts, Philadelphia PA, USA'
 show-setlist: [
   "Malibu Love Nest",
-  "California (All the Way)",
+  "California (All The Way)",
   "Astronaut",
   "Speedbumps",
   "Going Home",

@@ -10,7 +10,7 @@ show-setlist: [
   "Still At Home",
   "Star Spangled Man",
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Bewitched",
   "Bonnie and Clyde",

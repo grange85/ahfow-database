@@ -15,7 +15,7 @@ show-setlist: [
   "Lost In Space",
   "Four Thousand Days",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "Egg Nog",
   "23 Minutes in Brussels"

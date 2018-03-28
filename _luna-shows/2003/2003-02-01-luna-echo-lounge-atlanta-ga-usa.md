@@ -6,7 +6,7 @@ show-setlist: [
   "Slide",
   "Weird And Woozy",
   "Astronaut",
-  "California (All the Way)",
+  "California (All The Way)",
   "Mermaid Eyes",
   "Tracy I Love You",
   "Friendly Advice",

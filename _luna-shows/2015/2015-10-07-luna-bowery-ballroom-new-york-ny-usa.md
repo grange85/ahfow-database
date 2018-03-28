@@ -49,7 +49,7 @@ videos:
     },
     {
       video: 'https://www.youtube.com/watch?v=7MGbgr3FFqU',
-      title: 'luna ~ Bonnie & Clyde Bowery Ballroom, NYC 10 7 15',
+      title: 'luna ~ Bonnie and Clyde Bowery Ballroom, NYC 10 7 15',
       description: 'by michaelfgioia'
     },
     {

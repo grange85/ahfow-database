@@ -16,7 +16,7 @@ show-setlist: [
   "IHOP",
   "Beggar's Bliss",
   "This Time Around",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown"
   ]
 show-date: 1998-09-11

@@ -18,7 +18,7 @@ show-setlist: [
   "Bewitched",
   "1995",
   "Black Postcards",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "23 Minutes in Brussels"
   ]

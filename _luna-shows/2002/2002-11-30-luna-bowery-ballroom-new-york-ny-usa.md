@@ -19,7 +19,7 @@ show-setlist: [
   "Black Postcards",
   "Tugboat",
   "23 Minutes in Brussels",
-  "California (All the Way)",
+  "California (All The Way)",
   "Bonnie and Clyde"
   ]
 show-date: 2002-11-30

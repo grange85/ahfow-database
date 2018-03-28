@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "1995",
-  "California (All the Way)",
+  "California (All The Way)",
   "Astronaut",
   "Black Champagne",
   "Bobby Peru",

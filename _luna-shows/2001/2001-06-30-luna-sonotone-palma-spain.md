@@ -15,7 +15,7 @@ show-setlist: [
   "Moon Palace",
   "23 Minutes in Brussels",
   "Bonnie and Clyde",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fourth of July"
   ]
 show-date: 2001-06-30

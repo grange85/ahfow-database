@@ -19,7 +19,7 @@ show-setlist: [
   "Lost In Space",
   "23 Minutes in Brussels",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer"
   ]
 show-date: 1999-12-07

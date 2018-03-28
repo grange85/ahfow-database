@@ -6,7 +6,7 @@ show-setlist: [
   "Friendly Advice",
   "Sideshow By The Seashore",
   "Chinatown",
-  "California (All the Way)",
+  "California (All The Way)",
   "Moon Palace",
   "Freakin' and Peakin'",
   "Strange",

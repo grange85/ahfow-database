@@ -13,7 +13,7 @@ show-setlist: [
   "Moon Palace",
   "23 Minutes in Brussels",
   "Hello Little One",
-  "California (All the Way)",
+  "California (All The Way)",
   "Time to Quit",
   "Bonnie and Clyde",
   "Tiger Lily",

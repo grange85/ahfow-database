@@ -11,7 +11,7 @@ show-setlist: [
   "Black Champagne",
   "Dear Diary",
   "Bewitched",
-  "California (All the Way)",
+  "California (All The Way)",
   "Rememories",
   "23 Minutes in Brussels",
   "Pup Tent",

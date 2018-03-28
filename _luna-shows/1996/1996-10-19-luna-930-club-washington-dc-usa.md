@@ -6,7 +6,7 @@ show-setlist: [
   "Slide",
   "Chinatown",
   "Tracy I Love You",
-  "California (All the Way)",
+  "California (All The Way)",
   "Tiger Lily",
   "Moon Palace",
   "Time to Quit",

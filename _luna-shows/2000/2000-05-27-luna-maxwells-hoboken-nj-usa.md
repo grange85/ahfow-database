@@ -12,7 +12,7 @@ show-setlist: [
   "City Kitty",
   "Dear Diary",
   "Pup Tent",
-  "California (All the Way)",
+  "California (All The Way)",
   "Lost In Space",
   "23 Minutes in Brussels",
   "Time to Quit",

@@ -17,7 +17,7 @@ show-setlist: [
   "Chinatown",
   "23 Minutes in Brussels",
   "Beggar's Bliss",
-  "California (All the Way)",
+  "California (All The Way)",
   "Indian Summer"
   ]
 show-date: 1998-02-14

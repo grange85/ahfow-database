@@ -11,7 +11,7 @@ show-setlist: [
   "Don't Let Our Youth Go To Waste",
   "Temperature's Rising",
   "Fourth of July",
-  "Listen the Snow is Falling",
+  "Listen, the Snow Is Falling",
   "Oblivious",
   "Tugboat",
   "Blue Thunder",

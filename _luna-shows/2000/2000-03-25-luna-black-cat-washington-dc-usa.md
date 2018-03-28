@@ -9,7 +9,7 @@ show-setlist: [
   "Pup Tent",
   "Lost In Space",
   "Beggar's Bliss",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fourth of July",
   "Dear Diary",
   "Moon Palace",

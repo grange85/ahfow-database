@@ -37,7 +37,7 @@ releases:
       - title: Permanent Green Light
         notes: 
         author: The Godz
-      - title: Jonathan & Charles
+      - title: Jonathan and Charles
         notes: demo
         author: Wayne Rogers
       - title: Something Else #2

@@ -167,7 +167,7 @@ releases:
          notes: Down Moonlight Mile
          author: Roback/Smith
 ---
-Releases as Britta Phillips &amp; Dean Wareham
+Releases as Britta Phillips and Dean Wareham
 
 Matt Johnson: Drums  
 The Scorchio Quartet

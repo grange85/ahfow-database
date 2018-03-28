@@ -9,7 +9,7 @@ show-setlist: [
   "Friendly Advice",
   "Slide",
   "Time to Quit",
-  "California (All the Way)",
+  "California (All The Way)",
   "23 Minutes in Brussels",
   "Tiger Lily"
   ]

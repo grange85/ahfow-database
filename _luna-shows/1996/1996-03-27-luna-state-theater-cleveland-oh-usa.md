@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'State Theater, Cleveland OH, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "This Time Around",
   "23 Minutes in Brussels",

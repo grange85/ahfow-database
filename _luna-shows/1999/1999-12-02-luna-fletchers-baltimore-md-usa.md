@@ -17,7 +17,7 @@ show-setlist: [
   "Four Thousand Days",
   "Lost In Space",
   "23 Minutes in Brussels",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 1999-12-02
 category: 1999

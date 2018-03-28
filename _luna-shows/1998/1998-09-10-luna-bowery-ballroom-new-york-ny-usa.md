@@ -18,7 +18,7 @@ show-setlist: [
   "Time to Quit",
   "23 Minutes in Brussels",
   "Chinatown",
-  "California (All the Way)"
+  "California (All The Way)"
   ]
 show-date: 1998-09-10
 category: 1998

@@ -3,6 +3,15 @@ layout: show
 artistslug: luna
 show-venue: 'Civic Auditorium, Portland OR, USA'
 show-setlist: 
+ - Sleeping Pill
+ - Slide
+ - California (All The Way)
+ - Friendly Advice
+ - Tiger Lily
+ - This Time Around
+ - Slash Your Tires
+ - Bewitched
+ - Time to Quit
 show-date: 1994-03-30
 category: 1994
 show-radio: 
@@ -18,5 +27,7 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - supporting The Cocteau Twins
 ---
 

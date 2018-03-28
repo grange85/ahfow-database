@@ -13,7 +13,7 @@ show-setlist:
 - Summertime
 - Don't Let Our Youth Go to Waste
 - Blue Thunder
-- Listen the Snow is Falling
+- Listen, the Snow Is Falling
 - Tugboat
 - Fourth of July
 - ^encore

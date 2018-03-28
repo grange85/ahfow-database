@@ -11,7 +11,7 @@ show-setlist: [
   "Tracy I Love You",
   "Tiger Lily",
   "Friendly Advice",
-  "California (All the Way)",
+  "California (All The Way)",
   "Bewitched",
   "Moon Palace",
   "Time to Quit",

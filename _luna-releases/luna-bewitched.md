@@ -23,7 +23,7 @@ releases:
     groups:
     - group: CD
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
@@ -68,7 +68,7 @@ releases:
     groups:
     - group: CD
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
@@ -116,7 +116,7 @@ releases:
     groups:
     - group: A
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
@@ -163,7 +163,7 @@ releases:
     groups:
     - group: A
       tracks:
-       - title: California (All the Way)
+       - title: California (All The Way)
          notes: 
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily

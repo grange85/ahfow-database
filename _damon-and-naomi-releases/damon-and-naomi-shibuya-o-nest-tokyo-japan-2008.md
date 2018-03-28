@@ -21,7 +21,7 @@ releases:
     groups:
     - group: DVD
       tracks:
-       - title: Eye of The Storm
+       - title: Eye of the Storm
        - title: The Well
        - title: Ueno Station
        - title: On The Aventine

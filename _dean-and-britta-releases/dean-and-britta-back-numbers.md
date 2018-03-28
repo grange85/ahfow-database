@@ -14,7 +14,7 @@ releases:
     releasedate: 2007
     type: album
     format: CD
-    label: Zo&eumlaut;
+    label: Zo&euml;
     catno: 01143-1105-2
     imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_backnumbers.jpg
     mbid: 

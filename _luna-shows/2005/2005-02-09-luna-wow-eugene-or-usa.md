@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'WOW, Eugene OR, USA'
 show-setlist: [
-  "California (All the Way)",
+  "California (All The Way)",
   "Speedbumps",
   "Still At Home",
   "Tracy I Love You",

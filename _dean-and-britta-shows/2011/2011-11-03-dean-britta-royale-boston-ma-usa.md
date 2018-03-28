@@ -21,6 +21,6 @@ setlist:
  - The Sun is Still Sunny
  - Tugboat
  - Snowstorm
- - Listen The Snow is Falling
+ - Listen, the Snow Is Falling
  - Blue Thunder
 ---

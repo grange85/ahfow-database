@@ -13,7 +13,7 @@ show-setlist: [
   "Lost In Space",
   "1995",
   "Four Thousand Days",
-  "California (All the Way)",
+  "California (All The Way)",
   "Into The Fold",
   "Moon Palace",
   "Bewitched",

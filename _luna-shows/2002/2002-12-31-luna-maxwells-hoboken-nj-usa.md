@@ -6,7 +6,7 @@ show-setlist: [
   "1995",
   "Chinatown",
   "Rock Your Baby",
-  "California (All the Way)",
+  "California (All The Way)",
   "Bewitched",
   "Mermaid Eyes",
   "Astronaut",

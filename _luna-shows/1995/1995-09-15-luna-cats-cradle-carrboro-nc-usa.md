@@ -4,7 +4,7 @@ artistslug: luna
 show-venue: "Cats Cradle, Carrboro NC, USA"
 show-setlist: [
   "Friendly Advice",
-  "California (All the Way)",
+  "California (All The Way)",
   "Chinatown",
   "Sideshow By The Seashore",
   "Slash Your Tires",

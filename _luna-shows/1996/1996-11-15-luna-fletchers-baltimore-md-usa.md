@@ -13,7 +13,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Lost In Space",
   "Tracy I Love You",
-  "California (All the Way)",
+  "California (All The Way)",
   "Fourth of July",
   "Whispers",
   "Friendly Advice",

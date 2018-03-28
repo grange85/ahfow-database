@@ -27,11 +27,11 @@ releases:
          author: "J. Lennon"
        - title: Mr Jealousy Luna Suite
          notes: 
-         author: "D. Wareham, L. Wall, S. Eden & J. Harwood"
+         author: "D. Wareham, L. Wall, S. Eden and J. Harwood"
        - title: Chinatown
          notes: 
-         author: "D. Wareham, S. Demeski, S. Eden & J. Harwood"
+         author: "D. Wareham, S. Demeski, S. Eden and J. Harwood"
        - title: Hello Little One
          notes: 
-         author: "D. Wareham, L. Wall, S. Eden & J. Harwood"
+         author: "D. Wareham, L. Wall, S. Eden and J. Harwood"
 ---

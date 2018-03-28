@@ -31,4 +31,4 @@ show-additional:
 show-series: 13 Most Beautiful
 ---
 
-Live accompaniment of the film &quot;13 Most Beautiful...Songs for Andy Warhol\'s Screen Tests&quot;
+Live accompaniment of the film "13 Most Beautiful...Songs for Andy Warhol's Screen Tests"

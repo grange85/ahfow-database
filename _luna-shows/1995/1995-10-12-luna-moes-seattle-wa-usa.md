@@ -12,7 +12,7 @@ show-setlist: [
   "Tiger Lily",
   "Freakin' and Peakin'",
   "Lost In Space",
-  "California (All the Way)",
+  "California (All The Way)",
   "Hedgehog",
   "Time to Quit"
   ]

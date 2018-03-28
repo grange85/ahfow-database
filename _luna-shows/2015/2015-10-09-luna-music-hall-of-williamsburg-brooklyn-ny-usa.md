@@ -16,7 +16,7 @@ show-setlist:
  - Chinatown
  - Friendly Advice
  - Bewitched
- - Bonnie & Clyde
+ - Bonnie and Clyde
  - Time to Quit
  - ^encore 1
  - Season of the Witch
@@ -174,8 +174,8 @@ photos:
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan with luna-janice.jpg',
-    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan with luna-janice.jpg', 
+    thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg',
+    image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg', 
     title: 'Luna at the Music Hall of Williamsburg (photo: Janice)'
   }
   ]"

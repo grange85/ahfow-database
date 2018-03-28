@@ -10,27 +10,27 @@ photos:
         {
         thumb: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damonnaomi.06_thumb.jpg',
         image: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damonnaomi.06.jpg',
-        title: 'Damon &amp; Naomi'
+        title: 'Damon & Naomi'
         },
         {
         thumb: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dandn-2015_thumb.jpg',
         image: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dandn-2015.jpg',
-        title: 'Damon &amp; Naomi'
+        title: 'Damon & Naomi'
         },
         {
         thumb: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damonnaomi-02-hires_thumb.jpg',
         image: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damonnaomi-02-hires.jpg',
-        title: 'Damon &amp; Naomi'
+        title: 'Damon & Naomi'
         },
         {
         thumb: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-promo_thumb.jpg',
         image: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/magic-hour-promo.jpg',
-        title: 'Damon &amp; Naomi'
+        title: 'Damon & Naomi'
         },
         {
         thumb: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dan_promo_2536_thumb.jpg',
         image: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/dan_promo_2536.jpg',
-        title: 'Damon &amp; Naomi'
+        title: 'Damon & Naomi'
         }]"
 ---
 

@@ -15,7 +15,7 @@ show-setlist: [
   "Beautiful View",
   "Slash Your Tires",
   "Moon Palace",
-  "California (All the Way)",
+  "California (All The Way)",
   "IHOP",
   "Anesthesia",
   "Lost In Space",
