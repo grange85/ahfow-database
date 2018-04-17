@@ -1,21 +1,17 @@
 ---
 layout: show
 artistslug: galaxie-500
-show-venue: 'The Middle East, Cambridge, MA, USA'
-show-setlist: [
-  "Oblivious",
-  "I Can't Believe it's Me",
-  "Back in Your Life",
-  "Buzz in My Head"
-  ]
-show-date: 1988-03-19
+show-venue: 'Rat, Boston MA, USA'
+show-setlist:
+show-date: 1988-06-01
+source: Dean Wareham
 category: 1988
 show-radio:
 show-lastfm:
 show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
-  "Naomi Yang - bass",
+  "Naomi Yang - bass/vocals",
   "Damon Krukowski - drums"
   ]
 facebook-event-url:
@@ -24,6 +20,6 @@ show-ticket-url:
 show-venue-website:
 show-additional:
 support:
- - Beat Happening
+ - Gigolo Aunts
 ---
-DW: "Opening for Beat Happening"
+DW: "Record release party for Gigolo Aunts"
