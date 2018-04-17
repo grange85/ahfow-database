@@ -35,9 +35,9 @@
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
 						<ul class="list-inline">
 						{% for year in artist.yearsactive %}
-							<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item 
+							<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item
 							{% if year == page.year %}
-								active 
+								active
 							{% endif %}
 						">{{year | append: ""}}</a></li>
 						{% endfor %}
@@ -65,14 +65,16 @@
 					{% if page.section == 'topindex' %}
 						{% if artist.slug != 'galaxie-500' %}
 							{% include upcoming.html artistslug= artist.slug %}
-						{% endif %}	
+						{% endif %}
 				{% else %}
 					{% if shows %}
 						<h3>{{ artist.name }} shows in {{ page.year }}</h3>
 						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-map-o %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link %} = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}
-							{% assign day = show.show-date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
+							{% assign day = show.show-date|date: "%-d"  %}
+						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
+							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
 
 						<tr>
 							<th class="col-md-3">{{ ordinaldate }}</th>
@@ -86,7 +88,7 @@
 								<span class="icon" title="links to reviews and other content">{% icon fa-external-link %}</span>{% endif %}
 							</td>
 						</tr>
-						{% endfor %}  
+						{% endfor %}
 						</table>
 					{% endif %}
 				{% endif %}
