@@ -3,22 +3,22 @@ layout: release
 resource: discography
 section: 04-promo
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
 initial_release_date: 2002
 albumname: Roundup
 releases:
-  - release: 
+  - release:
     version: promo-cd
     year: 2002
     releasedate: 2002
     type: promo
     format: CD
     label: Maine Road Management
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-roundup.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
@@ -39,4 +39,4 @@ releases:
        - title: Dear Diary
        - title: Sweet Child O' Mine
        - title: Bonnie and Clyde
---- 
+---

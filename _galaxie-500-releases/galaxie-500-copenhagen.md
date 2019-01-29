@@ -6,10 +6,10 @@ artistslug: galaxie-500
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1997
 albumname: Copenhagen
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/copenhagen-live
 bandcamp-id: 3510813574
-wikipedia: 
+wikipedia:
 releases:
   - release:
     version: rykodisc-cd
@@ -19,7 +19,7 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD 10373
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
     groups:
       - group: CD
         tracks:
@@ -49,7 +49,7 @@ releases:
     format: CD
     label: Videoarts Japan
     catno: VACK 1371
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
     groups:
       - group: CD
         tracks:
@@ -72,8 +72,8 @@ releases:
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
 ---
-Recorded at "Barbue," Copenhagen by Danmarks Radio P3, December 1, 1990  
-Live sound by Kramer  
-Recording produced by Anders Dohn and engineered by Peter Molander Christensen  
-Cover photograph by Richard Bellia backstage at "La Dolce Vita," Lausanne, Thanksgiving Day, 1989  
+Recorded at "Barbue," Copenhagen by Danmarks Radio P3, December 1, 1990
+Live sound by Kramer
+Recording produced by Anders Dohn and engineered by Peter Molander Christensen
+Cover photograph by Richard Bellia backstage at "La Dolce Vita," Lausanne, Thanksgiving Day, 1989
 Design by Naomi Yang

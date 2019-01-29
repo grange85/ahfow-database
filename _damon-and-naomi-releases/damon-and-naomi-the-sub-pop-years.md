@@ -3,13 +3,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopyears.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopyears.jpg
 initial_release_date: 2009
 albumname: The Sub Pop Years
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002
 bandcamp-id: 2109597946
 releases:
-  - release: 
+  - release:
     version: 202020-cd
     year: 2009
     releasedate: 2009-09-08
@@ -17,56 +17,56 @@ releases:
     format: LP
     label: 20|20|20
     catno: 202020.10
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopyears.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopyears.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-The-Sub-Pop-Years/release/1947975
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
        - title: I'm Yours
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Forgot to Get High
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: New York City
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eye of the Storm
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tour of the World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Song to the Siren
-         notes: 
+         notes:
          author: Tim Buckley
        - title: The Navigator
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Long
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Turn of the Century
-         notes: 
+         notes:
          author: Krukowski/Yang
 ---

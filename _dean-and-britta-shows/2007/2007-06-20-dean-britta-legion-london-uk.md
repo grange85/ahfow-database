@@ -33,6 +33,9 @@ photos:
   - user: grange85
     type: flickr-set
     id: 72157600414156222
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/file/d0fmpd58lydwvoy/dean--britta-2007-06-20_-legion-london-uk.zip/file
 ---
 
 with The Clientele and Flowers Of Hell

@@ -7,9 +7,9 @@ artistslug: dean-wareham
 initial_release_date: 1990
 albumname: What Else Do You Do (A Compilation of Quiet Music)
 artist: Various artists
-imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
 releases:
-  - release: 
+  - release:
     version: shimmy-disc-lp
     year: 1990
     releasedate: 1990
@@ -17,16 +17,16 @@ releases:
     format: LP
     label: Shimmy Disc
     catno: SHIMMY 34
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Smile
-         notes: 
+         notes:
          author: Dean Wareham
-  - release: 
+  - release:
     version: shimmy-disc-europe-europe-lp
     year: 1990
     releasedate: 1990
@@ -34,16 +34,16 @@ releases:
     format: LP
     label: Shimmy Disc
     catno: SDE-9021
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Smile
-         notes: 
+         notes:
          author: Dean Wareham
-  - release: 
+  - release:
     version: shimmy-disc-cd
     year: 1990
     releasedate: 1990
@@ -51,16 +51,16 @@ releases:
     format: LP
     label: Shimmy Disc
     catno: SHIMMY 34 CD
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Smile
-         notes: 
+         notes:
          author: Dean Wareham
-  - release: 
+  - release:
     version: shimmy-disc-europe-europe-cd
     year: 1990
     releasedate: 1990
@@ -68,14 +68,14 @@ releases:
     format: LP
     label: Shimmy Disc
     catno: SDE-9021CD
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Smile
-         notes: 
+         notes:
          author: Dean Wareham
 
 ---

@@ -4,14 +4,14 @@ subtitle: 'Releases, shows and tracks'
 email: andy@fullofwishes.co.uk
 description: >
   A Head Full of Wishes is a site for Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham.
-  With news, articles and lists of releases and past and future shows. 
+  With news, articles and lists of releases and past and future shows.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://db.fullofwishes.co.uk" # the base hostname and protocol for your site
-image: http://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
+url: "https://db.fullofwishes.co.uk" # the base hostname and protocol for your site
+image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 twitter_username: ahfow
 github_username:  grange85
 
-collections: 
+collections:
   tracks:
     output: true
     permalink: tracks/:title/
@@ -59,7 +59,7 @@ collections:
     permalink: britta-phillips/shows/:path/
 
 
-defaults: 
+defaults:
   -
     scope:
       path: ""

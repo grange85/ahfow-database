@@ -5,19 +5,19 @@ section: 04-dvd
 artistslug: damon-and-naomi
 initial_release_date: 2006
 albumname: Shibuya O Nest, Tokyo, Japan - June 24, 2005
-imageurl:  http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2008.jpg
+imageurl:  https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2008.jpg
 releases:
-  - release: 
+  - release:
     version: self-released-dvd
     year: 2006
     releasedate: 2006
     type: dvd
     format: DVD
     label: (no label)
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2008.jpg
-    mbid: 
-    discogs: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-shibuya-o-nest-2008.jpg
+    mbid:
+    discogs:
     groups:
     - group: DVD
       tracks:
@@ -34,10 +34,10 @@ releases:
          author: Michio Kurihara / Your Ishihara
        - title: A Second Life
        - title: Araca Azul
-         notes: 
+         notes:
          author: Caetano Veloso
        - title: The Earth is Blue
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Ueno Station
        - title: ^Sendou Kouta
@@ -45,6 +45,6 @@ releases:
        - title: Blue Thunder
          author: Krukowski/Wareham/Yang
 ---
-Damon & Naomi with Michio Kurihara, Masaki Batoh, Bhob Rainey and special guest Kan Mikami  
-Filmed and edited by Hiroo Ishihara   
+Damon & Naomi with Michio Kurihara, Masaki Batoh, Bhob Rainey and special guest Kan Mikami
+Filmed and edited by Hiroo Ishihara
 Cover design by Naomi Yang

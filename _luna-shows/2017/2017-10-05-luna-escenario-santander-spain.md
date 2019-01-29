@@ -7,7 +7,7 @@ show-setlist:
  - Bewitched
  - Malibu Love Nest
  - Gin
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Going Home
  - Fire in Cairo
  - Friends
@@ -22,20 +22,20 @@ show-setlist:
 show-date: 2017-10-05
 date-added: 2017-03-17
 category: 2017
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Britta Phillips - bass",
   "Lee Wall - drums",
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
 show-ticket-url: https://www.notikumi.com/channel/escenario-santander/2017/10/5/concierto-de-luna-en-santander
-show-venue-website: 
-show-additional: 
+show-venue-website:
+show-additional:
 support:
  - Ramirez Exposure
 photos:

@@ -6,9 +6,9 @@ section: 04-compilation
 artistslug: galaxie-500
 initial_release_date: 1990
 albumname: Gigantic 2
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
 releases:
-  - release: 
+  - release:
     version: gigantic-2-cd
     year: 1989
     releasedate: 1989
@@ -16,9 +16,9 @@ releases:
     format: LP
     label: Melody Majer / Rough Trade
     catno: MM RT CD002
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A
@@ -27,7 +27,7 @@ releases:
          notes: live
          author: Krukowski/Wareham/Yang
 releases:
-  - release: 
+  - release:
     version: gigantic-2-cd
     year: 1989
     releasedate: 1989
@@ -35,9 +35,9 @@ releases:
     format: LP
     label: Melody Majer / Rough Trade
     catno: MM RT CD002
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
+    discogs:
     release_notes:
     groups:
     - group: A
@@ -46,6 +46,6 @@ releases:
          notes: live
          author: Innes
 ---
-Melody Maker/Rough Trade compilation.  
-Recorded live in Amsterdam  
+Melody Maker/Rough Trade compilation.
+Recorded live in Amsterdam
 "Nineteen for the Nineties" compilation with Lush, Pale Saints, Mazzy Star...

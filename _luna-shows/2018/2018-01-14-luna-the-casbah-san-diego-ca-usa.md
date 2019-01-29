@@ -7,7 +7,7 @@ show-setlist:
  - GTX3
  - Slide
  - Fire In Cairo
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Most of the Time
  - Malibu Love Nest
  - Bewitched

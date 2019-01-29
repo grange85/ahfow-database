@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
 initial_release_date: 1993
 albumname: Indian Summer
 releases:
-  - release: 
+  - release:
     version: rough-trade-12
     year: 1993
     releasedate: 1993
@@ -16,28 +16,28 @@ releases:
     format: 12"
     label: Rough Trade
     catno: R2970
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Egg Nog
-         notes: 
+         notes:
          author: Luna
     - group: B
       tracks:
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
-  - release: 
+  - release:
     version: rough-trade-cd
     year: 1993
     releasedate: 1993
@@ -45,26 +45,26 @@ releases:
     format: CD
     label: Rough Trade
     catno: R2973
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Egg Nog
-         notes: 
+         notes:
          author: Luna
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
-  - release: 
+  - release:
     version: summershine-7
     year: 1993
     releasedate: 1993
@@ -72,18 +72,18 @@ releases:
     format: 7"
     label: Summershine
     catno: SHINE 036
-    imageurl: 
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl:
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Indian Summer
-         notes: 
+         notes:
     - group: B
       tracks:
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
 ---

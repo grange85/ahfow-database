@@ -5,7 +5,7 @@ show-venue: 'The Great Hall, Toronto, Ontario, Canada'
 show-notes: ''
 show-setlist: 
  - GTX3
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Gin
  - This Time Around

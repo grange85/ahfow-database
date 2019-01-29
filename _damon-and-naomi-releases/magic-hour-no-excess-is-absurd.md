@@ -4,14 +4,14 @@ layout: release
 resource: discography
 section: 05-Magic Hour album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
 initial_release_date: 1994
 albumname: No Excess is Absurd
 bandcamp-url: https://magic-hour.bandcamp.com/album/no-excess-is-absurd
 bandcamp-id: 3380459093
 artist: Magic Hour
 releases:
-  - release: 
+  - release:
     version: che-lp
     year: 1994
     releasedate: 1994
@@ -19,37 +19,37 @@ releases:
     format: LP
     label: Ch&eacute;
     catno: CHE 20LP
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
+    mbid:
     discogs: http://www.discogs.com/Magic-Hour-No-Excess-Is-Absurd/release/4384650
     release_notes: Some in purple vinyl
     groups:
     - group: A
       tracks:
        - title: Isn't a Way
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Always Leaving Never
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Sally Free and Easy
-         notes: 
+         notes:
          author: Cyril Tawney
     - group: B
       tracks:
        - title: After Tomorrow
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Lower
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: The Last Mistake
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Heads Down #2
-         notes: 
+         notes:
          author: Wayne Rogers
-  - release: 
+  - release:
     version: che-cd
     year: 1994
     releasedate: 1994
@@ -57,35 +57,35 @@ releases:
     format: CD
     label: Ch&eacute;
     catno: CHE 20
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
+    mbid:
     discogs: http://www.discogs.com/Magic-Hour-No-Excess-Is-Absurd/release/4384650
-    release_notes: 
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Isn't a Way
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Always Leaving Never
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Sally Free and Easy
-         notes: 
+         notes:
          author: Cyril Tawney
        - title: After Tomorrow
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Lower
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: The Last Mistake
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Heads Down #2
-         notes: 
+         notes:
          author: Wayne Rogers
-  - release: 
+  - release:
     version: twisted-village-cd
     year: 1994
     releasedate: 1994
@@ -93,35 +93,35 @@ releases:
     format: CD
     label: Twisted Village
     catno: TW-1031
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-no-excess-box.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-no-excess-box.jpg
+    mbid:
     discogs: http://www.discogs.com/Magic-Hour-No-Excess-Is-Absurd/release/4384650
     release_notes: First edition of 1000 in a silver card box
     groups:
     - group: CD
       tracks:
        - title: Isn't a Way
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Always Leaving Never
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Sally Free and Easy
-         notes: 
+         notes:
          author: Cyril Tawney
        - title: After Tomorrow
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Lower
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: The Last Mistake
-         notes: 
+         notes:
          author: Wayne Rogers
        - title: Heads Down #2
-         notes: 
+         notes:
          author: Wayne Rogers
 ---
-Produced by Magic Hour at Twisted Village  
-Engineered by Tom Leonard  
+Produced by Magic Hour at Twisted Village
+Engineered by Tom Leonard
 Design by Naomi Yang

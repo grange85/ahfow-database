@@ -4,92 +4,92 @@ title : Galaxie 500
 artistslug: galaxie-500
 categories: primary
 description: All about the band Galaxie 500, including a full discography and a collection of shows with photos and other memorabilia
-photos: 
+photos:
   - type: ahfow-set
     data: "[
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/1990-09-29_Melody-Maker_Galaxie-500_This-Is-Our-Music-review_image.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/393573_519945744714004_2047231113_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/393573_519945744714004_2047231113_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/393573_519945744714004_2047231113_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/393573_519945744714004_2047231113_n.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900707_Sounds_Ian_T_Tilton_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900707_Sounds_Ian_T_Tilton.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900707_Sounds_Ian_T_Tilton_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/19900707_Sounds_Ian_T_Tilton.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-cbgb_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-cbgb.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-cbgb_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-cbgb.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-melkweg_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-melkweg.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-melkweg_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/blackpostcards-g500-scan-melkweg.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.01_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.01.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.01_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.01.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.02_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.02.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.02_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.02.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.03_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.03.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.03_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.03.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.04_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.04.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.04_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.04.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.05_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.05.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.05_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.05.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.06_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.06.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.06_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/g500.06.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1990_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1990.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1990_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1990.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1991_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1991.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1991_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie_500_promo_1991.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-in-store-amsterdam-1989_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-in-store-amsterdam-1989.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-in-store-amsterdam-1989_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie-500-in-store-amsterdam-1989.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie500-postcard_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie500-postcard.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie500-postcard_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/galaxie500-postcard.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/Galaxie500PR161210_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/Galaxie500PR161210.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/Galaxie500PR161210_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/Galaxie500PR161210.jpg',
         title: 'Galaxie 500'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/Scan-121016-0001_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/01-galaxie_500/pictures/Scan-121016-0001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/Scan-121016-0001_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/01-galaxie_500/pictures/Scan-121016-0001.jpg',
         title: 'Galaxie 500'
         }]"
 ---

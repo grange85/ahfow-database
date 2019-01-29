@@ -37,4 +37,4 @@ RewriteRule ^(w|wiki|database|discography|gigography)\/(.*)$ / [R=301,L]
 # Send old track requests to track homepage
 RewriteRule ^track\/(.*)$ /tracks/ [R=301,L]
 
-RewriteRule ^.*galaxie500box.*$ http://static.fullofwishes.co.uk/galaxie500box/ [R=301,L]
+RewriteRule ^.*galaxie500box.*$ https://static.fullofwishes.co.uk/galaxie500box/ [R=301,L]

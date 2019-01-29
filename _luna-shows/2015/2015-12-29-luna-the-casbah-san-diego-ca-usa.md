@@ -23,9 +23,9 @@ show-setlist:
 setlist-source: setlists.fm
 show-date: 2015-12-29
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar/vocals",
@@ -33,10 +33,10 @@ performers: [
   "Britta Phillips - bass/vocals"
   ]
 facebook-event-url: https://www.facebook.com/events/1499644063664312/
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-29/2015-12-29-luna-san-diego-poster.jpg
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-29/2015-12-29-luna-san-diego-poster.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/1004413
-show-venue-website: 
-show-additional: 
+show-venue-website:
+show-additional:
 support:
  - Papercuts
 ---

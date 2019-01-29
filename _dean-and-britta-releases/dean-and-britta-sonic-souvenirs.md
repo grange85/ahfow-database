@@ -6,9 +6,9 @@ section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2003
 albumname: Sonic Souvenirs
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
 releases:
-  - release: 
+  - release:
     version: jetset-cd
     year: 2003
     releasedate: 2003
@@ -16,14 +16,14 @@ releases:
     format: CD
     label: Jetset
     catno: TWA68
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
-       - title: Your Baby 
+       - title: Your Baby
          notes: Can't Stand the Rain
          author: Phillips
        - title: Hear the Wind Blow
@@ -44,8 +44,8 @@ releases:
 ---
 Released as Britta Phillips and Dean Wareham
 
-Re-mixed by Sonic Boom.  
-Re-mix engineer: Nick Kramer.  
-Mixed at Room 321, New York City.  
+Re-mixed by Sonic Boom.
+Re-mix engineer: Nick Kramer.
+Mixed at Room 321, New York City.
 Additional recording by Sonic Boom
 Track 5 recorded and mixed by Tony Visconti

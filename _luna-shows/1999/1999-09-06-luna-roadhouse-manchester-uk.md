@@ -22,7 +22,7 @@ show-setlist:
  - Egg Nog
  - Dear Diary
  - Beautiful View
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Superfreaky Memories
  - Bobby Peru
  - Moon Palace

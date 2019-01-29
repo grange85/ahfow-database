@@ -6,11 +6,11 @@ section: 01-album
 artistslug: galaxie-500
 initial_release_date: 2004
 albumname: Uncollected Galaxie 500
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/uncollected
 bandcamp-id: 2614932935
 releases:
-  - release: 
+  - release:
     version: rykodisc-cd
     year: 2004
     releasedate: 2004
@@ -18,62 +18,62 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD10681
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Cheese and Onions
-         notes: 
+         notes:
          author: Innes
        - title: Them
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Final Day
-         notes: 
+         notes:
          author: Moxham
        - title: Blue Thunder
          notes: w/sax
          author: Krukowski/Wareham/Yang
        - title: Maracas Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Crazy
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Jerome
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Song in 3
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: I Can't Believe it's Me
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Walking Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: The Other Side
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: On The Floor
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Rain
-         notes: 
+         notes:
          author: Lennon/McCartney
        - title: Don't Let Our Youth Go to Waste
-         notes: 
+         notes:
          author: Jonathan Richman
        - title: Blue Thunder
          notes: video
          author: Krukowski/Wareham/Yang
-  - release: 
+  - release:
     version: rykodisc-cd
     year: 2005
     releasedate: 2005
@@ -81,57 +81,57 @@ releases:
     format: CD
     label: Video Arts Japan
     catno: VACK 1286
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Cheese and Onions
-         notes: 
+         notes:
          author: Innes
        - title: Them
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Final Day
-         notes: 
+         notes:
          author: Moxham
        - title: Blue Thunder
          notes: w/sax
          author: Krukowski/Wareham/Yang
        - title: Maracas Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Crazy
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Jerome
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Song in 3
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: I Can't Believe it's Me
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Walking Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: The Other Side
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: On The Floor
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Rain
-         notes: 
+         notes:
          author: Lennon/McCartney
        - title: Don't Let Our Youth Go to Waste
-         notes: 
+         notes:
          author: Jonathan Richman
        - title: Blue Thunder
          notes: video

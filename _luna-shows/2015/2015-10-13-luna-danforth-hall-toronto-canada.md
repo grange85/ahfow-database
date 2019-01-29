@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'Danforth Hall, Toronto, Canada'
-show-setlist: 
+show-setlist:
  - Slide
  - California (All The Way)
  - Speedbumps
@@ -22,20 +22,20 @@ show-setlist:
  - 23 Minutes in Brussels
 show-date: 2015-10-13
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-poster.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-poster.jpg
 show-ticket-url: 'http://www.ticketmaster.ca/event/10004EA7D74C744E'
-show-venue-website: 
-show-additional: 
+show-venue-website:
+show-additional:
 support:
  - Diane Coffee
 links:
@@ -46,18 +46,18 @@ photos:
   - type: ahfow-set
     data: "[
       {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       },
       {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       },
       {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       }
       ]"

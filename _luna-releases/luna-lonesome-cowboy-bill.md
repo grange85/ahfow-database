@@ -3,11 +3,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-cheval-sombre-feral-child-8-front.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-cheval-sombre-feral-child-8-front.jpg
 initial_release_date: 2017
 albumname: Lonesome Cowboy Bill
 releases:
-  - release: 
+  - release:
     version: feral-child-7
     year: 2017
     releasedate: 2017
@@ -15,14 +15,14 @@ releases:
     format: 7"
     label: Feral Child
     catno: FCR 08
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-cheval-sombre-feral-child-8-front.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-cheval-sombre-feral-child-8-front.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
-      tracks: 
+      tracks:
        - title: Lonesome Cowboy Bill
-         notes: 
+         notes:
          author: "Reed"
 ---
 Split single with Cheval Sombre's version of Lonesome Cowboy Bill on the flip

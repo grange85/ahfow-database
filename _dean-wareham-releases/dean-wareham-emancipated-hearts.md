@@ -6,9 +6,9 @@ section: 01-album
 artistslug: dean-wareham
 initial_release_date: 2013
 albumname: Emancipated Hearts
-imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg
 releases:
-  - release: 
+  - release:
     version: sonic-cathedral-lp
     year: 2013
     releasedate: 2013
@@ -16,34 +16,34 @@ releases:
     format: LP
     label: Sonic Cathedral
     catno: SCR 047
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/deanwareham_emancipatedhearts_cover.jpg
+    mbid:
+    discogs:
     release_notes: Orange vinyl
     groups:
     - group: A
       tracks:
        - title: Love Is Colder Than Death
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Emancipated Hearts
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Deadliest Day Since the Invasion Began
-         notes: 
+         notes:
          author: Dean Wareham
     - group: B
       tracks:
        - title: The Longest Bridges in the World
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Ticking is the Bomb
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Air
-         notes: 
+         notes:
          author: Mike Heron
-  - release: 
+  - release:
     version: double-feature-lp
     year: 2013
     releasedate: 2013
@@ -51,34 +51,34 @@ releases:
     format: LP
     label: Double Feature
     catno: LP-DBL-010
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Love Is Colder Than Death
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Emancipated Hearts
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Deadliest Day Since the Invasion Began
-         notes: 
+         notes:
          author: Dean Wareham
     - group: B
       tracks:
        - title: The Longest Bridges in the World
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Ticking is the Bomb
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Air
-         notes: 
+         notes:
          author: Mike Heron
-  - release: 
+  - release:
     version: sonic-cathedral-cd
     year: 2013
     releasedate: 2013
@@ -86,35 +86,35 @@ releases:
     format: CD
     label: Sonic Cathedral
     catno: SCR 075
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Love Is Colder Than Death
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Emancipated Hearts
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Deadliest Day Since the Invasion Began
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Longest Bridges in the World
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Ticking is the Bomb
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Air
-         notes: 
+         notes:
          author: Mike Heron
        - title: Emancipated Hearts
          notes: My Robot Friend remix
          author: Dean Wareham
-  - release: 
+  - release:
     version: double-feature-cd
     year: 2013
     releasedate: 2013
@@ -122,30 +122,30 @@ releases:
     format: CD
     label: Double Feature
     catno: CD-DBL-010
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-sonic-cathedral-cd.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Love Is Colder Than Death
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Emancipated Hearts
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Deadliest Day Since the Invasion Began
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Longest Bridges in the World
-         notes: 
+         notes:
          author: Dean Wareham
        - title: The Ticking is the Bomb
-         notes: 
+         notes:
          author: Dean Wareham
        - title: Air
-         notes: 
+         notes:
          author: Mike Heron
        - title: Emancipated Hearts
          notes: My Robot Friend remix

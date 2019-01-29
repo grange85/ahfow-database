@@ -3,11 +3,11 @@ layout: release
 resource: discography
 section: 04-promo
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
 initial_release_date: 1994
 albumname: Tiger Lily
 releases:
-  - release: 
+  - release:
     version: elektra-promo-cd
     year: 1994
     releasedate: 1994
@@ -15,8 +15,8 @@ releases:
     format: CD
     label: Elektra
     catno: PRCD 8884-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
+    mbid:
     discogs: https://www.discogs.com/Luna-Tiger-Lily/release/598467
     groups:
     - group: CD

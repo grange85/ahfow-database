@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'House of Blues, Chicago, IL, USA'
-show-setlist: 
+show-setlist:
  - Slide
  - Pup Tent
  - Chinatown
@@ -24,20 +24,20 @@ show-setlist:
  - Indian Summer
 show-date: 2015-10-16
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://concerts.livenation.com/event/04004EA6F7EE42F4?camefrom=ramya_8e1'
 show-venue-website: 'http://www.houseofblues.com/chicago/events/eventdetail/?viewNav=/event-detail&eventId=04004EA6F7EE42F4&oid=0'
-show-additional: 
+show-additional:
 videos:
  - type: youtube
    data: "[

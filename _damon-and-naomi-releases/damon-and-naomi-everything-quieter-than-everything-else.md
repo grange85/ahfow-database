@@ -3,13 +3,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
 initial_release_date: 2017
 albumname: Everything Quieter than Everything Else
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/everything-quieter-than-everything-else-live-in-japan
 bandcamp-id: 1605647443
 releases:
-  - release: 
+  - release:
     version: cd
     year: 2017
     releasedate: 2017
@@ -17,9 +17,9 @@ releases:
     format: CD
     label: SUPER FUJI DISCS
     catno: FJSP286
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
@@ -58,6 +58,6 @@ releases:
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author:
 ---
-Live album 
-2008: Damon & Naomi with Michio Kurihara, Bhob Rainey, Helena Espvall and Masaki Batoh  
-2005: Damon & Naomi with Michio Kurihara, Masaki Batoh and Bhob Rainey 
+Live album
+2008: Damon & Naomi with Michio Kurihara, Bhob Rainey, Helena Espvall and Masaki Batoh
+2005: Damon & Naomi with Michio Kurihara, Masaki Batoh and Bhob Rainey

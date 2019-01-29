@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
 initial_release_date: 1997
 albumname: Pup Tent
 releases:
-  - release: 
+  - release:
     version: captured-tracks-box
     year: 1997
     releasedate: 1997
@@ -16,49 +16,49 @@ releases:
     format: CD
     label: Elektra
     catno: 62055-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: IHOP
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Beautiful View
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Pup Tent
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bobby Peru
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Beggar's Bliss
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tracy I Love You
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Whispers
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: City Kitty
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Creeps
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fuzzy Wuzzy
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
 ---
-Produced, engineered and mixed by Pat McCarthy  
-Jamie Candeloro: mandolin, slide dobro on "Beggar's Bliss"  
-Barrett Martin: marimba, vibes on "Pup Tent" and "Beautiful View"  
-Pat McCarthy: bits and bobs  
-Mike Russell: accordian on "City Kitty"  
-Julie Scarpantoni: cello on "City Kitty"  
-Recorded at Sear Sound, Pachyderm, Baby Monster, Big House and RPM  
+Produced, engineered and mixed by Pat McCarthy
+Jamie Candeloro: mandolin, slide dobro on "Beggar's Bliss"
+Barrett Martin: marimba, vibes on "Pup Tent" and "Beautiful View"
+Pat McCarthy: bits and bobs
+Mike Russell: accordian on "City Kitty"
+Julie Scarpantoni: cello on "City Kitty"
+Recorded at Sear Sound, Pachyderm, Baby Monster, Big House and RPM
 Mixed at RPM and Room With A View

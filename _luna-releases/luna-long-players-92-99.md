@@ -4,218 +4,218 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png
+imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png
 initial_release_date: 2015
 albumname: Long Players 92-99
 releases:
-  - release: 
+  - release:
     version: captured-tracks-box
     year: 2015
     releasedate: 2015
     type: box
     format: 6xLP
     label: Captured Tracks
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png
-    mbid: 
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: "Lunapark - A"
       tracks:
        - title: Slide
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Anesthesia
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Slash Your Tires
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Crazy People
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Time
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Smile
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Lunapark - B"
       tracks:
        - title: I Can't Wait
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hey Sister
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Want Everything
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Time to Quit
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Goodbye
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: We're Both Confused
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Bewitched - A"
       tracks:
        - title: California (All The Way)
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tiger Lily
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Friendly Advice
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bewitched
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: This Time Around
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Bewitched - B"
       tracks:
        - title: Great Jones Street
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Going Home
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Into the Fold
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: I Know You Tried
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sleeping Pill
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Penthouse - A"
       tracks:
        - title: Chinatown
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sideshow by the Seashore
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Moon Palace
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Double Feature
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Penthouse - B"
       tracks:
        - title: Lost in Space
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rhythm King
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Kalamazoo
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hedgehog
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Freakin' and Peakin'
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Pup Tent - A"
       tracks:
        - title: IHOP
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Beautiful View
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Pup Tent
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bobby Peru
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Beggar's Bliss
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "Pup Tent - B"
       tracks:
        - title: Tracy I Love You
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Whispers
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: City Kitty
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Creeps
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fuzzy Wuzzy
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "The Days of Our Nights - A"
       tracks:
        - title: Dear Diary
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Hello, Little One
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Old Fashioned Way
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Four Thousand Days
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Seven Steps to Satan
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Superfreaky Memories
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: "The Days of Our Nights - B"
       tracks:
        - title: Math Wiz
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Words Without Wrinkles
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Rustler
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: US Out of My Pants
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Slow Song
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Sweet Child o' Mine
-         notes: 
+         notes:
          author: Slash/Rose/Stradlin/McKagen/Adler
     - group: "Rarities - A"
       tracks:
        - title: Egg Nog
-         notes: 
+         notes:
          author: LUNA
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
        - title: Anesthesia
          notes: demo
@@ -223,21 +223,21 @@ releases:
     - group: "Rarities - B"
       tracks:
        - title: In The Flesh
-         notes: 
+         notes:
          author: Harry/Stein
        - title: Bonnie and Clyde
-         notes: 
+         notes:
          author: Serge Gainsbourg
        - title: I Know You Tried
          notes: demo
-         author: 
+         author:
        - title: Roll in the Sand
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Dear Paulina
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
 ---
-This box set gathers together Luna's first five albums, a compilation of demos and B-sides and a 12×12 book of pictures, an oral history, and an interview with Dean Wareham conducted by Noah Baumbach. 
+This box set gathers together Luna's first five albums, a compilation of demos and B-sides and a 12×12 book of pictures, an oral history, and an interview with Dean Wareham conducted by Noah Baumbach.
 
 To be released in Autumn 2015

@@ -49,7 +49,7 @@
 								<ul class="" role="menu" aria-labelledby="release-versions" id="release-versions-contents">
 								{% for releases in page.releases %}
 									<li role="navigation"><a href="#{{ releases.version }}" aria-controls="{{ releases.version }}" role="" data-toggle="">
-									{% if releases.version %}{{ releases.label }} {% endif %} 
+									{% if releases.version %}{{ releases.label }} {% endif %}
 									{% if releases.year %} {{ releases.year }} {% endif %}
 									{% if releases.format %} {{ releases.format }} {% endif %}
 									{% if releases.version %} ({{ releases.version }}) {% endif %}</a></li>
@@ -92,7 +92,7 @@
 										<figure>
 										{%  capture imagetest %}X{{releases.imageurl}}{% endcapture %}
 										{% if imagetest == 'X' %}
-											<img src="http://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="{{releases.albumname}} sleeve image">
+											<img src="https://media.fullofwishes.co.uk/00-misc/ahfow-web/sleeve-required-new.jpg" alt="{{releases.albumname}} sleeve image">
 										{% else %}
 											<img src="{{releases.imageurl}}">
 										{% endif %}

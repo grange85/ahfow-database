@@ -4,12 +4,12 @@ layout: release
 resource: discography
 section: 06-Magic Hour single
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
 initial_release_date: 1995
 albumname:  I Had a Thought
 artist: Magic Hour
 releases:
-  - release: 
+  - release:
     version: che-7
     year: 1995
     releasedate: 1995
@@ -17,20 +17,20 @@ releases:
     format: 7"
     label: Ch&eacute;
     catno: CHE 29
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
+    mbid:
     discogs: http://www.discogs.com/master/view/477317
-    release_notes: 
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: I Had a Thought
-         notes: 
+         notes:
          author: Wayne Rogers
     - group: B
       tracks:
        - title: America
-         notes: 
+         notes:
          author: Traffic Sound
 ---
-Engineered by Tom Leonard  
+Engineered by Tom Leonard

@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'Bowery Ballroom, New York, NY, USA'
-show-setlist: 
+show-setlist:
  - Chinatown
  - Going Home
  - Double Feature
@@ -23,20 +23,20 @@ show-setlist:
  - Blue Thunder
 show-date: 2015-10-07
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/luna-new-york-new-york-10-07-2015/event/00004EA70605A182?artistid=733769&majorcatid=10001&minorcatid=60'
 show-venue-website: 'http://www.boweryballroom.com/event/854005-luna-new-york'
-show-additional: 
+show-additional:
 support:
  - Diane Coffee
 videos:
@@ -58,7 +58,7 @@ videos:
       description: 'by nbmkms'
     }    ]"
 links:
- - url: "http://www.fullofwishes.co.uk/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/"
+ - url: "https://www.fullofwishes.co.uk/2015/10/22/a-beautiful-light-fills-the-room-luna-in-ny-and-brooklyn-part-one/"
    source: "A Head Full of Wishes"
    title: "A beautiful light fills the room - Luna in New York and Brooklyn, part one: Wednesday"
  - url: "http://www.imposemagazine.com/photos/luna-and-diane-coffee-at-bowery-ballroom#13"

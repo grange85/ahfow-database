@@ -6,19 +6,19 @@ section: 02-single
 artistslug: galaxie-500
 initial_release_date: 1989
 albumname: Blue Thunder
-imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
 releases:
-  - release: 
+  - release:
     version: rough-trade-single-vinyl
     year: 1989
     releasedate: 1989-05-25
     type: single
     format: 12"
-    label: Rough Trade 
+    label: Rough Trade
     catno: RTD 066
-    mbid: 
-    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
-    discogs: 
+    mbid:
+    imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+    discogs:
     release_notes:
     groups:
     - group: A
@@ -34,17 +34,17 @@ releases:
          author: Joy Division
        - title: Cold Night
          author: Krukowski/Wareham/Yang
-  - release: 
+  - release:
     version: rough-trade-single-cd
     year: 1989
     releasedate: 1989-05-25
     type: single
     format: CD
-    label: Rough Trade 
+    label: Rough Trade
     catno: RTD 066CD
-    mbid: 
-    imageurl: http://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
-    discogs: 
+    mbid:
+    imageurl: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+    discogs:
     release_notes:
     groups:
     - group: CD
@@ -59,5 +59,5 @@ releases:
        - title: Cold Night
          author: Krukowski/Wareham/Yang
 ---
-Produced and Engineered by Kramer at Noise New York 1989.  
+Produced and Engineered by Kramer at Noise New York 1989.
 Tenor sax on "Blue Thunder" by Ralph Carney.

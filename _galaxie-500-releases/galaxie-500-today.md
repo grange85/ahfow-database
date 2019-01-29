@@ -6,11 +6,11 @@ section: 01-album
 artistslug: galaxie-500
 initial_release_date: 1988
 albumname: Today
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/today
 bandcamp-id: 3830882259
 releases:
-  - release: 
+  - release:
     version: aurora
     year: 1988
     releasedate: 1988-10-21
@@ -18,9 +18,9 @@ releases:
     format: LP
     label: Aurora
     catno: AU002
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+    mbid:
+    discogs:
     groups:
     - group: A
       tracks:
@@ -50,11 +50,11 @@ releases:
     releasedate: 1989
     type: album
     format: LP
-    label: Shimmy Disc Europe 
+    label: Shimmy Disc Europe
     catno: SDE8908LP
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+    mbid:
+    discogs:
     groups:
     - group: A
       tracks:
@@ -86,9 +86,9 @@ releases:
     format: CD
     label: Schemer
     catno: SCHEMER 8905/CD
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+    mbid:
+    discogs:
     groups:
     - group: CD
       tracks:
@@ -122,9 +122,9 @@ releases:
     format: LP
     label: Rough Trade (US)
     catno: R266-1
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+    mbid:
+    discogs:
     groups:
     - group: A
       tracks:
@@ -149,6 +149,6 @@ releases:
        - title: Tugboat
          author: Krukowski/Wareham/Yang
 ---
-Produced and engineered by Kramer at Noise New York  
-Executive Producer Marc Alghini  
+Produced and engineered by Kramer at Noise New York
+Executive Producer Marc Alghini
 Photograph by Eugene Atget

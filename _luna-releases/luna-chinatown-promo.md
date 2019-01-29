@@ -3,11 +3,11 @@ layout: release
 resource: discography
 section: 04-promo
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
 initial_release_date: 1995
 albumname: Chinatown
 releases:
-  - release: 
+  - release:
     version: elektra-promo-cd
     year: 1995
     releasedate: 1995
@@ -15,8 +15,8 @@ releases:
     format: CD
     label: Elektra
     catno: PRCD 8884-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
+    mbid:
     discogs: https://www.discogs.com/Luna-Chinatown/release/4455844
     groups:
     - group: CD

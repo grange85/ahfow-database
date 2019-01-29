@@ -19,17 +19,17 @@ show-setlist: [
   ]
 show-date: 2015-04-09
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Damon Krukowski - guitar/vocals",
   "Naomi Yang - keyboards/vocals"
   ]
-facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-04-09/2015-04-09-damon-and-naomi-rough-trade.jpg'
+facebook-event-url:
+show-poster-url: 'https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-04-09/2015-04-09-damon-and-naomi-rough-trade.jpg'
 show-ticket-url: 'http://www.roughtrade.com/events/2015/4/1154'
-show-venue-website: 
+show-venue-website:
 show-additional:
 show-series: Fortune
 photos:

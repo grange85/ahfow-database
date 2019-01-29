@@ -19,7 +19,7 @@ show-setlist:
  - 23 Minutes in Brussels
  - ^encore
  - One Fine Summer Morning
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Friendly Advice
 show-date: 2017-11-09
 date-added: 2017-06-12

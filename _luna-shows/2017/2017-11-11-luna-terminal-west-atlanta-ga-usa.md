@@ -7,7 +7,7 @@ show-setlist:
  - GTX3
  - Slide
  - Going Home
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Friends
  - Tracy I Love You
  - Fire in Cairo

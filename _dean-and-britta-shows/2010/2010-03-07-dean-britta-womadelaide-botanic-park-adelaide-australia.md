@@ -19,14 +19,14 @@ show-setlist: [
   ]
 show-date: 2010-03-07
 category: 2010
-show-radio: 
-show-lastfm: 
-show-cancelled: 
-performers: 
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
-show-ticket-url: 
-show-venue-website: 
+show-radio:
+show-lastfm:
+show-cancelled:
+performers:
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+show-ticket-url:
+show-venue-website:
 show-additional:
 show-series: 13 Most Beautiful
 ---

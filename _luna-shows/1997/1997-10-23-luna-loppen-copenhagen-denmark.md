@@ -22,18 +22,21 @@ show-setlist: [
 show-date: 1997-10-23
 category: 1997
 show-radio: Radio session
-show-lastfm: 
-show-cancelled: 
-performers: 
+show-lastfm:
+show-cancelled:
+performers:
  - "Dean Wareham - guitar/vocals"
  - "Justin Harwood - bass"
  - "Sean Eden - guitar"
  - "Lee Wall - drums"
-facebook-event-url: 
-show-poster-url: 
-show-ticket-url: 
-show-venue-website: 
-show-additional: 
+facebook-event-url:
+show-poster-url:
+show-ticket-url:
+show-venue-website:
+show-additional:
+show-download:
+  site: Mediafire
+  url: http://www.mediafire.com/file/9rj4t0um9r4u3t8/luna-1997-10-23-loppen-copenhagen-denmark.zip
 ---
 
 Setlist source: recording

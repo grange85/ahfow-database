@@ -3,38 +3,38 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
 initial_release_date: 2016
 albumname: Spirit of Love (B-sides, bonuses and soundtracks)
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bonuses-and-soundtracks
 bandcamp-id: 2221016275
 releases:
-  - release: 
+  - release:
     version: digital
     year: 2016
     releasedate: 2016-12-02
     type: album
     format: Download
     label: [no label]
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
-    mbid: 
-    discogs: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan-spirit-of-love-album.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Ghosts of Girton
-         notes: 
+         notes:
          author: Richard Youngs
        - title: I Never Knew I Always Knew
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The World's Strongest Man
-         notes: 
+         notes:
          author: Scott Walker
        - title: White Christmas
-         notes: 
+         notes:
          author: Irving Berlin
        - title: Shine A Light
          notes: XFM radio session, December 2011
@@ -46,19 +46,19 @@ releases:
          notes: live in Tokyo, June 2005
          author: Michio Kurihara/You Ishihara
        - title: A Song For You
-         notes: 
+         notes:
          author: Gram Parsons
        - title: My Flower (Watashi No Hana)
          notes: live in Tokyo, 2004
          author: Tomokawa Kazuki/Norio Nagayama
        - title: Femme Fatale
-         notes: 
+         notes:
          author: Reed/Cale/Morrison/Tucker
        - title: Love
-         notes: 
+         notes:
          author: The Jacks
        - title: Spirit of Love
-         notes: 
+         notes:
          author: Clive Palmer
 ---
 <ul><li>The Ghosts of Girton (Richard Youngs)<br>

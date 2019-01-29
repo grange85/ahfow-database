@@ -5,9 +5,9 @@ section: 04-promo
 artistslug: galaxie-500
 initial_release_date: 1989
 albumname: Blue Thunder / Victory Garden
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
 releases:
-  - release: 
+  - release:
     version: blue-thunder-promo
     year: 1989
     releasedate: 1989
@@ -15,9 +15,9 @@ releases:
     format: 7"
     label: Rough Trade
     catno: G5SF1
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-blue-thunder-victory-garden.jpg
+    discogs:
     release_notes: Split promo with Straightjacket Fits "Hail" on the b-side
     groups:
     - group: A
@@ -27,7 +27,7 @@ releases:
        - title: Victory Garden
          author: Thompson/Cunningham
     - group: B - Straightjacket Fits
-  - release: 
+  - release:
     version: catlogue-flexi-promo
     year: 1989
     releasedate: 1989
@@ -35,9 +35,9 @@ releases:
     format: 7" flexi
     label: The Catalogue
     catno: CAT 075
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_victory_garden_006.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_victory_garden_006.jpg
+    discogs:
     release_notes: also includes 'Hail' by Straightjacket Fits
     groups:
     - group: Flexi

@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'Terminal West, Atlanta, GA, USA'
-show-setlist: 
+show-setlist:
  - "^Penthouse"
  - Chinatown
  - Sideshow by the Seashore
@@ -25,20 +25,20 @@ show-setlist:
  - California (All The Way)
 show-date: 2015-10-02
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips  - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-02/2015-10-02-luna-terminal-west-atlanta-poster.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-02/2015-10-02-luna-terminal-west-atlanta-poster.jpg
 show-ticket-url: 'ht-ps://www.ticketfly.com/purchase/event/897951'
 show-venue-website: 'http://www.terminalwestatl.com/event/897951-luna-atlanta/'
-show-additional: 
+show-additional:
 photos:
   - user: johnmcnicholas
     type: flickr-set
@@ -51,42 +51,42 @@ videos:
               title: 'Luna - Moon Palace 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=8SoNfHK56sw',
               title: 'Luna - Double Feature 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=PR3iPRS4c2Y',
               title: 'Luna - Freakin and Peakin 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=iP8D49JsFfM',
               title: 'Luna - Bonnie and Clyde 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=1dLxasLW6mY',
               title: 'Luna - Pup Tent 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=aWB1OhA4UFU',
               title: 'Luna - Malibu Love Nest 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=PjEXLry9KMc',
               title: 'Tracy I Love You - Luna - Atlanta Terminal West 10/2/15',
               description: 'by schelzel'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=EHGmxtgtDSg',
               title: 'Luna - Anesthesia 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
             },
-            { 
+            {
               video: 'https://www.youtube.com/watch?v=cmgW9CMIErE',
               title: 'Luna - California (All The Way) 2015 10 02 Atlanta GA',
               description: 'by kubacheck'
@@ -103,6 +103,6 @@ support:
  - Matt Hollywood and The Bad Feelings
 show-download:
    site: NYCTaper
-   url: http://www.nyctaper.com/2015/10/luna-october-2-2015-terminal-west-atlanta/ 
+   url: http://www.nyctaper.com/2015/10/luna-october-2-2015-terminal-west-atlanta/
 ---
 For the first time Luna played their album Penthouse in it's entirety

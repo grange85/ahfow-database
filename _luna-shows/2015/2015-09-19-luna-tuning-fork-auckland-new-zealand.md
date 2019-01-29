@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Tuning Fork, Auckland, New Zealand'
 show-notes: ''
-show-setlist: 
+show-setlist:
  - California (All The Way)
  - Sideshow by the Seashore
  - Anesthesia
@@ -21,9 +21,9 @@ show-setlist:
  - Indian Summer
 show-date: 2015-09-19
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
@@ -31,14 +31,14 @@ performers: [
   "Britta Phillips - bass/keyboards",
   "Justin Harwood - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-australia-nz/luna-2015-aus-nz.jpg
-show-ticket-url: 
-show-venue-website: 
-show-additional: 
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-australia-nz/luna-2015-aus-nz.jpg
+show-ticket-url:
+show-venue-website:
+show-additional:
 support:
  - FAZERDAZE
-links: 
+links:
  - url: http://13thfloor.co.nz/luna-the-tuning-fork-september-19-2015/
    source: "13th Floor"
    title: "Luna - The Tuning Fork September 19, 2015"

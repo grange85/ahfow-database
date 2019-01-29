@@ -4,13 +4,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
 initial_release_date: 2011
 albumname: False Beats and True Hearts
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/false-beats-and-true-hearts
 bandcamp-id: 1528006243
 releases:
-  - release: 
+  - release:
     version: 202020-cd
     year: 2011
     releasedate: 2011
@@ -18,41 +18,41 @@ releases:
     format: CD
     label: 20|20|20
     catno: 202020.12
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-False-Beats-True-Hearts/release/2898583
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Walking Backwards
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Do I Say Goodbye
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Shadow Boxing
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Ophelia
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nettles and Ivy
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: What She Brings
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Embers
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: And You Are There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Helsinki
-         notes: 
+         notes:
          author: Krukowski/Yang
-  - release: 
+  - release:
     version: 202020-cd
     year: 2011
     releasedate: 2011
@@ -60,43 +60,43 @@ releases:
     format: LP
     label: 20|20|20
     catno: 202020.12LP
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-False-Beats-And-True-Hearts/release/2916807
     release_notes:
     groups:
     - group: A
       tracks:
        - title: Walking Backwards
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Do I Say Goodbye
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Shadow Boxing
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Ophelia
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nettles and Ivy
-         notes: 
+         notes:
          author: Krukowski/Yang
     - group: B
       tracks:
        - title: What She Brings
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Embers
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: And You Are There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Helsinki
-         notes: 
+         notes:
          author: Krukowski/Yang
-  - release: 
+  - release:
     version: broken-horse-cd
     year: 2011
     releasedate: 2011
@@ -104,40 +104,40 @@ releases:
     format: CD
     label: Broken Horse
     catno: BKH-CD 022
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-False-Beats-True-Hearts/release/2898975
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Walking Backwards
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Do I Say Goodbye
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Shadow Boxing
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Ophelia
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nettles and Ivy
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: What She Brings
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Embers
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: And You Are There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Helsinki
-         notes: 
+         notes:
          author: Krukowski/Yang
 ---
-Released May 2011 All songs are new originals by Damon & Naomi.  
+Released May 2011 All songs are new originals by Damon & Naomi.
 Cover photo is by Bernard Faucon

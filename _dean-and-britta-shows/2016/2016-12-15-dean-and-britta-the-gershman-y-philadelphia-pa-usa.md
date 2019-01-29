@@ -20,15 +20,15 @@ show-setlist: [
 show-date: 2016-12-15
 show-added: 2016-09-15
 category: 2016
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   'Dean Wareham - guitar/vocals',
   'Britta Phillips - bass/keyboards/vocals'
 ]
 facebook-event-url: https://www.facebook.com/events/629776240523643/
-show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
 show-ticket-url: https://gershmany.secure.force.com/ticket/#sections_a0Fi000000UcBo6EAF
 show-venue-website: http://www.gershmany.org/what-goes-on-velvet-underground-at-the-y-50th/
 show-additional:

@@ -19,16 +19,16 @@ show-setlist: [
   ]
 show-date: 2012-11-09
 category: 2012
-show-radio: 
-show-lastfm: 
-show-cancelled: 
-performers: 
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
-show-ticket-url: 
-show-venue-website: 
+show-radio:
+show-lastfm:
+show-cancelled:
+performers:
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+show-ticket-url:
+show-venue-website:
 show-additional:
 show-series: 13 Most Beautiful
 ---
 
-13 Most Beautiful…Songs for Andy Warhol’s Screen Tests 
+13 Most Beautiful…Songs for Andy Warhol’s Screen Tests

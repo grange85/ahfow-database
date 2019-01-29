@@ -11,9 +11,9 @@ show-setlist: [
   ]
 show-date: 2014-06-28
 category: 2014
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar and vocals",
   "Britta Phillips - bass, keyboards and backing vocals",
@@ -21,9 +21,9 @@ performers: [
   "Roger Brogan - drums"
   ]
 facebook-event-url: 'https://www.facebook.com/events/612848755497868/permalink/612848758831201/'
-show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-kexp-instagram.jpg'
-show-ticket-url: 
+show-poster-url: 'https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-kexp-instagram.jpg'
+show-ticket-url:
 show-venue-website: 'http://kexp.org'
-show-additional: 
+show-additional:
 ---
 Radio show

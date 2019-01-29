@@ -14,7 +14,7 @@ performers: [
   "Damon Krukowski - drums"
   ]
 facebook-event-url:
-show-poster-url: 'http://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/19870829_galaxie500.jpg'
+show-poster-url: 'https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1987-08-29/19870829_galaxie500.jpg'
 show-ticket-url:
 show-venue-website:
 show-additional:

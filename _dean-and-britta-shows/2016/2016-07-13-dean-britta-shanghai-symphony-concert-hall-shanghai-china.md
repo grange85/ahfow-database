@@ -20,15 +20,15 @@ show-setlist: [
 show-date: 2016-07-13
 show-added: 2016-05-30
 category: 2016
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   'Dean Wareham - guitar/vocals',
   'Britta Phillips - bass/keyboards/vocals'
 ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
 show-ticket-url: http://www.shsymphony.com/item-index-id-441.htmlSelectEvent.aspx?eventID=2000590
 show-venue-website: http://www.shsymphony.com/item-index-id-441.html
 show-additional:

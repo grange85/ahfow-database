@@ -7,8 +7,8 @@ artistslug: galaxie-500
 categories : [discography, galaxie-500, single]
 initial_release_date: 2013
 albumname: Temperature's Rising / Crazy
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
-wikipedia: 
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
+wikipedia:
 releases:
   - release:
     version: temperatures-rising-single
@@ -21,18 +21,18 @@ releases:
       Design – Tavi Gevinson
       Photography By – Claire Dain
     label: Yeti Publishing
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
     groups:
       - group: A
         tracks:
           - title: Temperature's Rising
-            notes: 
+            notes:
             author: Krukowski/Wareham/Yang
       - group: B
         tracks:
           - title: Crazy
-            notes: 
+            notes:
             author: Krukowski/Wareham/Yang
 ---
 Free 7" single available with the limited edition of the book Temperature's Rising: Galaxie 500 an oral and visual history
