@@ -30,7 +30,7 @@ show-setlist:
  - Ceremony
 show-date: 2019-01-26
 date-added: 2018-09-15
-category: 2018
+category: 2019
 show-radio:
 show-lastfm:
 show-cancelled:
