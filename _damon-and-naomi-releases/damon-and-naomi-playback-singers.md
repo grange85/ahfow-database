@@ -6,9 +6,9 @@ section: 01-album
 artistslug: damon-and-naomi
 initial_release_date: 1998
 albumname: Playback Singers
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
 releases:
-  - release: 
+  - release:
     version: rykodisc-cd
     year: 1998
     releasedate: 1998
@@ -16,41 +16,41 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD 10438
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Turn of the Century
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eye of the Storm
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The Navigator
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I'm Yours
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Kinetoscope
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Awake in a Muddle
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: We're Not There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Translucent Carriages
-         notes: 
+         notes:
          author: Rapp
-  - release: 
+  - release:
     version: sub-pop-cd
     year: 1998
     releasedate: 1998
@@ -58,41 +58,41 @@ releases:
     format: CD
     label: Sub Pop
     catno: SPCD425
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Turn of the Century
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eye of the Storm
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The Navigator
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I'm Yours
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Kinetoscope
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Awake in a Muddle
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: We're Not There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Translucent Carriages
-         notes: 
+         notes:
          author: Rapp
-  - release: 
+  - release:
     version: trama-cd
     year: 2001
     releasedate: 2001
@@ -100,44 +100,44 @@ releases:
     format: CD
     label: Trama
     catno: T900/399-2
-    mbid: 
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
-    discogs: 
+    mbid:
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_playback.jpg
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Turn of the Century
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eye of the Storm
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The Navigator
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I'm Yours
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Kinetoscope
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Awake in a Muddle
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: We're Not There
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Translucent Carriages
-         notes: 
+         notes:
          author: Rapp
 ---
-"Compromising quality for the sake of nostalgia"  
-All instruments and vocals by Damon Krukowski and Naomi Yang  
-Recorded at home, 1996-7  
-Design by Naomi Yang  
-Photographs of instruments by James Watts  
-Photograph of Damon & Naomi by David Corio  
+"Compromising quality for the sake of nostalgia"
+All instruments and vocals by Damon Krukowski and Naomi Yang
+Recorded at home, 1996-7
+Design by Naomi Yang
+Photographs of instruments by James Watts
+Photograph of Damon & Naomi by David Corio

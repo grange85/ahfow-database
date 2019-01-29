@@ -22,9 +22,9 @@ show-setlist: [
   ]
 show-date: 2014-05-23
 category: 2014
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar and vocals",
   "Britta Phillips - bass, keyboards and backing vocals",
@@ -32,10 +32,10 @@ performers: [
   "Roger Brogan - drums"
   ]
 facebook-event-url: 'https://www.facebook.com/events/721664091189498/'
-show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2014-05-23/2014-05-23-dean-wareham-london.jpg'
+show-poster-url: 'https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2014-05-23/2014-05-23-dean-wareham-london.jpg'
 show-ticket-url: 'http://www.alt-tickets.co.uk/alttickets/home_dean_wareham.html'
 show-venue-website: 'http://www.islington.gov.uk/assemblyhall/Pages/default.aspx'
-show-additional: 
+show-additional:
 photos:
   - user: grange85
     type: flickr-set

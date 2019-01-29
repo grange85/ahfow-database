@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
 initial_release_date: 1995
 albumname: Bonnie and Clyde / 23 Minutes in Brussels
 releases:
-  - release: 
+  - release:
     version: beggars-banquet-12
     year: 1995
     releasedate: 1995
@@ -16,10 +16,10 @@ releases:
     format: 12"
     label: Beggars Banquet
     catno: BBQ56T
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
@@ -27,17 +27,17 @@ releases:
          notes: The Bonnie Parker version
          author: Serge Gainsbourg
        - title: Thank You For Sending Me an Angel
-         notes: 
+         notes:
          author: David Byrne
     - group: AA
       tracks:
        - title: Chinatown
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bonnie and Clyde
          notes: The Clyde Barrow version
          author: Serge Gainsbourg
-  - release: 
+  - release:
     version: beggars-banquet-cd
     year: 1995
     releasedate: 1995
@@ -45,10 +45,10 @@ releases:
     format: CD
     label: Beggars Banquet
     catno: BBQ56CD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
@@ -56,10 +56,10 @@ releases:
          notes: The Bonnie Parker version
          author: Serge Gainsbourg
        - title: Thank You For Sending Me an Angel
-         notes: 
+         notes:
          author: David Byrne
        - title: Chinatown
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Bonnie and Clyde
          notes: The Clyde Barrow version

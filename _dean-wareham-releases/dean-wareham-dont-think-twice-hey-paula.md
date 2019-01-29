@@ -5,9 +5,9 @@ section: 02-single
 artistslug: dean-wareham
 initial_release_date: 2016
 albumname: Hey Paula
-imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
+imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
 releases:
-  - release: 
+  - release:
     version: great-pop-supplement-single
     year: 2016
     releasedate: 2016-01
@@ -15,9 +15,9 @@ releases:
     format: 7"
     label: Great Pop Supplement
     catno: GPS 131
-    imageurl: http://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A
@@ -31,8 +31,8 @@ releases:
          notes: performed by Dean Wareham
          author: Ray Hildebrand
 ---
-Split double A side 7" single with Britta  
-400 copies in black vinyl  
-Don't Think Twice It's Alright - engineered by Raymond Richards. With Roger Brogan (drums) and Raymond Richards (pedal steel).  
-Hey Paula - engineered and mixed by Jason Quever. With Anthony LaMarca (drums). Mastered by Raymond Richards.  
-Painting by Brian Calvin.  
+Split double A side 7" single with Britta
+400 copies in black vinyl
+Don't Think Twice It's Alright - engineered by Raymond Richards. With Roger Brogan (drums) and Raymond Richards (pedal steel).
+Hey Paula - engineered and mixed by Jason Quever. With Anthony LaMarca (drums). Mastered by Raymond Richards.
+Painting by Brian Calvin.

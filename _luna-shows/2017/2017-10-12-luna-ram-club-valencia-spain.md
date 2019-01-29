@@ -3,9 +3,9 @@ layout: show
 artistslug: luna
 show-venue: 'Ram Club, Valencia, Spain'
 show-notes: ''
-show-setlist: 
+show-setlist:
  - GTX3
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Malibu Love Nest
  - Gin
  - Hey Sister
@@ -23,19 +23,19 @@ show-setlist:
 show-date: 2017-10-12
 date-added: 2017-03-17
 category: 2017
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Britta Phillips - bass",
   "Lee Wall - drums",
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
-show-ticket-url: 
-show-venue-website: 
-show-additional: 
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+show-ticket-url:
+show-venue-website:
+show-additional:
 support:
 ---

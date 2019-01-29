@@ -6,9 +6,9 @@ section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2006
 albumname: Words You Used to Say
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
 releases:
-  - release: 
+  - release:
     version: zoe-cd
     year: 2006
     releasedate: 2006
@@ -16,9 +16,9 @@ releases:
     format: CD
     label: Zo&eumlaut;
     catno: 01143-2009-2
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
@@ -27,19 +27,19 @@ releases:
          notes:
          author: Wareham/Phillips
        - title: We're Not Supposed to Be Lovers
-         notes: 
+         notes:
          author: Adam Green
        - title: Since I Lay My Burden Down
-         notes: 
+         notes:
          author: Michael Holland
        - title: Colours
-         notes: 
+         notes:
          author: Donovan Leitch
        - title: Distractions (Part 1)
-         notes: 
+         notes:
          author: Bobby Darin
 ---
-Tracks 1,2,5 produced by Tony Visconti.  
-Track 3 mixed by Sonic Boom.  
-Track 4 mixed by Britta Phillips.  
+Tracks 1,2,5 produced by Tony Visconti.
+Track 3 mixed by Sonic Boom.
+Track 4 mixed by Britta Phillips.
 

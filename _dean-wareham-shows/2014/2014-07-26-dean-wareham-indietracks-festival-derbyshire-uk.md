@@ -18,9 +18,9 @@ show-setlist: [
   ]
 show-date: 2014-07-26
 category: 2014
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Britta Phillips - bass/keyboards/vocals",
@@ -28,10 +28,10 @@ performers: [
   "Roger Brogan - drums"
   ]
 facebook-event-url: 'https://www.facebook.com/indietracks'
-show-poster-url: 'http://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2014-07-26/indietracks-2014.jpg'
+show-poster-url: 'https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2014-07-26/indietracks-2014.jpg'
 show-ticket-url: 'http://www.indietracks.co.uk/tickets/'
 show-venue-website: 'http://www.indietracks.co.uk/'
-show-additional: 
+show-additional:
 show-download:
    site: AHFoW (MediaFire)
    url: http://www.mediafire.com/download/yn0acrjwg6soujj/wareham-dean-2014-07-26_-indietracks-festival-derbyshire-uk.zip

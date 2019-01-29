@@ -4,13 +4,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
 initial_release_date: 1995
 albumname: The Wondrous World of Damon & Naomi
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-wondrous-world-of-damon-naomi-bootleg-edition
 bandcamp-id: 1184884747
 releases:
-  - release: 
+  - release:
     version: sub-pop-vinyl
     year: 1995
     releasedate: 1995
@@ -18,49 +18,49 @@ releases:
     format: LP
     label: Sub Pop
     catno: SP322
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A
       tracks:
        - title: In the Morning
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New Historicism
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tour of the World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Forgot to Get High
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pyewacket
-         notes: 
+         notes:
          author: Krukowski/Yang
     - group: B
       tracks:
        - title: Life Will Pass You By
-         notes: 
+         notes:
          author: Darrow
        - title: Who Am I
-         notes: 
+         notes:
          author: McDonald
        - title: New York City
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pandora's Box
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Long
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Whispering Pines
-         notes: 
+         notes:
          author: Manuel/Robertson
-  - release: 
+  - release:
     version: sub-pop-cd
     year: 1995
     releasedate: 1995
@@ -68,47 +68,47 @@ releases:
     format: CD
     label: Sub Pop
     catno: SP322
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: In the Morning
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New Historicism
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tour of the World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Forgot to Get High
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pyewacket
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Life Will Pass You By
-         notes: 
+         notes:
          author: Darrow
        - title: Who Am I
-         notes: 
+         notes:
          author: McDonald
        - title: New York City
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pandora's Box
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Long
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Whispering Pines
-         notes: 
+         notes:
          author: Manuel/Robertson
-  - release: 
+  - release:
     version: rykodisc-cd
     year: 1998
     releasedate: 1998
@@ -116,45 +116,45 @@ releases:
     format: CD
     label: Rykodisc
     catno: RCD 10440
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: In the Morning
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New Historicism
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tour of the World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Forgot to Get High
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pyewacket
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Life Will Pass You By
-         notes: 
+         notes:
          author: Darrow
        - title: Who Am I
-         notes: 
+         notes:
          author: McDonald
        - title: New York City
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pandora's Box
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: How Long
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Whispering Pines
-         notes: 
+         notes:
          author: Manuel/Robertson
   - release: The Wondrous World of Damon & Naomi (Bootleg Edition)
     version: bootleg-edition-cd
@@ -164,51 +164,51 @@ releases:
     format: LP
     label: 20|20|20
     catno: 202020.14
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A
       tracks:
        - title: In the Morning
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pyewacket
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Life Will Pass You By
-         notes: 
+         notes:
          author: Darrow
        - title: Who Am I
-         notes: 
+         notes:
          author: McDonald
        - title: New York City
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Pandora's Box
-         notes: 
+         notes:
          author: Krukowski/Yang
     - group: B
       tracks:
        - title: How Long
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New Historicism
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tour of the World
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Forgot to Get High
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Whispering Pines
-         notes: 
+         notes:
          author: Manuel/Robertson
        - title: Round and Round
-         notes: 
+         notes:
          author: Krukowski/Yang
 ---
-Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995  
+Produced, arrange, and engineered by Kramer at Noise New Jersey Summer 1995
 Electric guitar, mellotron, emulator, clarinet, tapes, bass, and backing vocals by Kramer

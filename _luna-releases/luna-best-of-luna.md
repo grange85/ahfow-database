@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
 initial_release_date: 2006
 albumname: Best of Luna
 releases:
-  - release: 
+  - release:
     version: beggars-banquet-cd
     year: 2006
     releasedate: 2006
@@ -16,121 +16,121 @@ releases:
     format: 2xCD
     label: Beggars Banquet
     catno: BBL 2037 CDD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD1 - Best of Luna
       tracks:
       - title: Moon Palace
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Sideshow by the Seashore
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Anesthesia
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Friendly Advice
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: California (All The Way)
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Slide
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tiger Lily
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Chinatown
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lost in Space
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: 23 Minutes in Brussels
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Egg Nog
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Bobby Peru
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: IHOP
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Into the Fold
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Superfreaky Memories
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Dear Diary
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lovedust
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Black Postcards
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
     - group: CD2 - Lunafied
       tracks:
-      - title: Bonnie and Clyde 
-        notes: 
+      - title: Bonnie and Clyde
+        notes:
         author: Serge Gainsbourg
-      - title: Indian Summer 
-        notes: 
+      - title: Indian Summer
+        notes:
         author: Calvin Johnson
-      - title: Ride Into The Sun 
-        notes: 
+      - title: Ride Into The Sun
+        notes:
         author: Reed/Cale
-      - title: In The Flesh 
-        notes: 
+      - title: In The Flesh
+        notes:
         author: Harry/Stein
-      - title: Season Of The Witch 
-        notes: 
+      - title: Season Of The Witch
+        notes:
         author: Donovan Leitch
-      - title: Jealous Guy 
-        notes: 
+      - title: Jealous Guy
+        notes:
         author: John Lennon
-      - title: Neon Lights 
-        notes: 
+      - title: Neon Lights
+        notes:
         author: Hutter/Bartos/Schneider
-      - title: Sweet Child O' Mine 
-        notes: 
+      - title: Sweet Child O' Mine
+        notes:
         author: Slash/Rose/Stradlin/McKagan/Adler
-      - title: That's What You Always Say 
-        notes: 
+      - title: That's What You Always Say
+        notes:
         author: Wynn
-      - title: Everybody's Talkin' 
-        notes: 
+      - title: Everybody's Talkin'
+        notes:
         author: Fred Neil
-      - title: Outdoor Miner 
-        notes: 
+      - title: Outdoor Miner
+        notes:
         author: Lewis/Newman
-      - title: No Regrets 
-        notes: 
+      - title: No Regrets
+        notes:
         author: Tom Rush
-      - title: La Poupee Qui Fait Non 
-        notes: 
+      - title: La Poupee Qui Fait Non
+        notes:
         author: Michel Polnareff
-      - title: Only Women Bleed 
-        notes: 
+      - title: Only Women Bleed
+        notes:
         author: Alice Cooper
-      - title: Dream Baby Dream 
-        notes: 
+      - title: Dream Baby Dream
+        notes:
         author: Rev/Vega
-      - title: Thank You For Sending Me An Angel 
-        notes: 
+      - title: Thank You For Sending Me An Angel
+        notes:
         author: David Byrne
-      - title: Bonnie And Clyde 
-        notes: 
+      - title: Bonnie And Clyde
+        notes:
         author: Serge Gainsbourg
-  - release: 
+  - release:
     version: rhino-cd
     year: 2006
     releasedate: 2006
@@ -138,62 +138,62 @@ releases:
     format: CD
     label: Rhino
     catno: R2 70014
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD1 - Best of Luna
       tracks:
       - title: Moon Palace
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: California (All The Way)
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Anesthesia
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Friendly Advice
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Sideshow by the Seashore
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Pup Tent
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Slide
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tiger Lily
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Chinatown
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Tracy I Love You
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Bewitched
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Superfreaky Memories
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Astronaut
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lovedust
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: I Want Everything
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: Lost in Space
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
       - title: 23 Minutes in Brussels
-        notes: 
+        notes:
         author: "Lyrics by Dean Wareham, music by Luna"
 ---

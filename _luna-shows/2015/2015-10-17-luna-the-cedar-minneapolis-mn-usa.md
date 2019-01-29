@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'The Cedar, Minneapolis, MN, USA'
-show-setlist: 
+show-setlist:
  - Chinatown
  - Going Home
  - Speedbumps
@@ -25,20 +25,20 @@ show-setlist:
  - Black Postcards
 show-date: 2015-10-17
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'https://www.ticketfly.com/purchase/event/855435?utm_medium=bks'
 show-venue-website: 'http://www.thecedar.org/events/2015/10/17/luna-special-guest'
-show-additional: 
+show-additional:
 support:
  - Diane Coffee
 videos:

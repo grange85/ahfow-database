@@ -4,157 +4,157 @@ title : Luna
 artistslug: luna
 categories: primary
 description: All about the band Luna, including a full discography and a collection of shows with photos and other memorabilia
-photos: 
+photos:
   - type: ahfow-set
     data: "[
     {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo92_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo92.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo92_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo92.jpg',
         title: 'Luna - promo photo 1992'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/lee-britta-dean-sean-2014_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/lee-britta-dean-sean-2014.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/lee-britta-dean-sean-2014_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/lee-britta-dean-sean-2014.jpg',
         title: 'Luna social reunion 2014'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/35354_1446181207889_1633930988_1056985_780570_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/35354_1446181207889_1633930988_1056985_780570_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/35354_1446181207889_1633930988_1056985_780570_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/35354_1446181207889_1633930988_1056985_780570_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/38541_1447085230489_1633930988_1060547_6162587_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/38541_1447085230489_1633930988_1060547_6162587_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/38541_1447085230489_1633930988_1060547_6162587_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/38541_1447085230489_1633930988_1060547_6162587_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/28625_1387475220276_1633930988_904726_2099188_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/28625_1387475220276_1633930988_904726_2099188_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/28625_1387475220276_1633930988_904726_2099188_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/28625_1387475220276_1633930988_904726_2099188_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/38239_1446178447820_1633930988_1056973_4752682_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/38239_1446178447820_1633930988_1056973_4752682_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/38239_1446178447820_1633930988_1056973_4752682_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/38239_1446178447820_1633930988_1056973_4752682_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/38516_1446176607774_1633930988_1056967_135520_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/38516_1446176607774_1633930988_1056967_135520_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/38516_1446176607774_1633930988_1056967_135520_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/38516_1446176607774_1633930988_1056967_135520_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna-painting-by-annabel-wright.jpg',
         title: 'Luna painting by Annabel Wright'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/38226_1446174327717_1633930988_1056957_5783667_n_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/38226_1446174327717_1633930988_1056957_5783667_n.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/38226_1446174327717_1633930988_1056957_5783667_n_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/38226_1446174327717_1633930988_1056957_5783667_n.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_b.jpg',
         title: 'Luna - promo photo 1994'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_early_promo_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_early_promo.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_early_promo_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_early_promo.jpg',
         title: 'Luna - promo 1992'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_b_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_b.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_b_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_b.jpg',
         title: 'Luna - promo photo 1999'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_c_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_c.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_c_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_c.jpg',
         title: 'Luna - promo photo 1999'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_b.jpg',
         title: 'Luna - promo photo 1997'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2002_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2002_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2002_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2002_a.jpg',
         title: 'Luna - promo photo 2002'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_b.jpg',
         title: 'Luna - promo photo 1992'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_portrait_01_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_portrait_01.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_portrait_01_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_portrait_01.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna-promo-2015-a.jpg',
         title: 'Luna - promo photo 2015'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/POSTCARDS_004_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/POSTCARDS_004.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/POSTCARDS_004_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/POSTCARDS_004.jpg',
         title: 'Luna'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_a.jpg',
         title: 'Luna - promo photo 2001'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1999_a.jpg',
         title: 'Luna - promo photo 1999'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_a.jpg',
         title: 'Luna - promo photo 1997'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_c_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_c.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_c_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1997_c.jpg',
         title: 'Luna - promo photo 1997'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_2001_b.jpg',
         title: 'Luna - promo photo 2001'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_bewitched_promo_02.jpg',
         title: 'Luna - promo photo - Bewitched'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1992_c.jpg',
         title: 'Luna - promo photo 1992'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_d_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_d.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_d_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_d.jpg',
         title: 'Luna - promo photo 1994'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1995_a.jpg',
         title: 'Luna - promo photo 1995'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_a_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_a.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_a_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_a.jpg',
         title: 'Luna - promo photo 1994'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c_thumb.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c_thumb.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/pictures/luna_promo_1994_c.jpg',
         title: 'Luna - promo photo 1994'
         }]"
 ---

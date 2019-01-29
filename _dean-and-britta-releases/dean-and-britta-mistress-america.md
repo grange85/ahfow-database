@@ -6,20 +6,20 @@ section: 01-album
 artistslug: dean-and-britta
 initial_release_date: 2015
 albumname:  "Mistress America: Original Motion Picture Soundtrack"
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg
 releases:
-  - release: 
+  - release:
     version: milan-cd
     year: 2015
     releasedate: 2015-08-14
     type: album
     format: CD
     label: Milan
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
@@ -48,18 +48,18 @@ releases:
       - title: Tracy and Brooke
         notes: Mom's reprise
         author: Wareham/Phillips
-  - release: 
+  - release:
     version: milan-lp
     year: 2015
     releasedate: 2015-11-01
     type: album
     format: LP
     label: Milan
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america-lp-britta-instagram.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america-lp-britta-instagram.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: Side A
       tracks:
@@ -91,6 +91,6 @@ releases:
         notes: Mom's reprise
         author: Wareham/Phillips
 ---
-Soundtrack album for the Noah Baumbach movie Mistress America.  
+Soundtrack album for the Noah Baumbach movie Mistress America.
 Also includes tracks by OMD, Suicide, Paul McCartney and Hot Chocolate
 

@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'The Teragram Ballroom, Los Angeles, CA, USA'
-show-setlist: 
+show-setlist:
  - Fuzzy Wuzzy
  - Chinatown
  - Speedbumps
@@ -23,20 +23,20 @@ show-setlist:
  - California (All The Way)
 show-date: 2015-10-24
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   \"Dean Wareham - guitar/vocals\",
   \"Sean Eden - guitar\",
   \"Lee Wall - drums\",
   \"Britta Phillips - bass\"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: http://www.ticketmaster.com/event/09004EA60D8B536E
 show-venue-website: http://www.teragramballroom.com/event/851763-luna-los-angeles/
-show-additional: 
+show-additional:
 support:
  - Quilt
 videos:

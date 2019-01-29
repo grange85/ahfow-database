@@ -6,9 +6,9 @@ section: 03-compilation
 artistslug: dean-and-britta
 initial_release_date: 2011
 albumname: Occupied Europe / I'll Keep It With Mine
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab-ill-keep-it-with-mine-sand-pebbles.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab-ill-keep-it-with-mine-sand-pebbles.jpg
 releases:
-  - release: 
+  - release:
     version: great-pop-supplement-single
     year: 2010
     releasedate: 2010
@@ -16,9 +16,9 @@ releases:
     format: 7"
     label: Great Pop Supplement
     catno: GPS55
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab-ill-keep-it-with-mine-sand-pebbles.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab-ill-keep-it-with-mine-sand-pebbles.jpg
+    mbid:
+    discogs:
     release_notes: white vinyl
     groups:
     - group: B

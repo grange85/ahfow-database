@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
 initial_release_date: 1993
 albumname: Slide
 releases:
-  - release: 
+  - release:
     version: elektra-single-cd
     year: 1993
     releasedate: 1993
@@ -16,32 +16,32 @@ releases:
     format: CD
     label: Elektra
     catno: 9 61472-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Slide
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
        - title: Hey Sister
          notes: demo version
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rollercoaster
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-  - release: 
+  - release:
     version: summershine-single-cd
     year: 1993
     releasedate: 1993
@@ -49,32 +49,32 @@ releases:
     format: CD
     label: Summershine
     catno: SHINE 036 CD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Slide
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
        - title: Hey Sister
          notes: demo version
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rollercoaster
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-  - release: 
+  - release:
     version: summershine-single-cassette
     year: 1993
     releasedate: 1993
@@ -82,29 +82,29 @@ releases:
     format: Cassette
     label: Elektra
     catno: 9 61472-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
+    mbid:
+    discogs:
     release_notes: Both sides have the same track list
     groups:
     - group: A/B
       tracks:
        - title: Slide
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Indian Summer
-         notes: 
+         notes:
          author: Calvin Johnson
        - title: Ride Into the Sun
-         notes: 
+         notes:
          author: Reed/Cale
        - title: That's What You Always Say
-         notes: 
+         notes:
          author: Steve Wynn
        - title: Hey Sister
          notes: demo version
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Rollercoaster
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
 ---

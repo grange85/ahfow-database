@@ -22,17 +22,17 @@ show-setlist: [
   ]
 show-date: 2000-04-03
 category: 2000
-show-radio: 
-show-lastfm: 
-show-cancelled: 
-performers: 
+show-radio:
+show-lastfm:
+show-cancelled:
+performers:
  - "Dean Wareham - guitar/vocals"
  - "Sean Eden - guitar"
  - "Lee Wall - drums"
  - "Britta Phillips - bass"
-facebook-event-url: 
-show-poster-url: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2000-04-03/2000-04-03-luna-boulder.jpg'
-show-ticket-url: 
-show-venue-website: 
-show-additional: 
+facebook-event-url:
+show-poster-url: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2000-04-03/2000-04-03-luna-boulder.jpg'
+show-ticket-url:
+show-venue-website:
+show-additional:
 ---

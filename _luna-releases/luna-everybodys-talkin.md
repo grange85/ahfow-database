@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
 initial_release_date: 1998
 albumname: Everybody's Talkin'
 releases:
-  - release: 
+  - release:
     version: sub-pop-7
     year: 1998
     releasedate: 1998-07-28
@@ -16,14 +16,14 @@ releases:
     format: 7"
     label: Sub Pop
     catno: SP438
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Everybody's Talkin'
-         notes: 
+         notes:
          author: Fred Neil
     - group: B
       tracks:

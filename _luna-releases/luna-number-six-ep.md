@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
 initial_release_date: 1995
 albumname: EP
 releases:
-  - release: 
+  - release:
     version: number-six-ep
     year: 1996
     releasedate: 1996
@@ -16,28 +16,28 @@ releases:
     format: CD
     label: No. 6 Records
     catno: KAR 036-2
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Sideshow by the Seashore
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Thank You For Sending Me an Angel
-         notes: 
+         notes:
          author: David Byrne
        - title: The Moviegoer
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: It's Bringing You Down
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Enabler
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: No Regrets
-         notes: 
+         notes:
          author: Tom Rush
 ---

@@ -4,13 +4,13 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
 initial_release_date: 2002
 albumname: Close Cover Before Striking
 bandcamp-url: https://luna.bandcamp.com/album/close-cover-before-striking
 bandcamp-id: 3884059705
 releases:
-  - release: 
+  - release:
     version: jetset-cd
     year: 2002
     releasedate: 2002
@@ -18,32 +18,32 @@ releases:
     format: CD
     label: Jetset
     catno: TWA51CD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
-      tracks: 
+      tracks:
        - title: Astronaut
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Waiting on a Friend
-         notes: 
+         notes:
          author: Jagger/Richards
        - title: Teenage Lightning
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Drunken Whistler
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Alibi
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: New Haven Comet
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Neon Lights
-         notes: 
+         notes:
          author: Schneider/Bartos/Hutter
        - title: Lovedust
          notes: video
@@ -51,45 +51,45 @@ releases:
        - title: "1995"
          notes: video
          author: "Lyrics by Dean Wareham, music by Luna"
-  - release: 
+  - release:
     version: self-digital
     year: 2011
     releasedate: 2011
     type: EP
     format: Digital
     label: Self released
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_closecoverbeforestriking.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
-      tracks: 
+      tracks:
        - title: Astronaut
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Waiting on a Friend
-         notes: 
+         notes:
          author: Jagger/Richards
        - title: Teenage Lightning
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Drunken Whistler
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Alibi
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: New Haven Comet
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Neon Lights
-         notes: 
+         notes:
          author: Schneider/Bartos/Hutter
        - title: Dancing Days
-         notes: 
+         notes:
          author: Page/Plant
        - title: Only Women Bleed
-         notes: 
+         notes:
          author: Cooper/Wagner
 ---

@@ -5,9 +5,9 @@ section: 01-album
 artistslug: galaxie-500
 initial_release_date: 1996
 albumname: Galaxie 500
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
 releases:
-  - release: 
+  - release:
     version: galaxie-500-box-set-cd
     year: 1996
     releasedate: 1996-09-24
@@ -15,42 +15,42 @@ releases:
     format: 4xCD
     label: Rykodisc
     catno: RCD 10355
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_boxset_box_front.jpg
+    mbid:
     discogs: http://www.discogs.com/Galaxie-500-Galaxie-500/release/495238
     release_notes:
     groups:
     - group: Disc 1 - Today
       tracks:
        - title: Flowers
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Pictures
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Parking Lot
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Don't Let Our Youth Go To Waste
-         notes: 
+         notes:
          author: Jonathan Richman
        - title: Temperature's Rising
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: It's Getting Late
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Instrumental
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Tugboat
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: King of Spain
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Tugboat
          notes: video
@@ -58,43 +58,43 @@ releases:
     - group: Disc 2 - On Fire
       tracks:
        - title: Blue Thunder
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Tell Me
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Snowstorm
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Strange
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: When Will You Come Home
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Decomposing Trees
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Another Day
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Leave The Planet
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Plastic Bird
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Isn't It A Pity
-         notes: 
+         notes:
          author: George Harrison
        - title: Victory Garden
-         notes: 
+         notes:
          author: Red Crayola
        - title: Ceremony
-         notes: 
+         notes:
          author: Joy Division
        - title: Cold Night
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: When Will You Come Home
          notes: video
@@ -102,34 +102,34 @@ releases:
     - group: Disc 3 - This is Our Music
       tracks:
        - title: Fourth of July
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Hearing Voices
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Spook
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Summertime
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Way Up High
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Listen, the Snow Is Falling
-         notes: 
+         notes:
          author: Yoko Ono
        - title: Sorry
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Melt Away
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: King of Spain Part Two
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Here She Comes Now
-         notes: 
+         notes:
          author: Velvet Underground
        - title: Fourth of July
          notes: video
@@ -137,54 +137,54 @@ releases:
     - group: Disc 4 - Uncollected
       tracks:
        - title: Cheese and Onions
-         notes: 
+         notes:
          author: Neil Innes
        - title: Them
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Final Day
-         notes: 
+         notes:
          author: Moxham
        - title: Blue Thunder
          notes: w/sax
          author: Krukowski/Wareham/Yang
        - title: Maracas Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Crazy
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Jerome
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Song In 3
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
          notes: alternate version
          author: Krukowski/Wareham/Yang
        - title: I Can't Believe It's Me
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Walking Song
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: The Other Side
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: On The Floor
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Rain
          notes: live
          author: Lennon/McCartney
-       - title: Don't Let Our Youth Go To Waste 
+       - title: Don't Let Our Youth Go To Waste
          notes: live
          author: Jonathan Richman
        - title: Blue Thunder
          notes: video
          author: Krukowski/Wareham/Yang
 ---
-Produced and engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988  
-Remastered by Kramer and Alan Douches, 1996.  
+Produced and engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988
+Remastered by Kramer and Alan Douches, 1996.
 Includes the videos for Tugboat, When Will You Come Home, Fourth of July and Blue Thunder all directed by Sergio Huidor (1988-90).

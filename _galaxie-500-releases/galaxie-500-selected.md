@@ -6,9 +6,9 @@ section: 04-promo
 artistslug: galaxie-500
 initial_release_date: 1996
 albumname: Selected
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
 releases:
-  - release: 
+  - release:
     version: selected-cd
     year: 1996
     releasedate: 1996
@@ -16,54 +16,54 @@ releases:
     format: CD
     label: Rykodisc
     catno: VRCD 0355
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: Fourth of July
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Temperature's Rising
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Final Day
-         notes: 
+         notes:
          author: Moxham
        - title: When Will You Come Home
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Blue Thunder
          notes: w/sax
          author: Krukowski/Wareham/Yang
        - title: Spook
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
          notes: alternate version
          author: Krukowski/Wareham/Yang
        - title: Another Day
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Ceremony
-         notes: 
+         notes:
          author: Joy Division
        - title: Flowers
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: The Other Side
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Tugboat
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
        - title: Melt Away
-         notes: 
+         notes:
          author: Krukowski/Wareham/Yang
 ---
-All Tracks produced by Kramer except "The Other Side".  
-Remastered by Kramer and Alan Douches, May 1996.  
-For promotion only - not for sale.  
-Promo only sampler for Box Set.  
+All Tracks produced by Kramer except "The Other Side".
+Remastered by Kramer and Alan Douches, May 1996.
+For promotion only - not for sale.
+Promo only sampler for Box Set.

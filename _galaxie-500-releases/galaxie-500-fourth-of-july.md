@@ -6,19 +6,19 @@ section: 02-single
 artistslug: galaxie-500
 initial_release_date: 1990
 albumname: Fourth of July
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
 releases:
-  - release: 
+  - release:
     version: rough-trade-single-vinyl
     year: 1990
     releasedate: 1990
     type: single
     format: 12"
-    label: Rough Trade 
+    label: Rough Trade
     catno: RTT249
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A
@@ -29,16 +29,16 @@ releases:
       tracks:
        - title: Here She Comes Now
          author: Reed/Cale/Morrison/Tucker
-  - release: 
+  - release:
     version: rough-trade-single-cd
     year: 1990
     releasedate: 1990
     type: single
     format: CD
-    label: Rough Trade 
+    label: Rough Trade
     catno: RTT249CD
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
+    mbid:
     discogs: http://www.discogs.com/Galaxie-500-Fourth-Of-July/release/921392
     release_notes:
     groups:
@@ -49,5 +49,5 @@ releases:
        - title: Here She Comes Now
          author: Reed/Cale/Morrison/Tucker
 ---
-Produced and Engineered by Kramer at Noise New York 1990.  
+Produced and Engineered by Kramer at Noise New York 1990.
 Backing Vocals and Mirage on Here She Comes Now by Kramer.

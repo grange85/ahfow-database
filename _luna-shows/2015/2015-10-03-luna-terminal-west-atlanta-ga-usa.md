@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'Terminal West, Atlanta, GA, USA'
-show-setlist: 
+show-setlist:
  - Slide
  - Speedbumps
  - Sideshow by the Seashore
@@ -23,20 +23,20 @@ show-setlist:
  - Moon Palace
 show-date: 2015-10-03
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'https://www.ticketfly.com/purchase/event/853321'
 show-venue-website: 'http://www.terminalwestatl.com/event/853321-luna-atlanta/'
-show-additional: 
+show-additional:
 videos:
  - type: youtube
    data: "[
@@ -45,12 +45,12 @@ videos:
             title: 'Luna - Slide (Terminal West, Atlanta GA - October 3, 2015)',
             description: 'by Dan Wuori'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=oA9H5OVgMh8',
             title: 'Luna - Speedbumps 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=9rTcT2rSx7w',
             title: 'Luna - Malibu Love Nest 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
@@ -60,7 +60,7 @@ videos:
             title: 'Luna - Malibu Love Nest (Terminal West, Atlanta GA - October 3, 2015)',
             description: 'by Dan Wuori'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=lRD4STQLAJ0',
             title: 'Luna - Bewitched 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
@@ -75,12 +75,12 @@ videos:
             title: 'Luna - Friendly Advice (Terminal West, Atlanta GA - October 3, 2015)',
             description: 'by Dan Wuori'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=qCopfi-Qc9w',
             title: 'Luna - Lost in Space 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=ta822bENOv0',
             title: 'Luna - Fuzzy Wuzzy 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
@@ -90,12 +90,12 @@ videos:
             title: 'Luna - Fuzzy Wuzzy (Terminal West, Atlanta GA - October 3, 2015)',
             description: 'by Dan Wuori'
           },
-          { 
+          {
             video: 'https://www.youtube.com/watch?v=uscptaeMiiI',
             title: 'Luna - Indian Summer 2015 10 03 Atlanta GA',
             description: 'by kubacheck'
-          },      
-          { 
+          },
+          {
             video: 'https://www.youtube.com/watch?v=XNi0zVDTlY8',
             title: 'Luna - Moon Palace 2015 10 03 Atlanta GA',
             description: 'by kubacheck'

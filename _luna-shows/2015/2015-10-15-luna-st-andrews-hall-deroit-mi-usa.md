@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: "St Andrew's Hall, Deroit, MI, USA"
-show-setlist: 
+show-setlist:
 - Chinatown
 - California (All The Way)
 - Speedbumps
@@ -23,20 +23,20 @@ show-setlist:
 - Fuzzy Wuzzy
 show-date: 2015-10-15
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
-show-ticket-url: 
-show-venue-website: 
-show-additional: 
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+show-ticket-url:
+show-venue-website:
+show-additional:
 support:
  - Diane Coffee
 ---

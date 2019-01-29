@@ -4,13 +4,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
 initial_release_date: 2000
 albumname: Damon & Naomi with Ghost
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/damon-naomi-with-ghost
 bandcamp-id: 373077681
 releases:
-  - release: 
+  - release:
     version: sub-pop-cd
     year: 2000
     releasedate: 2000
@@ -18,41 +18,41 @@ releases:
     format: LP
     label: Sub Pop
     catno: SPCD501
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-With-Ghost-Damon-Naomi-With-Ghost-/release/670345
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Blue Moon
-         notes: 
+         notes:
          author: Alex Chilton
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I Dreamed Of The Caucasus
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Don't Forget
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tanka
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
-  - release: 
+  - release:
     version: drag-city-vinyl
     year: 2000
     releasedate: 2000
@@ -60,51 +60,51 @@ releases:
     format: LP
     label: Drag City
     catno: DC206
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-With-Ghost-Damon-Naomi-With-Ghost/release/761353
-    release_notes: re-issued in 2012 with bonus 7" single 
+    release_notes: re-issued in 2012 with bonus 7" single
     groups:
     - group: A
       tracks:
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Blue Moon
-         notes: 
+         notes:
          author: Alex Chilton
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
     - group: B
       tracks:
        - title: I Dreamed Of The Caucasus
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Don't Forget
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tanka
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
     - group: Bonus 7"
       tracks:
        - title: Femme Fatale
-         notes: 
+         notes:
          author: Lou Reed
        - title: My Flower (Watashi No Hana)
-         notes: 
+         notes:
          author: Kazuki Tomokawa
-  - release: 
+  - release:
     version: elefant-cd
     year: 2000
     releasedate: 2000
@@ -112,41 +112,41 @@ releases:
     format: CD
     label: Elefant
     catno: ER-1079
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-Ghost-Damon-Naomi-With-Ghost/release/4519056
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Blue Moon
-         notes: 
+         notes:
          author: Alex Chilton
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I Dreamed Of The Caucasus
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Don't Forget
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tanka
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
-  - release: 
+  - release:
     version: p-vine-cd
     year: 2002
     releasedate: 2002
@@ -154,44 +154,44 @@ releases:
     format: CD
     label: P-Vine
     catno: PCD-23270
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-With-Ghost-Damon-Naomi-With-Ghost/release/1114374
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Blue Moon
-         notes: 
+         notes:
          author: Alex Chilton
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I Dreamed Of The Caucasus
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Don't Forget
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tanka
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
        - title: Femme Fatale
-         notes: 
+         notes:
          author: Lou Reed
-  - release: 
+  - release:
     version: drag-city-reissue-cd
     year: 2012
     releasedate: 2012
@@ -199,48 +199,48 @@ releases:
     format: CD
     label: Drag City
     catno: DC 206CD
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_withghost.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-Ghost-Damon-Naomi-With-Ghost/release/4519056
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Mirror Phase
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The New World
-         notes: 
+         notes:
          author: Masaki Batoh
        - title: Judah and the Maccabees
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Blue Moon
-         notes: 
+         notes:
          author: Alex Chilton
        - title: The Great Wall
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: I Dreamed Of The Caucasus
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Don't Forget
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Tanka
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Eulogy to Lenny Bruce
-         notes: 
+         notes:
          author: Tim Hardin
 ---
-Produced by Damon & Naomi and Masaki Batoh  
-Arrangements by Kazuo Ogino  
-Engineered and mixed by Damon Krukowski at Kali Studios  
-December 1999 - April 2000  
-Design and photographs by Naomi Yang  
-Damon Krukowski - acoustic guitar, drums, vocals  
-Naomi Yang - bass, harmonium, vocals  
-Masaki Batoh - acoustic guitar  
-Michio Kurihara - electric guitar  
+Produced by Damon & Naomi and Masaki Batoh
+Arrangements by Kazuo Ogino
+Engineered and mixed by Damon Krukowski at Kali Studios
+December 1999 - April 2000
+Design and photographs by Naomi Yang
+Damon Krukowski - acoustic guitar, drums, vocals
+Naomi Yang - bass, harmonium, vocals
+Masaki Batoh - acoustic guitar
+Michio Kurihara - electric guitar
 Kazuo Ogino - keyboards

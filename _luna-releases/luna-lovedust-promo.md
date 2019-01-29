@@ -3,11 +3,11 @@ layout: release
 resource: discography
 section: 04-promo
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
 initial_release_date: 2002
 albumname: Lovedust
 releases:
-  - release: 
+  - release:
     version: elektra-promo-cd
     year: 2002
     releasedate: 2002
@@ -15,20 +15,20 @@ releases:
     format: CD
     label: Beggars Banquet/Jetset
     catno: BBQ 363CDP
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
+    mbid:
     discogs: https://www.discogs.com/Luna-3-Stories/release/1631264
     groups:
     - group: CD
       tracks:
        - title: Lovedust
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham. music by LUNA"
        - title: Black Postcards
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham. music by LUNA"
        - title: Only Women Bleed
-         notes: 
+         notes:
          author: "Cooper/Wagner"
 ---
 Promo CD

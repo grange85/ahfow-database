@@ -6,26 +6,26 @@ section: 02-single
 artistslug: damon-and-naomi
 initial_release_date: 1991
 albumname: Pierre &Eacute;toile
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
 releases:
-  - release: 
+  - release:
     version: rough-trade-single-vinyl
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     year: 1991
     releasedate: 1991
     type: single
     format: 12"
     label: Rough Trade
     catno: R2720
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+    mbid:
+    discogs:
     release_notes: Released as Pierre &Eacute;toile
     groups:
     - group: A
       tracks:
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nineteen Sixty-Nine
          author: Krukowski/Yang
@@ -33,7 +33,7 @@ releases:
       tracks:
        - title: This Car Climbed Mt. Washington
          author: Krukowski/Yang
-  - release: 
+  - release:
     version: rough-trade-single-cd
     year: 1991
     releasedate: 1991
@@ -41,21 +41,21 @@ releases:
     format: CD
     label: Rough Trade
     catno: R2723
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+    mbid:
+    discogs:
     release_notes: Released as Pierre &Eacute;toile
     groups:
     - group: CD
       tracks:
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nineteen Sixty-Nine
          author: Krukowski/Yang
        - title: This Car Climbed Mt. Washington
          author: Krukowski/Yang
-  - release: 
+  - release:
     version: elefant-cd
     year: 1997
     releasedate: 1997
@@ -63,20 +63,20 @@ releases:
     format: CD
     label: Elefant
     catno: ER-306
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile-elefant.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile-elefant.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: In the Sun
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Nineteen Sixty-Nine
          author: Krukowski/Yang
        - title: This Car Climbed Mt. Washington
          author: Krukowski/Yang
 ---
-Produced by Pierre Etoile  
+Produced by Pierre Etoile
 Recorded at Q-Division, Boston 1991

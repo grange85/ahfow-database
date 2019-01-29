@@ -3,13 +3,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
-imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
+imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
 initial_release_date: 2011
 albumname: Fortune
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/fortune
 bandcamp-id: 2505063369
 releases:
-  - release: 
+  - release:
     version: 202020-lp
     year: 2015
     releasedate: 2015-02-17
@@ -17,49 +17,49 @@ releases:
     format: LP
     label: 20|20|20
     catno: 202020.15LP
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
-    mbid: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
+    mbid:
     discogs: http://www.discogs.com/Damon-Naomi-Fortune/release/6754286
     release_notes:
     groups:
     - group: A
       tracks:
        - title: The Seeker
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Amnesia
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: It's Over
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Reflections
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: A Shining Dream
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Shadows
-         notes: 
+         notes:
          author: Krukowski/Yang
     - group: A
       tracks:
        - title: Towards Tomorrow
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Sky Memories
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Hurt House
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The North Light
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Time Won't Own Me
-         notes: 
+         notes:
          author: Krukowski/Yang
-  - release: 
+  - release:
     version: 202020-cd
     year: 2015
     releasedate: 2015-02-17
@@ -67,41 +67,41 @@ releases:
     format: CD
     label: 20|20|20
     catno: 202020.15
-    imageurl: http://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD
       tracks:
        - title: The Seeker
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Amnesia
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: It's Over
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Reflections
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: A Shining Dream
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Shadows
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Towards Tomorrow
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Sky Memories
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: Hurt House
-         notes: 
+         notes:
          author: Krukowski/Yang
        - title: The North Light
 ---
-Released May 2011 All songs are new originals by Damon & Naomi.  
+Released May 2011 All songs are new originals by Damon & Naomi.
 Cover photo is by Bernard Faucon

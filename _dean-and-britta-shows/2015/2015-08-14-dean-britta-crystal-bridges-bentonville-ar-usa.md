@@ -19,15 +19,15 @@ show-setlist: [
   ]
 show-date: 2015-08-14
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   'Dean Wareham - guitar/vocals',
   'Britta Phillips - bass/keyboards/vocals'
 ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
 show-ticket-url: http://shop.crystalbridges.org/SelectEvent.aspx?eventID=2000590
 show-venue-website: http://crystalbridges.org/event/live-arts-the-13-most-beautiful-songs-for-andy-warhols-screen-tests/
 show-additional:

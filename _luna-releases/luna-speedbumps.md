@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
 initial_release_date: 2004
 albumname: Speedbumps
 releases:
-  - release: 
+  - release:
     version: little-teddy-7
     year: 2004
     releasedate: 2004
@@ -16,21 +16,21 @@ releases:
     format: 7"
     label: Little Teddy
     catno: LiTe757
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
-      tracks: 
+      tracks:
        - title: Speedbumps
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
-      tracks: 
+      tracks:
        - title: Astronaut
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Eyes in My Smoke
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
 ---

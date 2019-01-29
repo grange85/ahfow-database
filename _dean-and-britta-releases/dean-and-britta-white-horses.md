@@ -6,9 +6,9 @@ section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2007
 albumname: White Horses
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
 releases:
-  - release: 
+  - release:
     version: sonic-cathedral-single
     year: 2007
     releasedate: 2007
@@ -16,9 +16,9 @@ releases:
     format: 7"
     label: Sonic Cathedral
     catno: SCR006
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
-    mbid: 
-    discogs: 
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: A

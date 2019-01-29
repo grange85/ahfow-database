@@ -4,11 +4,11 @@ layout: release
 resource: discography
 section: 02-single
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
 initial_release_date: 1997
 albumname: IHOP
 releases:
-  - release: 
+  - release:
     version: beggars-banquet-cd
     year: 1997
     releasedate: 1997
@@ -16,22 +16,22 @@ releases:
     format: CD
     label: Beggars Banquet
     catno: BBQ313CD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: IHOP
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Fuzzy Wuzzy
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Words Without Wrinkles
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-  - release: 
+  - release:
     version: beggars-banquet-7
     year: 1997
     releasedate: 1997
@@ -39,18 +39,18 @@ releases:
     format: 7"
     label: Beggars Banquet
     catno: BBQ313
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: IHOP
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
     - group: B
       tracks:
        - title: Words Without Wrinkles
-         notes: 
+         notes:
          author: "Lyrics by Dean Wareham, music by Luna"
 ---

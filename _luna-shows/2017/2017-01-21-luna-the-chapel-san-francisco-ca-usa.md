@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'The Chapel, San Francisco, CA, USA'
 show-notes: ''
-show-setlist: 
+show-setlist:
 - Malibu Love Nest
 - Cindy Tastes of Barbecue
 - Speedbumps
@@ -25,9 +25,9 @@ show-setlist:
 show-date: 2017-01-21
 date-added: 2016-08-31
 category: 2017
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
@@ -35,21 +35,21 @@ performers: [
   "Lee Wall - drums",
   "Kelly Kyle - trumpet on Bewitched"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg
 show-ticket-url: https://www.ticketfly.com/purchase/event/1304993?utm_medium=bks
-show-venue-website: 
-show-additional: 
+show-venue-website:
+show-additional:
 support:
 videos:
   - type: youtube
     data: "[
-      { 
+      {
         video: 'https://www.youtube.com/watch?v=PwSQYrGODEw',
         title: 'Luna - Star Spangled Man - The Chapel, San Francisco, 21 January 2017',
         description: 'by soonerfitz'
       },
-      { 
+      {
         video: 'https://www.youtube.com/watch?v=J98OdP73dYg',
         title: 'Luna - Still At Home - The Chapel, San Francisco, 21 January 2017',
         description: 'by soonerfitz'
@@ -59,58 +59,58 @@ photos:
  - type: ahfow-set
    data: "[
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-001.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-001.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-001.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-001.jpg',
         title: 'Disco ball (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-002.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-002.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-002.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-002.jpg',
         title: 'Britta (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-003.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-003.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-003.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-003.jpg',
         title: 'Kit (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-004.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-004.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-004.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-004.jpg',
         title: 'Dean and Lee (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-005.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-005.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-005.jpg',
         title: 'Luna (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-006.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-006.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-006.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-006.jpg',
         title: 'LUNA (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-007.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-007.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-007.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-007.jpg',
         title: 'Dean and Lee (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-008.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-008.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-008.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-008.jpg',
         title: 'Luna (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-009.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-009.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-009.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-009.jpg',
         title: 'Sean (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-010.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-010.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-010.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-010.jpg',
         title: 'Sean (photo: Harrison Price)'
         },
         {
-        thumb: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-011.jpg',
-        image: 'http://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-011.jpg',
+        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/thumbs/2017-01-21-chapel-sf-harrison-price-011.jpg',
+        image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-21/2017-01-21-chapel-sf-harrison-price-011.jpg',
         title: 'Rewritten Star Spangled Man (photo: Harrison Price)'
         }
       ]"

@@ -2,7 +2,7 @@
 layout: show
 artistslug: luna
 show-venue: 'Paradise, Boston, MA, USA'
-show-setlist: 
+show-setlist:
  - Chinatown
  - Speedbumps
  - Going Home
@@ -24,20 +24,20 @@ show-setlist:
  - Indian Summer
 show-date: 2015-10-10
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10/2015-10-luna-poster-us-part-1-strawberryluna.jpg
 show-ticket-url: 'http://www.ticketmaster.com/event/01004EA6B9594698'
-show-venue-website: 
-show-additional: 
+show-venue-website:
+show-additional:
 videos:
  - type: youtube
    data: "[

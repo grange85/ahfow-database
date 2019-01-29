@@ -19,7 +19,7 @@ show-setlist:
  - Car Wash Hair
  - ^encore
  - One Fine Summer Morning
- - Sideshow by The Seashore
+ - Sideshow by the Seashore
  - Indian Summer
 show-date: 2018-01-24
 date-added: 2017-11-07

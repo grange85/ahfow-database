@@ -7,8 +7,8 @@ artistslug: galaxie-500
 categories : [discography, galaxie-500, single]
 initial_release_date: 1990
 albumname: Rain / Don't Let Our Youth Go to Waste
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
-wikipedia: 
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
+wikipedia:
 releases:
   - release:
     version: caff-single
@@ -19,7 +19,7 @@ releases:
     release_notes: Limited edition of 500
     label: Caff
     catno: CAFF 9
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rain_a_001.jpg
     groups:
       - group: A
         tracks:
@@ -30,5 +30,5 @@ releases:
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
 ---
-Both tracks recorded live at CBGB's, New York City, May 13, 1989.   
-Cover picture - Dave Rick on the road, 1989. 
+Both tracks recorded live at CBGB's, New York City, May 13, 1989.
+Cover picture - Dave Rick on the road, 1989.

@@ -4,11 +4,11 @@ resource: discography
 artist: Various artists
 section: 03-compilation
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-homesleephome2.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-homesleephome2.jpg
 initial_release_date: 2001
 albumname: "Homesleephome2 Cover Songs"
 releases:
-  - release: 
+  - release:
     version: homesleep-cd
     year: 2001
     releasedate: 2001
@@ -16,13 +16,13 @@ releases:
     format: CD
     label: Homesleep Records
     catno: rec 2008
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna-homesleephome2.jpg
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-homesleephome2.jpg
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Fly Into the Mystery
-         notes: 
+         notes:
          author: "Jonathan Richman"
 ---

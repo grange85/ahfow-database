@@ -5,19 +5,19 @@ section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2008
 albumname: Variations
-imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
+imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
 releases:
-  - release: 
+  - release:
     version: self-released-cd
     year: 2008
     releasedate: 2008
     type: ep
     format: CD
     label: (no label)
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
-    mbid: 
-    discogs: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
+    mbid:
+    discogs:
     release_notes: Limited CD version only available direct from the band.
     groups:
     - group: CD
@@ -36,17 +36,17 @@ releases:
          notes: Tony Visconti mix
        - title: Singer Sing
          notes: Richard Formby remix
-  - release: 
+  - release:
     version: zoe-records-digital
     year: 2008
     releasedate: 2008
     type: ep
     format: Zoe
-    label: 
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
-    mbid: 
-    discogs: 
+    label:
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
+    mbid:
+    discogs:
     release_notes:
     groups:
     - group: CD

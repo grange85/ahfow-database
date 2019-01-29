@@ -7,7 +7,7 @@ artistslug: galaxie-500
 categories : [discography, galaxie-500, albums]
 initial_release_date: 1989
 albumname: On Fire
-imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
+imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/on-fire
 bandcamp-id: 158016030
 wikipedia: http://en.wikipedia.org/wiki/On_Fire_(Galaxie_500_album)
@@ -20,7 +20,7 @@ releases:
     format: LP
     label: Rough Trade
     catno: ROUGH 146
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
     groups:
       - group: A
         tracks:
@@ -54,7 +54,7 @@ releases:
     format: CD
     label: Rough Trade
     catno: ROUGHCD 146
-    imageurl: http://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
     groups:
       - group: CD
         tracks:
@@ -80,6 +80,6 @@ releases:
             author: George Harrison
 
 ---
-Produced and Engineered by Kramer at Noise New York 1989.  
-Tenor sax on "Decomposing Trees" by Ralph Carney.  
+Produced and Engineered by Kramer at Noise New York 1989.
+Tenor sax on "Decomposing Trees" by Ralph Carney.
 Cheap Organ on "Isn't it a Pity" and backing vocals by Kramer, courtesy of Shimmy Disc.

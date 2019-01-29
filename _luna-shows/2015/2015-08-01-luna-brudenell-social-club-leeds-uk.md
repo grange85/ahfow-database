@@ -24,23 +24,23 @@ show-setlist: [
 ]
 show-date: 2015-08-01
 category: 2015
-show-radio: 
-show-lastfm: 
-show-cancelled: 
+show-radio:
+show-lastfm:
+show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar/vocals",
   "Lee Wall - drums",
   "Britta Phillips - bass/vocals"
   ]
-facebook-event-url: 
-show-poster-url: http://media.fullofwishes.co.uk/02-luna/show_assets/2015-08-01/2015-08-01-luna-brudenell-leeds-poster.jpg
-show-additional: 
+facebook-event-url:
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-08-01/2015-08-01-luna-brudenell-leeds-poster.jpg
+show-additional:
 photos:
   - user: grange85
     type: flickr-set
     id: 72157656706994745
-show-download: 
+show-download:
   site: NYCTaper
   url: http://www.nyctaper.com/2015/09/luna-august-1-2015-leeds-uk-flacmp3streaming/
 support:

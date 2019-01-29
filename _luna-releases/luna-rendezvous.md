@@ -4,13 +4,13 @@ layout: release
 resource: discography
 section: 01-album
 artistslug: luna
-imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
+imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
 initial_release_date: 2004
 albumname: Rendezvous
 bandcamp-url: https://luna.bandcamp.com/album/rendezvous
 bandcamp-id: 126122972
 releases:
-  - release: 
+  - release:
     version: jetset-cd
     year: 2004
     releasedate: 2004
@@ -18,47 +18,47 @@ releases:
     format: CD
     label: Jetset
     catno: TWA69CD
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Malibu Love Nest
-         notes: 
+         notes:
          author: Wareham
        - title: Cindy Tastes of Barbecue
-         notes: 
+         notes:
          author: Wareham
        - title: Speedbumps
-         notes: 
+         notes:
          author: Wareham
        - title: The Owl and the Pussycat
-         notes: 
+         notes:
          author: Eden/Wareham
        - title: Astronaut
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Broken Chair
-         notes: 
+         notes:
          author: Eden
        - title: Star Spangled Man
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Motel Bambi
-         notes: 
+         notes:
          author: Wareham
        - title: Still at Home
-         notes: 
+         notes:
          author: Eden
        - title: Buffalo Boots
-         notes: 
+         notes:
          author: Wareham
        - title: Rainbow Babe
-         notes: 
+         notes:
          author: Wareham
-  - release: 
+  - release:
     version: double-feature-lp
     year: 2012
     releasedate: 2012
@@ -66,98 +66,98 @@ releases:
     format: LP
     label: Double Feature
     catno: DBL-009
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: A
       tracks:
        - title: Malibu Love Nest
-         notes: 
+         notes:
          author: Wareham
        - title: Cindy Tastes of Barbecue
-         notes: 
+         notes:
          author: Wareham
        - title: Speedbumps
-         notes: 
+         notes:
          author: Wareham
        - title: The Owl and the Pussycat
-         notes: 
+         notes:
          author: Eden/Wareham
        - title: Astronaut
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Rainbow Babe
-         notes: 
+         notes:
          author: Wareham
     - group: A
       tracks:
        - title: Broken Chair
-         notes: 
+         notes:
          author: Eden
        - title: Star Spangled Man
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Motel Bambi
-         notes: 
+         notes:
          author: Wareham
        - title: Still at Home
-         notes: 
+         notes:
          author: Eden
        - title: Buffalo Boots
-         notes: 
+         notes:
          author: Wareham
-  - release: 
+  - release:
     version: self-released-digital
     year: 2012
     releasedate: 2012
     type: album
     format: Digital
     label: self released
-    catno: 
-    imageurl: http://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
-    mbid: 
-    discogs: 
-    release_notes: 
+    catno:
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
+    mbid:
+    discogs:
+    release_notes:
     groups:
     - group: CD
       tracks:
        - title: Malibu Love Nest
-         notes: 
+         notes:
          author: Wareham
        - title: Cindy Tastes of Barbecue
-         notes: 
+         notes:
          author: Wareham
        - title: Speedbumps
-         notes: 
+         notes:
          author: Wareham
        - title: The Owl and the Pussycat
-         notes: 
+         notes:
          author: Eden/Wareham
        - title: Astronaut
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Broken Chair
-         notes: 
+         notes:
          author: Eden
        - title: Star Spangled Man
-         notes: 
+         notes:
          author: Wall/Wareham
        - title: Motel Bambi
-         notes: 
+         notes:
          author: Wareham
        - title: Still at Home
-         notes: 
+         notes:
          author: Eden
        - title: Buffalo Boots
-         notes: 
+         notes:
          author: Wareham
        - title: Rainbow Babe
-         notes: 
+         notes:
          author: Wareham
        - title: Eyes in My Smoke
-         notes: 
+         notes:
          author: Wareham
        - title: Speedbumps
          notes: Lee Wall remix
@@ -173,5 +173,5 @@ releases:
          author: Wareham
 
 ---
-Produced by Luna and Gene Holder.  
+Produced by Luna and Gene Holder.
 Mixed by Dave Fridmann.
