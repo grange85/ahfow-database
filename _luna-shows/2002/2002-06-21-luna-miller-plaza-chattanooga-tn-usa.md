@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Miller Plaza, Chattanooga TN, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "Weird And Woozy",
   "Bewitched",
   "Lovedust",
@@ -17,7 +17,7 @@ show-setlist: [
   "Moon Palace",
   "1995",
   "Friendly Advice",
-  "Sweet Child O' Mine",
+  "Sweet Child o' Mine",
   "Black Postcards"
   ]
 show-date: 2002-06-21

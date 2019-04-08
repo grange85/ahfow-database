@@ -11,11 +11,12 @@ artist: Magic Hour
 releases:
   - release:
     version: che-7
+    graph: true
     year: 1995
     releasedate: 1995
     type: single
     format: 7"
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 29
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
     mbid:

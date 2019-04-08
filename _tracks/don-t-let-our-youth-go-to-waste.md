@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Don't Let Our Youth Go To Waste
+title: Don't Let Our Youth Go to Waste
 name: don-t-let-our-youth-go-to-waste
 type: ahfow_track
 track-id: 4

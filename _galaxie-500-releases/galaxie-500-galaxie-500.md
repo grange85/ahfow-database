@@ -31,7 +31,7 @@ releases:
        - title: Parking Lot
          notes:
          author: Krukowski/Wareham/Yang
-       - title: Don't Let Our Youth Go To Waste
+       - title: Don't Let Our Youth Go to Waste
          notes:
          author: Jonathan Richman
        - title: Temperature's Rising
@@ -84,7 +84,7 @@ releases:
        - title: Plastic Bird
          notes:
          author: Krukowski/Wareham/Yang
-       - title: Isn't It A Pity
+       - title: Isn't it a Pity
          notes:
          author: George Harrison
        - title: Victory Garden
@@ -157,7 +157,7 @@ releases:
        - title: Jerome
          notes:
          author: Krukowski/Wareham/Yang
-       - title: Song In 3
+       - title: Song in 3
          notes:
          author: Krukowski/Wareham/Yang
        - title: Oblivious
@@ -172,19 +172,19 @@ releases:
        - title: The Other Side
          notes:
          author: Krukowski/Wareham/Yang
-       - title: On The Floor
+       - title: On the Floor
          notes:
          author: Krukowski/Wareham/Yang
        - title: Rain
          notes: live
          author: Lennon/McCartney
-       - title: Don't Let Our Youth Go To Waste
+       - title: Don't Let Our Youth Go to Waste
          notes: live
          author: Jonathan Richman
        - title: Blue Thunder
          notes: video
          author: Krukowski/Wareham/Yang
 ---
-Produced and engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On The Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go To Waste recorded live at CBGB's (sound by Kramer), 1988
+Produced and engineered by Kramer at Noise New York, 1988. Except Walking Song, The Other Side, On the Floor recorded by Perkin Barnes at 6/8 Studio 1987 and Rain/Don't Let Our Youth Go to Waste recorded live at CBGB's (sound by Kramer), 1988
 Remastered by Kramer and Alan Douches, 1996.
 Includes the videos for Tugboat, When Will You Come Home, Fourth of July and Blue Thunder all directed by Sergio Huidor (1988-90).

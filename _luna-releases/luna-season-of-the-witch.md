@@ -10,6 +10,7 @@ albumname: Season of the Witch
 releases:
   - release:
     version: beggars-banquet-10
+    graph: true
     year: 1996
     releasedate: 1996
     type: single

@@ -19,7 +19,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Indian Summer",
   "Bonnie and Clyde",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 2002-06-08
 category: 2002

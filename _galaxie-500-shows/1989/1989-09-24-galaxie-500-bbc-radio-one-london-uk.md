@@ -6,7 +6,7 @@ show-setlist: [
   "Flowers",
   "Blue Thunder",
   "Decomposing Trees",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 1989-09-24
 category: 1989

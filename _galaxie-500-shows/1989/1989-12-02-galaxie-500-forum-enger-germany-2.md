@@ -8,7 +8,7 @@ show-setlist: [
   "Decomposing Trees",
   "Snowstorm",
   "Temperature's Rising",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Plastic Bird",
   "Victory Garden",
   "When Will You Come Home",

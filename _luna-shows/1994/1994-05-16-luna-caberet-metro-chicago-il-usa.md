@@ -7,7 +7,7 @@ show-setlist: [
   "Anesthesia",
   "Going Home",
   "Slide",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tiger Lily",
   "Friendly Advice",
   "I Can't Wait",

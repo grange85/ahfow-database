@@ -9,6 +9,7 @@ albumname: White Horses
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
 releases:
   - release:
+    graph: true
     version: sonic-cathedral-single
     year: 2007
     releasedate: 2007

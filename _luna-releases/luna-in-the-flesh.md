@@ -10,6 +10,7 @@ albumname: In the Flesh
 releases:
   - release:
     version: trade-2-7
+    graph: true
     year: 1997
     releasedate: 1997
     type: single

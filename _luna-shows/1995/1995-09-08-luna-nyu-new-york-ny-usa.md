@@ -13,7 +13,7 @@ show-setlist: [
   "Kalamazoo",
   "Slide",
   "Double Feature",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Hedgehog",
   "23 Minutes in Brussels",
   "Egg Nog"

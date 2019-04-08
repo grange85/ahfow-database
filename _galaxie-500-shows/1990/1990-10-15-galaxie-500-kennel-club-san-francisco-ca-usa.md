@@ -9,7 +9,7 @@ show-setlist: [
   "When Will You Come Home",
   "Spook",
   "Hearing Voices",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Melt Away",
   "Listen, the Snow Is Falling",
   "Ceremony",

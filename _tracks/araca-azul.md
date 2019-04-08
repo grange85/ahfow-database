@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Araca Azul
+title: Araçá Azul
 name: araca-azul
 type: ahfow_track
 track-id: 293

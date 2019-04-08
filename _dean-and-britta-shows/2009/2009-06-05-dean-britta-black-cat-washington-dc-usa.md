@@ -15,7 +15,7 @@ show-setlist: [
   "Snowstorm",
   "Strange",
   "Moon Palace",
-  "Bonnie And Clyde",
+  "Bonnie and Clyde",
   "Not a Young Man Anymore",
   "Ceremony"
   ]

@@ -24,7 +24,7 @@ releases:
        - title: Dear Diary
          notes:
          author: "Lyrics by Dean Wareham. music by LUNA"
-       - title: "Sweet Child O' Mine"
+       - title: "Sweet Child o' Mine"
          notes:
          author: "Slash/Rose/Stradlin/McKegan/Adler"
        - title: Requiem for a Mouse

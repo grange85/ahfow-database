@@ -5,13 +5,14 @@ resource: discography
 section: 02-single
 artistslug: damon-and-naomi
 initial_release_date: 1991
-albumname: Pierre &Eacute;toile
+albumname: Pierre Étoile
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
 releases:
   - release:
     version: rough-trade-single-vinyl
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     year: 1991
+    graph: true
     releasedate: 1991
     type: single
     format: 12"
@@ -20,7 +21,7 @@ releases:
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     mbid:
     discogs:
-    release_notes: Released as Pierre &Eacute;toile
+    release_notes: Released as Pierre Étoile
     groups:
     - group: A
       tracks:
@@ -44,7 +45,7 @@ releases:
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
     mbid:
     discogs:
-    release_notes: Released as Pierre &Eacute;toile
+    release_notes: Released as Pierre Étoile
     groups:
     - group: CD
       tracks:

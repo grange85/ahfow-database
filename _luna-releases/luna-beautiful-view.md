@@ -9,8 +9,9 @@ initial_release_date: 1998
 albumname: Beautiful View
 releases:
   - release:
-    version: beggars-banquet-cd
+    version: beggars-banquet-cds
     year: 1998
+    graph: true
     releasedate: 1998
     type: single
     format: CD

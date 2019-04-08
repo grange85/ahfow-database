@@ -11,6 +11,7 @@ bandcamp-url: https://magic-hour.bandcamp.com/album/magic-moments
 bandcamp-id: 3096253867
 releases:
   - release:
+    graph: true
     version: twisted-village-digital
     year: 1993
     releasedate: 1993

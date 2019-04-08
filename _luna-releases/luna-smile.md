@@ -10,6 +10,7 @@ albumname: Smile
 releases:
   - release:
     version: elektra-single-cd
+    graph: true
     year: 1993
     releasedate: 1993
     type: single

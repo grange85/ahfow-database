@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Knitting Factory, New York NY, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "California (All The Way)",
   "Dear Diary",
   "Swedish Fish",

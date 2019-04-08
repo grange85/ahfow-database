@@ -15,7 +15,7 @@ show-setlist: [
   "Tugboat",
   "Snowstorm",
   "Strange",
-  "Bonnie And Clyde",
+  "Bonnie and Clyde",
   "Ceremony"
   ]
 show-date: 2009-06-04

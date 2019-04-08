@@ -6,7 +6,7 @@ show-setlist: [
   "Decomposing Trees",
   "Fourth of July",
   "When Will You Come Home",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Listen, the Snow Is Falling"
   ]
 show-date: 1990-11-24

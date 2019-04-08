@@ -10,6 +10,7 @@ albumname: Speedbumps
 releases:
   - release:
     version: little-teddy-7
+    graph: true
     year: 2004
     releasedate: 2004
     type: single

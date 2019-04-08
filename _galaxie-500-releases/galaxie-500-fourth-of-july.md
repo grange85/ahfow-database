@@ -9,6 +9,7 @@ albumname: Fourth of July
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
 releases:
   - release:
+    graph: true
     version: rough-trade-single-vinyl
     year: 1990
     releasedate: 1990

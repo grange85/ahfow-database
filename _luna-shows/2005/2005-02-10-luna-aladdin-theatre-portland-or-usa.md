@@ -17,7 +17,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Bewitched",
   "Black Postcards",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Friendly Advice"
   ]
 show-date: 2005-02-10

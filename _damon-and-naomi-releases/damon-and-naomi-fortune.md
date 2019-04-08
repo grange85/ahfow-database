@@ -11,6 +11,7 @@ bandcamp-id: 2505063369
 releases:
   - release:
     version: 202020-lp
+    graph: true
     year: 2015
     releasedate: 2015-02-17
     type: album

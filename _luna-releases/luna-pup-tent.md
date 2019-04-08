@@ -9,7 +9,8 @@ initial_release_date: 1997
 albumname: Pup Tent
 releases:
   - release:
-    version: captured-tracks-box
+    version: elektra-cd
+    graph: true
     year: 1997
     releasedate: 1997
     type: album

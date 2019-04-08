@@ -85,13 +85,13 @@ releases:
       - title: Indian Summer
         notes:
         author: Calvin Johnson
-      - title: Ride Into The Sun
+      - title: Ride Into the Sun
         notes:
         author: Reed/Cale
-      - title: In The Flesh
+      - title: In the Flesh
         notes:
         author: Harry/Stein
-      - title: Season Of The Witch
+      - title: Season of the Witch
         notes:
         author: Donovan Leitch
       - title: Jealous Guy
@@ -100,7 +100,7 @@ releases:
       - title: Neon Lights
         notes:
         author: Hutter/Bartos/Schneider
-      - title: Sweet Child O' Mine
+      - title: Sweet Child o' Mine
         notes:
         author: Slash/Rose/Stradlin/McKagan/Adler
       - title: That's What You Always Say
@@ -124,10 +124,10 @@ releases:
       - title: Dream Baby Dream
         notes:
         author: Rev/Vega
-      - title: Thank You For Sending Me An Angel
+      - title: Thank You for Sending Me an Angel
         notes:
         author: David Byrne
-      - title: Bonnie And Clyde
+      - title: Bonnie and Clyde
         notes:
         author: Serge Gainsbourg
   - release:

@@ -11,6 +11,7 @@ releases:
   - release:
     version: rykodisc-cd
     year: 1998
+    graph: true
     releasedate: 1998
     type: album
     format: CD

@@ -8,6 +8,7 @@ initial_release_date: 2017
 albumname: A Place of Greater Safety
 releases:
   - release:
+    graph: true
     version: double-feature-10
     year: 2017
     releasedate: 2017-09-22

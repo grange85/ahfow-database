@@ -12,6 +12,7 @@ bandcamp-url: https://magic-hour.bandcamp.com/album/secession-96
 bandcamp-id: 4265088759
 releases:
   - release:
+    graph: true
     version: twisted-village-cd
     year: 1996
     releasedate: 1996

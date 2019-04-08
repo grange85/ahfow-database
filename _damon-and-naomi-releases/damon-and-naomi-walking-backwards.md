@@ -11,6 +11,7 @@ releases:
   - release:
     version: great-pop-supplement-single
     year: 2011
+    graph: true
     releasedate: 2011
     type: single
     format: 7"

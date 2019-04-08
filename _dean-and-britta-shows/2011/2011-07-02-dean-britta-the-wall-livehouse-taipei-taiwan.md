@@ -11,7 +11,7 @@ show-setlist: [
   "Decomposing Trees",
   "Strange",
   "Summertime",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Blue Thunder",
   "Listen, the Snow Is Falling",
   "Tugboat",

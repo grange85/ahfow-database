@@ -8,7 +8,7 @@ show-setlist: [
   "Flowers",
   "Victory Garden",
   "Temperature's Rising",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Here She Comes Now",
   "When Will You Come Home",
   "Blue Thunder",

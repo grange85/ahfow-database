@@ -8,7 +8,7 @@ show-setlist: [
   "Slide",
   "Going Home",
   "Anesthesia",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tiger Lily",
   "Hey Sister",
   "Friendly Advice",
@@ -19,7 +19,7 @@ show-setlist: [
   "That's What You Always Say",
   "Time to Quit",
   "Indian Summer",
-  "Ride Into The Sun"
+  "Ride Into the Sun"
   ]
 show-date: 1994-06-06
 category: 1994

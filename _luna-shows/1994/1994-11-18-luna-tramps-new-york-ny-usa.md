@@ -5,7 +5,7 @@ show-venue: 'Tramps, New York NY, USA'
 show-setlist: [
   "It's Bringing You Down",
   "Smile",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Crazy People",
   "This Time Around",
   "23 Minutes in Brussels",

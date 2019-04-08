@@ -9,7 +9,7 @@ show-setlist: [
   "Temperature's Rising",
   "Summertime",
   "When Will You Come Home",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Snowstorm",
   "Here She Comes Now",
   "Ceremony"

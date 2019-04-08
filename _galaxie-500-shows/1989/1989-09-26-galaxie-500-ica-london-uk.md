@@ -6,7 +6,7 @@ show-setlist: [
   "Flowers",
   "Blue Thunder",
   "Decomposing Trees",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Temperature's Rising",
   "Snowstorm",
   "Plastic Bird",

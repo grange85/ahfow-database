@@ -18,7 +18,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Friendly Advice",
   "Time to Quit",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Indian Summer",
   "Fourth of July"
   ]

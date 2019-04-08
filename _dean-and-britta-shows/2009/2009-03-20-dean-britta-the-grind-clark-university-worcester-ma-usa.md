@@ -14,7 +14,7 @@ show-setlist: [
   "Moon Palace",
   "Words You Used To Say",
   "You Turned My Head Around",
-  "Bonnie And Clyde",
+  "Bonnie and Clyde",
   "Strange",
   "Ceremony"
   ]

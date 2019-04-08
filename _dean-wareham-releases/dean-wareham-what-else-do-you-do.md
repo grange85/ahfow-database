@@ -2,7 +2,7 @@
 layout: release
 
 resource: discography
-section: 03-compilation
+section: 03-Compilation
 artistslug: dean-wareham
 initial_release_date: 1990
 albumname: What Else Do You Do (A Compilation of Quiet Music)

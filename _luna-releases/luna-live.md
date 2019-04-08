@@ -10,6 +10,7 @@ albumname: Live
 releases:
   - release:
     version: arena-rock-cd
+    graph: true
     year: 2000
     releasedate: 2000
     type: album

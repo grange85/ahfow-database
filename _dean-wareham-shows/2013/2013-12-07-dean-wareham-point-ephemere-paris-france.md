@@ -15,7 +15,7 @@ show-setlist: [
   "Lost In Space",
   "Blue Thunder",
   "Tugboat",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Ceremony"
   ]
 show-date: 2013-12-07

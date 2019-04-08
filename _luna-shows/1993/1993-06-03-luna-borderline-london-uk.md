@@ -5,7 +5,7 @@ show-venue: 'Borderline, London, UK'
 show-setlist: [
   "Crazy People",
   "Anesthesia",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Friendly Advice",
   "We're Both Confused",
   "Going Home",

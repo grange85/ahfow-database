@@ -10,6 +10,7 @@ albumname: The Days of Our Nights
 releases:
   - release:
     version: beggars-banquet-cd
+    graph: true
     year: 1999
     releasedate: 1999
     type: album
@@ -26,7 +27,7 @@ releases:
        - title: Dear Diary
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Hello, Little One
+       - title: Hello Little One
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Old Fashioned Way

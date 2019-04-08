@@ -10,6 +10,7 @@ albumname: The Navigator / Awake in a Muddle
 releases:
   - release:
     version: earworm-single
+    graph: true
     year: 1997
     releasedate: 1997
     type: single

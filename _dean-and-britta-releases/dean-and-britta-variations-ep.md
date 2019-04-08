@@ -12,6 +12,7 @@ releases:
     year: 2008
     releasedate: 2008
     type: ep
+    graph: true
     format: CD
     label: (no label)
     catno:

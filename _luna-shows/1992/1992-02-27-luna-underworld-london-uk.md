@@ -31,5 +31,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-download: 
+  site: Mediafire
+  url: http://www.mediafire.com/file/bd3tpmsa35d6u6p/luna-1992-02-27_-the-underworld-london-uk-andy-16bit.zip/file
 ---
 

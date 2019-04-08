@@ -9,7 +9,7 @@ show-setlist: [
   "Going Home",
   "Slide",
   "Tiger Lily",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Hey Sister",
   "I Can't Wait",
   "Into The Fold",

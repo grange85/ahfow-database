@@ -11,6 +11,7 @@ releases:
   - release:
     version: milan-cd
     year: 2015
+    graph: true
     releasedate: 2015-08-14
     type: album
     format: CD

@@ -10,6 +10,7 @@ albumname: Lunafied Luna Covers
 releases:
   - release:
     version: rhino-digital
+    graph: true
     year: 2006
     releasedate: 2006
     type: album
@@ -24,7 +25,7 @@ releases:
     - group: Digital
       tracks:
       - title: Bonnie and Clyde
-        notes:
+        notes: The Clyde Barrow version
         author: Serge Gainsbourg
       - title: Outdoor Miner
         notes:
@@ -32,19 +33,19 @@ releases:
       - title: Indian Summer
         notes:
         author: Calvin Johnson
-      - title: Ride Into The Sun
+      - title: Ride Into the Sun
         notes:
         author: Reed/Cale
       - title: That's What You Always Say
         notes:
         author: Wynn
-      - title: In The Flesh
+      - title: In the Flesh
         notes:
         author: Harry/Stein
       - title: Everybody's Talkin'
         notes:
         author: Fred Neil
-      - title: Season Of The Witch
+      - title: Season of the Witch
         notes:
         author: Donovan Leitch
       - title: Dream Baby Dream
@@ -62,10 +63,10 @@ releases:
       - title: La Poupee Qui Fait Non
         notes:
         author: Michel Polnareff
-      - title: Thank You For Sending Me An Angel
+      - title: Thank You for Sending Me an Angel
         notes:
         author: David Byrne
-      - title: Bonnie And Clyde
-        notes:
+      - title: Bonnie and Clyde
+        notes: The Bonnie Parker version
         author: Serge Gainsbourg
 ---

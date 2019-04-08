@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: On The Floor
+title: On the Floor
 name: on-the-floor
 type: ahfow_track
 track-id: 45

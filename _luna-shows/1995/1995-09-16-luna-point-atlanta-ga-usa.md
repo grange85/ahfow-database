@@ -7,7 +7,7 @@ show-setlist: [
   "Moon Palace",
   "Double Feature",
   "Slide",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tiger Lily",
   "Sideshow By The Seashore",
   "Chinatown",

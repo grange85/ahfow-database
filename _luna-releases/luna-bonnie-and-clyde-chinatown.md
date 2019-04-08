@@ -12,6 +12,7 @@ releases:
     version: beggars-banquet-12
     year: 1995
     releasedate: 1995
+    graph: true
     type: single
     format: 12"
     label: Beggars Banquet
@@ -26,7 +27,7 @@ releases:
        - title: Bonnie and Clyde
          notes: The Bonnie Parker version
          author: Serge Gainsbourg
-       - title: Thank You For Sending Me an Angel
+       - title: Thank You for Sending Me an Angel
          notes:
          author: David Byrne
     - group: AA
@@ -55,7 +56,7 @@ releases:
        - title: Bonnie and Clyde
          notes: The Bonnie Parker version
          author: Serge Gainsbourg
-       - title: Thank You For Sending Me an Angel
+       - title: Thank You for Sending Me an Angel
          notes:
          author: David Byrne
        - title: Chinatown

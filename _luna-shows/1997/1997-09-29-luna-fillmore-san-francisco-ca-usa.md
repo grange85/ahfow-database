@@ -18,7 +18,7 @@ show-setlist: [
   "Tiger Lily",
   "California (All The Way)",
   "Chinatown",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Time to Quit",
   "Everybody's Talkin'"
   ]

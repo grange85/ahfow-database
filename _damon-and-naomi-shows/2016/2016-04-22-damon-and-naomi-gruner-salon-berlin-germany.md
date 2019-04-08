@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: damon-and-naomi
-show-venue: 'Gr&uuml;ner Salon, Berlin, Germany'
+show-venue: 'Grüner Salon, Berlin, Germany'
 show-setlist:
  - The Seeker
  - Amnesia

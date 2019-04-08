@@ -10,6 +10,7 @@ albumname: Indian Summer
 releases:
   - release:
     version: rough-trade-12
+    graph: true
     year: 1993
     releasedate: 1993
     type: single

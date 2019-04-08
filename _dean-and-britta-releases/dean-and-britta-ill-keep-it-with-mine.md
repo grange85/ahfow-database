@@ -9,6 +9,7 @@ albumname: I'll Keep It With Mine
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-ill-keep-it-with-mine-the-great-pop-supplement.jpg
 releases:
   - release:
+    graph: true
     version: great-pop-supplement-single
     year: 2010
     releasedate: 2010

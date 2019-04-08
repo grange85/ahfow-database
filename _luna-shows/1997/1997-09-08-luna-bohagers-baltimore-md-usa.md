@@ -16,7 +16,7 @@ show-setlist: [
   "Beggar's Bliss",
   "California (All The Way)",
   "IHOP",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Time to Quit"
   ]
 show-date: 1997-09-08

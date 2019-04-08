@@ -7,7 +7,7 @@ show-setlist:
  - California (All The Way)
  - Anesthesia
  - Going Home
- - Thank You For Sending Me an Angel
+ - Thank You for Sending Me an Angel
  - Tiger Lily
  - Slide
  - This Time Around

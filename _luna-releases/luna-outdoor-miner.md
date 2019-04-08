@@ -10,6 +10,7 @@ albumname: Outdoor Miner
 releases:
   - release:
     version: radiation-7
+    graph: true
     year: 1996
     releasedate: 1996
     type: single

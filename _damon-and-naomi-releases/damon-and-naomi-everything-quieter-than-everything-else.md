@@ -10,7 +10,8 @@ bandcamp-url: https://damonandnaomi.bandcamp.com/album/everything-quieter-than-e
 bandcamp-id: 1605647443
 releases:
   - release:
-    version: cd
+    graph: true
+    version: super-fuji-discs-cd
     year: 2017
     releasedate: 2017
     type: single
@@ -45,13 +46,13 @@ releases:
        - title: The Robot Speaks
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author:
-       - title: The Wind’s Twelve Quarters
+       - title: The Wind's Twelve Quarters
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author: Michio Kurihara / Your Ishihara
        - title: A Second Life
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author:
-       - title: Araca Azul
+       - title: Araçá Azul
          notes: Shibuya O Nest, Tokyo, Japan - 2005
          author: Caetano Veloso
        - title: The Earth is Blue

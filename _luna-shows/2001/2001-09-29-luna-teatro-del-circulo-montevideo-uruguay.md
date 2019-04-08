@@ -18,7 +18,7 @@ show-setlist: [
   "Chinatown",
   "Bonnie and Clyde",
   "Indian Summer",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Friendly Advice",
   "23 Minutes in Brussels"
   ]

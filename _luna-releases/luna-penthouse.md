@@ -10,6 +10,7 @@ albumname: Penthouse
 releases:
   - release:
     version: elektra-cd
+    graph: true
     year: 1995
     releasedate: 1995
     type: album
@@ -360,7 +361,7 @@ releases:
        - title: Tracy I Love You
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Thank You For Sending Me an Angel
+       - title: Thank You for Sending Me an Angel
          notes:
          author: David Byrne
     - group: LP2 side B

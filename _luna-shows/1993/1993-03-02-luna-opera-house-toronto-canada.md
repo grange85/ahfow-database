@@ -8,7 +8,7 @@ show-setlist: [
   "Anesthesia",
   "Crazy People",
   "We're Both Confused",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Blue Thunder",
   "Hey Sister",
   "Slash Your Tires",

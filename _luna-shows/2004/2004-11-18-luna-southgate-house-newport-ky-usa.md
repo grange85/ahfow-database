@@ -20,7 +20,7 @@ show-setlist: [
   "Black Postcards",
   "Pup Tent",
   "Friendly Advice",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 2004-11-18
 category: 2004

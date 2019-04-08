@@ -37,6 +37,6 @@ releases:
        - title: Tracy I Love You
        - title: Slide
        - title: Dear Diary
-       - title: Sweet Child O' Mine
+       - title: Sweet Child o' Mine
        - title: Bonnie and Clyde
 ---

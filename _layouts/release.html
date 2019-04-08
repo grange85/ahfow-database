@@ -70,10 +70,14 @@
 											{% endif %}
 											<ul>
 											{% for track in group.tracks %}
+												<li>
+													{% if track.artist %}
+														 {{track.artist}} - 
+													{% endif %}
 												{% if track.title contains '^' %}
-												<li>{{track.title | remove_first:'^'}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
+												{{track.title | remove_first:'^'}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
 												{% else %}
-												<li><a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
+												<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
 												{% endif %}
 													{% if track.author %}
 														<em>({{track.author}})</em>

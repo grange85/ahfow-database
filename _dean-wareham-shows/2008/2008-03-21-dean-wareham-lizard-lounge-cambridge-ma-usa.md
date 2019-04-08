@@ -8,7 +8,7 @@ show-setlist: [
   "Hearing Voices",
   "Into The Fold",
   "Swedish Fish",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 2008-03-21
 category: 2008

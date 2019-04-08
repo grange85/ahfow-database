@@ -18,7 +18,7 @@ show-setlist: [
   "Friendly Advice",
   "The Slow Song",
   "Time to Quit",
-  "Season Of The Witch",
+  "Season of the Witch",
   "23 Minutes in Brussels",
   "Indian Summer"
   ]

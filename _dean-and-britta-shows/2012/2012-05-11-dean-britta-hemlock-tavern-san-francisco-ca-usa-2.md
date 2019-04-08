@@ -8,7 +8,7 @@ show-setlist: [
   "When Will You Come Home",
   "Temperature's Rising",
   "Snowstorm",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Blue Thunder",
   "Listen, the Snow Is Falling",
   "Strange",

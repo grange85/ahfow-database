@@ -10,7 +10,8 @@ albumname: Tugboat / King of Spain
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_tugboat_a001.jpg
 releases:
   - release:
-    version: aurora
+    version: aurora-7
+    graph: true
     year: 1988
     releasedate: 1988-05-24
     type: single

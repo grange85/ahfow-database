@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Sweet Child O' Mine
+title: Sweet Child o' Mine
 name: sweet-child-o-mine
 type: ahfow_track
 track-id: 103

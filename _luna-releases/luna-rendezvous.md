@@ -12,6 +12,7 @@ bandcamp-id: 126122972
 releases:
   - release:
     version: jetset-cd
+    graph: true
     year: 2004
     releasedate: 2004
     type: album

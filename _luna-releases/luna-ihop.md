@@ -9,9 +9,10 @@ initial_release_date: 1997
 albumname: IHOP
 releases:
   - release:
-    version: beggars-banquet-cd
+    version: beggars-banquet-cds
     year: 1997
     releasedate: 1997
+    graph: true
     type: single
     format: CD
     label: Beggars Banquet

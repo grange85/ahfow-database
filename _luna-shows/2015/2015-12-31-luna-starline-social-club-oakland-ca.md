@@ -16,7 +16,7 @@ show-setlist:
  - Friendly Advice
  - Rock Your Baby
  - 23 Minutes in Brussels
- - Sweet Child O' Mine
+ - Sweet Child o' Mine
  - ^encore
  - Season of the Witch
  - Bonnie and Clyde

@@ -20,7 +20,7 @@ show-setlist: [
   "Sweet Child o' Mine",
   "23 Minutes in Brussels",
   "^encore 2",
-  "Ride Into The Sun"
+  "Ride Into the Sun"
   ]
 setlist-source: '<p><a href="https://instagram.com/p/18UkrAgweW/?taken-by=luna_nyc">luna_nyc on instagram</a></p>'
 show-date: 2015-04-25

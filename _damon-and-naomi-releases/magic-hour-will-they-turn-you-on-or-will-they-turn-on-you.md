@@ -13,11 +13,12 @@ bandcamp-id: 2107196421
 releases:
   - release:
     version: che-lp
+    graph: true
     year: 1995
     releasedate: 1995
     type: album
     format: LP
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 30LP
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
     mbid:
@@ -52,7 +53,7 @@ releases:
     releasedate: 1994
     type: album
     format: CD
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 30
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
     mbid:

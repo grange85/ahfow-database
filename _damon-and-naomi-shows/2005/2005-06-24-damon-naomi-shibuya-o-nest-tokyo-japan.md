@@ -12,7 +12,7 @@ show-setlist: [
   "The Robot Speaks",
   "The Wind's Twelve Quarters",
   "A Second Life",
-  "Araca Azul",
+  "Araçá Azul",
   "The Earth is Blue",
   "Ueno Station",
   "Sendou Kouta",

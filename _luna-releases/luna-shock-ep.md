@@ -6,10 +6,11 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_shockep.jpg
 initial_release_date: 1998
-albumname: EP
+albumname: EP (Shock)
 releases:
   - release:
     version: shock-cd
+    graph: true
     year: 1998
     releasedate: 1998
     type: single

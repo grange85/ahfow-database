@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: '9:30 Club, Washington DC, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "Tracy I Love You",
   "Rhythm King",
   "Friendly Advice",

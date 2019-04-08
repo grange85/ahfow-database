@@ -19,7 +19,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Rock Your Baby",
   "Bonnie and Clyde",
-  "Sweet Child O' Mine"
+  "Sweet Child o' Mine"
   ]
 show-date: 2000-12-31
 category: 2000

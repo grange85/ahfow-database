@@ -13,7 +13,7 @@ show-setlist: [
   "Blue Thunder",
   "Melt Away",
   "Ceremony",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 1990-11-03
 category: 1990

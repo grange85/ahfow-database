@@ -11,8 +11,9 @@ bandcamp-url: https://luna.bandcamp.com/album/close-cover-before-striking
 bandcamp-id: 3884059705
 releases:
   - release:
-    version: jetset-cd
+    version: jetset-cdep
     year: 2002
+    graph: true
     releasedate: 2002
     type: EP
     format: CD

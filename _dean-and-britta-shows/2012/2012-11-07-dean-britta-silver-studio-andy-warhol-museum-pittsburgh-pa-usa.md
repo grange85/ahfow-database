@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 show-venue: 'The Silver Studio, The Andy Warhol Museum, Pittsburgh PA, USA'
 show-setlist: [
-  "I'll Keep it With Mine",
+  "I'll Keep It With Mine",
   "The Sun is Still Sunny",
   "The Longest Bridges in the World",
   "Blue Thunder"

@@ -11,6 +11,7 @@ releases:
   - release:
     version: beggars-banquet-7
     year: 1997
+    graph: true
     releasedate: 1997
     type: single
     format: CD

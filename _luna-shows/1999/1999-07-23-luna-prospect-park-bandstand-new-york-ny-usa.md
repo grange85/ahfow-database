@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Prospect Park Bandstand, New York NY, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "Superfreaky Memories",
   "Lost In Space",
   "Dear Diary",
@@ -16,7 +16,7 @@ show-setlist: [
   "Tiger Lily",
   "Seven Steps to Satan",
   "23 Minutes in Brussels",
-  "Sweet Child O' Mine"
+  "Sweet Child o' Mine"
   ]
 show-date: 1999-07-23
 category: 1999

@@ -10,7 +10,7 @@ show-setlist: [
   "Plastic Bird",
   "Pictures",
   "When Will You Come Home",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Here She Comes Now"
   ]
 show-date: 1990-01-23

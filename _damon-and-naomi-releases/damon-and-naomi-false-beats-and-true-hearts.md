@@ -11,6 +11,7 @@ bandcamp-url: https://damonandnaomi.bandcamp.com/album/false-beats-and-true-hear
 bandcamp-id: 1528006243
 releases:
   - release:
+    graph: true
     version: 202020-cd
     year: 2011
     releasedate: 2011
@@ -53,7 +54,7 @@ releases:
          notes:
          author: Krukowski/Yang
   - release:
-    version: 202020-cd
+    version: 202020-lp
     year: 2011
     releasedate: 2011
     type: album

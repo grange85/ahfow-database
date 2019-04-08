@@ -12,14 +12,14 @@ show-setlist: [
   "Strange",
   "Victory Garden",
   "Fourth of July",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Ceremony",
   "Night Nurse",
   "Singer Sing",
   "Knives From Bavaria",
   "You Turned My Head Around",
   "Not a Young Man Anymore",
-  "Bonnie And Clyde"
+  "Bonnie and Clyde"
   ]
 show-date: 2008-08-21
 category: 2008
