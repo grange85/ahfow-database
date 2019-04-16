@@ -21,5 +21,6 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+show-series: Black Postcards book tour
 ---
 Book signing and performance - 7:00pm

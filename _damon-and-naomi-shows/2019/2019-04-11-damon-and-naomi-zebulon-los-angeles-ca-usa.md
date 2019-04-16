@@ -14,13 +14,12 @@ performers: [
   "Naomi Yang - keyboards/vocals"
   ]
 facebook-event-url:
-show-poster-url: 
-show-ticket-url: https://zebulon.ticketfly.com/event/1839580-damon-naomi-los-angeles/
+show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2019-04/2019-04-damon-and-naomi-west-coast.jpg
+show-ticket-url: https://www.eventbrite.com/e/damon-naomi-exploding-flowers-tickets-58603156619
 show-venue-website: 
 show-additional:
 show-series: 
 support:
+ - Exploding Flowers
 ---
-8:00 pm  
-$15.00 
 

@@ -14,7 +14,7 @@ performers: [
   "Naomi Yang - keyboards/vocals"
   ]
 facebook-event-url:
-show-poster-url: 
+show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2019-04/2019-04-damon-and-naomi-west-coast.jpg
 show-ticket-url: https://www.thelab.org/projects/2019/4/17/damon-amp-naomi
 show-venue-website: https://www.thelab.org/projects/2019/4/17/damon-amp-naomi
 show-additional:

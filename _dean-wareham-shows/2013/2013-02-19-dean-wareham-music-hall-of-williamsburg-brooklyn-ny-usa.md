@@ -15,5 +15,4 @@ show-ticket-url:
 show-venue-website: 
 show-additional: 
 ---
-
 Solo show supporting Jim James (My Morning Jacket)
