@@ -109,8 +109,6 @@ version: 5.0.0
 markdown: kramdown
 kramdown:
     smart_quotes:  ["lsquo", "rsquo", "ldquo", "rdquo"]
-source: /media/xander4/DATA/06-AHFOW-DB/
-destination: /home/andy/sites/db.fullofwishes.co.uk/
 exclude: [
     '_notes',
     'Gemfile',
