@@ -116,6 +116,5 @@ exclude: [
     'vendor'
   ]
 plugins: [
-        bootstrap-sass,
-        jekyll-sitemap
+        bootstrap-sass
       ]
