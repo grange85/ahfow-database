@@ -9,7 +9,7 @@ show-setlist: [
   "Chinatown",
   "Freakin' and Peakin'",
   "Tiger Lily",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Bonnie and Clyde",
   "23 Minutes in Brussels",
   "Into The Fold",

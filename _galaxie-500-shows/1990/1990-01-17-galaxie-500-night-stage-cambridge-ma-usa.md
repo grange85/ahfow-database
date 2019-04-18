@@ -8,7 +8,7 @@ show-setlist: [
   "Decomposing Trees",
   "Plastic Bird",
   "Temperature's Rising",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Blue Thunder",
   "When Will You Come Home",
   "Ceremony",

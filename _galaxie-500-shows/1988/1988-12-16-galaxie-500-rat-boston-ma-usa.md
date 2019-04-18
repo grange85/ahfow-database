@@ -6,7 +6,7 @@ show-setlist: [
   "Tugboat",
   "Oblivious",
   "Parking Lot",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "When Will You Come Home",
   "I Wanna Live",
   "Flowers",

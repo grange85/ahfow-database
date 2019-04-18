@@ -12,6 +12,7 @@ bandcamp-id: 3481617757
 releases:
   - release:
     version: jetset-cd
+    graph: true
     year: 2002
     releasedate: 2002
     type: album

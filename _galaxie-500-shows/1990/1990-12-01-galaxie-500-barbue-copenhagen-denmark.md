@@ -11,7 +11,7 @@ show-setlist: [
   "Spook",
   "Listen, the Snow Is Falling",
   "Here She Comes Now",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 1990-12-01
 category: 1990

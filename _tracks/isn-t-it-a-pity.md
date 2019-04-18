@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Isn't It A Pity
+title: Isn't it a Pity
 name: isn-t-it-a-pity
 type: ahfow_track
 track-id: 21

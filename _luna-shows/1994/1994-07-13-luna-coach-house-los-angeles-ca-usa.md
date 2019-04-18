@@ -5,10 +5,10 @@ show-venue: 'Coach House, Los Angeles CA, USA'
 show-setlist: 
  - Sleeping Pill
  - This Time Around
- - Ride Into The Sun
+ - Ride Into the Sun
  - Anesthesia
  - Going Home
- - Thank You For Sending Me An Angel
+ - Thank You for Sending Me an Angel
  - Tiger Lily
  - California (All The Way)
  - Hold On (John)

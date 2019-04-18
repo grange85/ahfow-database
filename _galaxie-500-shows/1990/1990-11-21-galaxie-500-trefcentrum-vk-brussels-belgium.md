@@ -8,7 +8,7 @@ show-setlist: [
   "Hearing Voices",
   "Decomposing Trees",
   "Summertime",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Spook",
   "When Will You Come Home",
   "Sorry",

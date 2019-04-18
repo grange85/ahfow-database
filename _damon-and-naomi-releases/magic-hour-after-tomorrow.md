@@ -11,11 +11,12 @@ artist: Magic Hour
 releases:
   - release: 
     version: che-10
+    graph: true
     year: 1994
     releasedate: 1994
     type: EP
     format: 10"
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 18
     imageurl: //media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-after-tomorrow.jpg
     mbid: 

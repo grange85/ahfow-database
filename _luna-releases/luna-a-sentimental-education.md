@@ -9,6 +9,7 @@ albumname: A Sentimental Education
 releases:
   - release:
     version: double-feature-lp
+    graph: true
     year: 2017
     releasedate: 2017-09-22
     type: album

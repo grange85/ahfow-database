@@ -9,12 +9,13 @@ albumname: Words You Used to Say
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
 releases:
   - release:
-    version: zoe-cd
+    graph: true
+    version: zoe-cds
     year: 2006
     releasedate: 2006
     type: single
     format: CD
-    label: Zo&eumlaut;
+    label: Zoë
     catno: 01143-2009-2
     imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_words.jpg
     mbid:

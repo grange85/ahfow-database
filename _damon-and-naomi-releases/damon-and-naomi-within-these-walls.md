@@ -12,6 +12,7 @@ bandcamp-id: 497607034
 releases:
   - release:
     version: 202020-cd
+    graph: true
     year: 2007
     releasedate: 2007-09-25
     type: album

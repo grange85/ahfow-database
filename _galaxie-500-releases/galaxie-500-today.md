@@ -11,6 +11,7 @@ bandcamp-url: https://galaxie500.bandcamp.com/album/today
 bandcamp-id: 3830882259
 releases:
   - release:
+    graph: true
     version: aurora
     year: 1988
     releasedate: 1988-10-21

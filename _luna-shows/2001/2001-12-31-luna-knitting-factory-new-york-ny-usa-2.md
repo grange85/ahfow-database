@@ -16,7 +16,7 @@ show-setlist: [
   "Black Postcards",
   "Egg Nog",
   "Bonnie and Clyde",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 2001-12-31
 category: 2001

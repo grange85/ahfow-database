@@ -19,7 +19,7 @@ show-setlist: [
   "Teenage Lightning",
   "Freakin' and Peakin'",
   "Tugboat",
-  "Sweet Child O' Mine",
+  "Sweet Child o' Mine",
   "California (All The Way)"
   ]
 show-date: 2002-11-08

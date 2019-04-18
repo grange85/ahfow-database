@@ -11,7 +11,7 @@ show-setlist: [
   "Snowstorm",
   "When Will You Come Home",
   "Ceremony",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 1990-06-29
 category: 1990

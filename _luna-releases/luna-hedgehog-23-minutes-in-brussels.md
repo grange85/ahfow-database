@@ -35,7 +35,8 @@ releases:
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
   - release:
-    version: beggars-banquet-cd
+    version: beggars-banquet-cds
+    graph: true
     year: 1995
     releasedate: 1995
     type: single

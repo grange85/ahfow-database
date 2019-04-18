@@ -10,6 +10,7 @@ albumname: Everybody's Talkin'
 releases:
   - release:
     version: sub-pop-7
+    graph: true
     year: 1998
     releasedate: 1998-07-28
     type: single

@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Ride Into The Sun
+title: Ride Into the Sun
 name: ride-into-the-sun
 type: ahfow_track
 track-id: 107

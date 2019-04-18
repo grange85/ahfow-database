@@ -20,7 +20,7 @@ show-setlist: [
   "IHOP",
   "Friendly Advice",
   "Chinatown",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 1999-12-13
 category: 1999

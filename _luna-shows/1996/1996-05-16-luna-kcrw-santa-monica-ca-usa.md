@@ -6,7 +6,7 @@ show-setlist: [
   "Tracy I Love You",
   "Kalamazoo",
   "23 Minutes in Brussels",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 1996-05-16
 category: 1996

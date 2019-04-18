@@ -168,7 +168,7 @@ releases:
        - title: Dear Diary
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Hello, Little One
+       - title: Hello Little One
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: The Old Fashioned Way
@@ -222,7 +222,7 @@ releases:
          author: Dean Wareham
     - group: "Rarities - B"
       tracks:
-       - title: In The Flesh
+       - title: In the Flesh
          notes:
          author: Harry/Stein
        - title: Bonnie and Clyde

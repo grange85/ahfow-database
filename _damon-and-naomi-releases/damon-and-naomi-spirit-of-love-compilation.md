@@ -10,7 +10,8 @@ bandcamp-url: https://damonandnaomi.bandcamp.com/album/spirit-of-love-b-sides-bo
 bandcamp-id: 2221016275
 releases:
   - release:
-    version: digital
+    version: self-released-digital
+    graph: true
     year: 2016
     releasedate: 2016-12-02
     type: album
@@ -45,7 +46,7 @@ releases:
        - title: The Wind's Twelve Quarters
          notes: live in Tokyo, June 2005
          author: Michio Kurihara/You Ishihara
-       - title: A Song For You
+       - title: A Song for You
          notes:
          author: Gram Parsons
        - title: My Flower (Watashi No Hana)
@@ -80,7 +81,7 @@ Live in Bristol, England, May 2010. Recorded by Rich Munday.</li>
 <li>Wind’s 12 Quarters (Michio Kurihara/You Ishihara)<br>
 Live in Tokyo, June 2005. English adaptation by Damon & Naomi. Recorded by Satoru Fujii.
 With Michio Kurihara, electric guitar; Masaki Batoh, acoustic guitar; Bhob Rainey, soprano sax.</li>
-<li>A Song For You (Gram Parsons)<br>
+<li>A Song for You (Gram Parsons)<br>
 Soundcheck for “Song to the Siren: Live in San Sebastian.” Recorded by Joan Vich Montaner, 2001.
 With Michio Kurihara, electric guitar.</li>
 <li>My Flower (Watashi No Hana) (Tomokawa Kazuki/Norio Nagayama)<br>

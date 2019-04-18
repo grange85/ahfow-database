@@ -13,6 +13,7 @@ releases:
   - release:
     version: shimmy-disc-vinyl
     year: 1992
+    graph: true
     releasedate: 1992
     type: album
     format: LP

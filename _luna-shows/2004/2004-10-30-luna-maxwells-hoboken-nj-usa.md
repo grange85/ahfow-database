@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "Malibu Love Nest",
   "California (All The Way)",
   "Speedbumps",

@@ -18,7 +18,7 @@ show-setlist: [
   "California (All The Way)",
   "IHOP",
   "Chinatown",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Everybody's Talkin'"
   ]
 show-date: 1997-12-12

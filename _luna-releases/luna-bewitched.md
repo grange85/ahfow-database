@@ -10,6 +10,7 @@ albumname: Bewitched
 releases:
   - release:
     version: elektra-cd
+    graph: true
     year: 1994
     releasedate: 1994
     type: album

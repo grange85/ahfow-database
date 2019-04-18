@@ -41,7 +41,7 @@ releases:
        - title: The Great Wall
          notes:
          author: Krukowski/Yang
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: New York City

@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: In The Flesh
+title: In the Flesh
 name: in-the-flesh
 type: ahfow_track
 track-id: 119

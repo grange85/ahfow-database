@@ -14,6 +14,7 @@ wikipedia: http://en.wikipedia.org/wiki/On_Fire_(Galaxie_500_album)
 releases:
   - release:
     version: rough-trade-uk-lp
+    graph: true
     year: 1989
     releasedate: 1989
     type: album
@@ -40,7 +41,7 @@ releases:
             author: Krukowski/Wareham/Yang
           - title: Another Day
             author: Krukowski/Wareham/Yang
-          - title: Leave the Planet
+          - title: Leave The Planet
             author: Krukowski/Wareham/Yang
           - title: Plastic Bird
             author: Krukowski/Wareham/Yang
@@ -72,7 +73,7 @@ releases:
             author: Krukowski/Wareham/Yang
           - title: Another Day
             author: Krukowski/Wareham/Yang
-          - title: Leave the Planet
+          - title: Leave The Planet
             author: Krukowski/Wareham/Yang
           - title: Plastic Bird
             author: Krukowski/Wareham/Yang

@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Trocadero, Philadelphia PA, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "This Time Around",
   "Dear Diary",
   "Sideshow By The Seashore",
@@ -18,7 +18,7 @@ show-setlist: [
   "Tiger Lily",
   "Four Thousand Days",
   "Friendly Advice",
-  "Sweet Child O' Mine"
+  "Sweet Child o' Mine"
   ]
 show-date: 1999-12-11
 category: 1999

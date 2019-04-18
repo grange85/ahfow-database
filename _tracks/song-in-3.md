@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Song In 3
+title: Song in 3
 name: song-in-3
 type: ahfow_track
 track-id: 42

@@ -6,10 +6,11 @@ section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
 initial_release_date: 1995
-albumname: EP
+albumname: EP (No.6)
 releases:
   - release:
     version: number-six-ep
+    graph: true
     year: 1996
     releasedate: 1996
     type: single
@@ -25,7 +26,7 @@ releases:
        - title: Sideshow by the Seashore
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Thank You For Sending Me an Angel
+       - title: Thank You for Sending Me an Angel
          notes:
          author: David Byrne
        - title: The Moviegoer

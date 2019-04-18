@@ -15,8 +15,8 @@ show-setlist: [
   "Lost In Space",
   "Blue Thunder",
   "Tugboat",
-  "Ride Into The Sun",
-  "Don't Let Our Youth Go To Waste"
+  "Ride Into the Sun",
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 2013-12-06
 category: 2013

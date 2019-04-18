@@ -13,7 +13,7 @@ show-setlist: [
   "Time to Quit",
   "Freakin' and Peakin'",
   "Bonnie and Clyde",
-  "Sweet Child O' Mine"
+  "Sweet Child o' Mine"
   ]
 show-date: 2001-02-10
 category: 2001

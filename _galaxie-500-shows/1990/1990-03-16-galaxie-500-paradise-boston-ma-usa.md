@@ -12,7 +12,7 @@ show-setlist: [
   "Blue Thunder",
   "Ceremony",
   "Snowstorm",
-  "Don't Let Our Youth Go To Waste"
+  "Don't Let Our Youth Go to Waste"
   ]
 show-date: 1990-03-16
 category: 1990

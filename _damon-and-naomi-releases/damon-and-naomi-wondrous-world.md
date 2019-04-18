@@ -12,6 +12,7 @@ bandcamp-id: 1184884747
 releases:
   - release:
     version: sub-pop-vinyl
+    graph: true
     year: 1995
     releasedate: 1995
     type: album

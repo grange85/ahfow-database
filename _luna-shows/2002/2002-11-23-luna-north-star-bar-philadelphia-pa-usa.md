@@ -17,7 +17,7 @@ show-setlist: [
   "Black Postcards",
   "Teenage Lightning",
   "Fuzzy Wuzzy",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Tugboat",
   "Slash Your Tires"
   ]

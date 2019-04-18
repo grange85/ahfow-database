@@ -10,6 +10,7 @@ bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-20
 bandcamp-id: 2109597946
 releases:
   - release:
+    graph: true
     version: 202020-cd
     year: 2009
     releasedate: 2009-09-08

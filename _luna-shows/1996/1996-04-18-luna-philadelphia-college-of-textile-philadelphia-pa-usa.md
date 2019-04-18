@@ -3,7 +3,7 @@ layout: show
 artistslug: luna
 show-venue: 'Philadelphia College of Textile, Philadelphia PA, USA'
 show-setlist: [
-  "Season Of The Witch",
+  "Season of the Witch",
   "Slide",
   "Chinatown",
   "Smile",

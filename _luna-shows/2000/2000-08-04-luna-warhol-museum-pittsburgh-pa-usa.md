@@ -17,7 +17,7 @@ show-setlist: [
   "The Slow Song",
   "Four Thousand Days",
   "Bonnie and Clyde",
-  "Ride Into The Sun",
+  "Ride Into the Sun",
   "Fourth of July"
   ]
 show-date: 2000-08-04

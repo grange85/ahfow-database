@@ -25,6 +25,12 @@
 
       <tr>
         <th class="col-md-4">{{ ordinaldate }}</th>
-        <td class="col-md-8"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
+        <td class="col-md-8"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a><br/>
+          {% if show.artist.name %}<span class="label label-success">{{ show.artist.name }}</span>
+          {% else %}<span class="label label-success">{{ artist.name }}</span>
+          {% endif %}
+
+          {% if show.show-series %}<span class="label label-primary">{{ show.show-series }}</span>{% endif %}
+        </td>
       </tr>{% endif %}{% endfor %}
 </table>

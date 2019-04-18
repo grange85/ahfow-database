@@ -14,7 +14,7 @@ show-setlist: [
   "Knives From Bavaria",
   "You Turned My Head Around",
   "Malibu Love Nest",
-  "Bonnie And Clyde",
+  "Bonnie and Clyde",
   "Ceremony"
   ]
 show-date: 2008-02-28

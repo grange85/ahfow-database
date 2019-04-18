@@ -8,7 +8,7 @@ show-setlist: [
   "Plastic Bird",
   "Snowstorm",
   "Summertime",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Temperature's Rising",
   "Fourth of July",
   "Listen, the Snow Is Falling",

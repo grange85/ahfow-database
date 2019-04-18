@@ -17,7 +17,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Bewitched",
   "Freakin' and Peakin'",
-  "Sweet Child O' Mine",
+  "Sweet Child o' Mine",
   "Fourth of July",
   "23 Minutes in Brussels"
   ]

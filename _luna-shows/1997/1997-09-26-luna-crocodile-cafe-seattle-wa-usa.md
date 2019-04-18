@@ -19,7 +19,7 @@ show-setlist: [
   "IHOP",
   "Anesthesia",
   "Lost In Space",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 1997-09-26
 category: 1997

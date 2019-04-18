@@ -8,7 +8,7 @@ show-setlist: [
   "Decomposing Trees",
   "When Will You Come Home",
   "Hearing Voices",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Spook",
   "Listen, the Snow Is Falling",
   "Melt Away",

@@ -12,7 +12,7 @@ show-setlist: [
   "Tracy I Love You",
   "Tiger Lily",
   "Chinatown",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Pup Tent",
   "23 Minutes in Brussels",
   "Lost In Space",

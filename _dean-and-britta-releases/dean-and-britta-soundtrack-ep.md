@@ -12,6 +12,7 @@ releases:
     year: 2006
     releasedate: 2006
     type: ep
+    graph: true
     format: Digital
     label: Double Feature
     catno: DA-DBL-HOLIDAY-001

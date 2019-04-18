@@ -16,7 +16,7 @@ show-setlist: [
   "Lost In Space",
   "Bobby Peru",
   "Chinatown",
-  "Season Of The Witch",
+  "Season of the Witch",
   "Indian Summer"
   ]
 show-date: 1999-11-06

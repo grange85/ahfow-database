@@ -6,7 +6,7 @@ setlist-source: 'setlist scan'
 show-setlist: [
   "Time",
   "California (All The Way)",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tiger Lily",
   "Slash Your Tires",
   "Friendly Advice",

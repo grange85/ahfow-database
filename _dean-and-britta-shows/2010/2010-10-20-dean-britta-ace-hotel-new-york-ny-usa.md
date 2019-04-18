@@ -7,7 +7,7 @@ show-setlist: [
   "Eyes in My Smoke",
   "Tugboat",
   "Blue Thunder",
-  "Knives from Bavaria",
+  "Knives From Bavaria",
   "Strange"
   ]
 show-date: 2010-10-20

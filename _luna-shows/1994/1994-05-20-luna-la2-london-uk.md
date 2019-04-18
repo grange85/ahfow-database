@@ -6,7 +6,7 @@ setlist-source: 'recording'
 show-setlist: [
   "Crazy People",
   "California (All The Way)",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tiger Lily",
   "This Time Around",
   "Hold on (John)",

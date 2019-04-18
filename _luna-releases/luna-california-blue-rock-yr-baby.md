@@ -11,6 +11,7 @@ releases:
     version: feral-child-7
     year: 2017
     releasedate: 2017
+    graph: true
     type: single
     format: 7"
     label: Feral Child

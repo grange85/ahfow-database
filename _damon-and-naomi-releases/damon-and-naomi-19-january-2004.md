@@ -22,7 +22,7 @@ releases:
     groups:
     - group: CDr
       tracks:
-       - title: Araca Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue

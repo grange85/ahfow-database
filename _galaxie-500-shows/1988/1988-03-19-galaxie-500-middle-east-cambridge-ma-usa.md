@@ -4,7 +4,7 @@ artistslug: galaxie-500
 show-venue: 'The Middle East, Cambridge, MA, USA'
 show-setlist: [
   "Oblivious",
-  "I Can't Believe it's Me",
+  "I Can't Believe It's Me",
   "Back in Your Life",
   "Buzz in My Head"
   ]

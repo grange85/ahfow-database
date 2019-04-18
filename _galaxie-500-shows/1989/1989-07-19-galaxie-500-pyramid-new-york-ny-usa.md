@@ -5,7 +5,7 @@ show-venue: 'Pyramid, New York NY, USA'
 show-setlist: [
   "Plastic Bird",
   "Blue Thunder",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Decomposing Trees",
   "Temperature's Rising",
   "Ceremony"

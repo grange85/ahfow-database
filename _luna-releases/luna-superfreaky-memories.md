@@ -9,7 +9,8 @@ initial_release_date: 1999
 albumname: Superfreaky Memories
 releases:
   - release:
-    version: beggars-banquet-cd
+    version: beggars-banquet-cds
+    graph: true
     year: 1999
     releasedate: 1999
     type: single

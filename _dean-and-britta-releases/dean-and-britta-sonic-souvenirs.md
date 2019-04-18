@@ -13,6 +13,7 @@ releases:
     year: 2003
     releasedate: 2003
     type: album
+    graph: true
     format: CD
     label: Jetset
     catno: TWA68

@@ -8,7 +8,7 @@ show-setlist: [
   "Going Home",
   "Anesthesia",
   "Tiger Lily",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Friendly Advice",
   "We're Both Confused",
   "This Time Around",

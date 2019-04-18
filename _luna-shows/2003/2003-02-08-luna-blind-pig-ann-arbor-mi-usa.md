@@ -17,7 +17,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Black Postcards",
   "Fuzzy Wuzzy",
-  "Season Of The Witch",
+  "Season of the Witch",
   "23 Minutes in Brussels",
   "Moon Palace"
   ]

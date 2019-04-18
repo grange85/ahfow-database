@@ -9,6 +9,7 @@ imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_13mb.j
 releases:
   - release:
     version: double-feature-double-cd
+    graph: true
     year: 2010
     releasedate: 2010
     type: album
@@ -25,7 +26,7 @@ releases:
        - title: Silver Factory Theme
          notes:
          author: Phillips/Wareham/LaMarca/Sumrow
-       - title: I'll Keep it With Mine
+       - title: I'll Keep It With Mine
          notes: Scott Hardkiss remix
          author: Bob Dylan
        - title: Not a Young Man Anymore
@@ -52,7 +53,7 @@ releases:
        - title: Richard Rheem Theme
          notes:
          author: Phillips/Kember
-       - title: Knives from Bavaria
+       - title: Knives From Bavaria
          notes: (Spoonful of Fun) - Sonic Boom remix
          author: Wareham
        - title: Eyes in My Smoke
@@ -66,7 +67,7 @@ releases:
        - title: Incandescent Innocent
          notes: (Sanctus) - Sonic Boom remix
          author: Phillips/Wareham/LaMarca/Sumrow
-       - title: I'll Keep it With Mine
+       - title: I'll Keep It With Mine
          notes: Scott Hardkiss electric remix
          author: Bob Dylan
        - title: Silver Factory Theme
@@ -123,7 +124,7 @@ releases:
        - title: I Found it Not So
          notes:
          author: Popora
-       - title: I'll Keep it With Mine
+       - title: I'll Keep It With Mine
          notes: Scott Hardkiss electric remix
          author: Bob Dylan
        - title: Incandescent Innocent
@@ -138,7 +139,7 @@ releases:
        - title: Not a Young Man Anymore
          notes:
          author: Cale/Reed/Tucker/Morrison
-       - title: Knives from Bavaria
+       - title: Knives From Bavaria
          notes: (Spoonful of Fun) - Sonic Boom remix
          author: Wareham
   - release:
@@ -179,7 +180,7 @@ releases:
        - title: I Found it Not So
          notes:
          author: Popora
-       - title: I'll Keep it With Mine
+       - title: I'll Keep It With Mine
          notes: Scott Hardkiss electric remix
          author: Bob Dylan
     - group: C
@@ -193,7 +194,7 @@ releases:
        - title: Not a Young Man Anymore
          notes:
          author: Cale/Reed/Tucker/Morrison
-       - title: Knives from Bavaria
+       - title: Knives From Bavaria
          notes: (Spoonful of Fun) - Sonic Boom remix
          author: Wareham
 

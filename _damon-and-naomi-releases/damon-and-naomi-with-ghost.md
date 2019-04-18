@@ -11,6 +11,7 @@ bandcamp-url: https://damonandnaomi.bandcamp.com/album/damon-naomi-with-ghost
 bandcamp-id: 373077681
 releases:
   - release:
+    graph: true
     version: sub-pop-cd
     year: 2000
     releasedate: 2000
@@ -40,7 +41,7 @@ releases:
        - title: The Great Wall
          notes:
          author: Krukowski/Yang
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: Don't Forget
@@ -84,7 +85,7 @@ releases:
          author: Krukowski/Yang
     - group: B
       tracks:
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: Don't Forget
@@ -134,7 +135,7 @@ releases:
        - title: The Great Wall
          notes:
          author: Krukowski/Yang
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: Don't Forget
@@ -176,7 +177,7 @@ releases:
        - title: The Great Wall
          notes:
          author: Krukowski/Yang
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: Don't Forget
@@ -221,7 +222,7 @@ releases:
        - title: The Great Wall
          notes:
          author: Krukowski/Yang
-       - title: I Dreamed Of The Caucasus
+       - title: I Dreamed of the Caucasus
          notes:
          author: Krukowski/Yang
        - title: Don't Forget

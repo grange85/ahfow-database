@@ -5,7 +5,7 @@ show-venue: 'One Eyed Jacks, New Orleans, LA, USA'
 show-notes: ''
 show-setlist: 
 show-date: 2019-03-09
-date-added: 2019-01-10
+date-added: 2019-02-21
 category: 2019
 show-radio: 
 show-lastfm: 

@@ -12,6 +12,7 @@ releases:
     version: grange85-7
     year: 1999
     releasedate: 1999
+    graph: true
     type: single
     format: 7"
     label: Grange85

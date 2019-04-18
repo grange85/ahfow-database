@@ -9,6 +9,7 @@ initial_release_date: 1992
 albumname: Lunapark
 releases:
   - release:
+    graph: true
     version: elektra-cd
     year: 1992
     releasedate: 1992

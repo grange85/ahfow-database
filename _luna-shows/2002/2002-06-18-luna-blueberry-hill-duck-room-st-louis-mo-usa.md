@@ -19,7 +19,7 @@ show-setlist: [
   "Bonnie and Clyde",
   "Bewitched",
   "23 Minutes in Brussels",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 2002-06-18
 category: 2002

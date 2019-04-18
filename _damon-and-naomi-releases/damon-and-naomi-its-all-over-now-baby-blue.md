@@ -11,6 +11,7 @@ releases:
   - release:
     version: grimsey-single
     year: 1999
+    graph: true
     releasedate: 1999
     type: single
     format: 7"

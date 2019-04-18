@@ -15,7 +15,7 @@ show-setlist: [
   "Sideshow By The Seashore",
   "Into The Fold",
   "Superfreaky Memories",
-  "Sweet Child O' Mine",
+  "Sweet Child o' Mine",
   "Bonnie and Clyde",
   "Lost In Space",
   "Tiger Lily",

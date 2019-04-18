@@ -10,6 +10,7 @@ artist: Magic Hour
 releases:
   - release:
     version: twisted-village-cd
+    graph: true
     year: 1993
     releasedate: 1993
     type: album

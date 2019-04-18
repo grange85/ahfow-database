@@ -52,7 +52,7 @@ releases:
        - title: Oblivious
          notes:
          author: Krukowski/Wareham/Yang
-       - title: I Can't Believe it's Me
+       - title: I Can't Believe It's Me
          notes:
          author: Krukowski/Wareham/Yang
        - title: Walking Song
@@ -61,7 +61,7 @@ releases:
        - title: The Other Side
          notes:
          author: Krukowski/Wareham/Yang
-       - title: On The Floor
+       - title: On the Floor
          notes:
          author: Krukowski/Wareham/Yang
        - title: Rain
@@ -74,7 +74,7 @@ releases:
          notes: video
          author: Krukowski/Wareham/Yang
   - release:
-    version: rykodisc-cd
+    version: video-arts-japan-cd
     year: 2005
     releasedate: 2005
     type: album
@@ -115,7 +115,7 @@ releases:
        - title: Oblivious
          notes:
          author: Krukowski/Wareham/Yang
-       - title: I Can't Believe it's Me
+       - title: I Can't Believe It's Me
          notes:
          author: Krukowski/Wareham/Yang
        - title: Walking Song

@@ -12,6 +12,7 @@ releases:
     version: chimney-rocks-single
     year: 2007
     releasedate: 2007
+    graph: true
     type: single
     format: 7"
     label: Chimney Rocks!

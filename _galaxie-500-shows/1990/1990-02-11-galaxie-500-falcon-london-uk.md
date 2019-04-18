@@ -7,7 +7,7 @@ show-setlist: [
   "Snowstorm",
   "Plastic Bird",
   "Here She Comes Now",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Pictures",
   "Flowers",
   "When Will You Come Home",

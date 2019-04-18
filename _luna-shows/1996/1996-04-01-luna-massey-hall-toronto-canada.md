@@ -9,7 +9,7 @@ show-setlist: [
   "23 Minutes in Brussels",
   "Sideshow By The Seashore",
   "That's What You Always Say",
-  "Ride Into The Sun"
+  "Ride Into the Sun"
   ]
 show-date: 1996-04-01
 category: 1996

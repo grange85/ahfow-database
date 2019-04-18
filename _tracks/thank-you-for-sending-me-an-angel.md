@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Thank You For Sending Me An Angel
+title: Thank You for Sending Me an Angel
 name: thank-you-for-sending-me-an-angel
 type: ahfow_track
 track-id: 110

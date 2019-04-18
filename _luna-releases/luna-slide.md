@@ -9,7 +9,8 @@ initial_release_date: 1993
 albumname: Slide
 releases:
   - release:
-    version: elektra-single-cd
+    version: elektra-single-cds
+    graph: true
     year: 1993
     releasedate: 1993
     type: single

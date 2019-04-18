@@ -43,6 +43,18 @@
 							{% endfor %}
 						</ul>
 						{% endif %}
+
+						{% if page.ahfow-posts %}
+						</ul>
+							<h3>Posts</h3>
+							<ul>
+							{% for ahfow in page.ahfow-posts %}
+								<li><a href="{{ahfow.post-url}} ">{{ahfow.post-title}}</a></li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+
+
 					</div>
 				</div>
 
@@ -72,7 +84,7 @@
 							<pre>{{page.track-guitar}}</pre>
 						{% endif %}     
 					</div>
-				{% if page.layout == 'release' or page.layout == 'track' or page.lauyut == 'show' %}
+				{% if page.layout == 'release' or page.layout == 'track' or page.layout == 'show' %}
 				<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 				{% endif %}
 				</div>

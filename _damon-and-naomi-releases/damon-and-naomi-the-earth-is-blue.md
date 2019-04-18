@@ -12,6 +12,7 @@ bandcamp-id: 4211041915
 releases:
   - release:
     version: 202020-cd
+    graph: true
     year: 2005
     releasedate: 2005
     type: album
@@ -48,7 +49,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Araca Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -94,7 +95,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Ara&ccedil;&aacute; Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -138,7 +139,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Ara&ccedil;&aacute; Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -182,7 +183,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Ara&ccedil;&aacute; Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -191,7 +192,7 @@ releases:
     - group: CD Bonus
       tracks:
        - title: Beautiful Close Double
-         notes:
+         notes: single
          author: Krukowski/Yang
        - title: A Song for You
          notes:
@@ -236,7 +237,7 @@ releases:
        - title: The Robot Speaks
          notes:
          author: Krukowski/Yang
-       - title: Ara&ccedil;&aacute; Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue

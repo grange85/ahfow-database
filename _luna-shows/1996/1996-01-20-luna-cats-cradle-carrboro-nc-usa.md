@@ -18,7 +18,7 @@ show-setlist: [
   "Freakin' and Peakin'",
   "Bewitched",
   "Hedgehog",
-  "Season Of The Witch"
+  "Season of the Witch"
   ]
 show-date: 1996-01-20
 category: 1996

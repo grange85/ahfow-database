@@ -33,7 +33,7 @@ releases:
        - title: ^The Wind's Twelve Quarters
          author: Michio Kurihara / Your Ishihara
        - title: A Second Life
-       - title: Araca Azul
+       - title: Araçá Azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue

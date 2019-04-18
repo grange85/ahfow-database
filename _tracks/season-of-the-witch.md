@@ -1,7 +1,7 @@
 ---
 layout: track
 categories: track
-title: Season Of The Witch
+title: Season of the Witch
 name: season-of-the-witch
 type: ahfow_track
 track-id: 118

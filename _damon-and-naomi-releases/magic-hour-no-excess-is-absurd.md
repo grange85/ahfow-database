@@ -12,12 +12,13 @@ bandcamp-id: 3380459093
 artist: Magic Hour
 releases:
   - release:
+    graph: true
     version: che-lp
     year: 1994
     releasedate: 1994
     type: album
     format: LP
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 20LP
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
     mbid:
@@ -55,7 +56,7 @@ releases:
     releasedate: 1994
     type: album
     format: CD
-    label: Ch&eacute;
+    label: Ché
     catno: CHE 20
     imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_noexcess.jpg
     mbid:

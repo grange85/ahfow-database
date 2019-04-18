@@ -11,6 +11,7 @@ releases:
     version: rocker-supernova-7
     year: 1998
     releasedate: 1998
+    graph: true
     type: single
     format: 7"
     label: ROCKER! Supernova Records

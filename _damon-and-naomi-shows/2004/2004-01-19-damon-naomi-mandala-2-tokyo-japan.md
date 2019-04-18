@@ -3,7 +3,7 @@ layout: show
 artistslug: damon-and-naomi
 show-venue: 'Mandala-2, Tokyo, Japan'
 show-setlist: [
-  "Araca Azul",
+  "Araçá Azul",
   "The Earth is Blue",
   "A Second Life",
   "Song To The Siren",

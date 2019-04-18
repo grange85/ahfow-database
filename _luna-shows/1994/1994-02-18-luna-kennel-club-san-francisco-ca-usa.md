@@ -16,7 +16,7 @@ show-setlist: [
   "Time to Quit",
   "Hold on (John)",
   "Indian Summer",
-  "Thank You For Sending Me An Angel",
+  "Thank You for Sending Me an Angel",
   "Tugboat"
   ]
 show-date: 1994-02-18

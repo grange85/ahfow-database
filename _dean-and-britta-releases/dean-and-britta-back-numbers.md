@@ -11,10 +11,11 @@ releases:
   - release:
     version: zoe-cd
     year: 2007
+    graph: true
     releasedate: 2007
     type: album
     format: CD
-    label: Zo&euml;
+    label: Zoë
     catno: 01143-1105-2
     imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_backnumbers.jpg
     mbid:

@@ -10,6 +10,7 @@ imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavven
 releases:
   - release:
     version: jetset-cd
+    graph: true
     year: 2003
     releasedate: 2003
     type: album

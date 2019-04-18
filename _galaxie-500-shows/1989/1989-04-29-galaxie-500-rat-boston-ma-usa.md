@@ -10,7 +10,7 @@ show-setlist: [
   "Temperature's Rising",
   "Strange",
   "Rain",
-  "Don't Let Our Youth Go To Waste",
+  "Don't Let Our Youth Go to Waste",
   "Tugboat"
   ]
 show-date: 1989-04-29

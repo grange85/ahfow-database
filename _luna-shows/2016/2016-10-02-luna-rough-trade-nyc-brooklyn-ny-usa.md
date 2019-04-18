@@ -18,7 +18,7 @@ show-setlist:
  - ^encore
  - Slide
  - Lovedust
- - Season Of The Witch
+ - Season of the Witch
  - Fuzzy Wuzzy
 show-date: 2016-10-02
 date-added: 2016-05-02

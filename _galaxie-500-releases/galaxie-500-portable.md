@@ -42,7 +42,7 @@ releases:
        - title: Fourth of July
          notes:
          author: Krukowski/Wareham/Yang
-       - title: Don't Let Our Youth Go To Waste
+       - title: Don't Let Our Youth Go to Waste
          notes:
          author: Jonathan Richman
        - title: Strange
