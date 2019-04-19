@@ -9,6 +9,7 @@ script: jekyll build --future
 branches:
   only:
   - master     # test the gh-pages branch
+  - develop
 
 addons:
   apt:
