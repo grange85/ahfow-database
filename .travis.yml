@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.4.1
 
-install: gem install jekyll jekyll-feed bootstrap-sass jekyll-archives jekyll-paginate bundler
+install: gem install jekyll jekyll-feed bootstrap-sass bundler
 script: jekyll build --future
 
 # branch whitelist, only for GitHub Pages
