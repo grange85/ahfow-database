@@ -11,8 +11,7 @@ script: jekyll build --future
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master     # test the gh-pages branch
-  - develop
+  - master
 
 addons:
   apt:
