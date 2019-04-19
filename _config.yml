@@ -113,7 +113,9 @@ exclude: [
     '_notes',
     'Gemfile',
     'Gemfile.lock',
-    'vendor'
+    'vendor',
+    's3cfg-prog',
+    's3cfg-prog.enc',
   ]
 plugins: [
         bootstrap-sass
