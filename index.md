@@ -18,9 +18,9 @@ position: home
 					<h3><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
 					<ul>
 						{% if artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" or artist.slug == "britta-phillips" %} 
-						<li><a href="/dean-and-britta/{{artist.slug}}-releases/">{{artist.name}} releases</a></li>
+						<li><a href="/dean-and-britta/{{artist.slug}}-releases/">{{artist.name}} discography</a></li>
 						{% else %}
-						<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
+						<li><a href="/{{artist.slug}}/releases/">{{artist.name}} discography</a></li>
 						{% endif %}
 						<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{{artist.name}} shows</a></li>
 					</ul>

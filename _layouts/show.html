@@ -28,9 +28,9 @@
 						<nav>
 							<ul class="breadcrumb">
 								<li><a href="/">Home</a></li>
-								<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-								<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
-								<li><a href="/{{artist.slug}}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
+								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
 								<li>{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
 							</ul>
 						</nav>

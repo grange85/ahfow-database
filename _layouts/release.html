@@ -19,8 +19,20 @@
 						<nav>
 							<ul class="breadcrumb">
 								<li><a href="/">Home</a></li>
-								<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
-								<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
+								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+
+
+							{% case artist.slug %}
+							{% when "dean-and-britta" %}
+								<li><a href="/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
+							{% when "dean-wareham" %}
+								<li><a href="/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
+							{% when "britta-phillips" %}
+								<li><a href="/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+							{% else %}
+								<li><a href="/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+							{% endcase %}
+
 								<li>{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}</li>
 							</ul>
 						</nav>
