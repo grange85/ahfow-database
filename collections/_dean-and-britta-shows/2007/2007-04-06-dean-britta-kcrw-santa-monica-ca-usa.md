@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'KCRW, Santa Monica CA, USA'
 show-setlist: [
   "The Sun Is Still Sunny",

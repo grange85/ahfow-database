@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Abrons Art Center, New York NY, USA'
 show-setlist: 
 show-date: 2006-12-16

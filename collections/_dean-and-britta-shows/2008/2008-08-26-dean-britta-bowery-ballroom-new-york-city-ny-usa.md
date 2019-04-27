@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Bowery Ballroom, New York City, NY, USA'
 show-setlist: 
 show-date: 2008-08-26

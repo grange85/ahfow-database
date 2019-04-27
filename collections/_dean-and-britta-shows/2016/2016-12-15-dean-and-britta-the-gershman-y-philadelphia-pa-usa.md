@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Gershman Y, Philadeplhia, PA, USA'
 show-setlist: [
   "Richard Rheem Theme",

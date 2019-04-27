@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Vortex, Siegen, Germany'
 show-setlist: [
   "Singer Sing",

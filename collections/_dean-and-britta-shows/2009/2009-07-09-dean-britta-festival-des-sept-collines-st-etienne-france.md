@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Festival des Sept Collines. St Etienne, France'
 show-setlist: [
   "Richard Rheem Theme",

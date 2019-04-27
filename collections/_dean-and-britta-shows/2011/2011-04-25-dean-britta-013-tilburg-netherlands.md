@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: '013, Tilburg, Netherlands'
 show-setlist: 
 show-date: 2011-04-25

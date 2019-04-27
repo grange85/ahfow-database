@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'ICA, Boston, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",

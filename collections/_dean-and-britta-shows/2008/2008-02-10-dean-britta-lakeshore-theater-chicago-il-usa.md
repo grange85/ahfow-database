@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Lakeshore Theater, Chicago IL, USA'
 show-setlist: [
   "We're Not Supposed to Be Lovers",

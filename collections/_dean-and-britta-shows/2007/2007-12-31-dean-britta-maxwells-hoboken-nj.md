@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Maxwells, Hoboken NJ'
 show-setlist: [
   "Rock Your Baby",

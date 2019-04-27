@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'TT the Bears, Cambridge MA, USA'
 show-setlist: 
 show-date: 2003-06-25

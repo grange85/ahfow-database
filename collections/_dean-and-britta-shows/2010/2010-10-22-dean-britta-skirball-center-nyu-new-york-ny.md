@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Skirball Center, NYU, New York, NY'
 show-setlist: [
   "Richard Rheem Theme",

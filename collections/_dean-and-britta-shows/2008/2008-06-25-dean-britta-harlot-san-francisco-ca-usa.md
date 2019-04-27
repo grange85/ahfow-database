@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Harlot, San Francisco CA, USA'
 show-setlist: 
 show-date: 2008-06-25

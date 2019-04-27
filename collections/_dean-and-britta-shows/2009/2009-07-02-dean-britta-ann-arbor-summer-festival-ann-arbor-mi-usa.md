@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Ann Arbor Summer Festival, Ann Arbor, MI, USA'
 show-setlist: [
   "Richard Rheem Theme",

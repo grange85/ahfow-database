@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'FNAC, Madrid, Spain'
 show-setlist: 
 show-date: 2003-07-01

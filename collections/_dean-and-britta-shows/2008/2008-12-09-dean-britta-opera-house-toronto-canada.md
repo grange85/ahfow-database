@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Opera House, Toronto, Canada'
 show-setlist: 
 show-date: 2008-12-09

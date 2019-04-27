@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: "Yoshi's, San Francisco, CA, USA"
 show-setlist: 
 show-date: 2009-10-08

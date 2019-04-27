@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Ace Hotel, New York, NY, USA'
 show-setlist: [
   "I'll Keep It With Mine",

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Mass MoCA, North Adams, MA, USA'
 show-setlist: [
   "Richard Rheem Theme",

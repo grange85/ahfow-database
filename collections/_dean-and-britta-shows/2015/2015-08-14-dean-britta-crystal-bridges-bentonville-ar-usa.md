@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: Crystal Bridges Museum of American Art, Bentonville, AR, USA
 show-setlist: [
   "Richard Rheem Theme",

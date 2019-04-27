@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Teatro Lara, Madrid, Spain'
 show-setlist: 
 show-date: 2011-02-24

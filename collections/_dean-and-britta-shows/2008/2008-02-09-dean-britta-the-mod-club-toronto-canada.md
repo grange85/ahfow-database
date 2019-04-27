@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Mod Club, Toronto, Canada'
 setlist-source: 'http://flickr.com/photos/quadb/2254428124/'
 show-setlist: [

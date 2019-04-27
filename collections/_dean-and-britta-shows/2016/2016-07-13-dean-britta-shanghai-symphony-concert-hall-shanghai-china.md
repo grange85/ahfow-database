@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: Shanghai Symphony Concert Hall, Shanghai, China
 show-setlist: [
   "Richard Rheem Theme",

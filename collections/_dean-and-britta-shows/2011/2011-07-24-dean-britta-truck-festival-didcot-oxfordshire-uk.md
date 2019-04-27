@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Truck Festival, Didcot, Oxfordshire, UK'
 show-setlist: 
 show-date: 2011-07-24

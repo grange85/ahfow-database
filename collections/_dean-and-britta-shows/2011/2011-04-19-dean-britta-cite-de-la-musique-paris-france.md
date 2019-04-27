@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Cite de La Musique, Paris, France'
 show-setlist: [
   "Richard Rheem Theme",

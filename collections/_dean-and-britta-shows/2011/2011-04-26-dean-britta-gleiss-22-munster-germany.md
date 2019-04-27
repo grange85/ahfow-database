@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Gleiss 22, Munster, Germany'
 show-setlist: 
 show-date: 2011-04-26

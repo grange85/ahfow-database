@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Cabaret Du Musee Juste Pour Rire, Montreal, Canada'
 show-setlist: 
 show-date: 2008-02-08

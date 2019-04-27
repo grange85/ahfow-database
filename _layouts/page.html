@@ -27,12 +27,16 @@
 				<div class="row">
 					<div class="col-md-12">
 						<img class="centre-block img-responsive" src="{{artist.image}}" alt="{{artist.name}} picture" />
-						<nav class="navbar">
-							<ul class="nav nav-pills nav-justified primary">
-								<li><a href="/{{artist.slug}}/releases/" >{{artist.name}} releases</a></li>
-								<li><a href="/{{artist.slug}}/shows/" >{{artist.name}} shows</a></li>
+							<ul class="list-unstyled">
+							{% if artist.slug == "dean-and-britta" %}
+								<li><a class="btn btn-primary" href="/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
+								<li><a class="btn btn-primary" href="/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
+								<li><a class="btn btn-primary" href="/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+							{% else %}
+								<li><a class="btn btn-primary" href="/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+							{% endif %}
+								<li><a class="btn btn-primary" href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
 							</ul>
-						</nav>
 					</div>
 				</div>
 				{% endif %}

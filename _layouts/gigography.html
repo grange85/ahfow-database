@@ -4,7 +4,7 @@
 {% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Collection of all known shows played by {{artist.name}} {% if page.year %} in {{page.year}}{%else%}{% unless artist.slug=='galaxie-500' %} including any forthcoming shows{% endunless %}{% endif %}{% endcapture %}
 {% endif %}
-	{% capture newtitle %}{{artist.name}} shows{% endcapture %}
+	{% capture newtitle %}{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows{% endcapture %}
 	{% include head.html %}
 <body>
 	{% include tagmanager.html %}
@@ -18,12 +18,12 @@
 					<nav>
 						<ul class="breadcrumb">
 							<li><a href="/">Home</a></li>
-							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+							<li><a href="/{{artist.slug}}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 							{% if page.year %}
-								<li><a href="/{{artist.slug}}/shows">{{artist.name}} shows</a></li>
+								<li><a href="/{{artist.slug}}/shows">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
 								<li>{{page.year}}</li>
 							{% else %}
-								<li>{{artist.name}} shows</li>
+								<li>{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</li>
 							{% endif %}
 						</ul>
 					</nav>
@@ -55,10 +55,6 @@
 					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year %}
 				{% when 'dean-and-britta' %}
 					{% assign shows = site.dean-and-britta-shows | where: "category", page.year %}
-				{% when 'dean-wareham' %}
-					{% assign shows = site.dean-wareham-shows | where: "category", page.year %}
-				{% when 'britta-phillips' %}
-					{% assign shows = site.britta-phillips-shows | where: "category", page.year %}
 			{% endcase %}
 			<div class="row">
 				<div class="col-md-12">

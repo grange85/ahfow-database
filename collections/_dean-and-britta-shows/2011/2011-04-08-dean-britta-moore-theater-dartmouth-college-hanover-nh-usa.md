@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Moore Theater, Dartmouth College, Hanover NH, USA'
 show-setlist: [
   "Richard Rheem Theme",

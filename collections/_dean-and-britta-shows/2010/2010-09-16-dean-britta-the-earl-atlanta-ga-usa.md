@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Earl, Atlanta, GA, USA'
 show-setlist: 
 show-date: 2010-09-16

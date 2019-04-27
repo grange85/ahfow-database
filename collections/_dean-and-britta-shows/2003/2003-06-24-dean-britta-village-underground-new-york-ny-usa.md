@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Village Underground, New York NY, USA'
 show-setlist: 
  - title: Night Nurse

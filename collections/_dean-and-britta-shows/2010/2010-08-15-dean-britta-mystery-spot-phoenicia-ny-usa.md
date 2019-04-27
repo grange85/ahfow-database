@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Mystery Spot, Phoenicia, NY, USA'
 show-setlist: 
 show-date: 2010-08-15

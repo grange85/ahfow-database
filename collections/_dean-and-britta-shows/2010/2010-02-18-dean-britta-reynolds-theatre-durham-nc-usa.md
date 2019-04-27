@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Reynolds Theatre, Durham, NC, USA'
 show-setlist: [
   "Richard Rheem Theme",

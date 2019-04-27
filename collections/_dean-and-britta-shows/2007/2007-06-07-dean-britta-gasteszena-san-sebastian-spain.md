@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Gasteszena, San Sebastian, Spain'
 show-setlist: 
 show-date: 2007-06-07

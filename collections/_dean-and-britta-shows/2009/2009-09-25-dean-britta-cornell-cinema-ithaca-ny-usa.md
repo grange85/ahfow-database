@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Cornell Cinema, Ithaca, NY, USA'
 show-setlist: [
   "Richard Rheem Theme",

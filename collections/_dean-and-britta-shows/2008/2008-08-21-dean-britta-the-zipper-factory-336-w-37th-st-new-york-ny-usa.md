@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Zipper Factory, 336 W. 37th St, New York NY, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

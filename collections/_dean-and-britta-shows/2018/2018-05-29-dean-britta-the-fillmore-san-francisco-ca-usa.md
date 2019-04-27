@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Fillmore, San Francisco, CA, USA'
 show-notes: ''
 show-setlist:

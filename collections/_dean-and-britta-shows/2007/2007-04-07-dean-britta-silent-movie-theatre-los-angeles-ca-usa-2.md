@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Silent Movie Theatre, Los Angeles CA, USA'
 show-setlist: [
   "Singer Sing",

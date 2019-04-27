@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Emery, Cincinnati, Ohio, USA'
 show-setlist: [
   "Richard Rheem Theme",

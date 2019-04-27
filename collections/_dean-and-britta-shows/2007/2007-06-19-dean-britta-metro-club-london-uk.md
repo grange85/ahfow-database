@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Metro Club, London, UK'
 show-setlist: [
   "Singer Sing",

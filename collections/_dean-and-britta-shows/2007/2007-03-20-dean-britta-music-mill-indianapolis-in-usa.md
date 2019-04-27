@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Music Mill, Indianapolis IN, USA'
 show-setlist: [
   "Singer Sing",

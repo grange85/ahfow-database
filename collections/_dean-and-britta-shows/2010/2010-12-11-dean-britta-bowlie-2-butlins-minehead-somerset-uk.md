@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Bowlie 2, Butlins, Minehead, Somerset, UK'
 show-setlist: 
 show-date: 2010-12-11

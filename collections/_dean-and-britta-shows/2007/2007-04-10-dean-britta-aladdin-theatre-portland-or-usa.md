@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Aladdin Theatre, Portland OR, USA'
 show-setlist: [
   "Singer Sing",

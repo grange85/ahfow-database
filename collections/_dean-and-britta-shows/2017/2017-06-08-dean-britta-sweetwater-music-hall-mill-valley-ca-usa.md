@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Sweetwater Music Hall, Mill Valley, CA, USA'
 show-notes: ''
 show-setlist: 

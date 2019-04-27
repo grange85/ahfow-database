@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Iron Horse, Northampton MA, USA'
 show-setlist: 
 show-date: 2007-07-14

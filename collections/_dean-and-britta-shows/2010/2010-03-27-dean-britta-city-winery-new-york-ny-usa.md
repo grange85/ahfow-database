@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'City Winery, New York, NY, USA'
 show-setlist: 
 show-date: 2010-03-27

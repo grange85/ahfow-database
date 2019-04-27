@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Kings Arms, Auckland, New Zealand'
 show-setlist: 
 show-date: 2011-10-20

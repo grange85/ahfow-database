@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Highline Ballroom, New York NY, USA'
 show-setlist: 
 show-date: 2008-12-07

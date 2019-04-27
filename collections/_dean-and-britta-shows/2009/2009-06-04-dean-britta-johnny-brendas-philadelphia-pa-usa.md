@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: "Johnny Brenda's, Philadelphia, PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Luna Lounge, Brooklyn NY, USA'
 show-setlist: 
 show-date: 2007-06-02

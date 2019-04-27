@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Museum of Contemporary Art Theater, Chicago IL, USA'
 show-setlist: 
 show-date: 2009-03-07

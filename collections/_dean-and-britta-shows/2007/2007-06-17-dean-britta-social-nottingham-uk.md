@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Social, Nottingham, UK'
 show-setlist: 
  - title: Words You Used To Say

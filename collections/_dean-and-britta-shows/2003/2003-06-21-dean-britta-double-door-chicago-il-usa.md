@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Double Door, Chicago IL, USA'
 show-setlist: 
  - title: Night Nurse 

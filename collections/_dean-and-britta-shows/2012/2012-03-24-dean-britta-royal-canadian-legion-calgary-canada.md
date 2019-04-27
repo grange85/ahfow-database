@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Royal Canadian Legion, Calgary, Canada'
 show-setlist: 
 show-date: 2012-03-24

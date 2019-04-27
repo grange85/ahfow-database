@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'National Gallery of Art, Washington DC, USA'
 show-setlist: [
   "Richard Rheem Theme",

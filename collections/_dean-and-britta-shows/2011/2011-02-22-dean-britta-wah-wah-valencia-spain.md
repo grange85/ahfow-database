@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Wah Wah, Valencia, Spain'
 show-setlist: 
 show-date: 2011-02-22

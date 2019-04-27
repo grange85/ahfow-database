@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Tanned Tin 2010, Teatre Principal, Castellon, Spain'
 show-setlist: 
 show-date: 2010-01-28

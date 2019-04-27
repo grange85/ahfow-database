@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Abrons Arts Center, New York, NY, USA'
 show-setlist: [
   "Richard Rheem Theme",

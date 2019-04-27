@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Sussex Arts Club, Brighton, UK'
 show-setlist: 
  - title: Singer Sing

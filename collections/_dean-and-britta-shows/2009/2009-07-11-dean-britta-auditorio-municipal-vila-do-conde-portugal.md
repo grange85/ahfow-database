@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Auditorio Municipal, Vila do Conde, Portugal'
 show-setlist: [
   "Richard Rheem Theme",

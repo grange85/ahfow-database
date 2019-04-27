@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Variety Playhouse, Atlanta GA, USA'
 show-setlist: [
   "Singer Sing",

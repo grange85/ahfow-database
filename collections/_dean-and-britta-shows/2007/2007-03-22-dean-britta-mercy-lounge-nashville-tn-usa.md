@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Mercy Lounge, Nashville TN, USA'
 show-setlist: [
   "Singer Sing",

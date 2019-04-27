@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Gleis 22, Munster, Germany'
 show-setlist: [
   "Singer Sing",

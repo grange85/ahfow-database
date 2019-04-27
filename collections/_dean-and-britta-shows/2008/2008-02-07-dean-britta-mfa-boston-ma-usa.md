@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'MFA, Boston MA, USA'
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [

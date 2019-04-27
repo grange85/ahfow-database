@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Maxwells, Hoboken NJ, USA'
 show-setlist: 
 show-date: 2007-04-28

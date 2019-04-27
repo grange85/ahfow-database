@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Carnegie Lecture Hall, Pittsburgh, PA, USA'
 show-setlist: 
 show-date: 2011-01-15

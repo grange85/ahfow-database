@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Cats Cradle, Carrboro NC, USA'
 show-setlist: 
 show-date: 2007-03-24

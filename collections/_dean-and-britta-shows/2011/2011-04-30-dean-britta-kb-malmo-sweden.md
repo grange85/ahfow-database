@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'KB, Malmo, Sweden'
 show-setlist: 
 show-date: 2011-04-30

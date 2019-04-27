@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Klangstation, Bonn, Germany'
 show-setlist: 
 show-date: 2007-12-05

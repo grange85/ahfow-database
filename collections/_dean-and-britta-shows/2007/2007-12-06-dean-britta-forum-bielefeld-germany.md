@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Forum, Bielefeld, Germany'
 show-setlist: 
 show-date: 2007-12-06

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: "Antones, Austin, TX, USA"
 show-setlist: 
 - Flowers

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Occupy Wall Street, Duarte Square, New York, NY, USA'
 show-setlist: [
   "Tugboat",

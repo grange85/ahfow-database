@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Sin-e, New York NY, USA'
 show-setlist: 
 show-date: 2003-10-18

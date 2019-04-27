@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Walker Arts Center, Minneapolis MN, USA '
 show-setlist: [
   "Richard Rheem Theme",

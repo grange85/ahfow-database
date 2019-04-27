@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Carnegie Hall, Dunfermline, UK'
 show-setlist: [
   "Richard Rheem Theme",

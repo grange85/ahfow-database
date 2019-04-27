@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Rams Head Tavern, Annapolis MD, USA'
 show-setlist: [
   "Singer Sing",

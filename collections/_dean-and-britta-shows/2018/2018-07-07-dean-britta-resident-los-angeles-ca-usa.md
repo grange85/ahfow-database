@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Resident, Los Angeles, CA, USA'
 show-notes: ''
 show-setlist:

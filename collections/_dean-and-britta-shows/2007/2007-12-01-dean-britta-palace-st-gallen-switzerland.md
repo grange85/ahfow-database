@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Palace, St. Gallen, Switzerland'
 show-setlist: 
 show-date: 2007-12-01

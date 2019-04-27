@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Mod Club, Toronto, Canada'
 show-setlist: [
   "Singer Sing",

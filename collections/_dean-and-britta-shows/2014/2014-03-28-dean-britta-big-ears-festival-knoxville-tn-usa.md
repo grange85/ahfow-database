@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Big Ears Festival, Knoxville, TN, USA'
 show-setlist: [
   "Richard Rheem Theme",

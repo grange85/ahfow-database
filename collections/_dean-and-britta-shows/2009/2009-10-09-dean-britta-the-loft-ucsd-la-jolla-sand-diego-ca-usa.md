@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Loft, UCSD, La Jolla, Sand Diego, CA, USA'
 show-setlist: [
   "Richard Rheem Theme",

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Black Cat, Washington DC, USA'
 show-setlist: [
   "Teenage Lightning",

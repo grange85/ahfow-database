@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: Centre Pompidou-Metz, Metz, France
 show-setlist: [
   "Richard Rheem Theme",

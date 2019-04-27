@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Hemlock Tavern, San Francisco, CA, USA'
 show-setlist: [
   "When Will You Come Home",

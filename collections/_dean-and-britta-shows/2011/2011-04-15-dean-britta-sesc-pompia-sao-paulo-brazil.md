@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'SESC Pompéia, Sao Paulo, Brazil'
 show-setlist: 
 show-date: 2011-04-15

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Le Lieu Unique, Nantes, France'
 show-setlist: [
   "Richard Rheem Theme",

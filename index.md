@@ -8,22 +8,28 @@ position: home
 	{% capture status %}{% cycle section_name: 'a', 'b' %}{% endcapture %}
 	{% assign artist = artistslugs[0] %}
 	{% assign artist = site.data.artists[artist] %}
-	<div class="col-sm-6 col-md-6">
-		<div class="thumbnail">
-			<a href="/{{artist.slug}}/">
-			<img class="media-object img-rounded  img-responsive" src="{{artist.image}}" alt="{{artist.name}} thumbnail" />
-			</a>
-			<div class="caption">
-				<h3><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
-				<ul>
-					<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
-					<li><a href="/{{artist.slug}}/shows/">{{artist.name}} shows</a></li>
-				</ul>
+	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" or artist.slug == "britta-phillips" %}
+		<div class="col-sm-6 col-md-6">
+			<div class="thumbnail">
+				<a href="/{{artist.slug}}/">
+				<img class="media-object img-rounded  img-responsive" src="{{artist.image}}" alt="{{artist.name}} thumbnail" />
+				</a>
+				<div class="caption">
+					<h3><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
+					<ul>
+						{% if artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" or artist.slug == "britta-phillips" %} 
+						<li><a href="/dean-and-britta/{{artist.slug}}-releases/">{{artist.name}} releases</a></li>
+						{% else %}
+						<li><a href="/{{artist.slug}}/releases/">{{artist.name}} releases</a></li>
+						{% endif %}
+						<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{{artist.name}} shows</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
-	</div>
-	{% if status == 'b' %}
-		</div><div class="row">
+		{% if status == 'b' %}
+			</div><div class="row">
+		{% endif %}
 	{% endif %}
 {% endfor %}
 	<div class="col-sm-6 col-md-6">

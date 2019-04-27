@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'KEXP, Seattle WA, USA'
 show-setlist: [
   "Knives From Bavaria",

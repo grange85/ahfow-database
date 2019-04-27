@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'City Winery, New York City, NY, USA'
 show-setlist: 
 show-date: 2012-04-28

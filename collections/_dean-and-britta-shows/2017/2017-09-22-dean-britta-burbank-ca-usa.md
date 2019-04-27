@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Burbank, CA, USA'
 show-notes: ''
 show-setlist: 

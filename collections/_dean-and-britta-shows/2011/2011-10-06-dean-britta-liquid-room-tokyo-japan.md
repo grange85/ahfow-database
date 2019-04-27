@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Liquid Room, Tokyo, Japan'
 show-setlist: 
 show-date: 2011-10-06

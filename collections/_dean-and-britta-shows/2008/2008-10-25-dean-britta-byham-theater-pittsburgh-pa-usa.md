@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Byham Theater, Pittsburgh PA, USA'
 show-setlist: [
   "Richard Rheem Theme",

@@ -1,6 +1,6 @@
 ---
 layout: gigography
-title : Dean & Britta shows
+title : Dean Wareham / Britta Phillips shows
 artistslug: dean-and-britta
 categories: primary
 section: topindex

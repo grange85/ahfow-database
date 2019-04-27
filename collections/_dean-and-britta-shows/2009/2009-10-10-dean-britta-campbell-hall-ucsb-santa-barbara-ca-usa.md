@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Campbell Hall, UCSB, Santa Barbara, CA, USA'
 show-setlist: [
   "Richard Rheem Theme",

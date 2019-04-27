@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'El Lokal, Zurich, Switzerland'
 show-setlist: 
 show-date: 2007-12-02

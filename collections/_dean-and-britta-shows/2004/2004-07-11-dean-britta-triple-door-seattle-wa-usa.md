@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Triple Door, Seattle WA, USA'
 show-setlist: 
 show-date: 2004-07-11

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Keith Albee Theater, Huntington, WV, USA'
 show-setlist: [
   "Richard Rheem Theme",

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: "Schuba's, Chicago IL, USA"
 show-setlist: [
   "Singer Sing",

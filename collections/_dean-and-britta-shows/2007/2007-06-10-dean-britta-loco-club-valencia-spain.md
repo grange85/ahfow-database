@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Loco Club, Valencia, Spain'
 show-setlist: [
   "Words You Used To Say",

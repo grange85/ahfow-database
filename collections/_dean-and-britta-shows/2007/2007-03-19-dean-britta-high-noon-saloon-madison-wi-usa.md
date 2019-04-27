@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'High Noon Saloon, Madison WI, USA'
 show-setlist: [
   "Singer Sing",

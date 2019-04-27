@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Pure Pop Records, Melbourne, Australia'
 show-setlist: [
   "Tiger Lily",

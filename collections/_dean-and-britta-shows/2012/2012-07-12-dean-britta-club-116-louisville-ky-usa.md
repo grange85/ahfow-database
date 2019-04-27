@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Club 116, Louisville, KY, USA'
 show-setlist: 
 show-date: 2012-07-12

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Goode Crowley Theater, Marfa TX, USA'
 show-setlist: 
 show-date: 2008-02-22

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Eglise St Eustache, Paris, France'
 show-setlist: [
   "Richard Rheem Theme",

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Teatro de la Laboral, Gijon, Spain'
 show-setlist: [
   "Richard Rheem Theme",

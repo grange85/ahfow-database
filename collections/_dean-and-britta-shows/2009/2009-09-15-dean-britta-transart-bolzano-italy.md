@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Transart, Bolzano, Italy'
 show-setlist: [
   "Richard Rheem Theme",

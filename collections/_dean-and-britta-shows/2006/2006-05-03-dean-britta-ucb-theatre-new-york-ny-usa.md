@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'UCB Theatre, New York NY, USA'
 show-setlist: 
 show-date: 2006-05-03

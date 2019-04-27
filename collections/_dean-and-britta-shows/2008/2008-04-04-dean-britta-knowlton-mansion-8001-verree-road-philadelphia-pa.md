@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Knowlton Mansion, 8001 Verree Road, Philadelphia PA'
 show-setlist: 
 show-date: 2008-04-04

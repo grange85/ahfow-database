@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'La Comete, Chalons-en-Champagne, France'
 show-setlist: [
   "Richard Rheem Theme",

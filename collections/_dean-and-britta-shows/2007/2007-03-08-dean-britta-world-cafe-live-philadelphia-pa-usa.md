@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'World Cafe Live, Philadelphia PA, USA'
 show-setlist: [
   "Singer Sing",

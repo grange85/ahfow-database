@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Paula Cooper Gallery, New York NY, USA'
 show-setlist: [
   "Swedish Fish",

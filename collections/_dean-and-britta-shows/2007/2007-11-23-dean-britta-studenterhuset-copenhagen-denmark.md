@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Studenterhuset, Copenhagen, Denmark'
 show-setlist: [
   "Night Nurse",

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Anadale Hotel, Sydney, Australia'
 setlist-source: 'scan'
 show-setlist: [

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Great American, San Francisco CA, USA'
 show-setlist: 
  - title: Night Nurse

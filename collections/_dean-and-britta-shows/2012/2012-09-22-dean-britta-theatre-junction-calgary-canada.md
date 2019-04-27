@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Theatre Junction, Calgary, Canada'
 show-setlist: [
   "Richard Rheem Theme",

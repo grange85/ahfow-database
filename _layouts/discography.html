@@ -4,7 +4,7 @@
 	{% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Comprehensive list of {{artist.name}} releases with sleeve scans.{% endcapture %}
 	{% endif %}
-	{% capture newtitle %}{{artist.name}} - releases {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
+	{% capture newtitle %}{{page.title}} {% if page.year %} {{page.year}}{% endif %}{% endcapture %}
 	{% include head.html %}
 <body>
 	{% include tagmanager.html %}
@@ -18,7 +18,7 @@
 					<nav>
 						<ul class="breadcrumb">
 							<li><a href="/">Home</a></li>
-							<li><a href="/{{artist.slug}}">{{artist.name}}</a></li>
+							<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 							<li>{{artist.name}} releases</li>
 						</ul>
 					</nav>

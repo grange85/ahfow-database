@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Hiro Ballroom, New York NY, USA'
 show-setlist: [
   "Singer Sing",

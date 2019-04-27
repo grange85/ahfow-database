@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Zulu Records, Vancouver, Canada'
 show-setlist: 
 show-date: 2009-01-31

@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'La Batie, Geneva, Switzerland'
 show-setlist: [
   "Richard Rheem Theme",

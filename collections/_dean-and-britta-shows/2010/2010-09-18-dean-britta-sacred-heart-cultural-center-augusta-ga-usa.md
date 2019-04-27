@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Sacred Heart Cultural Center, Augusta GA, USA'
 show-setlist: [
   "Richard Rheem Theme",

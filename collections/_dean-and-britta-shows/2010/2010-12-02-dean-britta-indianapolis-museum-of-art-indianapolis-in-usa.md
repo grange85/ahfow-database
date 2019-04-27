@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Indianapolis Museum of Art, Indianapolis, IN, USA'
 show-setlist: [
   "Richard Rheem Theme",

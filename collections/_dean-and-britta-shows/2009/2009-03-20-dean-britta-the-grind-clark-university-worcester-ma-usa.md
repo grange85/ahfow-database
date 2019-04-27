@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'The Grind, Clark University, Worcester, MA, USA'
 setlist-source: 'recording and scanned setlist'
 show-setlist: [

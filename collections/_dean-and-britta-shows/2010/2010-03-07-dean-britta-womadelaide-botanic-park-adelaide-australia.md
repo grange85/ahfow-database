@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'WOMADelaide, Botanic Park, Adelaide, Australia'
 show-setlist: [
   "Richard Rheem Theme",

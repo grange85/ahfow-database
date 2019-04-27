@@ -1,6 +1,8 @@
 ---
 layout: show
 artistslug: dean-and-britta
+artist:
+  name: Dean & Britta
 show-venue: 'Cleveland Museum of Art, Spencer OH, USA'
 show-setlist: [
   "Richard Rheem Theme",
