@@ -107,5 +107,6 @@ exclude: [
     's3cfg-prog.enc',
   ]
 plugins: [
-        bootstrap-sass
+        bootstrap-sass,
+        jekyll-sitemap
       ]
