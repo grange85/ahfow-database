@@ -34,5 +34,7 @@ show-additional:
 show-download:
   site: Mediafire
   url: http://www.mediafire.com/download/zi80z84bdq067a4/Galaxie_500_1990-06-26__International,_Manchester,_UK.zip
+support:
+ - Teenage Fanclub
 ---
 
