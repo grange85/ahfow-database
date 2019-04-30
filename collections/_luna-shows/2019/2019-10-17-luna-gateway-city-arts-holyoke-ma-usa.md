@@ -18,7 +18,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://www.spaceballroom.com/event/1857065-luna-hamden/
+show-ticket-url: 
 show-venue-website: 
 show-additional: 
 support:
