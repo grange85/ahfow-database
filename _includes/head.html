@@ -39,11 +39,11 @@
 {% if artist.image %}<meta property="og:image" content="{{artist.image}}" />{% endif %}
 <meta property="og:image" content="{% if ogimage %}{{ ogimage }}{% else %}{{site.image}}{% endif %}" />
 
-{% if artist %}
+
 <script>
   dataLayer = [{
-    'page-artist': '{{artist.slug}}'
+    {% if artist %}'page-artist': '{{artist.slug}}',{% endif %}
+    'environment': '{{site.environment}}'
   }];
 </script>
-{% endif %}
 </head>

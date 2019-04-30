@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'Lee's Palace, Toronto, Canada'
+show-venue: "Lee's Palace, Toronto, Canada"
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-15

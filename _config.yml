@@ -93,7 +93,7 @@ defaults:
 
 # Build settings
 port: 4000
-environment: production
+environment: development
 version: 5.0.0
 markdown: kramdown
 kramdown:
