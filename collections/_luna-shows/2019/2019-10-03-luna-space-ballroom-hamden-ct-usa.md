@@ -18,7 +18,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: https://ci.ovationtix.com/35158/production/1010755?performanceId=10412079
+show-ticket-url: https://www.spaceballroom.com/event/1857065-luna-hamden/
 show-venue-website: 
 show-additional: 
 support:
