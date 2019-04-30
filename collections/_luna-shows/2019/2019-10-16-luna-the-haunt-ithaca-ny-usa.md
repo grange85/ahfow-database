@@ -18,7 +18,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: https://thehaunt.ticketfly.com/event/1856900-luna-ithaca/
 show-venue-website: 
 show-additional: 
 support:

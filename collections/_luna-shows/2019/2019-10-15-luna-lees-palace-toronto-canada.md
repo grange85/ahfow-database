@@ -19,10 +19,11 @@ performers: [
 facebook-event-url: 
 show-poster-url: 
 show-ticket-url: 
-show-venue-website: 
+show-venue-website: https://www.leespalace.com/event/1856961-luna-performing-penthouse-toronto/
 show-additional: 
 support:
 show-series:
+show-series: Luna play Penthouse
 ---
 
 
