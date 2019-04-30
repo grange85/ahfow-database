@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: luna
-show-venue: 'The Bowery Ballroom, New York, NY, USA'
+show-venue: "The Cat's Cradle, Carrboro, NC, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-07
