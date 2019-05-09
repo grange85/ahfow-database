@@ -6,7 +6,8 @@ address: |
   19 Collier St, 
   Greengate, 
   Salford, 
-  M3 7DW
+  M3 7DW, 
+  United Kingdom
 show-setlist:
 show-date: 2019-06-06
 date-added: 2019-04-08

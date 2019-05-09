@@ -6,7 +6,8 @@ address: |
   The Victoria, 
   186 Hoe Street, 
   London, 
-  E17 4QH 
+  E17 4QH, 
+  United Kingdom 
 show-setlist:
 show-date: 2019-06-05
 date-added: 2019-05-09
