@@ -39,15 +39,23 @@
 				<div class="row">
 					<div class="col-md-6">
 						<h3>Information</h3>
+							<div class="panel panel-default">
+							<div class="panel-heading">{% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</div>
+							<div class="panel-body">
+							<p>{% icon fa-calendar %} {{ ordinaldate }}</p>
+							{% if page.address%}
+							{{ page.address | newline_to_br }}
+							
+							<p>{% icon fa-map-marker %} <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | strip_newlines | urlencode }}" target="_blank">Map</a></p>
+							{% else %}
+							 {{page.show-venue}}
+							{% endif %}
 						<ul>
-						<li>{% icon fa-calendar %} {{ ordinaldate }}</li>
-						<li>Artist: {% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</li>
-						<li>Venue: {{page.show-venue}}</li>
 						{% if page.show-download %}
 							<li>{% icon fa-download %} <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</li>
 						{% endif %}
 						{% if page.facebook-event-url %}
-							<li>{% icon fa-facebook %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
+							<li>{% icon fa-facebook-square brand %} <a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></li>
 						{% endif %}
 						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
 						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
@@ -55,13 +63,16 @@
 						{% assign showdate = showdate | plus: 0 %}
 						{% if showdate > nowdate %}
 							{% if page.show-ticket-url %}
-								<li>{% icon fa-external-link %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
+								<li>{% icon fa-external-link-square-alt %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
 							{% endif %}
 							{% if page.show-venue-website %}
-								<li>{% icon fa-external-link %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+								<li>{% icon fa-external-link-square-alt %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
 							{% endif %}
 						{% endif %}
 						</ul>
+							</div>
+						</div>
+
 						{% assign content = page.content | strip_newlines %}
 						{% if content != "" %}
 							<h3>Notes</h3>
@@ -113,7 +124,7 @@
 							<h3>Links</h3>
 							<ul>
 							{% for link in page.links %}
-									<li>{% icon fa-external-link %} <a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
+									<li>{% icon fa-external-link-square-alt %} <a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
 							{% endfor %}
 							</ul>
 						{% endif %}

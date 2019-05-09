@@ -62,7 +62,7 @@ eos
       if icon_extra.empty?
         "<i class=\"fa #{icon_class}\"></i>"
       else
-        "<i class=\"fa #{icon_class} #{icon_extra}\"></i>"
+        "<i class=\"fab #{icon_class}\"></i>"
       end
     end
   end
