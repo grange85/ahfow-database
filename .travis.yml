@@ -35,4 +35,4 @@ notifications:
     email:
         on_failure: always
 after_deploy:
-    aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
+    aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/database/*"
