@@ -19,16 +19,18 @@
 						<nav>
 							<ul class="breadcrumb">
 								<li><a href="/">Home</a></li>
-								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+								<li><a href="{{site.baseurl}}/">Database</a></li>
+
+								<li><a href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
 
 
 							{% case artist.slug %}
 							{% when "dean-and-britta" %}
-								<li><a href="/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
+								<li><a href="{{site.baseurl}}/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
 							{% when "dean-wareham" %}
-								<li><a href="/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
+								<li><a href="{{site.baseurl}}/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
 							{% when "britta-phillips" %}
-								<li><a href="/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+								<li><a href="{{site.baseurl}}/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
 							{% else %}
 								<li><a href="/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
 							{% endcase %}
@@ -89,7 +91,7 @@
 												{% if track.title contains '^' %}
 												{{track.title | remove_first:'^'}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
 												{% else %}
-												<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
+												<a href="{{site.baseurl}}/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a>
 												{% endif %}
 													{% if track.author %}
 														<em>({{track.author}})</em>

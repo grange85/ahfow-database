@@ -28,9 +28,11 @@
 						<nav>
 							<ul class="breadcrumb">
 								<li><a href="/">Home</a></li>
-								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
-								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
-								<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
+								<li><a href="{{site.baseurl}}/">Database</a></li>
+
+								<li><a href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
+								<li><a href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+								<li><a href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/{{page.show-date|date: '%Y'}}">{{page.show-date|date: '%Y'}}</a></li>
 								<li>{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
 							</ul>
 						</nav>
@@ -96,7 +98,7 @@
 										<li class="text-muted">{{track | remove_first:'^'}}</li>
 									{% else %}
 										<li>
-											<a href="/tracks/{{track|slugify}}/ ">{{track}}</a></li>
+											<a href="{{site.baseurl}}/tracks/{{track|slugify}}/ ">{{track}}</a></li>
 									{% endif %}
 								{% else %}
 									{% if track.title contains '^' %}
@@ -104,7 +106,7 @@
 									{% else %}
 										<li>
 
-											<a href="/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
+											<a href="{{site.baseurl}}/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
 
 										</li>
 									{% endif %}

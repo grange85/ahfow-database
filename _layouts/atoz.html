@@ -15,19 +15,20 @@
 					<nav>
 						<ul class="breadcrumb">
 							<li><a href="/">Home</a></li>
+							<li><a href="{{site.baseurl}}/">Database</a></li>
 							{% case page.list %}
 								{% when 'covers' %}
 									{% assign tracks = site.tracks | where: "cover", true | sort: 'track-sort' %}
 									{% assign cover = true %}
-									<li><a href="/tracks/">Tracks</a></li>
+									<li><a href="{{site.baseurl}}/tracks/">Tracks</a></li>
 									<li>Covers</li>
 								{% when 'chords' %}
 									{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-sort' %}
-									<li><a href="/tracks/">Tracks</a></li>
+									<li><a href="{{site.baseurl}}/tracks/">Tracks</a></li>
 									<li>Chords</li>
 								{% when 'videos' %}
 									{% assign tracks = site.tracks | where: "video-flag", true | sort: 'track-sort' %}
-									<li><a href="/tracks/">Tracks</a></li>
+									<li><a href="{{site.baseurl}}/tracks/">Tracks</a></li>
 									<li>Videos</li>
 								{% else %}
 									{% assign tracks = site.tracks | sort: 'track-sort' %}

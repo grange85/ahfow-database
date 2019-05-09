@@ -9,7 +9,7 @@ track-sort: "Grand Canyon"
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre
-   url: /dean-wareham/releases/dean-wareham-along-the-santa-fe-trail/
+   url: /dean-and-britta/dean-wareham-releases/dean-wareham-along-the-santa-fe-trail/
 ---
 
 

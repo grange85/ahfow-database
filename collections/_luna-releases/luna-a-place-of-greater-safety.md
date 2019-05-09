@@ -31,4 +31,4 @@ releases:
         - title: Ides Of March Of The Trolls
         - title: Spanish Odyssey
 ---
-CD version available on <a href="/luna/releases/luna-a-sentimental-education/">A Sentimental Education</a>.
+CD version available on <a href="{{site.baseurl}}//luna/releases/luna-a-sentimental-education/">A Sentimental Education</a>.

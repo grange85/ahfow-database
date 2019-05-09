@@ -17,6 +17,8 @@
 						<nav>
 							<ul class="breadcrumb">
 								<li><a href="/">Home</a></li>
+								<li><a href="{{site.baseurl}}/">Database</a></li>
+
 								<li>{{page.title}}</li>
 							</ul>
 						</nav>
@@ -29,13 +31,13 @@
 						<img class="centre-block img-responsive" src="{{artist.image}}" alt="{{artist.name}} picture" />
 							<ul class="list-unstyled">
 							{% if artist.slug == "dean-and-britta" %}
-								<li><a class="btn btn-primary" href="/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
-								<li><a class="btn btn-primary" href="/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
-								<li><a class="btn btn-primary" href="/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
+								<li><a class="btn btn-primary" href="{{site.baseurl}}/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a></li>
+								<li><a class="btn btn-primary" href="{{site.baseurl}}/dean-and-britta/dean-wareham-releases/" >Dean Wareham discography</a></li>
+								<li><a class="btn btn-primary" href="{{site.baseurl}}/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
 							{% else %}
-								<li><a class="btn btn-primary" href="/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+								<li><a class="btn btn-primary" href="{{site.baseurl}}/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
 							{% endif %}
-								<li><a class="btn btn-primary" href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
+								<li><a class="btn btn-primary" href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
 							</ul>
 					</div>
 				</div>

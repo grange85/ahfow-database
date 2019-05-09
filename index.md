@@ -11,18 +11,18 @@ position: home
 	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" or artist.slug == "britta-phillips" %}
 		<div class="col-sm-6 col-md-6">
 			<div class="thumbnail">
-				<a href="/{{artist.slug}}/">
+				<a href="{{site.baseurl}}/{{artist.slug}}/">
 				<img class="media-object img-rounded  img-responsive" src="{{artist.image}}" alt="{{artist.name}} thumbnail" />
 				</a>
 				<div class="caption">
-					<h3><a href="/{{artist.slug}}">{{artist.name}}</a></h3>
+					<h3><a href="{{site.baseurl}}/{{artist.slug}}">{{artist.name}}</a></h3>
 					<ul>
 						{% if artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" or artist.slug == "britta-phillips" %} 
-						<li><a href="/dean-and-britta/{{artist.slug}}-releases/">{{artist.name}} discography</a></li>
+						<li><a href="{{site.baseurl}}/dean-and-britta/{{artist.slug}}-releases/">{{artist.name}} discography</a></li>
 						{% else %}
-						<li><a href="/{{artist.slug}}/releases/">{{artist.name}} discography</a></li>
+						<li><a href="{{site.baseurl}}/{{artist.slug}}/releases/">{{artist.name}} discography</a></li>
 						{% endif %}
-						<li><a href="/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{{artist.name}} shows</a></li>
+						<li><a href="{{site.baseurl}}/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{{artist.name}} shows</a></li>
 					</ul>
 				</div>
 			</div>
@@ -39,18 +39,18 @@ position: home
 				<h3>Lists</h3>
 				<h4>Tracks</h4>
 				<ul>
-				<li><a href="/tracks/">A-Z of tracks</a></li>
-				<li><a href="/tracks/covers/">A-Z of cover versions</a></li>
-				<li><a href="/tracks/chords/">A-Z of chords</a></li>
-				<li><a href="/tracks/videos/">A-Z of tracks with promo videos</a></li>
+				<li><a href="{{site.baseurl}}/tracks/">A-Z of tracks</a></li>
+				<li><a href="{{site.baseurl}}/tracks/covers/">A-Z of cover versions</a></li>
+				<li><a href="{{site.baseurl}}/tracks/chords/">A-Z of chords</a></li>
+				<li><a href="{{site.baseurl}}/tracks/videos/">A-Z of tracks with promo videos</a></li>
 				</ul>
 				<h4>Releases</h4>
 				<ul>
-				<li><a href="/releases/available-on-bandcamp.html">Releases available on bandcamp</a></li>
+				<li><a href="{{site.baseurl}}/releases/available-on-bandcamp.html">Releases available on bandcamp</a></li>
 				</ul>
 				<h4>Downloads</h4>
 				<ul>
-				<li><a href="/shows/show-downloads.html">Shows available to download</a></li>
+				<li><a href="{{site.baseurl}}/shows/show-downloads.html">Shows available to download</a></li>
 				</ul>
 			</div>
 		</div>

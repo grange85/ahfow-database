@@ -9,5 +9,5 @@ track-sort: "IF I COULD ONLY FLY"
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre
-   url: /dean-wareham/releases/dean-wareham-vs-cheval-sombre/
+   url: /dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/
 ---

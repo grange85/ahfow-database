@@ -5,7 +5,7 @@ It's a big site (1000s of pages) so may be a challenge for Jekyll - but... you k
 
 You can see the work in progress here:
 
-[A Head Full of Wishes database](https://db.fullofwishes.co.uk/)
+[A Head Full of Wishes database](https://www.fullofwishes.co.uk/database/)
 
 It's built with Jekyll and uses Bootstrap (and for now the default Boostrap theme)
 

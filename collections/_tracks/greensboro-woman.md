@@ -9,5 +9,5 @@ track-sort: "GREENSBORO WOMAN"
 track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre
-   url: /dean-wareham/releases/dean-wareham-vs-cheval-sombre/
+   url: /dean-and-britta/dean-wareham-releases/dean-wareham-vs-cheval-sombre/
 ---
