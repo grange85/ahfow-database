@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: "Lee's Palace, Toronto, Canada"
+address: |
+  Lee's Palace, 
+  529 Bloor St W, 
+  Toronto, 
+  ON M5S 1Y5, 
+  Canada
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-15

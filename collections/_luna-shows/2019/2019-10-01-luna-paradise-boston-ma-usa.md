@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'The Paradise, Boston, MA, USA'
+address: |
+  The Paradise, 
+  967 Commonwealth Avenue, 
+  Boston, 
+  MA 02215, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-01

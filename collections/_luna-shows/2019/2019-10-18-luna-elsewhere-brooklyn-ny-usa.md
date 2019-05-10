@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'Elsewhere, Brooklyn, NY, USA'
+address: |
+  Elsewhere, 
+  599 Johnson Ave #1, 
+  Brooklyn, 
+  NY 11237, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-18

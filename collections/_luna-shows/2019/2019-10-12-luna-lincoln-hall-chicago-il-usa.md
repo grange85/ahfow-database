@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'Lincoln Hall, Chicago, IL, USA'
+address: |
+  Lincoln Hall, 
+  2424 N Lincoln Ave, 
+  Chicago, 
+  IL 60614, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-12

@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'The Bowery Ballroom, New York, NY, USA'
+address: |
+  The Bowery Ballroom, 
+  6 Delancey St, 
+  New York, 
+  NY 10002, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-19

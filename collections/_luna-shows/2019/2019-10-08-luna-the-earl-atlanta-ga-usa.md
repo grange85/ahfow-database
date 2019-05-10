@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'The Earl, Atlanta, GA, USA'
+address: |
+  The EARL, 
+  488 Flat Shoals Ave SE, 
+  Atlanta, 
+  GA 30316, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-08

@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: "The Cat's Cradle, Carrboro, NC, USA"
+address: |
+  The Cat's Cradle, 
+  300 E Main St, 
+  Carrboro, 
+  NC 27510, 
+  USA  
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-07

@@ -2,6 +2,12 @@
 layout: show
 artistslug: luna
 show-venue: 'Union Transfer, Philadelphia, PA, USA'
+address: |
+  Union Transfer, 
+  1026 Spring Garden St, 
+  Philadelphia, 
+  PA 19123, 
+  USA
 show-notes: ''
 show-setlist: 
 show-date: 2019-10-04
