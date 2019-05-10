@@ -37,7 +37,7 @@
 						<h3 id="upcoming">Archive of {{artist.name}} shows</h3>
 						<ul class="list-inline">
 						{% for year in artist.yearsactive %}
-							<li role="presentation"><a href="/{{artist.slug}}/shows/{{year}}/" class="list-group-item
+							<li role="presentation"><a href="{{site.baseurl}}/{{artist.slug}}/shows/{{year}}/" class="list-group-item
 							{% if year == page.year %}
 								active
 							{% endif %}
