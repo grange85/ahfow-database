@@ -15,4 +15,3 @@ show-ticket-url:
 show-venue-website: 
 show-additional: 
 ---
-Possibly the 10th
