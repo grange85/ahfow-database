@@ -18,8 +18,7 @@ show-radio:
 show-lastfm:
 show-cancelled:
 performers: [
-  "Damon Krukowski - guitar/vocals",
-  "Naomi Yang - keyboards/vocals"
+  "Damon Krukowski"
   ]
 facebook-event-url: 
 show-poster-url: 
