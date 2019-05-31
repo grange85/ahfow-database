@@ -25,4 +25,5 @@ support:
 show-series: Dean Wareham plays Galaxie 500
 ---
 Dean Wareham plays Galaxie 500's On Fire.  
-Festival is over two days and the schedule hasn't been announced yet.
+
+19:45 on the Barn Stage

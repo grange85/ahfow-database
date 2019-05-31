@@ -6,7 +6,7 @@ artist:
 show-venue: 'Huichica, Gundlach Bundschu Winery, Sonoma, CA, USA'
 show-notes: ''
 show-setlist:
-show-date: 2019-06-07
+show-date: 2019-06-08
 date-added: 2019-02-21
 category: 2019
 show-radio:
@@ -23,4 +23,4 @@ show-venue-website: https://sonoma.huichica.com/
 show-additional:
 support:
 ---
-Festival is over two days and the schedule hasn't been announced yet.
+14:20 on the Amphitheatre Stage
