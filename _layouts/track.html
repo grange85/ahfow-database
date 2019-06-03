@@ -87,7 +87,12 @@
 						{% endif %}     
 					</div>
 				{% if page.layout == 'release' or page.layout == 'track' or page.layout == 'show' %}
-				<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+
+		<div id="commento"></div>
+		<script defer
+		  src="https://cdn.commento.io/js/commento.js">
+		</script>
+
 				{% endif %}
 				</div>
 			</div>
