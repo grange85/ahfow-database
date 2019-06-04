@@ -65,10 +65,10 @@
 						{% assign showdate = showdate | plus: 0 %}
 						{% if showdate > nowdate %}
 							{% if page.show-ticket-url %}
-								<li>{% icon fa-external-link-square-alt %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
+								<li>{% icon fa-ticket-alt %} <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></li>
 							{% endif %}
 							{% if page.show-venue-website %}
-								<li>{% icon fa-external-link-square-alt %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
+								<li>{% icon fa-sitemap %} <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></li>
 							{% endif %}
 						{% endif %}
 						</ul>
