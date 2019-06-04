@@ -50,3 +50,13 @@ wrapper a:hover {
 	text-decoration:none;
 	border-bottom: 1px solid;
 }
+
+.extlink:after {
+  content: "\f08e";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 3px;
+}
