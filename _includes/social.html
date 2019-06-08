@@ -1,3 +1,6 @@
+{% if page.layout == 'track' or  page.layout == 'release' page.layout == 'show' %}
+
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 social">
@@ -12,14 +15,17 @@
 				</a>
 			</span>
 			<span class="facebook">
-				<iframe
-					src="https://www.facebook.com/plugins/like.php?href={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}&amp;show_faces=false&amp;layout=button_count" 
-					scrolling="no" 
-					frameborder="0" 
-					style="height: 21px; width: 100px" 
-					allowTransparency="true">
-				</iframe>
+                <div 
+                    class="fb-like" 
+                    data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" 
+                    data-layout="button" 
+                    data-action="like" 
+                    data-show-faces="false" 
+                    data-share="false">
+                </div>
 			</span>
 		</div>
 	</div>
 </div>
+
+{% endif %}

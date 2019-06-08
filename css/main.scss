@@ -25,9 +25,11 @@ $grid-float-breakpoint: 992px;
 }
 
 /* This gets Facebook to fall into place */
-.social iframe {
+.social iframe,
+.social div {
         vertical-align: middle;
 }
+
 
 /* Set an optional width for your button wrappers */
 .social span {
