@@ -30,5 +30,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - Antietam
+ - Crystalized Movements
+ - Love Child
 ---
 

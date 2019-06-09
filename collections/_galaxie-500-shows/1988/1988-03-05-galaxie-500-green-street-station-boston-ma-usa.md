@@ -1,7 +1,7 @@
 ---
 layout: show
 artistslug: galaxie-500
-show-venue: 'Green Street Station, Boston MA, USA'
+show-venue: 'Green Street Station, Jamaica Plain, MA, USA'
 show-setlist: 
 show-date: 1988-03-05
 category: 1988
@@ -18,5 +18,8 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - The Ordinaires
+ - Lazy Susan
 ---
 

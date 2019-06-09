@@ -28,5 +28,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - Eugene Chadbourne
+ - Ed’s Redeeming Qualities
+ - When People Were Shorter and Lived Near The Water
 ---
 

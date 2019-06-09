@@ -25,5 +25,10 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support:
+ - When People Were Shorter and Lived Near The Water
+ - B.A.L.L.
+ - King Missile
+ - Spongehead
 ---
 

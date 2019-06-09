@@ -27,6 +27,9 @@ show-poster-url:
 show-ticket-url: 
 show-venue-website: 
 show-additional: 
+support: 
+ - Pixies
+ - Honeybunch
 show-download:
   site: mediafire
   url: http://www.mediafire.com/download/3kdph0idz80fpev/Galaxie_500_1988-12-16__The_Rat,_Boston,_MA,_USA.zip
