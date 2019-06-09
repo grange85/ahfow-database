@@ -17,12 +17,14 @@ description: Upcoming shows for Dean Wareham / Britta Phillips billed either as 
 		<item>
 			<title>{{ newtitle | xml_escape }}</title>
 			<description><![CDATA[
-
+				{% if show.show-series %}
+					<div><strong>{{ show.show-series }}</strong></div>
+				{% endif %}
 				{% if show.notes %}
-					<div>{{ show.notes}}</div>
+					<div>{{ show.notes }}</div>
 				{% endif %}
 				{% if show.content %}
-					<div>{{ show.content}}</div>
+					<div>{{ show.content }}</div>
 				{% endif %}
 			]]></description>
 			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>

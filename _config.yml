@@ -92,6 +92,7 @@ defaults:
       date-added: 1994-01-01
 
 # Build settings
+future: true
 port: 4000
 environment: development
 markdown: kramdown
