@@ -21,6 +21,7 @@ performers: [
   "Sean Eden - guitar",
   "Britta Phillips - bass",
   "Lee Wall - drums",
+  "Justin Harwood - bass (guest)"
   ]
 facebook-event-url: 
 show-poster-url: 
