@@ -32,7 +32,7 @@
 							{% when "britta-phillips" %}
 								<li><a href="{{site.baseurl}}/dean-and-britta/britta-phillips-releases/" >Britta Phillips discography</a></li>
 							{% else %}
-								<li><a href="/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
+								<li><a href="{{site.baseurl}}/{{artist.slug}}/releases/" >{{artist.name}} discography</a></li>
 							{% endcase %}
 
 								<li>{% if page.artist %}{{page.artist}}{% else %}{{artist.name}}{% endif %} - {{page.albumname}}</li>
