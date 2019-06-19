@@ -28,6 +28,7 @@ show-ticket-url: https://www.eventbrite.com/e/luna-performing-lunapark-elsewhere
 show-venue-website: https://www.elsewherebrooklyn.com/events/2019-10-18-luna-performing-lunapark/
 show-additional: 
 support:
+ - Lake Ruth
 show-series: Luna play Lunapark
 ---
 Luna play Lunapark
