@@ -89,6 +89,24 @@
 							</ul>
 						{% endif %}
 						{% if page.show-setlist %}
+
+						{% if page.show-stream %}
+							<script>
+								Amplitude.init({
+									"songs": [
+							{% for track in page.show-setlist %}
+									{
+										"name": "{{ track.title }}",
+										"artist": "{{ artist.name }}"
+										"url": "{{ track.url }}"
+									},
+							{% endfor %}
+									]
+								});
+							</script>
+						{% endif %}
+
+
 							<h3>Setlist</h3>
 							<ul>
 							{% for track in page.show-setlist %}
