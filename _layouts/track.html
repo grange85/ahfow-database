@@ -60,6 +60,21 @@
 					</div>
 				</div>
 
+				{% if page.bandcamp %}
+				<div class="row">
+					<div class="col-md-12">
+						<h3>Bandcamp</h3>
+						{% for bc in page.bandcamp %}
+
+								<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album={{bc.album-id}}/size=small/bgcol=ffffff/linkcol=0687f5/track={{bc.track-id}}/transparent=true/" seamless><a href="{{bc.album-url}}">{{bc.album-title}}</a></iframe>
+
+						{% endfor %}
+					</div>
+				</div>
+				{% endif %}
+
+
+
 				{% if page.videos %}
 				{% assign count = 0 %}
 				<div class="row">

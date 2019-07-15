@@ -12,4 +12,18 @@ track-author: Jonathan Richman
 track-sort: "DON'T LET OUR YOUTH GO TO WASTE"
 track-original: Richman, Jonathan (and the Modern Lovers)
 cover: true
+bandcamp:
+  - album-id: 3830882259
+    track-id: 1907834654
+    album-url: http://galaxie500.bandcamp.com/album/today
+    album-title: Today by Galaxie 500
+  - album-id: 500961155
+    track-id: 3062186627
+    album-url: http://galaxie500.bandcamp.com/album/peel-sessions
+    album-title: Peel Sessions by Galaxie 500
+  - album-id: 3510813574
+    track-id: 452266046
+    album-url: http://galaxie500.bandcamp.com/album/copenhagen-live
+    album-title: Copenhagen (live) by Galaxie 500
+
 ---
