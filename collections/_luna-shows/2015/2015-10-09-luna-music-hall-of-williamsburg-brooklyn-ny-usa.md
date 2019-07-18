@@ -89,92 +89,74 @@ photos:
   - type: ahfow-set
     data: "[
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-001.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-001.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-002.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-002.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-003.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-003.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-004.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-frank-silvestry-004.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-001.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-001.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-002.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-002.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-003.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-003.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-004.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-004.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-005.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-005.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-006.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-006.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-007.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-008.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-009.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-009.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-010.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-010.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-011.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-011.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-012.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-luna-joakim-012.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Joakim)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-frank.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-frank.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Frank)'
   },
   {
-    thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg',
     image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-09/2015-10-09-stan-with-luna-janice.jpg',
     title: 'Luna at the Music Hall of Williamsburg (photo: Janice)'
   }

@@ -46,17 +46,14 @@ photos:
   - type: ahfow-set
     data: "[
       {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-01.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       },
       {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-02.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       },
       {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-13/2015-10-13-luna-toronto-bill-03.jpg',
         title: 'Luna at Danforth Music Hall, Toronto (photo by Bill Van Der Ende)'
       }

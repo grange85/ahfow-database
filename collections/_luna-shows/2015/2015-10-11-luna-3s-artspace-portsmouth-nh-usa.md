@@ -42,32 +42,26 @@ photos:
   - type: ahfow-set
     data: "[
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-01.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-01.jpg',
         title: 'Luna (Photo: Dana Brownrigg)'
       },
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-03.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-03.jpg',
         title: 'Luna (Photo: Dana Brownrigg)'
       },
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-04.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-04.jpg',
         title: 'Britta &amp; Dean (Photo: Dana Brownrigg)'
       },
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-05.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-05.jpg',
         title: 'Dean (Photo: Dana Brownrigg)'
       },
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-06.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-06.jpg',
         title: 'Britta - eyes closed (Photo: Dana Brownrigg)'
       },
        {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-07.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-11/2015-10-11-luna-portsmouth-nh-dana-brownrigg-07.jpg',
         title: 'Lee &amp; Sean (Photo: Dana Brownrigg)'
       }

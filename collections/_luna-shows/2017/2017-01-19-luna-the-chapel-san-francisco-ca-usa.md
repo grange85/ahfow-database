@@ -65,52 +65,42 @@ photos:
   - type: ahfow-set
     data: "[
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-001.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-001.jpg',
         title: 'Britta (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-002.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-002.jpg',
         title: 'The Chapel (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-003.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-003.jpg',
         title: 'LUNA  (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-004.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-004.jpg',
         title: 'Britta (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-005.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-005.jpg',
         title: 'Sold out! (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-006.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-006.jpg',
         title: 'Audience (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-007.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-007.jpg',
         title: 'Luna (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-008.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-008.jpg',
         title: 'Drink and pedals (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-009.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-009.jpg',
         title: 'Setlist (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/thumbs/2017-01-19-chapel-sf-harrison-price-010.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-19/2017-01-19-chapel-sf-harrison-price-010.jpg',
         title: 'Luna (photo: Harrison Price)'
         }

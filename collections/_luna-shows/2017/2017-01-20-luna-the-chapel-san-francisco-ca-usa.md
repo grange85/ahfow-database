@@ -59,177 +59,142 @@ photos:
  - type: ahfow-set
    data: "[
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-harrison-price-001.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-harrison-price-001.jpg',
         title: 'Dean (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-harrison-price-002.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-harrison-price-002.jpg',
         title: 'Setlist (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-harrison-price-003.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-harrison-price-003.jpg',
         title: 'Britta and Dean (photo: Harrison Price)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-kevin-hudson-004.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-kevin-hudson-004.jpg',
         title: 'Luna (photo: Kevin Hudson)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-frank-silvestry-005.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-frank-silvestry-005.jpg',
         title: 'Luna (photo: Frank Silvestry)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-frank-silvestry-006.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-frank-silvestry-006.jpg',
         title: 'Luna (photo: Frank Silvestry)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-mike-kubacheck-007.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-mike-kubacheck-007.jpg',
         title: 'Luna (photo: Mike Kubacheck)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-chapel-sf-mike-kubacheck-008.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-chapel-sf-mike-kubacheck-008.jpg',
         title: 'Luna (photo: Mike Kubacheck)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-bill-van-der-ende-009.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-bill-van-der-ende-009.jpg',
         title: 'Luna (photo: Bill Van Der Ende)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-bill-van-der-ende-010.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-bill-van-der-ende-010.jpg',
         title: 'Luna (photo: Bill Van Der Ende)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-bill-van-der-ende-011.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-bill-van-der-ende-011.jpg',
         title: 'Luna (photo: Bill Van Der Ende)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-bill-van-der-ende-012.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-bill-van-der-ende-012.jpg',
         title: 'Luna (photo: Bill Van Der Ende)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-01.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-01.jpg',
         title: 'Dean x 4 (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-02.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-02.jpg',
         title: 'Lee Wall of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-03.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-03.jpg',
         title: 'Sean Eden of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-04.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-04.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-05.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-05.jpg',
         title: 'Dean and Lee (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-06.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-06.jpg',
         title: 'Ulrika watching Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-07.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-07.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-08.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-08.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-09.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-09.jpg',
         title: 'Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-10.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-10.jpg',
         title: 'Britta Phillips of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-11.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-11.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-12.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-12.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-13.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-13.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-14.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-14.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-15.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-15.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-16.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-16.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-17.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-17.jpg',
         title: 'Dean Wareham of Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-18.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-18.jpg',
         title: 'Dean and Lee (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-19.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-19.jpg',
         title: 'Dean and Lee (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-20.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-20.jpg',
         title: 'Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-21.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-21.jpg',
         title: 'Luna (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-22.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-22.jpg',
         title: 'Ulrika and Kelly (photo: Joakim)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/thumbs/2017-01-20-luna-penthouse-joakim-23.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01-20/2017-01-20-luna-penthouse-joakim-23.jpg',
         title: 'Backstage (photo: Joakim)'
         }

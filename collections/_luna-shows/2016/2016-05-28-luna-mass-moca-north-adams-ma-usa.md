@@ -27,7 +27,6 @@ photos:
     data: |
       [
       {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01-thumb.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2016-05-28/2016-05-28-luna-mass-moca-thomas-barrasso-01.jpg',
         title: 'Photo by Thomas Barrasso'
       }

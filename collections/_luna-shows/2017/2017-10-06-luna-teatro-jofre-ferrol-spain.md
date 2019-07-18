@@ -43,87 +43,70 @@ photos:
   - type: ahfow-set
     data: "[
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-01.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-01.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-02.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-02.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-03.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-03.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-04.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-04.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-05.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-05.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-06.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-06.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-07.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-07.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-08.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-08.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-09.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-09.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-10.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-10.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-11.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-11.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-12.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-12.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-13.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-13.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-14.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-14.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-15.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-15.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/2017-10-06-ferrol-spain-nvideira-16.jpg',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/2017-10-06-ferrol-spain-nvideira-16.jpg',
         title: '(photo: Nuno Videira)'
         },
         {
-        thumb: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/thumbs/',
         image: 'https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-06/',
         title: '(photo: Nuno Videira)'
         }
