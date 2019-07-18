@@ -1,7 +1,7 @@
-<script src="/js/galleria-1.5.7.min.js"></script>
-<script src="/js/plugins/flickr/galleria.flickr.min.js"></script>
+<script src="{{ '/js/galleria-1.5.7.min.js' | prepend: site.baseurl }}"></script>
+<script src="{{ '/js/plugins/flickr/galleria.flickr.min.js' | prepend: site.baseurl }}"></script>
 <script>
-	Galleria.loadTheme('/js/themes/classic/galleria.classic.min.js');
+	Galleria.loadTheme('{{site.baseurl}}/js/themes/classic/galleria.classic.min.js');
 	{% assign count = 0 %}
 	{% for gallery in page.photos %}
 			{% assign count = count | plus: 1 %}
