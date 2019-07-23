@@ -17,7 +17,7 @@ releases:
     format: CD
     label: Arena Rock
     catno: ARE 017-2
-    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_live.jpg
     mbid:
     discogs:
     release_notes: Where the sleeve says "Friendly Advice" the CD has "Double Feature".
@@ -71,7 +71,7 @@ releases:
     format: 2xLP
     label: Arena Rock
     catno: ARE 017-1
-    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_live.jpg
     mbid:
     discogs:
     release_notes:
@@ -146,7 +146,7 @@ releases:
     format: 2xCD
     label: Trama
     catno: TESI/496-2
-    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
+    imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_live.jpg
     mbid:
     discogs:
     release_notes:
