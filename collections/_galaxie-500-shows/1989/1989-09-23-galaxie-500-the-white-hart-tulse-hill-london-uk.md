@@ -1,10 +1,10 @@
 ---
 layout: show
 artistslug: galaxie-500
-show-venue: "unknown, Tulse Hill, London, UK"
+show-venue: "The White Hart, Tulse Hill, London, UK"
 show-setlist:
-show-date: 1989-09-28
-source: Dean Wareham
+show-date: 1989-09-23
+source: Dean Wareham / Bob Stanley
 category: 1989
 show-radio:
 show-lastfm:
@@ -15,11 +15,11 @@ performers: [
   "Damon Krukowski - drums"
   ]
 facebook-event-url:
-show-poster-url:
+show-poster-url: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-09-23/1989-09-23-galaxie-500-the-white-hart-tulse-hill-window-notice.jpg
 show-ticket-url:
 show-venue-website:
 show-additional:
 support:
 ---
-Secret gig
+Secret gig  
 DW: "a pub in Tulse Hill"

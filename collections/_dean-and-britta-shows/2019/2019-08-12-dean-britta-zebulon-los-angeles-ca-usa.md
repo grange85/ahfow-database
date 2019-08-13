@@ -17,7 +17,7 @@ performers: [
   "Dean Wareham - guitar/vocals"
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-13-dean-britta-butterfly-cabinet-poster.jpg
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-12-dean-britta-butterfly-cabinet-poster.jpg
 show-ticket-url: 
 show-venue-website:
 show-additional:
