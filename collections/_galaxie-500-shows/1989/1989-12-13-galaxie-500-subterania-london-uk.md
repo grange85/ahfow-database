@@ -3,6 +3,17 @@ layout: show
 artistslug: galaxie-500
 show-venue: 'Subterania, London, UK'
 show-setlist: 
+ - Decomposing Trees
+ - Snowstorm
+ - Flowers
+ - Pictures
+ - Plastic Bird
+ - Temperature's Rising
+ - Don't Let Our Youth Go to Waste
+ - When Will You Come Home
+ - Blue Thunder
+ - Ceremony
+ - Tugboat
 show-date: 1989-12-13
 category: 1989
 show-radio: 

@@ -14,7 +14,8 @@ show-lastfm:
 show-cancelled:
 performers: [
   "Britta Phillips - bass",
-  "Dean Wareham - guitar/vocals"
+  "Dean Wareham - guitar/vocals",
+  "Kramer - keyboards"
   ]
 facebook-event-url:
 show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2019-08-12/2019-08-12-dean-britta-butterfly-cabinet-poster.jpg
