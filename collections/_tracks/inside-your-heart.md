@@ -13,6 +13,8 @@ available-on:
     url: /luna/releases/luna-inside-your-heart/
   - release: "Pledgemusic bonus"
     url: https://www.fullofwishes.co.uk/2017/08/10/luna-sentimental-education-pledgemusic-updates/
+  - release: "Postscripts"
+    url: /luna/releases/luna-postscripts/
 ahfow-posts:
 ---
 

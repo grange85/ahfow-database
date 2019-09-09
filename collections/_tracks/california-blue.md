@@ -66,4 +66,6 @@ track-original: Roy Orbison
 available-on:
  - release: Luna - California Blue / Rock Yr Baby
    url: /luna/releases/luna-california-blue-rock-yr-baby/
+ - release: "Postscripts"
+   url: /luna/releases/luna-postscripts/
 ---

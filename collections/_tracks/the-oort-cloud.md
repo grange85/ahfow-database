@@ -10,7 +10,7 @@ track-sort: OORT CLOUD
 track-original: 
 available-on:
   - release: "Something In The Air"
-    url: /database/luna/releases/luna-something-in-the-air/
-  - release: "Postmarks"
-    url: /database/luna/releases/luna-postscripts/
+    url: /luna/releases/luna-something-in-the-air/
+  - release: "Postscripts"
+    url: /luna/releases/luna-postscripts/
 ---

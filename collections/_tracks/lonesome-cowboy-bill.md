@@ -57,4 +57,6 @@ track-original: The Velvet Underground
 available-on:
  - release: Luna / Cheval Sombre - Lonesome Cowboy Bill
    url: /luna/releases/luna-lonesome-cowboy-bill/
+ - release: "Postscripts"
+   url: /luna/releases/luna-postscripts/
 ---
