@@ -10,6 +10,24 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - California (All The Way)
+  - Tiger Lily
+  - Friendly Advice
+  - Bewitched
+  - This Time Around
+  - Great Jones St.
+  - Going Home
+  - Into the Fold
+  - I Know You Tried
+  - Sleeping Pill
+  - Fire in Cairo
+  - I Want Everything
+  - Math Wiz
+  - Lost in Space
+  - Malibu Love Nest
+  - 23 Minutes in Brussels
+  - Bonnie and Clyde
+setlist-source: Dean Wareham
 show-date: 2019-10-02
 date-added: 2019-04-26
 category: 2019
