@@ -24,13 +24,11 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: https://lh-st.com/shows/10-12-2019-luna-performing-bewitched/
 show-venue-website: 
 show-additional: 
 support:
 show-series: Luna play Bewitched
 ---
 Luna play Bewitched
-
-Tickets on sale Friday 19th April at 10am EDT  
 

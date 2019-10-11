@@ -24,13 +24,11 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: https://lh-st.com/shows/10-13-2019-luna-performing-penthouse/
 show-venue-website: 
 show-additional: 
 support:
 show-series: Luna play Penthouse
 ---
 Luna play Penthouse
-
-Tickets on sale Friday 19th April at 10am EDT  
 
