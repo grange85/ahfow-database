@@ -10,6 +10,22 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow by The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - Bonnie and Clyde
+  - That’s What You Always Say
+  - Bewitched
+  - Car Wash Hair
+  - Blue Thunder
+setlist-source: Dean Wareham
 show-date: 2019-10-01
 date-added: 2019-04-26
 category: 2019

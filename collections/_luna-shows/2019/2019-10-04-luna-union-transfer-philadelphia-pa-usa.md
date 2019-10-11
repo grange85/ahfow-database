@@ -10,6 +10,26 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow by The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - Bonnie and Clyde
+  - That’s What You Always Say
+  - Most of The Time
+  - Crazy People
+  - Tracy I Love You
+  - Time to Quit
+  - ^encore
+  - Indian Summer
+  - Friendly Advice
+setlist-source: Dean Wareham
 show-date: 2019-10-04
 date-added: 2019-04-18
 category: 2019

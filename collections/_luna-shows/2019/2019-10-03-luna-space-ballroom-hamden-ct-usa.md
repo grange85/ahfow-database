@@ -10,6 +10,23 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Slide
+  - 23 Minutes in Brussels
+  - Inside Your Heart
+  - Sideshow by The Seashore
+  - Weird and Woozy
+  - Pup Tent
+  - I Can't Wait
+  - Bewitched
+  - Malibu Love Nest
+  - Still at Home
+  - Chinatown 
+  - Moon Palace
+  - Black Postcards
+  - ^encore
+  - Season of The Witch
+  - Friendly Advice
+setlist-source: Dean Wareham
 show-date: 2019-10-03
 date-added: 2019-04-30
 category: 2019

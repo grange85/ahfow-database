@@ -10,6 +10,25 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow by The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - ^encore
+  - California (All The Way)
+  - Broken Chair
+  - Malibu Love Nest
+  - Pup Tent
+  - Indian Summer
+  - ^encore 2
+  - Friendly Advice
+setlist-source: photo
 show-date: 2019-10-05
 date-added: 2019-04-18
 category: 2019
