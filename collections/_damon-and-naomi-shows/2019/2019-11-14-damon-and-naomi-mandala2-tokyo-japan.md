@@ -19,7 +19,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: https://ssl.form-mailer.jp/fms/36a3b84d475895
 show-venue-website: 
 show-additional:
 show-series: 

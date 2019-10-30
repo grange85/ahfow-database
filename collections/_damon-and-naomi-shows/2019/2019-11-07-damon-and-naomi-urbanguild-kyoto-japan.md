@@ -19,7 +19,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: http://www.urbanguild.net/ur_schedule/event/117-thu-damon-and-naomi-japan-tour-2019
 show-venue-website: 
 show-additional:
 show-series: 

@@ -19,7 +19,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: https://www.conpass.jp/8064.html
 show-venue-website: 
 show-additional:
 show-series: 
