@@ -31,6 +31,9 @@ show-additional:
 support:
  - Lake Ruth
 show-series: Luna play Lunapark
+show-download:
+   site: From the Basement
+   url: https://tdk-c90.blogspot.com/2019/10/2019-10-18-luna-new-york-elsewhere-hall.html
 ---
 Luna play Lunapark
 

@@ -30,6 +30,9 @@ show-venue-website:
 show-additional: 
 support:
 show-series: Luna play Penthouse
+show-download:
+   site: NYCTaper
+   url: http://www.nyctaper.com/2019/10/luna-october-20-2019-bowery-ballroom/
 ---
 Luna play Penthouse
 

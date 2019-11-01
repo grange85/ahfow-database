@@ -16,7 +16,7 @@ performers: [
   ]
 facebook-event-url: 
 show-poster-url: 
-show-ticket-url: 
+show-ticket-url: http://tsurufes.jp/index.html#damonnaomi
 show-venue-website: 
 show-additional:
 show-series: 
