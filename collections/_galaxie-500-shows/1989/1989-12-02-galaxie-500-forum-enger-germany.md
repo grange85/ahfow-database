@@ -2,7 +2,22 @@
 layout: show
 artistslug: galaxie-500
 show-venue: 'Forum, Enger, Germany'
-show-setlist: 
+show-setlist: [
+  "Flowers",
+  "Pictures",
+  "Decomposing Trees",
+  "Snowstorm",
+  "Temperature's Rising",
+  "Don't Let Our Youth Go to Waste",
+  "Plastic Bird",
+  "Victory Garden",
+  "When Will You Come Home",
+  "Blue Thunder",
+  "Ceremony",
+  "Here She Comes Now",
+  "Tugboat",
+  "Rain"
+  ]
 show-date: 1989-12-02
 category: 1989
 show-radio: 
