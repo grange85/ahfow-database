@@ -45,7 +45,7 @@ show-download:
 links:
  - url: https://www.fullofwishes.co.uk/2002/10/01/video-galaxie-500-on-snub-tv/
    source: A Head Full of Wishes
-   title: Video: Galaxie 500 on Snub TV
+   title: "Video: Galaxie 500 on Snub TV"
 
 ---
 
