@@ -3,8 +3,9 @@ layout: show
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Waterfront, Norwich, UK'
+show-venue: 'Bi Nuu, Berlin, Germany'
 address: |
+  Bi Nuu
   Im U-Bhf.,  
   Schlesisches Tor, 
   10997 Berlin, 
