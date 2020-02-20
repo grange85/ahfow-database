@@ -9,6 +9,23 @@ address: |
   Canada
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow By The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - Bonnie and Clyde
+  - ^encore
+  - Fire in Cairo
+  - Malibu Love Nest
+  - Bewitched
+  - Indian Summer
+  - Friendly Advice
 show-date: 2020-02-13
 date-added: 2020-01-06
 category: 2020

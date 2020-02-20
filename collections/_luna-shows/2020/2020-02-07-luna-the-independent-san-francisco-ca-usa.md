@@ -9,6 +9,24 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Inside Your Heart
+  - That’s What You Always Say
+  - Thje Owl and The Pussycat
+  - Anesthesia
+  - Bobby Peru
+  - Fire in Cairo
+  - Superfreaky Memories
+  - Cindy Tastes of Barbecue
+  - Going Home
+  - Black Postcards
+  - Still at Home
+  - Malibu Love Nest
+  - Tiger Lily
+  - IHOP
+  - ^encore
+  - Bewitched
+  - Friendly Advice
+  - Indian Summer
 show-date: 2020-02-07
 date-added: 2019-09-16
 category: 2020

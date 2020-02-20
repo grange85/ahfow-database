@@ -10,6 +10,23 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - California Blue
+  - That’s What You Always Say
+  - The Owl and The Pussycat
+  - Inside Your Heart
+  - Bobby Peru
+  - Superfreaky Memories
+  - Cindy Tastes of Barbecue
+  - Math Wiz
+  - Black Postcards
+  - Malibu Love Nest
+  - Lost in Space
+  - 23 Minutes in Brussels
+  - Bewitched
+  - IHOP
+  - ^encore
+  - Chinatown
+  - Friendly Advice
 show-date: 2020-02-05
 date-added: 2019-09-16
 category: 2020

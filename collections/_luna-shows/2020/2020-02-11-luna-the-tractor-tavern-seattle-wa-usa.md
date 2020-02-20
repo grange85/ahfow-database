@@ -9,6 +9,21 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Sideshow By The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin' and Peakin'
+  - Bonnie and Clyde
+  - ^encore
+  - Anesthesia
+  - Car Wash Hair
+  - Bobby Peru
+  - Black Postcards
 show-date: 2020-02-11
 date-added: 2019-10-23
 category: 2020

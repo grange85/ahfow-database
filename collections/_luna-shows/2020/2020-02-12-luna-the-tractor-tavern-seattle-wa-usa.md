@@ -9,6 +9,22 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - California (All The Way)
+  - Tiger Lily
+  - Friendly Advice 
+  - Bewitched
+  - This Time Around
+  - Great Jones St.
+  - Going Home
+  - Into the Fold
+  - I Know You Tried
+  - Sleeping Pill
+  - That's What You Always Say
+  - IHOP
+  - ^encore
+  - Malibu Love Nest
+  - Superfreaky Memories
+  - Indian Summer
 show-date: 2020-02-12
 date-added: 2019-11-01
 category: 2020

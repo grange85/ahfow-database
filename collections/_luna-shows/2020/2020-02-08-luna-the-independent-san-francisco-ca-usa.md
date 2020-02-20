@@ -9,6 +9,24 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
+  - Sideshow By The Seashore
+  - Moon Palace
+  - Double Feature
+  - 23 Minutes in  Brussels
+  - Lost in Space
+  - Rhythm King
+  - Kalamazoo
+  - Hedgehog
+  - Freakin’ and Peakin’
+  - Bonnie and Clyde
+  - ^encore
+  - California Blue
+  - Tracy I Love You
+  - Broken Chair
+  - Car Wash Hair
+  - ^encore 2
+  - Fuzzy Wuzzy
 show-date: 2020-02-08
 date-added: 2019-12-18
 category: 2020
