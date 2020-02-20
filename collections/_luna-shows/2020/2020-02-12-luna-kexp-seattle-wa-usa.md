@@ -9,6 +9,10 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+- Tiger Lily
+- Friendly Advice
+- Moon Palace
+- Car Wash Hair
 show-date: 2020-02-12
 date-added: 2020-02-10
 category: 2020
