@@ -9,6 +9,7 @@ address: |
   USA
 show-notes: ''
 show-setlist: 
+  - Chinatown
   - Sideshow By The Seashore
   - Moon Palace
   - Double Feature
