@@ -79,7 +79,7 @@ releases:
     format: 2xLP
     label: 20|20|20
     catno: 202020.17
-    imageurl: https://www.fullofwishes.co.uk/images/galaxie-500-record-store-day-2020-copenhagen.jpg
+    imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-record-store-day-2020-copenhagen.jpg
     groups:
       - group: A
         tracks:
