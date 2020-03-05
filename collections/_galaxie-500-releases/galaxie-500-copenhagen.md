@@ -71,9 +71,47 @@ releases:
             author: Reed/Cale/Morrison/Tucker
           - title: Don't Let Our Youth Go to Waste
             author: Jonathan Richman
+  - release:
+    version: 202020-rsd-lp
+    year: 2020
+    releasedate: 2020-04-18
+    type: album
+    format: 2xLP
+    label: 20|20|20
+    catno: 202020.17
+    imageurl: https://www.fullofwishes.co.uk/images/galaxie-500-record-store-day-2020-copenhagen.jpg
+    groups:
+      - group: A
+        tracks:
+          - title: Decomposing Trees
+            author: Krukowski/Wareham/Yang
+          - title: Fourth of July
+            author: Krukowski/Wareham/Yang
+          - title: Summertime
+            author: Krukowski/Wareham/Yang
+      - group: B
+        tracks:
+          - title: Sorry
+            author: Krukowski/Wareham/Yang
+          - title: When Will You Come Home
+            author: Krukowski/Wareham/Yang
+          - title: Spook
+            author: Krukowski/Wareham/Yang
+      - group: C
+        tracks:
+          - title: Listen, the Snow Is Falling
+            author: Yoko Ono
+          - title: Here She Comes Now
+            author: Reed/Cale/Morrison/Tucker
+          - title: Don't Let Our Youth Go to Waste
+            author: Jonathan Richman
+      - group: D (etching)
+    release_notes: |
+      Released for Record Store Day 2020.
+      Side 4 has an etching by tattoo artist Matt Crocker.
 ---
-Recorded at "Barbue," Copenhagen by Danmarks Radio P3, December 1, 1990
-Live sound by Kramer
-Recording produced by Anders Dohn and engineered by Peter Molander Christensen
-Cover photograph by Richard Bellia backstage at "La Dolce Vita," Lausanne, Thanksgiving Day, 1989
+Recorded at "Barbue," Copenhagen by Danmarks Radio P3, December 1, 1990  
+Live sound by Kramer  
+Recording produced by Anders Dohn and engineered by Peter Molander Christensen  
+Cover photograph by Richard Bellia backstage at "La Dolce Vita," Lausanne, Thanksgiving Day, 1989  
 Design by Naomi Yang

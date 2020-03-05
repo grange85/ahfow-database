@@ -23,6 +23,9 @@ show-ticket-url:
 show-venue-website:
 show-additional:
 support:
+ - Victory Garden
+ - Tugboat
+ - Ceremony
 ---
 _Bernie Party_  - benefit show for Bernie Sanders presidential campaign.  
 With Julia Holter, Hand Habits and others

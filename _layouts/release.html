@@ -101,7 +101,7 @@
 											</ul>
 										{% endfor %}
 										<ul>
-											<li>{{ releases.label }} {{ releases.catno }} ({{releases.year}})</li>
+											<li>{{ releases.label }} <em>({% if releases.catno %}{{ releases.catno }}, {% endif %}{{releases.year}})</em></li>
 											{% if releases.format %}<li>Format: {{releases.format}}</li>{% endif %}
 										</ul>
 										{% if releases.release_notes %}<div>{{releases.release_notes | newline_to_br}}</div>{% endif %}
