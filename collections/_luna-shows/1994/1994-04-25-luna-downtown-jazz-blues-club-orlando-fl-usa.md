@@ -18,6 +18,6 @@ show-poster-url: 'https://media.fullofwishes.co.uk/02-luna/show_assets/1994-04-2
 show-ticket-url:
 show-venue-website:
 show-additional:
+support:
+ - Low
 ---
-
-Supported by Low
