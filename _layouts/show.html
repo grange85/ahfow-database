@@ -36,6 +36,11 @@
 								<li>{{ ordinaldate }} - {{artist.name}} - {{ page.show-venue }}</li>
 							</ul>
 						</nav>
+						{% if page.show-cancelled %}
+						<div class="alert alert-danger" role="alert">
+					    	<strong>Cancelled</strong>
+						</div>
+						{% endif %}
 					</div>
 				</div>
 				<div class="row">
