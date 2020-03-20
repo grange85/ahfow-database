@@ -17,7 +17,7 @@ date-added: 2019-12-16
 category: 2020
 show-radio:
 show-lastfm:
-show-cancelled:
+show-cancelled: true
 performers: [
   "Dean Wareham - guitar/vocals",
   "Britta Phillips - bass"
