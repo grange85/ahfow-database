@@ -82,6 +82,15 @@
 							</div>
 						</div>
 
+						{% if page.audio-preview %}
+						<h3>Audio</h3>
+						<div class="well">
+						<p class="audio"><a href="{{page.audio-preview.file}}">{{page.audio-preview.title}} ({{newtitle}})</a></p>
+						<audio controls="controls" preload="none" src="{{page.audio-preview.file}}"></audio>
+						</div>
+						{% endif %}
+
+
 						{% assign content = page.content | strip_newlines %}
 						{% if content != "" %}
 							<h3>Notes</h3>
