@@ -70,6 +70,7 @@
 						<div class="alert alert-info" role="alert">{% icon fa-key %} Key : {% icon fa-list %} = Setlist, {% icon fa-portrait %} = Poster, {% icon fa-camera-retro %} = Photos, {% icon fa-download %} = show available for download, {% icon fa-external-link-square-alt %} = links to reviews etc.</div>
 						<table class="table table-striped">
 						{% for show in shows %}
+							{% unless show.show-cancelled %}
 							{% assign day = show.show-date|date: "%-d"  %}
 						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
 							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
@@ -92,6 +93,7 @@
 								<span class="icon" title="links to reviews and other content">{% icon fa-external-link-square-alt %}</span>{% endif %}
 							</td>
 						</tr>
+						{% endunless %}
 						{% endfor %}
 						</table>
 					{% endif %}
