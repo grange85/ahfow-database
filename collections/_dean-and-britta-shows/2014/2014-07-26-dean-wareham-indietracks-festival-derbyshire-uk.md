@@ -52,5 +52,19 @@ photos:
   - user: grange85
     type: flickr-set
     id: 72157646043181385
+videos:
+  - type: youtube
+    data: "[
+      { 
+        video: 'https://www.youtube.com/watch?v=eIIpmT38x9w',
+        title: 'Dean Wareham - Strange. Indietracks, UK, 2014',
+        description: 'by StashPuppets'
+      },      
+      { 
+        video: 'https://www.youtube.com/watch?v=GdVU0NBBtHk',
+        title: 'Dean Wareham - Fourth of July. Indietracks 2014',
+        description: 'by StashPuppets'
+      }
+      ]"
 ---
 Played the indoor stage at 20:00 on the Saturday of the festival.
