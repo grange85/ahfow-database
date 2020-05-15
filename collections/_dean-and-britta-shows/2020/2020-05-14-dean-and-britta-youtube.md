@@ -6,6 +6,18 @@ artist:
 show-venue: YouTube
 show-notes: ''
 show-setlist:
+ - Tugboat
+ - Knives From Bavaria
+ - I Want Everything
+ - Cheese and Onions
+ - Into The Fold
+ - Heartless People
+ - Strange
+ - I'll Keep It With Mine
+ - Moon Palace
+ - Massachusetts
+ - Blue Thunder
+ - Ceremony
 show-date: 2020-05-14
 date-added: 2020-05-10
 category: 2020
