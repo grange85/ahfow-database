@@ -6,6 +6,20 @@ artist:
 show-venue: Veeps
 show-notes: ''
 show-setlist:
+ - I'm So Bored With The USA
+ - The Carnival is Over
+ - 23 Minutes in Brussels
+ - Mountains of The Moon
+ - Another Day
+ - "^Poem: The Jumblies (Edward Lear)"
+ - Love is Colder Than Death
+ - Decomposing Trees
+ - Emancipated Hearts
+ - Drive
+ - Fourth of July
+ - "^Poem: On Thinking About Hell (Bertolt Brecht)"
+ - Indian Summer
+ - Massachusetts
 show-date: 2020-05-30
 date-added: 2020-05-25
 category: 2020
