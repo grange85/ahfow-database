@@ -18,7 +18,7 @@ show-setlist:
   - title: That's What You Always Say
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/07-luna-thats-what-you-always-say.mp3
   - title: Time to Quit
-    url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/07-luna-thats-what-you-always-say.mp3
+    url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/08-luna-time-to-quit.mp3
   - title: Indian Summer
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/09-luna-indian-summer.mp3
 show-date: 1993-06-13
