@@ -11,7 +11,7 @@ show-setlist:
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/03-luna-friendly-advice.mp3
   - title: Blue Thunder
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/04-luna-blue-thunder.mp3
-  - title: SHey Sister
+  - title: Hey Sister
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/05-luna-hey-sister.mp3
   - title: I Can't Wait
     url: https://media.fullofwishes.co.uk/02-luna/show_assets/1993-06-13/06-luna-i-cant-wait.mp3
