@@ -3,9 +3,24 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Veeps
+show-venue: Veeps / Instagram Live
 show-notes: ''
 show-setlist:
+ - title: Broken Chair
+   notes: Sean Eden on Instagram Live
+ - title: Neon Lights
+ - title: Malibu Love Nest
+ - title: Most of The Time
+ - title: Chinatown
+ - title: Broken Chair
+ - title: ^Monica (poem by Hera Lindsay Bird)
+ - title: Bonnie and Clyde
+ - title: Superfreaky Memories
+ - title: Teenage Lightning
+ - title: Cindy Tastes of Barbecue
+ - title: ^Letters to Wendy’s (poem by Joe Wenderoth)
+ - title: 23 Minutes in Brussels
+ - title: Car Wash Hair 
 show-date: 2020-06-27
 date-added: 2020-06-16
 category: 2020
@@ -22,6 +37,8 @@ show-ticket-url: https://deanandbritta.veeps.com/stream/events/d502eab985fc
 show-venue-website:
 show-additional:
 support:
+ - Sean Eden
 show-series: Dean & Britta play Luna
 ---
-Live stream from Dean & Britta's home in Los Angeles 
+Live stream from Dean & Britta's home in Los Angeles.  
+Support from Sean on Instagram.
