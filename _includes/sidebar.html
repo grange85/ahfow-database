@@ -4,14 +4,29 @@
   </div>
   <div class="panel-body">
     <ul>
-      <li><a href="">News, reviews and articles</a></li>
-      <li><a href="http://www.facebook.com/fullofwishes/">Facebook</a></li>
-      <li><a href="http://twitter.com/ahfow/">@ahfow on Twitter</a></li>
-      <li><a href="http://instagram.com/fullofwishes/">@fullofwishes on Instagram</a></li>
+      <li><a href="/database/">Releases, shows and tracks</a></li>
+      <li><a href="https://www.facebook.com/fullofwishes/">Facebook</a></li>
+      <li><a href="https://twitter.com/ahfow/">@ahfow on Twitter</a></li>
+      <li><a href="https://instagram.com/fullofwishes/">@fullofwishes on Instagram</a></li>
       <li><a href="http://oblivious.fullofwishes.co.uk" >Oblivious (Tumblr)</a></li>
     </ul>
   </div>
 </div>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Bandcamp</h3>
+    </div>
+    <div class="panel-body">
+        <p>A collection of AHFoW related releases on Bandcamp</p>
+        <figure>
+            <a href="/articles/bandcamp-releases/"><img src="https://townsquare.media/site/838/files/2020/03/bandcamp.jpg?w=640&q=75" alt="A collection of AHFoW related releases on Bandcamp" /></a>
+            <figcaption><a href="/articles/bandcamp-releases/">Bandcamp releases</a></figcaption>
+        </figure>
+    </div>
+</div>
+
+
 
 <div class="panel panel-primary">
     <div class="panel-heading">
@@ -27,58 +42,33 @@
 </div>
 
 
-
-{% if page.layout == 'gigography' and artist.slug != 'galaxie-500' %}
 <div class="panel panel-primary">
-            <div class="panel-heading">
-              <h3 class="panel-title">Subscribe to {{artist.name}} show email updates</h3>
-            </div>
-            <div class="panel-body">
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=ahfow-upcoming-{{artist.slug}}-shows', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="ahfow-upcoming-{{artist.slug}}-shows" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
-            </div>
-          </div>
-{% endif %}
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Categories</h3>
-  </div>
-  <div class="panel-body">
-    <ul>
-        <li><a href="/category/13-most-beautiful">13 most beautiful</a></li>
-        <li><a href="/category/admin">admin</a></li>
-        <li><a href="/category/after-luna">after luna</a></li>
-        <li><a href="/category/artefacts">artefacts</a></li>
-        <li><a href="/category/audio">audio</a></li>
-        <li><a href="/category/britta-phillips">britta phillips</a></li>
-        <li><a href="/category/damon-naomi">damon & naomi</a></li>
-        <li><a href="/category/dean-britta">dean & britta</a></li>
-        <li><a href="/category/dean-wareham">dean wareham</a></li>
-        <li><a href="/category/editorial">editorial</a></li>
-        <li><a href="/category/favourite-galaxie-500-covers">favourite galaxie 500 covers</a></li>
-        <li><a href="/category/fortune">fortune</a></li>
-        <li><a href="/category/galaxie-500">galaxie 500</a></li>
-        <li><a href="/category/history">history</a></li>
-        <li><a href="/category/lost-tracks">lost tracks</a></li>
-        <li><a href="/category/luna">luna</a></li>
-        <li><a href="/category/miscellaneous">miscellaneous</a></li>
-        <li><a href="/category/news">news</a></li>
-        <li><a href="/category/originals">originals</a></li>
-        <li><a href="/category/other-people-s-blogs">other people's blogs</a></li>
-        <li><a href="/category/pictures">pictures</a></li>
-        <li><a href="/category/review">review</a></li>
-        <li><a href="/category/velvet-underground-tour-diary">velvet underground tour diary</a></li>
-        <li><a href="/category/video">video</a></li>
-    </ul>
-  </div>
+    <div class="panel-heading">
+        <h3 class="panel-title">Categories</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            {% assign allcategories = site.categories | sort %}
+            {% for category in allcategories %}
+                <li><a href="{{ category | first | slugify | prepend: '/category/' }}">{{ category | first }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>
 
 <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Archives</h3>
-  </div>
-  <div class="panel-body">
-    <select id="archives-dropdown-5" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+    <div class="panel-heading">
+        <h3 class="panel-title">Archives</h3>
+    </div>
+    <div class="panel-body">
+        <select id="archives-dropdown-5" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
         <option value="">Select Month</option>
+        <option value="/2020/07/"> July 2020 </option>
+        <option value="/2020/06/"> June 2020 </option>
+        <option value="/2020/05/"> May 2020 </option>
+        <option value="/2020/04/"> April 2020 </option>
+        <option value="/2020/03/"> March 2020 </option>
+        <option value="/2020/02/"> February 2020 </option>
         <option value="/2020/01/"> January 2020 </option>
         <option value="/2019/12/"> December 2019 </option>
         <option value="/2019/11/"> November 2019 </option>
@@ -92,7 +82,7 @@
         <option value="/2019/03/"> March 2019 </option>
         <option value="/2019/02/"> February 2019 </option>
         <option value="/2019/01/"> January 2019 </option>
-        <option value="/2018/12/"> Deceember 2018 </option>
+        <option value="/2018/12/"> December 2018 </option>
         <option value="/2018/11/"> November 2018 </option>
         <option value="/2018/10/"> October 2018 </option>
         <option value="/2018/09/"> September 2018 </option>
@@ -321,10 +311,9 @@
         <option value="/1998/05/"> May 1998 </option>
         <option value="/1997/10/"> October 1997 </option>
         <option value="/1997/03/"> March 1997 </option>
-    </select>
-  </div>
+        </select>
+    </div>
 </div>
-
 
 
 <div class="panel panel-primary">
@@ -333,12 +322,12 @@
   </div>
   <div class="panel-body">
     <ul>
-      <li><a href="http://feeds.feedburner.com/AHeadFullOfWishes">News and articles</a></li>
-      <li><a href="/podcasts.xml">Podcast</a> | <a href="https://itunes.apple.com/gb/podcast/a-head-full-of-wishes-podcasts/id1119771496?mt=2">iTunes</a></li>
-      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-luna-shows">Upcoming Luna shows</a></li>
-      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows">Upcoming Damon & Naomi shows</a></li>
-      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows">Upcoming Dean & Britta shows</a></li>
-      <li><a href="http://feeds.feedburner.com/ahfow-upcoming-dean-wareham-shows">Upcoming Dean Wareham shows</a></li>
+      <li><a href="https://feeds.feedburner.com/AHeadFullOfWishes">News and articles</a></li>
+      <li><a href="https://feeds.feedburner.com/ahfow-upcoming-luna-shows">Upcoming Luna shows</a></li>
+      <li><a href="https://feeds.feedburner.com/ahfow-upcoming-damon-and-naomi-shows">Upcoming Damon & Naomi shows</a></li>
+      <li><a href="https://feeds.feedburner.com/ahfow-upcoming-dean-and-britta-shows">Upcoming Dean & Britta shows</a></li>
+      <li><a href="https://feeds.feedburner.com/ahfow-upcoming-dean-wareham-shows">Upcoming Dean Wareham shows</a></li>
+      <li><a href="https://www.fullofwishes.co.uk/podcasts.xml">Podcast</a> | <a href="https://itunes.apple.com/gb/podcast/a-head-full-of-wishes-podcasts/id1119771496?mt=2">iTunes</a></li>
     </ul>
   </div>
 </div>
