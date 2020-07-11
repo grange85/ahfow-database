@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: YouTube
+show-venue: Dean & Britta's living room, Echo Park, LA, USA
 show-notes: ''
 show-setlist:
  - Tugboat

@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: Instagram Live
+show-venue: Dean & Britta's living room, Echo Park, LA, USA
 show-notes: ''
 show-setlist:
  - My Rifle, My Pony and Me

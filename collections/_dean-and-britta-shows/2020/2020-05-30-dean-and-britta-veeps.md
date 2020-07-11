@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Veeps
+show-venue: Dean & Britta's living room, Echo Park, LA, USA
 show-notes: ''
 show-setlist:
  - I'm So Bored With The USA

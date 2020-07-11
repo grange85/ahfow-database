@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Veeps / Instagram Live
+show-venue: Veeps
 show-notes: ''
 show-setlist:
 show-date: 2020-07-25
