@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Veeps
+show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
  - ^My Rifle, My Pony, and Me (false start)
@@ -35,7 +35,7 @@ performers: [
   "Roger Brogan - drums"
   ]
 facebook-event-url:
-show-poster-url: https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
+show-poster-url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2020-07-25/2007-07-25-dean-and-britta-living-room-marquee.jpg
 show-ticket-url: https://deanandbritta.veeps.com/stream/events/fe165d6a1fcf
 show-venue-website:
 show-additional:
