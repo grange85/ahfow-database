@@ -6,6 +6,23 @@ artist:
 show-venue: Veeps
 show-notes: ''
 show-setlist:
+ - ^My Rifle, My Pony, and Me (false start)
+ - My Rifle, My Pony, and Me
+ - Leave The Planet
+ - Hear The Wind Blow
+ - When Will You Come Home
+ - ^poem: The Canoeing Trip by Russell Edson
+ - King of Spain
+ - Parking Lot
+ - Snowstorm
+ - You Turned My Head Around
+ - Blue Thunder
+ - ^poem: The Lichtenberg Figures (extract) by Ben Lerner
+ - Sorry
+ - Victory Garden
+ - Don't Let Our Youth Go To Waste
+ - Sadness
+ - Ceremony
 show-date: 2020-07-25
 date-added: 2020-07-10
 category: 2020
@@ -14,7 +31,8 @@ show-lastfm:
 show-cancelled:
 performers: [
   "Britta Phillips - bass/keyboards/vocals",
-  "Dean Wareham - guitar/vocals"
+  "Dean Wareham - guitar/vocals",
+  "Roger Brogan - drums"
   ]
 facebook-event-url:
 show-poster-url: https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
