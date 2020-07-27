@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: WeLoveTheBetsey, Facebook and/or YouTube
+show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
 show-date: 2020-06-21
@@ -25,6 +25,8 @@ support:
 show-series: 
 ---
 Online festival in support of London venue The Betsey Trotwood.
+
+Pre-recorded.
 
 [Donate to The Betsey Trotwood crowdfunder](https://www.crowdfunder.co.uk/we-love-the-betsey)
 

@@ -3,7 +3,7 @@ layout: show
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Dean & Britta's living room, Echo Park, LA, USA
+show-venue: Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
  - title: Broken Chair
