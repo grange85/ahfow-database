@@ -11,13 +11,13 @@ show-setlist:
  - Leave The Planet
  - Hear The Wind Blow
  - When Will You Come Home
- - ^poem: The Canoeing Trip by Russell Edson
+ - ^poem - The Canoeing Trip by Russell Edson
  - King of Spain
  - Parking Lot
  - Snowstorm
  - You Turned My Head Around
  - Blue Thunder
- - ^poem: The Lichtenberg Figures (extract) by Ben Lerner
+ - ^poem - The Lichtenberg Figures (extract) by Ben Lerner
  - Sorry
  - Victory Garden
  - Don't Let Our Youth Go To Waste
