@@ -7,6 +7,6 @@ type: ahfow_track
 track-id: 
 track-lyrics: 
 track-author: Smith/Tolhurst/Dempsey
-track-sort: "INGRID SUPERSTAR"
+track-sort: "FIRE IN CAIRO"
 track-original: The Cure
 ---
