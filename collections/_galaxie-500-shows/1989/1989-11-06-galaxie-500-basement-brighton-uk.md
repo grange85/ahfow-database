@@ -31,9 +31,10 @@ performers: [
   "Damon Krukowski - drums"
   ]
 facebook-event-url: 
-show-poster-url: 
+show-poster-url: https://media.fullofwishes.co.uk/01-galaxie_500/show_assets/1989-11-06/1989-11-06-galaxie-500-brighton-flyer.jpg
 show-ticket-url: 
 show-venue-website: 
-show-additional: 
+support:
+ - Onionhead
 ---
 Incomplete setlist
