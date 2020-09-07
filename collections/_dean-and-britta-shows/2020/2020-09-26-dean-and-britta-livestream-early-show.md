@@ -18,8 +18,8 @@ performers: [
   "Roger Brogan - drums"
   ]
 facebook-event-url:
-show-poster-url: 
-show-ticket-url: 
+show-poster-url: https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
+show-ticket-url: https://deanandbritta.veeps.com/stream/events/25c7c930bc6d
 show-venue-website:
 show-additional:
 support:
