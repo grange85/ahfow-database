@@ -22,7 +22,7 @@ show-ticket-url: https://www.crowdfunder.co.uk/we-love-the-betsey
 show-venue-website:
 show-additional:
 support:
-show-series: 
+show-series: live stream
 ---
 Online festival in support of London venue The Betsey Trotwood.
 

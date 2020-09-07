@@ -36,5 +36,6 @@ show-ticket-url: https://deanandbritta.veeps.com/stream/events/8b4241490d72
 show-venue-website:
 show-additional:
 support:
+show-series: live stream
 ---
 Live stream from Dean & Britta's home in Los Angeles 

@@ -34,5 +34,6 @@ show-ticket-url:
 show-venue-website:
 show-additional:
 support:
+show-series: live stream
 ---
 Live stream from Dean & Britta's home in Los Angeles 

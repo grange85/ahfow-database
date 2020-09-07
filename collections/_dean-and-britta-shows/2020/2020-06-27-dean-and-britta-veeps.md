@@ -38,7 +38,7 @@ show-venue-website:
 show-additional:
 support:
  - Sean Eden
-show-series: Dean & Britta play Luna
+show-series: live stream
 ---
 Live stream from Dean & Britta's home in Los Angeles.  
 Support from Sean on Instagram.
