@@ -25,6 +25,6 @@ show-additional:
 support:
 show-series: live stream
 ---
-Late show - 12:00 PDT [the time where you are](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dean+%26+Britta+-+Live+stream+%28late+show%29&iso=20200929T18&p1=%3A&ah=1)
+Late show - 18:00 PDT [the time where you are](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dean+%26+Britta+-+Live+stream+%28late+show%29&iso=20200929T18&p1=%3A&ah=1)
 
 Live stream from Dean & Britta's home in Los Angeles.  
