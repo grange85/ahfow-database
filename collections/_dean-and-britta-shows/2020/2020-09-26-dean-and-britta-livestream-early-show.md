@@ -6,6 +6,22 @@ artist:
 show-venue: Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
+ - Air
+ - Night Nurse
+ - Pictures
+ - ^poem: Rodger Kamenetz - Yogi
+ - One Fine Summer Morning
+ - We're Not Supposed to be Lovers
+ - He Dines Out on Death
+ - Duchess
+ - The Slow Song
+ - Walking Through The Sleepy City
+ - The Bend in The River
+ - ^poem: John Betjeman - Hearts Together
+ - It's Getting Late
+ - I'll Keep It With Mine
+ - Tiger Lily
+ - Homeward Bound
 show-date: 2020-09-26
 date-added: 2020-09-07
 category: 2020
