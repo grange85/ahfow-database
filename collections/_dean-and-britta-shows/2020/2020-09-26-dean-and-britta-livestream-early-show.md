@@ -9,7 +9,7 @@ show-setlist:
  - Air
  - Night Nurse
  - Pictures
- - ^poem: Rodger Kamenetz - Yogi
+ - ^poem - Yogi by Rodger Kamenetz
  - One Fine Summer Morning
  - We're Not Supposed to be Lovers
  - He Dines Out on Death
@@ -17,7 +17,7 @@ show-setlist:
  - The Slow Song
  - Walking Through The Sleepy City
  - The Bend in The River
- - ^poem: John Betjeman - Hearts Together
+ - ^poem - Hearts Together by John Betjeman
  - It's Getting Late
  - I'll Keep It With Mine
  - Tiger Lily
