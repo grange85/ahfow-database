@@ -6,6 +6,21 @@ artist:
 show-venue: Live stream from Dean & Britta's living room, Echo Park, Los Angeles, CA, USA
 show-notes: ''
 show-setlist:
+ - Air
+ - Night Nurse
+ - Into The Fold
+ - Flowers
+ - One Fine Summer Morning
+ - Anesthesia
+ - He Dines Out On Death
+ - Duchess
+ - ^Poem - Hot Dog Ass by Jennifer Knox
+ - Random Rules
+ - The Bend in The River
+ - It's Getting Late
+ - Homeward Bound
+ - Bobby Peru
+ - Tugboat
 show-date: 2020-09-26
 date-added: 2020-09-07
 category: 2020
