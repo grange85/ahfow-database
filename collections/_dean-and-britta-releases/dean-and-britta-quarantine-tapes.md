@@ -12,8 +12,8 @@ releases:
   - release:
     graph: true
     version: zoe-cds
-    year: 2006
-    releasedate: 2006
+    year: 2020
+    releasedate: 2020
     type: box-set
     format: 7 x lathe-cut singles
     label: PIAPTK 
