@@ -8,4 +8,5 @@ track-lyrics:
 track-author: Reed/Cale/Morrison/Tucker
 track-sort: "FEMME FATALE"
 track-original: The Velvet Underground
+cover: true
 ---

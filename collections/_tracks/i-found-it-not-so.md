@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Cheval Sombre
 track-sort: "I FOUND IT NOT SO"
 track-original: 
+cover: true
 ---

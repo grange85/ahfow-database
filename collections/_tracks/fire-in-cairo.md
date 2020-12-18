@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Smith/Tolhurst/Dempsey
 track-sort: "FIRE IN CAIRO"
 track-original: The Cure
+cover: true
 ---

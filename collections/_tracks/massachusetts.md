@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Gibb / Gibb / Gibb
 track-sort: "MASSACHUSETTS"
 track-original: Bee Gees
+cover: true
 ---

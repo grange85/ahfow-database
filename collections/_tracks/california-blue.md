@@ -63,6 +63,7 @@ track-lyrics: |
 track-author: Orbison / Lynne / Petty
 track-sort: "CALIFORNIA BLUE"
 track-original: Roy Orbison
+cover: true
 available-on:
  - release: Luna - California Blue / Rock Yr Baby
    url: /luna/releases/luna-california-blue-rock-yr-baby/

@@ -12,5 +12,6 @@ available-on:
   - release: "Dean & Britta - Quarantine Tapes"
     url: /database/dean-and-britta/dean-and-britta-releases/dean-and-britta-quarantine-tapes/
 ahfow-posts:
+cover: true
 ---
 

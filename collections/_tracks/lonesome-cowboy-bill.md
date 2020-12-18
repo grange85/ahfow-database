@@ -59,4 +59,5 @@ available-on:
    url: /luna/releases/luna-lonesome-cowboy-bill/
  - release: "Postscripts"
    url: /luna/releases/luna-postscripts/
+cover: true
 ---

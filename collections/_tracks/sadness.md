@@ -40,4 +40,5 @@ track-sort: "FOURTEEN AUSPICIOUS DREAMS"
 track-original: Donovan
 available-on:
 ahfow-posts:
+cover: true
 ---

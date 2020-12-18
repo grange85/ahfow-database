@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Jack Early
 track-sort: "MAKING ME SMILE"
 track-original: 
+cover: true
 ---

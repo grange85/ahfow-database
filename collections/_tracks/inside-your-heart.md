@@ -16,5 +16,6 @@ available-on:
   - release: "Postscripts"
     url: /luna/releases/luna-postscripts/
 ahfow-posts:
+cover: true
 ---
 

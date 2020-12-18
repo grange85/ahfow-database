@@ -11,4 +11,5 @@ track-original: Willie Loco Alexander
 available-on:
  - release: Luna - A Sentimental Education
    url: /luna/releases/luna-a-sentimental-education/
+cover: true
 ---

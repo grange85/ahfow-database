@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Tawney
 track-sort: "SALLY FREE AND EASY"
 track-original: 
+cover: true
 ---

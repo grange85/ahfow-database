@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Stevie Nicks
 track-sort: "LANDSLIDE"
 track-original: Fleetwood Mac
+cover: true
 ---

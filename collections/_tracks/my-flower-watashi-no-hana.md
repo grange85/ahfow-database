@@ -9,4 +9,5 @@ track-lyrics:
 track-author: K. Tomokawa
 track-sort: "MY FLOWER"
 track-original: 
+cover: true
 ---

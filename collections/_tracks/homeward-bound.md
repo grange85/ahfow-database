@@ -8,4 +8,5 @@ track-lyrics:
 track-author: Paul Simon
 track-sort: "HOMEWARD BOUND"
 track-original: Scott Walker
+cover: true
 ---

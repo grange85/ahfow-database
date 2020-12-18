@@ -9,4 +9,5 @@ track-lyrics:
 track-author: Michael Holland
 track-sort: "HEARTLESS PEOPLE"
 track-original: 
+cover: true
 ---

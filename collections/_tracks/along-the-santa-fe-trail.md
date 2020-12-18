@@ -10,6 +10,7 @@ track-original:
 available-on:
  - release: Dean Wareham vs. Cheval Sombre
    url: /dean-and-britta/dean-wareham-releases/dean-wareham-along-the-santa-fe-trail/
+cover: true
 ---
 
 

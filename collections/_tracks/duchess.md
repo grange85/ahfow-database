@@ -8,4 +8,5 @@ track-lyrics:
 track-author: Scott Engel
 track-sort: "DUCHESS"
 track-original: Scott Walker
+cover: true
 ---

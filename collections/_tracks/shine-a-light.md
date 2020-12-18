@@ -8,4 +8,5 @@ track-lyrics:
 track-author: Jagger/Richards
 track-sort: "SHINE A LIGHT"
 track-original: The Rolling Stomes
+cover: true
 ---

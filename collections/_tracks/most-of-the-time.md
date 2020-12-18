@@ -11,4 +11,5 @@ track-original: Bob Dylan
 available-on:
  - release: Luna - A Sentimental Education
    url: /luna/releases/luna-a-sentimental-education/
+cover: true
 ---

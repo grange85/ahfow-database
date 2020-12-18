@@ -24,4 +24,5 @@ track-lyrics: |
 track-author: Irving Berlin
 track-sort: "WHITE CHRISTMAS"
 track-original: Bing Crosby
+cover: true
 ---
