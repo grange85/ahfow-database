@@ -36,7 +36,7 @@ track-lyrics: |
   Sadness is in your eye
   Sadness 
 track-author: Donovan Leitch 
-track-sort: "FOURTEEN AUSPICIOUS DREAMS"
+track-sort: "SADNESS"
 track-original: Donovan
 available-on:
 ahfow-posts:
