@@ -11,5 +11,4 @@ track-guitar-flag: true
 track-author: 
 track-sort: "HEY SISTER"
 track-original: 
-cover: true
 ---
