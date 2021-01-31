@@ -8,7 +8,7 @@ position: home
 	{% capture status %}{% cycle section_name: 'a', 'b' %}{% endcapture %}
 	{% assign artist = artistslugs[0] %}
 	{% assign artist = site.data.artists[artist] %}
-	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" or artist.slug == "dean-wareham" %}
+	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" %}
 		<div class="col-sm-6 col-md-6">
 			<div class="thumbnail">
 				<a href="{{site.baseurl}}/{{artist.slug}}/">
