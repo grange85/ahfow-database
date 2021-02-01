@@ -25,7 +25,7 @@ performers: [
   "Michio Kurihara - guitars"
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/03-damon-and-naomi/show_assets/2015-09-10/2015-09-10-vacant-tokyo-japan.jpg
+show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-09-10/2015-09-10-vacant-tokyo-japan.jpg
 show-ticket-url: http://baram-jp.weebly.com/damon--naomi-performing-fortune.html
 show-venue-website:
 show-additional:

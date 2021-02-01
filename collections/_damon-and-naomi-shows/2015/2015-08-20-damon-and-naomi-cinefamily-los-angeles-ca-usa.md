@@ -24,7 +24,7 @@ performers: [
   "Naomi Yang - keyboards/bass/vocals"
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-08-20/damon-and-naomi-fortune-poster.jpg
+show-poster-url: 
 show-ticket-url: http://cinefamily.ticketmob.com/event.cfm?id=105741&cart
 show-venue-website:
 show-additional:
