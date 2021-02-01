@@ -25,7 +25,7 @@ performers: [
   "Naomi Yang - keyboards/vocals"
   ]
 facebook-event-url: https://www.facebook.com/events/1166187433399885/
-show-poster-url: https://media.fullofwishes.co.uk/01-damon_and_naomi/show_assets/2016-04-19/2016-04-19-damon-and-naomi-madrid-poster.jpg
+show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2016-04-19/2016-04-19-damon-and-naomi-madrid-poster.jpg
 show-ticket-url: https://www.giglon.com/todos?idEvent=damon-naomi-richard-youngs
 show-venue-website: http://www.salaclamores.es/damon-naomi-richard-youngs/
 show-additional:
