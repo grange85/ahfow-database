@@ -21,7 +21,7 @@ show-setlist:
  - Fuzzy Wuzzy
  - ^encore 2
  - 23 Minutes in Brussels
- - Everybody's Talkim#n'
+ - Everybody's Talkin'
 show-date: 2017-11-16
 date-added: 2017-05-31
 category: 2017

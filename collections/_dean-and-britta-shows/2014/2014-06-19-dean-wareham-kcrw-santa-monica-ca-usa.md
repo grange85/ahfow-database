@@ -9,9 +9,9 @@ show-setlist: [
   "Holding Pattern",
   "Emancipated Hearts",
   "^interview",
-  "Air [The Incredible String Band|]",
+  "Air",
   "Love is Not a Roof Against The Rain",
-  "Heartless People [Michael Holland|]",
+  "Heartless People",
   "^interview",
   "Blue Thunder"
   ]

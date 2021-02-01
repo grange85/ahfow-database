@@ -16,7 +16,7 @@ show-setlist:
  - track:
    title: Ingrid Superstar
    notes: Britta Phillips
- - Califronia (All The Way)
+ - California (All The Way)
  - Tracy I Love You
  - Moon Palace
  - Lost in Space

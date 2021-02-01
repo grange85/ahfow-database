@@ -12,7 +12,7 @@ show-setlist:
  - A Second Life
  - Helsinki
  - Dance Me To The End of Love
- - Tranlucent Carriages
+ - Translucent Carriages
  - The Robot Speaks
 show-date: 2018-02-09
 date-added: 2017-12-14

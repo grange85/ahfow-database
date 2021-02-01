@@ -6,7 +6,7 @@ show-notes: ''
 show-setlist:
  - GTX3
  - Sideshow by the Seashore
- - Malibu Love Next
+ - Malibu Love Nest
  - Fire In Cairo
  - Bewitched
  - This Time Around

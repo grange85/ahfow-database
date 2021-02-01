@@ -8,7 +8,7 @@ show-notes: ''
 show-setlist: 
  - Strange
  - Tugboat
- - Ceremnony
+ - Ceremony
 show-date: 2017-09-22
 date-added: 2017-09-23
 category: 2017

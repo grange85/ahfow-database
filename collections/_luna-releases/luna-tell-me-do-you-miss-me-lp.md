@@ -30,7 +30,7 @@ releases:
          notes: live in Barcelona
        - title: Still at Home
          notes: live in Madrid
-       - title: Bewithced
+       - title: Bewitched
          notes: live in Boulder
        - title: Rock Your Baby
          notes: live in San Francisco

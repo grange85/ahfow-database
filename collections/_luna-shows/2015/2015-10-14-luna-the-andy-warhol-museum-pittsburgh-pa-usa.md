@@ -7,7 +7,7 @@ show-setlist:
  - Chinatown
  - Pup Tent
  - Going Home
- - Malibu Live Nest
+ - Malibu Love Nest
  - Anesthesia
  - Cindy Tastes of Barbecue
  - Sideshow by the Seashore

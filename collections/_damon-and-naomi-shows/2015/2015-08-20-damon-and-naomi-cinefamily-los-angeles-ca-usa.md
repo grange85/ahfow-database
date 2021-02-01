@@ -11,7 +11,7 @@ show-setlist:
  - Shadows
  - Towards Tomorrow
  - Sky Memories
- - Hunt House
+ - Hurt House
  - The North Light
  - Time Won't Own Me
 show-date: 2015-08-20

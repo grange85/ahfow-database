@@ -349,14 +349,14 @@ releases:
          author: Eugene Chadbourne
     - group: LP2 side A
       tracks:
-       - title: Chinatown (Salvati Mix)
-         notes:
+       - title: Chinatown
+         notes: Salvati mix
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: 23 Minutes in Brussels
          notes: 24 Minutes in Brussels
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Rhythm King (Salvati Mix)
-         notes:
+       - title: Rhythm King
+         notes: Salvati mix
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Tracy I Love You
          notes:
@@ -372,11 +372,11 @@ releases:
        - title: Bob Le Flambeur
          notes:
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Sideshow By The Seashore (Salvati Mix)
-         notes:
+       - title: Sideshow By The Seashore
+         notes: Salvati mix
          author: "Lyrics by Dean Wareham, music by Luna"
-       - title: Freakin' and Peakin' (Salvati Mix)
-         notes:
+       - title: Freakin' and Peakin'
+         notes: Salvati mix
          author: "Lyrics by Dean Wareham, music by Luna"
        - title: Outdoor Miner
          notes:

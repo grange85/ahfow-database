@@ -18,7 +18,7 @@ show-setlist:
  - Friendly Advice
  - ^encore
  - "Everybody's Talkin'"
- - Moon Palce
+ - Moon Palace
  - 23 Minutes in Brussels
 show-date: 2015-10-13
 category: 2015

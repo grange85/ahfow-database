@@ -18,7 +18,7 @@ show-setlist:
  - Friendly Advice
  - ^encore
  - Indian Summer
- - Everybosy's Talkin
+ - Everybody's Talkin'
  - ^encore 2
  - Pup Tent
 show-date: 2017-11-17

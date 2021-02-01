@@ -11,7 +11,7 @@ show-notes: ''
 show-setlist: 
   - Inside Your Heart
   - That’s What You Always Say
-  - Thje Owl and The Pussycat
+  - The Owl and The Pussycat
   - Anesthesia
   - Bobby Peru
   - Fire in Cairo
