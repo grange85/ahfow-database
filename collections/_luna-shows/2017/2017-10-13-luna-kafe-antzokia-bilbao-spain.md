@@ -32,7 +32,7 @@ performers: [
   "Lee Wall - drums",
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
 show-ticket-url: https://www.ticketea.com/entradas-concierto-luna-kafe-antzokia-bilbao/
 show-venue-website: http://www.kafeantzokia.eus/en/agenda/luna/
 show-additional:

@@ -32,7 +32,7 @@ performers: [
   "Lee Wall - drums",
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/_master/luna-spain-2017-10.jpg
+show-poster-url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10/luna-spain-2017-10.jpg
 show-ticket-url: https://www.notikumi.com/channel/escenario-santander/2017/10/5/concierto-de-luna-en-santander
 show-venue-website:
 show-additional:
