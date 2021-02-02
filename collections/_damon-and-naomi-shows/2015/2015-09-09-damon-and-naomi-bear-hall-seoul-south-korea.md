@@ -14,7 +14,7 @@ performers: [
   "Naomi Yang - keyboards/bass/vocals"
   ]
 facebook-event-url:
-show-poster-url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2015-09-09/2015-09-09-bear-hall-seoul-south-korea-poster.jpg
+show-poster-url: 
 show-ticket-url:
 show-venue-website:
 show-additional:
