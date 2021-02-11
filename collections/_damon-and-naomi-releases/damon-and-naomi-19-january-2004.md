@@ -32,7 +32,7 @@ releases:
          author: Krukowski/Yang
        - title: Song to the Siren
          author: Tim Buckley
-       - title: My Flower
+       - title: My Flower (Watashi No Hana)
          author: K Tomokawa
        - title: Love
          author: Aizawa/Hayakawa
