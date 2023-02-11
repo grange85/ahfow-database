@@ -5,6 +5,13 @@ on:
     inputs:
       tags:
         description: 'manual deploy'
+      deploy-environment:
+        type: choice
+        description: Environment
+        required: true
+        options:
+        - development
+        - production
 #  push:
 #    branches:
 #      - feature/rebirth
@@ -16,7 +23,7 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
     environment:
-      name: development
+      name: ${{ github.event.inputs.deploy-environment }}
       url: https://dev-www.fullofwishes.co.uk
     steps:
     - uses: actions/checkout@v3
