@@ -7,7 +7,7 @@ on:
         description: 'manual deploy'
   push:
     branches:
-      - main
+      - feature/rebirth
   schedule:
     # Schedule to post every day
     - cron: '37 6 * * *'
