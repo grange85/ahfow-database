@@ -7,7 +7,7 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
     environment:
-      name: ${{ github.event.client-payload.deploy-environment }}
+      name: ${{ github.event.client_payload.deploy-environment }}
       url: https://${{ vars.S3_Bucket }}
     steps:
     - uses: actions/checkout@v3
