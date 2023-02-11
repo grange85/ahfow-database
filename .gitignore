@@ -152,3 +152,9 @@ build-iPhoneSimulator/
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
 .jekyll-cache
+
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
