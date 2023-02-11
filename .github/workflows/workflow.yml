@@ -5,12 +5,12 @@ on:
     inputs:
       tags:
         description: 'manual deploy'
-  push:
-    branches:
-      - feature/rebirth
-  schedule:
-    # Schedule to post every day
-    - cron: '37 6 * * *'
+#  push:
+#    branches:
+#      - feature/rebirth
+#  schedule:
+#    # Schedule to post every day
+#    - cron: '37 6 * * *'
 
 jobs:
   deployment:
