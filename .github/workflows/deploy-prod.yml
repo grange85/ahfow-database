@@ -7,11 +7,11 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
     environment:
-      name: ${{ github.event.client_payload.deploy-environment }}
+      name: ${{ github.event.client_payload.deploy_environment }}
       url: https://${{ vars.S3_Bucket }}
     steps:
     - uses: actions/checkout@v3
-    - run: echo ${{ github.event.client_payload.deploy-environment }}
+    - run: echo ${{ github.event.client_payload.deploy_environment }}
     - run: echo 'deploy environment'
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v3
