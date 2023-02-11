@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Teragram Ballroom, Los Angeles, CA, USA
+show-venue: "Teragram Ballroom, Los Angeles, CA, USA"
+title: "17th March 2017 - Britta Phillips - Teragram Ballroom, Los Angeles, CA, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-17

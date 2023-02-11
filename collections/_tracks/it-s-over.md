@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: It's Over
 name: it-s-over
@@ -8,5 +9,6 @@ track-id:
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: "IT'S OVER"
+track-alpha: I
 track-original: 
 ---

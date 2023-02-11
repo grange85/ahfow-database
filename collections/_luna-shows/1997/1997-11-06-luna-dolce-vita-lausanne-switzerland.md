@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Dolce Vita, Lausanne, Switzerland'
+show-venue: "Dolce Vita, Lausanne, Switzerland"
+title: "6th November 1997 -  Luna - Dolce Vita, Lausanne, Switzerland"
 show-setlist: 
 show-date: 1997-11-06
 category: 1997

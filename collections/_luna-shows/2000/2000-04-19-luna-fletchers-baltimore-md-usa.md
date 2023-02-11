@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Fletchers, Baltimore MD, USA'
+show-venue: "Fletchers, Baltimore MD, USA"
+title: "19th April 2000 -  Luna - Fletchers, Baltimore MD, USA"
 show-setlist: [
   "Pup Tent",
   "Superfreaky Memories",

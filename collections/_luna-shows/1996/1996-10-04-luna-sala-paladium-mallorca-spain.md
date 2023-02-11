@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Sala Paladium, Mallorca, Spain'
+show-venue: "Sala Paladium, Mallorca, Spain"
+title: "4th October 1996 -  Luna - Sala Paladium, Mallorca, Spain"
 show-setlist: 
 show-date: 1996-10-04
 category: 1996

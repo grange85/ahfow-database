@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Southpaw, Brooklyn NY, USA'
+show-venue: "Southpaw, Brooklyn NY, USA"
+title: "22nd August 2003 -  Luna - Southpaw, Brooklyn NY, USA"
 show-setlist: [
   "IHOP",
   "Swedish Fish",

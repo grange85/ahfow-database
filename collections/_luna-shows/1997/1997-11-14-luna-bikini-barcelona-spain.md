@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Bikini, Barcelona, Spain'
+show-venue: "Bikini, Barcelona, Spain"
+title: "14th November 1997 -  Luna - Bikini, Barcelona, Spain"
 show-setlist: [
   "Sideshow By The Seashore",
   "Pup Tent",

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
-section: 05-Magic Hour album
+section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
 initial_release_date: 1995
-albumname:  Will They Turn You On Or Will They Turn On You
+albumname: " Will They Turn You On Or Will They Turn On You"
+title: "Magic Hour -  Will They Turn You On Or Will They Turn On You"
 artist: Magic Hour
 bandcamp-url: https://magic-hour.bandcamp.com/album/will-they-turn-you-on-or-will-they-turn-on-you
 bandcamp-id: 2107196421

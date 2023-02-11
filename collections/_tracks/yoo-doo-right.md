@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Yoo Doo Right
 name: yoo-doo-right
@@ -8,6 +9,7 @@ track-id: 171
 track-lyrics: 
 track-author: Can
 track-sort: "YOO DOO RIGHT"
+track-alpha: Y
 track-original: Can
 cover: true
 ---

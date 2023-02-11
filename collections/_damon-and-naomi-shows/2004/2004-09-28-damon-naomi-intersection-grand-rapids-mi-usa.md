@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Intersection, Grand Rapids MI, USA'
+show-venue: "Intersection, Grand Rapids MI, USA"
+title: "28th September 2004 -  Damon & Naomi - Intersection, Grand Rapids MI, USA"
 show-setlist: 
 show-date: 2004-09-28
 category: 2004

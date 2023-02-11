@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trocadero, Philadelphia PA, USA'
+show-venue: "Trocadero, Philadelphia PA, USA"
+title: "11th May 2002 -  Luna - Trocadero, Philadelphia PA, USA"
 show-setlist: [
   "1995",
   "Weird And Woozy",

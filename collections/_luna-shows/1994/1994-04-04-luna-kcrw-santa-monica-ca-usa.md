@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'KCRW, Santa Monica CA, USA'
+show-venue: "KCRW, Santa Monica CA, USA"
+title: "4th April 1994 -  Luna - KCRW, Santa Monica CA, USA"
 show-setlist: [
   "Tiger Lily",
   "Going Home",

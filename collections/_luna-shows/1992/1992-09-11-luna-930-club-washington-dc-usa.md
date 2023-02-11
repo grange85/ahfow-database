@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "11th September 1992 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: 
 show-date: 1992-09-11
 category: 1992

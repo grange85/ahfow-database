@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "LEscalier, Liege, Belgium"
+title: "26th October 2002 -  Luna - LEscalier, Liege, Belgium"
 show-setlist: [
   "1995",
   "Black Champagne",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'White Noise Records, Hong Kong, China'
+show-venue: "White Noise Records, Hong Kong, China"
+title: "6th December 2015 -  Damon & Naomi - White Noise Records, Hong Kong, China"
 show-setlist: [
   ]
 show-date: 2015-12-06

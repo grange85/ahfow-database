@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
-section: 05-Cagney & Lacee singles
+section: 04-Cagney & Lacee release
 artistslug: dean-wareham
 initial_release_date: 1998
-albumname: Borderline / Orange
+albumname: "Borderline / Orange"
+title: "Cagney & Lacee - Borderline / Orange"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_borderline_sleeve_04.jpg
 artist: Cagney & Lacee
 releases:

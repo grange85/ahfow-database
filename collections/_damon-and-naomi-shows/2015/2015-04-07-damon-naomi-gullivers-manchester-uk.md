@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Gullivers, Manchester UK'
+show-venue: "Gullivers, Manchester UK"
+title: "7th April 2015 -  Damon & Naomi - Gullivers, Manchester UK"
 show-setlist:
  - The Seeker
  - Amnesia

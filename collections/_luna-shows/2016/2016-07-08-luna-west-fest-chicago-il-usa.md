@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'West Fest, Damen Avenue, Chicago, IL, USA'
+show-venue: "West Fest, Damen Avenue, Chicago, IL, USA"
+title: "8th July 2016 -  Luna - West Fest, Damen Avenue, Chicago, IL, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2016-07-08

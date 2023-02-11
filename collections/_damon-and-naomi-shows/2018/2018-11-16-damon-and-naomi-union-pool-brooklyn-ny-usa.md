@@ -1,12 +1,14 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: '​Union Pool, Brooklyn, NY, USA'
+show-venue: "​Union Pool, Brooklyn, NY, USA"
+title: "16th November 2018 -  Damon & Naomi - ​Union Pool, Brooklyn, NY, USA"
 show-setlist:
- - Say Goodbye
+ - How Do I Say Goodbye
  - Judah and The Maccabees
  - New York City
- - A Spinning Dream
+ - A Shining Dream
  - Lilac Land
  - What She Brings
  - The Robot Speaks

@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: 'Huichica Music Festival, Sonoma, CA, USA'
+show-venue: "Huichica Music Festival, Sonoma, CA, USA"
+title: "9th June 2017 - Britta Phillips - Huichica Music Festival, Sonoma, CA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2017-06-09

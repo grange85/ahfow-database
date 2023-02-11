@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tokuzo, Nagoya, Japan'
+show-venue: "Tokuzo, Nagoya, Japan"
+title: "15th July 2002 -  Damon & Naomi - Tokuzo, Nagoya, Japan"
 show-setlist: [
   "Judah and the Maccabees",
   "Eye Of The Storm",

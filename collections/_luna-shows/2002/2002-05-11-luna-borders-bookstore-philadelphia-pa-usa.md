@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Borders Bookstore, Philadelphia PA, USA'
+show-venue: "Borders Bookstore, Philadelphia PA, USA"
+title: "11th May 2002 -  Luna - Borders Bookstore, Philadelphia PA, USA"
 show-setlist: [
   "Tiger Lily",
   "Swedish Fish",

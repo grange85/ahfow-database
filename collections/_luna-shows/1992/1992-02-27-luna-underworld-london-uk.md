@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Underworld, London, UK'
+show-venue: "Underworld, London, UK"
+title: "27th February 1992 -  Luna - Underworld, London, UK"
 show-setlist: [
   "Slide",
   "Slash Your Tires",

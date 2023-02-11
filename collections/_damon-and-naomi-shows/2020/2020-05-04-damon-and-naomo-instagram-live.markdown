@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 artist:
   name: Damon & Naomi
-show-venue: Instagram Live
+show-venue: "Instagram Live"
+title: "4th May 2020 -  Damon & Naomi - Instagram Live"
 show-notes: ''
 show-setlist:
  - Song To The Siren

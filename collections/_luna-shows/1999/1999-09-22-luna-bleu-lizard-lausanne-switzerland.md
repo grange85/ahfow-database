@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Bleu Lizard, Lausanne, Switzerland'
+show-venue: "Bleu Lizard, Lausanne, Switzerland"
+title: "22nd September 1999 -  Luna - Bleu Lizard, Lausanne, Switzerland"
 show-setlist: 
 show-date: 1999-09-22
 category: 1999

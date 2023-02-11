@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 03-Compilation
 artistslug: dean-wareham
 initial_release_date: 2009
-albumname: Speed Dating
+albumname: "Speed Dating"
+title: "Dean Wareham - Speed Dating"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/various-artists-speed-dating.jpg
 artist: Various artists
 releases:

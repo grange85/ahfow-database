@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
 initial_release_date: 2004
-albumname: Speedbumps
+albumname: "Speedbumps"
+title: "Luna - Speedbumps"
 releases:
   - release:
     version: little-teddy-7

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Olympia, Paris, France'
+show-venue: "Olympia, Paris, France"
+title: "16th June 1993 -  Luna - Olympia, Paris, France"
 show-setlist: 
 show-date: 1993-06-16
 category: 1993

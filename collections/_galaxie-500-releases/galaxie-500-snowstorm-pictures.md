@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 04-promo
 artistslug: galaxie-500
 categories : [discography, galaxie-500, single]
 initial_release_date: 2004
-albumname: Snowstorm / Pictures
+albumname: "Snowstorm / Pictures"
+title: "Galaxie 500 - Snowstorm / Pictures"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
 wikipedia:
 releases:

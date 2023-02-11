@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'WPST, Trenton NJ, USA'
+show-venue: "WPST, Trenton NJ, USA"
+title: "21st September 1992 -  Luna - WPST, Trenton NJ, USA"
 show-setlist: 
 show-date: 1992-09-21
 category: 1992

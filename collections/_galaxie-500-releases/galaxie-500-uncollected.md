@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: galaxie-500
 initial_release_date: 2004
-albumname: Uncollected Galaxie 500
+albumname: "Uncollected Galaxie 500"
+title: "Galaxie 500 - Uncollected Galaxie 500"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/uncollected
 bandcamp-id: 2614932935
@@ -137,4 +139,4 @@ releases:
          notes: video
          author: Krukowski/Wareham/Yang
 ---
-Previously available as part of the [box set](/galaxie-500/releases/galaxie-500-galaxie-500.html)
+Previously available as part of the [box set](/database/galaxie-500/releases/galaxie-500-galaxie-500/)

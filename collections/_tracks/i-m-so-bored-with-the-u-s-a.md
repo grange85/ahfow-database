@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I'm So Bored With The U. S. A.
 name: i-m-so-bored-with-the-u-s-a
@@ -7,6 +8,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Strummer / Jones
 track-sort: "I'M SO BORED"
+track-alpha: I
 track-original: The Clash
 available-on:
   - release: "Dean & Britta - Quarantine Tapes"

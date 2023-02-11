@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Knave, Osaka, Japan'
+show-venue: "Knave, Osaka, Japan"
+title: "12th October 2004 -  Luna - Knave, Osaka, Japan"
 show-setlist: 
 show-date: 2004-10-12
 category: 2004

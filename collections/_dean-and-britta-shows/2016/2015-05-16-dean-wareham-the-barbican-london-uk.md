@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Barbican, London, UK'
+show-venue: "The Barbican, London, UK"
+title: "16th May 2016 - Dean Wareham - The Barbican, London, UK"
 show-setlist: 
  - "^John Washing (1963) - Tom Verlaine"
  - "^Jill (1963) - Tom Verlaine"

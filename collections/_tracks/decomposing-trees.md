@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Decomposing Trees
 name: decomposing-trees
@@ -10,5 +11,6 @@ track-guitar: "verses: C D Amin\nchorus: Bmin Emin G A \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "DECOMPOSING TREES"
+track-alpha: D
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Dingwalls, London, UK'
+show-venue: "Dingwalls, London, UK"
+title: "29th October 2002 -  Luna - Dingwalls, London, UK"
 show-setlist: [
   "1995",
   "Lovedust",

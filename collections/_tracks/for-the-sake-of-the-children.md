@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: For The Sake Of The Children
 name: for-the-sake-of-the-children
@@ -8,6 +9,7 @@ track-id: 181
 track-lyrics: 
 track-author: Baskin/Relcheg
 track-sort: "FOR THE SAKE OF THE CHILDREN"
+track-alpha: F
 track-original: Henry Gibson
 cover: true
 ---

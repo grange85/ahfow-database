@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'NHK FM, Tokyo, Japan'
+show-venue: "NHK FM, Tokyo, Japan"
+title: "14th October 2004 -  Luna - NHK FM, Tokyo, Japan"
 show-setlist: 
 show-date: 2004-10-14
 category: 2004

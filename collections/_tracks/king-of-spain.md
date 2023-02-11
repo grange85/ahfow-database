@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: King of Spain
 name: king-of-spain
@@ -10,5 +11,6 @@ track-guitar: "verses: A G A\nchange: D A D A \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "KING OF SPAIN"
+track-alpha: K
 track-original: 
 ---

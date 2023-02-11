@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, New York NY, USA'
+show-venue: "Knitting Factory, New York NY, USA"
+title: "20th March 2003 -  Luna - Knitting Factory, New York NY, USA"
 show-setlist: [
   "Kill For Peace",
   "Bobby Peru",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Rat, Boston MA, USA'
+show-venue: "Rat, Boston MA, USA"
+title: "1st March 1988 -  Galaxie 500 - Rat, Boston MA, USA"
 show-setlist:
 show-date: 1988-03-01
 date-uncertain:

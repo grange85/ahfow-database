@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Magic Stick, Detroit MI, USA'
+show-venue: "Magic Stick, Detroit MI, USA"
+title: "26th October 2000 -  Damon & Naomi - Magic Stick, Detroit MI, USA"
 show-setlist: 
 show-date: 2000-10-26
 category: 2000

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'BBC Radio One, Manchester, UK'
+show-venue: "BBC Radio One, Manchester, UK"
+title: "13th December 1995 -  Luna - BBC Radio One, Manchester, UK"
 show-setlist: [
   "Indian Summer",
   "Lost In Space",

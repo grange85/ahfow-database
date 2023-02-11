@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Information Age
 name: information-age
@@ -8,5 +9,6 @@ track-id: 130
 track-lyrics: 
 track-author: 
 track-sort: "INFORMATION AGE"
+track-alpha: I
 track-original: 
 ---

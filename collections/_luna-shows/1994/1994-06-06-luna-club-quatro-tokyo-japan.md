@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Club Quatro, Tokyo, Japan'
+show-venue: "Club Quatro, Tokyo, Japan"
+title: "6th June 1994 -  Luna - Club Quatro, Tokyo, Japan"
 show-setlist: [
   "Sleeping Pill",
   "California (All The Way)",

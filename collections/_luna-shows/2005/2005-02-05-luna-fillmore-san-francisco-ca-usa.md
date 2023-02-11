@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Fillmore, San Francisco CA, USA'
+show-venue: "Fillmore, San Francisco CA, USA"
+title: "5th February 2005 -  Luna - Fillmore, San Francisco CA, USA"
 show-setlist: [
   "Sideshow By The Seashore",
   "Malibu Love Nest",

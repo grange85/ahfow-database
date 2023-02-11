@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Garage, London, UK'
+show-venue: "Garage, London, UK"
+title: "16th December 1995 -  Luna - Garage, London, UK"
 show-setlist: [
   "Friendly Advice",
   "Sideshow By The Seashore",

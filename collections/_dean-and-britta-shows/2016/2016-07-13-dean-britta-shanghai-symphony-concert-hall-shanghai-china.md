@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Shanghai Symphony Concert Hall, Shanghai, China
+show-venue: "Shanghai Symphony Concert Hall, Shanghai, China"
+title: "13th July 2016 - Dean & Britta - Shanghai Symphony Concert Hall, Shanghai, China"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

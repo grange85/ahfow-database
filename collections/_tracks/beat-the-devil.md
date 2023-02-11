@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Beat The Devil
 name: beat-the-devil
@@ -8,5 +9,6 @@ track-id: 379
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "BEAT THE DEVIL"
+track-alpha: B
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Melting Point, Athens, GA, USA'
+show-venue: "The Melting Point, Athens, GA, USA"
+title: "24th September 2009 -  Damon & Naomi - The Melting Point, Athens, GA, USA"
 show-setlist: 
 show-date: 2009-09-24
 category: 2009

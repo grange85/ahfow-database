@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Borderline, London, UK'
+show-venue: "Borderline, London, UK"
+title: "18th December 2010 -  Damon & Naomi - Borderline, London, UK"
 show-setlist: 
 show-date: 2010-12-18
 category: 2010

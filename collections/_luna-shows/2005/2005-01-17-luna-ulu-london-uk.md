@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'ULU, London, UK'
+show-venue: "ULU, London, UK"
+title: "17th January 2005 -  Luna - ULU, London, UK"
 show-setlist: [
   "Malibu Love Nest",
   "Lovedust",

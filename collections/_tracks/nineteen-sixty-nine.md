@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Nineteen Sixty-Nine
 name: nineteen-sixty-nine
@@ -8,5 +9,6 @@ track-id: 169
 track-lyrics: 
 track-author: 
 track-sort: "NINETEEN SIXTY-NINE"
+track-alpha: N
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Musical Instrument Museum, Phoenix, AZ, USA'
+show-venue: "Musical Instrument Museum, Phoenix, AZ, USA"
+title: "31st March 2019 -  Luna - Musical Instrument Museum, Phoenix, AZ, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2019-03-31

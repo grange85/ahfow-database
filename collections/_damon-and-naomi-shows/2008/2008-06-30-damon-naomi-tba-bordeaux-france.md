@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'tba, Bordeaux, France'
+show-venue: "tba, Bordeaux, France"
+title: "30th June 2008 -  Damon & Naomi - tba, Bordeaux, France"
 show-setlist: 
 show-date: 2008-06-30
 category: 2008

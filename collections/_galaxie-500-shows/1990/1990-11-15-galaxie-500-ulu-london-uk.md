@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'ULU, London, UK'
+show-venue: "ULU, London, UK"
+title: "15th November 1990 -  Galaxie 500 - ULU, London, UK"
 show-setlist: [
   "Decomposing Trees",
   "Fourth of July",

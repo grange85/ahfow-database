@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: A Song for You
 name: a-song-for-you
@@ -35,9 +36,10 @@ track-lyrics: |
     And tomorrow we will still be there
 track-author: Gram Parsons
 track-sort: "SONG FOR YOU"
+track-alpha: S
 track-original: Gram Parsons
 cover: true
 available-on:
  - release: Damon & Naomi - The Earth is Blue
-   url: /damon-and-naomi/releases/damon-and-naomi-the-earth-is-blue/
+   url: /database/damon-and-naomi/releases/damon-and-naomi-the-earth-is-blue/
 ---

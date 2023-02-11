@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Roxy, Valencia, Spain'
+show-venue: "Roxy, Valencia, Spain"
+title: "12th November 1997 -  Luna - Roxy, Valencia, Spain"
 show-setlist: 
 show-date: 1997-11-12
 category: 1997

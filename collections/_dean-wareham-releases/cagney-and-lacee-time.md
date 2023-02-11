@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
-section: 05-Cagney & Lacee singles
+section: 04-Cagney & Lacee release
 artistslug: dean-wareham
 initial_release_date: 1995
-albumname: Time / By The Way (I Still Love You)
+albumname: "Time / By The Way (I Still Love You)"
+title: "Cagney & Lacee - Time / By The Way (I Still Love You)"
 imageurl: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_time_sleeve_01.jpg
 artist: Cagney & Lacee
 releases:

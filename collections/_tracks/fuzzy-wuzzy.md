@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Fuzzy Wuzzy
 name: fuzzy-wuzzy
@@ -10,5 +11,6 @@ track-guitar: "Intro, Verse, End\nOne guitar plays a B chord\nThe other plays, B
 track-guitar-flag: true
 track-author: 
 track-sort: "FUZZY WUZZY"
+track-alpha: F
 track-original: 
 ---

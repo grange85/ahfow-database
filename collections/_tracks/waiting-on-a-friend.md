@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Waiting On A Friend
 name: waiting-on-a-friend
@@ -8,6 +9,7 @@ track-id: 250
 track-lyrics: 
 track-author: Jagger/Richards
 track-sort: "WAITING ON A FRIEND"
+track-alpha: W
 track-original: Rolling Stones
 cover: true
 ---

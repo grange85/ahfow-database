@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2006
-albumname: Soundtrack EP
+albumname: "Soundtrack EP"
+title: "Dean & Britta - Soundtrack EP"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_soundtrack.jpg
 releases:
   - release:

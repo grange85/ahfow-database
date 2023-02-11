@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'The Independent, San Francisco, CA, USA'
+show-venue: "The Independent, San Francisco, CA, USA"
+title: "7th February 2020 -  Luna - The Independent, San Francisco, CA, USA"
 address: |
   628 Divisadero St,
   San Francisco,

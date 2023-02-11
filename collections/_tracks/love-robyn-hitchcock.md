@@ -1,9 +1,10 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Love
 name: love-robyn-hitchcock
-permalink: tracks/love-robyn-hitchcock/
+permalink: /database/tracks/love-robyn-hitchcock/
 type: ahfow_track
 track-lyrics: |
     The sun is shining on the ground
@@ -53,9 +54,10 @@ track-lyrics: |
     I'm in love with you
 track-author: Robyn Hitchcock
 track-sort: "LOVE"
+track-alpha: L
 track-original: Robyn Hitchcock
 cover: true
 available-on:
  - release: Dean & Britta - Love / Fallin' in Love
-   url: /dean-and-britta/releases/dean-and-britta-love-fallin-in-love/
+   url: /database/dean-and-britta/releases/dean-and-britta-love-fallin-in-love/
 ---

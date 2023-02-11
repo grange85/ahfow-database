@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'El Sol, Madrid, Spain'
+show-venue: "El Sol, Madrid, Spain"
+title: "13th November 1997 -  Luna - El Sol, Madrid, Spain"
 show-setlist: [
   "Sideshow By The Seashore",
   "Pup Tent",

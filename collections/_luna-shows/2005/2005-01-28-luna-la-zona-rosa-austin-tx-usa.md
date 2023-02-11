@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'La Zona Rosa, Austin TX, USA'
+show-venue: "La Zona Rosa, Austin TX, USA"
+title: "28th January 2005 -  Luna - La Zona Rosa, Austin TX, USA"
 show-setlist: [
   "Chinatown",
   "Speedbumps",

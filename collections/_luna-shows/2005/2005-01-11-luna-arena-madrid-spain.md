@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Arena, Madrid, Spain'
+show-venue: "Arena, Madrid, Spain"
+title: "11th January 2005 -  Luna - Arena, Madrid, Spain"
 show-setlist: 
 show-date: 2005-01-11
 category: 2005

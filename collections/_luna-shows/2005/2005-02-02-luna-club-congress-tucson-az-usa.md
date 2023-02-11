@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Club Congress, Tucson AZ, USA'
+show-venue: "Club Congress, Tucson AZ, USA"
+title: "2nd February 2005 -  Luna - Club Congress, Tucson AZ, USA"
 show-setlist: [
   "Chinatown",
   "Speedbumps",

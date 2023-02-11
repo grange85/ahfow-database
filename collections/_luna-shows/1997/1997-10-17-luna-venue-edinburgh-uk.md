@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Venue, Edinburgh, UK'
+show-venue: "Venue, Edinburgh, UK"
+title: "17th October 1997 -  Luna - Venue, Edinburgh, UK"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

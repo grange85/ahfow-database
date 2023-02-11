@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Knaack, Berlin, Germany'
+show-venue: "Knaack, Berlin, Germany"
+title: "16th September 1999 -  Luna - Knaack, Berlin, Germany"
 show-setlist: 
 show-date: 1999-09-16
 category: 1999

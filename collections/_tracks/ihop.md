@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: IHOP
 name: ihop
@@ -10,5 +11,6 @@ track-guitar: "Intro (a lot of effects)\nVerse\nD,A,B\nBreak\nF#m, A, Bm\n\n(pro
 track-guitar-flag: true
 track-author: 
 track-sort: "IHOP"
+track-alpha: I
 track-original: 
 ---

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-1001-nights.jpg
 initial_release_date: 2009
-albumname: 1001 Nights
+albumname: "1001 Nights"
+title: "Damon & Naomi - 1001 Nights"
 releases:
   - release:
     version: factory-25-lp-dvd

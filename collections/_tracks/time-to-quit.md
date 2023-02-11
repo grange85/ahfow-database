@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Time to Quit
 name: time-to-quit
@@ -10,5 +11,6 @@ track-guitar: "C G F\n--------------------------\n--------------------------\n--
 track-guitar-flag: true
 track-author: 
 track-sort: "TIME TO QUIT"
+track-alpha: T
 track-original: 
 ---

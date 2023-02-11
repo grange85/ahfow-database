@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: dean-and-britta
 initial_release_date: 2015
-albumname:  "Mistress America: Original Motion Picture Soundtrack"
+albumname: "Mistress America: Original Motion Picture Soundtrack"
+title: "Dean & Britta -  Mistress America: Original Motion Picture Soundtrack"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-mistress-america.jpg
 releases:
   - release:

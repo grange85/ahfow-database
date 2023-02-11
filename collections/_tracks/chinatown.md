@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Chinatown
 name: chinatown
@@ -10,5 +11,6 @@ track-guitar: "G Am C (fill on high e string e-g-e-g-e)\nIn the tiny...\n\nDsus2
 track-guitar-flag: true
 track-author: 
 track-sort: "CHINATOWN"
+track-alpha: C
 track-original: 
 ---

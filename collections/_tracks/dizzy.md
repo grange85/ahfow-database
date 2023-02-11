@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Dizzy
 name: dizzy
@@ -10,5 +11,6 @@ track-guitar: "Chords\nC, F, G (Verse)\nA, G, A, G, F, C, Dm, F, C, Dm G. (Choru
 track-guitar-flag: true
 track-author: 
 track-sort: "DIZZY"
+track-alpha: D
 track-original: 
 ---

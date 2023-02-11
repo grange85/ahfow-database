@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Carnegie Hall, Dunfermline, UK'
+show-venue: "Carnegie Hall, Dunfermline, UK"
+title: "8th July 2009 - Dean & Britta - Carnegie Hall, Dunfermline, UK"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

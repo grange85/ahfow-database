@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Guild Cinema, Albuquerque, NM, USA'
+show-venue: "The Guild Cinema, Albuquerque, NM, USA"
+title: "4th November 2016 -  Damon & Naomi - The Guild Cinema, Albuquerque, NM, USA"
 show-setlist:
  - The Seeker
  - Amnesia

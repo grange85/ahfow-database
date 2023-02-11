@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Barbue, Copenhagen, Denmark'
+show-venue: "Barbue, Copenhagen, Denmark"
+title: "1st December 1990 -  Galaxie 500 - Barbue, Copenhagen, Denmark"
 show-setlist: [
   "Decomposing Trees",
   "Fourth of July",

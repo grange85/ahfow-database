@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Batschkapp, Frankfurt, Germany'
+show-venue: "Batschkapp, Frankfurt, Germany"
+title: "26th November 1990 -  Galaxie 500 - Batschkapp, Frankfurt, Germany"
 show-setlist: [
   "Decomposing Trees",
   "Fourth of July",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Agora Ballroom, Cleveland OH, USA'
+show-venue: "Agora Ballroom, Cleveland OH, USA"
+title: "3rd November 1999 -  Luna - Agora Ballroom, Cleveland OH, USA"
 show-setlist: [
   "Pup Tent",
   "Sideshow By The Seashore",

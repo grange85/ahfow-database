@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Cine Salesianos, Vigo, Spain'
+show-venue: "Cine Salesianos, Vigo, Spain"
+title: "30th June 2003 -  Luna - Cine Salesianos, Vigo, Spain"
 show-setlist: [
   "Slash Your Tires",
   "Lovedust",

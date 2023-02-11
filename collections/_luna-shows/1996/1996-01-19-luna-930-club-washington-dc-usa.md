@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "19th January 1996 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: [
   "Slide",
   "Chinatown",

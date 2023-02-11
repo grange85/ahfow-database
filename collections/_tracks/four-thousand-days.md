@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Four Thousand Days
 name: four-thousand-days
@@ -10,5 +11,6 @@ track-guitar: "key of D (mixolydian mode)\nWell [D] raise my rent...turn the clo
 track-guitar-flag: true
 track-author: 
 track-sort: "FOUR THOUSAND DAYS"
+track-alpha: F
 track-original: 
 ---

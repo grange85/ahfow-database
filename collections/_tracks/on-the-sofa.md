@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: On The Sofa
 name: on-the-sofa
@@ -8,5 +9,6 @@ track-id: 246
 track-lyrics: 
 track-author: 
 track-sort: "ON THE SOFA"
+track-alpha: O
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Jittoku, Kyoto, Japan'
+show-venue: "Jittoku, Kyoto, Japan"
+title: "7th November 2017 -  Damon & Naomi - Jittoku, Kyoto, Japan"
 show-setlist:
 show-date: 2017-11-07
 date-added: 2017-10-09

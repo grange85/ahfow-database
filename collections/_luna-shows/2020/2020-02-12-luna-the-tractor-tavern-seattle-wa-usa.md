@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'The Tractor Tavern, Seattle, WA, USA'
+show-venue: "The Tractor Tavern, Seattle, WA, USA"
+title: "12th February 2020 -  Luna - The Tractor Tavern, Seattle, WA, USA"
 address: |
   5213 Ballard Ave N.W.,
   Seattle, 
@@ -14,7 +16,7 @@ show-setlist:
   - Friendly Advice 
   - Bewitched
   - This Time Around
-  - Great Jones St.
+  - Great Jones Street
   - Going Home
   - Into the Fold
   - I Know You Tried

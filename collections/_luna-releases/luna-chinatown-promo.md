@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
 initial_release_date: 1995
-albumname: Chinatown
+albumname: "Chinatown"
+title: "Luna - Chinatown"
 releases:
   - release:
     version: elektra-promo-cd

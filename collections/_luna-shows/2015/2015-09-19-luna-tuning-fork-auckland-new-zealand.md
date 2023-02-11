@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Tuning Fork, Auckland, New Zealand'
+show-venue: "Tuning Fork, Auckland, New Zealand"
+title: "19th September 2015 -  Luna - Tuning Fork, Auckland, New Zealand"
 show-notes: ''
 show-setlist:
  - California (All The Way)

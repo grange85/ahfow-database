@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Silver Factory Theme
 name: silver-factory-theme
@@ -8,5 +9,6 @@ track-id: 345
 track-lyrics: 
 track-author: 
 track-sort: "SILVER FACTORY"
+track-alpha: S
 track-original: 
 ---

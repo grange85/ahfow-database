@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Plastic Bird
 name: plastic-bird
@@ -10,5 +11,6 @@ track-guitar: "capo 2nd fret\nverses: G C G C G C Amin\nchange: Dmin\n\n(provide
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "PLASTIC BIRD"
+track-alpha: P
 track-original: 
 ---

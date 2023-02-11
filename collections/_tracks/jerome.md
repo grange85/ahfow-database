@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Jerome
 name: jerome
@@ -10,5 +11,6 @@ track-guitar: "--------------------------------------------------\n----12--12--1
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "JEROME"
+track-alpha: J
 track-original: 
 ---

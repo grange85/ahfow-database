@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Brattle Theatre, Cambridge, MA, USA'
+show-venue: "Brattle Theatre, Cambridge, MA, USA"
+title: "31st January 2010 -  Damon & Naomi - Brattle Theatre, Cambridge, MA, USA"
 show-setlist: 
 show-date: 2010-01-31
 category: 2010

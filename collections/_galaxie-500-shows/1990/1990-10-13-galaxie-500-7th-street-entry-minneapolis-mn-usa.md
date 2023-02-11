@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: '7th Street Entry, Minneapolis, MN, USA'
+show-venue: "7th Street Entry, Minneapolis, MN, USA"
+title: "13th October 1990 -  Galaxie 500 - 7th Street Entry, Minneapolis, MN, USA"
 show-setlist:
 show-date: 1990-10-13
 category: 1990

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Star Spangled Man
 name: star-spangled-man
@@ -10,5 +11,6 @@ track-guitar: "Intro:\n\nE\n\nEsus   E\n\n(drums enter)\nEsus   E  (5x)\n\nEsus 
 track-guitar-flag: true
 track-author: 
 track-sort: "STAR SPANGLED MAN"
+track-alpha: S
 track-original: 
 ---

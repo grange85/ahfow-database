@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Centro de Las Armas, Zaragoza, Spain'
+show-venue: "Centro de Las Armas, Zaragoza, Spain"
+title: "24th April 2015 -  Luna - Centro de Las Armas, Zaragoza, Spain"
 show-setlist: [
   "Chinatown ",
   "Sideshow by the Seashore",

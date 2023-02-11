@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: '(unknown), Hamburg, Germany'
+show-venue: "(unknown), Hamburg, Germany"
+title: "4th December 1989 -  Galaxie 500 - (unknown), Hamburg, Germany"
 show-setlist: 
 show-date: 1989-12-04
 category: 1989

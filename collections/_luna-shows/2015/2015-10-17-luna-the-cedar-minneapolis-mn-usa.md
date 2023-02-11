@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'The Cedar, Minneapolis, MN, USA'
+show-venue: "The Cedar, Minneapolis, MN, USA"
+title: "17th October 2015 -  Luna - The Cedar, Minneapolis, MN, USA"
 show-setlist:
  - Chinatown
  - Going Home

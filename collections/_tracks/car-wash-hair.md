@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Car Wash Hair
 name: car-wash-hair
@@ -8,6 +9,7 @@ track-id: 233
 track-lyrics: 
 track-author: Mercury Rev
 track-sort: "CAR WASH HAIR"
+track-alpha: C
 track-original: Mercury Rev
 cover: true
 ---

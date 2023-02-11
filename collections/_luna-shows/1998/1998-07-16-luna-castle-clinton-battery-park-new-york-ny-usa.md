@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Castle Clinton, Battery Park, New York, NY, USA'
+show-venue: "Castle Clinton, Battery Park, New York, NY, USA"
+title: "16th July 1998 -  Luna - Castle Clinton, Battery Park, New York, NY, USA"
 show-setlist: [
   "Friendly Advice",
   "Sideshow By The Seashore",

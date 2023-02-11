@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Escenario Santander, Santander, Spain'
+show-venue: "Escenario Santander, Santander, Spain"
+title: "18th April 2015 -  Luna - Escenario Santander, Santander, Spain"
 show-setlist: [
   "Slide",
   "Chinatown",

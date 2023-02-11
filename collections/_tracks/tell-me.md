@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Tell Me
 name: tell-me
@@ -10,5 +11,6 @@ track-guitar: "G D C G\nover and over \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "TELL ME"
+track-alpha: T
 track-original: 
 ---

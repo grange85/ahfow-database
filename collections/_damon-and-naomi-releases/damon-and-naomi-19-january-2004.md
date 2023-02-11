@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 initial_release_date: 2005
-albumname: Monday January 19th, 2004
+albumname: "Monday January 19th, 2004"
+title: "Damon & Naomi - Monday January 19th, 2004"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-19-january-2004.jpg
 releases:
   - release:
@@ -23,6 +25,7 @@ releases:
     - group: CDr
       tracks:
        - title: Araçá Azul
+         link: araca-azul
          notes:
          author: Caetano Veloso
        - title: The Earth is Blue
@@ -32,7 +35,8 @@ releases:
          author: Krukowski/Yang
        - title: Song to the Siren
          author: Tim Buckley
-       - title: My Flower (Watashi No Hana)
+       - title: My Flower
+         link: my-flower-watashi-no-hana
          author: K Tomokawa
        - title: Love
          author: Aizawa/Hayakawa

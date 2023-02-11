@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Fourth of July
 name: fourth-of-july
@@ -10,6 +11,7 @@ track-guitar: "capo 1st fret\nverses: A E\nchange: D/F# Amin E\n\n(provided by b
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "FOURTH OF JULY"
+track-alpha: F
 track-original: 
 video-flag: true
 videos:

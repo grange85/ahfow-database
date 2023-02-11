@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'International, Manchester, UK'
+show-venue: "International, Manchester, UK"
+title: "14th November 1990 -  Galaxie 500 - International, Manchester, UK"
 show-setlist: 
 show-date: 1990-11-14
 category: 1990

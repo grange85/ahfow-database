@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Paradiso, Amsterdam, Netherlands'
+show-venue: "Paradiso, Amsterdam, Netherlands"
+title: "8th June 1993 -  Luna - Paradiso, Amsterdam, Netherlands"
 show-setlist: 
 show-date: 1993-06-08
 category: 1993

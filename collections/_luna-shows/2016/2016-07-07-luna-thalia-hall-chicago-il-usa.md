@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Thalia Hall, Chicago, IL, USA'
+show-venue: "Thalia Hall, Chicago, IL, USA"
+title: "7th July 2016 -  Luna - Thalia Hall, Chicago, IL, USA"
 show-notes: ''
 show-setlist:
  - California (All The Way)
@@ -36,11 +38,6 @@ performers: [
   "Lee Wall - drums",
   "Britta Phillips - bass"
   ]
-featured-image:
-  url: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-07-07/2016-07-07-luna-thalia-hall-clarkmaxwell.jpg
-  link: https://www.flickr.com/photos/clarkmaxwell/28090556411/
-  caption: Luna at the Thalia Hall, Chicago
-  credit: clarkmaxwell (Creative Commons)
 facebook-event-url:
 show-poster-url:
 show-ticket-url: http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6725855&pl=thalia

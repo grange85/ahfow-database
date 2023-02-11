@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dear-diary-beggars-promo.jpg
 initial_release_date: 1999
-albumname: Dear Diary
+albumname: "Dear Diary"
+title: "Luna - Dear Diary"
 releases:
   - release:
     version: beggars-banquet-promo-cd

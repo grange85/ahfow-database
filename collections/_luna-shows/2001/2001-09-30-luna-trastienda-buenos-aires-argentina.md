@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trastienda, Buenos Aires, Argentina'
+show-venue: "Trastienda, Buenos Aires, Argentina"
+title: "30th September 2001 -  Luna - Trastienda, Buenos Aires, Argentina"
 show-setlist: [
   "Chinatown",
   "1995",

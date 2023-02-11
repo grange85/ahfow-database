@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Dancer Disappears
 name: the-dancer-disappears
@@ -28,6 +29,7 @@ track-lyrics: |
   Roll back the highlights til' the dancer disappears, til' the dancer disappears
 track-author: Dean Wareham
 track-sort: "DANCER DISAPPEARS"
+track-alpha: D
 track-original: 
 video-flag: true
 videos:

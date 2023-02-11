@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: On the Floor
 name: on-the-floor
@@ -10,5 +11,6 @@ track-guitar: "verse: C G\nchange: D C\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "ON THE FLOOR"
+track-alpha: O
 track-original: 
 ---

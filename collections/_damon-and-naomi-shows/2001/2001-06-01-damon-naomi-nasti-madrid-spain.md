@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Nasti, Madrid, Spain'
+show-venue: "Nasti, Madrid, Spain"
+title: "1st June 2001 -  Damon & Naomi - Nasti, Madrid, Spain"
 show-setlist: 
 show-date: 2001-06-01
 category: 2001

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'CSUF, Fullerton CA, USA'
+show-venue: "CSUF, Fullerton CA, USA"
+title: "20th October 1995 -  Luna - CSUF, Fullerton CA, USA"
 show-setlist: 
 show-date: 1995-10-20
 category: 1995

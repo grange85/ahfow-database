@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "27th February 2008 - Dean & Britta - Black Cat, Washington DC, USA"
 show-setlist: [
   "Teenage Lightning",
   "Singer Sing",

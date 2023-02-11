@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Fletchers, Baltimore MD, USA'
+show-venue: "Fletchers, Baltimore MD, USA"
+title: "18th May 2002 -  Luna - Fletchers, Baltimore MD, USA"
 show-setlist: [
   "1995",
   "Sideshow By The Seashore",

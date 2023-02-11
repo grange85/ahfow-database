@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Sunrise
 name: sunrise
@@ -8,5 +9,6 @@ track-id: 216
 track-lyrics: 
 track-author: 
 track-sort: "SUNRISE"
+track-alpha: S
 track-original: 
 ---

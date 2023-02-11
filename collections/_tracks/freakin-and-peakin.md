@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Freakin' and Peakin'
 name: freakin-and-peakin
@@ -10,5 +11,6 @@ track-guitar: "Intro, Verse\nF#, C#\nChange\nE?, F#?\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "FREAKIN' AND PEAKIN'"
+track-alpha: F
 track-original: 
 ---

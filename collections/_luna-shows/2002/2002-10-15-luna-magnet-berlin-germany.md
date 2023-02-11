@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Magnet, Berlin, Germany'
+show-venue: "Magnet, Berlin, Germany"
+title: "15th October 2002 -  Luna - Magnet, Berlin, Germany"
 show-setlist: 
 show-date: 2002-10-15
 category: 2002

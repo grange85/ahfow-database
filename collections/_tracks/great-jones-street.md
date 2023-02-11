@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Great Jones Street
 name: great-jones-street
@@ -10,5 +11,6 @@ track-guitar: "verse: E A B\nlet's get away: A F# B A F# B\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "GREAT JONES STREET"
+track-alpha: G
 track-original: 
 ---

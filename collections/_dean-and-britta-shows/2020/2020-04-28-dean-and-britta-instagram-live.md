@@ -1,12 +1,14 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: Dean & Britta's living room, Echo Park, LA, USA
+show-venue: "Dean & Britta's living room, Echo Park, LA, USA"
+title: "28th April 2020 - Dean & Britta - Dean & Britta's living room, Echo Park, LA, USA"
 show-notes: ''
 show-setlist:
- - Walking Through The Sleepy City
+ - (Walkin' Thru The) Sleepy City
  - Hearing Voices
  - California Blue
 show-date: 2020-04-28

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Kennel Club, San Francisco CA, USA'
+show-venue: "Kennel Club, San Francisco CA, USA"
+title: "18th February 1994 -  Luna - Kennel Club, San Francisco CA, USA"
 show-setlist: [
   "Anesthesia",
   "Going Home",

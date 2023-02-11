@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Bierkeller, Bristol, UK'
+show-venue: "Bierkeller, Bristol, UK"
+title: "7th February 1990 -  Galaxie 500 - Bierkeller, Bristol, UK"
 show-setlist:
 show-date: 1990-02-07
 category: 1990

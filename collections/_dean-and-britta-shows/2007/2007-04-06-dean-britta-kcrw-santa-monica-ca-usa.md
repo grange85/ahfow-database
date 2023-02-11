@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'KCRW, Santa Monica CA, USA'
+show-venue: "KCRW, Santa Monica CA, USA"
+title: "6th April 2007 - Dean & Britta - KCRW, Santa Monica CA, USA"
 show-setlist: [
   "The Sun Is Still Sunny",
   "Singer Sing",

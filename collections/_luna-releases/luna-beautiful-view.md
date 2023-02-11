@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_beautifulview.jpg
 initial_release_date: 1998
-albumname: Beautiful View
+albumname: "Beautiful View"
+title: "Luna - Beautiful View"
 releases:
   - release:
     version: beggars-banquet-cds

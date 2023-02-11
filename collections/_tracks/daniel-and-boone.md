@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Daniel and Boone
 name: daniel-and-boone
@@ -8,5 +9,6 @@ track-id: 350
 track-lyrics: 
 track-author: 
 track-sort: "DANIEL AND BOONE"
+track-alpha: D
 track-original: 
 ---

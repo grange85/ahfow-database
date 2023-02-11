@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'McCarren Park, Brooklyn, NY, USA'
+show-venue: "McCarren Park, Brooklyn, NY, USA"
+title: "16th June 2012 - Dean & Britta - McCarren Park, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2012-06-16
 category: 2012

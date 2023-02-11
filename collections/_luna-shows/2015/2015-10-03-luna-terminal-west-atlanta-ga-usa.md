@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Terminal West, Atlanta, GA, USA'
+show-venue: "Terminal West, Atlanta, GA, USA"
+title: "3rd October 2015 -  Luna - Terminal West, Atlanta, GA, USA"
 show-setlist:
  - Slide
  - Speedbumps

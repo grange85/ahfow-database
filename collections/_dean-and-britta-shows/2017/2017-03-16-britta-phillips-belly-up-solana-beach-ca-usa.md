@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Belly Up, Solana Beach, CA, USA
+show-venue: "Belly Up, Solana Beach, CA, USA"
+title: "16th March 2017 - Britta Phillips - Belly Up, Solana Beach, CA, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-16

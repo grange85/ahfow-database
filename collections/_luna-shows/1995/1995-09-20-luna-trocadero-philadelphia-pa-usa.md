@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trocadero, Philadelphia PA, USA'
+show-venue: "Trocadero, Philadelphia PA, USA"
+title: "20th September 1995 -  Luna - Trocadero, Philadelphia PA, USA"
 show-setlist: 
 show-date: 1995-09-20
 category: 1995

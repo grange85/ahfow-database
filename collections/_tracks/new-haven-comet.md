@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: New Haven Comet
 name: new-haven-comet
@@ -10,5 +11,6 @@ track-guitar: "Verse:  Em   A\nChorus:  D  Em   G\n         D  Em   G\n         
 track-guitar-flag: true
 track-author: 
 track-sort: "NEW HAVEN COMET"
+track-alpha: N
 track-original: 
 ---

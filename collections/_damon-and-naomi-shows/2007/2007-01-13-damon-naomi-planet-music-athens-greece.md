@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Planet Music, Athens, Greece'
+show-venue: "Planet Music, Athens, Greece"
+title: "13th January 2007 -  Damon & Naomi - Planet Music, Athens, Greece"
 show-setlist: 
 show-date: 2007-01-13
 category: 2007

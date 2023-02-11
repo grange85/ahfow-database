@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '(unknown), Osaka, Japan'
+show-venue: "(unknown), Osaka, Japan"
+title: "29th April 1998 -  Luna - (unknown), Osaka, Japan"
 show-setlist: 
 show-date: 1998-04-29
 category: 1998

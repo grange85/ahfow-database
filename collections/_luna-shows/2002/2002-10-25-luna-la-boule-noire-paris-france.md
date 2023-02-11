@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'La Boule Noire, Paris, France'
+show-venue: "La Boule Noire, Paris, France"
+title: "25th October 2002 -  Luna - La Boule Noire, Paris, France"
 show-setlist: 
 show-date: 2002-10-25
 category: 2002

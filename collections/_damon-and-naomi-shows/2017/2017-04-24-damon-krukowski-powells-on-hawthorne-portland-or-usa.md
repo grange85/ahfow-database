@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Powell's on Hawthorne, Portland, OR, USA"
+title: "24th April 2017 -  Damon & Naomi - Powell's on Hawthorne, Portland, OR, USA"
 show-setlist:
 show-date: 2017-04-24
 date-added: 2017-03-15

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
 initial_release_date: 1999
-albumname: The Days of Our Nights
+albumname: "The Days of Our Nights"
+title: "Luna - The Days of Our Nights"
 releases:
   - release:
     version: beggars-banquet-cd

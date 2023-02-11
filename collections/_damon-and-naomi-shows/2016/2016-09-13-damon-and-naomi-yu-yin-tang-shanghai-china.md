@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Yu Yin Tang, Shanghai, China'
+show-venue: "Yu Yin Tang, Shanghai, China"
+title: "13th September 2016 -  Damon & Naomi - Yu Yin Tang, Shanghai, China"
 show-setlist:
 show-date: 2016-09-13
 date-added: 2016-08-18

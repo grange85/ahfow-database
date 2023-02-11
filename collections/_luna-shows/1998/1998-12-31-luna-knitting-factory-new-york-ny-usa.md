@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Knitting Factory, New York NY, USA'
+show-venue: "Knitting Factory, New York NY, USA"
+title: "31st December 1998 -  Luna - Knitting Factory, New York NY, USA"
 show-setlist: 
 show-date: 1998-12-31
 category: 1998

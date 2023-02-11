@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "1st August 1999 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: [
   "Friendly Advice",
   "California (All The Way)",

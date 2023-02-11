@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Eagle Inn, Salford, UK'
+show-venue: "The Eagle Inn, Salford, UK"
+title: "6th June 2019 -  Damon & Naomi - The Eagle Inn, Salford, UK"
 address: |
   19 Collier St, 
   Greengate, 

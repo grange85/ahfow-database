@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Garage, London, UK'
+show-venue: "Garage, London, UK"
+title: "15th May 2001 -  Damon & Naomi - Garage, London, UK"
 show-setlist: [
   "Judah and the Maccabees",
   "The New World",

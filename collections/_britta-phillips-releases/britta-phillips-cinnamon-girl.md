@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 03-compilation
 artistslug: britta-phillips
 initial_release_date: 2007
 albumname: "Cinnamon Girl: Women Artists Cover Neil Young"
+title: "Britta Phillips - Cinnamon Girl: Women Artists Cover Neil Young"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-cinnamon-girl.jpg
 releases:
   - release:

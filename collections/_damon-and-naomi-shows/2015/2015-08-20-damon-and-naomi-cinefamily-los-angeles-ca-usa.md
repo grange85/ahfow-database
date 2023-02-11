@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cinefamily, Los Angeles, CA, USA'
+show-venue: "Cinefamily, Los Angeles, CA, USA"
+title: "20th August 2015 -  Damon & Naomi - Cinefamily, Los Angeles, CA, USA"
 show-setlist:
  - The Seeker
  - Amnesia

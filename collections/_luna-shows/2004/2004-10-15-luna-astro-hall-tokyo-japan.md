@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Astro Hall, Tokyo, Japan'
+show-venue: "Astro Hall, Tokyo, Japan"
+title: "15th October 2004 -  Luna - Astro Hall, Tokyo, Japan"
 show-setlist: [
   "Lovedust",
   "Speedbumps",

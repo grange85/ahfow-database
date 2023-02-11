@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
 initial_release_date: 2011
-albumname: Fortune
+albumname: "Fortune"
+title: "Damon & Naomi - Fortune"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/fortune
 bandcamp-id: 2505063369
 releases:

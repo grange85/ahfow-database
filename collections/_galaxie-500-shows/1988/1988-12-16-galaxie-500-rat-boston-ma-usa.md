@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Rat, Boston MA, USA'
+show-venue: "Rat, Boston MA, USA"
+title: "16th December 1988 -  Galaxie 500 - Rat, Boston MA, USA"
 show-setlist: [
   "Tugboat",
   "Oblivious",

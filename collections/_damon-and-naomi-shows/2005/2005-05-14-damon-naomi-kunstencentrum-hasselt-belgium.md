@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Kunstencentrum, Hasselt, Belgium'
+show-venue: "Kunstencentrum, Hasselt, Belgium"
+title: "14th May 2005 -  Damon & Naomi - Kunstencentrum, Hasselt, Belgium"
 show-setlist: 
 show-date: 2005-05-14
 category: 2005

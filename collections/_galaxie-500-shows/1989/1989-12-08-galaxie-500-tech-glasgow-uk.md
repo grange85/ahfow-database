@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Tech, Glasgow, UK'
+show-venue: "Tech, Glasgow, UK"
+title: "8th December 1989 -  Galaxie 500 - Tech, Glasgow, UK"
 show-setlist: [
   "Decomposing Trees",
   "Snowstorm",

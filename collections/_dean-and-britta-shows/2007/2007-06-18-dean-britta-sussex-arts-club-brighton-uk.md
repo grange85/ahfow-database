@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Sussex Arts Club, Brighton, UK'
+show-venue: "Sussex Arts Club, Brighton, UK"
+title: "18th June 2007 - Dean & Britta - Sussex Arts Club, Brighton, UK"
 show-setlist: 
  - title: Singer Sing
  - title: Indian Summer

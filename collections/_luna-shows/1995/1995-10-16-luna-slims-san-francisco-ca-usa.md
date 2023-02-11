@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Slims, San Francisco CA, USA'
+show-venue: "Slims, San Francisco CA, USA"
+title: "16th October 1995 -  Luna - Slims, San Francisco CA, USA"
 show-setlist: 
 show-date: 1995-10-16
 category: 1995

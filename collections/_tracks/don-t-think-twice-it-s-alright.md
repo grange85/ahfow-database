@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Don't Think Twice, It's Alright
 name: dont-think-twice-its-alright
@@ -42,9 +43,10 @@ track-lyrics: |
     But don’t think twice, it’s all right
 track-author: Bob Dylan
 track-sort: "DON'T THINK TWICE IT'S ALRIGHT"
+track-alpha: D
 track-original: Bob Dylan
 cover: true
 available-on:
  - release: Britta Phillips / Dean Wareham - Don't Think Twice, It's Alright / Hey Paula
-   url: /dean-and-britta/dean-wareham-releases/dean-wareham-dont-think-twice-hey-paula/
+   url: /database/dean-and-britta/dean-wareham-releases/dean-wareham-dont-think-twice-hey-paula/
 ---

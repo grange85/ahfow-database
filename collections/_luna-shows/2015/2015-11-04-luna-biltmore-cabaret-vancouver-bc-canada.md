@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Biltmore Caberet, Vancouver, BC, Canada'
+show-venue: "Biltmore Caberet, Vancouver, BC, Canada"
+title: "4th November 2015 -  Luna - Biltmore Caberet, Vancouver, BC, Canada"
 show-notes: ''
 show-setlist:
  - Slide

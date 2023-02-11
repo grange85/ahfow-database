@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Don't Let Our Youth Go to Waste
 name: don-t-let-our-youth-go-to-waste
@@ -10,6 +11,7 @@ track-guitar: "A \n(provided by brad)"
 track-guitar-flag: true
 track-author: Jonathan Richman
 track-sort: "DON'T LET OUR YOUTH GO TO WASTE"
+track-alpha: D
 track-original: Richman, Jonathan (and the Modern Lovers)
 cover: true
 bandcamp:

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Ceremony
 name: ceremony
@@ -10,6 +11,7 @@ track-guitar: "all the way through F C\n(provided by brad)"
 track-guitar-flag: true
 track-author: Joy Division
 track-sort: "CEREMONY"
+track-alpha: C
 track-original: Joy Division
 cover: true
 ---

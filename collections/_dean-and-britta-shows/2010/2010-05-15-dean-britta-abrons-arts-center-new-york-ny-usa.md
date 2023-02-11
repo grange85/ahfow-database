@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Abrons Arts Center, New York, NY, USA'
+show-venue: "Abrons Arts Center, New York, NY, USA"
+title: "15th May 2010 - Dean & Britta - Abrons Arts Center, New York, NY, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

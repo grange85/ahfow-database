@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Theatre of the Living Arts, Philadelphia PA, USA'
+show-venue: "Theatre of the Living Arts, Philadelphia PA, USA"
+title: "17th December 2004 -  Luna - Theatre of the Living Arts, Philadelphia PA, USA"
 show-setlist: [
   "Malibu Love Nest",
   "California (All The Way)",

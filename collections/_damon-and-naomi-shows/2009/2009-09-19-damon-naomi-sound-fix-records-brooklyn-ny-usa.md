@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Sound Fix Records, Brooklyn, NY, USA'
+show-venue: "Sound Fix Records, Brooklyn, NY, USA"
+title: "19th September 2009 -  Damon & Naomi - Sound Fix Records, Brooklyn, NY, USA"
 show-setlist: 
 show-date: 2009-09-19
 category: 2009

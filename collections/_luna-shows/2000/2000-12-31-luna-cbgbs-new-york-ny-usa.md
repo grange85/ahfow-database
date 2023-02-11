@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'CBGBs, New York NY, USA'
+show-venue: "CBGBs, New York NY, USA"
+title: "31st December 2000 -  Luna - CBGBs, New York NY, USA"
 show-setlist: [
   "Egg Nog",
   "California (All The Way)",

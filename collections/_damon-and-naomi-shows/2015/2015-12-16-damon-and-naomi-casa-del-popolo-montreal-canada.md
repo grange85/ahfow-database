@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Casa del Popolo, Montreal, Canada'
+show-venue: "Casa del Popolo, Montreal, Canada"
+title: "16th December 2015 -  Damon & Naomi - Casa del Popolo, Montreal, Canada"
 show-setlist:
  - The Seeker
  - Amnesia

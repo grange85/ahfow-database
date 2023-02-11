@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'CCA, Glasgow, UK'
+show-venue: "CCA, Glasgow, UK"
+title: "2nd August 2015 -  Luna - CCA, Glasgow, UK"
 show-setlist: [
   "Slide",
   "Chinatown",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Echo Lounge, Atlanta GA, USA'
+show-venue: "Echo Lounge, Atlanta GA, USA"
+title: "1st February 2003 -  Luna - Echo Lounge, Atlanta GA, USA"
 show-setlist: [
   "Slide",
   "Weird And Woozy",

@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Le Baron, Paris, France'
+show-venue: "Le Baron, Paris, France"
+title: "12th June 2007 - Dean & Britta - Le Baron, Paris, France"
 show-setlist: 
 show-date: 2007-06-12
 category: 2007

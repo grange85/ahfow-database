@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Variety Playhouse, Atlanta GA, USA'
+show-venue: "Variety Playhouse, Atlanta GA, USA"
+title: "20th June 2002 -  Luna - Variety Playhouse, Atlanta GA, USA"
 show-setlist: [
   "Lovedust",
   "Weird And Woozy",

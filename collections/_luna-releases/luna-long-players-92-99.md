@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/pictures/luna-captured-tracks-box-set.png
 initial_release_date: 2015
-albumname: Long Players 92-99
+albumname: "Long Players 92-99"
+title: "Luna - Long Players 92-99"
 releases:
   - release:
     version: captured-tracks-box

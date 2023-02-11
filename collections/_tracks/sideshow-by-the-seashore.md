@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Sideshow By The Seashore
 name: sideshow-by-the-seashore
@@ -10,5 +11,6 @@ track-guitar: "Intro and Verse\nD,C,G\nChange\nEm, G, D\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SIDESHOW BY THE SEASHORE"
+track-alpha: S
 track-original: 
 ---

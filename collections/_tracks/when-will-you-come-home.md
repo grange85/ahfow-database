@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: When Will You Come Home
 name: when-will-you-come-home
@@ -10,6 +11,7 @@ track-guitar: "verses: C Fmaj7\nchange: D Fmaj7 Amin C \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "WHEN WILL YOU COME HOME"
+track-alpha: W
 track-original: 
 video-flag: true
 videos:

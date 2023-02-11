@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Caberet Metro, Chicago IL, USA'
+show-venue: "Caberet Metro, Chicago IL, USA"
+title: "23rd February 2005 -  Luna - Caberet Metro, Chicago IL, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Sideshow By The Seashore",

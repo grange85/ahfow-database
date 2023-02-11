@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'BBC Radio One, London, UK'
+show-venue: "BBC Radio One, London, UK"
+title: "1st March 1992 -  Luna - BBC Radio One, London, UK"
 show-setlist: [
   "Crazy People",
   "Slide",

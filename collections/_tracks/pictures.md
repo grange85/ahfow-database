@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Pictures
 name: pictures
@@ -10,5 +11,6 @@ track-guitar: "D Asus G Asus D Asus G Asus D Asus G Asus D Asus A Asus\nover and
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "PICTURES"
+track-alpha: P
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: KEXP, Seattle, WA, USA
+show-venue: "KEXP, Seattle, WA, USA"
+title: "5th November 2015 -  Luna - KEXP, Seattle, WA, USA"
 show-setlist:
  - Malibu Love Nest
  - Tracy I Love You

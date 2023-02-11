@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Teenage Lightning
 name: teenage-lightning
@@ -10,5 +11,6 @@ track-guitar: "E  F#  B\n\n(provided by Jason)"
 track-guitar-flag: true
 track-author: 
 track-sort: "TEENAGE LIGHTNING"
+track-alpha: T
 track-original: 
 ---

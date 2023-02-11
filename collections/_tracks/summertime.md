@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Summertime
 name: summertime
@@ -10,5 +11,6 @@ track-guitar: "A D\nover and over\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SUMMERTIME"
+track-alpha: S
 track-original: 
 ---

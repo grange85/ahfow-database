@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: damon-and-naomi
 initial_release_date: 1991
-albumname: Pierre Étoile
+albumname: "Pierre Étoile"
+title: "Damon & Naomi - Pierre Étoile"
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
 releases:
   - release:

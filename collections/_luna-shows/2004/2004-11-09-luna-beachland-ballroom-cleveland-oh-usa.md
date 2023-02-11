@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Beachland Ballroom, Cleveland OH, USA'
+show-venue: "Beachland Ballroom, Cleveland OH, USA"
+title: "9th November 2004 -  Luna - Beachland Ballroom, Cleveland OH, USA"
 show-setlist: [
   "Malibu Love Nest",
   "California (All The Way)",

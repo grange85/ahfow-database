@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Venue, Edinburgh, UK'
+show-venue: "Venue, Edinburgh, UK"
+title: "7th December 1989 -  Galaxie 500 - Venue, Edinburgh, UK"
 show-setlist: 
 show-date: 1989-12-07
 category: 1989

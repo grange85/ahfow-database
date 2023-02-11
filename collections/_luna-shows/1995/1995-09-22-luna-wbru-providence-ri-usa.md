@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'WBRU, Providence RI, USA'
+show-venue: "WBRU, Providence RI, USA"
+title: "22nd September 1995 -  Luna - WBRU, Providence RI, USA"
 show-setlist: 
 show-date: 1995-09-22
 category: 1995

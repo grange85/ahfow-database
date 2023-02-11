@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: California Blue
 name: california-blue
@@ -62,11 +63,12 @@ track-lyrics: |
   California blue
 track-author: Orbison / Lynne / Petty
 track-sort: "CALIFORNIA BLUE"
+track-alpha: C
 track-original: Roy Orbison
 cover: true
 available-on:
  - release: Luna - California Blue / Rock Yr Baby
-   url: /luna/releases/luna-california-blue-rock-yr-baby/
+   url: /database/luna/releases/luna-california-blue-rock-yr-baby/
  - release: "Postscripts"
-   url: /luna/releases/luna-postscripts/
+   url: /database/luna/releases/luna-postscripts/
 ---

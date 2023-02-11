@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: It's Getting Late
 name: it-s-getting-late
@@ -10,5 +11,6 @@ track-guitar: "verses: G C D\nchange: Emin7 D C Emin7 D G \n\n(provided by brad)
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "IT'S GETTING LATE"
+track-alpha: I
 track-original: 
 ---

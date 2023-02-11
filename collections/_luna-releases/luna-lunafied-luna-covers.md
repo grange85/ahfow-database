@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied.jpg
 initial_release_date: 2006
-albumname: Lunafied Luna Covers
+albumname: "Lunafied Luna Covers"
+title: "Luna - Lunafied Luna Covers"
 releases:
   - release:
     version: rhino-digital

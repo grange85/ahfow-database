@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: '1st Unitarian Chapel, Philadelphia, PA, USA'
+show-venue: "1st Unitarian Chapel, Philadelphia, PA, USA"
+title: "21st May 2011 -  Damon & Naomi - 1st Unitarian Chapel, Philadelphia, PA, USA"
 show-setlist: 
 show-date: 2011-05-21
 category: 2011

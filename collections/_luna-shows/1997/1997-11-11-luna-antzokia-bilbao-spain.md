@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Antzokia, Bilbao, Spain'
+show-venue: "Antzokia, Bilbao, Spain"
+title: "11th November 1997 -  Luna - Antzokia, Bilbao, Spain"
 show-setlist: 
 show-date: 1997-11-11
 category: 1997

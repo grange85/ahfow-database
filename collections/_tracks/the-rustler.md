@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Rustler
 name: the-rustler
@@ -10,5 +11,6 @@ track-guitar: "chord shapes:\nAsus2 = x02200\nDsus2 = x00770\nD (type 1) = xx0[1
 track-guitar-flag: true
 track-author: 
 track-sort: "RUSTLER"
+track-alpha: R
 track-original: 
 ---

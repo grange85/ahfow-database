@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Renee is Crying
 name: renee-is-crying
@@ -10,5 +11,6 @@ track-guitar: "C   Am   Dm   G\n\n(provided by Jon)\n\n\n\nChords\nIntro, Verse,
 track-guitar-flag: true
 track-author: 
 track-sort: "RENEE IS CRYING"
+track-alpha: R
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Point, Atlanta GA, USA'
+show-venue: "Point, Atlanta GA, USA"
+title: "11th February 1996 -  Luna - Point, Atlanta GA, USA"
 show-setlist: [
   "Friendly Advice",
   "Chinatown",

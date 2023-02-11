@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "John Henrys, Eugene OR, USA"
+title: "14th October 1995 -  Luna - John Henrys, Eugene OR, USA"
 show-setlist: [
   "Egg Nog",
   "Slide",

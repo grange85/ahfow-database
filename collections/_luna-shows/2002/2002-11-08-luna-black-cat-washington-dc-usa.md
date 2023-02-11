@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "8th November 2002 -  Luna - Black Cat, Washington DC, USA"
 show-setlist: [
   "1995",
   "23 Minutes in Brussels",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trocadero, Philadelphia, PA, USA'
+show-venue: "Trocadero, Philadelphia, PA, USA"
+title: "5th October 2015 -  Luna - Trocadero, Philadelphia, PA, USA"
 show-setlist:
  - Chinatown
  - Speedbumps

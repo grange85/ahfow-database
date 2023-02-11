@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Moviegoer
 name: the-moviegoer
@@ -10,5 +11,6 @@ track-guitar: "verse: A\nchange: D A\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "MOVIEGOER"
+track-alpha: M
 track-original: 
 ---

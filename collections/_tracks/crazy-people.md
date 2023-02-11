@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Crazy People
 name: crazy-people
@@ -10,5 +11,6 @@ track-guitar: "verse: D G\nat end of chorus: A then G\n-------------------------
 track-guitar-flag: true
 track-author: 
 track-sort: "CRAZY PEOPLE"
+track-alpha: C
 track-original: 
 ---

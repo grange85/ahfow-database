@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'MASS MOCA, North Adams MA, USA'
+show-venue: "MASS MOCA, North Adams MA, USA"
+title: "16th September 2000 -  Luna - MASS MOCA, North Adams MA, USA"
 show-setlist: 
 show-date: 2000-09-16
 category: 2000

@@ -1,11 +1,13 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "5th June 2009 - Dean & Britta - Black Cat, Washington DC, USA"
 show-setlist: [
-  "Silver Factory",
+  "Silver Factory Theme",
   "Night Nurse",
   "Words You Used To Say",
   "Knives From Bavaria",

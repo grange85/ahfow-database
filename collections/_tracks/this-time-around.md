@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: This Time Around
 name: this-time-around
@@ -10,6 +11,7 @@ track-guitar: "verse: C Fmaj7 C Fmaj7 G Amin G Amin\nchange: C Fmaj7 Amin Fmaj7\
 track-guitar-flag: true
 track-author: 
 track-sort: "THIS TIME AROUND"
+track-alpha: T
 track-original: 
 video-flag: true
 videos:

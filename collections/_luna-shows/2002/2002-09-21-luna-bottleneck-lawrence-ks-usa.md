@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Bottleneck, Lawrence KS, USA'
+show-venue: "Bottleneck, Lawrence KS, USA"
+title: "21st September 2002 -  Luna - Bottleneck, Lawrence KS, USA"
 show-setlist: [
   "California (All The Way)",
   "Sideshow By The Seashore",

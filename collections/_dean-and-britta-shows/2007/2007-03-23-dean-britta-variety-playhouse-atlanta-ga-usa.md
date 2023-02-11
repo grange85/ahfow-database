@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Variety Playhouse, Atlanta GA, USA'
+show-venue: "Variety Playhouse, Atlanta GA, USA"
+title: "23rd March 2007 - Dean & Britta - Variety Playhouse, Atlanta GA, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

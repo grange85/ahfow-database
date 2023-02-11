@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Doug Fir Lounge, Portland, OR, USA'
+show-venue: "Doug Fir Lounge, Portland, OR, USA"
+title: "10th February 2020 -  Luna - Doug Fir Lounge, Portland, OR, USA"
 address: |
   830 E. Burnside St., 
   Portland, 

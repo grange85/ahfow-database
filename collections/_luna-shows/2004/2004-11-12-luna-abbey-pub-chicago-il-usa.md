@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Abbey Pub, Chicago IL, USA'
+show-venue: "Abbey Pub, Chicago IL, USA"
+title: "12th November 2004 -  Luna - Abbey Pub, Chicago IL, USA"
 show-setlist: [
   "Speedbumps",
   "California (All The Way)",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'KEXP, Seattle, WA, USA'
+show-venue: "KEXP, Seattle, WA, USA"
+title: "4th June 2002 -  Luna - KEXP, Seattle, WA, USA"
 show-setlist: [
   "^interview",
   "Swedish Fish",

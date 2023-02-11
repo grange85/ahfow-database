@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Loft, Berlin, Germany'
+show-venue: "Loft, Berlin, Germany"
+title: "29th November 1990 -  Galaxie 500 - Loft, Berlin, Germany"
 show-setlist: 
 show-date: 1990-11-29
 category: 1990

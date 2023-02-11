@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '9:30 Club, Washington DC, USA'
+show-venue: "9:30 Club, Washington DC, USA"
+title: "7th July 2000 -  Luna - 9:30 Club, Washington DC, USA"
 show-setlist: 
 show-date: 2000-07-07
 category: 2000

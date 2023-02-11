@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
 initial_release_date: 2002
-albumname: Romantica
+albumname: "Romantica"
+title: "Luna - Romantica"
 bandcamp-url: https://luna.bandcamp.com/album/romantica
 bandcamp-id: 3481617757
 releases:

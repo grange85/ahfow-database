@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Superfreaky Memories
 name: superfreaky-memories
@@ -10,5 +11,6 @@ track-guitar: "key of D (mixolydian mode)\nEm is 022453\nchorus arpeggios are xx
 track-guitar-flag: true
 track-author: 
 track-sort: "SUPERFREAKY MEMORIES"
+track-alpha: S
 track-original: 
 ---

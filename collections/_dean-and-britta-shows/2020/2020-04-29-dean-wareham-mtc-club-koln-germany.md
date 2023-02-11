@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'MTC Club, Cologne, Germany'
+show-venue: "MTC Club, Cologne, Germany"
+title: "29th April 2020 - Dean Wareham - MTC Club, Cologne, Germany"
 address: |
   Zülpicher Str. 10,  
   50674 Köln,  

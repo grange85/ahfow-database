@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Eulogy to Lenny Bruce
 name: eulogy-to-lenny-bruce
@@ -8,6 +9,7 @@ track-id: 168
 track-lyrics: 
 track-author: Tim Hardin
 track-sort: "EULOGY TO LENNY BRUCE"
+track-alpha: E
 track-original: Nico
 cover: true
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'TT the Bears, Cambridge MA, USA'
+show-venue: "TT the Bears, Cambridge MA, USA"
+title: "29th April 1988 -  Galaxie 500 - TT the Bears, Cambridge MA, USA"
 show-setlist: 
 show-date: 1988-04-29
 category: 1988

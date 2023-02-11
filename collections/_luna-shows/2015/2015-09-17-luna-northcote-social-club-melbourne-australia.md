@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Northcote Social Club, Melbourne, Australia'
+show-venue: "Northcote Social Club, Melbourne, Australia"
+title: "17th September 2015 -  Luna - Northcote Social Club, Melbourne, Australia"
 show-notes: ''
 show-setlist:
 - Slide

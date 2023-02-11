@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_songtothesiren.jpg
 initial_release_date: 2000
-albumname: Song to the Siren
+albumname: "Song to the Siren"
+title: "Damon & Naomi - Song to the Siren"
 releases:
   - release:
     version: sub-pop-cd-dvd
@@ -66,4 +68,4 @@ Edited and mastered by Alan Douches
 Produced by Damon & Naomi
 with thanks to Masaki Batoh
 
-Also re-released as part of [1001 Nights](/damon-and-naomi/releases/1001-nights.html)
+Also re-released as part of [1001 Nights](/database/damon-and-naomi/releases/damon-and-naomi-1001-nights/)

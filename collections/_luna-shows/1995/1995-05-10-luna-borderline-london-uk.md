@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Borderline, London, UK'
+show-venue: "Borderline, London, UK"
+title: "10th May 1995 -  Luna - Borderline, London, UK"
 show-setlist: [
   "Sideshow By The Seashore",
   "California (All The Way)",

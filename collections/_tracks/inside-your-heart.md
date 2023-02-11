@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Inside Your Heart
 name: inside-your-heart
@@ -7,12 +8,13 @@ type: ahfow_track
 track-lyrics: 
 track-author: The Monochrome Set
 track-sort: "INSIDE YOUR HEART"
+track-alpha: I
 track-original: The Monochrome Set
 available-on:
   - release: "Inside Your Heart"
-    url: /luna/releases/luna-inside-your-heart/
+    url: /database/luna/releases/luna-inside-your-heart/
   - release: "Postscripts"
-    url: /luna/releases/luna-postscripts/
+    url: /database/luna/releases/luna-postscripts/
 ahfow-posts:
 cover: true
 ---

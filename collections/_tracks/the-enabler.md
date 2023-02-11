@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Enabler
 name: the-enabler
@@ -10,5 +11,6 @@ track-guitar: "A\nchange: B D A\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "ENABLER"
+track-alpha: E
 track-original: 
 ---

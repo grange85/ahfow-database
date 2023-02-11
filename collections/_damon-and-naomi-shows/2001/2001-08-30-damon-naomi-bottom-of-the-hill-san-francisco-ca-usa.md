@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bottom of the Hill, San Francisco CA, USA'
+show-venue: "Bottom of the Hill, San Francisco CA, USA"
+title: "30th August 2001 -  Damon & Naomi - Bottom of the Hill, San Francisco CA, USA"
 show-setlist: [
   "Judah and the Maccabees",
   "The New World",

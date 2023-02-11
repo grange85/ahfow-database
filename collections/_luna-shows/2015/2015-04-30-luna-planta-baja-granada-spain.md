@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Planta Baja, Granada, Spain'
+show-venue: "Planta Baja, Granada, Spain"
+title: "30th April 2015 -  Luna - Planta Baja, Granada, Spain"
 show-setlist: [
   "Chinatown",
   "Speedbumps",

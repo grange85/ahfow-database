@@ -1,10 +1,12 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Bogart's, Long Beach CA, USA"
+title: "7th November 1992 -  Luna - Bogart's, Long Beach CA, USA"
 show-setlist:
  - Slide
- - Say Goodbye
+ - Goodbye
  - Slash Your Tires
  - Smile
  - I Can't Wait

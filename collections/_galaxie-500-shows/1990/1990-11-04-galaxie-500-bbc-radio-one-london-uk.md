@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'BBC Radio One, London, UK'
+show-venue: "BBC Radio One, London, UK"
+title: "4th November 1990 -  Galaxie 500 - BBC Radio One, London, UK"
 show-setlist: [
   "Moonshot",
   "Submission",

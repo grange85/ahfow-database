@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: You Turned My Head Around
 name: you-turned-my-head-around
@@ -8,6 +9,7 @@ track-id: 317
 track-lyrics: 
 track-author: Lee Hazlewood
 track-sort: "YOU TURNED MY HEAD AROUND"
+track-alpha: Y
 track-original: Lee Hazlewood and Ann-Margret
 cover: true
 video-flag: true

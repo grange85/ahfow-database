@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Antones, Austin, TX, USA"
+title: "27th July 2012 - Dean & Britta - Antones, Austin, TX, USA"
 show-setlist: 
 - Flowers
 - Pictures

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_penthouse.jpg
 initial_release_date: 1995
-albumname: Penthouse
+albumname: "Penthouse"
+title: "Luna - Penthouse"
 releases:
   - release:
     version: elektra-cd

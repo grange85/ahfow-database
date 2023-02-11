@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Double Feature
 name: double-feature
@@ -10,5 +11,6 @@ track-guitar: "Intro, Verse\nAm, Dm,\nChorus\nF, Em, Dm, F, Em, Dm, (Em?)\n\n(pr
 track-guitar-flag: true
 track-author: 
 track-sort: "DOUBLE FEATURE"
+track-alpha: D
 track-original: 
 ---

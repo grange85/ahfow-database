@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Kennel Club, San Francisco CA, USA'
+show-venue: "Kennel Club, San Francisco CA, USA"
+title: "15th October 1990 -  Galaxie 500 - Kennel Club, San Francisco CA, USA"
 show-setlist: [
   "Fourth of July",
   "Summertime",

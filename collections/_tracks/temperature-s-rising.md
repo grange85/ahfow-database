@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Temperature's Rising
 name: temperature-s-rising
@@ -10,5 +11,6 @@ track-guitar: "G C D the whole song \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "TEMPERATURE'S RISING"
+track-alpha: T
 track-original: 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Song in 3
 name: song-in-3
@@ -10,5 +11,6 @@ track-guitar: "-------------------------------------------\n------3---------3---
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SONG IN 3"
+track-alpha: S
 track-original: 
 ---

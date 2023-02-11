@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bears, Osaka, Japan'
+show-venue: "Bears, Osaka, Japan"
+title: "21st June 2005 -  Damon & Naomi - Bears, Osaka, Japan"
 show-setlist: 
 show-date: 2005-06-21
 category: 2005

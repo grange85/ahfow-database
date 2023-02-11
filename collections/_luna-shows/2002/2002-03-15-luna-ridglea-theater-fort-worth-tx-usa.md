@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Ridglea Theater, Fort Worth TX, USA'
+show-venue: "Ridglea Theater, Fort Worth TX, USA"
+title: "15th March 2002 -  Luna - Ridglea Theater, Fort Worth TX, USA"
 show-setlist: 
 show-date: 2002-03-15
 category: 2002

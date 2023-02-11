@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Civic Auditorium, Portland OR, USA'
+show-venue: "Civic Auditorium, Portland OR, USA"
+title: "30th March 1994 -  Luna - Civic Auditorium, Portland OR, USA"
 show-setlist: 
  - Sleeping Pill
  - Slide

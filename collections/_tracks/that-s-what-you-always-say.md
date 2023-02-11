@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: That's What You Always Say
 name: that-s-what-you-always-say
@@ -10,6 +11,7 @@ track-guitar: "E A E A B G B G\nchange: A B\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Wynn
 track-sort: "THAT'S WHAT YOU ALWAYS SAY"
+track-alpha: T
 track-original: Dream Syndicate
 cover: true
 ---

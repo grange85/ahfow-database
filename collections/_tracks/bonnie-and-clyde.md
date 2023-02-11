@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Bonnie and Clyde
 name: bonnie-and-clyde
@@ -118,21 +119,22 @@ track-guitar: "Intro, Verse\nG, A#, F, C\nChorus\nA#, C, DB\n\n(provided by Drew
 track-guitar-flag: true
 track-author: Serge Gainsbourg
 track-sort: "BONNIE AND CLYDE"
+track-alpha: B
 track-original: Gainsbourg, Serge and Bardot, Brigitte
 cover: true
 available-on:
  - release: Luna - Penthouse
-   url: /luna/releases/luna-penthouse/
+   url: /database/luna/releases/luna-penthouse/
  - release: Luna - Best of Luna
-   url: /luna/releases/luna-best-of-luna/
+   url: /database/luna/releases/luna-best-of-luna/
  - release: Luna - Bonnie and Clyde / Chinatown
-   url: /luna/releases/luna-bonnie-and-clyde-chinatown/
+   url: /database/luna/releases/luna-bonnie-and-clyde-chinatown/
  - release: Luna - Live
-   url: /luna/releases/luna-live/
+   url: /database/luna/releases/luna-live/
  - release: Luna - Long Players 92 - 99
-   url: /luna/releases/luna-long-players-92-99/
+   url: /database/luna/releases/luna-long-players-92-99/
  - release: Luna - Lunafied Luna Covers
-   url: /luna/releases/luna-lunafied-luna-covers/
+   url: /database/luna/releases/luna-lunafied-luna-covers/
  - release: Luna - Roundup
-   url: /luna/releases/luna-roundup/
+   url: /database/luna/releases/luna-roundup/
 ---

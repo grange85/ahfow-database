@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Hey Paula
 name: hey-paula
@@ -22,9 +23,10 @@ track-lyrics: |
     My love, my love
 track-author: Ray Hildebrand
 track-sort: "HEY PAULA"
+track-alpha: H
 track-original: Paul and Paula
 cover: true
 available-on:
  - release: Britta Phillips / Dean Wareham - Don't Think Twice, It's Alright / Hey Paula
-   url: /dean-and-britta/dean-wareham-releases/dean-wareham-dont-think-twice-hey-paula/
+   url: /database/dean-and-britta/dean-wareham-releases/dean-wareham-dont-think-twice-hey-paula/
 ---

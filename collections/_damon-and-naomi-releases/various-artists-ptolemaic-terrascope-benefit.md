@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 03-compilation
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/various-artists-ptolemaic-terrascope-benefit.jpg
 initial_release_date: 2011
 albumname: "Ptolemaic Terrascope Benefit EP: Terrastock April 25-27 1997"
+title: "Damon & Naomi - Ptolemaic Terrascope Benefit EP: Terrastock April 25-27 1997"
 releases:
   - release:
     version: enraptured-single

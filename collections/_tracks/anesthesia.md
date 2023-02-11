@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Anesthesia
 name: anesthesia
@@ -10,5 +11,6 @@ track-guitar: "verses: C (C9 C Cmaj7) G\nit's nice to play it like this so you d
 track-guitar-flag: true
 track-author: 
 track-sort: "ANESTHESIA"
+track-alpha: A
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'The Luminaire, London, UK'
+show-venue: "The Luminaire, London, UK"
+title: "15th January 2009 -  Damon & Naomi - The Luminaire, London, UK"
 show-setlist: 
 show-date: 2009-01-15
 category: 2009

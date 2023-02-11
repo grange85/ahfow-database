@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: '​Christ Church United, UCC, Lowell, MA, USA'
+show-venue: "​Christ Church United, UCC, Lowell, MA, USA"
+title: "20th October 2018 -  Damon & Naomi - ​Christ Church United, UCC, Lowell, MA, USA"
 show-setlist:
 show-date: 2018-10-20
 date-added: 2018-09-19

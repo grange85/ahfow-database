@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: America
 name: america
@@ -8,6 +9,7 @@ track-id: 220
 track-lyrics: 
 track-author: Traffic Sound
 track-sort: "AMERICA"
+track-alpha: A
 track-original: Traffic Sound
 cover: true
 ---

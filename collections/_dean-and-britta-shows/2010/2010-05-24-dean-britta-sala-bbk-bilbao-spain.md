@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Sala BBK, Bilbao, Spain'
+show-venue: "Sala BBK, Bilbao, Spain"
+title: "24th May 2010 - Dean & Britta - Sala BBK, Bilbao, Spain"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

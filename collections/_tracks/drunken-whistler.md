@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Drunken Whistler
 name: drunken-whistler
@@ -8,5 +9,6 @@ track-id: 252
 track-lyrics: 
 track-author: 
 track-sort: "DRUNKEN WHISTLER"
+track-alpha: D
 track-original: 
 ---

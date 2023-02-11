@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Point, Atlanta GA, USA'
+show-venue: "Point, Atlanta GA, USA"
+title: "16th September 1995 -  Luna - Point, Atlanta GA, USA"
 show-setlist: [
   "Friendly Advice",
   "Moon Palace",

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Isn't it a Pity
 name: isn-t-it-a-pity
@@ -10,6 +11,7 @@ track-guitar: "G Amin C G\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: George Harrison
 track-sort: "ISN'T IT A PITY"
+track-alpha: I
 track-original: Harrison, George
 cover: true
 ---

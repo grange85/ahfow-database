@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cumberland Arms, Newcastle, UK'
+show-venue: "Cumberland Arms, Newcastle, UK"
+title: "19th May 2001 -  Damon & Naomi - Cumberland Arms, Newcastle, UK"
 show-setlist: 
 show-date: 2001-05-19
 category: 2001

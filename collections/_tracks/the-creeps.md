@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Creeps
 name: the-creeps
@@ -10,5 +11,6 @@ track-guitar: "Intro Verse, Chorus\nF#m, G#m , A, B\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "CREEPS"
+track-alpha: C
 track-original: 
 ---

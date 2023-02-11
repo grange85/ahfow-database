@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Gijon Sound Festival, Teatro Albéniz, Gijon, Spain'
+show-venue: "Gijon Sound Festival, Teatro Albéniz, Gijon, Spain"
+title: "17th April 2015 -  Luna - Gijon Sound Festival, Teatro Albéniz, Gijon, Spain"
 show-setlist: [
   "Slide",
   "Chinatown",

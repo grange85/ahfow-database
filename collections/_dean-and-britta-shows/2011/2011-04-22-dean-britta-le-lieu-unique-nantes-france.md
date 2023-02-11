@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Le Lieu Unique, Nantes, France'
+show-venue: "Le Lieu Unique, Nantes, France"
+title: "22nd April 2011 - Dean & Britta - Le Lieu Unique, Nantes, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

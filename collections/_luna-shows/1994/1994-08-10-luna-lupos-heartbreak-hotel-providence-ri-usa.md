@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Lupos Heartbreak Hotel, Providence, RI, USA'
+show-venue: "Lupos Heartbreak Hotel, Providence, RI, USA"
+title: "12th August 1994 -  Luna - Lupos Heartbreak Hotel, Providence, RI, USA"
 show-setlist: 
 show-date: 1994-08-12
 category: 1994

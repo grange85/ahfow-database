@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Universidad, Huelva, Spain'
+show-venue: "Universidad, Huelva, Spain"
+title: "26th May 2005 -  Damon & Naomi - Universidad, Huelva, Spain"
 show-setlist: 
 show-date: 2005-05-26
 category: 2005

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Mono, Glasgow, UK'
+show-venue: "Mono, Glasgow, UK"
+title: "15th May 2014 -  Damon & Naomi - Mono, Glasgow, UK"
 show-setlist:
  - The Seeker
  - Amnesia

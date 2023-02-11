@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Bobby Peru
 name: bobby-peru
@@ -10,6 +11,7 @@ track-guitar: "the chords are G | D | Am | C \n(provided by Jonathan)"
 track-guitar-flag: true
 track-author: 
 track-sort: "BOBBY PERU"
+track-alpha: B
 track-original: 
 video-flag: true
 videos:

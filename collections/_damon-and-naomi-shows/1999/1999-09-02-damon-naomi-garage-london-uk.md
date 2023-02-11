@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Garage, London, UK'
+show-venue: "Garage, London, UK"
+title: "2nd September 1999 -  Damon & Naomi - Garage, London, UK"
 show-setlist: 
 show-date: 1999-09-02
 category: 1999

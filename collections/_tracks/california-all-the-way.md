@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: California (All The Way)
 name: california-all-the-way
@@ -10,5 +11,6 @@ track-guitar: "D A B G A\n---------------------------------------\n-------------
 track-guitar-flag: true
 track-author: 
 track-sort: "California (All The Way)"
+track-alpha: C
 track-original: 
 ---

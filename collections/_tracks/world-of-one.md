@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: World of One
 name: world-of-one
@@ -8,5 +9,6 @@ track-id: 205
 track-lyrics: 
 track-author: 
 track-sort: "WORLD OF ONE"
+track-alpha: W
 track-original: 
 ---

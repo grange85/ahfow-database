@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Swing House, Los Angeles, CA, USA'
+show-venue: "Swing House, Los Angeles, CA, USA"
+title: "30th September 2017 -  Luna - Swing House, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist: 
 show-date: 2017-09-30

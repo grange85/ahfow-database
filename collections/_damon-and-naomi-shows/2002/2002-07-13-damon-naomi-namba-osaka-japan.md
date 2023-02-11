@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Namba, Osaka, Japan'
+show-venue: "Namba, Osaka, Japan"
+title: "13th July 2002 -  Damon & Naomi - Namba, Osaka, Japan"
 show-setlist: [
   "Turn Of The Century",
   "Eye Of The Storm",

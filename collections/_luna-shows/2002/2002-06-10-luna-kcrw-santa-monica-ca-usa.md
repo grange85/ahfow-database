@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'KCRW, Santa Monica CA, USA'
+show-venue: "KCRW, Santa Monica CA, USA"
+title: "10th June 2002 -  Luna - KCRW, Santa Monica CA, USA"
 show-setlist: [
   "Black Champagne",
   "Weird And Woozy",

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl:  https://media.fullofwishes.co.uk/02-luna/sleeves/luna_dearpaulina.jpg
 initial_release_date: 1999
-albumname: Dear Paulina / Seven-Eleven
+albumname: "Dear Paulina / Seven-Eleven"
+title: "Luna - Dear Paulina / Seven-Eleven"
 releases:
   - release:
     version: grange85-7

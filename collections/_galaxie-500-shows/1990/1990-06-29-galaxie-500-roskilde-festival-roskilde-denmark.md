@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Roskilde Festival, Roskilde, Denmark'
+show-venue: "Roskilde Festival, Roskilde, Denmark"
+title: "29th June 1990 -  Galaxie 500 - Roskilde Festival, Roskilde, Denmark"
 show-setlist: [
   "Fourth of July",
   "Decomposing Trees",

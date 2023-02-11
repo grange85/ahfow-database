@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Cafe Oto, London, UK'
+show-venue: "Cafe Oto, London, UK"
+title: "11th May 2011 -  Damon & Naomi - Cafe Oto, London, UK"
 show-setlist: 
 show-date: 2011-05-11
 category: 2011

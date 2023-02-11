@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Kinetoscope
 name: kinetoscope
@@ -8,5 +9,6 @@ track-id: 156
 track-lyrics: 
 track-author: 
 track-sort: "KINETOSCOPE"
+track-alpha: K
 track-original: 
 ---

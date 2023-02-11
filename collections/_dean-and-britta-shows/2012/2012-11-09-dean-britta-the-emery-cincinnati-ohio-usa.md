@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'The Emery, Cincinnati, Ohio, USA'
+show-venue: "The Emery, Cincinnati, Ohio, USA"
+title: "9th November 2012 - Dean & Britta - The Emery, Cincinnati, Ohio, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

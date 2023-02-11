@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Electric Factory, Philadelphia PA, USA'
+show-venue: "Electric Factory, Philadelphia PA, USA"
+title: "22nd April 2000 -  Luna - Electric Factory, Philadelphia PA, USA"
 show-setlist: 
 show-date: 2000-04-22
 category: 2000

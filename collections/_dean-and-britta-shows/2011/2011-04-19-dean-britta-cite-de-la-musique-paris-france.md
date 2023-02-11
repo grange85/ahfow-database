@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Cite de La Musique, Paris, France'
+show-venue: "Cite de La Musique, Paris, France"
+title: "19th April 2011 - Dean & Britta - Cite de La Musique, Paris, France"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

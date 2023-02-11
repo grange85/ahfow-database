@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Second Home Spitalfields, London, UK"
+title: "15th February 2018 -  Damon & Naomi - Second Home Spitalfields, London, UK"
 show-setlist:
 show-date: 2018-02-15
 date-added: 2018-01-05

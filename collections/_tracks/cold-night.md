@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Cold Night
 name: cold-night
@@ -10,5 +11,6 @@ track-guitar: "all the way through Asus D\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "COLD NIGHT"
+track-alpha: C
 track-original: 
 ---

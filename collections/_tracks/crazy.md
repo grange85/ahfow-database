@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Crazy
 name: crazy
@@ -10,5 +11,6 @@ track-guitar: "D A D A Asus E Asus E\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "CRAZY"
+track-alpha: C
 track-original: 
 ---

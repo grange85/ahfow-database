@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Tugboat
 name: tugboat
@@ -10,6 +11,7 @@ track-guitar: "G C the whole song\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "TUGBOAT"
+track-alpha: T
 track-original: 
 video-flag: true
 videos:

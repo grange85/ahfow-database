@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Spaceland, Los Angeles CA, USA'
+show-venue: "Spaceland, Los Angeles CA, USA"
+title: "21st July 2002 -  Damon & Naomi - Spaceland, Los Angeles CA, USA"
 show-setlist: 
 show-date: 2002-07-21
 category: 2002

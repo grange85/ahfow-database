@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Piaf, Antwerp, Belgium'
+show-venue: "Piaf, Antwerp, Belgium"
+title: "9th October 2016 -  Luna - Piaf, Antwerp, Belgium"
 show-notes: ''
 show-setlist: 
  - ^Penthouse

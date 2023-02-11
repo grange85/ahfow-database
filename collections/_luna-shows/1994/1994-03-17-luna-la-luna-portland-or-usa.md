@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'La Luna, Portland OR, USA'
+show-venue: "La Luna, Portland OR, USA"
+title: "17th March 1994 -  Luna - La Luna, Portland OR, USA"
 show-setlist:
 show-date: 1994-03-17
 category: 1994

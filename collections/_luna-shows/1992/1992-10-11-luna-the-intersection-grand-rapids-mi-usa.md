@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'The Intersection, Grand Rapids, MI, USA'
+show-venue: "The Intersection, Grand Rapids, MI, USA"
+title: "11th October 1992 -  Luna - The Intersection, Grand Rapids, MI, USA"
 show-setlist: 
 show-date: 1992-10-11
 category: 1992

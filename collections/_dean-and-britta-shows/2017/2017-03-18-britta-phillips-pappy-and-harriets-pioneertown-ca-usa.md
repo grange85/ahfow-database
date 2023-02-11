@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: britta-phillips
 artist:
   name: Britta Phillips
-show-venue: Pappy and Harriet's Pioneertown Palace, Pioneertown, CA, USA
+show-venue: "Pappy and Harriet's Pioneertown Palace, Pioneertown, CA, USA"
+title: "18th March 2017 - Britta Phillips - Pappy and Harriet's Pioneertown Palace, Pioneertown, CA, USA"
 show-notes: 
 show-setlist: 
 show-date: 2017-03-18

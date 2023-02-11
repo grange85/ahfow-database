@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Stereo, Glasgow, UK'
+show-venue: "Stereo, Glasgow, UK"
+title: "12th February 2011 - Dean & Britta - Stereo, Glasgow, UK"
 show-setlist: 
 show-date: 2011-02-12
 category: 2011

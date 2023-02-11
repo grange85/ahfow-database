@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Classic Grand, Glasgow, UK'
+show-venue: "The Classic Grand, Glasgow, UK"
+title: "17th April 2020 - Dean Wareham - The Classic Grand, Glasgow, UK"
 address: |
   The Classic Grand, 
   237 Argyle Street, 

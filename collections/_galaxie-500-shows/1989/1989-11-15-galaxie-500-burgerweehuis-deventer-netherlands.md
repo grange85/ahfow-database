@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Burgerweehuis, Deventer, Netherlands'
+show-venue: "Burgerweehuis, Deventer, Netherlands"
+title: "15th November 1989 -  Galaxie 500 - Burgerweehuis, Deventer, Netherlands"
 show-setlist: 
 show-date: 1989-11-15
 category: 1989

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'ARO.space, Seattle WA, USA'
+show-venue: "ARO.space, Seattle WA, USA"
+title: "16th April 1998 -  Damon & Naomi - ARO.space, Seattle WA, USA"
 show-setlist: 
 show-date: 1998-04-16
 category: 1998

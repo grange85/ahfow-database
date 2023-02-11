@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Fiesta del Marisco, O Grove, Spain'
+show-venue: "Fiesta del Marisco, O Grove, Spain"
+title: "7th October 2017 -  Luna - Fiesta del Marisco, O Grove, Spain"
 show-notes: ''
 show-setlist:
  - Fuzzy Wuzzy

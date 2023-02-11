@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: In the Flesh
 name: in-the-flesh
@@ -36,6 +37,7 @@ track-lyrics: |
     Ooh
 track-author: Harry/Stein
 track-sort: "IN THE FLESH"
+track-alpha: I
 track-original: Blondie
 cover: true
 ---

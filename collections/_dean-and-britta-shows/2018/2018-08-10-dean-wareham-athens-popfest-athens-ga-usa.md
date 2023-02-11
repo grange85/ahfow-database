@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Athens Popfest, The Georgia Theatre, Athens, GA, USA'
+show-venue: "Athens Popfest, The Georgia Theatre, Athens, GA, USA"
+title: "10th August 2018 - Dean Wareham - Athens Popfest, The Georgia Theatre, Athens, GA, USA"
 show-notes: ''
 show-setlist:
 show-date: 2018-08-10

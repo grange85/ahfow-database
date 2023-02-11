@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Bowdoin College, Brunswick ME, USA'
+show-venue: "Bowdoin College, Brunswick ME, USA"
+title: "5th April 1991 -  Galaxie 500 - Bowdoin College, Brunswick ME, USA"
 show-setlist:
 show-date: 1991-04-05
 category: 1991
@@ -42,4 +44,12 @@ photos:
         title: 'Photo by Dan Pearson'
       }
       ]"
+
+links:  
+ - url: /2016/04/05/25-years-ago-the-end-of-galaxie-500/
+   source: A Head Full of Wishes
+   title: "25 years ago -  Galaxie 500 - the end of Galaxie 500"
+ - url: /2014/05/01/gallery-galaxie-500s-last-show/
+   source: A Head Full of Wishes
+   title: "Gallery: Galaxie 500's last show"
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trax, Charlottesville VA, USA'
+show-venue: "Trax, Charlottesville VA, USA"
+title: "15th January 1998 -  Luna - Trax, Charlottesville VA, USA"
 show-setlist: [
   "Season of the Witch",
   "Sideshow By The Seashore",

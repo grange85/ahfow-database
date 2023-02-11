@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Rough Trade West, London, UK'
+show-venue: "Rough Trade West, London, UK"
+title: "4th June 2019 -  Damon & Naomi - Rough Trade West, London, UK"
 artist:
  name: Damon Krukowski
 address: |

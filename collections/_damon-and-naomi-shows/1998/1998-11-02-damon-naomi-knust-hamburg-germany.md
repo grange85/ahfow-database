@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Knust, Hamburg, Germany'
+show-venue: "Knust, Hamburg, Germany"
+title: "2nd November 1998 -  Damon & Naomi - Knust, Hamburg, Germany"
 show-setlist: 
 show-date: 1998-11-02
 category: 1998

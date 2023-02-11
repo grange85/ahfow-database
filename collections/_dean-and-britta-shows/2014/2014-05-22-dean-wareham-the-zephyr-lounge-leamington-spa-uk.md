@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'The Zephyr Lounge, Leamington Spa, UK'
+show-venue: "The Zephyr Lounge, Leamington Spa, UK"
+title: "22nd May 2014 - Dean Wareham - The Zephyr Lounge, Leamington Spa, UK"
 show-setlist: [
   "Emancipated Hearts",
   "Pictures",
@@ -44,6 +46,7 @@ photos:
     type: flickr-set
     id: 72157644788889922
 links:
-  - url: https://www.fullofwishes.co.uk/2014/05/24/photos-and-audio-dean-wareham-in-leamington-spa-22nd-may-2014/
+  - url: /2014/05/24/photos-and-audio-dean-wareham-in-leamington-spa-22nd-may-2014/
+    title: "Photos and audio: Dean Wareham in Leamington Spa, 22 May 2014"
     source: "A Head Full of Wishes"
 ---

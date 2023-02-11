@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Blue Moon
 name: blue-moon
@@ -8,6 +9,7 @@ track-id: 163
 track-lyrics: 
 track-author: Big Star
 track-sort: "BLUE MOON"
+track-alpha: B
 track-original: Big Star
 cover: true
 ---

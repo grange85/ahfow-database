@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: City Kitty
 name: city-kitty
@@ -10,5 +11,6 @@ track-guitar: "Verse,\nEm, G, A\n\nChorus\nE, G, D, A\n\n(provided by Drew)"
 track-guitar-flag: true
 track-author: 
 track-sort: "CITY KITTY"
+track-alpha: C
 track-original: 
 ---

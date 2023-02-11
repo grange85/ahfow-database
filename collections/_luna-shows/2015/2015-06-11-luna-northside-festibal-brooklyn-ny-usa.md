@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Northside Festival, Brooklyn, NY, USA'
+show-venue: "Northside Festival, Brooklyn, NY, USA"
+title: "11th June 2015 -  Luna - Northside Festival, Brooklyn, NY, USA"
 show-setlist: [
   ]
 show-date: 2015-06-11
@@ -44,4 +46,4 @@ show-setlist: [
 
 Setlist source: recording
 
-[A Head Full of Wishes: Luna at the Northside Festival in Brooklyn – a quick round-up](https://www.fullofwishes.co.uk/2015/06/luna-at-the-northside-festival-in-brooklyn-a-quick-round-up/)
+[A Head Full of Wishes: Luna at the Northside Festival in Brooklyn – a quick round-up](/2015/06/17/luna-at-the-northside-festival-in-brooklyn-a-quick-round-up/)

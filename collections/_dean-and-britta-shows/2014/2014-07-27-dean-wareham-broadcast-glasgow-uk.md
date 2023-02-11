@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Broadcast, Glasgow, UK'
+show-venue: "Broadcast, Glasgow, UK"
+title: "27th July 2014 - Dean Wareham - Broadcast, Glasgow, UK"
 show-setlist: 
 show-date: 2014-07-27
 category: 2014

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Pyramid, New York NY, USA'
+show-venue: "Pyramid, New York NY, USA"
+title: "19th July 1989 -  Galaxie 500 - Pyramid, New York NY, USA"
 show-setlist: [
   "Plastic Bird",
   "Blue Thunder",

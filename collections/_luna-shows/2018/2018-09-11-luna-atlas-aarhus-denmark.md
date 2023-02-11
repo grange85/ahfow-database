@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Atlas, Aarhus, Denmark'
+show-venue: "Atlas, Aarhus, Denmark"
+title: "10th September 2018 -  Luna - Atlas, Aarhus, Denmark"
 show-notes: ''
 show-setlist:
  - GTX3
@@ -9,7 +11,7 @@ show-setlist:
  - Fire in Cairo
  - Math Wiz
  - Anesthesia
- - Beggars Bliss
+ - Beggar's Bliss
  - Malibu Love Nest
  - Sideshow by the Seashore
  - 23 Minutes in Brussels

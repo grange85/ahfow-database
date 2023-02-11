@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Opera House, Toronto, Canada'
+show-venue: "Opera House, Toronto, Canada"
+title: "2nd March 1993 -  Luna - Opera House, Toronto, Canada"
 setlist-source: 'recording'
 show-setlist: [
   "Slide",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Bronson, Ravenna, Italy'
+show-venue: "Bronson, Ravenna, Italy"
+title: "15th December 2011 -  Damon & Naomi - Bronson, Ravenna, Italy"
 show-setlist: 
 show-date: 2011-12-15
 category: 2011

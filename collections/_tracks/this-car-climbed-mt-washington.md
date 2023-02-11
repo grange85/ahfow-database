@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: This Car Climbed Mt. Washington
 name: this-car-climbed-mt-washington
@@ -8,5 +9,6 @@ track-id: 132
 track-lyrics: 
 track-author: 
 track-sort: "THIS CAR CLIMBED MT. WASHINGTON"
+track-alpha: T
 track-original: 
 ---

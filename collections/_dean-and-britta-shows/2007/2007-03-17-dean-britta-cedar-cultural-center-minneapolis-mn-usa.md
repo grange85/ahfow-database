@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Cedar Cultural Center, Minneapolis MN, USA'
+show-venue: "Cedar Cultural Center, Minneapolis MN, USA"
+title: "17th March 2007 - Dean & Britta - Cedar Cultural Center, Minneapolis MN, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

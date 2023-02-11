@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 03-compilation
 artistslug: dean-and-britta
 initial_release_date: 2011
-albumname: Occupied Europe / I'll Keep It With Mine
+albumname: "Occupied Europe / I'll Keep It With Mine"
+title: "Dean & Britta - Occupied Europe / I'll Keep It With Mine"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab-ill-keep-it-with-mine-sand-pebbles.jpg
 releases:
   - release:

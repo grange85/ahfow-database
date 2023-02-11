@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Nachtwerk, Munich, Germany'
+show-venue: "Nachtwerk, Munich, Germany"
+title: "28th November 1989 -  Galaxie 500 - Nachtwerk, Munich, Germany"
 show-setlist: 
 show-date: 1989-11-28
 category: 1989

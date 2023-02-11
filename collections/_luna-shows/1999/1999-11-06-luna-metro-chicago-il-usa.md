@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Metro, Chicago IL, USA'
+show-venue: "Metro, Chicago IL, USA"
+title: "6th November 1999 -  Luna - Metro, Chicago IL, USA"
 show-setlist: [
   "Pup Tent",
   "Dear Diary",

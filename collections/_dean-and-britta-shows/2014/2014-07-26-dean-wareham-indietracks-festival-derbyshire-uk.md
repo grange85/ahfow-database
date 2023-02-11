@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Indietracks Festival, Derbyshire, UK'
+show-venue: "Indietracks Festival, Derbyshire, UK"
+title: "26th July 2014 - Dean Wareham - Indietracks Festival, Derbyshire, UK"
 show-setlist:
   - title: Emancipated Hearts
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/01-dean-wareham-emancipated-hearts.mp3
@@ -27,7 +29,7 @@ show-setlist:
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/10-dean-wareham-babes-in-the-wood.mp3
   - title: Tugboat
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/11-dean-wareham-tugboat.mp3
-  - title: Fourth Of July
+  - title: Fourth of July
     url: http://media.fullofwishes.co.uk/05-dean_wareham/audio/dean-wareham-2014-07-26-indietracks-uk/12-dean-wareham-fourth-of-july.mp3
 show-date: 2014-07-26
 category: 2014

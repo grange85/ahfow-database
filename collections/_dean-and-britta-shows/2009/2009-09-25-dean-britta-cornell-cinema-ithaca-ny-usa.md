@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Cornell Cinema, Ithaca, NY, USA'
+show-venue: "Cornell Cinema, Ithaca, NY, USA"
+title: "25th September 2009 - Dean & Britta - Cornell Cinema, Ithaca, NY, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

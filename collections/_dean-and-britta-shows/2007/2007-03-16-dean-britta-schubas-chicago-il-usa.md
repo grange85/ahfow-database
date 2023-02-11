@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Schuba's, Chicago IL, USA"
+title: "16th March 2007 - Dean & Britta - Schuba's, Chicago IL, USA"
 show-setlist: [
   "Singer Sing",
   "Night Nurse",

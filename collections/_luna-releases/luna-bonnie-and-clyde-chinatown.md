@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-bonnie-and-clyde.jpg
 initial_release_date: 1995
-albumname: Bonnie and Clyde / 23 Minutes in Brussels
+albumname: "Bonnie and Clyde / 23 Minutes in Brussels"
+title: "Luna - Bonnie and Clyde / 23 Minutes in Brussels"
 releases:
   - release:
     version: beggars-banquet-12

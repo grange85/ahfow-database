@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Moore Theater, Dartmouth College, Hanover NH, USA'
+show-venue: "Moore Theater, Dartmouth College, Hanover NH, USA"
+title: "8th April 2011 - Dean & Britta - Moore Theater, Dartmouth College, Hanover NH, USA"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

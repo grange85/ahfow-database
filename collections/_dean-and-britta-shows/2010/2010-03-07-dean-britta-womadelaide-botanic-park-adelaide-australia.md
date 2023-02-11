@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'WOMADelaide, Botanic Park, Adelaide, Australia'
+show-venue: "WOMADelaide, Botanic Park, Adelaide, Australia"
+title: "7th March 2010 - Dean & Britta - WOMADelaide, Botanic Park, Adelaide, Australia"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

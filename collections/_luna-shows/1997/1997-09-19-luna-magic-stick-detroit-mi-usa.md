@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Magic Stick, Detroit MI, USA'
+show-venue: "Magic Stick, Detroit MI, USA"
+title: "19th September 1997 -  Luna - Magic Stick, Detroit MI, USA"
 show-setlist: 
 show-date: 1997-09-19
 category: 1997

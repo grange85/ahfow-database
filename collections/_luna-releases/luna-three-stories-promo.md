@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 04-promo
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-three-stories-promo.jpg
 initial_release_date: 1995
-albumname: Three Stories
+albumname: "Three Stories"
+title: "Luna - Three Stories"
 releases:
   - release:
     version: elektra-promo-cd

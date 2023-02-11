@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Casbah, San Diego CA, USA'
+show-venue: "Casbah, San Diego CA, USA"
+title: "12th July 1994 -  Luna - Casbah, San Diego CA, USA"
 show-setlist: 
  - Hey Sister
  - California (All The Way)

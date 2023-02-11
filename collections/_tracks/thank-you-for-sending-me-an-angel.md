@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Thank You for Sending Me an Angel
 name: thank-you-for-sending-me-an-angel
@@ -10,6 +11,7 @@ track-guitar: "G F C\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: David Byrne
 track-sort: "THANK YOU FOR SENDING ME AN ANGEL"
+track-alpha: T
 track-original: Talking Heads
 cover: true
 ---

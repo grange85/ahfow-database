@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'KXLU-FM, Los Angeles CA, USA'
+show-venue: "KXLU-FM, Los Angeles CA, USA"
+title: "4th April 1994 -  Luna - KXLU-FM, Los Angeles CA, USA"
 setlist-source: 'recording'
 show-setlist: [
   "Bewitched",

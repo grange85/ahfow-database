@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The North Light
 name: the-north-light
@@ -8,5 +9,6 @@ track-id:
 track-lyrics: 
 track-author: Krukowski/Yang
 track-sort: "NORTH LIGHT"
+track-alpha: N
 track-original: 
 ---

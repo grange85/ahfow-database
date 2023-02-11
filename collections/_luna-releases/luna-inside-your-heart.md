@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-inside-your-heart.jpg
 initial_release_date: 2019
-albumname: Inside Your Heart
+albumname: "Inside Your Heart"
+title: "Luna - Inside Your Heart"
 releases:
   - release:
     version: piaptk-7

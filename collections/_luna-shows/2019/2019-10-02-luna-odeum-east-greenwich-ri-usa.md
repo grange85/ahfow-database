@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Greenwich Odeum, East Greenwich, RI, USA'
+show-venue: "Greenwich Odeum, East Greenwich, RI, USA"
+title: "2nd October 2019 -  Luna - Greenwich Odeum, East Greenwich, RI, USA"
 address: |
   Greenwich Odeum, 
   59 Main St, 
@@ -15,7 +17,7 @@ show-setlist:
   - Friendly Advice
   - Bewitched
   - This Time Around
-  - Great Jones St.
+  - Great Jones Street
   - Going Home
   - Into the Fold
   - I Know You Tried

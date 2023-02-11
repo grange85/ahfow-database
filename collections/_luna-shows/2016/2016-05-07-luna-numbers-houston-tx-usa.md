@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Numbers, Houston, TX, USA'
+show-venue: "Numbers, Houston, TX, USA"
+title: "7th May 2016 -  Luna - Numbers, Houston, TX, USA"
 show-notes: ''
 show-setlist:
  - Slide

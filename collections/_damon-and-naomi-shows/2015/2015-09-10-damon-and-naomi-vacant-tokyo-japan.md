@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Vacant, Tokyo, Japan'
+show-venue: "Vacant, Tokyo, Japan"
+title: "10th September 2015 -  Damon & Naomi - Vacant, Tokyo, Japan"
 show-setlist:
  - The Seeker
  - Amnesia

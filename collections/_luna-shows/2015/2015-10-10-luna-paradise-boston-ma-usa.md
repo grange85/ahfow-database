@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Paradise, Boston, MA, USA'
+show-venue: "Paradise, Boston, MA, USA"
+title: "10th October 2015 -  Luna - Paradise, Boston, MA, USA"
 show-setlist:
  - Chinatown
  - Speedbumps

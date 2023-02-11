@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Borderline, London, UK'
+show-venue: "Borderline, London, UK"
+title: "3rd June 1993 -  Luna - Borderline, London, UK"
 show-setlist: [
   "Crazy People",
   "Anesthesia",

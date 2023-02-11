@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Point, Atlanta GA, USA'
+show-venue: "Point, Atlanta GA, USA"
+title: "10th February 1996 -  Luna - Point, Atlanta GA, USA"
 show-setlist: 
 show-date: 1996-02-10
 category: 1996

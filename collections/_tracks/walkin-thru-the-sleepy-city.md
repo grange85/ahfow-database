@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: (Walkin' Thru The) Sleepy City
 name: walkin-thru-the-sleepy-city
@@ -7,9 +8,10 @@ type: ahfow_track
 track-lyrics: 
 track-author: Jagger/Richards
 track-sort: "WALKIN' THRU THE SLEEPY CITY"
+track-alpha: W
 track-original: The Rolling Stones
 available-on:
  - release: Luna - A Sentimental Education
-   url: /luna/releases/luna-a-sentimental-education/
+   url: /database/luna/releases/luna-a-sentimental-education/
 cover: true
 ---

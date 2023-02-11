@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Paradiso, Amsterdam, Netherlands'
+show-venue: "Paradiso, Amsterdam, Netherlands"
+title: "27th October 2002 -  Luna - Paradiso, Amsterdam, Netherlands"
 show-setlist: [
   "Lovedust",
   "Black Champagne",

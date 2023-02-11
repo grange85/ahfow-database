@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Time
 name: time-2
@@ -8,13 +9,14 @@ track-id: 174
 track-lyrics: 
 track-author: Michael Merchant
 track-sort: "TIME"
+track-alpha: T
 track-original: Jimmie Rodgers
 cover: true
 available-on:
  - release: Cagney & Lacee - Time / By The Way I Still Love You
-   url: /dean-and-britta/dean-wareham-releases/cagney-and-lacee-time/
+   url: /database/dean-and-britta/dean-wareham-releases/cagney-and-lacee-time/
  - release: Various Artists - Speed Dating
-   url: /dean-and-britta/dean-wareham-releases/various-artists-speed-dating/
+   url: /database/dean-and-britta/dean-wareham-releases/various-artists-speed-dating/
 track-lyrics: |
   Some people run, some people crawl,
   Some people don't even move at all,

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Blue Thunder
 name: blue-thunder
@@ -10,6 +11,7 @@ track-guitar: "intro: C Cmaj7 C Cmaj7 Cadd9\nverses: G Cadd9\nnyah nyah: D C D C
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "BLUE THUNDER"
+track-alpha: B
 track-original: 
 video-flag: true
 videos:

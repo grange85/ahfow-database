@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Maxwells, Hoboken NJ, USA'
+show-venue: "Maxwells, Hoboken NJ, USA"
+title: "26th July 2003 -  Luna - Maxwells, Hoboken NJ, USA"
 show-setlist: [
   "Everybody's Talkin'",
   "1995",

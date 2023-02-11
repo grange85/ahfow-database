@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'BBC 6 Music, London, UK'
+show-venue: "BBC 6 Music, London, UK"
+title: "17th January 2005 -  Luna - BBC 6 Music, London, UK"
 show-setlist: [
   "Broken Chair",
   "The Owl and the Pussycat"

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Slow Song
 name: the-slow-song
@@ -10,5 +11,6 @@ track-guitar: "B F# E (repeat 3x)\nB A E F#\netc.\n\ndurch Strassen bevoikert\nw
 track-guitar-flag: true
 track-author: 
 track-sort: "SLOW SONG"
+track-alpha: S
 track-original: 
 ---

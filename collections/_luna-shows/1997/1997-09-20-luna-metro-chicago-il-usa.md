@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Metro, Chicago IL, USA'
+show-venue: "Metro, Chicago IL, USA"
+title: "20th September 1997 -  Luna - Metro, Chicago IL, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Sideshow By The Seashore",

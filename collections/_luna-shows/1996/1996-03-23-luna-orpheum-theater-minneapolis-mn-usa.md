@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Orpheum Theater, Minneapolis MN, USA'
+show-venue: "Orpheum Theater, Minneapolis MN, USA"
+title: "23rd March 1996 -  Luna - Orpheum Theater, Minneapolis MN, USA"
 show-setlist: [
   "This Time Around",
   "California (All The Way)",

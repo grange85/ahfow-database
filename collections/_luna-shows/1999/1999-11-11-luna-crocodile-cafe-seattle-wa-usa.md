@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Crocodile Cafe, Seattle WA, USA'
+show-venue: "Crocodile Cafe, Seattle WA, USA"
+title: "11th November 1999 -  Luna - Crocodile Cafe, Seattle WA, USA"
 show-setlist: [
   "Fuzzy Wuzzy",
   "Superfreaky Memories",

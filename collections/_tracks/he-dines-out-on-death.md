@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: He Dines Out on Death
 name: he-dines-out-on-death
@@ -7,6 +8,7 @@ type: ahfow_track
 track-lyrics: 
 track-author: Brierley / Cristina
 track-sort: "HE DINES OUT"
+track-alpha: H
 track-original: Cristina
 available-on:
   - release: "Dean & Britta - Quarantine Tapes"

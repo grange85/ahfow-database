@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Into The Fold
 name: into-the-fold
@@ -10,5 +11,6 @@ track-guitar: "verse: A D\nbreak: B E\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "INTO THE FOLD"
+track-alpha: I
 track-original: 
 ---

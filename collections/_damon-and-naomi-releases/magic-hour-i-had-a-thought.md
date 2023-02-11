@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
-section: 06-Magic Hour single
+section: 05-Magic Hour release
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
 initial_release_date: 1995
-albumname:  I Had a Thought
+albumname: " I Had a Thought"
+title: "Magic Hour -  I Had a Thought"
 artist: Magic Hour
 releases:
   - release:

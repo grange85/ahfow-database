@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Teatre de Lloseta, Mallorca, Spain'
+show-venue: "Teatre de Lloseta, Mallorca, Spain"
+title: "8th May 2010 -  Damon & Naomi - Teatre de Lloseta, Mallorca, Spain"
 show-setlist: 
 show-date: 2010-05-08
 category: 2010

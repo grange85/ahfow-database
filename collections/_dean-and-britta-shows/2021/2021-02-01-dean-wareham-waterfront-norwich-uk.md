@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Waterfront, Norwich, UK'
+show-venue: "Waterfront, Norwich, UK"
+title: "1st February 2021 - Dean Wareham - Waterfront, Norwich, UK"
 address: |
   Waterfront, 
   137-141 King Street, 

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Alley Katz, Richmond VA, USA'
+show-venue: "Alley Katz, Richmond VA, USA"
+title: "17th January 1998 -  Luna - Alley Katz, Richmond VA, USA"
 show-setlist: [
   "Pup Tent",
   "California (All The Way)",

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'MANDA-LA2, Tokyo, Japan'
+show-venue: "MANDA-LA2, Tokyo, Japan"
+title: "14th November 2019 -  Damon & Naomi - MANDA-LA2, Tokyo, Japan"
 address: |
   Tokyo 180-0003
   Japan

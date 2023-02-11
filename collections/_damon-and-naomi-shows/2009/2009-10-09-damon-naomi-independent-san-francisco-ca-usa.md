@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Independent, San Francisco, CA, USA'
+show-venue: "Independent, San Francisco, CA, USA"
+title: "9th October 2009 -  Damon & Naomi - Independent, San Francisco, CA, USA"
 show-setlist: 
 show-date: 2009-10-09
 category: 2009

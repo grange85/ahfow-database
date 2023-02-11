@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'SESC Pompéia, Sao Paulo, Brazil'
+show-venue: "SESC Pompéia, Sao Paulo, Brazil"
+title: "14th April 2011 - Dean & Britta - SESC Pompéia, Sao Paulo, Brazil"
 show-setlist: [
   "Richard Rheem Theme",
   "Ann Buchanan Theme",

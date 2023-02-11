@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Earth is Blue
 name: the-earth-is-blue
@@ -8,5 +9,6 @@ track-id: 294
 track-lyrics: 
 track-author: 
 track-sort: "EARTH IS BLUE"
+track-alpha: E
 track-original: 
 ---

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '[unknown], Mallorca, Spain'
+show-venue: "[unknown], Mallorca, Spain"
+title: "13th January 2005 -  Luna - [unknown], Mallorca, Spain"
 show-setlist: 
 show-date: 2005-01-13
 category: 2005

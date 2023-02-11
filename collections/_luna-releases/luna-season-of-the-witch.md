@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_season.jpg
 initial_release_date: 1996
-albumname: Season of the Witch
+albumname: "Season of the Witch"
+title: "Luna - Season of the Witch"
 releases:
   - release:
     version: beggars-banquet-10

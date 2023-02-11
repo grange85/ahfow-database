@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'LA2, London, UK'
+show-venue: "LA2, London, UK"
+title: "20th May 1994 -  Luna - LA2, London, UK"
 setlist-source: 'recording'
 show-setlist: [
   "Crazy People",

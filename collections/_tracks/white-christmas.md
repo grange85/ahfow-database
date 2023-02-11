@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: White Christmas
 name: white-christmas
@@ -23,6 +24,7 @@ track-lyrics: |
   And may all your Christmases be white
 track-author: Irving Berlin
 track-sort: "WHITE CHRISTMAS"
+track-alpha: W
 track-original: Bing Crosby
 cover: true
 ---

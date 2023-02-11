@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: It's Bringing You Down
 name: it-s-bringing-you-down
@@ -10,5 +11,6 @@ track-guitar: "verse: A G D\nbreak: A G A G A G D\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "IT'S BRINGING YOU DOWN"
+track-alpha: I
 track-original: 
 ---

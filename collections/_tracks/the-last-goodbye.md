@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: The Last Goodbye
 name: the-last-goodbye
@@ -8,5 +9,6 @@ track-id: 179
 track-lyrics: 
 track-author: Robbins
 track-sort: "LAST GOODBYE"
+track-alpha: L
 track-original: 
 ---

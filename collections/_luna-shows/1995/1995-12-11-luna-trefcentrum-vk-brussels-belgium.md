@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Trefcentrum VK, Brussels, Belgium'
+show-venue: "Trefcentrum VK, Brussels, Belgium"
+title: "11th December 1995 -  Luna - Trefcentrum VK, Brussels, Belgium"
 show-setlist: [
   "23 Minutes in Brussels",
   "Slide",

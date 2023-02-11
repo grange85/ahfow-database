@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Snowstorm
 name: snowstorm
@@ -10,5 +11,6 @@ track-guitar: "verses: D\nchange: G D G D \n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Krukowski/Wareham/Yang
 track-sort: "SNOWSTORM"
+track-alpha: S
 track-original: 
 ---

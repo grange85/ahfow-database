@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'KCRW, Santa Monica CA, USA'
+show-venue: "KCRW, Santa Monica CA, USA"
+title: "16th May 1996 -  Luna - KCRW, Santa Monica CA, USA"
 show-setlist: [
   "Tracy I Love You",
   "Kalamazoo",

@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "The Jerry H. Labowitz Theatre for the Performing Arts, New York, NY, USA"
+title: "16th November 2018 -  Damon & Naomi - The Jerry H. Labowitz Theatre for the Performing Arts, New York, NY, USA"
 show-setlist:
 show-date: 2018-11-16
 date-added: 2018-11-12

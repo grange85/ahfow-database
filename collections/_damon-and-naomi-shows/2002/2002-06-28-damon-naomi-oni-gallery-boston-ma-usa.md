@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Oni Gallery, Boston MA, USA'
+show-venue: "Oni Gallery, Boston MA, USA"
+title: "28th June 2002 -  Damon & Naomi - Oni Gallery, Boston MA, USA"
 show-setlist: 
 show-date: 2002-06-28
 category: 2002

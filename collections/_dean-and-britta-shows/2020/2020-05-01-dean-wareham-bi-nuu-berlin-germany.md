@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Bi Nuu, Berlin, Germany'
+show-venue: "Bi Nuu, Berlin, Germany"
+title: "1st May 2020 - Dean Wareham - Bi Nuu, Berlin, Germany"
 address: |
   Bi Nuu
   Im U-Bhf.,  

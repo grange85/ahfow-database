@@ -1,10 +1,12 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 01-album
 artistslug: britta-phillips
 initial_release_date: 2016
-albumname: Luck or Magic
+albumname: "Luck or Magic"
+title: "Britta Phillips - Luck or Magic"
 artist: Britta Phillips
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/britta-phillips-luck-or-magic.jpg
 releases:
@@ -77,7 +79,7 @@ releases:
       - title: One Fine Summer Morning
         notes:
         author: Evie Sands
-      - title: The Million Dollar Doll
+      - title: Million Dollar Doll
         notes:
         author:
       - title: Drive

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'The Grog Shop, Cleveland Heights, OH, USA'
+show-venue: "The Grog Shop, Cleveland Heights, OH, USA"
+title: "9th November 2017 -  Luna - The Grog Shop, Cleveland Heights, OH, USA"
 show-notes: ''
 show-setlist: 
  - Slide

@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-slide-ep.jpg
 initial_release_date: 1993
-albumname: Slide
+albumname: "Slide"
+title: "Luna - Slide"
 releases:
   - release:
     version: elektra-single-cds

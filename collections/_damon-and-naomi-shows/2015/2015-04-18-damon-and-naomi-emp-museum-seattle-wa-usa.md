@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'EMP Museum, Seattle, WA, USA'
+show-venue: "EMP Museum, Seattle, WA, USA"
+title: "18th April 2015 -  Damon & Naomi - EMP Museum, Seattle, WA, USA"
 show-setlist:
  - The Seeker
  - Amnesia

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: 14 Auspicious Dreams
 name: 14-auspicious-dreams
@@ -8,10 +9,11 @@ track-id: 191
 track-lyrics: 
 track-author: Yang / Hopper
 track-sort: "FOURTEEN AUSPICIOUS DREAMS"
+track-alpha: F
 track-original: 
 available-on:
   - release: "Ptolemaic Terrascope Benefit EP: Terrastock April 25-27 1997"
-    url: /damon-and-naomi/releases/various-artists-ptolemaic-terrascope-benefit/
+    url: /database/damon-and-naomi/releases/various-artists-ptolemaic-terrascope-benefit/
 ahfow-posts:
   - post-title: "Audio: Lost tracks: Damon & Naomi - 14 Auspicious Dreams"
     post-url: https://www.fullofwishes.co.uk/2013/01/23/audio-lost-tracks-damon-naomi-14-auspicious-dreams/

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Goodbye
 name: goodbye
@@ -10,5 +11,6 @@ track-guitar: "verse: D G\nchange: A E D\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "GOODBYE"
+track-alpha: G
 track-original: 
 ---

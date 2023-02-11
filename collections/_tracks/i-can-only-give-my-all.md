@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I Can Only Give My All
 name: i-can-only-give-my-all
@@ -8,5 +9,6 @@ track-id: 384
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "I CAN ONLY GIVE MY ALL"
+track-alpha: I
 track-original: 
 ---

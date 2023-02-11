@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Fiddlers Club, Bristol, UK'
+show-venue: "Fiddlers Club, Bristol, UK"
+title: "24th April 2020 - Dean Wareham - Fiddlers Club, Bristol, UK"
 address: |
   Fiddlers Club, 
   Willway Street, 

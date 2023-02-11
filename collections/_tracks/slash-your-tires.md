@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Slash Your Tires
 name: slash-your-tires
@@ -10,6 +11,7 @@ track-guitar: "C D G C\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "SLASH YOUR TIRES"
+track-alpha: S
 track-original: 
 video-flag: true
 videos:

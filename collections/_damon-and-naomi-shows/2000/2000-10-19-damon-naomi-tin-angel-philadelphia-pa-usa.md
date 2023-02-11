@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tin Angel, Philadelphia PA, USA'
+show-venue: "Tin Angel, Philadelphia PA, USA"
+title: "19th October 2000 -  Damon & Naomi - Tin Angel, Philadelphia PA, USA"
 show-setlist: [
   "I Dreamed of the Caucasus",
   "The New World",

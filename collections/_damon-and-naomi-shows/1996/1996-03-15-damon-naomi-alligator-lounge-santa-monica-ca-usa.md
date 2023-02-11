@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Alligator Lounge, Santa Monica CA, USA'
+show-venue: "Alligator Lounge, Santa Monica CA, USA"
+title: "15th March 1996 -  Damon & Naomi - Alligator Lounge, Santa Monica CA, USA"
 show-setlist: [
   "Spirit of Love",
   "Tour Of The World",

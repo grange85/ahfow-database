@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Terraza Malabar Del Veles E Vents, Valencia, Spain'
+show-venue: "Terraza Malabar Del Veles E Vents, Valencia, Spain"
+title: "1st September 2018 -  Luna - Terraza Malabar Del Veles E Vents, Valencia, Spain"
 show-notes: ''
 show-setlist:
  - Fire in Cairo

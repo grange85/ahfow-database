@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Black Cat, Washington DC, USA'
+show-venue: "Black Cat, Washington DC, USA"
+title: "17th June 2008 -  Damon & Naomi - Black Cat, Washington DC, USA"
 show-setlist: 
 show-date: 2008-06-17
 category: 2008

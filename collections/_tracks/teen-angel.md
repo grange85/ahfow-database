@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Teen Angel
 name: teen-angel
@@ -8,6 +9,7 @@ track-id: 318
 track-lyrics: 
 track-author: Donovan Leitch
 track-sort: "TEEN ANGEL"
+track-alpha: T
 track-original: Donovan
 cover: true
 ---

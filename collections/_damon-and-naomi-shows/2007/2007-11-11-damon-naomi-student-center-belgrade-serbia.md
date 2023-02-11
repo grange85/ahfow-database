@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Student Center, Belgrade, Serbia'
+show-venue: "Student Center, Belgrade, Serbia"
+title: "11th November 2007 -  Damon & Naomi - Student Center, Belgrade, Serbia"
 show-setlist: 
 show-date: 2007-11-11
 category: 2007

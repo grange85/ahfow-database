@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-hedgehog-23-minutes.jpg
 initial_release_date: 1995
-albumname: Hedgehog / 23 Minutes in Brussels
+albumname: "Hedgehog / 23 Minutes in Brussels"
+title: "Luna - Hedgehog / 23 Minutes in Brussels"
 releases:
   - release:
     version: beggars-banquet-7

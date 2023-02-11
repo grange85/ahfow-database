@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Venue, Vancouver, BC, Canada'
+show-venue: "Venue, Vancouver, BC, Canada"
+title: "13th February 2020 -  Luna - Venue, Vancouver, BC, Canada"
 address: |
   881 Granville St, 
   Vancouver, 

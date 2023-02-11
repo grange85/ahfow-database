@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Eyes In My Smoke
 name: eyes-in-my-smoke
@@ -8,5 +9,6 @@ track-id: 284
 track-lyrics: 
 track-author: 
 track-sort: "EYES IN MY SMOKE"
+track-alpha: E
 track-original: 
 ---

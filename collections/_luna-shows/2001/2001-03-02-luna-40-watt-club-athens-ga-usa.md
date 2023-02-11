@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: '40 Watt Club, Athens GA, USA'
+show-venue: "40 Watt Club, Athens GA, USA"
+title: "2nd March 2001 -  Luna - 40 Watt Club, Athens GA, USA"
 show-setlist: [
   "Lovedust",
   "Sideshow By The Seashore",

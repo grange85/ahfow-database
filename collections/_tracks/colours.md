@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Colours
 name: colours
@@ -8,6 +9,7 @@ track-id: 312
 track-lyrics: 
 track-author: Donovan Leitch
 track-sort: "COLOURS"
+track-alpha: C
 track-original: Donovan
 cover: true
 ---

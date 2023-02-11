@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Listen, the Snow Is Falling
 name: listen-the-snow-is-falling
@@ -10,6 +11,7 @@ track-guitar: "E D E\nE D E\nE D B A\nE D E\n\n(provided by brad)"
 track-guitar-flag: true
 track-author: Yoko Ono
 track-sort: "Listen, the Snow Is Falling"
+track-alpha: L
 track-original: Ono, Yoko
 cover: true
 ---

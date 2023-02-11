@@ -1,11 +1,13 @@
 ---
 layout: release
+position: database-4
 resource: discography
 section: 01-album
 artistslug: damon-and-naomi
 imageurl: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_subpopyears.jpg
 initial_release_date: 2009
-albumname: The Sub Pop Years
+albumname: "The Sub Pop Years"
+title: "Damon & Naomi - The Sub Pop Years"
 bandcamp-url: https://damonandnaomi.bandcamp.com/album/the-sub-pop-years-1995-2002
 bandcamp-id: 2109597946
 releases:

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I Deserve It
 name: i-deserve-it
@@ -10,6 +11,7 @@ track-guitar: "Verse: Bm A E \nChorus: Bm D A E\n\n(provided by britta)"
 track-guitar-flag: true
 track-author: Madonna/Armadzai
 track-sort: "I DESERVE IT"
+track-alpha: I
 track-original: Madonna
 cover: true
 ---

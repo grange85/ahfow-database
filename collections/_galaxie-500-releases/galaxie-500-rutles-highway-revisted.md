@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 04-compilation
 artistslug: galaxie-500
 initial_release_date: 1990
-albumname: Rutles Highway Revisited
+albumname: "Rutles Highway Revisited"
+title: "Galaxie 500 - Rutles Highway Revisited"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_rutles.jpg
 releases:
   - release:

@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
-show-venue: 'Hemlock Tavern, San Francisco, CA, USA'
+show-venue: "Hemlock Tavern, San Francisco, CA, USA"
+title: "11th May 2012 - Dean & Britta - Hemlock Tavern, San Francisco, CA, USA"
 show-setlist: [
   "Flowers",
   "Pictures",

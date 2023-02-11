@@ -1,12 +1,14 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-and-britta
 artist:
   name: Dean & Britta
 show-venue: "Johnny Brenda's, Philadelphia, PA, USA"
+title: "4th June 2009 - Dean & Britta - Johnny Brenda's, Philadelphia, PA, USA"
 setlist-source: 'Galaxie 500 Mailing List'
 show-setlist: [
-  "Silver Factory",
+  "Silver Factory Theme",
   "Night Nurse",
   "Words You Used To Say",
   "Knives From Bavaria",

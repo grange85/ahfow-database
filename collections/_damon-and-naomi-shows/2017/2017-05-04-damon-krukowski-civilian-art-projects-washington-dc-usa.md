@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
 artist:
  name: Damon Krukowski
 show-venue: "Civilian Art Projects, Washington DC, USA"
+title: "4th May 2017 -  Damon & Naomi - Civilian Art Projects, Washington DC, USA"
 show-setlist:
 show-date: 2017-05-04
 date-added: 2017-03-15

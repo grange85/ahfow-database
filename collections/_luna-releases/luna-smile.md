@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-smile-ep.jpg
 initial_release_date: 1992
-albumname: Smile
+albumname: "Smile"
+title: "Luna - Smile"
 releases:
   - release:
     version: elektra-single-cd

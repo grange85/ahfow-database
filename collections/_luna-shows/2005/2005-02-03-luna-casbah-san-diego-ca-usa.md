@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Casbah, San Diego CA, USA'
+show-venue: "Casbah, San Diego CA, USA"
+title: "3rd February 2005 -  Luna - Casbah, San Diego CA, USA"
 show-setlist: [
   "Egg Nog",
   "Slide",

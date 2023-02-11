@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Capitol, Hannover, Germany'
+show-venue: "Capitol, Hannover, Germany"
+title: "4th December 1995 -  Luna - Capitol, Hannover, Germany"
 show-notes: 'supporting Edwyn Collins'
 show-setlist: 
 show-date: 1995-12-04

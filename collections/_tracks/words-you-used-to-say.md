@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Words You Used To Say
 name: words-you-used-to-say
@@ -10,6 +11,7 @@ track-guitar: "Inrto verse, D, G.\nThe Ahhhhhh part: E, G, D\nBreakdown: G, F, D
 track-guitar-flag: true
 track-author: 
 track-sort: "WORDS YOU USED TO SAY"
+track-alpha: W
 track-original: 
 video-flag: true
 videos:

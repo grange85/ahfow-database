@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: Starline Social Club, Oakland, CA, USA
+show-venue: "Starline Social Club, Oakland, CA, USA"
+title: "31st December 2015 -  Luna - Starline Social Club, Oakland, CA, USA"
 show-setlist:
  - Egg Nog
  - California (All The Way)

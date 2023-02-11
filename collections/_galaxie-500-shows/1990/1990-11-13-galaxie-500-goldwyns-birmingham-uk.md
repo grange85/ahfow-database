@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Goldwyns, Birmingham, UK'
+show-venue: "Goldwyns, Birmingham, UK"
+title: "13th November 1990 -  Galaxie 500 - Goldwyns, Birmingham, UK"
 show-setlist: 
 show-date: 1990-11-13
 category: 1990

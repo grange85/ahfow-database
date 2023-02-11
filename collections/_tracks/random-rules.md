@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Random Rules
 name: random-rules
@@ -39,6 +40,7 @@ track-guitar: |
 track-guitar-flag: true
 track-author: D.C.Berman
 track-sort: "RANDOM RULES"
+track-alpha: R
 track-original: Silver Jews
 cover: true
 ---

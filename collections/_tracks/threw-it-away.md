@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Threw It Away
 name: threw-it-away
@@ -10,6 +11,7 @@ track-guitar: "D G\n\n(provided by britta)"
 track-guitar-flag: true
 track-author: Angel Corpus Christi
 track-sort: "THREW IT AWAY"
+track-alpha: T
 track-original: Angel Corpus Christi
 cover: true
 ---

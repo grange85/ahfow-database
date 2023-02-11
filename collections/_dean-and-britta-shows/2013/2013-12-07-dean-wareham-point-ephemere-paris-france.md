@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Point Ephemere, Paris, France'
+show-venue: "Point Ephemere, Paris, France"
+title: "7th December 2013 - Dean Wareham - Point Ephemere, Paris, France"
 show-setlist: [
   "Love Is Colder Than Death",
   "The Longest Bridges in The World",

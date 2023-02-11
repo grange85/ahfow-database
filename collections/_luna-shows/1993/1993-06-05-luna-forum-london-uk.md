@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Forum, London, UK'
+show-venue: "Forum, London, UK"
+title: "5th June 1993 -  Luna - Forum, London, UK"
 show-setlist: 
 show-date: 1993-06-05
 category: 1993

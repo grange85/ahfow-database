@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Sunrise Variations
 name: sunrise-variations
@@ -8,5 +9,6 @@ track-id: 221
 track-lyrics: 
 track-author: 
 track-sort: "SUNRISE VARIATIONS"
+track-alpha: S
 track-original: 
 ---

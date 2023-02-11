@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Concorde 2, Brighton, UK'
+show-venue: "Concorde 2, Brighton, UK"
+title: "29th January 2021 - Dean Wareham - Concorde 2, Brighton, UK"
 address: |
   Concorde 2, 
   Madeira Dr, 

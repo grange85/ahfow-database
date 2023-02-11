@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: galaxie-500
 initial_release_date: 1988
-albumname: Today
+albumname: "Today"
+title: "Galaxie 500 - Today"
 imageurl: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
 bandcamp-url: https://galaxie500.bandcamp.com/album/today
 bandcamp-id: 3830882259

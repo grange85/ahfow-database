@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Babes in the Wood
 name: babes-in-the-wood
@@ -8,5 +9,6 @@ track-id: 385
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "Babes in the Wood"
+track-alpha: B
 track-original: 
 ---

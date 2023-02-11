@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Love Is Colder Than Death
 name: love-is-colder-than-death
@@ -8,6 +9,7 @@ track-id: 371
 track-lyrics: 
 track-author: Dean Wareham
 track-sort: "LOVE IS COLDER THAN DEATH"
+track-alpha: L
 track-original: 
 video-flag: true
 videos:

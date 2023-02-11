@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Black Box, Belfast, Ireland'
+show-venue: "Black Box, Belfast, Ireland"
+title: "27th June 2008 -  Damon & Naomi - Black Box, Belfast, Ireland"
 show-setlist: 
 show-date: 2008-06-27
 category: 2008

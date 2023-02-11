@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Arena, Amsterdam, Netherlands'
+show-venue: "Arena, Amsterdam, Netherlands"
+title: "8th December 1995 -  Luna - Arena, Amsterdam, Netherlands"
 show-notes: ''
 show-setlist: 
 show-date: 1995-12-08

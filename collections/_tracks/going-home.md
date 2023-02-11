@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Going Home
 name: going-home
@@ -10,5 +11,6 @@ track-guitar: "verse: C F C\nchange: F G F\n(provided by brad)"
 track-guitar-flag: true
 track-author: 
 track-sort: "GOING HOME"
+track-alpha: G
 track-original: 
 ---

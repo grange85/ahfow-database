@@ -1,9 +1,11 @@
 ---
 layout: show
+position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: 'Islington Assembly Hall, London, UK'
+show-venue: "Islington Assembly Hall, London, UK"
+title: "28th January 2021 - Dean Wareham - Islington Assembly Hall, London, UK"
 address: |
   Islington Assembly Hall, 
   Upper Street, 

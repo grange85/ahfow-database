@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Green Street Station, Jamaica Plain, MA, USA'
+show-venue: "Green Street Station, Jamaica Plain, MA, USA"
+title: "5th March 1988 -  Galaxie 500 - Green Street Station, Jamaica Plain, MA, USA"
 show-setlist: 
 show-date: 1988-03-05
 category: 1988

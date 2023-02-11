@@ -1,8 +1,9 @@
 ---
-layout: basic
+layout: page
 title: List of shows available to download
 list: downloads
 categories: primary
+position: database-2
 description: >
   A list of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham shows that are available to download.
 ---
@@ -25,8 +26,9 @@ description: >
 	{% endcase %}
 	
 {% if shows %}
+<div class="table-responsive">
+<h2>{{artist.name}}</h2>
 <table class="table table-striped">
-<caption>{{artist.name}}</caption>
 {% for show in shows %}
     {% if show.show-download %}
         <tr>
@@ -36,5 +38,6 @@ description: >
     {% endif %}
 {% endfor %}
 </table>
+</div>
 {% endif %}
 {% endfor %}

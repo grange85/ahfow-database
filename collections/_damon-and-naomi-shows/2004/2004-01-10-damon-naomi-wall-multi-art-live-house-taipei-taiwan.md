@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Wall Multi-Art Live House, Taipei, Taiwan'
+show-venue: "Wall Multi-Art Live House, Taipei, Taiwan"
+title: "10th January 2004 -  Damon & Naomi - Wall Multi-Art Live House, Taipei, Taiwan"
 show-setlist: 
 show-date: 2004-01-10
 category: 2004

@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
 show-venue: "Harlows Night Club, Sacramento CA, USA"
+title: "7th February 2005 -  Luna - Harlows Night Club, Sacramento CA, USA"
 show-setlist: [
   "Slide",
   "Malibu Love Nest",

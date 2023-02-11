@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I Can't Wait
 name: i-can-t-wait
@@ -10,5 +11,6 @@ track-guitar: "okay, this one doesn't sound too good when you play it by yoursel
 track-guitar-flag: true
 track-author: 
 track-sort: "I CAN'T WAIT"
+track-alpha: I
 track-original: 
 ---

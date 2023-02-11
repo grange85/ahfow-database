@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: galaxie-500
-show-venue: 'Pearl Street, Northampton, MA, USA'
+show-venue: "Pearl Street, Northampton, MA, USA"
+title: "18th January 1990 -  Galaxie 500 - Pearl Street, Northampton, MA, USA"
 show-setlist:
 show-date: 1990-01-18
 source: newspapers.com

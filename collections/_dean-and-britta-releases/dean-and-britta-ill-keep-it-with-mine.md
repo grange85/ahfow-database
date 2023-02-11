@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 02-single
 artistslug: dean-and-britta
 initial_release_date: 2010
-albumname: I'll Keep It With Mine
+albumname: "I'll Keep It With Mine"
+title: "Dean & Britta - I'll Keep It With Mine"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-ill-keep-it-with-mine-the-great-pop-supplement.jpg
 releases:
   - release:

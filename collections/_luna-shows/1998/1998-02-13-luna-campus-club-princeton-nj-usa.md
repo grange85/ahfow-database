@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Campus Club, Princeton NJ, USA'
+show-venue: "Campus Club, Princeton NJ, USA"
+title: "13th February 1998 -  Luna - Campus Club, Princeton NJ, USA"
 show-setlist: 
 show-date: 1998-02-13
 category: 1998

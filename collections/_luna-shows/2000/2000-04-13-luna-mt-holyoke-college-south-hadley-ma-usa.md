@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Mt Holyoke College, South Hadley MA, USA'
+show-venue: "Mt Holyoke College, South Hadley MA, USA"
+title: "13th April 2000 -  Luna - Mt Holyoke College, South Hadley MA, USA"
 show-setlist: [
   "Four Thousand Days",
   "Sideshow By The Seashore",

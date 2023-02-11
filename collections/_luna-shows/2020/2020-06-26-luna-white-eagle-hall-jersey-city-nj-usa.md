@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'White Eagle Hall, Jersey City, NJ, USA'
+show-venue: "White Eagle Hall, Jersey City, NJ, USA"
+title: "26th June 2020 -  Luna - White Eagle Hall, Jersey City, NJ, USA"
 address: |
   White Eagle Hall, 
   337 Newark Ave, 
@@ -15,7 +17,7 @@ date-added: 2020-01-30
 category: 2020
 show-radio: 
 show-lastfm: 
-show-cancelled: 
+show-cancelled: true
 performers: [
   "Dean Wareham - guitar/vocals",
   "Sean Eden - guitar",

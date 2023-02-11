@@ -1,11 +1,13 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: dean-and-britta
 initial_release_date: 2007
-albumname: Back Numbers
+albumname: "Back Numbers"
+title: "Dean & Britta - Back Numbers"
 imageurl: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_backnumbers.jpg
 releases:
   - release:
@@ -49,6 +51,7 @@ releases:
          notes:
          author: Phillips/Wareham
        - title: Crystal Blue R.I.P.
+         link: crystal-blue-rip
          notes:
          author: Kember/Phillips/Wareham
        - title: The Sun is Still Sunny

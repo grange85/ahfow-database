@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Bumbershoot, Seattle WA, USA'
+show-venue: "Bumbershoot, Seattle WA, USA"
+title: "2nd September 2002 -  Luna - Bumbershoot, Seattle WA, USA"
 show-setlist: [
   "1995",
   "Lovedust",

@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: We're Both Confused
 name: we-re-both-confused
@@ -10,5 +11,6 @@ track-guitar: "another one that doesn't sound too good played by yourself it's a
 track-guitar-flag: true
 track-author: 
 track-sort: "WE'RE BOTH CONFUSED"
+track-alpha: W
 track-original: 
 ---

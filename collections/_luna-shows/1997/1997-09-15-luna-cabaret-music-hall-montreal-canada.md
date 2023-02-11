@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Cabaret Music Hall, Montreal, Canada'
+show-venue: "Cabaret Music Hall, Montreal, Canada"
+title: "15th September 1997 -  Luna - Cabaret Music Hall, Montreal, Canada"
 show-setlist: 
 show-date: 1997-09-15
 category: 1997

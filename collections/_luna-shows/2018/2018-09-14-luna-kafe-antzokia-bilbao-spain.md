@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Kafe Antzokia, Bilbao, Spain'
+show-venue: "Kafe Antzokia, Bilbao, Spain"
+title: "14th September 2018 -  Luna - Kafe Antzokia, Bilbao, Spain"
 show-notes: ''
 show-setlist:
  - Malibu Love Nest

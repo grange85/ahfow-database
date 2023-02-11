@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Tokorozawa - Mojo, Saitama, Japan'
+show-venue: "Tokorozawa - Mojo, Saitama, Japan"
+title: "11th November 2017 -  Damon & Naomi - Tokorozawa - Mojo, Saitama, Japan"
 show-setlist:
 show-date: 2017-11-11
 date-added: 2017-10-09

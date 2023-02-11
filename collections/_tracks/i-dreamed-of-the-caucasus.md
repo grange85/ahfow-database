@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: I Dreamed of the Caucasus
 name: i-dreamed-of-the-caucasus
@@ -8,5 +9,6 @@ track-id: 165
 track-lyrics: 
 track-author: 
 track-sort: "I DREAMED OF THE CAUCASUS"
+track-alpha: I
 track-original: 
 ---

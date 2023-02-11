@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Lonesome Cowboy Bill
 name: lonesome-cowboy-bill
@@ -53,11 +54,12 @@ track-lyrics: |
   Lonesome Cowboy Bill
 track-author: Lou Reed
 track-sort: "LONESOME COWBOY BILL"
+track-alpha: L
 track-original: The Velvet Underground
 available-on:
  - release: Luna / Cheval Sombre - Lonesome Cowboy Bill
-   url: /luna/releases/luna-lonesome-cowboy-bill/
+   url: /database/luna/releases/luna-lonesome-cowboy-bill/
  - release: "Postscripts"
-   url: /luna/releases/luna-postscripts/
+   url: /database/luna/releases/luna-postscripts/
 cover: true
 ---

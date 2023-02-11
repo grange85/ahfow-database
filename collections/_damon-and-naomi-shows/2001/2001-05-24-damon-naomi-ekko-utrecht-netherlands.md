@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: damon-and-naomi
-show-venue: 'Ekko, Utrecht, Netherlands'
+show-venue: "Ekko, Utrecht, Netherlands"
+title: "24th May 2001 -  Damon & Naomi - Ekko, Utrecht, Netherlands"
 show-setlist: [
   "Judah and the Maccabees",
   "The New World",

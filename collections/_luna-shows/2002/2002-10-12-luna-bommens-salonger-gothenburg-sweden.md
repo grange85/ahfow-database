@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Bommens Salonger, Gothenburg, Sweden'
+show-venue: "Bommens Salonger, Gothenburg, Sweden"
+title: "12th October 2002 -  Luna - Bommens Salonger, Gothenburg, Sweden"
 show-setlist: [
   "Lovedust",
   "Sideshow by the Seashore",

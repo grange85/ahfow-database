@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Lux Interior Festival, Salao Brazil, Coimbra, Portugal'
+show-venue: "Lux Interior Festival, Salao Brazil, Coimbra, Portugal"
+title: "3rd September 2018 -  Luna - Lux Interior Festival, Salao Brazil, Coimbra, Portugal"
 show-notes: ''
 show-setlist:
  - Chinatown

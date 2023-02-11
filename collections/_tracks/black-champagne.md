@@ -1,5 +1,6 @@
 ---
 layout: track
+position: atoz-3
 categories: track
 title: Black Champagne
 name: black-champagne
@@ -10,5 +11,6 @@ track-guitar: "Intro,Verse\nC, Dm, F\nC, F\nChorus\nAm, G, Am, F, Em, A\n\n(prov
 track-guitar-flag: true
 track-author: 
 track-sort: "BLACK CHAMPAGNE"
+track-alpha: B
 track-original: 
 ---

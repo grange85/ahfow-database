@@ -1,12 +1,14 @@
 ---
 layout: release
 
+position: database-4
 resource: discography
 section: 01-album
 artistslug: luna
 imageurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
 initial_release_date: 2006
-albumname: Best of Luna
+albumname: "Best of Luna"
+title: "Luna - Best of Luna"
 releases:
   - release:
     version: beggars-banquet-cd

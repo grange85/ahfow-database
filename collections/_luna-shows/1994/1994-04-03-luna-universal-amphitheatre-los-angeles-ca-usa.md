@@ -1,7 +1,9 @@
 ---
 layout: show
+position: database-5
 artistslug: luna
-show-venue: 'Universal Amphitheatre, Los Angeles CA, USA'
+show-venue: "Universal Amphitheatre, Los Angeles CA, USA"
+title: "3rd April 1994 -  Luna - Universal Amphitheatre, Los Angeles CA, USA"
 show-setlist: [
   "California (All The Way)",
   "Slide",
