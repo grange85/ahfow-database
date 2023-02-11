@@ -2,14 +2,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.draft %}
+  <meta name="robots" content="noindex, nofollow">
+  {% endif %}
 
-  <title>{% if newtitle %}{{ newtitle }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if description %}{{ description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.series-title %}{{ page.series-title }} {% endif %}{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncatewords: 50 | escape }}{% else %}{{ page.content | strip_html | truncatewords: 50 | escape }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{ site.version}}">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ '/css/main-database.css' | prepend: site.baseurl }}?{{ buildtimestamp }}">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -17,49 +23,27 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-<script>
-  (function() {
-    var cx = '017452044498352075094:-vuzx4-btdw';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-
-
 <!-- social sharing tags -->
 
-{% case layout %}
-{% when 'track' %}
-<meta name="twitter:card" content="summary">
-{% else %}
-<meta name="twitter:card" content="summary_large_image">
-{% endcase %}
-<meta name="twitter:site" content="@ahfow">
-<meta name="twitter:creator" content="@grange85">
-<meta property="fb:app_id" content="137187479629913" />
-<meta property="fb:admins" content="grange85"/>
-<meta property="og:site_name" content="{{site.title}}" />
-<meta property="og:title" content="{{newtitle}}" />
-<meta property="og:description" content="{% if description %}{{ description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{site.title}}" />
+<meta property="og:title" content="{% if page.series-title %}{{ page.series-title }} {% endif %}{{page.title | escape}}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncatewords: 50 | escape }}{% else %}{{ page.content | strip_html | truncatewords: 50 | escape }}{% endif %}" />
+
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-{% if page.show-poster-url %}<meta property="og:image" content="{{page.show-poster-url}}" />{% endif %}
+
+<meta property="og:image" content="{% if page.imageurl %}{{ page.imageurl }}{% else %}{{site.image}}{% endif %}" />
 {% if artist.image %}<meta property="og:image" content="{{artist.image}}" />{% endif %}
-<meta property="og:image" content="{% if ogimage %}{{ ogimage }}{% else %}{{site.image}}{% endif %}" />
+<!-- end social sharing tags -->
 
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
-{% if page.show-stream %}
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@4.1.0/dist/amplitude.js"></script>
-{% endif %}
-<script>
-  dataLayer = [{
-    {% if artist %}'page-artist': '{{artist.slug}}',{% endif %}
-    'environment': '{{site.environment}}'
-  }];
-</script>
+<script async defer data-domain="fullofwishes.co.uk" src="https://stats.fullofwishes.co.uk/js/plausible.outbound-links.js"></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
 </head>

@@ -11,6 +11,9 @@ image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 twitter_username: ahfow
 github_username:  grange85
 
+sass:
+  sass_dir: css
+
 collections_dir: collections
 collections:
   tracks:
