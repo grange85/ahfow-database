@@ -9,10 +9,9 @@ position: database-3
 <table class="table table-dark w-100">
 {% for row in rows %}
 {% if row[0] == "Format" %}{% assign format = row[1] %}{% endif %}
-{% if format == "CD" and row[0] == "B" %}
-{% else %}
+{% if row[1] %}
 <tr>
-<th>{%if format == "CD" and row[0] == "B" %}Disc{% else %}{{ row[0] }}{% endif %}</th>
+<th>{%if format == "CD" and row[0] == "A" %}Disc{% else %}{{ row[0] }}{% endif %}</th>
 <td>
 
 {% if row[0] == "A" or row[0] == "B" %}
