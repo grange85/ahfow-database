@@ -5,7 +5,8 @@ artistslug: galaxie-500
 categories: primary
 position: database-3
 ---
-{% for rows in site.data.galaxie-500-releases %}
+{% assign releases = site.data.galaxie-500-releases | group_by: "Title" %}
+{% for rows in releases %}
 <table class="table table-dark w-100">
 {% for row in rows %}
 {% if row[0] == "Format" %}{% assign format = row[1] %}{% endif %}
