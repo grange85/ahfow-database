@@ -1,0 +1,31 @@
+{% assign releases = site.data[page.datafile] | sort: "Date"  %}
+{% assign master = site.data[page.datafile] | find: "Format", "MASTER" %}
+
+<h2>{{ master["Artist"] }} - {{ master["Title"] }}</h2>
+
+{% for row in releases offset: 1 %}
+{% assign format = row["Format"] %}
+<div class="card">
+<div class="card-body">
+<p class="card-title h5">{{ row["Label"] }}
+<em>{{ row["Date"] }} ({{ format }} / {{ row["CatNo"] }})</em></p>
+<div class="card-text">
+{% assign tracklists = "A-B-C-D" | split: "-" %}
+{% for tracklist in tracklists %}
+{% assign side = forloop.index %}
+{% for disc in row[tracklist] %}
+  {% if disc %}
+  <p class="h6">{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</p>
+  {% assign tracks = disc | split: "|" %}
+  <ul>
+  {% for track in tracks %}
+  <li>{{track}}</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+</div>
+</div>
+{% endfor %}
