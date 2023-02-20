@@ -7,6 +7,9 @@
 {% assign format = row["Format"] %}
 <div class="card">
 <div class="card-body">
+{% if row["Sleeve"] %}
+<img src="{{ row['Sleeve'] }}" class="image-fluid w-30 pe-2 pr-2 rounded float-start float-left" alt="{{ row['Title'] }} sleeve" />
+{% endif %}
 <p class="card-title h5">{{ row["Label"] }}
 <em>{{ row["Date"] }} ({{ format }} / {{ row["CatNo"] }})</em></p>
 <div class="card-text">
