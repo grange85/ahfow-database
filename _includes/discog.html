@@ -1,4 +1,4 @@
-{% assign releases = site.data[page.datafile] | sort: "Date"  %}
+{% assign releases = site.data[page.datafile]  %}
 {% assign master = site.data[page.datafile] | find: "Format", "MASTER" %}
 
 <h2>{{ master["Artist"] }} - {{ master["Title"] }}</h2>
