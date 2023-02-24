@@ -1,5 +1,5 @@
 ---
 layout: discog
-datafile: galaxie-500-06-singles
+datafile: galaxie-500-006-singles
 ---
 

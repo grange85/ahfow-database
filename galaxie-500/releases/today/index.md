@@ -1,5 +1,5 @@
 ---
 layout: discog
-datafile: galaxie-500-01-today
+datafile: galaxie-500-001-today
 ---
 
