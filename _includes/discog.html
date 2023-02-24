@@ -22,7 +22,7 @@
   {% assign tracks = disc | split: "|" %}
   <ul>
   {% for track in tracks %}
-  <li>{{track}}</li>
+  <li><a href="/database/tracks/{{track | slugify}}">{{track}}</a></li>
   {% endfor %}
   </ul>
   {% endif %}

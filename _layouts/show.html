@@ -20,22 +20,7 @@ layout: default
 								Cancelled  
 								 </div>
 								 {% endif %}
-						<div class="dropdown">
-
-							<button class="btn btn-outline-secondary w-100 dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    							Index
-							</button>
-							<div class="dropdown-menu w-100 text-center" aria-labelledby="dropdownMenuButton">	
-								<a class="dropdown-item" href="#information">Information</a>
-									{% if content != "" %}<a class="dropdown-item" href="#notes">Notes</a>{% endif %}
-									{% if page.performers %}<a class="dropdown-item" href="#performers">Performers</a>{% endif %}
-									{% if page.support %}<a class="dropdown-item" href="#support">Support acts</a>{% endif %}
-									{% if page.show-setlist %}<a class="dropdown-item" href="#setlist">Setlist</a>{% endif %}
-									{% if page.links %}<a class="dropdown-item" href="#links">Links</a>{% endif %}
-									{% if page.show-poster-url %}<a class="dropdown-item" href="#poster">Poster</a>{% endif %}
-							</div>
-						</div>
-					</div>
+				</div>
 				</div>
 
 
@@ -51,22 +36,22 @@ layout: default
 								<table class="table mb-0">
 							<tr class="border-top-0"><th>Artist</th><td>{% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</td></tr>
 
-							<tr><th>Date</th><td><i class="bi bi-calendar-event"></i> {{ ordinaldate }}</td></tr>
+							<tr><th>Date</th><td>{{ ordinaldate }}</td></tr>
 							<tr><th>Venue</th><td>
 							{% if page.address%}
 								{{ page.address | newline_to_br }}
 							
-							<p><i class="bi bi-map"></i> <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | strip_newlines | urlencode }}" target="_blank">Map</a></p>
+							<p><a href="https://www.google.com/maps/search/?api=1&query={{ page.address | strip_newlines | urlencode }}" target="_blank">Map</a></p>
 							{% else %}
 							 {{page.show-venue}}
 							{% endif %}
 							</td></tr>
 
 						{% if page.show-download %}
-							<tr><th>Download</th><td><i class="bi bi-download"></i> <a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</td></tr>
+							<tr><th>Download</th><td><a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</td></tr>
 						{% endif %}
 						{% if page.facebook-event-url %}
-							<tr><th>Facebook</th><td><i class="bi bi-facebook"></i><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></td></tr>
+							<tr><th>Facebook</th><td><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></td></tr>
 						{% endif %}
 						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
 						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
@@ -75,11 +60,11 @@ layout: default
 						{% if showdate > nowdate %}
 						{% unless page.show-cancelled %}
 							{% if page.show-ticket-url %}
-								<tr><th>Tickets</th><td><i class="bi bi-link"></i> <a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></td></tr>
+								<tr><th>Tickets</th><td><a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></td></tr>
 							{% endif %}
 						{% endunless %}
 							{% if page.show-venue-website %}
-								<tr><th>Links</th><td><i class="bi bi-link"></i> <a href="{{page.show-venue-website}}" target="_blank">Venue details</a></td></tr>
+								<tr><th>Links</th><td><a href="{{page.show-venue-website}}" target="_blank">Venue details</a></td></tr>
 							{% endif %}
 						{% endif %}
 					</table>
@@ -100,7 +85,7 @@ layout: default
 										<p>{{ content }}</p>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -122,7 +107,7 @@ layout: default
 										</ul>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -145,7 +130,7 @@ layout: default
 										</ul>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -185,7 +170,7 @@ layout: default
 										</ul>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -204,12 +189,12 @@ layout: default
 									<div class="card-body">
 										<ul>
 										{% for link in page.links %}
-												<li><i class="bi bi-link"></i> <a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
+												<li><a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
 										{% endfor %}
 										</ul>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -234,7 +219,7 @@ layout: default
 										</figure>
 									</div>
 						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small> <i class="bi bi-arrow-up-square"></i></a>
+    							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
