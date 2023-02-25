@@ -1,28 +1,31 @@
-{% assign releases = site.data[page.datafile]  %}
-{% assign master = site.data[page.datafile] | find: "Format", "MASTER" %}
+{% assign releases = site.data.discography[page.datafile]  %}
+{% assign master = site.data.discography[page.datafile] | find: "Format", "MASTER" %}
 
 <h2>{{ master["Artist"] }} - {{ master["Title"] }}</h2>
 
 {% for row in releases offset: 1 %}
 {% assign format = row["Format"] %}
-<div class="card">
+<div class="card mb-2">
 <div class="card-body">
-{% if row["Sleeve"] %}
-<img src="{{ row['Sleeve'] }}" class="image-fluid w-30 pe-2 pr-2 rounded float-start float-left" alt="{{ row['Title'] }} sleeve" />
+<div class="clearfix">
+{% if row["Sleeve"]  %}
+<div class="w-25 pe-2 pr-2 float-end"><img src="{{ row['Sleeve'] }}" class="img-fluid img-thumbnail" alt="{{ row['Title'] }} sleeve" /></div>
 {% endif %}
-<p class="card-title h5">{{ row["Label"] }}
-<em>{{ row["Date"] }} ({{ format }} / {{ row["CatNo"] }})</em></p>
-<div class="card-text">
+
+<h3 class="card-title">{{ row["Title"] }} <span class="small">({{ row["Label"], {{ row["Date"] }})</h3>
+<p><em>{{ format }} / {{ row["CatNo"] }}</em></p>
+</div>
+<div class="card-text ">
 {% assign tracklists = "A-B-C-D" | split: "-" %}
 {% for tracklist in tracklists %}
 {% assign side = forloop.index %}
 {% for disc in row[tracklist] %}
   {% if disc %}
-  <p class="h6">{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</p>
   {% assign tracks = disc | split: "|" %}
-  <ul>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item text-muted small">{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</p>
   {% for track in tracks %}
-  <li><a href="/database/tracks/{{track | slugify}}">{{track}}</a></li>
+  <li class="list-group-item"><a href="/database/tracks/{{track | slugify}}">{{track}}</a></li>
   {% endfor %}
   </ul>
   {% endif %}
