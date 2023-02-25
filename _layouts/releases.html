@@ -6,9 +6,12 @@ layout: default
 {% for datafile in site.data %}
 {% if datafile[0] contains page.artistslug %}
 {% assign release = datafile[1] | find: "Format", "MASTER" %}
+{% assign section = datafile[0] | split: "_" %}
+{% assign section = section[1] | slice: 0 %}
 <div class="card col-4">
   <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
 <div class="card-body">
+	<p>{{ section }}</p>
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>

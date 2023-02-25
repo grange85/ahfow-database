@@ -1,4 +1,4 @@
 ---
 layout: discog
-datafile: galaxie-500-201-singles
+datafile: galaxie-500_201_singles
 ---
