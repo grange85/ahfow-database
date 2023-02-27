@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.0'
+gem 'jekyll', '~> 4.3', '>= 4.3.2'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'jekyll-archives', '~> 2.2', '>= 2.2.1'
 gem 'jekyll-paginate-v2', github: 'sverrirs/jekyll-paginate-v2'
