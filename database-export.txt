@@ -1,8 +1,6 @@
 ---
 layout: null
-artistslug: luna
+artist: Damon & Naomi
 ---
-{% assign releases = site.luna_releases %}{% for release in releases %}{% for album in release.releases %}{% for group in album.groups %}{% for track in group.tracks %}{% capture trackstring %} {{trackstring}}|{{track.title}}{% endcapture %}{% endfor %}{% capture trackstring %} {{trackstring}}	{% endcapture %}{% endfor %}{{ release.albumname }}	Luna	{{album.format}}			{{ album.year }}	{{ album.label}}	{{album.catno}}	{{trackstring}}	{{album.imageurl}}
-{%assign trackstring = ""%}{% endfor %}
-{% endfor %}
-dd
+{% assign releases = site.damon-and-naomi-releases | sort: 'section'%}{% for release in releases %}{% for album in release.releases %}{% for group in album.groups %}{% for track in group.tracks %}{% capture trackstring %} {{trackstring}}|{{track.title}}{% endcapture %}{% endfor %}{% capture trackstring %} {{trackstring}}	{% endcapture %}{% endfor %}{{release.section}}	{{ release.albumname }}	{{page.artist}}	{{album.format}}			{{ album.year }}	{{ album.label}}	{{album.catno}}	{{trackstring}}	{{album.imageurl}}
+{%assign trackstring = ""%}{% endfor %}{% endfor %}
