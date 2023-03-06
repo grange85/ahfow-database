@@ -3,7 +3,7 @@ layout: show
 position: database-5
 artistslug: damon-and-naomi
 show-venue: Crystal Ballroom, Somererville, MA, US
-title: "10th May 2023 - Damon & Naomi - Crystal Ballroom, Somerville, MA, US"
+title: "7th May 2023 - Damon & Naomi - Crystal Ballroom, Somerville, MA, US"
 address: |
   55 Davis Square,  
   Somerville,   
