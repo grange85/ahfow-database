@@ -3,9 +3,9 @@ layout: default
 ---
 {% assign artist = site.data.artists[page.artistslug] %}
 {% for datafile in site.data.discography %}
-	{% assign section = datafile[0] | split: '_' %}
-	{% assign section = section[1] | slice: 0 %}
-	{% if datafile[0] contains page.artistslug %}
+	{% assign sectionarr = datafile[0] | split: '_' %}
+	{% assign section = sectionarr[1] | slice: 0 %}
+	{% if sectionarr[0] contains page.artistslug %}
 
 	{% case section %}
 		{% when "0" %}
@@ -40,7 +40,7 @@ layout: default
 {% assign sections = "studio,singles,live,compilation,miscellaneous" | split: "," %}
 
 <div class="row">
-		<h2>Studio albums</h2>
+		<h2 class="display-3">Studio albums</h2>
 			{% for rel in studio %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
 <div class="card col-4">
@@ -50,13 +50,15 @@ layout: default
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>
     {% endif %}
-    <a href="/database/{{ page.artistslug }}/releases/{{ page.artistslug }}-{{ release["Title"] | slugify }}" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary ">{{ release["Title"] }} details</a>
+
     </div>
 </div>
 {% endfor %}
 </div>
+<hr>
 <div class="row">
-		<h2>Singles</h2>
+		<h2 class="display-3">Singles</h2>
 			{% for rel in singles %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
 <div class="card col-4">
@@ -66,13 +68,14 @@ layout: default
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>
     {% endif %}
-    <a href="/database/{{ page.artistslug }}/releases/{{ page.artistslug }}-{{ release["Title"] | slugify }}" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
 </div>
 {% endfor %}
 </div>
+<hr>
 <div class="row">
-		<h2>Live albums</h2>
+		<h2 class="display-3">Live albums</h2>
 			{% for rel in live %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
 <div class="card col-4">
@@ -82,13 +85,14 @@ layout: default
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>
     {% endif %}
-    <a href="/database/{{ page.artistslug }}/releases/{{ page.artistslug }}-{{ release["Title"] | slugify }}" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
 </div>
 {% endfor %}
 </div>
+<hr>
 <div class="row">
-		<h2>Compilation albums</h2>
+		<h2 class="display-3">Compilation albums</h2>
 			{% for rel in compilation %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
 <div class="card col-4">
@@ -98,13 +102,14 @@ layout: default
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>
     {% endif %}
-    <a href="/database/{{ page.artistslug }}/releases/{{ page.artistslug }}-{{ release["Title"] | slugify }}" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
 </div>
 {% endfor %}
 </div>
+<hr>
 <div class="row">
-		<h2>Miscellaneous releases</h2>
+		<h2 class="display-3">Miscellaneous releases</h2>
 			{% for rel in miscellaneous %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
 <div class="card col-4">
@@ -114,7 +119,7 @@ layout: default
     {% if release["Notes"] %}
     <p class="card-text">{{ release["Notes"] }}</p>
     {% endif %}
-    <a href="/database/{{ page.artistslug }}/releases/{{ page.artistslug }}-{{ release["Title"] | slugify }}" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
 </div>
 {% endfor %}
