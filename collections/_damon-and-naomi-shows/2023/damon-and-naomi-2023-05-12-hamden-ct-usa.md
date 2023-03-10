@@ -27,6 +27,5 @@ show-ticket-url: https://www.fernandopintopresents.com/events/damon-naomi
 show-venue-website: https://www.bestvideo.com/events/damon-naomi
 show-additional: 
 support:
- - Meg Baird
 show-series: 
 ---
