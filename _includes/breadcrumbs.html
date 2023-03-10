@@ -6,6 +6,11 @@
 	{% assign level = level | abs %}
 {% endif %}
 
+{% assign levels = page.path | split: '/' %}
+{% for bpage in levels %}
+ - {{ bpage }}<br/>
+{% endfor %}
+
 <div class="row">
 	<div class="col">
 		<nav aria-label="breadcrumb">
