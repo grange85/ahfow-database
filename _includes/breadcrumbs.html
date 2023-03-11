@@ -1,28 +1,26 @@
-
-{% assign level = 0 %}
-{% if page.position %}
-	{% assign level = page.position | split: '-' | last %}
-	{% assign area = page.position | split: '-' | first %}
-	{% assign level = level | abs %}
-{% endif %}
-
 {% assign levels = page.path | split: '/' %}
-{% for bpage in levels %}
- - {{ bpage }}<br/>
-{% endfor %}
-
 <div class="row">
 	<div class="col">
 		<nav aria-label="breadcrumb">
 			<ul class="breadcrumb">
 				<li class="breadcrumb-item"><a href="/">Home</a></li>
-				{% if level > 1 %}
+				{% if levels.size == 1 %}
+                <li class="breadcrumb-item active">Releases, shows and tracks</li>
+                {% else %}
 				<li class="breadcrumb-item"><a href="/database/">Releases, shows and tracks</a></li>
-				{% endif %}
+                {% endif %}
 
-				{% if level > 2 and area == 'database'%}
-				<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %}</a></li>
-				{% endif %}
+{% assign artistlevel = levels[0] %}
+{% assign artist = site.data.artists[artistlevel] %}
+{% for level in levels %}
+{% if artist %}
+
+{% else %}
+not artist
+{% endif %}
+
+{% endfor %}
+
 
 				{% if level > 3 and page.layout == 'gigography' %}
 				<li class="breadcrumb-item"><a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/">{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a></li>
