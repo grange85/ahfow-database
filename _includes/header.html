@@ -1,10 +1,19 @@
 <header>
 	<div class="row">
 		<div class="col" style="background-image:url('https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720-no-text.jpg'); background-size:cover; background-color:#003366; height:250px;background-position:center;">
+        <div class="float-end"><a href="/search/" class="text-white"><i class="bi bi-search"></i> Search</a></div>
 		<h1 class="text-white display-1">
-				<a href="/" class="text-white">{{ site.title }}</a>
-                </h1>
-				{% if site.environment != "production" %}&nbsp;<em class="text-muted small h6">({{site.environment}})</em>{% endif %}
+				{% if paginator.page == 1 %}
+				{{ site.title }}
+				{% else %}
+				<a href="{{ site.baseurl }}/" class="text-white">{{ site.title }}</a>
+				{% endif %}
+				{% if site.subtitle %}
+			</h1>
+			<p class="text-white">{{ site.subtitle }}
+			{% if site.environment != "production" %}&nbsp;<em class="text-muted">({{site.environment}})</em>{% endif %}
+			</p>
+			{% endif %}
 		</div>
 	</div>
 </header>
