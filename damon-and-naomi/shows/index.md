@@ -1,6 +1,6 @@
 ---
 layout: gigography
-title : Damon & Naomi shows
+title : Shows
 artistslug: damon-and-naomi
 categories: primary
 section: topindex

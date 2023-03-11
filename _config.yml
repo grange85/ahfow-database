@@ -12,7 +12,7 @@ twitter_username: ahfow
 github_username:  grange85
 
 sass:
-  sass_dir: css
+  sass_dir: _sass
 
 collections_dir: collections
 collections:
@@ -39,16 +39,13 @@ collections:
     permalink: damon-and-naomi/shows/:path/
   dean-and-britta-releases:
     output: true
-    permalink: dean-and-britta/dean-and-britta-releases/:title/
+    permalink: dean-and-britta/releases/:title/
   dean-and-britta-shows:
     output: true
     permalink: dean-and-britta/shows/:path/
   dean-wareham-releases:
     output: true
-    permalink: dean-and-britta/dean-wareham-releases/:title/
-  britta-phillips-releases:
-    output: true
-    permalink: dean-and-britta/britta-phillips-releases/:title/
+    permalink: dean-wareham/releases/:title/
 
 
 defaults:
@@ -96,6 +93,8 @@ defaults:
 
 # Build settings
 future: true
+livereload: false
+host: 0.0.0.0
 port: 4000
 environment: development
 markdown: kramdown
@@ -113,6 +112,4 @@ exclude: [
     '_deploy'
   ]
 plugins: [
-        bootstrap-sass,
-        jekyll-sitemap
       ]

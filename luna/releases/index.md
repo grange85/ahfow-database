@@ -1,8 +1,8 @@
 ---
-layout: discography
-title : Luna releases
+layout: releases 
+title : Releases
 artistslug: luna
 categories: primary
-position: database-3
 ---
+
 

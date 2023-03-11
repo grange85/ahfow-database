@@ -1,0 +1,126 @@
+---
+layout: default
+---
+{% assign artist = site.data.artists[page.artistslug] %}
+{% for datafile in site.data.discography %}
+	{% assign sectionarr = datafile[0] | split: '_' %}
+	{% assign section = sectionarr[1] | slice: 0 %}
+	{% if sectionarr[0] contains page.artistslug %}
+
+	{% case section %}
+		{% when "0" %}
+			{% if studio == nil %}{% assign studio = datafile[0] %}{% else %}
+			{% capture studio %}{{ studio }}+{{ datafile[0] }}{% endcapture %}
+			{% endif %}
+		{% when "1" %}
+			{% if singles == nil %}{% assign singles = datafile[0] %}{% else %}
+			{% capture singles %}{{ singles }}+{{ datafile[0] }}{% endcapture %}
+			{% endif %}
+		{% when "2" %}
+			{% if live == nil %}{% assign live = datafile[0] %}{% else %}
+			{% capture live %}{{ live }}+{{ datafile[0] }}{% endcapture %}
+			{% endif %}
+		{% when "3" %}
+			{% if compilation == nil %}{% assign compilation = datafile[0] %}{% else %}
+			{% capture compilation %}{{ compilation }}+{{ datafile[0] }}{% endcapture %}
+			{% endif %}
+		{% when "4" %}
+			{% if miscellaneous == nil %}{% assign miscellaneous = datafile[0] %}{% else %}
+			{% capture miscellaneous %}{{ miscellaneous }}+{{ datafile[0] }}{% endcapture %}
+			{% endif %}
+			
+	{% endcase %}
+	{% endif %}
+{% endfor %}
+{% assign studio = studio | split: '+' %}
+{% assign singles = singles | split: '+' %}
+{% assign live = live | split: '+' %}
+{% assign compilation = compilation | split: '+' %}
+{% assign miscellaneous = miscellaneous | split: '+' %}
+{% assign sections = "studio,singles,live,compilation,miscellaneous" | split: "," %}
+
+<div class="row">
+		<h2 class="display-3">Studio albums</h2>
+			{% for rel in studio %}
+			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
+<div class="card col-4">
+  <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
+<div class="card-body">
+    <h3 class="card-title">{{ release["Title"] }}</h3>
+    {% if release["Notes"] %}
+    <p class="card-text">{{ release["Notes"] }}</p>
+    {% endif %}
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary ">{{ release["Title"] }} details</a>
+
+    </div>
+</div>
+{% endfor %}
+</div>
+<hr>
+<div class="row">
+		<h2 class="display-3">Singles</h2>
+			{% for rel in singles %}
+			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
+<div class="card col-4">
+  <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
+<div class="card-body">
+    <h3 class="card-title">{{ release["Title"] }}</h3>
+    {% if release["Notes"] %}
+    <p class="card-text">{{ release["Notes"] }}</p>
+    {% endif %}
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    </div>
+</div>
+{% endfor %}
+</div>
+<hr>
+<div class="row">
+		<h2 class="display-3">Live albums</h2>
+			{% for rel in live %}
+			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
+<div class="card col-4">
+  <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
+<div class="card-body">
+    <h3 class="card-title">{{ release["Title"] }}</h3>
+    {% if release["Notes"] %}
+    <p class="card-text">{{ release["Notes"] }}</p>
+    {% endif %}
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    </div>
+</div>
+{% endfor %}
+</div>
+<hr>
+<div class="row">
+		<h2 class="display-3">Compilation albums</h2>
+			{% for rel in compilation %}
+			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
+<div class="card col-4">
+  <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
+<div class="card-body">
+    <h3 class="card-title">{{ release["Title"] }}</h3>
+    {% if release["Notes"] %}
+    <p class="card-text">{{ release["Notes"] }}</p>
+    {% endif %}
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    </div>
+</div>
+{% endfor %}
+</div>
+<hr>
+<div class="row">
+		<h2 class="display-3">Miscellaneous releases</h2>
+			{% for rel in miscellaneous %}
+			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
+<div class="card col-4">
+  <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
+<div class="card-body">
+    <h3 class="card-title">{{ release["Title"] }}</h3>
+    {% if release["Notes"] %}
+    <p class="card-text">{{ release["Notes"] }}</p>
+    {% endif %}
+    <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
+    </div>
+</div>
+{% endfor %}
+</div>

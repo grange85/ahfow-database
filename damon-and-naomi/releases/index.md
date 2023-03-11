@@ -1,8 +1,7 @@
 ---
-layout: discography
-title : Damon & Naomi releases
+layout: releases 
+title : Releases
 artistslug: damon-and-naomi
 categories: primary
-position: database-3
 ---
 

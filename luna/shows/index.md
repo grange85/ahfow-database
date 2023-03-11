@@ -1,6 +1,6 @@
 ---
 layout: gigography
-title : Luna shows
+title : Shows
 artistslug: luna
 categories: primary
 section: topindex
