@@ -1,6 +1,6 @@
 ---
 layout: releases
-title : Dean Wareham releases
+title : Releases
 artistslug: dean-wareham
 categories: primary
 ---

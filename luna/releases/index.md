@@ -1,6 +1,6 @@
 ---
 layout: releases 
-title : Luna releases
+title : Releases
 artistslug: luna
 categories: primary
 ---

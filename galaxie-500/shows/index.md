@@ -1,6 +1,6 @@
 ---
 layout: gigography
-title : Galaxie 500 shows
+title : Shows
 artistslug: galaxie-500
 categories: primary
 section: topindex
