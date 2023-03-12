@@ -1,6 +1,6 @@
 ---
 layout: page-database
-title : Releases, shows and tracks
+title : Discography / Gigography
 position: database-1
 ---
 <div class="row">
