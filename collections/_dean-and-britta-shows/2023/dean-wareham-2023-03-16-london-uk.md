@@ -17,7 +17,9 @@ show-lastfm:
 show-cancelled: false
 performers: [
   "Dean Wareham - guitar/vocals",
-  "Britta Phillips - bass"
+  "Britta Phillips - bass",
+  "Derek See - guitar",
+  "Roger Brogan - drums"
   ]
 facebook-event-url:
 show-poster-url: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2023-03-16/2023-03-16-dean-wareham-london-poster.jpg
