@@ -17,7 +17,7 @@ show-cancelled:
 performers: [
   "Dean Wareham - guitar/vocals",
   "Britta Phillips - bass",
-  "Derek Ser - guitar",
+  "Derek See - guitar",
   "Roger Brogan - drums"
   ]
 facebook-event-url:

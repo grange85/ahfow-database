@@ -4,13 +4,26 @@ position: database-5
 artistslug: dean-wareham
 artist:
   name: Dean Wareham
-show-venue: "Whelan's, Dublin, Ireland"
-title: "19th March 2023 - Dean Wareham - Whelan's, Dublin, Ireland"
+show-venue: "Merleyn, Nijmegen, The Netherlands"
+title: "14th March 2023 - Dean Wareham - Merleyn, Nijmegen, The Netherlands"
 address: 
 show-notes: 
 show-setlist:
-show-date: 2023-03-19
-date-added: 2022-11-26
+- Flowers
+- Robin & Richard
+- The Last Word
+- Under Skys
+- Blue Thunder
+- Snowstorm
+- When Will You Come Home
+- Another Day
+- Strange
+- Don't Let Our Youth Go to Waste
+- ^encore
+- Tugboat
+- Listen, the Snow Is Falling
+show-date: 2023-03-14
+date-added: 2022-13-18
 category: 2023
 show-radio:
 show-lastfm:
@@ -23,7 +36,7 @@ performers: [
   ]
 facebook-event-url:
 show-poster-url: 
-show-ticket-url: https://www.whelanslive.com/event/dean-wareham/ 
+show-ticket-url: 
 show-venue-website:
 show-additional:
 support:
