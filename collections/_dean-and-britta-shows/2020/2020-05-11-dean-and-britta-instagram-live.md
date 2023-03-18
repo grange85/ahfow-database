@@ -8,8 +8,7 @@ show-venue: "Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 title: "11th May 2020 - Dean & Britta - Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
-  - title: Massachusetts
-    notes: Bee Gees cover
+  - Massachusetts
 show-date: 2020-05-11
 date-added: 2020-05-12
 category: 2020

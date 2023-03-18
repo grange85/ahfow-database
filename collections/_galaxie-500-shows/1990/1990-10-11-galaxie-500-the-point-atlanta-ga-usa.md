@@ -32,8 +32,7 @@ show-setlist:
  - Melt Away
  - Listen The Snow Is Falling
  - ^encore
- - title: Don't let Our Youth Go To Waste
-   notes: with Peter Buck of REM on guitar
+ - Don't let Our Youth Go To Waste [with Peter Buck of REM on guitar]
 setlist-source: https://remtimeline.com/1990.html
 support:
  - Southern Culture on the Skids

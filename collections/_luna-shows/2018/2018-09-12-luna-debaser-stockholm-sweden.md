@@ -21,8 +21,7 @@ show-setlist:
  - Friendly Advice
  - ^encore
  - Strange
- - title: California Blue
-   notes: first live performance
+ - California Blue
  - Fuzzy Wuzzy
 show-date: 2018-09-12
 date-added: 2018-06-21

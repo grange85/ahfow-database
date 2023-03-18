@@ -27,4 +27,4 @@ show-venue-website:
 show-additional:
 support:
 ---
-Live stream from Dean & Britta's home in Cambridge in support of UMAW 
+Live stream from Damon & Naomi's home in Cambridge in support of UMAW 

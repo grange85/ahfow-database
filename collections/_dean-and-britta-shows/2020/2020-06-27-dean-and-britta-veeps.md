@@ -8,21 +8,20 @@ show-venue: "Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 title: "27th June 2020 - Dean & Britta - Dean & Britta's living room, Echo Park, Los Angeles, CA, USA"
 show-notes: ''
 show-setlist:
- - title: Broken Chair
-   notes: Sean Eden on Instagram Live
- - title: Neon Lights
- - title: Malibu Love Nest
- - title: Most of The Time
- - title: Chinatown
- - title: Broken Chair
- - title: ^Monica (poem by Hera Lindsay Bird)
- - title: Bonnie and Clyde
- - title: Superfreaky Memories
- - title: Teenage Lightning
- - title: Cindy Tastes of Barbecue
- - title: ^Letters to Wendy’s (poem by Joe Wenderoth)
- - title: 23 Minutes in Brussels
- - title: Car Wash Hair 
+ - Broken Chair [Sean Eden on Instagram Live]
+ - Neon Lights
+ - Malibu Love Nest
+ - Most of The Time
+ - Chinatown
+ - Broken Chair
+ - ^Monica (poem by Hera Lindsay Bird)
+ - Bonnie and Clyde
+ - Superfreaky Memories
+ - Teenage Lightning
+ - Cindy Tastes of Barbecue
+ - ^Letters to Wendy’s (poem by Joe Wenderoth)
+ - 23 Minutes in Brussels
+ - Car Wash Hair 
 show-date: 2020-06-27
 date-added: 2020-06-16
 category: 2020

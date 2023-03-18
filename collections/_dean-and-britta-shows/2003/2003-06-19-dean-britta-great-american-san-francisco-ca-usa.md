@@ -7,21 +7,20 @@ artist:
 show-venue: "Great American, San Francisco CA, USA"
 title: "19th June 2003 - Dean & Britta - Great American, San Francisco CA, USA"
 show-setlist: 
- - title: Night Nurse
- - title: Random Rules
- - title: Out Walking
- - title: Hear The Wind Blow
- - title: I Deserve It
- - title: Mermaid Eyes
- - title: Indian Summer
-   link: indian-summer-doors
- - title: Your Baby
- - title: Threw It Away
- - title: Knives From Bavaria
- - title: Moonshot
- - title: Ginger Snaps
- - title: Hearing Voices
- - title: Bonnie and Clyde
+ - Night Nurse
+ - Random Rules
+ - Out Walking
+ - Hear The Wind Blow
+ - I Deserve It
+ - Mermaid Eyes
+ - Indian Summer [The Doors]
+ - Your Baby
+ - Threw It Away
+ - Knives From Bavaria
+ - Moonshot
+ - Ginger Snaps
+ - Hearing Voices
+ - Bonnie and Clyde
 show-date: 2003-06-19
 category: 2003
 show-radio: 
