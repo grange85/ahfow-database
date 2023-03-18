@@ -91,6 +91,18 @@ defaults:
       artistslug: britta-phillips
       date-added: 1994-01-01
 
+page_gen-dirs: true
+
+page_gen:
+- data: discography.galaxie-500-shows
+  template: show
+  dir: galaxie-500/shows/test
+  index_files: true
+  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue']
+  title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
+  debug: true
+
+
 # Build settings
 future: true
 livereload: false
@@ -112,4 +124,5 @@ exclude: [
     '_deploy'
   ]
 plugins: [
+  'jekyll-datapage-generator'
       ]

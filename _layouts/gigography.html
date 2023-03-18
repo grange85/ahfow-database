@@ -23,7 +23,7 @@ layout: default
 
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
-					{% assign shows = site.galaxie-500-shows | where: "category", page.year | sort: "show-date" %}
+					{% assign shows = site.data.discography.galaxie-500-shows | where: "year", page.year | sort: "date" %}
 				{% when 'luna' %}
 					{% assign shows = site.luna-shows | where: "category", page.year | sort: "show-date" %}
 				{% when 'damon-and-naomi' %}
@@ -41,19 +41,19 @@ layout: default
 					{% if shows %}
 						<table class="table table-striped">
 						{% for show in shows %}
-							{% unless show.show-cancelled %}
-							{% assign day = show.show-date|date: "%-d"  %}
+							{% unless show.cancelled %}
+							{% assign day = show.date|date: "%-d"  %}
 						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
-							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.show-date|date: "%B %Y"}}{% endcapture %}
+							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date|date: "%B %Y"}}{% endcapture %}
 
 						<tr>
 							<th class="col-md-3">{{ ordinaldate }}</th>
-							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a><br/>
-          {% if show.show-cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
-          {% if show.artist.name %}<span class="badge text-bg-success">{{ show.artist.name }}</span>
+							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.venue }}</a><br/>
+          {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
+          {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
           {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
           {% endif %}
-          {% if show.show-series %}<span class="badge text-bg-primary">{{ show.show-series }}</span>{% endif %}
+          {% if show.series %}<span class="badge text-bg-primary">{{ show.series }}</span>{% endif %}
 							</td>
 						</tr>
 						{% endunless %}
