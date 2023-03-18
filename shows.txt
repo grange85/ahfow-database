@@ -1,6 +1,6 @@
 ---
 layout: none
-artistslug: galaxie-500
+artistslug: dean-and-britta
 ---
-{% assign artist = site.data.artists[page.artistslug] %}{% for show in site.galaxie-500-shows %}{%capture notes%}{{show.show-notes}} {{show.show-additional}} {{show.content | strip_html | strip_newlines }}{%endcapture%}{{ show.artistslug }}	{% if show.artist.name %}{{show.artist.name}}{%else%}{{ artist.name }}{%endif%}	{{show.category}}	{{ show.show-date|date: "%Y-%m-%d" }}	{{show.date-added}}	{{show.show-series}}	{{show.show-venue}}	{{ show.show-radio}}	{{show.show-cancelled}}	{{show.performers | join: "|"}}	{{show.show-setlist | join: "|"}}	{{show.setlist-source}}	{{show.show-support | join: "|"}}	{{show.show-poster-url}}	{{show.show-ticket-url}}	{{show.show-venue-website}}	{{notes}}
+{% assign artist = site.data.artists[page.artistslug] %}{% for show in site.dean-and-britta-shows %}{%capture notes%}{{show.show-notes}} {{show.show-additional}} {{show.content | strip_html | strip_newlines }}{%endcapture%}{{ show.artistslug }}	{% if show.artist.name %}{{show.artist.name}}{%else%}{{ artist.name }}{%endif%}	{{show.category}}	{{ show.show-date|date: "%Y-%m-%d" }}	{{show.date-added}}	{{show.show-series}}	{{show.show-venue}}	{{ show.show-radio}}	{{show.show-cancelled}}	{{show.performers | join: "|"}}	{{show.show-setlist | join: "|"}}	{{show.setlist-source}}	{{show.show-support | join: "|"}}	{{show.show-poster-url}}	{{show.show-ticket-url}}	{{show.show-venue-website}}	{{notes}}
 {% endfor %}  
