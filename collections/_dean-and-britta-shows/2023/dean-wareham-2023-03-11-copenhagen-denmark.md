@@ -12,6 +12,25 @@ address: |
   Denmark
 show-notes: 
 show-setlist:
+ - The Past Is Our Plaything
+ - The Last Word
+ - Robin & Richard
+ - Blue Thunder
+ - Tell Me
+ - Snowstorm
+ - When Will You Come Home
+ - Decomposing Trees
+ - Another Day
+ - Leave the Planet
+ - Plastic Bird
+ - Isn’t It a Pity
+ - Strange
+ - ^encore
+ - Flowers
+ - Tugboat
+ - Fourth of July
+ - Listen, the Snow Is Falling
+ - Victory Garden
 show-date: 2023-03-11
 date-added: 2022-11-29
 category: 2023

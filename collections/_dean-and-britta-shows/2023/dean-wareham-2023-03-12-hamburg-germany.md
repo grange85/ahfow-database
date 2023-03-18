@@ -12,6 +12,25 @@ address: |
   Germany
 show-notes: 
 show-setlist:
+ - As Much As It Was Worth
+ - The Last Word
+ - Oblivious
+ - Blue Thunder
+ - Tell Me
+ - Snowstorm
+ - When Will You Come Home
+ - Decomposing Trees
+ - Another Day
+ - Leave the Planet
+ - Plastic Bird
+ - Isn’t It a Pity
+ - Strange
+ - ^encore
+ - Neon Lights
+ - Tugboat
+ - Don't Let Our Youth Go to Waste
+ - ^encore 2
+ - Ceremony
 show-date: 2023-03-12
 date-added: 2022-11-29
 category: 2023
