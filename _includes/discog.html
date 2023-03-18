@@ -23,9 +23,18 @@
   {% if disc %}
   {% assign tracks = disc | split: "|" %}
   <ul class="list-group list-group-flush">
-  <li class="list-group-item text-muted small">{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</p>
+  <li class="list-group-item text-muted small">{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</li>
   {% for track in tracks %}
-  <li class="list-group-item"><a href="/database/tracks/{{track | slugify}}">{{track}}</a></li>
+							{% if track contains '[' %}{% assign tracktitle = track | split: " [" %} {% assign ttitle = tracktitle[0] %}{% assign tnotes = tracktitle[1] | remove: "]" %}{% else %}
+							{% assign ttitle = track %}{% assign tnotes = nil %}
+							{% endif %}
+							<li class="list-group-item">
+							{% if ttitle contains '^' %}
+								{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
+							{% else %}
+								<a href="/database/tracks/{{ ttitle | replace: '&','and' | slugify }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
+							{% endif %}
+							</li>
   {% endfor %}
   </ul>
   {% endif %}
