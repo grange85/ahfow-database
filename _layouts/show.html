@@ -39,12 +39,12 @@ layout: default
 						{% assign showdate = showdate | plus: 0 %}
 						{% if showdate > nowdate %}
 						{% unless page.ahfow.cancelled %}
-							{% if page.ahfow.show-ticket-url %}
-								<tr><th>Tickets</th><td><a href="{{page.ahfow.show-ticket-url}}" target="_blank">Get tickets</a></td></tr>
+							{% if page.ahfow.ticket-url %}
+								<tr><th>Tickets</th><td><a href="{{page.ahfow.ticket-url}}" target="_blank">Get tickets</a></td></tr>
 							{% endif %}
 						{% endunless %}
-							{% if page.ahfow.show-venue-website %}
-								<tr><th>Links</th><td><a href="{{page.ahfow.show-venue-website}}" target="_blank">Venue details</a></td></tr>
+							{% if page.ahfow.venue-website %}
+								<tr><th>Links</th><td><a href="{{page.ahfow.venue-website}}" target="_blank">Venue details</a></td></tr>
 							{% endif %}
 						{% endif %}
 					</table>

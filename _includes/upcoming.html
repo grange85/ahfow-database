@@ -7,7 +7,7 @@
 
       <tr>
         <th class="col-md-4">{{ ordinaldate }}</th>
-        <td class="col-md-8"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.venue }}</a><br/>
+        <td class="col-md-8"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
           {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
           {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
           {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
