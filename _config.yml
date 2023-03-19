@@ -19,6 +19,20 @@ collections:
   tracks:
     output: true
     permalink: tracks/:title/
+  galaxie-500-releases:
+    output: true
+    permalink: galaxie-500/releases/:title/
+  luna-releases:
+    output: true
+    permalink: luna/releases/:title/
+  damon-and-naomi-releases:
+    output: true
+    permalink: damon-and-naomi/releases/:title/
+  dean-and-britta-releases:
+    output: true
+    permalink: dean-and-britta/releases/:title/
+
+
 
 page_gen-dirs: true
 page_gen:
