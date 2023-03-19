@@ -1,19 +1,12 @@
 ---
 layout: default
 ---
-	{% assign artist = site.data.artists[page.artistslug] %}
-	{% assign day = page.show-date|date: "%-d"  %}
-  	{% if page.date-uncertain.day %}{% assign day = "" %}{% endif %}
-	{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.show-date|date: "%B %Y"}}{% endcapture %}
-	{% capture page_title %}{{ ordinaldate}} - {{artist.name}} - {{ page.show-venue }}{% endcapture %}
-	{% assign page.title = page_title %}
-	{% assign content = page.content | strip_newlines %}
-
-<h2>{{ page.title }}</h2>
+{% assign day = page.ahfow.date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.ahfow.date|date: "%B %Y"}}{% endcapture %}
+<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span class="small">{{ page.ahfow.venue }}</h2>
 
 				<div class="row">
 					<div class="col">
-								{% if page.show-cancelled %}
+								{% if page.ahfow.cancelled %}
 								<div class="alert alert-danger" role="alert">
 								Cancelled  
 								 </div>
@@ -21,9 +14,7 @@ layout: default
 				</div>
 				</div>
 
-
-
-				<div class="row">
+<div class="row">
 					<div class="col">
 							<div class="card mb-3">
 							<div class="card-header bg-light" id="information">
@@ -32,37 +23,28 @@ layout: default
 
 							<div class="card-body">
 								<table class="table mb-0">
-							<tr class="border-top-0"><th>Artist</th><td>{% if page.artist.name %}{{page.artist.name}}{% else %}{{artist.name}}{% endif %}</td></tr>
+							<tr class="border-top-0"><th>Artist</th><td>{% if page.ahfow.artistname %}{{page.ahfow.artistname}}{% else %}{{artist.name}}{% endif %}</td></tr>
 
 							<tr><th>Date</th><td>{{ ordinaldate }}</td></tr>
 							<tr><th>Venue</th><td>
-							{% if page.address%}
-								{{ page.address | newline_to_br }}
-							
-							<p><a href="https://www.google.com/maps/search/?api=1&query={{ page.address | strip_newlines | urlencode }}" target="_blank">Map</a></p>
-							{% else %}
-							 {{page.show-venue}}
-							{% endif %}
-							</td></tr>
+						 {{page.ahfow.venue}}
+						</td></tr>
 
-						{% if page.show-download %}
-							<tr><th>Download</th><td><a href="{{page.show-download.url}}" target="_blank">Download this show</a> ({{page.show-download.site}})</td></tr>
+						{% if page.ahfow.download %}
+							<tr><th>Download</th><td><a href="{{ page.ahfow.download }}" target="_blank">Download this show</a> ({{page.ahfow.download-site}})</td></tr>
 						{% endif %}
-						{% if page.facebook-event-url %}
-							<tr><th>Facebook</th><td><a href="{{page.facebook-event-url}}" target="_blank">Facebook event</a></td></tr>
-						{% endif %}
-						{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
-						{% capture showdate %}{{page.show-date | date: '%s'}}{% endcapture %}
+					{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
+						{% capture showdate %}{{page.ahfow.date | date: '%s'}}{% endcapture %}
 						{% assign nowdate = nowdate | plus: 0 %}
 						{% assign showdate = showdate | plus: 0 %}
 						{% if showdate > nowdate %}
-						{% unless page.show-cancelled %}
-							{% if page.show-ticket-url %}
-								<tr><th>Tickets</th><td><a href="{{page.show-ticket-url}}" target="_blank">Get tickets</a></td></tr>
+						{% unless page.ahfow.cancelled %}
+							{% if page.ahfow.show-ticket-url %}
+								<tr><th>Tickets</th><td><a href="{{page.ahfow.show-ticket-url}}" target="_blank">Get tickets</a></td></tr>
 							{% endif %}
 						{% endunless %}
-							{% if page.show-venue-website %}
-								<tr><th>Links</th><td><a href="{{page.show-venue-website}}" target="_blank">Venue details</a></td></tr>
+							{% if page.ahfow.show-venue-website %}
+								<tr><th>Links</th><td><a href="{{page.ahfow.show-venue-website}}" target="_blank">Venue details</a></td></tr>
 							{% endif %}
 						{% endif %}
 					</table>
@@ -72,7 +54,7 @@ layout: default
 				</div>
 
 
-						{% if content != "" %}
+						{% if page.ahfow.notes != "" %}
 						<div class="row">
 							<div class="col">
 								<div class="card mb-3">
@@ -80,7 +62,7 @@ layout: default
 										<h3>Notes</h3>
 									</div>
 									<div class="card-body">
-										<p>{{ content }}</p>
+										<p>{{ page.ahfow.notes }}</p>
 									</div>
 						  	<div class="card-footer text-muted text-right">
     							<a href="#top"><small>Back to top</small></a>
@@ -90,7 +72,8 @@ layout: default
 						</div>
 						{% endif %}
 
-						{% if page.performers %}
+						{% if page.ahfow.performers %}
+                        {% assign performers = page.ahfow.performers | split: "|" %}
 						<div class="row">
 							<div class="col">
 								<div class="card mb-3">
@@ -99,7 +82,7 @@ layout: default
 									</div>
 									<div class="card-body">
 										<ul>
-										{% for performer in page.performers %}
+										{% for performer in performers %}
 											<li>{{ performer }}</li>
 										{% endfor %}
 										</ul>
@@ -113,7 +96,7 @@ layout: default
 						{% endif %}
 
 
-						{% if page.support %}
+						{% if page.ahfow.support %}
 						<div class="row">
 							<div class="col">
 								<div class="card mb-3">
@@ -122,7 +105,7 @@ layout: default
 									</div>
 									<div class="card-body">
 										<ul>
-										{% for act in page.support %}
+										{% for act in page.ahfow.support %}
 												<li>{{act}}</li>
 										{% endfor %}
 										</ul>
@@ -137,7 +120,8 @@ layout: default
 
 
 
-						{% if page.show-setlist %}
+						{% if page.ahfow.setlist %}
+                        {% assign setlist = page.ahfow.setlist | split: "|" %}
 						<div class="row">
 							<div class="col">
 								<div class="card mb-3">
@@ -146,7 +130,7 @@ layout: default
 									</div>
 									<div class="card-body">
 										<ul>
-										{% for track in page.show-setlist %}
+										{% for track in setlist %}
 											{% capture hastrack %}{{track.title}}{% endcapture %}
 											{% if hastrack == '' %}
 												{% if track contains '^' %}
@@ -177,31 +161,7 @@ layout: default
 				
 
 
-						{% if page.links %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header id=links">
-										<h3>Links</h3>
-									</div>
-									<div class="card-body">
-										<ul>
-										{% for link in page.links %}
-												<li><a href="{{link.url}}">{{link.title}}</a> ({{link.source}})</li>
-										{% endfor %}
-										</ul>
-									</div>
-						  	<div class="card-footer text-muted text-right">
-    							<a href="#top"><small>Back to top</small></a>
-							</div>
-								</div>
-							</div>
-						</div>
-						{% endif %}
-
-
-
-						{% if page.show-poster-url %}
+						{% if page.ahfow.poster-url %}
 						<div class="row">
 							<div class="col">
 								<div class="card mb-3">
@@ -210,9 +170,9 @@ layout: default
 									</div>
 									<div class="card-body">
 										<figure class="figure">
-											<img class="img-fluid" src="{{page.show-poster-url}}" alt="Poster for {{page.show-date|date: '%-d %B %Y'}} at {{ page.show-venue }}" />
+											<img class="img-fluid" src="{{page.ahfow.poster-url}}" alt="Poster for {{page.ahfow.date|date: '%-d %B %Y'}} at {{ page.ahfow.venue }}" />
 											<figcaption class="figure-caption">
-												Poster for {{page.show-date|date: "%-d %B %Y"}} at {{ page.show-venue }}
+												Poster for {{page.ahfow.date|date: "%-d %B %Y"}} at {{ page.ahfow.venue }}
 											</figcaption>
 										</figure>
 									</div>
@@ -223,4 +183,5 @@ layout: default
 							</div>
 						</div>
 						{% endif %}
+
 

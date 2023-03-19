@@ -2,10 +2,8 @@
 layout: default
 ---
 	{% assign artist = site.data.artists[page.artistslug] %}
-
+    {% assign thisyear = "now" | date: "%Y" %}
 	{% capture page_title %}{{artist.name | append: ' shows'}}{% if page.year > 1 %} - {{page.year}}{% endif %}{% endcapture %}
-
-
 			<div class="row">
 				<div class="col">
 						<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -25,17 +23,21 @@ layout: default
 				{% when 'galaxie-500' %}
 					{% assign shows = site.data.discography.galaxie-500-shows | where: "year", page.year | sort: "date" %}
 				{% when 'luna' %}
-					{% assign shows = site.luna-shows | where: "category", page.year | sort: "show-date" %}
+                {% if page.year %}
+					{% assign shows = site.data.discography.luna-shows | where: "year", page.year | sort: "date" %}
+                {% else %}
+					{% assign shows = site.data.discography.luna-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+                {% endif %}
 				{% when 'damon-and-naomi' %}
-					{% assign shows = site.damon-and-naomi-shows | where: "category", page.year | sort: "show-date" %}
+					{% assign shows = site.data.discography.damon-and-naomi-shows | where: "year", page.year | sort: "date" %}
 				{% when 'dean-and-britta' %}
-					{% assign shows = site.dean-and-britta-shows | where: "category", page.year | sort: "show-date" %}
+					{% assign shows = site.data.discography.dean-and-britta-shows | where: "year", page.year | sort: "date" %}
 			{% endcase %}
 			<div class="row">
 				<div class="col">
 					{% if page.section == 'topindex' %}
 						{% if artist.slug != 'galaxie-500' %}
-							{% include upcoming.html artistslug = artist.slug %}
+                        {% include upcoming.html %}
 						{% endif %}
 				{% else %}
 					{% if shows %}
@@ -48,7 +50,7 @@ layout: default
 
 						<tr>
 							<th class="col-md-3">{{ ordinaldate }}</th>
-							<td class="col-md-7"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.venue }}</a><br/>
+							<td class="col-md-7"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
           {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
           {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
           {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>

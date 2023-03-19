@@ -19,87 +19,37 @@ collections:
   tracks:
     output: true
     permalink: tracks/:title/
-  galaxie-500-releases:
-    output: true
-    permalink: galaxie-500/releases/:title/
-  galaxie-500-shows:
-    output: true
-    permalink: galaxie-500/shows/:path/
-  luna-releases:
-    output: true
-    permalink: luna/releases/:title/
-  luna-shows:
-    output: true
-    permalink: luna/shows/:path/
-  damon-and-naomi-releases:
-    output: true
-    permalink: damon-and-naomi/releases/:title/
-  damon-and-naomi-shows:
-    output: true
-    permalink: damon-and-naomi/shows/:path/
-  dean-and-britta-releases:
-    output: true
-    permalink: dean-and-britta/releases/:title/
-  dean-and-britta-shows:
-    output: true
-    permalink: dean-and-britta/shows/:path/
-  dean-wareham-releases:
-    output: true
-    permalink: dean-wareham/releases/:title/
-
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: galaxie-500-shows
-    values:
-      artistslug: galaxie-500
-  -
-    scope:
-      path: ""
-      type: luna-shows
-    values:
-      artistslug: luna
-      date-added: 1994-01-01
-  -
-    scope:
-      path: ""
-      type: damon-and-naomi-shows
-    values:
-      artistslug: damon-and-naomi
-      date-added: 1994-01-01
-  -
-    scope:
-      path: ""
-      type: dean-and-britta-shows
-    values:
-      artistslug: dean-and-britta
-      date-added: 1994-01-01
-  -
-    scope:
-      path: ""
-      type: dean-wareham-shows
-    values:
-      artistslug: dean-wareham
-      date-added: 1994-01-01
-  -
-    scope:
-      path: ""
-      type: britta-phillips-shows
-    values:
-      artistslug: britta-phillips
-      date-added: 1994-01-01
 
 page_gen-dirs: true
-
 page_gen:
+- data: discography.dean-and-britta-shows
+  template: show
+  dir: dean-and-britta/shows
+  index_files: true
+  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue-slug']
+  title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
+  page_data_prefix: ahfow 
+- data: discography.luna-shows
+  template: show
+  dir: luna/shows
+  index_files: true
+  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue-slug']
+  title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
+  page_data_prefix: ahfow 
 - data: discography.galaxie-500-shows
   template: show
-  dir: galaxie-500/shows/test
+  dir: galaxie-500/shows
   index_files: true
-  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue']
+  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue-slug']
   title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
+  page_data_prefix: ahfow 
+- data: discography.damon-and-naomi-shows
+  template: show
+  dir: damon-and-naomi/shows
+  index_files: true
+  name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + '-' + record['venue-slug']
+  title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
+  page_data_prefix: ahfow 
   debug: true
 
 
