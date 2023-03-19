@@ -29,9 +29,17 @@ layout: default
 					{% assign shows = site.data.discography.luna-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
                 {% endif %}
 				{% when 'damon-and-naomi' %}
+                {% if page.year %}
 					{% assign shows = site.data.discography.damon-and-naomi-shows | where: "year", page.year | sort: "date" %}
+                {% else %}
+					{% assign shows = site.data.discography.damon-and-naomi-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+                {% endif %}
 				{% when 'dean-and-britta' %}
+				{% if page.year %}
 					{% assign shows = site.data.discography.dean-and-britta-shows | where: "year", page.year | sort: "date" %}
+                {% else %}
+					{% assign shows = site.data.discography.dean-and-britta-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+                {% endif %}
 			{% endcase %}
 			<div class="row">
 				<div class="col">
@@ -50,7 +58,7 @@ layout: default
 
 						<tr>
 							<th class="col-md-3">{{ ordinaldate }}</th>
-							<td class="col-md-7"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+							<td class="col-md-7"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
           {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
           {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
           {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>

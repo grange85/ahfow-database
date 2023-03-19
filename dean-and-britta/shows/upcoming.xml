@@ -13,26 +13,26 @@ description: Upcoming shows for Dean Wareham / Britta Phillips billed either as 
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<generator>Jekyll v{{ jekyll.version }}</generator>
-{% assign curdate = site.time | date: '%s' %}{% assign curdate = curdate | plus: 0 %}{% for show in site.dean-and-britta-shows %}{% assign showdate = show.show-date | date: '%s' %}{% assign showdate = showdate | plus: 0 %}{% if showdate >= curdate %}{% capture newtitle %}{{show.show-date|date: "%-d %B %Y"}} - {{show.artist.name}} at {{ show.show-venue }}{% endcapture %}{% assign newcontent = show.content|strip %}
+{% assign curdate = site.time | date: '%s' %}{% assign curdate = curdate | plus: 0 %}{% for show in site.data.discography.dean-and-britta-shows %}{% assign showdate = show.date | date: '%s' %}{% assign showdate = showdate | plus: 0 %}{% if showdate >= curdate %}{% capture newtitle %}{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at {{ show.venue }}{% endcapture %}{% assign newcontent = show.notes|strip %}
 		<item>
 			<title>{{ newtitle | xml_escape }}</title>
 			<description><![CDATA[
-				{% if show.show-series %}
-					<div><strong>{{ show.show-series }}</strong></div>
-				{% endif %}
-				{% if show.notes %}
-					<div>{{ show.notes }}</div>
+				{% if show.series %}
+					<div>{{ show.series }}</div	>
 				{% endif %}
 				{% unless newcontent == "" %}
 					<div>{{ newcontent }}</div>
 				{% endunless %}
 			]]></description>
-			{% if show.show-series %}
-				<category>{{ show.show-series }}</category>
-			{% endif %}			
+
+{% if show.series %}
+	<category>{{ show.series }}</category>
+{% endif %}
+
 			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
-			<link>{{ show.url | prepend: site.baseurl | prepend: site.url }}</link>
-			<guid isPermaLink="true">{{ show.url | prepend: site.baseurl | prepend: site.url }}</guid>
+			<link>{{ site.url }}{{ site.baseurl }}/dean-and-britta/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</link>
+			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/dean-and-britta/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</guid>
 		</item>{% endif %}{% endfor %}
 	</channel>
 </rss>
+
