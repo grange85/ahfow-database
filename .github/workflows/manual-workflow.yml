@@ -51,5 +51,5 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync --size-only --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}/database/
+        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}/database/
         aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
