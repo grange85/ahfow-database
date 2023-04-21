@@ -2,7 +2,8 @@
 layout: default
 ---
 {% assign day = page.ahfow.date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.ahfow.date|date: "%B %Y"}}{% endcapture %}
-<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span class="small">{{ page.ahfow.venue }}</h2>
+
+<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span class="small">{{ page.ahfow.venue }} - {{ description }}</h2>
 
 				<div class="row">
 					<div class="col">

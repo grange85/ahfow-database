@@ -1,6 +1,7 @@
 ---
 layout: page-database
 title : Discography / Gigography
+description: A discography and gigography for Galaxie 500 and all related acts
 position: database-1
 ---
 <div class="row">
