@@ -31,8 +31,10 @@ layout: default
 						 {{page.ahfow.venue}}
 						</td></tr>
 
-						{% if page.ahfow.download %}
-							<tr><th>Download</th><td><a href="{{ page.ahfow.download }}" target="_blank">Download this show</a> ({{page.ahfow.download-site}})</td></tr>
+						{% if page.ahfow.audio %}
+							
+                        {% assign audio = page.ahfow.audio | split: "|" %}
+							<tr><th>{{ audio[0] }}</th><td><a href="{{ audio[1] }}" target="_blank">{{ audio[0] }} this show</a> ({{audio[2]}})</td></tr>
 						{% endif %}
 					{% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
 						{% capture showdate %}{{page.ahfow.date | date: '%s'}}{% endcapture %}
