@@ -12,7 +12,14 @@ on:
         options:
         - development
         - production
-
+  push:
+    branches:
+    - main
+    inputs:
+      tags:
+        description: 'auto deploy'
+      deploy-environment: production
+ 
 jobs:
   deployment:
     runs-on: ubuntu-20.04
