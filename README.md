@@ -1,10 +1,7 @@
 # The A Head Full of Wishes database into Jekyll
 
 
-## Update 2021-02-11
-
-This section and all it's content has now been migrated into the [main A Head Full of Wishes repo](https://github.com/grange85/ahfow-www/)
-
+## Update 2023-06-13
 
 --- 
 
@@ -16,6 +13,6 @@ You can see the work in progress here:
 
 It's built with Jekyll and uses Bootstrap (and for now the default Boostrap theme)
 
-The rest of A Head Full of Wishes (including the db in Wordpress) can be found over here:
+The rest of A Head Full of Wishes can be found over here:
 
 [A Head Full of Wishes](https://www.fullofwishes.co.uk)
