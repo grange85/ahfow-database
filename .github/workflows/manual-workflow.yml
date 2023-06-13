@@ -4,10 +4,6 @@ on:
   push:
     branches:
     - main
-    inputs:
-      tags:
-        description: 'auto deploy'
-      deploy-environment: production
   workflow_dispatch:
     inputs:
       tags:
