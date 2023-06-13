@@ -19,13 +19,13 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
       if ${{ github.event_name != 'push'}}
-        environment:
-          name: production
-          url: https://${{ vars.S3_Bucket }}
+      environment:
+        name: production
+        url: https://${{ vars.S3_Bucket }}
       if ${{ github.event_name == 'push'}}
-        environment:
-          name: ${{ github.event.inputs.deploy-environment }}
-          url: https://${{ vars.S3_Bucket }}
+      environment:
+        name: ${{ github.event.inputs.deploy-environment }}
+        url: https://${{ vars.S3_Bucket }}
     steps:
     - uses: actions/checkout@v3
     - run: echo ${{ github.event.inputs.deploy-environment }}
