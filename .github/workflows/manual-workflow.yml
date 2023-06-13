@@ -1,9 +1,6 @@
 name: Manual deploy AHFoW database
 
 on:
-  push:
-    branches:
-    - main
   workflow_dispatch:
     inputs:
       tags:
@@ -18,11 +15,6 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-20.04
-    if ${{ github.event_name == 'workflow_dispatch'}}
-    environment:
-      name: production
-      url: https://${{ vars.S3_Bucket }}
-    if ${{ github.event_name == 'push'}}
     environment:
       name: ${{ github.event.inputs.deploy-environment }}
       url: https://${{ vars.S3_Bucket }}
