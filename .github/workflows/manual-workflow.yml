@@ -18,7 +18,7 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-20.04
-    if ${{ github.event_name != 'push'}}
+    if ${{ github.event_name == 'workflow_dispatch'}}
     environment:
       name: production
       url: https://${{ vars.S3_Bucket }}
