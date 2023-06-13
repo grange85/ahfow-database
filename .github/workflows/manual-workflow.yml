@@ -19,7 +19,6 @@ on:
       tags:
         description: 'auto deploy'
       deploy-environment: production
- 
 jobs:
   deployment:
     runs-on: ubuntu-20.04
