@@ -31,7 +31,9 @@ collections:
   dean-and-britta-releases:
     output: true
     permalink: dean-and-britta/releases/:title/
-
+  dean-wareham-releases:
+    output: true
+    permalink: dean-wareham/releases/:title/
 
 
 page_gen-dirs: true
