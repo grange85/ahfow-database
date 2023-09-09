@@ -64,6 +64,9 @@ layout: default
           {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
           {% endif %}
           {% if show.series %}<span class="badge text-bg-primary">{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span class="badge text-bg-info">setlist</span>{% endif %}
+		  {% if show.poster-url %}<span class="badge text-bg-info">poster</span>{% endif %}
+						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="badge text-bg-info">{{ audio[0] | downcase }}</span>{% endif %}
 							</td>
 						</tr>
 						{% endunless %}
