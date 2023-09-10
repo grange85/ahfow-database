@@ -1,43 +1,50 @@
 ---
-layout: page
-title: List of shows available to download
-list: downloads
+layout: default
+title: Full shows to stream or download
 categories: primary
-position: database-2
-description: >
-  A list of Galaxie 500, Luna, Damon & Naomi, Dean & Britta and Dean Wareham shows that are available to download.
 ---
-
-
-{% for artistslugs in site.data.artists %}
-	{% assign artistslug = artistslugs[0] %}
-	{% assign artist = site.data.artists[artistslug] %}
-	{% case artist.slug %}
-	{% when 'galaxie-500' %}
-		{% assign shows = site.galaxie-500-shows %}
-	{% when 'luna' %}
-		{% assign shows = site.luna-shows %}
-	{% when 'damon-and-naomi' %}
-		{% assign shows = site.damon-and-naomi-shows %}
-	{% when 'dean-and-britta' %}
-		{% assign shows = site.dean-and-britta-shows %}
-	{% when 'dean-wareham' %}
-		{% assign shows = site.dean-wareham-shows %}
-	{% endcase %}
+<h2>{{ page.title }}</h2>
+	{% for artist in site.data.artists %}
+    {% capture artistslug %}{{ artist | first}}{% endcapture %}
+    {% assign currentartist = site.data.artists[artistslug] %}
+			{% case artistslug %}
+				{% when 'galaxie-500' %}
+					{% assign shows = site.data.discography.galaxie-500-shows | where_exp: "show", "show.audio contains '|'" %}
+				{% when 'luna' %}
+					{% assign shows = site.data.discography.luna-shows | where_exp: "show", "show.audio contains '|'" %}
+				{% when 'damon-and-naomi' %}
+					{% assign shows = site.data.discography.damon-and-naomi-shows | where_exp: "show", "show.audio contains '|'" %}
+				{% when 'dean-and-britta' %}
+					{% assign shows = site.data.discography.dean-and-britta-shows | where_exp: "show", "show.audio contains '|'" %}
+                {% else %}
+                    {% assign shows = null  %}
+			{% endcase %}
 	
 {% if shows %}
-<div class="table-responsive">
-<h2>{{artist.name}}</h2>
+<h3>{% if artistslug == "dean-and-britta" %}Dean Wareham / Britta Phillips {% else %}{{ currentartist.name }}{% endif %}</h3>
 <table class="table table-striped">
-{% for show in shows %}
-    {% if show.show-download %}
-        <tr>
-        <th class="col-md-4">{{show.show-date|date: "%-d %B %Y"}}</th>
-        <td class="col-md-8"><a href="{{ show.url | prepend: site.baseurl}}">{{ show.show-venue }}</a></td>
-        </tr>
-    {% endif %}
-{% endfor %}
-</table>
-</div>
-{% endif %}
-{% endfor %}
+    {% for show in shows %}
+        {% unless show.cancelled %}
+        {% assign day = show.date|date: "%-d"  %}
+        {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
+        {% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date|date: "%B %Y"}}{% endcapture %}
+
+		<tr>
+		<th class="col-md-3">{{ ordinaldate }}</th>
+		<td class="col-md-7"><a href="{{ site.baseurl }}/{{artistslug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+          {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
+          {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
+          {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
+          {% endif %}
+          {% if show.series %}<span class="badge text-bg-primary">{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span class="badge text-bg-info">setlist</span>{% endif %}
+		  {% if show.poster-url %}<span class="badge text-bg-info">poster</span>{% endif %}
+		  {% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="badge text-bg-info">{{ audio[0] | downcase }}</span>{% endif %}
+							</td>
+						</tr>
+						{% endunless %}
+						{% endfor %}
+						</table>
+
+					{% endif %}
+						{% endfor %}
