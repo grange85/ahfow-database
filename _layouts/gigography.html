@@ -21,24 +21,24 @@ layout: default
 
 			{% case artist.slug %}
 				{% when 'galaxie-500' %}
-					{% assign shows = site.data.discography.galaxie-500-shows | where: "year", page.year | sort: "date" %}
+					{% assign shows = site.data.gigography.galaxie-500-shows | where: "year", page.year | sort: "date" %}
 				{% when 'luna' %}
                 {% if page.year %}
-					{% assign shows = site.data.discography.luna-shows | where: "year", page.year | sort: "date" %}
+					{% assign shows = site.data.gigography.luna-shows | where: "year", page.year | sort: "date" %}
                 {% else %}
-					{% assign shows = site.data.discography.luna-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+					{% assign shows = site.data.gigography.luna-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
                 {% endif %}
 				{% when 'damon-and-naomi' %}
                 {% if page.year %}
-					{% assign shows = site.data.discography.damon-and-naomi-shows | where: "year", page.year | sort: "date" %}
+					{% assign shows = site.data.gigography.damon-and-naomi-shows | where: "year", page.year | sort: "date" %}
                 {% else %}
-					{% assign shows = site.data.discography.damon-and-naomi-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+					{% assign shows = site.data.gigography.damon-and-naomi-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
                 {% endif %}
 				{% when 'dean-and-britta' %}
 				{% if page.year %}
-					{% assign shows = site.data.discography.dean-and-britta-shows | where: "year", page.year | sort: "date" %}
+					{% assign shows = site.data.gigography.dean-and-britta-shows | where: "year", page.year | sort: "date" %}
                 {% else %}
-					{% assign shows = site.data.discography.dean-and-britta-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
+					{% assign shows = site.data.gigography.dean-and-britta-shows | where_exp: "item", "item.year >= thisyear" | sort: "date" %}
                 {% endif %}
 			{% endcase %}
 			<div class="row">
