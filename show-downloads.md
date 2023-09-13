@@ -9,13 +9,13 @@ categories: primary
     {% assign currentartist = site.data.artists[artistslug] %}
 			{% case artistslug %}
 				{% when 'galaxie-500' %}
-					{% assign shows = site.data.discography.galaxie-500-shows | where_exp: "show", "show.audio contains '|'" %}
+					{% assign shows = site.data.gigography.galaxie-500-shows | where_exp: "show", "show.audio contains '|'" %}
 				{% when 'luna' %}
-					{% assign shows = site.data.discography.luna-shows | where_exp: "show", "show.audio contains '|'" %}
+					{% assign shows = site.data.gigography.luna-shows | where_exp: "show", "show.audio contains '|'" %}
 				{% when 'damon-and-naomi' %}
-					{% assign shows = site.data.discography.damon-and-naomi-shows | where_exp: "show", "show.audio contains '|'" %}
+					{% assign shows = site.data.gigography.damon-and-naomi-shows | where_exp: "show", "show.audio contains '|'" %}
 				{% when 'dean-and-britta' %}
-					{% assign shows = site.data.discography.dean-and-britta-shows | where_exp: "show", "show.audio contains '|'" %}
+					{% assign shows = site.data.gigography.dean-and-britta-shows | where_exp: "show", "show.audio contains '|'" %}
                 {% else %}
                     {% assign shows = null  %}
 			{% endcase %}

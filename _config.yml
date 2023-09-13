@@ -38,28 +38,28 @@ collections:
 
 page_gen-dirs: true
 page_gen:
-- data: discography.dean-and-britta-shows
+- data: gigography.dean-and-britta-shows
   template: show
   dir: dean-and-britta/shows
   index_files: true
   name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + record['disambiguate'].to_s + '-' + record['venue-slug']
   title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
   page_data_prefix: ahfow 
-- data: discography.luna-shows
+- data: gigography.luna-shows
   template: show
   dir: luna/shows
   index_files: true
   name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + record['disambiguate'].to_s + '-' + record['venue-slug']
   title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
   page_data_prefix: ahfow 
-- data: discography.galaxie-500-shows
+- data: gigography.galaxie-500-shows
   template: show
   dir: galaxie-500/shows
   index_files: true
   name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + record['disambiguate'].to_s + '-' + record['venue-slug']
   title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
   page_data_prefix: ahfow 
-- data: discography.damon-and-naomi-shows
+- data: gigography.damon-and-naomi-shows
   template: show
   dir: damon-and-naomi/shows
   index_files: true
