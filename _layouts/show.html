@@ -130,6 +130,7 @@ layout: default
 								<div class="card mb-3">
 									<div class="card-header bg-light" id="setlist">
 										<h3>Setlist</h3>
+										{% if page.ahfow.setlist-source %}<p class="text-muted"><small>source: {{ page.ahfow.setlist-source }}</small></p>{% endif %}
 									</div>
 									<div class="card-body">
 										<ul>
