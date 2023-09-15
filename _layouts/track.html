@@ -93,3 +93,106 @@ layout: default
 		{% endif %}
 	</div>
 </div>
+
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="card">
+			<div class="card-header">
+				<h3>Available on:</h3>
+			</div>
+			<div class="card-body">
+	<ul>
+	{% for album_hash in site.data.discography %}
+	{% assign album = album_hash[1] | where_exp: "album", "album.A contains page.title or album.B contains page.title or album.C contains page.title or album.D contains page.title" %}
+	{% if album.size > 0 %}
+	{% case album[0].Artist %}
+	{% when "Galaxie 500" %}
+	{% assign artistslug = "galaxie-500" %}
+	{% when "Luna" %}
+	{% assign artistslug = "luna" %}
+	{% when "Dean & Britta" %}
+	{% assign artistslug = "dean-and-britta" %}
+	{% when "Dean Wareham" %}
+	{% assign artistslug = "dean-wareham" %}
+	{% when "Damon & Naomi" %}
+	{% assign artistslug = "damon-and-naomi" %}
+	{% endcase %}
+	{% if album_hash[0] contains "singles" %}
+		{% assign albumsection = "singles" %}
+	{% elsif album_hash[0] contains "misc" %}
+		{% assign albumsection = "miscellaneous" %}
+	{% else %}
+		{% assign albumsection = album[0].Title %}
+	{% endif %}
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ album[0].Artist }} - {{ album[0].Title }}</a></li>
+	{% endif %}
+	{% endfor %}
+
+	</ul>
+
+</div>
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12">
+		<div class="card">
+			<div class="card-header">
+				<h3>Played live</h3>
+			</div>
+			<div class="card-body">
+{% for artistslugs in site.data.artists %}
+	{% assign artist = artistslugs[0] %}
+	{% assign artist = site.data.artists[artist] %}
+	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" %}
+			{% case artist.slug %}
+				{% when 'galaxie-500' %}
+					{% assign shows = site.data.gigography.galaxie-500-shows | where_exp: "item", "item.setlist contains page.title" | sort: "date" %}
+				{% when 'luna' %}
+					{% assign shows = site.data.gigography.luna-shows | where_exp: "item", "item.setlist contains page.title" | sort: "date" %}
+				{% when 'damon-and-naomi' %}
+					{% assign shows = site.data.gigography.damon-and-naomi-shows | where_exp: "item", "item.setlist contains page.title" | sort: "date" %}
+				{% when 'dean-and-britta' %}
+					{% assign shows = site.data.gigography.dean-and-britta-shows | where_exp: "item", "item.setlist contains page.title" | sort: "date" %}
+			{% endcase %}
+			{% if shows.size > 0 %}
+			<h4>by {{ artist.name }}<br>
+				<p class="text-muted"><small>This is collected from set list data which is incomplete</small></p>
+			</h4>
+						<table class="table table-striped">
+						{% for show in shows %}
+							{% unless show.cancelled %}
+							{% assign day = show.date|date: "%-d"  %}
+						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
+							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date|date: "%B %Y"}}{% endcapture %}
+
+						<tr>
+							<th class="col-md-3">{{ ordinaldate }}</th>
+							<td class="col-md-7"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+          {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
+          {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
+          {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
+          {% endif %}
+          {% if show.series %}<span class="badge text-bg-primary">{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span class="badge text-bg-info">setlist</span>{% endif %}
+		  {% if show.poster-url %}<span class="badge text-bg-info">poster</span>{% endif %}
+						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="badge text-bg-info">{{ audio[0] | downcase }}</span>{% endif %}
+							</td>
+						</tr>
+						{% endunless %}
+						{% endfor %}
+						</table>
+						{% endif %}
+
+
+
+
+
+	{% endif %}
+{% endfor %}
+
+</div>
+</div>
+</div>
+</div>
