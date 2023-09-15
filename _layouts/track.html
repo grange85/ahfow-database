@@ -125,7 +125,7 @@ layout: default
 	{% else %}
 		{% assign albumsection = album[0].Title %}
 	{% endif %}
-	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ album[0].Artist }} - {{ album[0].Title }}</a></li>
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ album[0].Artist }} - {{ album[0].Title }}</a> - {{ album_hash[0] }}</li>
 	{% endif %}
 	{% endfor %}
 
