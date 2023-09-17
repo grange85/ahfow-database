@@ -10,11 +10,7 @@ layout: default
 					<div class="col">
 						<img class="centre-block img-fluid" src="{{artist.image}}" alt="{{artist.name}} picture" />
 							<div class="list-group">
-							{% if artist.slug == "dean-and-britta" %}
-								<a class="list-group-item list-group-item-action" href="/database/dean-and-britta/dean-and-britta-releases/" >Dean & Britta discography</a>
-							{% else %}
 								<a class="list-group-item list-group-item-action" href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a>
-							{% endif %}
 								<a class="list-group-item list-group-item-action" href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a>
 							</div>
 					</div>
