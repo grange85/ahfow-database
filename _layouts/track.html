@@ -119,7 +119,18 @@ layout: default
     {% else %}
         {% assign albumartist = album[0].Artist %}
     {% endif %}
+	{% if albumsection == "singles" or albumsection == "miscellaneous" %}
+	{% for single in album %}
+	    {% if single.AlbumArtist.size > 0 %}
+        {% assign albumartist = single.AlbumArtist %}
+    {% else %}
+        {% assign albumartist = single.Artist %}
+    {% endif %}
+<li><a href="/database/{{ artistslug }}/releases/{{ albumsection }}/#{{ single.Title  | append: single.CatNo | slugify }}" >{{ albumartist }} - {{ single.Title }}</a></li>
+	{% endfor %}
+	{% else %}
 	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ albumartist }} - {{ album[0].Title }}</a></li>
+	{% endif %}
 	{% endif %}
 	{% endfor %}
 

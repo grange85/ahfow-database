@@ -12,8 +12,11 @@
 <div class="w-25 pe-2 pr-2 float-end"><img src="{{ row['Sleeve'] }}" class="img-fluid img-thumbnail" alt="{{ row['Title'] }} sleeve" /></div>
 {% endif %}
 
-<h3 class="card-title">{{ row["Title"] }} <span class="small">({{ row["Label"], {{ row["Date"] }})</h3>
+<h3 class="card-title" id="{{ row["Title"] | append: row["CatNo"] | slugify }}">{{ row["Title"] }} <span class="small">({{ row["Label"] }}, {{ row["Date"] }})</h3>
 <p><em>{{ format }} / {{ row["CatNo"] }}</em></p>
+{% if row["Notes"].size > 0 %}
+<p>{{ row["Notes"] }}</p>
+{% endif %}
 </div>
 <div class="card-text ">
 {% assign tracklists = "A-B-C-D" | split: "-" %}
