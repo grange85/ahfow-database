@@ -5,7 +5,6 @@ layout: default
 
 
 {% assign tracksearch = page.title | downcase | remove: " " | remove: "(" | remove: ")" | remove: "," | remove: "'" | remove: "." | prepend: "|" | append: "|" %}
-{{ tracksearch }}
 {% if page.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Details of the track '{{page.title}}', including, when available, lyrics and guitar chords{% endcapture %}
 {% endif %}
