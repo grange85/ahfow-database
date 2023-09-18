@@ -140,15 +140,33 @@ layout: default
 												{% if track contains '^' %}
 													<li class="text-muted">{{track | remove_first:'^'}}</li>
 												{% else %}
-													<li>
-														<a href="/database/tracks/{{track|slugify}}/">{{track}}</a></li>
+												{% if track contains '[' %}
+									{% assign tracktitle = track | split: " [" %} 
+									{% assign ttitle = tracktitle[0] %}
+									{% assign tnotes = tracktitle[1] | remove: "]" %}
+								{% else %}
+									{% assign ttitle = track %}
+									{% assign tnotes = nil %}
+								{% endif %}
+												<li>
+
+														<a href="/database/tracks/{{ttitle|slugify}}/">{{ttitle}}</a> {% if tnotes %}&nbsp;({{tnotes}}){% endif %}
+</li>
 												{% endif %}
 											{% else %}
 												{% if track.title contains '^' %}
 													<li class="text-muted">{{track.title | remove_first:'^'}}</li>
 												{% else %}
-													<li>
-														<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{track.title}}</a>{% if track.notes %}&nbsp;({{track.notes}}){% endif %}
+								{% if track.title contains '[' %}
+									{% assign tracktitle = track | split: " [" %} 
+									{% assign ttitle = tracktitle[0] %}
+									{% assign tnotes = tracktitle[1] | remove: "]" %}
+								{% else %}
+									{% assign ttitle = track.title %}
+									{% assign tnotes = nil %}
+								{% endif %}
+												<li>
+														<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{ttitle}}</a>{% if tnotes %}&nbsp;({{tnotes}}){% endif %}
 													</li>
 												{% endif %}
 											{% endif %}
