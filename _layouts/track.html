@@ -11,6 +11,7 @@ layout: default
 
 <div class="row">
 	<div class="col-md-12">
+    <h2>{{ page.title }}</h2>
 		<div class="card">
 			<div class="card-header">
 				<h3>Information</h3>
@@ -70,22 +71,6 @@ layout: default
 		</div>
 		{% endif %}
 
-		{% if page.track-guitar %}
-		<div class="card">
-			<div class="card-header">
-				<h3>Guitar</h3>
-			</div>
-			<div class="card-body">
-				<pre>{{page.track-guitar}}</pre>
-			</div>
-		</div>
-		{% endif %}
-	</div>
-</div>
-
-
-<div class="row">
-	<div class="col-md-12">
 		<div class="card">
 			<div class="card-header">
 				<h3>Available on:</h3>
@@ -119,17 +104,17 @@ layout: default
     {% else %}
         {% assign albumartist = album[0].Artist %}
     {% endif %}
-	{% if albumsection == "singles" or albumsection == "miscellaneous" %}
+	{% if albumsection %}
 	{% for single in album %}
 	    {% if single.AlbumArtist.size > 0 %}
         {% assign albumartist = single.AlbumArtist %}
     {% else %}
         {% assign albumartist = single.Artist %}
     {% endif %}
-<li><a href="/database/{{ artistslug }}/releases/{{ albumsection }}/#{{ single.Title  | append: single.CatNo | slugify }}" >{{ albumartist }} - {{ single.Title }}</a></li>
+<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/#{{ single.Title  | append: single.CatNo | slugify }}" >{{ albumartist }} - {{ single.Title }}</a> <em class="text-muted">({{ single.Label }}, {{ single.Date }})</em></li>
 	{% endfor %}
 	{% else %}
-	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ albumartist }} - {{ album[0].Title }}</a></li>
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em class="text-muted">({{ album[0].Label }}, {{ album[0].Date }})</em></li>
 	{% endif %}
 	{% endif %}
 	{% endfor %}
@@ -138,10 +123,6 @@ layout: default
 
 </div>
 </div>
-	</div>
-</div>
-<div class="row">
-	<div class="col-md-12">
 		<div class="card">
 			<div class="card-header">
 				<h3>Played live</h3>
@@ -199,5 +180,18 @@ layout: default
 
 </div>
 </div>
+		{% if page.track-guitar %}
+		<div class="card">
+			<div class="card-header">
+				<h3>Guitar</h3>
+			</div>
+			<div class="card-body">
+				<pre>{{page.track-guitar}}</pre>
+			</div>
+		</div>
+		{% endif %}
+
+
+
 </div>
 </div>
