@@ -150,7 +150,7 @@ layout: default
 								{% endif %}
 												<li>
 
-														<a href="/database/tracks/{{ttitle|slugify}}/">{{ttitle}}</a> {% if tnotes %}&nbsp;({{tnotes}}){% endif %}
+														<a href="/database/tracks/{{ttitle|remove: "'"|slugify}}/">{{ttitle}}</a> {% if tnotes %}&nbsp;({{tnotes}}){% endif %}
 </li>
 												{% endif %}
 											{% else %}
