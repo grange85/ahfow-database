@@ -1,25 +1,16 @@
 ---
 layout: default
 ---
-
-
 {% case page.list %}
 	{% when 'covers' %}
-		{% assign tracks = site.tracks | where: "cover", true | sort: 'track-alpha' %}
-		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
+		{% assign tracks = site.data.discography.tracks | where: "original", true | sort: 'sort-title' %}
 		{% assign page_title = "Covers" %}
-	{% when 'chords' %}
-		{% assign tracks = site.tracks | where: "track-guitar-flag", true | sort: 'track-alpha' %}
-		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
-		{% assign page_title = "Guitar chords" %}
-	{% when 'videos' %}
-		{% assign tracks = site.tracks | where: "video-flag", true | sort: 'track-alpha' %}
-		{% assign tracks = tracks | group_by: "track-alpha"  | sort: 'track-sort' %}
-		{% assign page_title = "Videos" %}
 	{% else %}
-		{% assign tracks = site.tracks | group_by: "track-alpha" | sort: 'name' %}
+		{% assign tracks = site.data.discography.tracks | sort: 'sort-title' %}
 		{% assign page_title = "A-Z of tracks" %}
 {% endcase %}
+{% assign tracks = tracks | group_by: groupby %}
+
 
 <div class="row">
 	<div class="col">
@@ -27,8 +18,6 @@ layout: default
 		    <ul class="navbar-nav mr-auto">
 		      <li class="nav-item {% if page.list == 'full' %}active{%endif%}"><a class="nav-link" href="/database/tracks/">Full list</a></li>
 		      <li class="nav-item {% if page.list == 'covers' %}active{%endif%}"><a class="nav-link" href="/database/tracks/covers/">Covers</a></li>
-		      <li class="nav-item {% if page.list == 'chords' %}active{%endif%}"><a class="nav-link" href="/database/tracks/chords/">Guitar chords</a></li>
-		      <li class="nav-item {% if page.list == 'videos' %}active{%endif%}"><a class="nav-link" href="/database/tracks/videos/">Videos</a></li>
 		    </ul>
 		</nav>
 	</div>
@@ -59,7 +48,7 @@ layout: default
 
 				<ul>
 				{% for track in section.items %}
-					<li><a href="{{ track.url | prepend: site.baseurl }}">{{ track.title }}</a> {% if track.track-author %}<em>({{track.track-author}})</em>{% endif %}{% if cover %} - Originally by: {{track.track-original}}{% endif %}</li>
+				<li><a href="{{ track.slug | prepend: "/tracks/" | prepend: site.baseurl | append: "/" }}">{{ track.title }}</a> {% if track.authors %}<em>({{track.authors}})</em>{% endif %}{% if track.orignal %} - Originally by: {{track.original}}{% endif %} -- {{ track.slug }}</li>
 				{% endfor %}
 				</ul>
 			</div>

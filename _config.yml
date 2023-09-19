@@ -16,9 +16,6 @@ sass:
 
 collections_dir: collections
 collections:
-  tracks:
-    output: true
-    permalink: tracks/:title/
   galaxie-500-releases:
     output: true
     permalink: galaxie-500/releases/:title/
@@ -66,7 +63,13 @@ page_gen:
   name_expr: record['slug'] + "-" + Date.parse(record['date']).strftime('%Y-%m-%d') + record['disambiguate'].to_s + '-' + record['venue-slug']
   title_expr: record['artistname'] + " / " + Date.parse(record['date']).strftime("%-d %B %Y") + " - " + record['venue']
   page_data_prefix: ahfow 
-
+- data: discography.tracks
+  template: track
+  dir: tracks
+  index_files: true
+  name_expr: record['slug']
+  title_expr: record['title']
+  page_data_prefix: ahfow
 
 # Build settings
 future: true
