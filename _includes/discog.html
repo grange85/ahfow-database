@@ -35,7 +35,7 @@
 							{% if ttitle contains '^' %}
 								{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
 							{% else %}
-								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | slugify }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
+								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | remove: "." | slugify }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
 							{% endif %}
 							</li>
   {% endfor %}
