@@ -83,10 +83,10 @@ layout: default
 							{% else %}
 							{% if track.title contains '[' %}{% assign tracktitle = track.title | split "[" %} {% assign ttitle = tracktitle[0] %}{% assign tnotes = tracktitle[1] | remove: "]" %} 
 
-								<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{ttitle|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}</a> (===)
+								<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{ttitle|replace: '&','and' | remove: '.' | slugify}}{% endif %}/">{{track.title}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}</a> (===)
 
 							{% else %}
-								<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and'|slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a> (+++)
+								<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|replace: '&','and' | remove: '.' | slugify}}{% endif %}/">{{track.title}}{% if track.notes %}&nbsp;({{track.notes}}){% endif %}</a> (+++)
 								{% endif %}
 							{% endif %}
 							{% if track.author %}
