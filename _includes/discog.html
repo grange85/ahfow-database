@@ -12,7 +12,7 @@
 <div class="w-25 pe-2 pr-2 float-end"><img src="{{ row['Sleeve'] }}" class="img-fluid img-thumbnail" alt="{{ row['Title'] }} sleeve" /></div>
 {% endif %}
 
-<h3 class="card-title" id="{{ row["Title"] | append: row["CatNo"] | slugify }}">{{ row["Title"] }} <span class="small">({{ row["Label"] }}, {{ row["Date"] }})</h3>
+<h3 class="card-title" id="{{ row["Title"] | append: row["CatNo"] | slugify: "latin" }}">{{ row["Title"] }} <span class="small">({{ row["Label"] }}, {{ row["Date"] }})</h3>
 <p><em>{{ format }} / {{ row["CatNo"] }}</em></p>
 {% if row["Notes"].size > 0 %}
 <p>{{ row["Notes"] }}</p>
@@ -35,7 +35,7 @@
 							{% if ttitle contains '^' %}
 								{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
 							{% else %}
-								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | remove: "." | slugify }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
+								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | remove: "." | slugify: "latin" }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
 							{% endif %}
 							</li>
   {% endfor %}

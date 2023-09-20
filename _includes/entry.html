@@ -17,7 +17,7 @@
 		        	<p class="float-left pr-3">in categories: </p>
 		        		<ul class="categories list-inline">
 			        	{% for category in page.categories %}
-			        		<li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+			        		<li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify: "latin" | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
 				        {% endfor %}
 				        </ul>
 		    	    {% endif %}

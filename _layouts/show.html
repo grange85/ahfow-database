@@ -150,7 +150,7 @@ layout: default
 								{% endif %}
 												<li>
 
-														<a href="/database/tracks/{{ttitle|remove: "'"|slugify}}/">{{ttitle}}</a> {% if tnotes %}&nbsp;({{tnotes}}){% endif %}
+														<a href="/database/tracks/{{ttitle|remove: "'"|slugify: "latin"}}/">{{ttitle}}</a> {% if tnotes %}&nbsp;({{tnotes}}){% endif %}
 </li>
 												{% endif %}
 											{% else %}
@@ -166,7 +166,7 @@ layout: default
 									{% assign tnotes = nil %}
 								{% endif %}
 												<li>
-														<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify}}{% endif %}/">{{ttitle}}</a>{% if tnotes %}&nbsp;({{tnotes}}){% endif %}
+														<a href="/database/tracks/{% if track.link %}{{track.link}}{% else %}{{track.title|slugify: "latin"}}{% endif %}/">{{ttitle}}</a>{% if tnotes %}&nbsp;({{tnotes}}){% endif %}
 													</li>
 												{% endif %}
 											{% endif %}

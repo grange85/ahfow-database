@@ -78,10 +78,10 @@ layout: default
     {% else %}
         {% assign albumartist = single.Artist %}
     {% endif %}
-<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/#{{ single.Title  | append: single.CatNo | slugify }}" >{{ albumartist }} - {{ single.Title }}</a> <em class="text-muted">({{ single.Label }}, {{ single.Date }})</em></li>
+<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/#{{ single.Title  | append: single.CatNo | slugify: "latin" }}" >{{ albumartist }} - {{ single.Title }}</a> <em class="text-muted">({{ single.Label }}, {{ single.Date }})</em></li>
 	{% endfor %}
 	{% else %}
-	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em class="text-muted">({{ album[0].Label }}, {{ album[0].Date }})</em></li>
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em class="text-muted">({{ album[0].Label }}, {{ album[0].Date }})</em></li>
 	{% endif %}
 	{% endif %}
 	{% endfor %}
