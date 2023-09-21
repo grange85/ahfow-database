@@ -43,7 +43,7 @@ layout: default
 		<h2 class="display-3">Studio albums</h2>
 			{% for rel in studio %}
 			{% assign release = site.data.discography[rel] | find: "Format", "MASTER" %}
-<div class="card col-md-4 col-xl-12">
+<div class="card col-lg-4">
   <img src="{{ release["Sleeve"] }}" class="card-img-top" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
