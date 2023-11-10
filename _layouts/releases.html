@@ -48,7 +48,7 @@ layout: default
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
-    <p class="card-text">{{ release["Notes"] }}</p>
+    <p class="card-text">{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
 
@@ -66,7 +66,7 @@ layout: default
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
-    <p class="card-text">{{ release["Notes"] }}</p>
+    <p class="card-text">{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
@@ -83,7 +83,7 @@ layout: default
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
-    <p class="card-text">{{ release["Notes"] }}</p>
+    <p class="card-text">{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
@@ -100,7 +100,7 @@ layout: default
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
-    <p class="card-text">{{ release["Notes"] }}</p>
+    <p class="card-text">{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>
@@ -117,7 +117,7 @@ layout: default
 <div class="card-body">
     <h3 class="card-title">{{ release["Title"] }}</h3>
     {% if release["Notes"] %}
-    <p class="card-text">{{ release["Notes"] }}</p>
+    <p class="card-text">{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/" class="btn btn-outline-primary stretched-link">{{ release["Title"] }} details</a>
     </div>

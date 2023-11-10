@@ -15,7 +15,7 @@
 <h3 class="card-title" id="{{ row["Title"] | append: row["CatNo"] | slugify: "latin" }}">{{ row["Title"] }} <span class="small">({{ row["Label"] }}, {{ row["Date"] }})</h3>
 <p><em>{{ format }} / {{ row["CatNo"] }}</em></p>
 {% if row["Notes"].size > 0 %}
-<p>{{ row["Notes"] }}</p>
+<p>{{ row["Notes"] | replace: "\n", "<br>" }}</p>
 {% endif %}
 </div>
 <div class="card-text ">
@@ -33,7 +33,7 @@
 							{% endif %}
 							<li class="list-group-item">
 							{% if ttitle contains '^' %}
-								{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
+							{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
 							{% else %}
 								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | remove: "." | slugify: "latin" }}/">{{ttitle}}</a>{% if tnotes %}<em class="text-muted">&nbsp;({{tnotes}})</em>{% endif %}
 							{% endif %}
