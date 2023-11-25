@@ -1,0 +1,46 @@
+name: Manual deploy AHFoW database
+on:
+  push:
+    branches:
+    - main
+  schedule:
+    # Schedule to post every day
+    - cron: '37 5 * * *'
+jobs:
+  deployment:
+    runs-on: ubuntu-20.04
+    environment:
+      name: 'production'
+      url: https://${{ vars.S3_Bucket }}
+    steps:
+    - uses: actions/checkout@v3
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v3
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1 # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+    # Standard usage
+    - name: Build site
+      run: |
+        bundle exec jekyll build --config _config.yml,_config_production.yml
+
+    # Example deployment: Push to S3
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1-node16
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1
+
+    - name: Sync output to S3
+      run: |
+        aws s3 sync --size-only --delete --exclude '.sass-cache' _deploy s3://${{ vars.S3_BUCKET }}/database/
+        aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.FULLOFWISHES_WWW_DISTRIBUTION_ID }} --paths "/*"
