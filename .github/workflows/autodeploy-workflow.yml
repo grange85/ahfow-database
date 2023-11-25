@@ -1,4 +1,4 @@
-name: Manual deploy AHFoW database
+name: Auto deploy AHFoW database
 on:
   push:
     branches:
