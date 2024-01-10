@@ -1,5 +1,5 @@
 # Site settings
-title: 'A Head Full of Wishes'
+title: 'A Head Full of Wishes: Discography / Gigography'
 subtitle: 'Discography / Gigography'
 email: andy@fullofwishes.co.uk
 description: >
@@ -10,9 +10,13 @@ url: "https://www.fullofwishes.co.uk" # the base hostname and protocol for your 
 image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
 twitter_username: ahfow
 github_username:  grange85
-
-sass:
-  sass_dir: _sass
+theme: no-style-please
+theme_config:
+  appearance: "dark"
+  back_home_text: "<-- back to database home"
+  main_site_back_text: "<-- A Head Full of Wishes home"
+  date_format: "%Y-%m-%d"
+  show_description: true
 
 collections_dir: collections
 collections:
@@ -91,6 +95,7 @@ exclude: [
     'deploy.sh',
     '_deploy'
   ]
-plugins: [
-  'jekyll-datapage-generator'
-      ]
+plugins:
+ - jekyll-datapage-generator
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -1,0 +1,34 @@
+entries:
+  - title: A Head Full of Wishes
+    url: /
+    entries:
+      - title: Discography / Gigography
+        entries:
+          - title: Galaxie 500
+            entries:
+            - title: galaxie 500 releases
+              url: /database/galaxie-500/releases/
+            - title: galaxie 500 shows
+              url: /database/galaxie-500/shows/
+          - title: Luna  
+            entries:
+            - title: Luna releases
+              url: /database/luna/releases/
+            - title: Luna shows
+              url: /database/luna/shows/
+          - title: Damon & Naomi
+            entries:
+            - title: Damon & Naomi releases
+              url: /database/damon-and-naomi/releases/
+            - title: Damon & Naomi shows
+              url: /database/damon-and-naomi/shows/
+          - title: Dean & Britta / Dean Wareham
+            entries:
+            - title: Dean & Britta releases
+              url: /database/dean-and-britta/releases/
+            - title: Dean Wareham releases
+              url: /database/dean-wareham/releases/
+            - title: Dean & Britta / Dean Wareham shows
+              url: /database/dean-and-britta/shows/
+
+

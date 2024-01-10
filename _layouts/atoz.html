@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{%-include header.html-%}
+{%-include back_link.html-%}
+
 {% case page.list %}
 	{% when 'covers' %}
 		{% assign tracks = site.data.discography.tracks | where: "original", true | sort: 'sort-title' %}
@@ -12,27 +15,27 @@ layout: default
 {% assign tracks = tracks | group_by: groupby %}
 
 
-<div class="row">
-	<div class="col">
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		    <ul class="navbar-nav mr-auto">
-		      <li class="nav-item {% if page.list == 'full' %}active{%endif%}"><a class="nav-link" href="/database/tracks/">Full list</a></li>
-		      <li class="nav-item {% if page.list == 'covers' %}active{%endif%}"><a class="nav-link" href="/database/tracks/covers/">Covers</a></li>
+<div>
+	<div>
+		<nav>
+		    <ul>
+		      <li class="nav-item {% if page.list == 'full' %}active{%endif%}"><a href="/database/tracks/">Full list</a></li>
+		      <li class="nav-item {% if page.list == 'covers' %}active{%endif%}"><a href="/database/tracks/covers/">Covers</a></li>
 		    </ul>
 		</nav>
 	</div>
 </div>
 
 
-<div class="row">
-	<div class="col-md-12">
+<div>
+	<div>
 
-	<div class="" >
-	  	<div class="">
-	  		<ul class="list-inline">
+	<div >
+	  	<div>
+	  		<ul>
 			{% for section in tracks %}	
-				<li class="list-inline-item">
-					<a class="nav-link" href="#{{section.name}}">{{section.name}}</a>
+				<li>
+					<a href="#{{section.name}}">{{section.name}}</a>
 				</li>
 			{% endfor %}
 			</ul>
@@ -40,11 +43,11 @@ layout: default
 	</div>
 
 {% for section in tracks %}
-		<div class="card" id="{{section.name}}">
-			<div class="card-header">
+		<div id="{{section.name}}">
+			<div>
 				<h3>{{ section.name }}</h3>
 			</div>
-			<div class="card-body">
+			<div>
 
 				<ul>
 				{% for track in section.items %}

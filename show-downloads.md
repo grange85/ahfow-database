@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Full shows to stream or download
 categories: primary
 ---

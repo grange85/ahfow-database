@@ -1,6 +1,6 @@
 ---
 layout: releases 
-title : Releases
+title : Galaxie 500 releases
 artistslug: galaxie-500
 categories: primary
 position: database-3
