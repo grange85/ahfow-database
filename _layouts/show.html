@@ -1,30 +1,33 @@
 ---
 layout: default
 ---
+{%-include header.html-%}
+{%-include back_link.html-%}
+
 {% assign day = page.ahfow.date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.ahfow.date|date: "%B %Y"}}{% endcapture %}
 
-<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span class="small">{{ page.ahfow.venue }} - {{ description }}</h2>
+<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span>{{ page.ahfow.venue }} - {{ description }}</h2>
 
-				<div class="row">
-					<div class="col">
+				<div>
+					<div>
 								{% if page.ahfow.cancelled %}
-								<div class="alert alert-danger" role="alert">
+								<div role="alert">
 								Cancelled  
 								 </div>
 								 {% endif %}
 				</div>
 				</div>
 
-<div class="row">
-					<div class="col">
-							<div class="card mb-3">
-							<div class="card-header bg-light" id="information">
+<div>
+					<div>
+							<div>
+							<div id="information">
 								<h3>Information</h3>
 							</div>
 
-							<div class="card-body">
-								<table class="table mb-0">
-							<tr class="border-top-0"><th>Artist</th><td>{% if page.ahfow.artistname %}{{page.ahfow.artistname}}{% else %}{{artist.name}}{% endif %}</td></tr>
+							<div>
+								<table>
+							<tr><th>Artist</th><td>{% if page.ahfow.artistname %}{{page.ahfow.artistname}}{% else %}{{artist.name}}{% endif %}</td></tr>
 
 							<tr><th>Date</th><td>{{ ordinaldate }}</td></tr>
 							<tr><th>Venue</th><td>
@@ -58,16 +61,16 @@ layout: default
 
 
 						{% if page.ahfow.notes != "" %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header bg-light" id="notes">
+						<div>
+							<div>
+								<div>
+									<div id="notes">
 										<h3>Notes</h3>
 									</div>
-									<div class="card-body">
+									<div>
 										<p>{{ page.ahfow.notes }}</p>
 									</div>
-						  	<div class="card-footer text-muted text-right">
+						  	<div>
     							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
@@ -77,20 +80,20 @@ layout: default
 
 						{% if page.ahfow.performers %}
                         {% assign performers = page.ahfow.performers | split: "|" %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header bg-light" id="performers">
+						<div>
+							<div>
+								<div>
+									<div id="performers">
 										<h3>Performers</h3>
 									</div>
-									<div class="card-body">
+									<div>
 										<ul>
 										{% for performer in performers %}
 											<li>{{ performer }}</li>
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div class="card-footer text-muted text-right">
+						  	<div>
     							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
@@ -100,20 +103,20 @@ layout: default
 
 
 						{% if page.ahfow.support %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header bg-light" id="support">
+						<div>
+							<div>
+								<div>
+									<div id="support">
 										<h3>Support</h3>
 									</div>
-									<div class="card-body">
+									<div>
 										<ul>
 										{% for act in page.ahfow.support %}
 												<li>{{act}}</li>
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div class="card-footer text-muted text-right">
+						  	<div>
     							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
@@ -125,20 +128,20 @@ layout: default
 
 						{% if page.ahfow.setlist %}
                         {% assign setlist = page.ahfow.setlist | split: "|" %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header bg-light" id="setlist">
+						<div>
+							<div>
+								<div>
+									<div id="setlist">
 										<h3>Setlist</h3>
-										{% if page.ahfow.setlist-source %}<p class="text-muted"><small>source: {{ page.ahfow.setlist-source }}</small></p>{% endif %}
+										{% if page.ahfow.setlist-source %}<p><small>source: {{ page.ahfow.setlist-source }}</small></p>{% endif %}
 									</div>
-									<div class="card-body">
+									<div>
 										<ul>
 										{% for track in setlist %}
 											{% capture hastrack %}{{track.title}}{% endcapture %}
 											{% if hastrack == '' %}
 												{% if track contains '^' %}
-													<li class="text-muted">{{track | remove_first:'^'}}</li>
+													<li>{{track | remove_first:'^'}}</li>
 												{% else %}
 												{% if track contains '[' %}
 									{% assign tracktitle = track | split: " [" %} 
@@ -155,7 +158,7 @@ layout: default
 												{% endif %}
 											{% else %}
 												{% if track.title contains '^' %}
-													<li class="text-muted">{{track.title | remove_first:'^'}}</li>
+													<li>{{track.title | remove_first:'^'}}</li>
 												{% else %}
 								{% if track.title contains '[' %}
 									{% assign tracktitle = track | split: " [" %} 
@@ -173,7 +176,7 @@ layout: default
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div class="card-footer text-muted text-right">
+						  	<div>
     							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
@@ -184,21 +187,21 @@ layout: default
 
 
 						{% if page.ahfow.poster-url %}
-						<div class="row">
-							<div class="col">
-								<div class="card mb-3">
-									<div class="card-header bg-info" id="poster">
+						<div>
+							<div>
+								<div>
+									<div id="poster">
 										<h3>Poster</h3>
 									</div>
-									<div class="card-body">
-										<figure class="figure">
-											<img class="img-fluid" src="{{page.ahfow.poster-url}}" alt="Poster for {{page.ahfow.date|date: '%-d %B %Y'}} at {{ page.ahfow.venue }}" />
-											<figcaption class="figure-caption">
+									<div>
+										<figure>
+											<img src="{{page.ahfow.poster-url}}" alt="Poster for {{page.ahfow.date|date: '%-d %B %Y'}} at {{ page.ahfow.venue }}" />
+											<figcaption>
 												Poster for {{page.ahfow.date|date: "%-d %B %Y"}} at {{ page.ahfow.venue }}
 											</figcaption>
 										</figure>
 									</div>
-						  	<div class="card-footer text-muted text-right">
+						  	<div>
     							<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>

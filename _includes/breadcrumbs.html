@@ -2,22 +2,22 @@
 {% assign artistlevel = levels[1] %}
 {% assign artist = site.data.artists[artistlevel] %}
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-<div class="row">
-	<div class="col">
+<div>
+	<div>
 		<nav aria-label="breadcrumb">
-			<ul class="breadcrumb">
-				<li class="breadcrumb-item"><a href="/">Home</a></li>
+			<ul>
+				<li><a href="/">Home</a></li>
 				{% if levels.size == 0 %}
-                <li class="breadcrumb-item active">Discography / Gigography</li>
+                <li>Discography / Gigography</li>
                 {% else %}
-				<li class="breadcrumb-item"><a href="/database/">Discography / Gigography</a></li>
+				<li><a href="/database/">Discography / Gigography</a></li>
                 {% endif %}
 	
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
-				<li class="breadcrumb-item active">{% if artist and forloop.index == 1 %}{{ artist.name }}{% elsif page.title  %}{{ page.title}}{% else %}{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}{% endif %}</li>
+				<li>{% if artist and forloop.index == 1 %}{{ artist.name }}{% elsif page.title  %}{{ page.title}}{% else %}{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}{% endif %}</li>
 	    {% else %}
-				<li class="breadcrumb-item"><a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if artist and forloop.index == 1 %}{{ artist.name }}{% else %}{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}{% endif %}</a></li>
+				<li><a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if artist and forloop.index == 1 %}{{ artist.name }}{% else %}{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}{% endif %}</a></li>
 			  {% endif %}
 			  {% endfor %}
 			</ul>

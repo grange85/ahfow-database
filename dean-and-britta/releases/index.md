@@ -1,6 +1,6 @@
 ---
 layout: releases 
-title : Releases
+title : Dean & Britta releases
 artistslug: dean-and-britta
 categories: primary
 ---

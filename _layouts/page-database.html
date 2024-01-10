@@ -6,12 +6,12 @@ layout: default
 	{% assign page_title = page.title %}
 
 				{% if page.categories == "primary" %}
-				<div class="row">
-					<div class="col">
-						<img class="centre-block img-fluid" src="{{artist.image}}" alt="{{artist.name}} picture" />
-							<div class="list-group">
-								<a class="list-group-item list-group-item-action" href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a>
-								<a class="list-group-item list-group-item-action" href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a>
+				<div>
+					<div>
+						<img src="{{artist.image}}" alt="{{artist.name}} picture" />
+							<div>
+								<a href="/database/{{artist.slug}}/releases/" >{{artist.name}} discography</a>
+								<a href="/database/{% if artist.shows %}{{artist.shows}}{% else %}{{artist.slug}}{% endif %}/shows/" >{% if artist.sectionname %}{{artist.sectionname}}{% else %}{{artist.name}}{% endif %} shows</a>
 							</div>
 					</div>
 				</div>

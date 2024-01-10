@@ -1,5 +1,5 @@
 ---
-layout: page-database
+layout: page-db
 title : Dean Wareham 
 artistslug: dean-wareham
 categories: primary

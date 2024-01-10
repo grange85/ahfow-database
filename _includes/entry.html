@@ -1,8 +1,8 @@
-		<div class="card">
-			<div class="card-header"><h2>{% if page.series-title %}<span class="text-muted text-uppercase small">{{ page.series-title }}</span><br/> {% endif %}{{ page.title }}</h2>
+		<div>
+			<div><h2>{% if page.series-title %}<span>{{ page.series-title }}</span><br/> {% endif %}{{ page.title }}</h2>
 			</div>
-				<div class="card-body">
-		    	    <p class="byline">
+				<div>
+		    	    <p>
 		        	{% if page.collection == "articles" %}Written by 
 		        	{{page.author.display_name}} {% if page.source %}<em> - {{page.source.name}}, {{page.source.publication_date}}</em>{% endif %}
 		        	{% else %}
@@ -14,23 +14,23 @@
 		        	 {% endif %}
 		        	</p>
 		        	{% if page.categories %}
-		        	<p class="float-left pr-3">in categories: </p>
-		        		<ul class="categories list-inline">
+		        	<p>in categories: </p>
+		        		<ul>
 			        	{% for category in page.categories %}
-			        		<li class="list-inline-item"><a class="badge badge-pill badge-primary" href="{{ category | slugify: "latin" | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
+			        		<li><a href="{{ category | slugify: "latin" | prepend: '/category/' | append: '/' }}">{{ category }}</a></li>
 				        {% endfor %}
 				        </ul>
 		    	    {% endif %}
 				
-					<article class="post-content">
+					<article>
 						{{ content }}
 					</article>
 					{% if page.related %}
-					<div class="card">
-						  <div class="card-header">
-						    <p class="card-title">Related links</p>
+					<div>
+						  <div>
+						    <p>Related links</p>
 						  </div>
-						  <div class="card-body">
+						  <div>
 							  <ul>
 							  {% for page in page.related %}
 							    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
@@ -42,8 +42,8 @@
 
 
 				{% if page.photos %}
-				<div class="row">
-					<div class="col-md-12">
+				<div>
+					<div>
 						<h3>Photos</h3>
 					</div>
 				</div>

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{%-include header.html-%}
+{%-include back_link.html-%}
+
 {% assign page_title = page.ahfow.title %}
 
 
@@ -9,14 +12,14 @@ layout: default
 	{% capture description %}Details of the track '{{page.title}}', including, when available, lyrics.{% endcapture %}
 {% endif %}
 
-<div class="row">
-	<div class="col-md-12">
+<div>
+	<div>
     <h2>{{ page.ahfow.title }}</h2>
-		<div class="card">
-			<div class="card-header">
+		<div>
+			<div>
 				<h3>Information</h3>
 			</div>
-			<div class="card-body">
+			<div>
 				<ul>
 					<li>Title: {{page.ahfow.title}}</li>
 					<li>Written by: {{page.ahfow.authors}}</li>
@@ -28,21 +31,21 @@ layout: default
 		</div>
 
 		{% if page.ahfow.lyrics %}
-		<div class="card">
-			<div class="card-header">
+		<div>
+			<div>
 				<h3>Lyrics</h3>
 			</div>
-			<div class="card-body">
+			<div>
 				{{page.ahfow.lyrics | newline_to_br}}
 			</div>
 		</div>
 		{% endif %}
 
-		<div class="card">
-			<div class="card-header">
+		<div>
+			<div>
 				<h3>Available on:</h3>
 			</div>
-			<div class="card-body">
+			<div>
 	<ul>
 	{% for album_hash in site.data.discography %}
 	{% assign album = album_hash[1] | where_exp: "album", "album.Track-index contains tracksearch" %}
@@ -78,10 +81,10 @@ layout: default
     {% else %}
         {% assign albumartist = single.Artist %}
     {% endif %}
-<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/#{{ single.Title  | append: single.CatNo | slugify: "latin" }}" >{{ albumartist }} - {{ single.Title }}</a> <em class="text-muted">({{ single.Label }}, {{ single.Date }})</em></li>
+<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/#{{ single.Title  | append: single.CatNo | slugify: "latin" }}" >{{ albumartist }} - {{ single.Title }}</a> <em>({{ single.Label }}, {{ single.Date }})</em></li>
 	{% endfor %}
 	{% else %}
-	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em class="text-muted">({{ album[0].Label }}, {{ album[0].Date }})</em></li>
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em>({{ album[0].Label }}, {{ album[0].Date }})</em></li>
 	{% endif %}
 	{% endif %}
 	{% endfor %}
@@ -90,11 +93,11 @@ layout: default
 
 </div>
 </div>
-		<div class="card">
-			<div class="card-header">
+		<div>
+			<div>
 				<h3>Played live</h3>
 			</div>
-			<div class="card-body">
+			<div>
 {% for artistslugs in site.data.artists %}
 	{% assign artist = artistslugs[0] %}
 	{% assign artist = site.data.artists[artist] %}
@@ -111,9 +114,9 @@ layout: default
 			{% endcase %}
 			{% if shows.size > 0 %}
 			<h4>by {{ artist.name }}<br>
-				<p class="text-muted"><small>This is collected from set list data which is incomplete</small></p>
+				<p><small>This is collected from set list data which is incomplete</small></p>
 			</h4>
-						<table class="table table-striped">
+						<table>
 						{% for show in shows %}
 							{% unless show.cancelled %}
 							{% assign day = show.date|date: "%-d"  %}
@@ -121,16 +124,16 @@ layout: default
 							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date|date: "%B %Y"}}{% endcapture %}
 
 						<tr>
-							<th class="col-md-3">{{ ordinaldate }}</th>
-							<td class="col-md-7"><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
-          {% if show.cancelled %}<span class="badge text-bg-danger">Cancelled</span>{% endif %}
-          {% if show.artistname %}<span class="badge text-bg-success">{{ show.artistname }}</span>
-          {% else %}<span class="badge text-bg-success">{{ artist.name }}</span>
+							<th>{{ ordinaldate }}</th>
+							<td><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+          {% if show.cancelled %}<span>Cancelled</span>{% endif %}
+          {% if show.artistname %}<span>{{ show.artistname }}</span>
+          {% else %}<span>{{ artist.name }}</span>
           {% endif %}
-          {% if show.series %}<span class="badge text-bg-primary">{{ show.series }}</span>{% endif %}
-		  {% if show.setlist %}<span class="badge text-bg-info">setlist</span>{% endif %}
-		  {% if show.poster-url %}<span class="badge text-bg-info">poster</span>{% endif %}
-						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="badge text-bg-info">{{ audio[0] | downcase }}</span>{% endif %}
+          {% if show.series %}<span>{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span>setlist</span>{% endif %}
+		  {% if show.poster-url %}<span>poster</span>{% endif %}
+						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span>{{ audio[0] | downcase }}</span>{% endif %}
 							</td>
 						</tr>
 						{% endunless %}
