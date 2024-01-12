@@ -19,6 +19,7 @@ theme_config:
   date_format: "%Y-%m-%d"
   show_description: true
 plausible_domain: fullofwishes.co.uk
+goat_counter: fullofwishes
 collections_dir: collections
 collections:
   galaxie-500-releases:
