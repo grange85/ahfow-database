@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{%-include header.html-%}
 {%-include back_link.html-%}
 
 {% assign releases = site.data.discography[page.datafile]  %}
