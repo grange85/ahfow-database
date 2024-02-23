@@ -8,7 +8,8 @@ description: >
   With news, articles and lists of releases and past and future shows.
 baseurl: "/database" # the subpath of your site, e.g. /blog/
 url: "https://www.fullofwishes.co.uk" # the base hostname and protocol for your site
-image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image.jpg
+banner_image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x200.jpg
+image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
 twitter_username: ahfow
 github_username:  grange85
 theme: no-style-please
