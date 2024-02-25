@@ -28,6 +28,10 @@ layout: default
 								<table>
 							<tr><th>Artist</th><td>{% if page.ahfow.artistname %}{{page.ahfow.artistname}}{% else %}{{artist.name}}{% endif %}</td></tr>
 
+							{% if page.ahfow.series %}
+								<tr><th>Series</th><td>{{page.ahfow.series}}</a></td></tr>
+							{% endif %}
+
 							<tr><th>Date</th><td>{{ ordinaldate }}</td></tr>
 							<tr><th>Venue</th><td>
 						 {{page.ahfow.venue}}
@@ -50,6 +54,9 @@ layout: default
 						{% endunless %}
 							{% if page.ahfow.venue-website %}
 								<tr><th>Links</th><td><a href="{{page.ahfow.venue-website}}" target="_blank">Venue details</a></td></tr>
+							{% endif %}
+							{% if page.ahfow.radio %}
+							<tr><th>&nbsp;</th><td>Radio</td></tr>
 							{% endif %}
 						{% endif %}
 					</table>

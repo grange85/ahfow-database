@@ -62,14 +62,14 @@ layout: default
 						<tr>
 							<th>{{ ordinaldate }}</th>
 							<td><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
-          {% if show.cancelled %}<span>Cancelled</span>{% endif %}
-          {% if show.artistname %}<span>{{ show.artistname }}</span>
-          {% else %}<span>{{ artist.name }}</span>
+          {% if show.cancelled %}<span class="show-details">Cancelled</span>{% endif %}
+          {% if show.artistname %}<span class="show-details">{{ show.artistname }}</span>
+          {% else %}<span class="show-details">{{ artist.name }}</span>
           {% endif %}
-          {% if show.series %}<span>{{ show.series }}</span>{% endif %}
-		  {% if show.setlist %}<span>setlist</span>{% endif %}
-		  {% if show.poster-url %}<span>poster</span>{% endif %}
-						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span>{{ audio[0] | downcase }}</span>{% endif %}
+          {% if show.series %}<span class="show-details">{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span class="show-details">setlist</span>{% endif %}
+		  {% if show.poster-url %}<span class="show-details">poster</span>{% endif %}
+						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="show-details">{{ audio[0] | downcase }}</span>{% endif %}
 							</td>
 						</tr>
 						{% endunless %}
