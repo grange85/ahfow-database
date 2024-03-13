@@ -2,16 +2,16 @@
 layout: default
 ---
 {%-include back_link.html-%}
-
+{{ page.list }}
 {% case page.list %}
 	{% when 'covers' %}
-		{% assign tracks = site.data.discography.tracks | where: "original", true | sort: 'sort-title' %}
+		{% assign tracks = site.data.discography.tracks | where: "original", empty | sort: 'sort-title' %}
 		{% assign page_title = "Covers" %}
 	{% else %}
 		{% assign tracks = site.data.discography.tracks | sort: 'sort-title' %}
 		{% assign page_title = "A-Z of tracks" %}
 {% endcase %}
-{% assign tracks = tracks | group_by: groupby %}
+{% assign tracks = tracks | group_by: "group-by" %}
 
 
 <div>
@@ -50,9 +50,10 @@ layout: default
 
 				<ul>
 				{% for track in section.items %}
-				<li><a href="{{ track.slug | prepend: "/tracks/" | prepend: site.baseurl | append: "/" }}">{{ track.title }}</a> {% if track.authors %}<em>({{track.authors}})</em>{% endif %}{% if track.orignal %} - Originally by: {{track.original}}{% endif %} -- {{ track.slug }}</li>
+				<li><a href="{{ track.slug | prepend: "/tracks/" | prepend: site.baseurl | append: "/" }}">{{ track.title }}</a> {% if track.authors %}<em>({{track.authors}})</em>{% endif %}{% if track.original %} - Originally by: {{track.original}}{% endif %}</li>
 				{% endfor %}
 				</ul>
+				<a href="#top">top</a>
 			</div>
 		</div>
 	
