@@ -30,5 +30,13 @@ entries:
               url: /database/dean-wareham/releases/
             - title: Dean & Britta / Dean Wareham shows
               url: /database/dean-and-britta/shows/
+          - title: Lists
+            entries:
+            - title: A-Z of tracks
+              url: /database/tracks/
+            - title: A-Z of cover versions
+              url: /database/tracks/covers/
+            - title: Full shows to stream or download
+              url: /database/shows/downloads/
 
 

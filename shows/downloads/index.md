@@ -3,7 +3,6 @@ layout: page
 title: Full shows to stream or download
 categories: primary
 ---
-<h2>{{ page.title }}</h2>
 	{% for artist in site.data.artists %}
     {% capture artistslug %}{{ artist | first}}{% endcapture %}
     {% assign currentartist = site.data.artists[artistslug] %}
