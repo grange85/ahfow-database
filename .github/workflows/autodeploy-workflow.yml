@@ -10,9 +10,9 @@ jobs:
       name: 'production'
       url: https://${{ vars.S3_Bucket }}
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@v3
+    - uses: actions/cache@v4
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -31,7 +31,7 @@ jobs:
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v1-node16
+      uses: aws-actions/configure-aws-credentials@v4
       with:
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
