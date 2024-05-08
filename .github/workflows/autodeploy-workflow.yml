@@ -3,9 +3,6 @@ on:
   push:
     branches:
     - main
-  schedule:
-    # Schedule to post every day
-    - cron: '37 5 * * *'
 jobs:
   deployment:
     runs-on: ubuntu-20.04
