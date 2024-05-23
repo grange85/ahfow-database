@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/grange85/no-style-please
-  revision: fbfff7a82ed1e68ca0d45feade2b76e6e2c055aa
+  revision: 9158c83b1a27885c150ef9d89103e3fc0f042ac3
   specs:
     no-style-please (0.4.7)
       jekyll (~> 4.3.3)
@@ -20,10 +20,10 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (4.26.0-x86_64-linux)
+    google-protobuf (4.26.1-x86_64-linux)
       rake (>= 13)
     http_parser.rb (0.8.0)
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.3)
       addressable (~> 2.4)
@@ -63,16 +63,16 @@ GEM
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.4)
-    rake (13.1.0)
+    public_suffix (5.0.5)
+    rake (13.2.1)
     rb-fsevent (0.11.2)
-    rb-inotify (0.10.1)
+    rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.2.8)
       strscan (>= 3.0.9)
-    rouge (4.2.0)
+    rouge (4.2.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.72.0-x86_64-linux-gnu)
+    sass-embedded (1.77.2-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     strscan (3.1.0)
     terminal-table (3.0.2)
