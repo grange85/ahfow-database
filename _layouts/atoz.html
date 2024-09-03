@@ -30,15 +30,15 @@ layout: default
 	<div>
 
 	<div >
-	  	<div>
+	  	<nav class="show-list">
 	  		<ul>
 			{% for section in tracks %}	
-				<li style="display:inline;">
+				<li>
 					<a href="#{{section.name}}">{{section.name}}</a>
 				</li>
 			{% endfor %}
 			</ul>
-		</div>
+		</nav>
 	</div>
 
 {% for section in tracks %}

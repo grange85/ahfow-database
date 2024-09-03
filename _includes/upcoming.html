@@ -8,11 +8,11 @@
       <tr>
         <th>{{ ordinaldate }}</th>
         <td><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
-          {% if show.cancelled %}<span>Cancelled</span>{% endif %}
-          {% if show.artistname %}<span>{{ show.artistname }}</span>
-          {% else %}<span>{{ artist.name }}</span>
+          {% if show.cancelled %}<span class="show-details">Cancelled</span>{% endif %}
+          {% if show.artistname %}<span class="show-details">{{ show.artistname }}</span>
+          {% else %}<span class="show-details">{{ artist.name }}</span>
           {% endif %}
-          {% if show.series %}<span>{{ show.series }}</span>{% endif %}
+          {% if show.series %}<span class="show-details">{{ show.series }}</span>{% endif %}
         </td>
       </tr>{% endif %}{% endfor %}
 </table>
