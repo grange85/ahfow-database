@@ -6,3 +6,14 @@ span.show-details {
 	text-transform: uppercase;
 }
 
+nav.show-list ul {
+  list-style-type: none; 
+  margin:0; 
+  padding:0;
+}
+
+nav.show-list ul li {
+  margin:0; 
+  padding:0;
+  display:inline;
+}
