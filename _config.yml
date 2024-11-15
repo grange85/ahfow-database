@@ -14,6 +14,12 @@ twitter_username: ahfow
 github_username:  grange85
 theme: no-style-please
 favicon: "favicon-32x32.png"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-site-image-1280x720.jpg
+    
 theme_config:
   appearance: "dark"
   back_home_text: "<-- back to database home"
