@@ -7,6 +7,11 @@ layout: default
 
 
 {% assign tracksearch = page.title | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" | remove: "," | remove: "'" | remove: "." | prepend: "|" | append: "|" %}
+{% assign tracksearch = tracksearch | replace: "á", "a" | replace: "é", 'e'  | replace: "í", "i"  | replace: "ó", "o"  | replace: "ú", "u" %}
+{% assign tracksearch = tracksearch | replace: "à", "a" | replace: "è", 'e'  | replace: "ì", "i"  | replace: "ò", "o"  | replace: "ù", "u" %}
+{% assign tracksearch = tracksearch | replace: "ä", "a" | replace: "ë", 'e'  | replace: "ï", "i"  | replace: "ö", "o"  | replace: "ü", "u" %}
+{% assign tracksearch = tracksearch | replace: "â", "a" | replace: "ê", 'e'  | replace: "î", "i"  | replace: "ô", "o"  | replace: "û", "u" %}
+
 {% if page.ahfow.description %}{% assign description = page.description %}{% else %}
 	{% capture description %}Details of the track '{{page.title}}', including, when available, lyrics.{% endcapture %}
 {% endif %}
