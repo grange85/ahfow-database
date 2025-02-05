@@ -117,7 +117,7 @@ layout: default
 					{% assign shows = site.data.gigography.dean-and-britta-shows | where_exp: "item", "item.setlist-index contains tracksearch" | sort: "date" %}
 			{% endcase %}
 			{% if shows.size > 0 %}
-			<h4 id = "{{ artist.slug }}">by {{ artist.name }}<br>
+			<h4 id = "{{ artist.slug }}">by {{ artist.name }} {{ shows.size }} times. <br>
 				<p><small>This is collected from set list data which is incomplete</small></p>
 			</h4>
 						<table>
