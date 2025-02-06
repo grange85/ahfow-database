@@ -5,7 +5,14 @@ layout: default
 
 {% assign day = page.ahfow.date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.ahfow.date|date: "%B %Y"}}{% endcapture %}
 
-<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span>{{ page.ahfow.venue }}</h2>
+<h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span>
+		{%- if page.ahfow.event -%}{{ page.ahfow.event }},&nbsp;{%-endif-%}
+		{%- if page.ahfow.venue -%}{{ page.ahfow.venue }},&nbsp;{%-endif-%}
+		{%- if page.ahfow.city -%}{{ page.ahfow.city }},&nbsp;{%-endif-%}
+		{%- if page.ahfow.state -%}{{ page.ahfow.state }},&nbsp;{%-endif-%}
+		{%- if page.ahfow.country -%}{{ page.ahfow.country }}{%-endif-%} 
+		</span>
+</h2>
 
 {% if description %}<p>{{ description }}</p>{% endif %}
 

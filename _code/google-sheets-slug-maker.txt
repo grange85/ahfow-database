@@ -1,0 +1,11 @@
+=removeDiacritics(REGEXREPLACE(
+                REGEXREPLACE(
+                LOWER(
+                        IF(NOT(ISBLANK(H2)),TRIM(H2) & "-","") &
+                        IF(NOT(ISBLANK(I2)),TRIM(I2) & "-","") & 
+                        IF(NOT(ISBLANK(J2)),TRIM(J2) & "-","") & 
+                        IF(NOT(ISBLANK(K2)),TRIM(K2) & "-","") & 
+                        TRIM(L2)
+                        )," ","-"
+                ),"[,.""!@#/':$%^&*()]",""
+        ))
