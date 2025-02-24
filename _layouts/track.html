@@ -27,10 +27,12 @@ layout: default
 				<ul>
 					<li>Title: {{page.ahfow.title}}</li>
 					<li>Written by: {{page.ahfow.authors}}</li>
-					{% if page.ahfow.original %}
+					{%-if page.ahfow.original-%}
 					<li>Original by: {{page.ahfow.original}}</li>
-					{% endif %}
+					{%-endif-%}
+					{%-if page.ahfow.originals-%}<li><a href="{{page.ahfow.originals}}">About '{{page.ahfow.title}}' in the Originals series</a></li>{%-endif-%}
 				</ul>
+				{%-if page.ahfow.notes-%}{{page.ahfow.notes}}{%-endif-%}
 			</div>
 		</div>
 
