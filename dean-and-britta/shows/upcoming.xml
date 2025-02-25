@@ -2,37 +2,6 @@
 layout: null
 title: Upcoming Dean Wareham / Britta Phillips shows
 description: Upcoming shows for Dean Wareham / Britta Phillips billed either as a duo or solo.
+artist-slug: dean-and-britta
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>{{ page.title| xml_escape }}</title>
-		<description>{{ site.description | append: page.description| xml_escape }} </description>
-		<link>{{ site.url }}{{site.baseurl}}//</link>
-		<atom:link href="{{ "/dean-and-britta/shows/upcoming.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		<generator>Jekyll v{{ jekyll.version }}</generator>
-{% assign curdate = site.time | date: '%s' %}{% assign curdate = curdate | plus: 0 %}{% for show in site.data.gigography.dean-and-britta-shows %}{% assign showdate = show.date | date: '%s' %}{% assign showdate = showdate | plus: 0 %}{% if showdate >= curdate %}{% capture newtitle %}{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at {{ show.venue }}{% endcapture %}{% assign newcontent = show.notes|strip %}
-		<item>
-			<title>{{ newtitle | xml_escape }}</title>
-			<description><![CDATA[
-				{% if show.series %}
-					<div>{{ show.series }}</div	>
-				{% endif %}
-				{% unless newcontent == "" %}
-					<div>{{ newcontent }}</div>
-				{% endunless %}
-			]]></description>
-
-{% if show.series %}
-	<category>{{ show.series }}</category>
-{% endif %}
-
-			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
-			<link>{{ site.url }}{{ site.baseurl }}/dean-and-britta/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</link>
-			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/dean-and-britta/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</guid>
-		</item>{% endif %}{% endfor %}
-	</channel>
-</rss>
-
+{%-include show-feed.xml-%}

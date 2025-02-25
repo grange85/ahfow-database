@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ page.title| xml_escape }}</title>
+		<description>{{ site.description | append: page.description| xml_escape }} </description>
+		<link>{{ site.url }}{{site.baseurl}}//</link>
+		<atom:link href="{{page.artist-slug | prepend: "/" | prepend: site.baseurl | prepend: site.url | append: "/shows/upcoming.xml" }}" rel="self" type="application/rss+xml"/>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<generator>Jekyll v{{ jekyll.version }}</generator>
+		{%-assign show-list = site.data.gigography.upcoming-shows-%}
+		{%-if page.artist-slug-%}
+			{%-assign show-list = show-list | where_exp: "item", "item.section-slug == page.artist-slug"-%}
+		{%-endif-%}
+
+		{%-for show in show-list -%}
+				{%-capture newtitle-%}
+					{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at {% if show.event %}{{ show.event }}, {% endif %}{% if show.venue %}{{ show.venue }}, {% endif %}{% if show.city %}{{ show.city }}, {% endif %}{% if show.state %}{{ show.state }}, {% endif %}{% if show.country %}{{ show.country }}{% endif %} 
+				{%-endcapture-%}
+			{%-assign newcontent = show.notes|strip-%}
+
+		<item>
+			<title>{{ newtitle | xml_escape }}</title>
+			<description><![CDATA[
+				{%-if show.series-%}
+					<div>{{ show.series }}</div	>
+				{%-endif-%}
+				{%-unless newcontent == ""-%}
+					<div>{{ newcontent }}</div>
+				{%-endunless-%}
+			]]></description>
+
+{%-if show.series-%}
+	<category>{{ show.series }}</category>
+{%-endif-%}
+
+			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
+			<link>{{ site.url }}{{ site.baseurl }}/{{ show.section-slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</link>
+			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/{{show.section-slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</guid>
+		</item>{% endfor %}
+	</channel>
+</rss>
+

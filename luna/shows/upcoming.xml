@@ -13,7 +13,22 @@ description: Upcoming shows for the band Luna.
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<generator>Jekyll v{{ jekyll.version }}</generator>
-		{% assign curdate = site.time | date: '%s' %}{% assign curdate = curdate | plus: 0 %}{% assign luna-shows = site.data.gigography.luna-shows | reverse %}{% for show in luna-shows %}{% assign showdate = show.date | date: '%s' %}{% assign showdate = showdate | plus: 0 %}{% if showdate >= curdate %}{% capture newtitle %}{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at {{ show.venue }}{% endcapture %}{% assign newcontent = show.notes|strip %}
+		{%-assign curdate = site.time | date: '%s'-%}
+		{%-assign curdate = curdate | plus: 0-%}
+		{%-assign luna-shows = site.data.gigography.luna-shows | reverse-%}
+		{%-for show in luna-shows-%}
+			{%-assign showdate = show.date | date: '%s'-%}
+			{%-assign showdate = showdate | plus: 0-%}
+			{%-if showdate >= curdate-%}
+				{%-capture newtitle-%}
+					{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at 
+					{%- if show.event -%}{{ show.event }},&nbsp;{%-endif-%}
+					{%- if show.venue -%}{{ show.venue }},&nbsp;{%-endif-%}
+					{%- if show.city -%}{{ show.city }},&nbsp;{%-endif-%}
+					{%- if show.state -%}{{ show.state }},&nbsp;{%-endif-%}
+					{%- if show.country -%}{{ show.country }}{%-endif-%} 
+				{%-endcapture-%}
+			{%-assign newcontent = show.notes|strip-%}
 		<item>
 			<title>{{ newtitle | xml_escape }}</title>
 			<description><![CDATA[
