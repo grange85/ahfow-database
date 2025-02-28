@@ -1,11 +1,11 @@
 =removeDiacritics(REGEXREPLACE(
                 REGEXREPLACE(
                 LOWER(
-                        IF(NOT(ISBLANK(H2)),TRIM(H2) & "-","") &
-                        IF(NOT(ISBLANK(I2)),TRIM(I2) & "-","") & 
-                        IF(NOT(ISBLANK(J2)),TRIM(J2) & "-","") & 
-                        IF(NOT(ISBLANK(K2)),TRIM(K2) & "-","") & 
-                        TRIM(L2)
+                        IF(NOT(ISBLANK(I513)),TRIM(I513) & "-","") & 
+                        IF(NOT(ISBLANK(J513)),TRIM(J513) & "-","") & 
+                        IF(NOT(ISBLANK(K513)),TRIM(K513) & "-","") & 
+                        IF(NOT(ISBLANK(L513)),TRIM(L513) & "-","") &
+                        TRIM(M513)
                         )," ","-"
                 ),"[,.""!@#/':$%^&*()]",""
         ))
