@@ -12,6 +12,7 @@ layout: default
 						<nav class="show-list">
 		    				<ul>
 						{% for year in artist.yearsactive %}
+						
 								<li><a class="btn btn-outline-primary {% if year == page.year %}disabled active{% endif %}" href="/database/{{artist.slug}}/shows/{{year}}/">{{year}}</a></li>
 						{% endfor %}
 							</ul>
