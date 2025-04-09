@@ -29,6 +29,7 @@
                     <p>
                         <xsl:value-of select="/rss/channel/description"/>
                     </p>
+					<p>This is an RSS feed of upcoming shows - <a><xsl:attribute name="href"><xsl:value-of select="/rss/channel/atom:link"/></xsl:attribute>subscribe here</a>.</p>
                     <a>
                         <xsl:attribute name="href">
                             <xsl:value-of select="/rss/channel/link"/>
