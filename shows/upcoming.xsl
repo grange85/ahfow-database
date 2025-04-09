@@ -29,12 +29,12 @@
                     <p>
                         <xsl:value-of select="/rss/channel/description"/>
                     </p>
-					<p>This is an RSS feed of upcoming shows.</p>
+					<p>This is an RSS feed of upcoming shows, you can subsribe by copying the URL from the address bar into your RSS/feed reader. Find out <a href="https://aboutfeeds.com/" target="_blank">about feeds here</a>.</p>
                     <a>
                         <xsl:attribute name="href">
                             <xsl:value-of select="/rss/channel/link"/>
                         </xsl:attribute>
-                        Visit website &#x2192;
+                        Visit '<xsl:value-of select="/rss/channel/title"/>' &#x2192;
                     </a>
                 </header>
                     <h2>Shows</h2>
