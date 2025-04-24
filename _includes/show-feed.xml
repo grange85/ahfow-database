@@ -6,7 +6,7 @@
 	<channel>
 		<title>A Head Full of Wishes: {{ page.title| xml_escape }}</title>
 		<description>{{ site.description | append: page.description| xml_escape }} </description>
-		<link>{{page.artist-slug | prepend: "/" | prepend: site.baseurl | prepend: site.url | append: "/shows/"}}</link>
+		<link>{{page.artist-slug | prepend: "/" | prepend: site.baseurl | prepend: site.url | append: "shows/"}}</link>
 		<atom:link href="{{page.artist-slug | prepend: "/" | prepend: site.baseurl | prepend: site.url | append: "/shows/upcoming.xml" }}" rel="self" type="application/rss+xml"/>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
