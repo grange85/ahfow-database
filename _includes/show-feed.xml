@@ -12,15 +12,19 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<generator>Jekyll v{{ jekyll.version }}</generator>
 		{%-assign show-list = site.data.gigography.upcoming-shows-%}
+		{%-assign curdate = site.time | date: '%s' | minus: 86400-%}
 		{%-if page.artist-slug-%}
 			{%-assign show-list = show-list | where_exp: "item", "item.section-slug == page.artist-slug"-%}
 		{%-endif-%}
 
 		{%-for show in show-list -%}
+			{%-assign showdate = show.date | date: '%s'-%}{%-assign showdate = showdate | plus: 0-%}
+			{% if showdate >= curdate %}
 				{%-capture newtitle-%}
+
 					{{show.date|date: "%-d %B %Y"}} - {{ show.artistname }} at {% if show.event %}{{ show.event }}, {% endif %}{% if show.venue %}{{ show.venue }}, {% endif %}{% if show.city %}{{ show.city }}, {% endif %}{% if show.state %}{{ show.state }}, {% endif %}{% if show.country %}{{ show.country }}{% endif %} 
 				{%-endcapture-%}
-			{%-assign newcontent = show.notes|strip-%}
+				{%-assign newcontent = show.notes|strip-%}
 
 		<item>
 			<title>{{ newtitle | xml_escape }}</title>
@@ -41,7 +45,7 @@
 			<ahfow:showDate isoValue="{{ show.date | date: '%Y%m%d' }}">{{ show.date | date_to_rfc822 }}</ahfow:showDate>
 			<link>{{ site.url }}{{ site.baseurl }}/{{ show.section-slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</link>
 			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/{{show.section-slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</guid>
-		</item>{% endfor %}
+			</item>{%-endif-%}{% endfor %}
 	</channel>
 </rss>
 
