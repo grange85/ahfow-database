@@ -7,7 +7,7 @@ layout: default
 {% assign master = site.data.discography[page.datafile] | find: "Format", "MASTER" %}
 
 <h2>{{ master["Artist"] }} - {{ master["Title"] }}</h2>
-
+{{content}}
 {% for row in releases offset: 1 %}
 {% assign format = row["Format"] %}
 <div>
