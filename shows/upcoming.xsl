@@ -49,6 +49,9 @@
                                     </xsl:attribute>
                                     <xsl:value-of select="title"/>
                                 </a>
+								<xsl:if test="description !=''">
+									<br/><xsl:value-of select="description" disable-output-escaping="yes" />
+								</xsl:if>
 								<small>
 									<br/>(Show added:
 									<time>

@@ -1,6 +1,7 @@
-section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug
-dean-and-britta,dean-wareham,Dean Wareham,2025,2025-09-19,,2025-08-12,,Radio Social,Rochester,NY,USA,radio-social-rochester-ny-usa
-dean-and-britta,dean-wareham,Dean Wareham,2025,2025-12-16,,2025-06-30,,Zebulon,Los Angeles,CA,USA,zebulon-los-angeles-ca-usa
-dean-and-britta,dean-wareham,Dean Wareham,2025,2025-09-20,,2025-05-17,Woodsist Festival,Arrowood Farms,Accord,NY,USA,woodsist-festival-arrowood-farms-accord-ny-usa
-luna,luna,Luna,2025,2025-12-05,,2025-05-08,,Paramount Theatre,Austin,TX,USA,paramount-theatre-austin-tx-usa
-luna,luna,Luna,2025,2025-12-06,,2025-05-08,,Granada Theater,Dallas,TX,USA,granada-theater-dallas-tx-usa
+section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes
+dean-and-britta,dean-wareham,Dean Wareham,2025,2025-09-29,,2025-09-09,,Philosophical Research Society,Los Angeles,CA,USA,philosophical-research-society-los-angeles-ca-usa,"Pulp's guitarist Mark Webber joins us to discuss his new book, a personal history of the band, w/ indie rock icon and author Dean Wareham"
+dean-and-britta,dean-wareham,Dean Wareham,2025,2025-09-19,,2025-08-12,,Radio Social,Rochester,NY,USA,radio-social-rochester-ny-usa,
+dean-and-britta,dean-wareham,Dean Wareham,2025,2025-12-16,,2025-06-30,,Zebulon,Los Angeles,CA,USA,zebulon-los-angeles-ca-usa,
+dean-and-britta,dean-wareham,Dean Wareham,2025,2025-09-20,,2025-05-17,Woodsist Festival,Arrowood Farms,Accord,NY,USA,woodsist-festival-arrowood-farms-accord-ny-usa,The festival is from the 20th to the 21st - actual time/date unconfirmed.
+luna,luna,Luna,2025,2025-12-05,,2025-05-08,,Paramount Theatre,Austin,TX,USA,paramount-theatre-austin-tx-usa,
+luna,luna,Luna,2025,2025-12-06,,2025-05-08,,Granada Theater,Dallas,TX,USA,granada-theater-dallas-tx-usa,
