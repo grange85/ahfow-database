@@ -1,10 +1,11 @@
 section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes
-damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-03,,2025-11-17,,Cafe Oto,London,,UK,cafe-oto-london-uk,
-damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-04,,2025-11-17,,Cafe Oto,London,,UK,cafe-oto-london-uk,
-damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-05,,2025-11-17,,Cafe Oto,London,,UK,cafe-oto-london-uk,
-luna,luna,Luna,2025,2025-12-28,,2025-09-24,,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
-luna,luna,Luna,2025,2025-12-29,,2025-09-24,,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
-luna,luna,Luna,2025,2025-12-31,,2025-09-24,,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
-dean-and-britta,dean-wareham,Dean Wareham,2025,2025-12-16,,2025-06-30,,Zebulon,Los Angeles,CA,USA,zebulon-los-angeles-ca-usa,
-luna,luna,Luna,2025,2025-12-05,,2025-05-08,,Paramount Theatre,Austin,TX,USA,paramount-theatre-austin-tx-usa,
-luna,luna,Luna,2025,2025-12-06,,2025-05-08,,Granada Theater,Dallas,TX,USA,granada-theater-dallas-tx-usa,
+luna,luna,Luna,2026,2026-04-02,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
+luna,luna,Luna,2026,2026-04-03,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
+luna,luna,Luna,2026,2026-04-04,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
+damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-03,,Mon Nov 17 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,Cafe Oto,London,,UK,cafe-oto-london-uk,
+damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-04,,Mon Nov 17 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,Cafe Oto,London,,UK,cafe-oto-london-uk,
+damon-and-naomi,damon-and-naomi,Damon & Naomi,2026,2026-01-05,,Mon Nov 17 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,Cafe Oto,London,,UK,cafe-oto-london-uk,
+luna,luna,Luna,2025,2025-12-28,,Wed Sep 24 2025 00:00:00 GMT+0100 (British Summer Time),,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
+luna,luna,Luna,2025,2025-12-29,,Wed Sep 24 2025 00:00:00 GMT+0100 (British Summer Time),,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
+luna,luna,Luna,2025,2025-12-31,,Wed Sep 24 2025 00:00:00 GMT+0100 (British Summer Time),,Fillmore,San Francisco ,CA,USA,fillmore-san-francisco-ca-usa,Pre-sale tickets 25th September 2025 at 10:00 (Pacific)
+dean-and-britta,dean-wareham,Dean Wareham,2025,2025-12-16,,Mon Jun 30 2025 00:00:00 GMT+0100 (British Summer Time),,Zebulon,Los Angeles,CA,USA,zebulon-los-angeles-ca-usa,
