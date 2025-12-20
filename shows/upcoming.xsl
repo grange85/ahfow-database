@@ -26,6 +26,9 @@
                     <h2>
                         <xsl:value-of select="/rss/channel/title"/>
                     </h2>
+					<p>
+						<a href="https://www.fullofwishes.co.uk">&lt;-- A Head Full of Wishes home</a> | <a href="https://www.fullofwishes.co.uk/database/">&lt;-- database home</a>
+					</p>
                     <p>
                         <xsl:value-of select="/rss/channel/description"/>
                     </p>

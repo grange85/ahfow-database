@@ -1,6 +1,6 @@
 ---
 layout: null
-title: Upcoming  shows
-description: Upcoming shows
+title: Upcoming shows
+description: A list of known upcoming shows for all AHFoW related bands.
 ---
 {%-include show-feed.xml-%}
