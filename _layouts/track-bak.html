@@ -1,0 +1,156 @@
+---
+layout: default
+---
+{%-include back_link.html-%}
+
+{% assign page_title = page.ahfow.title %}
+
+
+{% assign tracksearch = page.ahfow.slug | remove: "-" | prepend: "|" | append: "|" %}
+
+{% if page.ahfow.description %}{% assign description = page.description %}{% else %}
+	{% capture description %}Details of the track '{{page.title}}', including, when available, lyrics.{% endcapture %}
+{% endif %}
+
+<div>
+	<div>
+		<h2>{{ page.ahfow.title }}</h2>
+		<div>
+			<div>
+				<h3>Information</h3>
+			</div>
+			<div>
+				<ul>
+					<li>Title: {{page.ahfow.title}}</li>
+					<li>Written by: {{page.ahfow.authors}}</li>
+					{%-if page.ahfow.original-%}
+					<li>Original by: {{page.ahfow.original}}</li>
+					{%-endif-%}
+					{%-if page.ahfow.originals-%}<li><a href="{{page.ahfow.originals}}">About '{{page.ahfow.title}}' in the Originals series</a></li>{%-endif-%}
+				</ul>
+				{%-if page.ahfow.notes-%}{{page.ahfow.notes}}{%-endif-%}
+			</div>
+		</div>
+
+		{% if page.ahfow.lyrics %}
+		<div>
+			<div>
+				<h3>Lyrics</h3>
+			</div>
+			<div>
+				{{page.ahfow.lyrics | newline_to_br}}
+			</div>
+		</div>
+		{% endif %}
+
+		<div>
+			<div>
+				<h3>Available on:</h3>
+			</div>
+			<div>
+	<ul>
+	{% for album_hash in site.data.discography %}
+	{% assign album = album_hash[1] | where_exp: "album", "album.Track-index contains tracksearch" %}
+	{% if album.size > 0 %}
+	{% case album[0].Artist %}
+	{% when "Galaxie 500" %}
+	{% assign artistslug = "galaxie-500" %}
+	{% when "Luna" %}
+	{% assign artistslug = "luna" %}
+	{% when "Dean & Britta" %}
+	{% assign artistslug = "dean-and-britta" %}
+	{% when "Dean Wareham" %}
+	{% assign artistslug = "dean-wareham" %}
+	{% when "Damon & Naomi" %}
+	{% assign artistslug = "damon-and-naomi" %}
+	{% endcase %}
+	{% if album_hash[0] contains "singles" %}
+		{% assign albumsection = "singles" %}
+	{% elsif album_hash[0] contains "misc" %}
+		{% assign albumsection = "miscellaneous" %}
+	{% else %}
+		{% assign albumsection = album_hash[1][0].Title %}
+	{% endif %}
+    {% if album[0].AlbumArtist.size > 0 %}
+        {% assign albumartist = album[0].AlbumArtist %}
+    {% else %}
+        {% assign albumartist = album[0].Artist %}
+    {% endif %}
+	{% if albumsection %}
+	{% for single in album %}
+	    {% if single.AlbumArtist.size > 0 %}
+        {% assign albumartist = single.AlbumArtist %}
+    {% else %}
+        {% assign albumartist = single.Artist %}
+    {% endif %}
+<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/#{{ single.Title  | append: single.CatNo | slugify: "latin" }}" >{{ albumartist }} - {{ single.Title }}</a> <em>({{ single.Label }}, {{ single.Date }})</em></li>
+	{% endfor %}
+	{% else %}
+	<li><a href="/database/{{ artistslug }}/releases/{{ albumsection | slugify: "latin" }}/" >{{ albumartist }} - {{ album[0].Title }}</a> <em>({{ album[0].Label }}, {{ album[0].Date }})</em></li>
+	{% endif %}
+	{% endif %}
+	{% endfor %}
+
+	</ul>
+
+</div>
+</div>
+		<div>
+			<div>
+				<h3>Played live</h3>
+			</div>
+			<div>
+{% for artistslugs in site.data.artists %}
+	{% assign artist = artistslugs[0] %}
+	{% assign artist = site.data.artists[artist] %}
+	{% if artist.slug == "galaxie-500" or artist.slug == "luna" or artist.slug == "damon-and-naomi" or artist.slug == "dean-and-britta" %}
+			{% case artist.slug %}
+				{% when 'galaxie-500' %}
+					{% assign shows = site.data.gigography.galaxie-500-shows | where_exp: "item", "item.setlist-index contains tracksearch" | sort: "date" %}
+				{% when 'luna' %}
+					{% assign shows = site.data.gigography.luna-shows | where_exp: "item", "item.setlist-index contains tracksearch" | sort: "date" %}
+				{% when 'damon-and-naomi' %}
+					{% assign shows = site.data.gigography.damon-and-naomi-shows | where_exp: "item", "item.setlist-index contains tracksearch" | sort: "date" %}
+				{% when 'dean-and-britta' %}
+					{% assign shows = site.data.gigography.dean-and-britta-shows | where_exp: "item", "item.setlist-index contains tracksearch" | sort: "date" %}
+			{% endcase %}
+			{% if shows.size > 0 %}
+			<h4 id = "{{ artist.slug }}">by {{ artist.name }} {{ shows.size }} times. <br>
+				<p><small>This is collected from set list data which is incomplete</small></p>
+			</h4>
+						<table>
+						{% for show in shows %}
+							{% unless show.cancelled %}
+							{% assign day = show.date|date: "%-d"  %}
+						  {% if show.date-uncertain.day %}{% assign day = "" %}{% endif %}
+							{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date|date: "%B %Y"}}{% endcapture %}
+
+						<tr>
+							<th>{{ ordinaldate }}</th>
+							<td><a href="{{ site.baseurl }}/{{artist.slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+          {% if show.cancelled %}<span>Cancelled</span>{% endif %}
+          {% if show.artistname %}<span>{{ show.artistname }}</span>
+          {% else %}<span>{{ artist.name }}</span>
+          {% endif %}
+          {% if show.series %}<span>{{ show.series }}</span>{% endif %}
+		  {% if show.setlist %}<span>setlist</span>{% endif %}
+		  {% if show.poster-url %}<span>poster</span>{% endif %}
+						{% if show.audio %}{% assign audio = show.audio | split: "|" %}<span>{{ audio[0] | downcase }}</span>{% endif %}
+							</td>
+						</tr>
+						{% endunless %}
+						{% endfor %}
+						</table>
+						{% endif %}
+
+
+
+
+
+	{% endif %}
+{% endfor %}
+
+</div>
+</div>
+</div>
+</div>
