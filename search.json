@@ -1,0 +1,16 @@
+---
+layout: none
+---
+[
+  {% assign all_items = site.collections | map: 'docs' | concat %}
+  {% for item in all_items %}
+    {% if item.layout == "discog" or item.layout == "show" or item.layout == "track" %}
+      {
+        "title"    : "{{ item.title | escape }}",
+        "category" : "{% if item.layout == 'discog' %}Release{% elsif item.layout == 'show' %}Show{% elsif item.layout == 'track' %}Track{% endif %}",
+        "url"      : "{{ site.baseurl }}{{ item.url }}",
+        "date"     : "{{ item.date }}"
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+]
