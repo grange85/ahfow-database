@@ -1,16 +1,21 @@
 ---
 layout: none
 ---
+{%- assign items = "" | split: "" -%}
+{%- for collection in site.collections -%}
+  {%- for item in collection.docs -%}
+    {%- if item.layout == "discog" or item.layout == "show" or item.layout == "track" -%}
+      {%- assign items = items | push: item -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
 [
-  {% assign all_items = site.collections | map: 'docs' | concat %}
-  {% for item in all_items %}
-    {% if item.layout == "discog" or item.layout == "show" or item.layout == "track" %}
-      {
-        "title"    : "{{ item.title | escape }}",
-        "category" : "{% if item.layout == 'discog' %}Release{% elsif item.layout == 'show' %}Show{% elsif item.layout == 'track' %}Track{% endif %}",
-        "url"      : "{{ site.baseurl }}{{ item.url }}",
-        "date"     : "{{ item.date }}"
-      } {% unless forloop.last %},{% endunless %}
-    {% endif %}
-  {% endfor %}
+  {%- for item in items %}
+  {
+    "title"    : "{{ item.title | escape }}",
+    "category" : "{% if item.layout == 'discog' %}Release{% elsif item.layout == 'show' %}Show{% elsif item.layout == 'track' %}Track{% endif %}",
+    "url"      : "{{ site.baseurl }}{{ item.url }}",
+    "date"     : "{{ item.date }}"
+  }{% unless forloop.last %},{% endunless %}
+  {%- endfor %}
 ]
