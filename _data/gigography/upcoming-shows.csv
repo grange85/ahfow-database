@@ -1,9 +1,11 @@
-section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-14,,Wed Jan 21 2026 00:00:00 GMT+0000 (Greenwich Mean Time),,Centro Arte,Alameda,,Chile,centro-arte-alameda-chile,
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-09,,Wed Jan 14 2026 00:00:00 GMT+0000 (Greenwich Mean Time),,Cine Joia,São Paulo,,Brazil,cine-joia-sao-paulo-brazil,
-luna,luna,Luna,2026,2026-04-07,,Fri Dec 19 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,Union Transfer,Philadelphia,PA,USA,union-transfer-philadelphia-pa-usa,Performing Bewitched
-luna,luna,Luna,2026,2026-04-08,,Thu Dec 18 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Birchmere Music Hall,Alexandria,VA,USA,the-birchmere-music-hall-alexandria-va-usa,
-luna,luna,Luna,2026,2026-04-05,,Wed Dec 17 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,Assembly,Kingston,NY,USA,assembly-kingston-ny-usa,
-luna,luna,Luna,2026,2026-04-02,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
-luna,luna,Luna,2026,2026-04-03,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
-luna,luna,Luna,2026,2026-04-04,,Wed Dec 03 2025 00:00:00 GMT+0000 (Greenwich Mean Time),,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,
+section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes,poster-url
+dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-16,,2026-03-07 00:00:00,,Aforo,Lima,,Peru,aforo-lima-peru,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-05-16-dean-wareham-lima-peru.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-12,,2026-02-20 00:00:00,,Niceto Club,Buenos Aires,,Argentina,niceto-club-buenos-aires-argentina,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2026-05-12-dean-wareham-buenos-aires-ar.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-14,,2026-01-21 00:00:00,,Centro Arte,Alameda,,Chile,centro-arte-alameda-chile,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-14-alameda-chile.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-09,,2026-01-14 00:00:00,,Cine Joia,São Paulo,,Brazil,cine-joia-sao-paulo-brazil,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-09-saopaulo.jpg
+luna,luna,Luna,2026,2026-04-07,,2025-12-19 00:00:00,,Union Transfer,Philadelphia,PA,USA,union-transfer-philadelphia-pa-usa,Performing Bewitched,
+luna,luna,Luna,2026,2026-04-08,,2025-12-18 00:00:00,,The Birchmere Music Hall,Alexandria,VA,USA,the-birchmere-music-hall-alexandria-va-usa,,
+luna,luna,Luna,2026,2026-04-05,,2025-12-17 00:00:00,,Assembly,Kingston,NY,USA,assembly-kingston-ny-usa,,
+luna,luna,Luna,2026,2026-04-02,,2025-12-03 00:00:00,,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,,
+luna,luna,Luna,2026,2026-04-03,,2025-12-03 00:00:00,,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,,
+luna,luna,Luna,2026,2026-04-04,,2025-12-03 00:00:00,,The Bowery Ballroom,New York,NY,USA,the-bowery-ballroom-new-york-ny-usa,,

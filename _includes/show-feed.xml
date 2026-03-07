@@ -40,6 +40,9 @@
 {%-if show.series-%}
 	<category>{{ show.series }}</category>
 {%-endif-%}
+{%-if show.poster-url and show.poster-url != ""-%}
+	<enclosure url="{{ show.poster-url | xml_escape }}" type="image/jpeg" length="0"/>
+{%-endif-%}
 
 			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
 			<ahfow:showDate isoValue="{{ show.date | date: '%Y%m%d' }}">{{ show.date | date_to_rfc822 }}</ahfow:showDate>
