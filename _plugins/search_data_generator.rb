@@ -48,7 +48,13 @@ module Jekyll
             # Determine artist from filename
             filename = File.basename(csv_file, '.csv')
             artist_slug = filename.gsub('-shows', '')
-            show_url = "/database/#{artist_slug}/shows/#{row['slug']}/"
+
+            # Construct show slug same as jekyll-datapage-generator:
+            # record['slug'] + "-" + date + disambiguate + "-" + venue-slug
+            date_str = Date.parse(row['date']).strftime('%Y-%m-%d') rescue row['date']
+            disambiguate = row['disambiguate'].to_s.strip
+            show_slug = "#{row['slug']}-#{date_str}#{disambiguate}-#{row['venue-slug']}"
+            show_url = "/database/#{artist_slug}/shows/#{show_slug}/"
 
             search_data['shows'] << {
               'title' => "#{row['artistname']} - #{row['venue']} - #{row['date']}",
@@ -61,6 +67,14 @@ module Jekyll
 
       # Store in site.data for use in search.json
       site.data['search_index'] = search_data
+
+      # Also write directly to _site/search.json
+      output_file = File.join(site.dest, 'search.json')
+      FileUtils.mkdir_p(File.dirname(output_file))
+
+      merged_search = search_data['releases'] + search_data['shows'] + search_data['tracks']
+      File.write(output_file, JSON.pretty_generate(merged_search))
+
       Jekyll.logger.info("Search Data Generated:", "Releases: #{search_data['releases'].length}, Shows: #{search_data['shows'].length}, Tracks: #{search_data['tracks'].length}")
     end
   end
