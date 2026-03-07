@@ -1,21 +1,31 @@
 ---
 layout: none
 ---
-{%- assign items = "" | split: "" -%}
-{%- for collection in site.collections -%}
-  {%- for item in collection.docs -%}
-    {%- if item.layout == "discog" or item.layout == "show" or item.layout == "track" -%}
-      {%- assign items = items | push: item -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- endfor -%}
 [
-  {%- for item in items %}
+  {%- for release in site.data.search_index.releases %}
   {
-    "title"    : "{{ item.title | escape }}",
-    "category" : "{% if item.layout == 'discog' %}Release{% elsif item.layout == 'show' %}Show{% elsif item.layout == 'track' %}Track{% endif %}",
-    "url"      : "{{ site.baseurl }}{{ item.url }}",
-    "date"     : "{{ item.date }}"
+    "title"    : "{{ release.title | escape }}",
+    "category" : "Release",
+    "url"      : "{{ site.baseurl }}{{ release.url }}",
+    "date"     : "{{ release.date }}"
+  }{% unless forloop.last %},{% endunless %}
+  {%- endfor %}
+  {%- if site.data.search_index.shows.size > 0 %},{% endif %}
+  {%- for show in site.data.search_index.shows %}
+  {
+    "title"    : "{{ show.title | escape }}",
+    "category" : "Show",
+    "url"      : "{{ site.baseurl }}{{ show.url }}",
+    "date"     : ""
+  }{% unless forloop.last %},{% endunless %}
+  {%- endfor %}
+  {%- if site.data.search_index.tracks.size > 0 %},{% endif %}
+  {%- for track in site.data.search_index.tracks %}
+  {
+    "title"    : "{{ track.title | escape }}",
+    "category" : "Track",
+    "url"      : "{{ site.baseurl }}{{ track.url }}",
+    "date"     : ""
   }{% unless forloop.last %},{% endunless %}
   {%- endfor %}
 ]
