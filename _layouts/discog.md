@@ -35,35 +35,40 @@ layout: default
 {% endif %}
 
 <p><em>{{ format }} / {{ row["CatNo"] }}</em></p>
-{% if row["Notes"].size > 0 %}
-<p>{{ row["Notes"] | replace: "\n", "<br>" }}</p>
-{% endif %}
 </div>
 <div>
-{% assign tracklists = "A-B-C-D" | split: "-" %}
-{% for tracklist in tracklists %}
-{% assign side = forloop.index %}
-{% for disc in row[tracklist] %}
-  {% if disc %}
-  {% assign tracks = disc | split: "|" %}
+<h4>Tracks</h4>
+{%- assign tracklists = "A-B-C-D" | split: "-" -%}
+{%- for tracklist in tracklists -%}
+{%- assign side = forloop.index -%}
+{%- for disc in row[tracklist] -%}
+  {%- if disc -%}
+  {%- assign tracks = disc | split: "|" -%}
+
+  <h5>{% if format contains "CD" %}Disc {{ side }}{%- elsif format contains "Digital" -%}{%-else-%}{{ tracklist }}{% endif %}</h5>
   <ul>
-  <li>{% if format contains "CD" %}Disc {{ side }}{% else %}{{ tracklist }}{% endif %}</li>
-  {% for track in tracks %}
-							{% if track contains '[' %}{% assign tracktitle = track | split: " [" %} {% assign ttitle = tracktitle[0] %}{% assign tnotes = tracktitle[1] | remove: "]" %}{% else %}
-							{% assign ttitle = track %}{% assign tnotes = nil %}
-							{% endif %}
+  {%- for track in tracks -%}
+							{%- if track contains '[' %}{% assign tracktitle = track | split: " [" %} {% assign ttitle = tracktitle[0] %}{% assign tnotes = tracktitle[1] | remove: "]" -%}{%- else -%}
+							{%- assign ttitle = track %}{% assign tnotes = nil -%}
+							{%- endif -%}
 							<li>
-							{% if ttitle contains '^' %}
-							{{ttitle | remove_first:'^'}}{% if tnotes %}&nbsp;({{track.notes}}){% endif %}
-							{% else %}
+							{%- if ttitle contains '^' -%}
+							{{ttitle | remove_first:'^'}}{%- if tnotes -%}&nbsp;({{track.notes}}){%- endif -%}
+							{%- else -%}
 								<a href="/database/tracks/{{ ttitle | replace: '&','and' | remove: "'" | remove: "." | slugify: "latin" }}/">{{ttitle}}</a>{% if tnotes %}<em>&nbsp;({{tnotes}})</em>{% endif %}
-							{% endif %}
+							{%- endif -%}
 							</li>
-  {% endfor %}
+  {%- endfor -%}
   </ul>
-  {% endif %}
-{% endfor %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- if row["Notes"].size > 0 -%}
+<div>
+<h4>Notes</h4>
+{{ row["Notes"] | markdownify }}
+</div>
+{% endif %}
 </div>
 </div>
 </div>

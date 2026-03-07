@@ -49,7 +49,7 @@ layout: default
     <h4>{{ release["Title"] }}</h4>
   <img src="{{ release["Sleeve"] }}" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
     {% if release["Notes"] %}
-    <p>{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
+	{{ release["Notes"] | markdownify }}
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/">{{ release["Title"] }} details</a>
 
@@ -65,7 +65,7 @@ layout: default
     <h4>{{ release["Title"] }}</h4>
   <img src="{{ release["Sleeve"] }}" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
     {% if release["Notes"] %}
-    <p>{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
+	{{ release["Notes"] | markdownify }}
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/">{{ release["Title"] }} details</a>
     </div>
@@ -80,7 +80,7 @@ layout: default
     <h4>{{ release["Title"] }}</h4>
   <img src="{{ release["Sleeve"] }}" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
     {% if release["Notes"] %}
-    <p>{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
+	{{ release["Notes"] | markdownify }}
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/">{{ release["Title"] }} details</a>
     </div>
@@ -95,7 +95,7 @@ layout: default
     <h4>{{ release["Title"] }}</h4>
   <img src="{{ release["Sleeve"] }}" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
     {% if release["Notes"] %}
-    <p>{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
+	{{ release["Notes"] | markdownify }}
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/">{{ release["Title"] }} details</a>
 </div>
@@ -110,7 +110,7 @@ layout: default
     <h4>{{ release["Title"] }}</h4>
   <img src="{{ release["Sleeve"] }}" alt="{{ release["Artist"] }} - {{ release["Title"] }} sleeve">
     {% if release["Notes"] %}
-    <p>{{ release["Notes"] | replace: "\n", "<br/>" }}</p>
+	{{ release["Notes"] | markdownify }}
     {% endif %}
     <a href="/database/{{ page.artistslug }}/releases/{{ release["Title"] | slugify: "latin" }}/">{{ release["Title"] }} details</a>
 </div>
