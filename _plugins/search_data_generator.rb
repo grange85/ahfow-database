@@ -17,7 +17,7 @@ module Jekyll
         collection.docs.each do |doc|
           if doc.data['layout'] == 'discog'
             search_data['releases'] << {
-              'title' => doc.data['title'],
+              'title' => "RELEASE #{doc.data['title']}",
               'url' => doc.url,
               'date' => doc.data['date']&.to_s || ''
             }
@@ -32,7 +32,7 @@ module Jekyll
           if row['title'].to_s.strip.length > 0
             track_url = row['slug'] ? "/database/tracks/#{row['slug']}/" : ''
             search_data['tracks'] << {
-              'title' => row['title'],
+              'title' => "TRACK: #{row['title']}",
               'slug' => row['slug'] || '',
               'url' => track_url
             }
@@ -55,9 +55,11 @@ module Jekyll
             disambiguate = row['disambiguate'].to_s.strip
             show_slug = "#{row['slug']}-#{date_str}#{disambiguate}-#{row['venue-slug']}"
             show_url = "/database/#{artist_slug}/shows/#{show_slug}/"
-
+            # puts row['state'].inspect
+            location = [row['city'], row['state'], row['country']].compact.join(', ')
+            # location = [row['city'], row['state'], row['country']].select { |v| v.to_s.strip != '' }.join(', ')
             search_data['shows'] << {
-              'title' => "#{row['artistname']} - #{row['venue']} - #{row['date']}",
+              'title' => "SHOW: #{row['artistname']} - #{row['venue']}, #{location} - #{row['date']}",
               'artist_slug' => artist_slug,
               'url' => show_url
             }
