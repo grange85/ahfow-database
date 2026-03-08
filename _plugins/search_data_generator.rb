@@ -18,7 +18,7 @@ module Jekyll
           if doc.data['layout'] == 'discog'
             search_data['releases'] << {
               'title' => "RELEASE #{doc.data['title']}",
-              'url' => doc.url,
+              'url' => "/database#{doc.url}",
               'date' => doc.data['date']&.to_s || ''
             }
           end
