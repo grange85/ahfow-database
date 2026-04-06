@@ -1,7 +1,7 @@
-section-slug,slug,artistname,year,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes,poster-url
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-16,,2026-03-07,,Aforo,Lima,,Peru,aforo-lima-peru,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-05-16-dean-wareham-lima-peru.jpg
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-12,,2026-02-20,,Niceto Club,Buenos Aires,,Argentina,niceto-club-buenos-aires-argentina,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2026-05-12-dean-wareham-buenos-aires-ar.jpg
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-14,,2026-01-21,,Centro Arte,Alameda,,Chile,centro-arte-alameda-chile,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-14-alameda-chile.jpg
-dean-and-britta,dean-wareham,Dean Wareham,2026,2026-05-09,,2026-01-14,,Cine Joia,São Paulo,,Brazil,cine-joia-sao-paulo-brazil,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-09-saopaulo.jpg
-luna,luna,Luna,2026,2026-04-07,,2025-12-19,,Union Transfer,Philadelphia,PA,USA,union-transfer-philadelphia-pa-usa,Performing Bewitched,
-luna,luna,Luna,2026,2026-04-08,,2025-12-18,,The Birchmere Music Hall,Alexandria,VA,USA,the-birchmere-music-hall-alexandria-va-usa,,
+section-slug,slug,artistname,date,disambiguate,date-added,event,venue,city,state,country,venue-slug,notes,poster-url
+dean-and-britta,dean-wareham,Dean Wareham,2026-05-16,,2026-03-07,,Aforo,Lima,,Peru,aforo-lima-peru,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-05-16-dean-wareham-lima-peru.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026-05-12,,2026-02-20,,Niceto Club,Buenos Aires,,Argentina,niceto-club-buenos-aires-argentina,,https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2026-05-12-dean-wareham-buenos-aires-ar.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026-05-14,,2026-01-21,,Centro Arte,Alameda,,Chile,centro-arte-alameda-chile,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-14-alameda-chile.jpg
+dean-and-britta,dean-wareham,Dean Wareham,2026-05-09,,2026-01-14,,Cine Joia,São Paulo,,Brazil,cine-joia-sao-paulo-brazil,,https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-09-saopaulo.jpg
+luna,luna,Luna,2026-04-07,,2025-12-19,,Union Transfer,Philadelphia,PA,USA,union-transfer-philadelphia-pa-usa,Performing Bewitched,
+luna,luna,Luna,2026-04-08,,2025-12-18,,The Birchmere Music Hall,Alexandria,VA,USA,the-birchmere-music-hall-alexandria-va-usa,,
