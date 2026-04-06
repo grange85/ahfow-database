@@ -7,10 +7,6 @@ layout: default
 
 {%- capture show-slug -%}{{- page.ahfow.slug -}}-{{- page.ahfow.date -}}-{{-page.ahfow.venue-slug -}}{%- endcapture -%}
 {%- assign bookmarks = site.data.gigography.live-show-bookmarks | where: 'slug' , show-slug -%}
-<pre>
-	slug: {{show-slug}}
-	bookmarks: {{bookmarks}}
-</pre>
 
 <h2>{{ page.ahfow.artistname }} - {{ ordinaldate }}<br><span>
 		{%- if page.ahfow.event -%}{{ page.ahfow.event }},&nbsp;{%-endif-%}
