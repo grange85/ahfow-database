@@ -121,6 +121,7 @@ layout: default
 
 
 						{% if page.ahfow.support %}
+                        {% assign supports = page.ahfow.support | split: "|" %}
 						<div>
 							<div>
 								<div>
@@ -129,7 +130,7 @@ layout: default
 									</div>
 									<div>
 										<ul>
-										{% for act in page.ahfow.support %}
+										{% for act in supports %}
 												<li>{{act}}</li>
 										{% endfor %}
 										</ul>
