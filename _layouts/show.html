@@ -142,8 +142,7 @@ layout: default
 						</div>
 						{% endif %}
 
-
-						{% if bookmarks != "" %}
+						{% if bookmarks.size > 0 %}
 						<div>
 							<div>
 								<div>
@@ -153,7 +152,10 @@ layout: default
 									<div>
 										<ul>
 										{%- for bookmark in bookmarks -%}
-										<li><a href="{{bookmark.url}}">{{bookmark.title}}</a> (added: {{bookmark.date_added}})</li>
+										<li><a href="{{bookmark.url}}">{{- bookmark.title -}}</a><br>
+											{%- if bookmark.notes -%}<em>{{- bookmark.notes -}}</em><br>{%- endif -%}
+											<small>(added: {{- bookmark.date_added -}})</small>
+										</li>
 										{%- endfor -%}
 										</ul>
 									</div>
