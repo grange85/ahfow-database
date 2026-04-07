@@ -85,7 +85,7 @@ layout: default
 					{% capture ordinaldate %}{% case day %}{% when '' %}{{ day }}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{show.date | date: "%B %Y"}}{% endcapture %}
 					<tr>
 						<th>{{ ordinaldate }}</th>
-						<td><a href="{{ site.baseurl }}/{{ artist_slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">{{ show.venue }}</a><br/>
+						<td><a href="{{ site.baseurl }}/{{ artist_slug }}/shows/{{ show.show-slug }}/">{{ show.venue }}</a><br/>
 						{% if show.cancelled %}<span>Cancelled</span>{% endif %}
 						{% if show.artistname %}<span>{{ show.artistname }}</span>
 						{% else %}<span>{{ artist_name }}</span>

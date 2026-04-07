@@ -46,8 +46,8 @@
 
 			<pubDate>{{ show.date-added | date_to_rfc822 }}</pubDate>
 			<ahfow:showDate isoValue="{{ show.date | date: '%Y%m%d' }}">{{ show.date | date_to_rfc822 }}</ahfow:showDate>
-			<link>{{ site.url }}{{ site.baseurl }}/{{ show.section-slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</link>
-			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/{{show.section-slug}}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/</guid>
+			<link>{{ site.url }}{{ site.baseurl }}/{{ show.section-slug }}/shows/{{ show.show-slug }}/</link>
+			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/{{show.section-slug}}/shows/{{ show.show-slug }}/</guid>
 			</item>{%-endif-%}{% endfor %}
 	</channel>
 </rss>

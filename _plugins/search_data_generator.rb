@@ -51,9 +51,7 @@ module Jekyll
 
             # Construct show slug same as jekyll-datapage-generator:
             # record['slug'] + "-" + date + disambiguate + "-" + venue-slug
-            date_str = Date.parse(row['date']).strftime('%Y-%m-%d') rescue row['date']
-            disambiguate = row['disambiguate'].to_s.strip
-            show_slug = "#{row['slug']}-#{date_str}#{disambiguate}-#{row['venue-slug']}"
+            show_slug = "#{row['show-slug']}"
             show_url = "/database/#{artist_slug}/shows/#{show_slug}/"
             # puts row['state'].inspect
             location = [row['city'], row['state'], row['country']].compact.join(', ')
