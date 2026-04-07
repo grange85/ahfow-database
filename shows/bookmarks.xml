@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+  <channel>
+    <title>{{ site.title | xml_escape }} - Live show bookmarks</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <image>
+        <url>https://media.fullofwishes.co.uk/00-misc/ahfow-web/ahfow-2015-site-image1400x1400.jpg</url>
+        <width>1400</width>
+        <height>1400</height>
+        <title>A Head Full of Wishes</title>
+        <link>https://www.fullofwishes.co.uk</link>
+    </image>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+	<atom:link href="{{ "shows/bookmarks.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+	{% assign bookmarks = site.data.gigography.live-show-bookmarks | sort: 'date_added' | reverse %}
+    {% for bookmark in bookmarks limit:50 -%}
+     {% unless post.draft -%}
+      <item>
+        <title>{{ bookmark.title | xml_escape }}</title>
+        <description>{{ bookmark.notes | strip_html | truncatewords: 20 | xml_escape }}
+        </description>
+		<author>{{site.email}} ({{site.author}})</author>
+        <pubDate>{{ bookmark.date_added | date_to_rfc822 }}</pubDate>
+        <link>{{ bookmark.url }}</link>
+		<guid isPermaLink="false">{{ bookmark.slug }}-{{bookmark.url}}</guid>
+      </item>
+      {% endunless %}
+    {% endfor %}
+  </channel>
+</rss>
