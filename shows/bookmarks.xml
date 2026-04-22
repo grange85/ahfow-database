@@ -32,8 +32,8 @@ layout: null
         </description>
 		<author>{{site.email}} ({{site.author}})</author>
         <pubDate>{{ bookmark.date_added | date_to_rfc822 }}</pubDate>
-        <link>{{ bookmark.url | url_encode }}</link>
-		<guid isPermaLink="false">{{ bookmark.slug }}-{{bookmark.url | url_encode }}</guid>
+        <link>{{ bookmark.url | uri_escape }}</link>
+		<guid isPermaLink="false">{{ bookmark.slug }}-{{bookmark.url | uri_escape }}</guid>
       </item>
       {% endunless %}
     {% endfor %}
