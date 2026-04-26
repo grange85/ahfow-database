@@ -23,12 +23,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
 	{%- assign bookmarks = site.data.gigography.live-show-bookmarks | sort: 'date_added' | reverse -%}
     {%- for bookmark in bookmarks limit:50 -%}
-     {%- unless post.draft -%}
-	 {%- get_csv_data luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa as data -%}
-      <item>
+	{%- unless post.draft -%}
+
+	{%- get_csv_data bookmark.slug -%}
+  
+	<item>
         <title>{{ bookmark.title | xml_escape }}</title>
         <description>{{ bookmark.notes | strip_html | truncatewords: 20 | xml_escape }}
-		{{data.venue}}
+	    Date: {{ showdata.date | date_to_long_string }}
+		Venue: {{- showdata.venue -}}, {{- showdata.city -}} {%- if showdata.state -%}, {{-showdata.state-}}{%- endif -%}, {{-showdata.country-}}
         </description>
 		<author>{{site.email}} ({{site.author}})</author>
         <pubDate>{{ bookmark.date_added | date_to_rfc822 }}</pubDate>
