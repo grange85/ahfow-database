@@ -1,7 +1,13 @@
 ---
 permalink: /404.html
 layout: default
+sqlite:
+  - data: showinfo
+    query: "SELECT * from acts"
+    file: "_db/music.db"
 ---
+
+{{ page.showinfo | jsonify }}
 
 <style type="text/css" media="screen">
   .container {
