@@ -1,8 +1,23 @@
 ---
 layout: default
+sqlite:
+  - data: showinfo
+    file: "_db/music.db"
+    query: "SELECT * from acts"
+dummy: :layout
 ---
 {%-include back_link.html-%}
 
+
+HERE: {{page.ahfow.id}} - {{page.dummy}} - {{page.showinfo | jsonify}}
+
+<hr>
+
+HERE0: {{showinfo}}
+HERE2: {{page.showinfo}}
+HERE3: {{page.ahfow.showinfo}}
+
+<hr>
 {% assign day = page.ahfow.date|date: "%-d"  %}{% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{page.ahfow.date|date: "%B %Y"}}{% endcapture %}
 
 {%- assign bookmarks = site.data.gigography.live-show-bookmarks | where: 'slug' , page.ahfow.show-slug -%}
@@ -88,8 +103,8 @@ layout: default
 									<div>
 										<p>{{ page.ahfow.notes }}</p>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -111,8 +126,8 @@ layout: default
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -135,8 +150,8 @@ layout: default
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -160,8 +175,8 @@ layout: default
 										{%- endfor -%}
 										</ul>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -220,8 +235,8 @@ layout: default
 										{% endfor %}
 										</ul>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
@@ -245,8 +260,8 @@ layout: default
 											</figcaption>
 										</figure>
 									</div>
-						  	<div>
-    							<a href="#top"><small>Back to top</small></a>
+							<div>
+								<a href="#top"><small>Back to top</small></a>
 							</div>
 								</div>
 							</div>
