@@ -1,0 +1,82 @@
+slug: damon-and-naomi-2026-01-03-cafe-oto-london-uk
+date: '2026-01-03'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals|Laetitia
+  Sadier - vocals/trombone|Mark Webber - guitar
+support: Laetitia Sadier|Stewart Lee
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-cafe-oto-2026.jpg
+ticket_url: https://www.cafeoto.co.uk/events/damon-naomi-three-day-residency/
+venue_name: Cafe Oto
+venue_slug: cafe-oto-london-uk
+city: London
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Oceans in Between
+  canonical_title: Oceans in Between
+  song_slug: oceans-in-between
+  full_title: Oceans in Between
+- position: 2
+  raw_title: Between the Wars
+  canonical_title: Between the Wars
+  song_slug: between-the-wars
+  full_title: Between the Wars
+- position: 3
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 4
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 5
+  raw_title: Nettles and Ivy
+  canonical_title: Nettles and Ivy
+  song_slug: nettles-and-ivy
+  full_title: Nettles and Ivy
+- position: 6
+  raw_title: Midnight
+  canonical_title: Midnight
+  song_slug: midnight
+  full_title: Midnight
+- position: 7
+  raw_title: In the Sun
+  canonical_title: In the Sun
+  song_slug: in-the-sun
+  full_title: In the Sun
+- position: 8
+  raw_title: Eye of the Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 9
+  raw_title: Turn of the Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 10
+  raw_title: Flowers [with Laetitia Sadier and Mark Webber]
+  annotation: with Laetitia Sadier and Mark Webber
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 11
+  raw_title: When Will You Come Home [with Laetitia Sadier and Mark Webber]
+  annotation: with Laetitia Sadier and Mark Webber
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 12
+  raw_title: Tugboat [with Laetitia Sadier and Mark Webber]
+  annotation: with Laetitia Sadier and Mark Webber
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

@@ -1,0 +1,45 @@
+slug: damon-and-naomi-2004-01-19-mandala-2-tokyo-japan
+date: '2004-01-19'
+year: 2004
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Mandala-2
+venue_slug: mandala-2-tokyo-japan
+city: Tokyo
+country: Japan
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Araçá Azul
+  canonical_title: Araçá Azul
+  song_slug: araca-azul
+  full_title: Araçá Azul
+- position: 2
+  raw_title: The Earth is Blue
+  canonical_title: The Earth Is Blue
+  song_slug: the-earth-is-blue
+  full_title: The Earth Is Blue
+- position: 3
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 4
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 5
+  raw_title: My Flower (Watashi No Hana)
+  canonical_title: My Flower (Watashi No Hana)
+  song_slug: my-flower-watashi-no-hana
+  full_title: My Flower (Watashi No Hana)
+- position: 6
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love

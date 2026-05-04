@@ -1,0 +1,218 @@
+title: The Robot Speaks
+slug: the-robot-speaks
+sort_title: ROBOT SPEAKS
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Robot Speaks
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.01'
+      position: 8
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Sonic Unyon
+      catalogue_no: SUNCD105
+      position: 8
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 8
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: P-Vine/20|20|20
+      catalogue_no: PCD 23593
+      position: 8
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: LP
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: 202020.01LP
+      side: B
+      position: 8
+    - release_title: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+      release_slug: shibuya-o-nest-tokyo-japan-june-24-2005
+      release_type: Video
+      year: 2006
+      format: DVD
+      edition_year: 2006
+      label: (no label)
+      side: A
+      position: 7
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 7
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 6
+    played_live:
+    - show_slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+      date: '2005-06-24'
+      year: 2005
+      venue: Shibuya O-Nest
+      city: Tokyo
+      country: Japan
+      position: 7
+    - show_slug: damon-and-naomi-2006-04-23-terrastock-providence-ri-usa
+      date: '2006-04-23'
+      year: 2006
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2008-06-15-le-poisson-rouge-new-york-ny-usa
+      date: '2008-06-15'
+      year: 2008
+      venue: Le Poisson Rouge
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2008-10-12-rough-trade-east-london-uk
+      date: '2008-10-12'
+      year: 2008
+      venue: Rough Trade East
+      city: London
+      country: UK
+      position: 3
+    - show_slug: damon-and-naomi-2016-09-13-yu-yin-tang-shanghai-china
+      date: '2016-09-13'
+      year: 2016
+      venue: Yu Yin Tang
+      city: Shanghai
+      country: China
+      position: 12
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 11
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 7
+    - show_slug: damon-and-naomi-2018-11-16-union-pool-brooklyn-ny-usa
+      date: '2018-11-16'
+      year: 2018
+      venue: Union Pool
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2019-04-11-zebulon-los-angeles-ca-usa
+      date: '2019-04-11'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2023-05-09-tubbys-kingston-ny-usa
+      date: '2023-05-09'
+      year: 2023
+      venue: Tubby's
+      city: Kingston
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2023-05-10-union-pool-new-york-ny-usa
+      date: '2023-05-10'
+      year: 2023
+      venue: Union Pool
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: damon-and-naomi-2023-05-12-best-video-film--cultural-center-hamden-ct-usa
+      date: '2023-05-12'
+      year: 2023
+      venue: Best Video Film & Cultural Center
+      city: Hamden
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2023-09-03-cafe-oto-london-uk
+      date: '2023-09-03'
+      year: 2023
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2023-09-04-gullivers-manchester-uk
+      date: '2023-09-04'
+      year: 2023
+      venue: Gullivers
+      city: Manchester
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2023-09-09-cafe-de-paris-paris-france
+      date: '2023-09-09'
+      year: 2023
+      venue: Cafe de Paris
+      city: Paris
+      country: France
+      position: 5
+    - show_slug: damon-and-naomi-2023-10-16-bar-orwell-toronto-ontario-canada
+      date: '2023-10-16'
+      year: 2023
+      venue: Bar Orwell
+      city: Toronto
+      country: Canada
+      position: 5
+    - show_slug: damon-and-naomi-2023-10-19-epsilon-spires-brattleboro-vt-usa
+      date: '2023-10-19'
+      year: 2023
+      venue: Epsilon Spires
+      city: Brattleboro
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2026-01-03-cafe-oto-london-uk
+      date: '2026-01-03'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 3

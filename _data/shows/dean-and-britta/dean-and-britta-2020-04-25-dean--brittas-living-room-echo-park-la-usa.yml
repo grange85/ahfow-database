@@ -1,0 +1,27 @@
+slug: dean-and-britta-2020-04-25-dean--brittas-living-room-echo-park-la-usa
+date: '2020-04-25'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals
+notes: Ad-hoc live stream from Dean & Britta's home in Los Angeles
+venue_name: Dean & Britta's living room
+venue_slug: dean--brittas-living-room-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace

@@ -1,0 +1,25 @@
+title: It's All Over Now, Baby Blue / Yoo Doo Right
+slug: its-all-over-now-baby-blue-yoo-doo-right
+release_type: Single
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/dan_itsallovernow.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '7'
+  year: 1999
+  label: Grimsey
+  sleeve_url: https://media.fullofwishes.co.uk/ahfow/uploads/2011/12/dan_itsallovernow.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: It's All Over Now Baby Blue
+    slug: its-all-over-now-baby-blue
+    full_title: It's All Over Now Baby Blue
+  - position: 2
+    side: B
+    side_position: 1
+    title: Yoo Doo Right
+    slug: yoo-doo-right
+    full_title: Yoo Doo Right

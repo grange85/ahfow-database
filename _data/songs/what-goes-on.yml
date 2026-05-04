@@ -1,0 +1,55 @@
+title: What Goes On
+slug: what-goes-on
+sort_title: WHAT GOES ON
+authors: Lou Reed
+original_artist: The Velvet Underground
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: What Goes On
+    appears_on: []
+    played_live:
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 21
+    - show_slug: luna-2024-03-14-vivarium-milwaukee-wi-usa
+      date: '2024-03-14'
+      year: 2024
+      venue: Vivarium
+      city: Milwaukee
+      country: USA
+      position: 9
+    - show_slug: luna-2024-03-16-lincoln-hall-chicago-il-usa
+      date: '2024-03-16'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+      date: '2024-12-29'
+      year: 2024
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 17
+    - show_slug: luna-2024-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2024-12-31'
+      year: 2024
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 17
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 16

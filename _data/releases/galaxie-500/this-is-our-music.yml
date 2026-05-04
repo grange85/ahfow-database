@@ -1,0 +1,658 @@
+title: This Is Our Music
+slug: this-is-our-music
+release_type: Album
+year: 1990
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_thisisourmusic.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: ROUGH CD 156
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_tiom_rt_cd_front.jpg
+  ahfow_ref: AHFOW 10/078
+  my_collection_url: https://www.fullofwishes.co.uk/2023/05/08/my-record-collection-032-galaxie-500-this-is-our-music/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+- format: CD
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: ROUGH CD 156L
+  ahfow_ref: AHFOW 10/073
+  my_collection_url: https://www.fullofwishes.co.uk/2023/08/10/my-record-collection-059-galaxie-500-this-is-our-music/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+- format: LP
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: ROUGH 156
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side: A
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side: A
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side: A
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side: A
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side: B
+    side_position: 1
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side: B
+    side_position: 2
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side: B
+    side_position: 3
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side: B
+    side_position: 4
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+- format: CD
+  country: US
+  year: 1990
+  label: Rough Trade America
+  catalogue_no: RUS 86-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+- format: CD
+  country: JP
+  year: 1997
+  label: Videoarts Music
+  catalogue_no: VACK-1121
+  ahfow_ref: AHFOW 10/049
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: CD
+  country: US
+  year: 1997
+  label: Rykodisc
+  catalogue_no: RCD 10358
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: CD
+  country: JP
+  year: 2008
+  label: Videoarts Music
+  catalogue_no: VACK 1370
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: LP
+  country: US
+  year: 2009
+  label: 20|20|20
+  catalogue_no: 202020.09LP
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side: A
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side: A
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side: A
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side: A
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side: B
+    side_position: 1
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side: B
+    side_position: 2
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side: B
+    side_position: 3
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side: B
+    side_position: 4
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+- format: 2×CD
+  country: GB
+  year: 2010
+  label: Domino
+  catalogue_no: Domino
+  ahfow_ref: AHFOW 10/079
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 11
+    side_position: 11
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 12
+    side_position: 12
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 13
+    side_position: 13
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 14
+    side_position: 14
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 15
+    side_position: 15
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 16
+    side_position: 16
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 17
+    side_position: 17
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 18
+    side_position: 18
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 19
+    side_position: 19
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+- format: 2×CD
+  country: US
+  year: 2010
+  label: 20|20|20
+  catalogue_no: '202020.09'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain Part Two
+    slug: king-of-spain-part-two
+    full_title: King of Spain Part Two
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 11
+    side_position: 11
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 12
+    side_position: 12
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 13
+    side_position: 13
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 14
+    side_position: 14
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 15
+    side_position: 15
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 16
+    side_position: 16
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 17
+    side_position: 17
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 18
+    side_position: 18
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 19
+    side_position: 19
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste

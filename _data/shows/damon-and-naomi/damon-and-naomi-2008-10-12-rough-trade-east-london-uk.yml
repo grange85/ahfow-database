@@ -1,0 +1,41 @@
+slug: damon-and-naomi-2008-10-12-rough-trade-east-london-uk
+date: '2008-10-12'
+year: 2008
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+notes: Free in-store - 7pm
+venue_name: Rough Trade East
+venue_slug: rough-trade-east-london-uk
+city: London
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 2
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 3
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 4
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 5
+  raw_title: Cruel Queen
+  canonical_title: Cruel Queen
+  song_slug: cruel-queen
+  full_title: Cruel Queen

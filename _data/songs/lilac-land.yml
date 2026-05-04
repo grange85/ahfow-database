@@ -1,0 +1,186 @@
+title: Lilac Land
+slug: lilac-land
+sort_title: LILAC LAND
+authors: Krukowski/Yang
+lyrics: 'The morning so sweet has a way of disappearing
+
+  That moment is lost to the day
+
+  The truth I believed has a way of interfering
+
+  With what I find I must say
+
+  My heart is now broken
+
+  And I fear we''ve run out of time
+
+  The new growth of spring comes alive in such profusion
+
+  I don''t even mind when blossoms fall
+
+  Your voice on the phone, it fills me with confusion
+
+  I don''t even want you to call
+
+  Cause my heart is now broken
+
+  And we, we''ve run out of time'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Lilac Land
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 1
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 1
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Video
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 9
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 3
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 10
+    played_live:
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+      date: '2007-11-22'
+      year: 2007
+      venue: Lemon Tree
+      city: Aberdeen
+      country: UK
+      position: 1
+    - show_slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+      date: '2008-06-14'
+      year: 2008
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2008-06-15-le-poisson-rouge-new-york-ny-usa
+      date: '2008-06-15'
+      year: 2008
+      venue: Le Poisson Rouge
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2009-10-16-high-dive-denver-co-usa
+      date: '2009-10-16'
+      year: 2009
+      venue: High Dive
+      city: Denver
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 4
+    - show_slug: damon-and-naomi-2010-08-08-off-festival-katowice-poland
+      date: '2010-08-08'
+      year: 2010
+      venue: OFF Festival
+      city: Katowice
+      country: Poland
+      position: 4
+    - show_slug: damon-and-naomi-2011-05-25-horseshoe-toronto-ontario-canada
+      date: '2011-05-25'
+      year: 2011
+      venue: Horseshoe
+      city: Toronto
+      country: Canada
+      position: 3
+    - show_slug: damon-and-naomi-2015-12-04-legacy-mini-taipei-taiwan
+      date: '2015-12-04'
+      year: 2015
+      venue: Legacy Mini
+      city: Taipei
+      country: Taiwan
+      position: 8
+    - show_slug: damon-and-naomi-2016-09-13-yu-yin-tang-shanghai-china
+      date: '2016-09-13'
+      year: 2016
+      venue: Yu Yin Tang
+      city: Shanghai
+      country: China
+      position: 10
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 5
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2018-11-16-union-pool-brooklyn-ny-usa
+      date: '2018-11-16'
+      year: 2018
+      venue: Union Pool
+      city: Brooklyn
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2019-04-11-zebulon-los-angeles-ca-usa
+      date: '2019-04-11'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2026-01-05-cafe-oto-london-uk
+      date: '2026-01-05'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 3

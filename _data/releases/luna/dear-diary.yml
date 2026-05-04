@@ -1,0 +1,44 @@
+title: Dear Diary
+slug: dear-diary
+release_type: Single
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dear-diary-beggars-promo.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: UK
+  year: 1999
+  label: Beggars Banquet
+  catalogue_no: BBQ 340CDP
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dear-diary-beggars-promo.jpg
+  notes: Promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 2
+    side_position: 2
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+  - position: 3
+    side_position: 3
+    title: Requiem for a Mouse
+    slug: requiem-for-a-mouse
+    full_title: Requiem for a Mouse
+- format: CD
+  country: US
+  year: 1999
+  label: Jericho
+  catalogue_no: PRO 00006-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dear-diary-jericho-promo.jpg
+  notes: Radio promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary

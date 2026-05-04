@@ -1,0 +1,38 @@
+title: Do You Know How Christmas Trees Are Grown?
+slug: do-you-know-how-christmas-trees-are-grown
+sort_title: DO YOU KNOW HOW CHRISTMAS TREES ARE GROWN
+authors: John Barry/Hal David
+original_artist: Nina
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Do You Know How Christmas Trees Are Grown?
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: A
+      position: 3
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2024-12-13-dean--brittas-basement-echo-park-la-usa
+      date: '2024-12-13'
+      year: 2024
+      venue: Dean & Britta's basement
+      city: Echo Park
+      country: USA
+      position: 3

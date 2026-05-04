@@ -1,0 +1,519 @@
+title: Rhythm King
+slug: rhythm-king
+sort_title: RHYTHM KING
+lyrics: 'your earings area dancin''
+
+  they''re flyin'' in circles
+
+  your janglin'' jewelry
+
+  is hypnotisin''
+
+  your girldfriends met for coctails
+
+  leavin'' you behind
+
+  giggles ''round the table
+
+  never you mind
+
+
+  wait for an answer
+
+  good things will come
+
+  good things will happen
+
+  you''re gonna get some
+
+  good things are comin''
+
+  ahhhhhhh......
+
+
+  headin'' for tacoma
+
+  and drivin'' too fast
+
+  nixon''s in a coma
+
+  and i hope it''s gonna last
+
+  women turn to flowers
+
+  men turn to snakes
+
+  you''re turnin'' in to someone else
+
+  never you mind
+
+
+  wait for an answer
+
+  good things will come
+
+  good things will happen
+
+  you''re gonna get some
+
+  good things are comin''
+
+  ahhhhhhh...'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Rhythm King
+    appears_on:
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: CD
+      country: GB
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BBQCD178
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: LP
+      country: GB
+      edition_year: 1995
+      label: Beggars Banquet
+      side: B
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: B
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: CD
+      country: US
+      edition_year: 1995
+      label: Elektra
+      catalogue_no: 61807-2
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: CD
+      country: US
+      edition_year: 1995
+      label: Elektra Japan
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: MC
+      country: US
+      edition_year: 1995
+      label: Elektra
+      side: B
+      position: 7
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: MC
+      country: US
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BB!MC178
+      side: B
+      position: 7
+    - release_title: Live Penthouse
+      release_slug: live-penthouse
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 7
+    - release_title: Live Penthouse
+      release_slug: live-penthouse
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-1995-09-15-cats-cradle-carrboro-nc-usa
+      date: '1995-09-15'
+      year: 1995
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 6
+    - show_slug: luna-1995-11-11-early-knitting-factory-new-york-ny-usa
+      date: '1995-11-11'
+      year: 1995
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-1996-05-25-930-club-washington-dc-usa
+      date: '1996-05-25'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 3
+    - show_slug: luna-2000-07-13-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2000-07-13'
+      year: 2000
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-2000-08-04-warhol-museum-pittsburgh-pa-usa
+      date: '2000-08-04'
+      year: 2000
+      venue: Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 4
+    - show_slug: luna-2001-02-23-knitting-factory-los-angeles-ca-usa
+      date: '2001-02-23'
+      year: 2001
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: luna-2001-02-24-fillmore-san-francisco-ca-usa
+      date: '2001-02-24'
+      year: 2001
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-2001-03-30-bowery-ballroom-new-york-ny-usa
+      date: '2001-03-30'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-2001-05-18-trees-lounge-dallas-tx-usa
+      date: '2001-05-18'
+      year: 2001
+      venue: Trees Lounge
+      city: Dallas
+      country: USA
+      position: 7
+    - show_slug: luna-2002-06-20-variety-playhouse-atlanta-ga-usa
+      date: '2002-06-20'
+      year: 2002
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 12
+    - show_slug: luna-2003-08-15-black-cat-washington-dc-usa
+      date: '2003-08-15'
+      year: 2003
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 9
+    - show_slug: luna-2003-08-22-southpaw-brooklyn-ny-usa
+      date: '2003-08-22'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 8
+    - show_slug: luna-2003-08-23-southpaw-brooklyn-ny-usa
+      date: '2003-08-23'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 8
+    - show_slug: luna-2005-02-11-2100-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 8
+    - show_slug: luna-2005-02-24-st-andrews-hall-detroit-mi-usa
+      date: '2005-02-24'
+      year: 2005
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 3
+    - show_slug: luna-2005-02-27-2000-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-27'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2015-10-02-terminal-west-atlanta-ga-usa
+      date: '2015-10-02'
+      year: 2015
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 8
+    - show_slug: luna-2015-10-22-harlows-sacramento-ca-usa
+      date: '2015-10-22'
+      year: 2015
+      venue: Harlow's
+      city: Sacramento
+      country: USA
+      position: 8
+    - show_slug: luna-2015-10-25-the-teragram-ballroom-los-angeles-ca-usa
+      date: '2015-10-25'
+      year: 2015
+      venue: The Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 8
+    - show_slug: luna-2015-11-05-kexp-seattle-wa-usa
+      date: '2015-11-05'
+      year: 2015
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-2016-09-29-birchmere-music-hall-alexandria-va-usa
+      date: '2016-09-29'
+      year: 2016
+      venue: Birchmere Music Hall
+      city: Alexandria
+      country: USA
+      position: 7
+    - show_slug: luna-2016-10-02-rough-trade-nyc-brooklyn-ny-usa
+      date: '2016-10-02'
+      year: 2016
+      venue: Rough Trade NYC
+      city: Brooklyn
+      country: USA
+      position: 8
+    - show_slug: luna-2016-10-05-academy-3-manchester-uk
+      date: '2016-10-05'
+      year: 2016
+      venue: Academy 3
+      city: Manchester
+      country: UK
+      position: 8
+    - show_slug: luna-2016-10-06-o2-academy-oxford-uk
+      date: '2016-10-06'
+      year: 2016
+      venue: O2 Academy
+      city: Oxford
+      country: UK
+      position: 8
+    - show_slug: luna-2016-10-07-academy-islington-london-uk
+      date: '2016-10-07'
+      year: 2016
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 8
+    - show_slug: luna-2016-10-09-piaf-antwerp-belgium
+      date: '2016-10-09'
+      year: 2016
+      venue: Piaf
+      city: Antwerp
+      country: Belgium
+      position: 8
+    - show_slug: luna-2017-01-20-the-chapel-san-francisco-ca-usa
+      date: '2017-01-20'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-2017-11-10-headliners-music-hall-louisville-ky-usa
+      date: '2017-11-10'
+      year: 2017
+      venue: Headliners Music Hall
+      city: Louisville
+      country: USA
+      position: 5
+    - show_slug: luna-2019-10-01-the-paradise-boston-ma-usa
+      date: '2019-10-01'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-04-union-transfer-philadelphia-pa-usa
+      date: '2019-10-04'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-05-930-club-washington-dc-usa
+      date: '2019-10-05'
+      year: 2019
+      series: Luna play Penthouse
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-11-off-broadway-st-louis-mo-usa
+      date: '2019-10-11'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-13-lincoln-hall-chicago-il-usa
+      date: '2019-10-13'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-15-lees-palace-toronto-ontario-canada
+      date: '2019-10-15'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 8
+    - show_slug: luna-2019-10-20-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-20'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-2020-02-08-the-independent-san-francisco-ca-usa
+      date: '2020-02-08'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-10-doug-fir-lounge-portland-or-usa
+      date: '2020-02-10'
+      year: 2020
+      series: Luna play Penthouse
+      venue: Doug Fir Lounge
+      city: Portland
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-11-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-11'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-13-venue-vancouver-british-columbia-canada
+      date: '2020-02-13'
+      year: 2020
+      series: Luna play Penthouse
+      venue: Venue
+      city: Vancouver
+      country: Canada
+      position: 7
+    - show_slug: luna-2021-11-10-3ten-acl-live-austin-tx-usa
+      date: '2021-11-10'
+      year: 2021
+      series: Luna play Penthouse
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 8
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 1
+    - show_slug: luna-2021-11-18-birchmere-alexandria-va-usa
+      date: '2021-11-18'
+      year: 2021
+      venue: Birchmere
+      city: Alexandria
+      country: USA
+      position: 2
+    - show_slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+      date: '2024-12-29'
+      year: 2024
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: luna-2024-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2024-12-31'
+      year: 2024
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 1
+    - show_slug: luna-2025-12-29-fillmore-san-francisco-ca-usa
+      date: '2025-12-29'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 3
+  - version_tag: Salvati mix
+    full_title: Rhythm King [Salvati mix]
+    appears_on:
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: C
+      position: 14
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: D
+      position: 19
+    played_live: []

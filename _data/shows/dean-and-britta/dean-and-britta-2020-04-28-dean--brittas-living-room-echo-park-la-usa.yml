@@ -1,0 +1,32 @@
+slug: dean-and-britta-2020-04-28-dean--brittas-living-room-echo-park-la-usa
+date: '2020-04-28'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals
+notes: Ad-hoc live stream from Dean & Britta's home in Los Angeles
+venue_name: Dean & Britta's living room
+venue_slug: dean--brittas-living-room-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: (Walkin' Thru The) Sleepy City
+  canonical_title: (Walkin' Thru The) Sleepy City
+  song_slug: walkin-thru-the-sleepy-city
+  full_title: (Walkin' Thru The) Sleepy City
+- position: 2
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 3
+  raw_title: California Blue
+  canonical_title: California Blue
+  song_slug: california-blue
+  full_title: California Blue

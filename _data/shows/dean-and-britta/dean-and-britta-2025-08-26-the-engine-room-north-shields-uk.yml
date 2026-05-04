@@ -1,0 +1,85 @@
+slug: dean-and-britta-2025-08-26-the-engine-room-north-shields-uk
+date: '2025-08-26'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards
+support: Lucas Renney
+ticket_url: https://www.seetickets.com/event/dean-britta/the-engine-room/3429213
+venue_name: The Engine Room
+venue_slug: the-engine-room-north-shields-uk
+city: North Shields
+country: UK
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Mystery Guest
+  canonical_title: Mystery Guest
+  song_slug: mystery-guest
+  full_title: Mystery Guest
+- position: 2
+  raw_title: Dear Betty Baby
+  canonical_title: Dear Betty Baby
+  song_slug: dear-betty-baby
+  full_title: Dear Betty Baby
+- position: 3
+  raw_title: He Dines Out on Death
+  canonical_title: He Dines Out on Death
+  song_slug: he-dines-out-on-death
+  full_title: He Dines Out on Death
+- position: 4
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 5
+  raw_title: I'll Keep it With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 6
+  raw_title: The Last Word
+  canonical_title: The Last Word
+  song_slug: the-last-word
+  full_title: The Last Word
+- position: 7
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 8
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive
+- position: 9
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 10
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 11
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 12
+  raw_title: ^encore
+  annotation: encore
+- position: 13
+  raw_title: The Sun is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 14
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

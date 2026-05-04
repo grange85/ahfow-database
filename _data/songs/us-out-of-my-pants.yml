@@ -1,0 +1,100 @@
+title: US Out of My Pants
+slug: us-out-of-my-pants
+sort_title: US OUT OF MY PANTS
+lyrics: 'sandpaper tongue inside my ear
+
+  tiny hands and bloodshot eyes
+
+  I feel so sexy
+
+  with your boot in my crotch
+
+  five o''clock shadow
+
+  six o''clock news
+
+
+  East Bay Ray
+
+  and Ruby Foo
+
+  said USA get out of my pants!
+
+  we made the world safe
+
+  for the cable news network
+
+  light another pill
+
+  the house is on fire'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: US Out of My Pants
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 10
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: B
+      position: 10
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 10
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: B
+      position: 10
+    played_live:
+    - show_slug: luna-1999-07-27-2-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 16
+    - show_slug: luna-1999-11-18-kcrw-santa-monica-ca-usa
+      date: '1999-11-18'
+      year: 1999
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 5
+    - show_slug: luna-1999-12-02-fletchers-baltimore-md-usa
+      date: '1999-12-02'
+      year: 1999
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 8

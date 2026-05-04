@@ -1,0 +1,28 @@
+title: Temperature's Rising
+slug: temperatures-rising
+release_type: Single
+year: 2013
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '7'
+  country: US
+  year: 2013
+  label: Yeti Publishing
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_temperaturesrising.jpg
+  notes: 'Free single available with the limited edition of the book Temperature''s
+    Rising: Galaxie 500 an oral and visual history'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 2
+    side: B
+    side_position: 1
+    title: Crazy
+    slug: crazy
+    full_title: Crazy

@@ -1,0 +1,99 @@
+title: Rollercoaster
+slug: rollercoaster
+sort_title: ROLLERCOASTER
+lyrics: 'Rollercoaster, bumper car
+
+  Ghost town and the wax museum
+
+  Stinking drunk just like the pope(?)
+
+  Rollercoaster give me hope
+
+
+  Cyclone and the house of freaks
+
+  Nathan''s hotdogs on the boardwalk
+
+  Rollercoaster, bumper car
+
+  Twinkle twinkle little star
+
+
+  Rollercoaster, bumper car
+
+  Ghost town and the wax museum
+
+  Stinking drunk just like the pope(?)
+
+  Rollercoaster give me hope'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Rollercoaster
+    appears_on:
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36CD
+      position: 6
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: '12'
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      side: B
+      position: 4
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      position: 4
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: 9 61472-2
+      position: 6
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: A
+      position: 6
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: B
+      position: 12
+    played_live: []

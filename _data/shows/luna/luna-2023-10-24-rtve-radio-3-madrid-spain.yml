@@ -1,0 +1,31 @@
+slug: luna-2023-10-24-rtve-radio-3-madrid-spain
+date: '2023-10-24'
+year: 2023
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass/vocals
+notes: Live radio performance and interview  TRUE
+venue_name: RTVE Radio 3
+venue_slug: rtve-radio-3-madrid-spain
+city: Madrid
+country: Spain
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 2
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 3
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace

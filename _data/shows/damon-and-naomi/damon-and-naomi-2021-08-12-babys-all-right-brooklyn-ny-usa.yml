@@ -1,0 +1,72 @@
+slug: damon-and-naomi-2021-08-12-babys-all-right-brooklyn-ny-usa
+date: '2021-08-12'
+year: 2021
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Naomi Yang - keyboards/vocals|Damon Krukowski - guitar/vocals
+ticket_url: https://www.seetickets.us/event/Damon-andNaomi/435632
+venue_name: Baby's All Right
+venue_slug: babys-all-right-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Oceans in Between
+  canonical_title: Oceans in Between
+  song_slug: oceans-in-between
+  full_title: Oceans in Between
+- position: 2
+  raw_title: Between The Wars
+  canonical_title: Between the Wars
+  song_slug: between-the-wars
+  full_title: Between the Wars
+- position: 3
+  raw_title: Goodbye
+  canonical_title: Goodbye
+  song_slug: goodbye
+  full_title: Goodbye
+- position: 4
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 5
+  raw_title: Sailing By
+  canonical_title: Sailing By
+  song_slug: sailing-by
+  full_title: Sailing By
+- position: 6
+  raw_title: Season Without Time
+  canonical_title: Season Without Time
+  song_slug: season-without-time
+  full_title: Season Without Time
+- position: 7
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 8
+  raw_title: Turn of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 9
+  raw_title: Midnight
+  canonical_title: Midnight
+  song_slug: midnight
+  full_title: Midnight
+- position: 10
+  raw_title: The Aftertime
+  canonical_title: The Aftertime
+  song_slug: the-aftertime
+  full_title: The Aftertime
+- position: 11
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day

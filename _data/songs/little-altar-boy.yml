@@ -1,0 +1,54 @@
+title: Little Altar Boy
+slug: little-altar-boy
+sort_title: LITTLE ALTAR BOY
+authors: H. Smith
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Little Altar Boy
+    appears_on:
+    - release_title: Happy Xmas (War is Over)
+      release_slug: happy-xmas-war-is-over
+      release_type: Single
+      year: 2020
+      format: Digital
+      edition_year: 2020
+      label: (no label)
+      side: B
+      position: 2
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: B
+      position: 11
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2024-11-22-dean--brittas-living-room-echo-park-la-usa
+      date: '2024-11-22'
+      year: 2024
+      venue: Dean & Britta's living room
+      city: Echo Park
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 2

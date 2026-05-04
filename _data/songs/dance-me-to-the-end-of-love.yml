@@ -1,0 +1,20 @@
+title: Dance Me to the End of Love
+slug: dance-me-to-the-end-of-love
+sort_title: DANCE ME TO THE END OF LOVE
+authors: Leonard Cohen
+original_artist: Leonard Cohen
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Dance Me to the End of Love
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 9

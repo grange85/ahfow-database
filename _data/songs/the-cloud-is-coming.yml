@@ -1,0 +1,149 @@
+title: The Cloud Is Coming
+slug: the-cloud-is-coming
+sort_title: CLOUD IS COMING
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Cloud Is Coming
+    appears_on:
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Carpark Records
+      position: 10
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Carpark Records
+      side: B
+      position: 10
+    played_live:
+    - show_slug: dean-wareham-2025-04-01-the-garage-glasgow-uk
+      date: '2025-04-01'
+      year: 2025
+      venue: The Garage
+      city: Glasgow
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2025-04-05-brudenell-social-club-leeds-uk
+      date: '2025-04-05'
+      year: 2025
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 17
+    - show_slug: dean-wareham-2025-04-06-the-fleece-bristol-uk
+      date: '2025-04-06'
+      year: 2025
+      venue: The Fleece
+      city: Bristol
+      country: UK
+      position: 4
+    - show_slug: dean-wareham-2025-04-07-229-london-uk
+      date: '2025-04-07'
+      year: 2025
+      venue: '229'
+      city: London
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+      date: '2025-04-14'
+      year: 2025
+      venue: Frannz Club
+      city: Berlin
+      country: Germany
+      position: 3
+    - show_slug: dean-wareham-2025-04-16-pumpehuset-copenhagen-denmark
+      date: '2025-04-16'
+      year: 2025
+      venue: Pumpehuset
+      city: Copenhagen
+      country: Denmark
+      position: 5
+    - show_slug: dean-wareham-2025-04-21-16-toneladas-valencia-spain
+      date: '2025-04-21'
+      year: 2025
+      venue: 16 Toneladas
+      city: Valencia
+      country: Spain
+      position: 5
+    - show_slug: dean-wareham-2025-05-21-kexp-seattle-wa-usa
+      date: '2025-05-21'
+      year: 2025
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-02-the-press-room-portsmouth-nh-usa
+      date: '2025-06-02'
+      year: 2025
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2025-06-03-space-ballroom-hamden-ct-usa
+      date: '2025-06-03'
+      year: 2025
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-07-bowery-ballroom-new-york-ny-usa
+      date: '2025-06-07'
+      year: 2025
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-08-the-basement-at-bond-street-bar-asbury-park-nj-usa
+      date: '2025-06-08'
+      year: 2025
+      venue: The Basement at Bond Street Bar
+      city: Asbury Park
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-10-world-cafe-philadelphia-pa-usa
+      date: '2025-06-10'
+      year: 2025
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2025-06-16-lincoln-hall-chicago-il-usa
+      date: '2025-06-16'
+      year: 2025
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+      date: '2025-08-21'
+      year: 2025
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2025-08-22-with-sea-power-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-22'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 2
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 4

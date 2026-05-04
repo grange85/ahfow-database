@@ -1,0 +1,230 @@
+title: Lunafied
+slug: lunafied
+release_type: Album
+year: 2006
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunafied.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: Digital
+  year: 2006
+  label: Rhino
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 2
+    side: A
+    side_position: 2
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 3
+    side: A
+    side_position: 3
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 4
+    side: A
+    side_position: 4
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 5
+    side: A
+    side_position: 5
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 6
+    side: A
+    side_position: 6
+    title: In the Flesh
+    slug: in-the-flesh
+    full_title: In the Flesh
+  - position: 7
+    side: A
+    side_position: 7
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 8
+    side: A
+    side_position: 8
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of the Witch
+  - position: 9
+    side: A
+    side_position: 9
+    title: Dream Baby Dream
+    slug: dream-baby-dream
+    full_title: Dream Baby Dream
+  - position: 10
+    side: A
+    side_position: 10
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 11
+    side: A
+    side_position: 11
+    title: Fly Into the Mystery
+    slug: fly-into-the-mystery
+    full_title: Fly Into the Mystery
+  - position: 12
+    side: A
+    side_position: 12
+    title: Happy New Year
+    slug: happy-new-year
+    full_title: Happy New Year
+  - position: 13
+    side: A
+    side_position: 13
+    title: La Poupee Qui Fait Non
+    slug: la-poupee-qui-fait-non
+    full_title: La Poupee Qui Fait Non
+  - position: 14
+    side: A
+    side_position: 14
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 15
+    side: A
+    side_position: 15
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+- format: 2xLP
+  country: US
+  year: 2018
+  label: Run Out Groove
+  catalogue_no: ROGV-040
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Clyde Barrow Version
+    full_title: Bonnie and Clyde [Clyde Barrow Version]
+  - position: 2
+    side: A
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side: A
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side: A
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 5
+    side: B
+    side_position: 1
+    title: In the Flesh
+    slug: in-the-flesh
+    full_title: In the Flesh
+  - position: 6
+    side: B
+    side_position: 2
+    title: Dream Baby Dream
+    slug: dream-baby-dream
+    full_title: Dream Baby Dream
+  - position: 7
+    side: B
+    side_position: 3
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of the Witch
+  - position: 8
+    side: B
+    side_position: 4
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 9
+    side: B
+    side_position: 5
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 10
+    side: C
+    side_position: 1
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 11
+    side: C
+    side_position: 2
+    title: Happy New Year
+    slug: happy-new-year
+    full_title: Happy New Year
+  - position: 12
+    side: C
+    side_position: 3
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 13
+    side: C
+    side_position: 4
+    title: Fly Into the Mystery
+    slug: fly-into-the-mystery
+    full_title: Fly Into the Mystery
+  - position: 14
+    side: C
+    side_position: 5
+    title: La Poupee Qui Fait Non
+    slug: la-poupee-qui-fait-non
+    full_title: La Poupee Qui Fait Non
+  - position: 15
+    side: C
+    side_position: 6
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Bonnie Parker Version
+    full_title: Bonnie and Clyde [Bonnie Parker Version]
+  - position: 16
+    side: D
+    side_position: 1
+    title: Jealous Guy
+    slug: jealous-guy
+    full_title: Jealous Guy
+  - position: 17
+    side: D
+    side_position: 2
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 18
+    side: D
+    side_position: 3
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+  - position: 19
+    side: D
+    side_position: 4
+    title: Only Women Bleed
+    slug: only-women-bleed
+    full_title: Only Women Bleed
+  - position: 20
+    side: D
+    side_position: 5
+    title: Dance With Me
+    slug: dance-with-me
+    full_title: Dance With Me

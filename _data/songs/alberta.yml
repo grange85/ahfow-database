@@ -1,0 +1,43 @@
+title: Alberta
+slug: alberta
+sort_title: ALBERTA
+authors: traditional
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Alberta
+    appears_on:
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: CD
+      edition_year: 2018
+      label: Double Feature
+      position: 6
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: LP
+      edition_year: 2018
+      label: Double Feature
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 7

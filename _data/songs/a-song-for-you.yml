@@ -1,0 +1,124 @@
+title: A Song for You
+slug: a-song-for-you
+sort_title: SONG FOR YOU
+authors: Gram Parsons
+original_artist: Gram Parsons
+lyrics: 'Oh my land is like a wild goose
+
+  Wanders all around everywhere
+
+  Trembles and it shakes till every tree is loose
+
+  It rolls the meadows and it rolls the nails
+
+  So take me down to your dance floor
+
+  And I wont mind the people when they stare
+
+  Paint a different color on your front door
+
+  And tomorrow we will still be there
+
+
+  Jesus built a ship to sing a song to
+
+  It sails the rivers and it sails the tide
+
+  Some of my friends don''''t know who they belong to
+
+  Some can''''t get a single thing to work inside
+
+  So take me down to your dance floor
+
+  And I wont mind the people when they stare
+
+  Paint a different color on your front door
+
+  And tomorrow we will still be there
+
+
+  I loved you every day and now I''''m leaving
+
+  And I can see the sorrow in your eyes
+
+  I hope you know a lot more than you''''re believing
+
+  Just so the sun don''''t hurt ou when you cry
+
+  So take me down to your dance floor
+
+  And I wont mind the people when they stare
+
+  Paint a different color on your front door
+
+  And tomorrow we will still be there
+
+  And tomorrow we will still be there'
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: A Song for You
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 12
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 8
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-27-schubas-chicago-il-usa
+      date: '2000-10-27'
+      year: 2000
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2001-03-26-casa-del-populo-montreal-quebec-canada
+      date: '2001-03-26'
+      year: 2001
+      venue: Casa del Populo
+      city: Montreal
+      country: Canada
+      position: 6
+    - show_slug: damon-and-naomi-2001-05-15-garage-london-uk
+      date: '2001-05-15'
+      year: 2001
+      venue: Garage
+      city: London
+      country: UK
+      position: 11
+    - show_slug: damon-and-naomi-2001-05-24-ekko-utrecht-netherlands
+      date: '2001-05-24'
+      year: 2001
+      venue: Ekko
+      city: Utrecht
+      country: Netherlands
+      position: 11
+    - show_slug: damon-and-naomi-2002-07-13-namba-osaka-japan
+      date: '2002-07-13'
+      year: 2002
+      venue: Namba
+      city: Osaka
+      country: Japan
+      position: 6
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 7

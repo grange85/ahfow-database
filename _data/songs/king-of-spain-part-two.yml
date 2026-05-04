@@ -1,0 +1,145 @@
+title: King of Spain Part Two
+slug: king-of-spain-part-two
+sort_title: KING OF SPAIN PART TWO
+authors: Krukowski/Wareham/Yang
+lyrics: 'Gold and stuff
+
+  Silk and grapes
+
+  She''s my queen
+
+  Pull the drapes
+
+
+  On my own
+
+  On my throne
+
+
+  Ten guitars
+
+  Silver pants
+
+  I can''t lose
+
+  Watch me dance'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: King of Spain Part Two
+    appears_on:
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156L
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH 156
+      side: B
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1990
+      label: Rough Trade America
+      catalogue_no: RUS 86-2
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 9
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.09LP
+      side: B
+      position: 9
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 32
+    played_live: []

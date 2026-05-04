@@ -1,0 +1,92 @@
+slug: luna-2021-11-18-birchmere-alexandria-va-usa
+date: '2021-11-18'
+year: 2021
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.ticketmaster.com/event/15005AC3ABAA27EA?brand=birchmere&camefrom=cfc_birchmere_website
+venue_name: Birchmere
+venue_slug: birchmere-alexandria-va-usa
+city: Alexandria
+state: VA
+country: USA
+venue_url: https://www.birchmere.com/events/luna/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 3
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 4
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 5
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 6
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 7
+  raw_title: The Corridors of Power
+  canonical_title: The Corridors of Power
+  song_slug: the-corridors-of-power
+  full_title: The Corridors of Power
+- position: 8
+  raw_title: Still At Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 9
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 10
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 11
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 12
+  raw_title: Sleeping Pill
+  canonical_title: Sleeping Pill
+  song_slug: sleeping-pill
+  full_title: Sleeping Pill
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 15
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon

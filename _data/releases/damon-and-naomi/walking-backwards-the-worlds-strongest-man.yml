@@ -1,0 +1,26 @@
+title: Walking Backwards / The World's Strongest Man
+slug: walking-backwards-the-worlds-strongest-man
+release_type: Single
+year: 2011
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '7'
+  year: 2011
+  label: Great Pop Supplement
+  catalogue_no: GPS62
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_walking-backwards_f_001.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Walking Backwards
+    slug: walking-backwards
+    full_title: Walking Backwards
+  - position: 2
+    side: B
+    side_position: 1
+    title: The World's Strongest Man
+    slug: the-worlds-strongest-man
+    full_title: The World's Strongest Man

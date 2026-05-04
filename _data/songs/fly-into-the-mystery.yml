@@ -1,0 +1,50 @@
+title: Fly Into the Mystery
+slug: fly-into-the-mystery
+sort_title: FLY INTO THE MYSTERY
+authors: Jonathan Richman
+original_artist: Jonathan Richman
+originals_url: https://www.fullofwishes.co.uk/2013/06/19/originals-fly-into-the-mystery-by-jonathan-richman-the-modern-lovers-covered-by-luna/
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Fly Into the Mystery
+    appears_on:
+    - release_title: Homesleephome2 Cover Songs
+      release_slug: homesleephome2-cover-songs
+      release_type: Compilation
+      year: 2001
+      format: CD
+      edition_year: 2001
+      label: Homesleep Records
+      catalogue_no: rec 2008
+      position: 1
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 11
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: C
+      position: 13
+    played_live:
+    - show_slug: luna-1998-05-01-slims-san-francisco-ca-usa
+      date: '1998-05-01'
+      year: 1998
+      venue: Slims
+      city: San Francisco
+      country: USA
+      position: 12

@@ -1,0 +1,322 @@
+title: You Turned My Head Around
+slug: you-turned-my-head-around
+sort_title: YOU TURNED MY HEAD AROUND
+authors: Lee Hazlewood
+original_artist: Lee Hazlewood and Ann-Margret
+originals_url: https://www.fullofwishes.co.uk/2014/10/08/originals-turned-head-around-ann-margret-covered-dean-britta/
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: You Turned My Head Around
+    appears_on:
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: Zoë
+      catalogue_no: 01143-1105-2
+      position: 4
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: LP
+      edition_year: 2019
+      label: Wouldn't Waste
+      catalogue_no: WWR-13
+      side: A
+      position: 4
+    played_live:
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-01-23-mo-pitkins-new-york-ny-usa
+      date: '2007-01-23'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-08-world-cafe-live-philadelphia-pa-usa
+      date: '2007-03-08'
+      year: 2007
+      venue: World Cafe Live
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2007-03-09-mfa-boston-ma-usa
+      date: '2007-03-09'
+      year: 2007
+      venue: MFA
+      city: Boston
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2007-03-12-mod-club-toronto-ontaria-canada
+      date: '2007-03-12'
+      year: 2007
+      venue: Mod Club
+      city: Toronto
+      country: Canada
+      position: 4
+    - show_slug: dean-and-britta-2007-03-13-dowes-pittsburgh-pa-usa
+      date: '2007-03-13'
+      year: 2007
+      venue: Dowes
+      city: Pittsburgh
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-15-schubas-chicago-il-usa
+      date: '2007-03-15'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-16-schubas-chicago-il-usa
+      date: '2007-03-16'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-17-cedar-cultural-center-minneapolis-mn-usa
+      date: '2007-03-17'
+      year: 2007
+      venue: Cedar Cultural Center
+      city: Minneapolis
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-19-high-noon-saloon-madison-wi-usa
+      date: '2007-03-19'
+      year: 2007
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-20-music-mill-indianapolis-in-usa
+      date: '2007-03-20'
+      year: 2007
+      venue: Music Mill
+      city: Indianapolis
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-22-mercy-lounge-nashville-tn-usa
+      date: '2007-03-22'
+      year: 2007
+      venue: Mercy Lounge
+      city: Nashville
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-23-variety-playhouse-atlanta-ga-usa
+      date: '2007-03-23'
+      year: 2007
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-29-black-cat-washington-dc-usa
+      date: '2007-03-29'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-30-hiro-ballroom-new-york-ny-usa
+      date: '2007-03-30'
+      year: 2007
+      venue: Hiro Ballroom
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-04-06-kcrw-santa-monica-ca-usa
+      date: '2007-04-06'
+      year: 2007
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-04-07-1900-silent-movie-theatre-los-angeles-ca-usa
+      date: '2007-04-07'
+      year: 2007
+      venue: Silent Movie Theatre
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-04-10-aladdin-theatre-portland-or-usa
+      date: '2007-04-10'
+      year: 2007
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2007-06-10-loco-club-valencia-spain
+      date: '2007-06-10'
+      year: 2007
+      venue: Loco Club
+      city: Valencia
+      country: Spain
+      position: 10
+    - show_slug: dean-and-britta-2007-06-17-social-nottingham-uk
+      date: '2007-06-17'
+      year: 2007
+      venue: Social
+      city: Nottingham
+      country: UK
+      position: 3
+    - show_slug: dean-and-britta-2007-06-18-sussex-arts-club-brighton-uk
+      date: '2007-06-18'
+      year: 2007
+      venue: Sussex Arts Club
+      city: Brighton
+      country: UK
+      position: 3
+    - show_slug: dean-and-britta-2007-06-19-metro-club-london-uk
+      date: '2007-06-19'
+      year: 2007
+      venue: Metro Club
+      city: London
+      country: UK
+      position: 4
+    - show_slug: dean-and-britta-2007-06-20-legion-london-uk
+      date: '2007-06-20'
+      year: 2007
+      venue: Legion
+      city: London
+      country: UK
+      position: 13
+    - show_slug: dean-and-britta-2007-07-12-rams-head-tavern-annapolis-md-usa
+      date: '2007-07-12'
+      year: 2007
+      venue: Rams Head Tavern
+      city: Annapolis
+      country: USA
+      position: 15
+    - show_slug: dean-and-britta-2007-10-16-bowery-ballroom-new-york-ny-usa
+      date: '2007-10-16'
+      year: 2007
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2007-11-23-studenterhuset-copenhagen-denmark
+      date: '2007-11-23'
+      year: 2007
+      venue: Studenterhuset
+      city: Copenhagen
+      country: Denmark
+      position: 11
+    - show_slug: dean-and-britta-2007-11-24-apparatet-copenhagen-denmark
+      date: '2007-11-24'
+      year: 2007
+      venue: Apparatet
+      city: Copenhagen
+      country: Denmark
+      position: 8
+    - show_slug: dean-and-britta-2007-11-29-vortex-siegen-germany
+      date: '2007-11-29'
+      year: 2007
+      venue: Vortex
+      city: Siegen
+      country: Germany
+      position: 13
+    - show_slug: dean-and-britta-2007-11-30-gleis-22-munster-germany
+      date: '2007-11-30'
+      year: 2007
+      venue: Gleis 22
+      city: Munster
+      country: Germany
+      position: 11
+    - show_slug: dean-and-britta-2007-12-04-silbergold-frankfurt-germany
+      date: '2007-12-04'
+      year: 2007
+      venue: Silbergold
+      city: Frankfurt
+      country: Germany
+      position: 12
+    - show_slug: dean-and-britta-2007-12-31-maxwells-hoboken-nj-usa
+      date: '2007-12-31'
+      year: 2007
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2008-02-09-the-mod-club-toronto-ontaria-canada
+      date: '2008-02-09'
+      year: 2008
+      venue: The Mod Club
+      city: Toronto
+      country: Canada
+      position: 11
+    - show_slug: dean-and-britta-2008-02-10-lakeshore-theater-chicago-il-usa
+      date: '2008-02-10'
+      year: 2008
+      venue: Lakeshore Theater
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2008-02-16-aladdin-theater-portland-or-usa
+      date: '2008-02-16'
+      year: 2008
+      venue: Aladdin Theater
+      city: Portland
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2008-02-27-black-cat-washington-dc-usa
+      date: '2008-02-27'
+      year: 2008
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2008-02-28-johnny-brendas-philadelphia-pa-usa
+      date: '2008-02-28'
+      year: 2008
+      venue: Johnny Brendas
+      city: Philadelphia
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2008-08-21-the-zipper-factory-new-york-ny-usa
+      date: '2008-08-21'
+      year: 2008
+      venue: The Zipper Factory
+      city: New York
+      country: USA
+      position: 14
+    - show_slug: dean-and-britta-2009-03-20-the-grind-clark-university-worcester-ma-usa
+      date: '2009-03-20'
+      year: 2009
+      venue: The Grind, Clark University
+      city: Worcester
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2009-06-04-johnny-brendas-philadelphia-pa-usa
+      date: '2009-06-04'
+      year: 2009
+      venue: Johnny Brendas
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2009-06-05-black-cat-washington-dc-usa
+      date: '2009-06-05'
+      year: 2009
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 10

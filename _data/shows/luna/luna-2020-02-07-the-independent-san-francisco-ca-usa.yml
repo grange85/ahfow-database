@@ -1,0 +1,106 @@
+slug: luna-2020-02-07-the-independent-san-francisco-ca-usa
+date: '2020-02-07'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.ticketfly.com/purchase/event/1886566
+venue_name: The Independent
+venue_slug: the-independent-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Inside Your Heart
+  canonical_title: Inside Your Heart
+  song_slug: inside-your-heart
+  full_title: Inside Your Heart
+- position: 2
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 3
+  raw_title: The Owl and The Pussycat
+  canonical_title: The Owl and the Pussycat
+  song_slug: the-owl-and-the-pussycat
+  full_title: The Owl and the Pussycat
+- position: 4
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 5
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 6
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 7
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 8
+  raw_title: Cindy Tastes of Barbecue
+  canonical_title: Cindy Tastes of Barbecue
+  song_slug: cindy-tastes-of-barbecue
+  full_title: Cindy Tastes of Barbecue
+- position: 9
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 10
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 11
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 12
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 13
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 14
+  raw_title: IHOP
+  canonical_title: IHOP
+  song_slug: ihop
+  full_title: IHOP
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 17
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 18
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

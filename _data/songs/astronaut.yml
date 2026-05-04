@@ -1,0 +1,370 @@
+title: Astronaut
+slug: astronaut
+sort_title: ASTRONAUT
+lyrics: 'I wanna plug you in
+
+  I wanna get you things
+
+  Send you a pentagram
+
+  Feed you diazepam
+
+  I wanna play the game
+
+  I wanna live again
+
+  I wanna bend your spoons and make your
+
+  Silver shine
+
+
+  I''ll wear a Stalin mustache
+
+  You''ll wear a frozen smile
+
+  We''ll run like Tamil Tigers
+
+  We''ll drink the poison vial
+
+  I''m not the Jack of diamonds
+
+  I''m not the six of spades
+
+  I don''t know what you thought
+
+  I''m not your astronaut
+
+
+  Because our surly stare
+
+  Is so revealing
+
+  Because your feet are bare
+
+  My eyes are peeling
+
+  Because your mistletoe
+
+  Because I gamble
+
+  Because I told you so
+
+  My eyes are scrambled'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Astronaut
+    appears_on:
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset
+      catalogue_no: TWA51CD
+      position: 1
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: Digital
+      country: US
+      edition_year: 2011
+      label: Self released
+      side: A
+      position: 1
+    - release_title: Speedbumps
+      release_slug: speedbumps
+      release_type: Single
+      year: 2004
+      format: '7'
+      country: DE
+      edition_year: 2004
+      label: Little Teddy
+      catalogue_no: LiTe757
+      side: B
+      position: 2
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 5
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 5
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: CD
+      edition_year: 2006
+      label: Rhino
+      catalogue_no: R2 70014
+      position: 13
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 5
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 5
+    played_live:
+    - show_slug: luna-2002-10-27-paradiso-amsterdam-the-netherlands
+      date: '2002-10-27'
+      year: 2002
+      venue: Paradiso
+      city: Amsterdam
+      country: The Netherlands
+      position: 6
+    - show_slug: luna-2002-11-23-north-star-bar-philadelphia-pa-usa
+      date: '2002-11-23'
+      year: 2002
+      venue: North Star Bar
+      city: Philadelphia
+      country: USA
+      position: 4
+    - show_slug: luna-2002-11-29-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-29'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2002-11-30-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-30'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-2002-12-13-fillmore-san-francisco-ca-usa
+      date: '2002-12-13'
+      year: 2002
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: luna-2002-12-31-maxwells-hoboken-nj-usa
+      date: '2002-12-31'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 7
+    - show_slug: luna-2003-01-24-fletchers-baltimore-md-usa
+      date: '2003-01-24'
+      year: 2003
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 5
+    - show_slug: luna-2003-02-01-echo-lounge-atlanta-ga-usa
+      date: '2003-02-01'
+      year: 2003
+      venue: Echo Lounge
+      city: Atlanta
+      country: USA
+      position: 3
+    - show_slug: luna-2003-02-02-cats-cradle-carrboro-nc-usa
+      date: '2003-02-02'
+      year: 2003
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 3
+    - show_slug: luna-2003-02-05-shank-hall-milwaukee-wi-usa
+      date: '2003-02-05'
+      year: 2003
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 4
+    - show_slug: luna-2003-02-06-abbey-pub-chicago-il-usa
+      date: '2003-02-06'
+      year: 2003
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: luna-2003-02-08-blind-pig-ann-arbor-mi-usa
+      date: '2003-02-08'
+      year: 2003
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 6
+    - show_slug: luna-2003-03-20-knitting-factory-new-york-ny-usa
+      date: '2003-03-20'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2003-03-21-2000-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2003-03-21-2300-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 4
+    - show_slug: luna-2004-11-09-beachland-ballroom-cleveland-oh-usa
+      date: '2004-11-09'
+      year: 2004
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+      date: '2004-11-14'
+      year: 2004
+      venue: Fine Line Music Cafe
+      city: Minneapolis
+      country: USA
+      position: 10
+    - show_slug: luna-2004-11-18-southgate-house-newport-ky-usa
+      date: '2004-11-18'
+      year: 2004
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 10
+    - show_slug: luna-2004-11-20-echo-lounge-atlanta-ga-usa
+      date: '2004-11-20'
+      year: 2004
+      venue: Echo Lounge
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-22-ottobar-baltimore-md-usa
+      date: '2004-11-22'
+      year: 2004
+      venue: Ottobar
+      city: Baltimore
+      country: USA
+      position: 11
+    - show_slug: luna-2004-12-17-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2004-12-17'
+      year: 2004
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-2004-12-31-southpaw-brooklyn-ny-usa
+      date: '2004-12-31'
+      year: 2004
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 5
+    - show_slug: luna-2005-01-10-apolo-barcelona-spain
+      date: '2005-01-10'
+      year: 2005
+      venue: Apolo
+      city: Barcelona
+      country: Spain
+      position: 7
+    - show_slug: luna-2005-01-29-sons-of-hermann-hall-dallas-tx-usa
+      date: '2005-01-29'
+      year: 2005
+      venue: Sons of Hermann Hall
+      city: Dallas
+      country: USA
+      position: 8
+    - show_slug: luna-2005-01-31-fox-theatre-boulder-co-usa
+      date: '2005-01-31'
+      year: 2005
+      venue: Fox Theatre
+      city: Boulder
+      country: USA
+      position: 9
+    - show_slug: luna-2005-02-04-el-rey-theater-los-angeles-ca-usa
+      date: '2005-02-04'
+      year: 2005
+      venue: El Rey Theater
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: luna-2005-02-10-aladdin-theatre-portland-or-usa
+      date: '2005-02-10'
+      year: 2005
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-11-2100-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-24-st-andrews-hall-detroit-mi-usa
+      date: '2005-02-24'
+      year: 2005
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 6
+    - show_slug: luna-2005-02-28-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-28'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 5

@@ -1,0 +1,269 @@
+title: Great Jones Street
+slug: great-jones-street
+sort_title: GREAT JONES STREET
+lyrics: 'up on the roof
+
+  it''s almost dawn
+
+  see the water towers
+
+  look so forlorn
+
+  they''ve got no reason
+
+  to feel that way
+
+
+  night turn to day
+
+  let''s get away
+
+  it''s another day
+
+
+  let''s get away
+
+  it''s another day
+
+
+  we''ll go somewhere
+
+  we''ve never been
+
+  time''s runnin'' out
+
+  we''ll start again
+
+  what''s round the bend
+
+  i just can''t say
+
+
+  night turn to day
+
+  let''s get away
+
+  it''s another day
+
+
+  let''s get away
+
+  it''s another day'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Great Jones Street
+    appears_on:
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: JP
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: WPCP-5802
+      position: 6
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: 61617-2
+      position: 6
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Gotta Groove Records
+      catalogue_no: GGR2012-001
+      side: B
+      position: 6
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 6
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 6
+    played_live:
+    - show_slug: luna-1994-02-14-modern-rock-live-new-york-ny-usa
+      date: '1994-02-14'
+      year: 1994
+      venue: Modern Rock Live
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2017-01-19-the-chapel-san-francisco-ca-usa
+      date: '2017-01-19'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-02-greenwich-odeum-east-greenwich-ri-usa
+      date: '2019-10-02'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Greenwich Odeum
+      city: East Greenwich
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      series: Luna play Bewitched
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 6
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 6
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 5
+    - show_slug: luna-2021-11-15-union-transfer-philadelphia-pa-usa
+      date: '2021-11-15'
+      year: 2021
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: luna-2023-09-06-the-atlantis-washington-dc-usa
+      date: '2023-09-06'
+      year: 2023
+      venue: The Atlantis
+      city: Washington DC
+      country: USA
+      position: 13
+    - show_slug: luna-2023-09-07-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-07'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2023-09-11-the-paradise-boston-ma-usa
+      date: '2023-09-11'
+      year: 2023
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 9
+    - show_slug: luna-2023-10-24-rtve-radio-3-madrid-spain
+      date: '2023-10-24'
+      year: 2023
+      venue: RTVE Radio 3
+      city: Madrid
+      country: Spain
+      position: 1
+    - show_slug: luna-2023-10-25-club-lula-madrid-spain
+      date: '2023-10-25'
+      year: 2023
+      venue: Club Lula
+      city: Madrid
+      country: Spain
+      position: 12
+    - show_slug: luna-2023-10-27-la-2-de-apolo-barcelona-spain
+      date: '2023-10-27'
+      year: 2023
+      venue: La (2) de Apolo
+      city: Barcelona
+      country: Spain
+      position: 6
+    - show_slug: luna-2023-10-28-espacio-las-armas-zaragoza-spain
+      date: '2023-10-28'
+      year: 2023
+      venue: Espacio Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 6
+    - show_slug: luna-2023-10-30-dabadaba-san-sebastian-spain
+      date: '2023-10-30'
+      year: 2023
+      venue: Dabadaba
+      city: San Sebastian
+      country: Spain
+      position: 4
+    - show_slug: luna-2023-11-30-the-belly-up-tavern-solana-beach-ca-usa
+      date: '2023-11-30'
+      year: 2023
+      venue: The Belly Up Tavern
+      city: Solana Beach
+      country: USA
+      position: 5
+    - show_slug: luna-2023-12-01-teragram-ballroom-los-angeles-ca-usa
+      date: '2023-12-01'
+      year: 2023
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5

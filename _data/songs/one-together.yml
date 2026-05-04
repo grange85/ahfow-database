@@ -1,0 +1,54 @@
+title: One Together
+slug: one-together
+sort_title: ONE TOGETHER
+authors: Jeremy Spencer
+original_artist: Fleetwood Mac
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: One Together
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 4
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: A
+      position: 4
+    played_live:
+    - show_slug: luna-2017-10-06-teatro-jofre-ferrol-spain
+      date: '2017-10-06'
+      year: 2017
+      venue: Teatro Jofre
+      city: Ferrol
+      country: Spain
+      position: 8
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2018-01-12-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-12'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 4

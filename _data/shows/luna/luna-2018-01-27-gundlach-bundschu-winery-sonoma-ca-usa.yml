@@ -1,0 +1,110 @@
+slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+date: '2018-01-27'
+year: 2018
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.ticketfly.com/purchase/event/1590587/
+venue_name: Gundlach Bundschu Winery
+venue_slug: gundlach-bundschu-winery-sonoma-ca-usa
+city: Sonoma
+state: CA
+country: USA
+venue_url: http://www.gunbun.com/event/luna/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Friends
+  canonical_title: Friends
+  song_slug: friends
+  full_title: Friends
+- position: 3
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 4
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 5
+  raw_title: Cindy Tastes of Barbecue
+  canonical_title: Cindy Tastes of Barbecue
+  song_slug: cindy-tastes-of-barbecue
+  full_title: Cindy Tastes of Barbecue
+- position: 6
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 7
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 8
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 9
+  raw_title: Most of the Time
+  canonical_title: Most of the Time
+  song_slug: most-of-the-time
+  full_title: Most of the Time
+- position: 10
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 11
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 13
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 14
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 17
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 18
+  raw_title: ^encore 2
+  annotation: encore 2
+- position: 19
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

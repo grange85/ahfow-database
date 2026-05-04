@@ -1,0 +1,58 @@
+title: Oh, Sister
+slug: oh-sister
+sort_title: OH SISTER
+authors: Dylan/Levy
+original_artist: Bob Dylan
+lyrics: 'Oh, sister, when I come to lie in your arms
+
+  You should not treat me like a stranger.
+
+  Our Father would not like the way that you act
+
+  And you must realize the danger.
+
+  Oh, sister, am I not a brother to you
+
+  And one deserving of affection?
+
+  And is our purpose not the same on this earth,
+
+  To love and follow his direction?
+
+  We grew up together
+
+  From the cradle to the grave
+
+  We died and were reborn
+
+  And then mysteriously saved.
+
+  Oh, sister, when I come to knock on your door,
+
+  Don''t turn away, you''ll create sorrow.
+
+  Time is an ocean but it ends at the shore
+
+  You may not see me tomorrow.'
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Oh, Sister
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 16
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 16

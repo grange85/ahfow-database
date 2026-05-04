@@ -1,0 +1,92 @@
+title: Dizzy
+slug: dizzy
+sort_title: DIZZY
+lyrics: 'I wanna help
+
+  You understand
+
+  I wanna see
+
+  You if I can
+
+
+  I''m loaded up
+
+  And weighted down
+
+  And surrounded by Demons
+
+  It''s fantastic
+
+
+  Because your eyes make me weak
+
+  And your lips make me dizzy
+
+  And I want you see
+
+  Just how good it can be
+
+
+  In Ancient Greece
+
+  There was a man
+
+  Lived in a barrel
+
+  He had a plan
+
+
+  My life is small
+
+  And getting smaller
+
+  And I''m surrounded by demons
+
+  It''s fantastic
+
+
+  Because your eyes make me weak
+
+  And your lips make me dizzy
+
+  And I want you to see
+
+  Just how good it can be'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Dizzy
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 10
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 10
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 10
+    played_live: []

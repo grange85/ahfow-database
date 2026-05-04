@@ -1,0 +1,98 @@
+slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+date: '2020-02-12'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+series: Luna play Bewitched
+ticket_url: https://www.ticketweb.com/event/kexp-presents-luna-performing-bewitched-tractor-tickets/10042275?pl=tractor
+venue_name: The Tractor Tavern
+venue_slug: the-tractor-tavern-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+venue_url: http://www.tractortavern.com/event/10014175/luna-performing-penthouse/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All the Way)
+- position: 2
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 3
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 4
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 5
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 6
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 7
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 8
+  raw_title: Into the Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 9
+  raw_title: I Know You Tried
+  canonical_title: I Know You Tried
+  song_slug: i-know-you-tried
+  full_title: I Know You Tried
+- position: 10
+  raw_title: Sleeping Pill
+  canonical_title: Sleeping Pill
+  song_slug: sleeping-pill
+  full_title: Sleeping Pill
+- position: 11
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 12
+  raw_title: IHOP
+  canonical_title: IHOP
+  song_slug: ihop
+  full_title: IHOP
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 15
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 16
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

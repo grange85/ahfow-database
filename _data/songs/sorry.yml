@@ -1,0 +1,325 @@
+title: Sorry
+slug: sorry
+sort_title: SORRY
+authors: Krukowski/Wareham/Yang
+lyrics: 'Well I''m sorry about the weather
+
+  And I''m sorry that the drive was much too far
+
+  Seems like everything is business
+
+  And were sorry all the time
+
+
+  But when we''re home (all alone)
+
+  What is home (on your own)
+
+  Home is home (all alone)
+
+  Where we love the weather
+
+
+  Are you sorry that you love me
+
+  Am I sorry that I love you too
+
+  Seems it doesnt make a difference
+
+  That we''re sorry all the time
+
+
+  But when we''re home (all alone)
+
+  What is home (on your own)
+
+  Home is home (all alone)
+
+  Where we love the weather
+
+
+  All alone (what is home)
+
+  On my own (what is home)
+
+  All alone (on your own)
+
+  And I love the weather'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Sorry
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 7
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 14
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156L
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH 156
+      side: B
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 14
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1990
+      label: Rough Trade America
+      catalogue_no: RUS 86-2
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 7
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.09LP
+      side: B
+      position: 7
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 30
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1371
+      position: 4
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2020
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      side: B
+      position: 4
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10373
+      position: 4
+    - release_title: The Portable Galaxie 500
+      release_slug: the-portable-galaxie-500
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 5
+    played_live:
+    - show_slug: galaxie-500-1990-10-11-the-point-atlanta-ga-usa
+      date: '1990-10-11'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 7
+    - show_slug: galaxie-500-1990-11-15-ulu-london-uk
+      date: '1990-11-15'
+      year: 1990
+      venue: ULU
+      city: London
+      country: UK
+      position: 8
+    - show_slug: galaxie-500-1990-11-21-trefcentrum-vk-brussels-belgium
+      date: '1990-11-21'
+      year: 1990
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 9
+    - show_slug: galaxie-500-1990-11-26-batschkapp-frankfurt-germany
+      date: '1990-11-26'
+      year: 1990
+      venue: Batschkapp
+      city: Frankfurt
+      country: Germany
+      position: 6
+    - show_slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+      date: '1990-11-30'
+      year: 1990
+      venue: Markthalle
+      city: Hamburg
+      country: Germany
+      position: 6
+    - show_slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+      date: '1990-12-01'
+      year: 1990
+      venue: Barbue
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: galaxie-500-1991-03-20-warfield-theater-san-francisco-ca-usa
+      date: '1991-03-20'
+      year: 1991
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1991-03-26-paramount-theater-denver-co-usa
+      date: '1991-03-26'
+      year: 1991
+      venue: Paramount Theater
+      city: Denver
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 13
+  - version_tag: University of London, UK - 1990-11-15
+    full_title: Sorry [University of London, UK - 1990-11-15]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 41
+    played_live: []

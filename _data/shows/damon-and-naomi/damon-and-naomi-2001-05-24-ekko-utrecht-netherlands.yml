@@ -1,0 +1,75 @@
+slug: damon-and-naomi-2001-05-24-ekko-utrecht-netherlands
+date: '2001-05-24'
+year: 2001
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Ekko
+venue_slug: ekko-utrecht-netherlands
+city: Utrecht
+country: Netherlands
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 2
+  raw_title: The New World
+  canonical_title: The New World
+  song_slug: the-new-world
+  full_title: The New World
+- position: 3
+  raw_title: Eye Of The Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 4
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 5
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 6
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 7
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 8
+  raw_title: The Great Wall
+  canonical_title: The Great Wall
+  song_slug: the-great-wall
+  full_title: The Great Wall
+- position: 9
+  raw_title: I Dreamed of the Caucasus
+  canonical_title: I Dreamed of the Caucasus
+  song_slug: i-dreamed-of-the-caucasus
+  full_title: I Dreamed of the Caucasus
+- position: 10
+  raw_title: Tanka
+  canonical_title: Tanka
+  song_slug: tanka
+  full_title: Tanka
+- position: 11
+  raw_title: A Song for You
+  canonical_title: A Song for You
+  song_slug: a-song-for-you
+  full_title: A Song for You
+- position: 12
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love

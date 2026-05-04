@@ -1,0 +1,18 @@
+title: Guilt By Association
+slug: guilt-by-association
+release_type: Compilation
+year: 2007
+album_artist: Various artists
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  year: 2007
+  label: Engine Room Recordings
+  catalogue_no: ERR-003
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Straight Up
+    slug: straight-up
+    full_title: Straight Up

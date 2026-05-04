@@ -1,0 +1,277 @@
+title: The Wondrous World of Damon & Naomi
+slug: the-wondrous-world-of-damon-and-naomi
+release_type: Album
+year: 1992
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD
+  year: 1995
+  label: Sub Pop
+  catalogue_no: SP322
+  tracks:
+  - position: 1
+    side_position: 1
+    title: In the Morning
+    slug: in-the-morning
+    full_title: In the Morning
+  - position: 2
+    side_position: 2
+    title: The New Historicism
+    slug: the-new-historicism
+    full_title: The New Historicism
+  - position: 3
+    side_position: 3
+    title: Tour of the World
+    slug: tour-of-the-world
+    full_title: Tour of the World
+  - position: 4
+    side_position: 4
+    title: Forgot to Get High
+    slug: forgot-to-get-high
+    full_title: Forgot to Get High
+  - position: 5
+    side_position: 5
+    title: Pyewacket
+    slug: pyewacket
+    full_title: Pyewacket
+  - position: 6
+    side_position: 6
+    title: Life Will Pass You By
+    slug: life-will-pass-you-by
+    full_title: Life Will Pass You By
+  - position: 7
+    side_position: 7
+    title: Who Am I
+    slug: who-am-i
+    full_title: Who Am I
+  - position: 8
+    side_position: 8
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 9
+    side_position: 9
+    title: Pandora's Box
+    slug: pandoras-box
+    full_title: Pandora's Box
+  - position: 10
+    side_position: 10
+    title: How Long
+    slug: how-long
+    full_title: How Long
+  - position: 11
+    side_position: 11
+    title: Whispering Pines
+    slug: whispering-pines
+    full_title: Whispering Pines
+- format: LP
+  year: 1995
+  label: Sub Pop
+  catalogue_no: SP322
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: In the Morning
+    slug: in-the-morning
+    full_title: In the Morning
+  - position: 2
+    side: A
+    side_position: 2
+    title: The New Historicism
+    slug: the-new-historicism
+    full_title: The New Historicism
+  - position: 3
+    side: A
+    side_position: 3
+    title: Tour of the World
+    slug: tour-of-the-world
+    full_title: Tour of the World
+  - position: 4
+    side: A
+    side_position: 4
+    title: Forgot to Get High
+    slug: forgot-to-get-high
+    full_title: Forgot to Get High
+  - position: 5
+    side: A
+    side_position: 5
+    title: Pyewacket
+    slug: pyewacket
+    full_title: Pyewacket
+  - position: 6
+    side: B
+    side_position: 1
+    title: Life Will Pass You By
+    slug: life-will-pass-you-by
+    full_title: Life Will Pass You By
+  - position: 7
+    side: B
+    side_position: 2
+    title: Who Am I
+    slug: who-am-i
+    full_title: Who Am I
+  - position: 8
+    side: B
+    side_position: 3
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 9
+    side: B
+    side_position: 4
+    title: Pandora's Box
+    slug: pandoras-box
+    full_title: Pandora's Box
+  - position: 10
+    side: B
+    side_position: 5
+    title: How Long
+    slug: how-long
+    full_title: How Long
+  - position: 11
+    side: B
+    side_position: 6
+    title: Whispering Pines
+    slug: whispering-pines
+    full_title: Whispering Pines
+- format: CD
+  year: 1998
+  label: Rykodisc
+  catalogue_no: RCD 10440
+  tracks:
+  - position: 1
+    side_position: 1
+    title: In the Morning
+    slug: in-the-morning
+    full_title: In the Morning
+  - position: 2
+    side_position: 2
+    title: The New Historicism
+    slug: the-new-historicism
+    full_title: The New Historicism
+  - position: 3
+    side_position: 3
+    title: Tour of the World
+    slug: tour-of-the-world
+    full_title: Tour of the World
+  - position: 4
+    side_position: 4
+    title: Forgot to Get High
+    slug: forgot-to-get-high
+    full_title: Forgot to Get High
+  - position: 5
+    side_position: 5
+    title: Pyewacket
+    slug: pyewacket
+    full_title: Pyewacket
+  - position: 6
+    side_position: 6
+    title: Life Will Pass You By
+    slug: life-will-pass-you-by
+    full_title: Life Will Pass You By
+  - position: 7
+    side_position: 7
+    title: Who Am I
+    slug: who-am-i
+    full_title: Who Am I
+  - position: 8
+    side_position: 8
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 9
+    side_position: 9
+    title: Pandora's Box
+    slug: pandoras-box
+    full_title: Pandora's Box
+  - position: 10
+    side_position: 10
+    title: How Long
+    slug: how-long
+    full_title: How Long
+  - position: 11
+    side_position: 11
+    title: Whispering Pines
+    slug: whispering-pines
+    full_title: Whispering Pines
+- format: LP
+  year: 2013
+  label: 20|20|20
+  catalogue_no: '202020.14'
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_wondrous_world_bootleg.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: In the Morning
+    slug: in-the-morning
+    full_title: In the Morning
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pyewacket
+    slug: pyewacket
+    full_title: Pyewacket
+  - position: 3
+    side: A
+    side_position: 3
+    title: Life Will Pass You By
+    slug: life-will-pass-you-by
+    full_title: Life Will Pass You By
+  - position: 4
+    side: A
+    side_position: 4
+    title: Who Am I
+    slug: who-am-i
+    full_title: Who Am I
+  - position: 5
+    side: A
+    side_position: 5
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 6
+    side: A
+    side_position: 6
+    title: Pandora's Box
+    slug: pandoras-box
+    full_title: Pandora's Box
+  - position: 7
+    side: B
+    side_position: 1
+    title: How Long
+    slug: how-long
+    full_title: How Long
+  - position: 8
+    side: B
+    side_position: 2
+    title: The New Historicism
+    slug: the-new-historicism
+    full_title: The New Historicism
+  - position: 9
+    side: B
+    side_position: 3
+    title: Tour of the World
+    slug: tour-of-the-world
+    full_title: Tour of the World
+  - position: 10
+    side: B
+    side_position: 4
+    title: Forgot to Get High
+    slug: forgot-to-get-high
+    full_title: Forgot to Get High
+  - position: 11
+    side: B
+    side_position: 5
+    title: Whispering Pines
+    slug: whispering-pines
+    full_title: Whispering Pines
+  - position: 12
+    side: B
+    side_position: 6
+    title: Round and Round
+    slug: round-and-round
+    full_title: Round and Round

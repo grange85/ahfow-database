@@ -1,0 +1,105 @@
+slug: luna-2015-12-31-starline-social-club-oakland-ca-usa
+date: '2015-12-31'
+year: 2015
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar/vocals|Lee Wall - drums|Britta
+  Phillips - bass/vocals
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-12-31/2015-12-31-luna-starline-social-club-oakland-ca-poster.jpg
+ticket_url: https://www.eventbrite.com/e/luna-special-guest-tba-starline-social-club-oakland-1231-tickets-19435473023
+notes: Setlist was changed from the printed setlist, still awaiting final conformation.
+setlist_source: Scan
+venue_name: Starline Social Club
+venue_slug: starline-social-club-oakland-ca-usa
+city: Oakland
+state: CA
+country: USA
+venue_url: http://folkyeah.com/#/lunanye/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Egg Nog
+  canonical_title: Egg Nog
+  song_slug: egg-nog
+  full_title: Egg Nog
+- position: 2
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All the Way)
+- position: 3
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 4
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 5
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 6
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 7
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 8
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 9
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 10
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 11
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 12
+  raw_title: Rock Your Baby
+  canonical_title: Rock Your Baby
+  song_slug: rock-your-baby
+  full_title: Rock Your Baby
+- position: 13
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 14
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of the Witch
+- position: 17
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde

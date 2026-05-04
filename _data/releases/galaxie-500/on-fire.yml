@@ -1,0 +1,893 @@
+title: On Fire
+slug: on-fire
+release_type: Album
+year: 1989
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: GB
+  year: 1989
+  label: Rough Trade
+  catalogue_no: ROUGH CD 146
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire_roughcd146_001.jpg
+  ahfow_ref: AHFOW 10/056
+  my_collection_url: https://www.fullofwishes.co.uk/2024/08/26/my-record-collection-165-galaxie-500-on-fire-cd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: LP
+  country: GB
+  year: 1989
+  label: Rough Trade
+  catalogue_no: ROUGH 146
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side: A
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side: A
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side: B
+    side_position: 2
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side: B
+    side_position: 3
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side: B
+    side_position: 4
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side: B
+    side_position: 5
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: MC
+  country: GB
+  year: 1989
+  label: Rough Trade
+  catalogue_no: ROUGH C146
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side: A
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side: A
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side: B
+    side_position: 2
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side: B
+    side_position: 3
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side: B
+    side_position: 4
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side: B
+    side_position: 5
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: CD
+  country: US
+  year: 1989
+  label: Rough Trade
+  catalogue_no: ROUGH US 74 CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: LP
+  country: US
+  year: 1989
+  label: Rough Trade
+  catalogue_no: ROUGH US 74
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side: A
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side: A
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side: B
+    side_position: 2
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side: B
+    side_position: 3
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side: B
+    side_position: 4
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side: B
+    side_position: 5
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: CD
+  country: JP
+  year: 1997
+  label: Videoarts Music
+  catalogue_no: VACK-1120
+  ahfow_ref: AHFOW 10/051
+  my_collection_url: https://www.fullofwishes.co.uk/2025/02/24/my-record-collection-galaxie-500-on-fire-video-arts-japan-cd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+  - position: 11
+    side_position: 11
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 12
+    side_position: 12
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 13
+    side_position: 13
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+- format: CD
+  country: US
+  year: 1997
+  label: Rykodisc
+  catalogue_no: RCD 10357
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+  - position: 11
+    side_position: 11
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 12
+    side_position: 12
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 13
+    side_position: 13
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+- format: CD
+  country: JP
+  year: 2008
+  label: Videoarts Music
+  catalogue_no: VACK 1369
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_onfire_vack1369_001.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+  - position: 11
+    side_position: 11
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 12
+    side_position: 12
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 13
+    side_position: 13
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+- format: LP
+  country: US
+  year: 2009
+  label: 20|20|20
+  catalogue_no: 202020.08LP
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side: A
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side: A
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side: B
+    side_position: 2
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side: B
+    side_position: 3
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side: B
+    side_position: 4
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side: B
+    side_position: 5
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: 2×CD
+  country: GB
+  year: 2010
+  label: Domino
+  catalogue_no: Domino
+  ahfow_ref: AHFOW 10/075
+  my_collection_url: https://www.fullofwishes.co.uk/2024/09/26/my-record-collection-174-galaxie-500-on-fire-peel-sessions-2xcd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+  - position: 11
+    side_position: 11
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 12
+    side_position: 12
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 13
+    side_position: 13
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+  - position: 14
+    side_position: 14
+    title: Submission
+    slug: submission
+    full_title: Submission
+  - position: 15
+    side_position: 15
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 16
+    side_position: 16
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 17
+    side_position: 17
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 18
+    side_position: 18
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 19
+    side_position: 19
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 20
+    side_position: 20
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 21
+    side_position: 21
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+- format: LP
+  country: GB
+  year: 2010
+  label: Domino
+  catalogue_no: EPGJPPTGJC
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side: A
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side: A
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side: B
+    side_position: 2
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side: B
+    side_position: 3
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side: B
+    side_position: 4
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side: B
+    side_position: 5
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+- format: 2×CD
+  country: US
+  year: 2010
+  label: 20|20|20
+  catalogue_no: '202020.08'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 2
+    side_position: 2
+    title: Tell Me
+    slug: tell-me
+    full_title: Tell Me
+  - position: 3
+    side_position: 3
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 4
+    side_position: 4
+    title: Strange
+    slug: strange
+    full_title: Strange
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 7
+    side_position: 7
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 8
+    side_position: 8
+    title: Leave the Planet
+    slug: leave-the-planet
+    full_title: Leave the Planet
+  - position: 9
+    side_position: 9
+    title: Plastic Bird
+    slug: plastic-bird
+    full_title: Plastic Bird
+  - position: 10
+    side_position: 10
+    title: Isn't It a Pity
+    slug: isnt-it-a-pity
+    full_title: Isn't It a Pity
+  - position: 11
+    side_position: 11
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 12
+    side_position: 12
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 13
+    side_position: 13
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+  - position: 14
+    side_position: 14
+    title: Submission
+    slug: submission
+    full_title: Submission
+  - position: 15
+    side_position: 15
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 16
+    side_position: 16
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 17
+    side_position: 17
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 18
+    side_position: 18
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 19
+    side_position: 19
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 20
+    side_position: 20
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 21
+    side_position: 21
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste

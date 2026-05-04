@@ -1,0 +1,351 @@
+title: Beggar's Bliss
+slug: beggars-bliss
+sort_title: BEGGARS BLISS
+lyrics: 'Woman made of paper
+
+  Understand me now
+
+  This time they got you by the ears
+
+  You might be nothing
+
+  Or just a footprint
+
+  But they been watching you for years
+
+
+  It''s a strange
+
+  fascination
+
+  It''s a bliss
+
+  It''s a beggar''s bliss
+
+
+  A double dance
+
+  For 20 dollars
+
+  You may be crooked but not cheap
+
+  Go ahead make a mistake
+
+  That''s what you''re made of
+
+  They been watching you for years
+
+
+  And in the shadow of a candlestick
+
+  You face appears
+
+  Quickly now''s the time
+
+  Why are we waiting?
+
+  Uptown, downtown
+
+  I could care less
+
+  I been watching you for years'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Beggar's Bliss
+    appears_on:
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQCD194
+      position: 5
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      side: A
+      position: 5
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Elektra
+      catalogue_no: 62055-2
+      position: 5
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: US
+      edition_year: 1997
+      label: Teenbeat
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-1996-11-15-fletchers-baltimore-md-usa
+      date: '1996-11-15'
+      year: 1996
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 6
+    - show_slug: luna-1996-12-28-maxwells-hoboken-nj-usa
+      date: '1996-12-28'
+      year: 1996
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-1997-01-25-930-club-washington-dc-usa
+      date: '1997-01-25'
+      year: 1997
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: luna-1997-03-01-vassar-college-poughkeepsie-ny-usa
+      date: '1997-03-01'
+      year: 1997
+      venue: Vassar College
+      city: Poughkeepsie
+      country: USA
+      position: 5
+    - show_slug: luna-1997-08-03-idiots-delight-wnew-new-york-ny-usa
+      date: '1997-08-03'
+      year: 1997
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-1997-09-08-bohagers-baltimore-md-usa
+      date: '1997-09-08'
+      year: 1997
+      venue: Bohagers
+      city: Baltimore
+      country: USA
+      position: 11
+    - show_slug: luna-1997-09-09-world-cafe-philadelphia-pa-usa
+      date: '1997-09-09'
+      year: 1997
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 4
+    - show_slug: luna-1997-09-11-supper-club-new-york-ny-usa
+      date: '1997-09-11'
+      year: 1997
+      venue: Supper Club
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-1997-09-20-metro-chicago-il-usa
+      date: '1997-09-20'
+      year: 1997
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 17
+    - show_slug: luna-1997-09-26-crocodile-cafe-seattle-wa-usa
+      date: '1997-09-26'
+      year: 1997
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 6
+    - show_slug: luna-1997-09-29-fillmore-san-francisco-ca-usa
+      date: '1997-09-29'
+      year: 1997
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-1997-10-01-kcrw-santa-monica-ca-usa
+      date: '1997-10-01'
+      year: 1997
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 1
+    - show_slug: luna-1997-10-17-venue-edinburgh-uk
+      date: '1997-10-17'
+      year: 1997
+      venue: Venue
+      city: Edinburgh
+      country: UK
+      position: 5
+    - show_slug: luna-1997-10-23-loppen-copenhagen-denmark
+      date: '1997-10-23'
+      year: 1997
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 2
+    - show_slug: luna-1997-11-13-el-sol-madrid-spain
+      date: '1997-11-13'
+      year: 1997
+      venue: El Sol
+      city: Madrid
+      country: Spain
+      position: 12
+    - show_slug: luna-1997-11-14-bikini-barcelona-spain
+      date: '1997-11-14'
+      year: 1997
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 9
+    - show_slug: luna-1997-12-12-irving-plaza-new-york-ny-usa
+      date: '1997-12-12'
+      year: 1997
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-1998-01-15-trax-charlottesville-va-usa
+      date: '1998-01-15'
+      year: 1998
+      venue: Trax
+      city: Charlottesville
+      country: USA
+      position: 6
+    - show_slug: luna-1998-02-14-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '1998-02-14'
+      year: 1998
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 14
+    - show_slug: luna-1998-02-20-middle-east-cambridge-ma-usa
+      date: '1998-02-20'
+      year: 1998
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 9
+    - show_slug: luna-1998-07-16-castle-clinton-battery-park-new-york-ny-usa
+      date: '1998-07-16'
+      year: 1998
+      venue: Castle Clinton, Battery Park
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-1998-09-11-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-11'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-1998-09-30-the-drop-sydney-new-south-wales-australia
+      date: '1998-09-30'
+      year: 1998
+      venue: The Drop
+      city: Sydney
+      country: Australia
+      position: 8
+    - show_slug: luna-1999-07-23-prospect-park-bandstand-new-york-ny-usa
+      date: '1999-07-23'
+      year: 1999
+      venue: Prospect Park Bandstand
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-1999-12-04-cotton-club-atlanta-ga-usa
+      date: '1999-12-04'
+      year: 1999
+      venue: Cotton Club
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: luna-1999-12-07-somerville-theatre-somerville-ma-usa
+      date: '1999-12-07'
+      year: 1999
+      venue: Somerville Theatre
+      city: Somerville
+      country: USA
+      position: 7
+    - show_slug: luna-2000-03-25-black-cat-washington-dc-usa
+      date: '2000-03-25'
+      year: 2000
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: luna-2001-01-26-village-underground-new-york-ny-usa
+      date: '2001-01-26'
+      year: 2001
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-2001-08-25-bowery-ballroom-new-york-ny-usa
+      date: '2001-08-25'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2002-08-24-northsix-brooklyn-ny-usa
+      date: '2002-08-24'
+      year: 2002
+      venue: Northsix
+      city: Brooklyn
+      country: USA
+      position: 6
+    - show_slug: luna-2003-03-21-2000-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-2018-09-07-thekla-bristol-uk
+      date: '2018-09-07'
+      year: 2018
+      venue: Thekla
+      city: Bristol
+      country: UK
+      position: 12
+    - show_slug: luna-2018-09-10-atlas-aarhus-denmark
+      date: '2018-09-10'
+      year: 2018
+      venue: Atlas
+      city: Aarhus
+      country: Denmark
+      position: 6
+    - show_slug: luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-02'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 6
+  - version_tag: demp
+    full_title: Beggar's Bliss [demp]
+    appears_on:
+    - release_title: Bobby Peru
+      release_slug: bobby-peru
+      release_type: Single
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ319CD
+      position: 3
+    played_live: []

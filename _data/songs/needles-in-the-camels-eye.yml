@@ -1,0 +1,28 @@
+title: Needles in the Camel's Eye
+slug: needles-in-the-camels-eye
+sort_title: NEEDLES IN THE CAMELS EYE
+authors: Brian Eno/Phil Manzanera
+original_artist: Brian Eno
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Needles in the Camel's Eye
+    appears_on: []
+    played_live:
+    - show_slug: luna-2023-01-13-the-chapel-san-francisco-ca-usa
+      date: '2023-01-13'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 3

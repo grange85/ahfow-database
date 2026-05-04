@@ -1,0 +1,33 @@
+slug: luna-2019-10-09-paste-studio-atlanta-ga-usa
+date: '2019-10-09'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+venue_name: Paste Studio
+venue_slug: paste-studio-atlanta-ga-usa
+city: Atlanta
+state: GA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: California Blue
+  canonical_title: California Blue
+  song_slug: california-blue
+  full_title: California Blue
+- position: 2
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 3
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+audio:
+- audio_type: Stream video
+  url: https://www.youtube.com/watch?v=quQTcxnfPio

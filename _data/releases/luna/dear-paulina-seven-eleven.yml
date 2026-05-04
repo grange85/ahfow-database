@@ -1,0 +1,27 @@
+title: Dear Paulina / Seven-Eleven
+slug: dear-paulina-seven-eleven
+release_type: Single
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: UK
+  year: 1999
+  label: Grange85
+  catalogue_no: g85-01
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Dear Paulina
+    slug: dear-paulina
+    full_title: Dear Paulina
+  - position: 2
+    side: B
+    side_position: 1
+    title: Seven-Eleven
+    slug: seven-eleven
+    full_title: Seven-Eleven

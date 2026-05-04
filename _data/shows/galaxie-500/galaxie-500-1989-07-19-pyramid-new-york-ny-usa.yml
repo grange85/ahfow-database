@@ -1,0 +1,47 @@
+slug: galaxie-500-1989-07-19-pyramid-new-york-ny-usa
+date: '1989-07-19'
+year: 1989
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+venue_name: Pyramid
+venue_slug: pyramid-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Plastic Bird
+  canonical_title: Plastic Bird
+  song_slug: plastic-bird
+  full_title: Plastic Bird
+- position: 2
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 3
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 4
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 5
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 6
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

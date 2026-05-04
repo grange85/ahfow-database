@@ -1,0 +1,88 @@
+title: I'm so Bored With the U.S.A.
+slug: im-so-bored-with-the-usa
+sort_title: IM SO BORED WITH THE U.S.A.
+authors: Strummer/Jones
+original_artist: The Clash
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: I'm so Bored With the U.S.A.
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 7
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 6
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: A
+      position: 6
+    played_live:
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+      date: '2024-12-29'
+      year: 2024
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 12
+    - show_slug: luna-2024-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2024-12-31'
+      year: 2024
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+      date: '2025-08-21'
+      year: 2025
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 1
+    - show_slug: dean-wareham-2025-08-22-with-sea-power-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-22'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 1
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 1

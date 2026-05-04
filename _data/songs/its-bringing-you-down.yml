@@ -1,0 +1,80 @@
+title: It's Bringing You Down
+slug: its-bringing-you-down
+sort_title: ITS BRINGING YOU DOWN
+lyrics: 'the speed that you''re takin''
+
+  is slowin'' you down
+
+  you said you were leavin''
+
+  but you''re stickin'' around
+
+  i ''member you fallin''
+
+  fallin'' flat on your face
+
+  bloodstains on snowflakes
+
+  what a terrible place
+
+
+  do you feel this pleasure
+
+  so quit yer complaining
+
+  can''t wait forever
+
+  so get on with it please
+
+  thanks for a flame
+
+  that will never expire
+
+  can''t wait forever
+
+  get on with it please
+
+
+  i''m tired of talkin''
+
+  i''ll know what they''ll say to me
+
+  you don''t know the difference between work and play
+
+  i say thanks for the flame that will never expire
+
+  you can''t wait forever
+
+  get on with it please'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: It's Bringing You Down
+    appears_on:
+    - release_title: EP (No.6)
+      release_slug: ep-no-6
+      release_type: Single
+      year: 1996
+      format: CD
+      country: US
+      edition_year: 1996
+      label: No. 6 Records
+      catalogue_no: KAR 036-2
+      position: 4
+    played_live:
+    - show_slug: luna-1994-11-16-avalon-ballroom-boston-ma-usa
+      date: '1994-11-16'
+      year: 1994
+      venue: Avalon Ballroom
+      city: Boston
+      country: USA
+      position: 1
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 1

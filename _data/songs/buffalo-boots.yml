@@ -1,0 +1,89 @@
+title: Buffalo Boots
+slug: buffalo-boots
+sort_title: BUFFALO BOOTS
+lyrics: 'Well she looked real cute
+
+  In her buffalo boots
+
+  She has a rosy future
+
+  In her juicy couture
+
+  Ladybug red
+
+  And strawberry pink
+
+  Made me stop and wonder
+
+  Made me have to think
+
+
+  There''s a girl in Nolita
+
+  I really wanna snuckle
+
+  At the supermarket
+
+  I have to bite my knuckle
+
+  Mother of pearl
+
+  Thrilling my thrill
+
+  Mother of girl
+
+  Spilling my spill'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Buffalo Boots
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 10
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 11
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 10
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: C
+      position: 10
+    played_live:
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 10

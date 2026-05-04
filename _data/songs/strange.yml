@@ -1,0 +1,1167 @@
+title: Strange
+slug: strange
+sort_title: STRANGE
+authors: Krukowski/Wareham/Yang
+lyrics: 'Why''s everybody actin funny?
+
+  Why''s everybody look so strange?
+
+  Why''s everybody look so nasty?
+
+  What do I want with all these things?
+
+
+  I went along down to the drugstore
+
+  I went out back and took a Coke
+
+  I stood in line and ate my Twinkies
+
+  I stood in line, I had to wait
+
+
+  Why''s everybody actin funny?
+
+  Why''s everybody look so strange?
+
+  Why''s everybody look so pretty?
+
+  What do I want with all these things?
+
+
+  I went along down to the drugstore
+
+  I went out back and took a Coke
+
+  I stood in line and ate my Twinkies
+
+  I stood in line, I had to wait'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Strange
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH CD 146
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH 146
+      side: A
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: EPGJPPTGJC
+      side: A
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: MC
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH C146
+      side: A
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1120
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1369
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74 CD
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10357
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74
+      side: A
+      position: 4
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.08LP
+      side: A
+      position: 4
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: B
+      position: 14
+    - release_title: The Portable Galaxie 500
+      release_slug: the-portable-galaxie-500
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 8
+    played_live:
+    - show_slug: galaxie-500-1989-04-29-rat-boston-ma-usa
+      date: '1989-04-29'
+      year: 1989
+      venue: Rat
+      city: Boston
+      country: USA
+      position: 6
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 4
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 4
+    - show_slug: luna-1995-09-16-point-atlanta-ga-usa
+      date: '1995-09-16'
+      year: 1995
+      venue: Point
+      city: Atlanta
+      country: USA
+      position: 15
+    - show_slug: luna-1995-12-11-trefcentrum-vk-brussels-belgium
+      date: '1995-12-11'
+      year: 1995
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 13
+    - show_slug: luna-1995-12-16-garage-london-uk
+      date: '1995-12-16'
+      year: 1995
+      venue: Garage
+      city: London
+      country: UK
+      position: 7
+    - show_slug: luna-1996-01-19-930-club-washington-dc-usa
+      date: '1996-01-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 13
+    - show_slug: luna-1996-01-26-einstein-a-go-go-jacksonville-fl-usa
+      date: '1996-01-26'
+      year: 1996
+      venue: Einstein A Go Go
+      city: Jacksonville
+      country: USA
+      position: 10
+    - show_slug: luna-1996-04-18-philadelphia-college-of-textile-philadelphia-pa-usa
+      date: '1996-04-18'
+      year: 1996
+      venue: Philadelphia College of Textile
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: luna-1996-10-19-930-club-washington-dc-usa
+      date: '1996-10-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2007-03-12-mod-club-toronto-ontaria-canada
+      date: '2007-03-12'
+      year: 2007
+      venue: Mod Club
+      city: Toronto
+      country: Canada
+      position: 12
+    - show_slug: dean-and-britta-2007-03-16-schubas-chicago-il-usa
+      date: '2007-03-16'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2007-03-17-cedar-cultural-center-minneapolis-mn-usa
+      date: '2007-03-17'
+      year: 2007
+      venue: Cedar Cultural Center
+      city: Minneapolis
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2007-03-23-variety-playhouse-atlanta-ga-usa
+      date: '2007-03-23'
+      year: 2007
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2007-03-29-black-cat-washington-dc-usa
+      date: '2007-03-29'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2007-03-30-hiro-ballroom-new-york-ny-usa
+      date: '2007-03-30'
+      year: 2007
+      venue: Hiro Ballroom
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2007-06-17-social-nottingham-uk
+      date: '2007-06-17'
+      year: 2007
+      venue: Social
+      city: Nottingham
+      country: UK
+      position: 13
+    - show_slug: dean-and-britta-2007-06-18-sussex-arts-club-brighton-uk
+      date: '2007-06-18'
+      year: 2007
+      venue: Sussex Arts Club
+      city: Brighton
+      country: UK
+      position: 12
+    - show_slug: dean-and-britta-2007-06-19-metro-club-london-uk
+      date: '2007-06-19'
+      year: 2007
+      venue: Metro Club
+      city: London
+      country: UK
+      position: 10
+    - show_slug: dean-and-britta-2007-07-12-rams-head-tavern-annapolis-md-usa
+      date: '2007-07-12'
+      year: 2007
+      venue: Rams Head Tavern
+      city: Annapolis
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2007-10-16-bowery-ballroom-new-york-ny-usa
+      date: '2007-10-16'
+      year: 2007
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2007-11-23-studenterhuset-copenhagen-denmark
+      date: '2007-11-23'
+      year: 2007
+      venue: Studenterhuset
+      city: Copenhagen
+      country: Denmark
+      position: 13
+    - show_slug: dean-and-britta-2007-11-24-apparatet-copenhagen-denmark
+      date: '2007-11-24'
+      year: 2007
+      venue: Apparatet
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: dean-and-britta-2007-11-29-vortex-siegen-germany
+      date: '2007-11-29'
+      year: 2007
+      venue: Vortex
+      city: Siegen
+      country: Germany
+      position: 12
+    - show_slug: dean-and-britta-2007-11-30-gleis-22-munster-germany
+      date: '2007-11-30'
+      year: 2007
+      venue: Gleis 22
+      city: Munster
+      country: Germany
+      position: 13
+    - show_slug: dean-and-britta-2007-12-04-silbergold-frankfurt-germany
+      date: '2007-12-04'
+      year: 2007
+      venue: Silbergold
+      city: Frankfurt
+      country: Germany
+      position: 15
+    - show_slug: dean-and-britta-2008-02-07-mfa-boston-ma-usa
+      date: '2008-02-07'
+      year: 2008
+      venue: MFA
+      city: Boston
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2008-08-21-the-zipper-factory-new-york-ny-usa
+      date: '2008-08-21'
+      year: 2008
+      venue: The Zipper Factory
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2009-03-20-the-grind-clark-university-worcester-ma-usa
+      date: '2009-03-20'
+      year: 2009
+      venue: The Grind, Clark University
+      city: Worcester
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2009-06-04-johnny-brendas-philadelphia-pa-usa
+      date: '2009-06-04'
+      year: 2009
+      venue: Johnny Brendas
+      city: Philadelphia
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2009-06-05-black-cat-washington-dc-usa
+      date: '2009-06-05'
+      year: 2009
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2009-12-31-southpaw-brooklyn-ny-usa
+      date: '2009-12-31'
+      year: 2009
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2010-08-20-the-trocadero-philadelphia-pa-usa
+      date: '2010-08-20'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trocadero
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2010-09-17-the-earl-atlanta-ga-usa
+      date: '2010-09-17'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2010-10-20-ace-hotel-new-york-ny-usa
+      date: '2010-10-20'
+      year: 2010
+      venue: Ace Hotel
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2010-11-11-the-troubadour-los-angeles-ca-usa
+      date: '2010-11-11'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Troubadour
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2010-11-13-the-fillmore-san-francisco-ca-usa
+      date: '2010-11-13'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2010-11-15-biltmore-cabaret-vancouver-british-columbia-canada
+      date: '2010-11-15'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Biltmore Cabaret
+      city: Vancouver
+      country: Canada
+      position: 6
+    - show_slug: dean-and-britta-2010-12-03-lincoln-hall-chicago-il-usa
+      date: '2010-12-03'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2011-01-13-maxwells-hoboken-nj-usa
+      date: '2011-01-13'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2011-02-18-route-du-rock-st-malo-france
+      date: '2011-02-18'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Route Du Rock
+      city: St Malo
+      country: France
+      position: 6
+    - show_slug: dean-and-britta-2011-05-28-primavera-festival-parc-del-forum-barcelona-spain
+      date: '2011-05-28'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      event: Primavera Festival
+      venue: Parc del Forum
+      city: Barcelona
+      country: Spain
+      position: 5
+    - show_slug: dean-and-britta-2011-06-17-the-bell-house-brooklyn-ny-usa
+      date: '2011-06-17'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-07-02-the-wall-livehouse-taipei-taiwan
+      date: '2011-07-02'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Wall Livehouse
+      city: Taipei
+      country: Taiwan
+      position: 7
+    - show_slug: dean-and-britta-2011-10-11-corner-hotel-melbourne-victoria-australia
+      date: '2011-10-11'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Corner Hotel
+      city: Melbourne
+      country: Australia
+      position: 6
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2011-11-19-casa-da-musica-porto-portugal
+      date: '2011-11-19'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Casa da Musica
+      city: Porto
+      country: Portugal
+      position: 4
+    - show_slug: dean-and-britta-2011-12-17-occupy-wall-street-duarte-square-new-york-ny-usa
+      date: '2011-12-17'
+      year: 2011
+      event: Occupy Wall Street
+      venue: Duarte Square
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2012-05-11-1930-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2012-05-11-2230-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: dean-and-britta-2012-07-27-antones-austin-tx-usa
+      date: '2012-07-27'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Antones
+      city: Austin
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 7
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 14
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 9
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 11
+    - show_slug: dean-wareham-2014-07-26-indietracks-festival-derbyshire-uk
+      date: '2014-07-26'
+      year: 2014
+      venue: Indietracks Festival
+      city: Derbyshire
+      country: UK
+      position: 8
+    - show_slug: luna-2015-08-05-barby-tel-aviv-israel
+      date: '2015-08-05'
+      year: 2015
+      venue: Barby
+      city: Tel Aviv
+      country: Israel
+      position: 12
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: dean-and-britta-2017-09-22-burbank-ca-usa
+      date: '2017-09-22'
+      year: 2017
+      venue: ''
+      city: Burbank
+      country: USA
+      position: 1
+    - show_slug: luna-2018-08-24-industry-city-courtyard-brooklyn-ny-usa
+      date: '2018-08-24'
+      year: 2018
+      venue: Industry City Courtyard
+      city: Brooklyn
+      country: USA
+      position: 14
+    - show_slug: luna-2018-08-25-the-sinclair-cambridge-ma-usa
+      date: '2018-08-25'
+      year: 2018
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 15
+    - show_slug: luna-2018-08-30-claustre-de-sant-domingo-pollenca-mallorca-spain
+      date: '2018-08-30'
+      year: 2018
+      venue: Claustre de Sant Domingo, Pollença
+      city: Mallorca
+      country: Spain
+      position: 14
+    - show_slug: luna-2018-08-31-auditoria-parque-fofo-murcia-spain
+      date: '2018-08-31'
+      year: 2018
+      venue: Auditoria Parque Fofó
+      city: Murcia
+      country: Spain
+      position: 9
+    - show_slug: luna-2018-09-01-terraza-malabar-del-veles-e-vents-valencia-spain
+      date: '2018-09-01'
+      year: 2018
+      venue: Terraza Malabar Del Veles E Vents
+      city: Valencia
+      country: Spain
+      position: 11
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 16
+    - show_slug: luna-2018-09-06-academy-islington-london-uk
+      date: '2018-09-06'
+      year: 2018
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 16
+    - show_slug: luna-2018-09-07-thekla-bristol-uk
+      date: '2018-09-07'
+      year: 2018
+      venue: Thekla
+      city: Bristol
+      country: UK
+      position: 5
+    - show_slug: luna-2018-09-09-nachtasyl-hamburg-germany
+      date: '2018-09-09'
+      year: 2018
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 12
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 15
+    - show_slug: luna-2018-09-15-get-mad-madrid-spain
+      date: '2018-09-15'
+      year: 2018
+      venue: Get Mad!
+      city: Madrid
+      country: Spain
+      position: 12
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 18
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 18
+    - show_slug: luna-2019-04-02-191-toole-tuscon-az-usa
+      date: '2019-04-02'
+      year: 2019
+      venue: 191 Toole
+      city: Tuscon
+      country: USA
+      position: 20
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 17
+    - show_slug: luna-2019-10-11-off-broadway-st-louis-mo-usa
+      date: '2019-10-11'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 17
+    - show_slug: luna-2019-10-15-lees-palace-toronto-ontario-canada
+      date: '2019-10-15'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 21
+    - show_slug: luna-2019-10-17-gateway-city-arts-holyoke-ma-usa
+      date: '2019-10-17'
+      year: 2019
+      venue: Gateway City Arts
+      city: Holyoke
+      country: USA
+      position: 15
+    - show_slug: dean-and-britta-2020-05-14-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-14'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+      date: '2022-11-12'
+      year: 2022
+      venue: Pappy and Harriet's
+      city: Pioneertown
+      country: USA
+      position: 4
+    - show_slug: luna-2023-01-16-wow-hall-eugene-or-usa
+      date: '2023-01-16'
+      year: 2023
+      venue: WOW Hall
+      city: Eugene
+      country: USA
+      position: 15
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 16
+    - show_slug: luna-2023-01-19-alladin-theater-portland-or-usa
+      date: '2023-01-19'
+      year: 2023
+      venue: Alladin Theater
+      city: Portland
+      country: USA
+      position: 22
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 13
+    - show_slug: dean-wareham-2023-03-12-nachtasyl-hamburg-germany
+      date: '2023-03-12'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 13
+    - show_slug: dean-wareham-2023-03-14-merleyn-nijmegen-the-netherlands
+      date: '2023-03-14'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Merleyn
+      city: Nijmegen
+      country: The Netherlands
+      position: 9
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 12
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 12
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 13
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 19
+    - show_slug: luna-2023-09-11-the-paradise-boston-ma-usa
+      date: '2023-09-11'
+      year: 2023
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 16
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 5
+    - show_slug: dean-and-britta-2024-12-01-meow-wellington-new-zealand
+      date: '2024-12-01'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: Meow
+      city: Wellington
+      country: New Zealand
+      position: 9
+    - show_slug: dean-wareham-2025-04-01-the-garage-glasgow-uk
+      date: '2025-04-01'
+      year: 2025
+      venue: The Garage
+      city: Glasgow
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-04-03-rough-trade-liverpool-uk
+      date: '2025-04-03'
+      year: 2025
+      venue: Rough Trade
+      city: Liverpool
+      country: UK
+      position: 15
+    - show_slug: dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk
+      date: '2025-04-04'
+      year: 2025
+      venue: The Assembly
+      city: Royal Leamington Spa
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-04-05-brudenell-social-club-leeds-uk
+      date: '2025-04-05'
+      year: 2025
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-04-06-the-fleece-bristol-uk
+      date: '2025-04-06'
+      year: 2025
+      venue: The Fleece
+      city: Bristol
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-04-07-229-london-uk
+      date: '2025-04-07'
+      year: 2025
+      venue: '229'
+      city: London
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-04-08-le-petit-bain-paris-france
+      date: '2025-04-08'
+      year: 2025
+      venue: Le Petit Bain
+      city: Paris
+      country: France
+      position: 16
+    - show_slug: dean-wareham-2025-04-10-dbs-utrecht-the-netherlands
+      date: '2025-04-10'
+      year: 2025
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 15
+    - show_slug: dean-wareham-2025-04-12-aa-theater-groningen-the-netherlands
+      date: '2025-04-12'
+      year: 2025
+      venue: Aa Theater
+      city: Groningen
+      country: The Netherlands
+      position: 19
+    - show_slug: dean-wareham-2025-04-13-nachtasyl-hamburg-germany
+      date: '2025-04-13'
+      year: 2025
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 19
+    - show_slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+      date: '2025-04-14'
+      year: 2025
+      venue: Frannz Club
+      city: Berlin
+      country: Germany
+      position: 17
+    - show_slug: dean-wareham-2025-04-16-pumpehuset-copenhagen-denmark
+      date: '2025-04-16'
+      year: 2025
+      venue: Pumpehuset
+      city: Copenhagen
+      country: Denmark
+      position: 18
+    - show_slug: dean-wareham-2025-04-20-sala-upload-barcelona-spain
+      date: '2025-04-20'
+      year: 2025
+      venue: Sala Upload
+      city: Barcelona
+      country: Spain
+      position: 16
+    - show_slug: dean-wareham-2025-04-21-16-toneladas-valencia-spain
+      date: '2025-04-21'
+      year: 2025
+      venue: 16 Toneladas
+      city: Valencia
+      country: Spain
+      position: 17
+    - show_slug: dean-wareham-2025-04-22-la-lata-de-bombillas-zaragoza-spain
+      date: '2025-04-22'
+      year: 2025
+      venue: La Lata De Bombillas
+      city: Zaragoza
+      country: Spain
+      position: 16
+    - show_slug: dean-wareham-2025-04-27-austin-psych-fest-the-far-out-lounge-austin-tx-usa
+      date: '2025-04-27'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Austin Psych Fest
+      venue: The Far Out Lounge
+      city: Austin
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-05-17-the-chapel-san-francisco-ca-usa
+      date: '2025-05-17'
+      year: 2025
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: dean-wareham-2025-05-20-mississippi-studios-portland-or-usa
+      date: '2025-05-20'
+      year: 2025
+      venue: Mississippi Studios
+      city: Portland
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2025-06-02-the-press-room-portsmouth-nh-usa
+      date: '2025-06-02'
+      year: 2025
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 17
+    - show_slug: dean-wareham-2025-06-05-the-sinclair-cambridge-ma-usa
+      date: '2025-06-05'
+      year: 2025
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2025-06-06-iron-horse-northampton-ma-usa
+      date: '2025-06-06'
+      year: 2025
+      venue: Iron Horse
+      city: Northampton
+      country: USA
+      position: 10
+    - show_slug: dean-wareham-2025-06-07-bowery-ballroom-new-york-ny-usa
+      date: '2025-06-07'
+      year: 2025
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2025-06-08-the-basement-at-bond-street-bar-asbury-park-nj-usa
+      date: '2025-06-08'
+      year: 2025
+      venue: The Basement at Bond Street Bar
+      city: Asbury Park
+      country: USA
+      position: 13
+    - show_slug: dean-wareham-2025-06-10-world-cafe-philadelphia-pa-usa
+      date: '2025-06-10'
+      year: 2025
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 13
+    - show_slug: dean-wareham-2025-06-11-songbyrd-music-house-washington-dc-usa
+      date: '2025-06-11'
+      year: 2025
+      venue: Songbyrd Music House
+      city: Washington DC
+      country: USA
+      position: 13
+    - show_slug: dean-wareham-2025-06-14-beachland-ballroom-cleveland-oh-usa
+      date: '2025-06-14'
+      year: 2025
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 13
+    - show_slug: dean-wareham-2025-06-15-magic-bag-ferndale-mi-usa
+      date: '2025-06-15'
+      year: 2025
+      venue: Magic Bag
+      city: Ferndale
+      country: USA
+      position: 12
+    - show_slug: dean-wareham-2025-06-16-lincoln-hall-chicago-il-usa
+      date: '2025-06-16'
+      year: 2025
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 16
+    - show_slug: dean-wareham-2025-06-18-high-noon-saloon-madison-wi-usa
+      date: '2025-06-18'
+      year: 2025
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 16
+    - show_slug: dean-wareham-2025-08-20-with-sea-power-the-trades-club-hebden-bridge-uk
+      date: '2025-08-20'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 2
+    - show_slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+      date: '2025-08-21'
+      year: 2025
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 15
+    - show_slug: dean-and-britta-2025-08-24-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-24'
+      year: 2025
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 2
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 16
+    - show_slug: dean-wareham-2025-09-21-woodsist-festival-arrowood-farms-accord-ny-usa
+      date: '2025-09-21'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Woodsist Festival
+      venue: Arrowood Farms
+      city: Accord
+      country: USA
+      position: 6
+  - version_tag: UK TV
+    full_title: Strange [UK TV]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 6
+    played_live: []

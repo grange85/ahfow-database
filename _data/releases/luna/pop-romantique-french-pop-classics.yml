@@ -1,0 +1,20 @@
+title: 'Pop Romantique: French Pop Classics'
+slug: pop-romantique-french-pop-classics
+release_type: Compilation
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_popromantique.jpg
+album_artist: Various artists
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  year: 1999
+  label: Emperor Norton
+  catalogue_no: EMN 7011-1
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_popromantique.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: La Poupee Qui Fait Non
+    slug: la-poupee-qui-fait-non
+    full_title: La Poupee Qui Fait Non

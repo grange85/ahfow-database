@@ -1,0 +1,52 @@
+slug: britta-phillips-2016-10-07-academy-islington-london-uk
+date: '2016-10-07'
+year: 2016
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Britta Phillips - bass/vocals|Dean Wareham - guitar
+ticket_url: http://tickets.o2priority.co.uk/listings/luna/38488
+venue_name: Academy Islington
+venue_slug: academy-islington-london-uk
+city: London
+country: UK
+venue_url: https://academymusicgroup.com/o2academyislington/events/823430/luna-playing-penthouse-full-tickets
+act_name: Britta Phillips
+act_slug: britta-phillips
+setlist:
+- position: 1
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 2
+  raw_title: Daydream
+  canonical_title: Daydream
+  song_slug: daydream
+  full_title: Daydream
+- position: 3
+  raw_title: Fallin' In Love
+  canonical_title: Fallin' in Love
+  song_slug: fallin-in-love
+  full_title: Fallin' in Love
+- position: 4
+  raw_title: Do It last
+  canonical_title: Do It Last
+  song_slug: do-it-last
+  full_title: Do It Last
+- position: 5
+  raw_title: Wrap Your Arms Around Me
+  canonical_title: Wrap Your Arms Around Me
+  song_slug: wrap-your-arms-around-me
+  full_title: Wrap Your Arms Around Me
+- position: 6
+  raw_title: Ingrid Superstar
+  canonical_title: Ingrid Superstar
+  song_slug: ingrid-superstar
+  full_title: Ingrid Superstar
+- position: 7
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive

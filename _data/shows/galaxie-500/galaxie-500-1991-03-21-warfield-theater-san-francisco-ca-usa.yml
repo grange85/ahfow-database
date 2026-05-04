@@ -1,0 +1,56 @@
+slug: galaxie-500-1991-03-21-warfield-theater-san-francisco-ca-usa
+date: '1991-03-21'
+year: 1991
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+venue_name: Warfield Theater
+venue_slug: warfield-theater-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 2
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 3
+  raw_title: Summertime
+  canonical_title: Summertime
+  song_slug: summertime
+  full_title: Summertime
+- position: 4
+  raw_title: Spook
+  canonical_title: Spook
+  song_slug: spook
+  full_title: Spook
+- position: 5
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+- position: 6
+  raw_title: Melt Away
+  canonical_title: Melt Away
+  song_slug: melt-away
+  full_title: Melt Away
+- position: 7
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+audio:
+- audio_type: Download
+  url: https://www.mediafire.com/file/ttzyy5ymw2n/1991-03-21__Galaxie_500_SF_USA.zip/file
+  label: A head Full of Wishes (Mediafire)

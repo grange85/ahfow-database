@@ -1,0 +1,121 @@
+title: Rememories
+slug: rememories
+sort_title: REMEMORIES
+lyrics: 'The Venetian Blinds are slicing up the sun
+
+  And the buttons on my head have come undone
+
+  Fires made of marble
+
+  And you spit me in the eye
+
+  Fires made of marble
+
+  And you spit me in the eye
+
+
+  It''s been a long, long, long,
+
+  It''s been a long, long, long,
+
+
+  Do you know what it means to make a wish?
+
+  Do you know what it means to make a wish
+
+  Because I love you
+
+  But I''m sending you away
+
+  I love you
+
+  But I''m sending you away
+
+
+  It''s been a long, long, long,
+
+  It''s been a long, long, long.
+
+
+  It''s been a long, long, long,
+
+  It''s been a long, long, long.'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Rememories
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 9
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 9
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 9
+    played_live:
+    - show_slug: luna-2002-10-20-centre-civic-quart-girona-spain
+      date: '2002-10-20'
+      year: 2002
+      venue: Centre Civic Quart
+      city: Girona
+      country: Spain
+      position: 10
+    - show_slug: luna-2002-10-27-paradiso-amsterdam-the-netherlands
+      date: '2002-10-27'
+      year: 2002
+      venue: Paradiso
+      city: Amsterdam
+      country: The Netherlands
+      position: 10
+    - show_slug: luna-2003-02-01-echo-lounge-atlanta-ga-usa
+      date: '2003-02-01'
+      year: 2003
+      venue: Echo Lounge
+      city: Atlanta
+      country: USA
+      position: 11
+    - show_slug: luna-2003-02-05-shank-hall-milwaukee-wi-usa
+      date: '2003-02-05'
+      year: 2003
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 9
+    - show_slug: luna-2003-03-21-2000-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2003-03-21-2300-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 6

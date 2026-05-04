@@ -1,0 +1,32 @@
+slug: luna-1995-12-13-bbc-radio-one-manchester-uk
+date: '1995-12-13'
+year: 1995
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: Mark Radcliffe show - live studio performance and interview  TRUE
+venue_name: BBC Radio One
+venue_slug: bbc-radio-one-manchester-uk
+city: Manchester
+country: UK
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 2
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 3
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

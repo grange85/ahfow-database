@@ -1,0 +1,38 @@
+slug: luna-1996-05-16-kcrw-santa-monica-ca-usa
+date: '1996-05-16'
+year: 1996
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: Morning Becomes Eclectic - live studio session and interview  TRUE
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 2
+  raw_title: Kalamazoo
+  canonical_title: Kalamazoo
+  song_slug: kalamazoo
+  full_title: Kalamazoo
+- position: 3
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 4
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of the Witch

@@ -1,0 +1,80 @@
+title: Blue Thunder
+slug: blue-thunder
+release_type: Single
+year: 1990
+sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '7'
+  country: UK
+  year: 1989
+  label: Rough Trade
+  notes: Promo (split single with Straightjacket Fits)
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+- format: '12'
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: RTT246
+  sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 2
+    side: A
+    side_position: 2
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 3
+    side: B
+    side_position: 1
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 4
+    side: B
+    side_position: 2
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+- format: CD
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: RTT246CD
+  sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/bluethunder_lg.gif
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 2
+    side_position: 2
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 3
+    side_position: 3
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 4
+    side_position: 4
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night

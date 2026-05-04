@@ -1,0 +1,270 @@
+title: Everybody's Talkin'
+slug: everybodys-talkin
+sort_title: EVERYBODYS TALKIN
+authors: Fred Neil
+original_artist: Neil, Fred
+originals_url: https://www.fullofwishes.co.uk/2013/06/05/originals-everybodys-talkin-by-fred-neil-covered-by-luna/
+lyrics: 'Everybody''s talkin'' at me.
+
+  I don''t hear a word they''re sayin'',
+
+  Only the echoes of my mind.
+
+
+  People stoppin'' starin''
+
+  I can''t see the faces,
+
+  Only the shadows of their eyes.
+
+
+  I''m goin'' where the sun keeps shinin''
+
+  Thru the pourin'' rain,
+
+  Goin'' where the weather suits my clothes.
+
+
+  Bankin'' off the northeast wind,
+
+  Sailin'' on a summer breeze,
+
+  Skippin'' over the ocean like a stone.
+
+
+  Everybody''s talkin'' at me.
+
+  I don''t hear a word they''re sayin'',
+
+  Only the echoes of my mind.
+
+
+  And I won''t let you leave my love behind.'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Everybody's Talkin'
+    appears_on:
+    - release_title: EP (Shock)
+      release_slug: ep-shock
+      release_type: Single
+      year: 1998
+      format: CD
+      country: AUS
+      edition_year: 1998
+      label: Shock Records
+      catalogue_no: CORX063CD
+      position: 4
+    - release_title: Everybody's Talkin'
+      release_slug: everybodys-talkin
+      release_type: Single
+      year: 1998
+      format: '7'
+      country: US
+      edition_year: 1998
+      label: Sub Pop
+      catalogue_no: SP438
+      side: A
+      position: 1
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 28
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 7
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: C
+      position: 12
+    - release_title: Tell Me Do You Miss Me
+      release_slug: tell-me-do-you-miss-me
+      release_type: Album
+      year: 2019
+      format: LP
+      edition_year: 2019
+      label: \[no label\]
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-1997-09-11-supper-club-new-york-ny-usa
+      date: '1997-09-11'
+      year: 1997
+      venue: Supper Club
+      city: New York
+      country: USA
+      position: 15
+    - show_slug: luna-1997-09-29-fillmore-san-francisco-ca-usa
+      date: '1997-09-29'
+      year: 1997
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 18
+    - show_slug: luna-1997-10-01-kcrw-santa-monica-ca-usa
+      date: '1997-10-01'
+      year: 1997
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 5
+    - show_slug: luna-1997-10-23-loppen-copenhagen-denmark
+      date: '1997-10-23'
+      year: 1997
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 15
+    - show_slug: luna-1997-11-13-el-sol-madrid-spain
+      date: '1997-11-13'
+      year: 1997
+      venue: El Sol
+      city: Madrid
+      country: Spain
+      position: 15
+    - show_slug: luna-1997-11-14-bikini-barcelona-spain
+      date: '1997-11-14'
+      year: 1997
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 16
+    - show_slug: luna-1997-12-12-irving-plaza-new-york-ny-usa
+      date: '1997-12-12'
+      year: 1997
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 17
+    - show_slug: luna-1998-01-17-alley-katz-richmond-va-usa
+      date: '1998-01-17'
+      year: 1998
+      venue: Alley Katz
+      city: Richmond
+      country: USA
+      position: 17
+    - show_slug: luna-1998-04-04-liberty-lunch-austin-tx-usa
+      date: '1998-04-04'
+      year: 1998
+      venue: Liberty Lunch
+      city: Austin
+      country: USA
+      position: 16
+    - show_slug: luna-1998-08-08-benicassim-festival-valencia-spain
+      date: '1998-08-08'
+      year: 1998
+      venue: Benicassim Festival
+      city: Valencia
+      country: Spain
+      position: 8
+    - show_slug: luna-2001-12-31-2300-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-2002-02-23-maxwells-hoboken-nj-usa
+      date: '2002-02-23'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 16
+    - show_slug: luna-2002-04-27-wfuv-new-york-ny-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFUV
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-2003-01-24-fletchers-baltimore-md-usa
+      date: '2003-01-24'
+      year: 2003
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 14
+    - show_slug: luna-2003-07-26-maxwells-hoboken-nj-usa
+      date: '2003-07-26'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-2003-09-06-trocadero-philadelphia-pa-usa
+      date: '2003-09-06'
+      year: 2003
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 18
+    - show_slug: luna-2005-02-28-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-28'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2015-10-13-danforth-hall-toronto-ontario-canada
+      date: '2015-10-13'
+      year: 2015
+      venue: Danforth Hall
+      city: Toronto
+      country: Canada
+      position: 15
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 18
+    - show_slug: luna-2017-10-15-teatre-municipal-xesc-forteza-mallorca-spain
+      date: '2017-10-15'
+      year: 2017
+      venue: Teatre Municipal Xesc Forteza
+      city: Mallorca
+      country: Spain
+      position: 18
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 19
+    - show_slug: luna-2017-11-16-union-transfer-philadelphia-pa-usa
+      date: '2017-11-16'
+      year: 2017
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 18
+    - show_slug: luna-2017-11-17-montgomery-hall-jersey-city-nj-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Montgomery Hall
+      city: Jersey City
+      country: USA
+      position: 15

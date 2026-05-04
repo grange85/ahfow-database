@@ -1,0 +1,31 @@
+slug: luna-2002-06-04-kexp-seattle-wa-usa
+date: '2002-06-04'
+year: 2002
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: 'TRUE'
+venue_name: KEXP
+venue_slug: kexp-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^interview
+  annotation: interview
+- position: 2
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 3
+  raw_title: Weird and Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy

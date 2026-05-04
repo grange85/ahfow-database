@@ -1,0 +1,36 @@
+slug: luna-2017-11-03-88nine-radio-milwaukee-milwaukee-wi-usa
+date: '2017-11-03'
+year: 2017
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: 88Nine Radio Milwaukee
+venue_slug: 88nine-radio-milwaukee-milwaukee-wi-usa
+city: Milwaukee
+state: WI
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 2
+  raw_title: Friends
+  canonical_title: Friends
+  song_slug: friends
+  full_title: Friends
+- position: 3
+  raw_title: ^interview
+  annotation: interview
+- position: 4
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

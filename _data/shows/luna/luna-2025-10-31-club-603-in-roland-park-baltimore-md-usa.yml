@@ -1,0 +1,96 @@
+slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+date: '2025-10-31'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.eventbrite.com/e/luna-full-band-show-baltimore-md-tickets-1708397315359?aff=oddtdtcreator
+venue_name: Club 603 in Roland Park
+venue_slug: club-603-in-roland-park-baltimore-md-usa
+city: Baltimore
+state: MD
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 2
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 3
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 4
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of the Witch
+- position: 5
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 6
+  raw_title: Math Wiz
+  canonical_title: Math Wiz
+  song_slug: math-wiz
+  full_title: Math Wiz
+- position: 7
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 8
+  raw_title: Thank You for Sending Me an Angel
+  canonical_title: Thank You for Sending Me an Angel
+  song_slug: thank-you-for-sending-me-an-angel
+  full_title: Thank You for Sending Me an Angel
+- position: 9
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 10
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 11
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 12
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 13
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 16
+  raw_title: What Goes On
+  canonical_title: What Goes On
+  song_slug: what-goes-on
+  full_title: What Goes On

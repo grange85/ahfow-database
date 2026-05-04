@@ -1,0 +1,107 @@
+slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+date: '2014-04-05'
+year: 2014
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+venue_name: Bowery Ballroom
+venue_slug: bowery-ballroom-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 2
+  raw_title: Heartless People
+  canonical_title: Heartless People
+  song_slug: heartless-people
+  full_title: Heartless People
+- position: 3
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 4
+  raw_title: The Dancer Disappears
+  canonical_title: The Dancer Disappears
+  song_slug: the-dancer-disappears
+  full_title: The Dancer Disappears
+- position: 5
+  raw_title: Holding Pattern
+  canonical_title: Holding Pattern
+  song_slug: holding-pattern
+  full_title: Holding Pattern
+- position: 6
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 7
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 8
+  raw_title: Love Is Not a Roof Against The Rain
+  canonical_title: Love Is Not a Roof Against the Rain
+  song_slug: love-is-not-a-roof-against-the-rain
+  full_title: Love Is Not a Roof Against the Rain
+- position: 9
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 10
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 11
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: Babes in the Wood
+  canonical_title: Babes in the Wood
+  song_slug: babes-in-the-wood
+  full_title: Babes in the Wood
+- position: 13
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 14
+  raw_title: ^encore 1
+  annotation: encore 1
+- position: 15
+  raw_title: Don't Let Our Youth Go To Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 16
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 17
+  raw_title: ^encore 2)
+  annotation: encore 2)
+- position: 18
+  raw_title: Happy and Free
+  canonical_title: Happy and Free
+  song_slug: happy-and-free
+  full_title: Happy and Free
+- position: 19
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

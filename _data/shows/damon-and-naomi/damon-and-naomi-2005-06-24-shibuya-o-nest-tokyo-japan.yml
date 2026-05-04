@@ -1,0 +1,85 @@
+slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+date: '2005-06-24'
+year: 2005
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Shibuya O-Nest
+venue_slug: shibuya-o-nest-tokyo-japan
+city: Tokyo
+country: Japan
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 2
+  raw_title: House of Glass
+  canonical_title: House of Glass
+  song_slug: house-of-glass
+  full_title: House of Glass
+- position: 3
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 4
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 5
+  raw_title: Awake in a Muddle
+  canonical_title: Awake in a Muddle
+  song_slug: awake-in-a-muddle
+  full_title: Awake in a Muddle
+- position: 6
+  raw_title: Beautiful Close Double
+  canonical_title: Beautiful Close Double
+  song_slug: beautiful-close-double
+  full_title: Beautiful Close Double
+- position: 7
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 8
+  raw_title: The Wind's Twelve Quarters
+  canonical_title: The Wind's Twelve Quarters
+  song_slug: the-winds-twelve-quarters
+  full_title: The Wind's Twelve Quarters
+- position: 9
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 10
+  raw_title: Araçá Azul
+  canonical_title: Araçá Azul
+  song_slug: araca-azul
+  full_title: Araçá Azul
+- position: 11
+  raw_title: The Earth is Blue
+  canonical_title: The Earth Is Blue
+  song_slug: the-earth-is-blue
+  full_title: The Earth Is Blue
+- position: 12
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 13
+  raw_title: Sendou Kouta
+  canonical_title: Sendou Kouta
+  song_slug: sendou-kouta
+  full_title: Sendou Kouta
+- position: 14
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder

@@ -1,0 +1,21 @@
+title: Sucking Ice Cubes
+slug: sucking-ice-cubes
+sort_title: SUCKING ICE CUBES
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Sucking Ice Cubes
+    appears_on:
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: JP
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: WPCP-5802
+      position: 11
+    played_live: []

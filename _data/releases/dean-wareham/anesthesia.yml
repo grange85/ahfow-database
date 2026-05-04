@@ -1,0 +1,70 @@
+title: Anesthesia
+slug: anesthesia
+release_type: Single
+year: 1991
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_anesthesia_minttea.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '12'
+  year: 1991
+  label: Mint Tea
+  catalogue_no: MINT6T
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_anesthesia_minttea.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 2
+    side: B
+    side_position: 1
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 3
+    side: B
+    side_position: 2
+    title: Tomato Poodle
+    slug: tomato-poodle
+    full_title: Tomato Poodle
+- format: '7'
+  year: 1991
+  label: No. 6 Records
+  catalogue_no: KAR 019
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 2
+    side: B
+    side_position: 1
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+- format: CD
+  year: 1991
+  label: Mint Tea
+  catalogue_no: MINT6CD
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_anesthesia_minttea.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 2
+    side_position: 2
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 3
+    side_position: 3
+    title: Tomato Poodle
+    slug: tomato-poodle
+    full_title: Tomato Poodle

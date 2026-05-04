@@ -1,0 +1,82 @@
+slug: damon-and-naomi-2026-01-04-cafe-oto-london-uk
+date: '2026-01-04'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals|Richard
+  Youngs - guitar/vocals|Jess Hickie-Kallenbach - vocals
+support: Richard Youngs|Stewart Lee
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-cafe-oto-2026.jpg
+ticket_url: https://www.cafeoto.co.uk/events/damon-naomi-three-day-residency/
+venue_name: Cafe Oto
+venue_slug: cafe-oto-london-uk
+city: London
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Goodbye
+  canonical_title: Goodbye
+  song_slug: goodbye
+  full_title: Goodbye
+- position: 2
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 3
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 4
+  raw_title: The Well
+  canonical_title: The Well
+  song_slug: the-well
+  full_title: The Well
+- position: 5
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 6
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 7
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 8
+  raw_title: Information Age
+  canonical_title: Information Age
+  song_slug: information-age
+  full_title: Information Age
+- position: 9
+  raw_title: Season Without Time
+  canonical_title: Season Without Time
+  song_slug: season-without-time
+  full_title: Season Without Time
+- position: 10
+  raw_title: Spook [with Richard Youngs]
+  annotation: with Richard Youngs
+  canonical_title: Spook
+  song_slug: spook
+  full_title: Spook
+- position: 11
+  raw_title: Decomposing Trees [with Richard Youngs]
+  annotation: with Richard Youngs
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 12
+  raw_title: Don't Let Our Youth Go to Waste [with Richard Youngs and Jess Hickie-Kallenbach]
+  annotation: with Richard Youngs and Jess Hickie-Kallenbach
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste

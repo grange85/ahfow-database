@@ -1,0 +1,52 @@
+title: Don't Forget
+slug: dont-forget
+sort_title: DONT FORGET
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Don't Forget
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Sub Pop
+      catalogue_no: SPCD501
+      position: 7
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Elefant
+      catalogue_no: ER-1079
+      position: 7
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 7
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2012
+      label: Drag City
+      catalogue_no: DC 206CD
+      position: 7
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: B
+      position: 7
+    played_live: []

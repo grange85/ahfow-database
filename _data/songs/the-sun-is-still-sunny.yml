@@ -1,0 +1,186 @@
+title: The Sun Is Still Sunny
+slug: the-sun-is-still-sunny
+sort_title: SUN IS STILL SUNNY
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: The Sun Is Still Sunny
+    appears_on:
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: Zoë
+      catalogue_no: 01143-1105-2
+      position: 10
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: LP
+      edition_year: 2019
+      label: Wouldn't Waste
+      catalogue_no: WWR-13
+      side: A
+      position: 5
+    played_live:
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2007-01-23-mo-pitkins-new-york-ny-usa
+      date: '2007-01-23'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-08-world-cafe-live-philadelphia-pa-usa
+      date: '2007-03-08'
+      year: 2007
+      venue: World Cafe Live
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-03-12-mod-club-toronto-ontaria-canada
+      date: '2007-03-12'
+      year: 2007
+      venue: Mod Club
+      city: Toronto
+      country: Canada
+      position: 6
+    - show_slug: dean-and-britta-2007-03-13-dowes-pittsburgh-pa-usa
+      date: '2007-03-13'
+      year: 2007
+      venue: Dowes
+      city: Pittsburgh
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-15-schubas-chicago-il-usa
+      date: '2007-03-15'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-16-schubas-chicago-il-usa
+      date: '2007-03-16'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-17-cedar-cultural-center-minneapolis-mn-usa
+      date: '2007-03-17'
+      year: 2007
+      venue: Cedar Cultural Center
+      city: Minneapolis
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-19-high-noon-saloon-madison-wi-usa
+      date: '2007-03-19'
+      year: 2007
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-20-music-mill-indianapolis-in-usa
+      date: '2007-03-20'
+      year: 2007
+      venue: Music Mill
+      city: Indianapolis
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-22-mercy-lounge-nashville-tn-usa
+      date: '2007-03-22'
+      year: 2007
+      venue: Mercy Lounge
+      city: Nashville
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-23-variety-playhouse-atlanta-ga-usa
+      date: '2007-03-23'
+      year: 2007
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-29-black-cat-washington-dc-usa
+      date: '2007-03-29'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-03-30-hiro-ballroom-new-york-ny-usa
+      date: '2007-03-30'
+      year: 2007
+      venue: Hiro Ballroom
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-04-06-kcrw-santa-monica-ca-usa
+      date: '2007-04-06'
+      year: 2007
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2007-04-07-1900-silent-movie-theatre-los-angeles-ca-usa
+      date: '2007-04-07'
+      year: 2007
+      venue: Silent Movie Theatre
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2007-04-10-aladdin-theatre-portland-or-usa
+      date: '2007-04-10'
+      year: 2007
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2011-11-03-royale-boston-ma-usa
+      date: '2011-11-03'
+      year: 2011
+      venue: Royale
+      city: Boston
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2012-11-07-the-silver-studio-the-andy-warhol-museum-pittsburgh-pa-usa
+      date: '2012-11-07'
+      year: 2012
+      venue: The Silver Studio, The Andy Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2020-05-03-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-03'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2025-08-26-the-engine-room-north-shields-uk
+      date: '2025-08-26'
+      year: 2025
+      venue: The Engine Room
+      city: North Shields
+      country: UK
+      position: 13

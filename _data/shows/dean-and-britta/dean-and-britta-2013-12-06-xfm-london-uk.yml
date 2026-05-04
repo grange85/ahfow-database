@@ -1,0 +1,26 @@
+slug: dean-and-britta-2013-12-06-xfm-london-uk
+date: '2013-12-06'
+year: 2013
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: 'TRUE'
+venue_name: Xfm
+venue_slug: xfm-london-uk
+city: London
+country: UK
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Love is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 2
+  raw_title: Old Toy Trains
+  canonical_title: Old Toy Trains
+  song_slug: old-toy-trains
+  full_title: Old Toy Trains

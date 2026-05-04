@@ -1,0 +1,21 @@
+title: Terrastock All Access
+slug: terrastock-all-access
+release_type: Compilation
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_allaccess.jpg
+album_artist: Various artists
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD
+  year: 1997
+  label: Ptolemaic Terrascope
+  catalogue_no: POT CD 2
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_allaccess.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: I Shall Be Released
+    slug: i-shall-be-released
+    version_tag: with Tom Rapp
+    full_title: I Shall Be Released [with Tom Rapp]

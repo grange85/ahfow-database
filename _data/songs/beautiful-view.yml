@@ -1,0 +1,265 @@
+title: Beautiful View
+slug: beautiful-view
+sort_title: BEAUTIFUL VIEW
+lyrics: 'Your pockets are full
+
+  Of stolen glasses
+
+  But what''s the point?
+
+  You''ve had your fill
+
+  You''ve had your fill
+
+
+  You shed your skin
+
+  You''re one of them
+
+  That somber fool
+
+  Escape while you can
+
+  Escape while you can
+
+
+  You''re coming out of your shell
+
+  You''ve got a beautiful view
+
+  You''re gonna shake it off
+
+
+  This is the place
+
+  That you were born
+
+  It''s making a comeback
+
+  Since you''ve been gone
+
+  Since you''ve been gone
+
+
+  Don''t waste your time
+
+  Learning kling-on
+
+  It ain''t no use
+
+  Escape while you can
+
+  Escape while you can'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Beautiful View
+    appears_on:
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQCD194
+      position: 2
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      side: A
+      position: 2
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Elektra
+      catalogue_no: 62055-2
+      position: 2
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: US
+      edition_year: 1997
+      label: Teenbeat
+      side: A
+      position: 2
+    - release_title: Beautiful View
+      release_slug: beautiful-view
+      release_type: Single
+      year: 1998
+      format: CD
+      country: UK
+      edition_year: 1998
+      label: Beggars Banquet
+      catalogue_no: BBQ 322CD
+      position: 1
+    played_live:
+    - show_slug: luna-1997-08-03-idiots-delight-wnew-new-york-ny-usa
+      date: '1997-08-03'
+      year: 1997
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-1997-09-05-cats-cradle-carrboro-nc-usa
+      date: '1997-09-05'
+      year: 1997
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 4
+    - show_slug: luna-1997-09-08-bohagers-baltimore-md-usa
+      date: '1997-09-08'
+      year: 1997
+      venue: Bohagers
+      city: Baltimore
+      country: USA
+      position: 2
+    - show_slug: luna-1997-09-09-world-cafe-philadelphia-pa-usa
+      date: '1997-09-09'
+      year: 1997
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: luna-1997-09-11-supper-club-new-york-ny-usa
+      date: '1997-09-11'
+      year: 1997
+      venue: Supper Club
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-1997-09-18-little-brothers-columbus-oh-usa
+      date: '1997-09-18'
+      year: 1997
+      venue: Little Brothers
+      city: Columbus
+      country: USA
+      position: 11
+    - show_slug: luna-1997-09-20-metro-chicago-il-usa
+      date: '1997-09-20'
+      year: 1997
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-1997-09-26-crocodile-cafe-seattle-wa-usa
+      date: '1997-09-26'
+      year: 1997
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 10
+    - show_slug: luna-1997-09-29-fillmore-san-francisco-ca-usa
+      date: '1997-09-29'
+      year: 1997
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: luna-1997-10-01-kcrw-santa-monica-ca-usa
+      date: '1997-10-01'
+      year: 1997
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 6
+    - show_slug: luna-1997-10-17-venue-edinburgh-uk
+      date: '1997-10-17'
+      year: 1997
+      venue: Venue
+      city: Edinburgh
+      country: UK
+      position: 3
+    - show_slug: luna-1997-10-23-loppen-copenhagen-denmark
+      date: '1997-10-23'
+      year: 1997
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: luna-1997-11-13-el-sol-madrid-spain
+      date: '1997-11-13'
+      year: 1997
+      venue: El Sol
+      city: Madrid
+      country: Spain
+      position: 9
+    - show_slug: luna-1997-11-14-bikini-barcelona-spain
+      date: '1997-11-14'
+      year: 1997
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 6
+    - show_slug: luna-1998-02-14-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '1998-02-14'
+      year: 1998
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-1998-02-20-middle-east-cambridge-ma-usa
+      date: '1998-02-20'
+      year: 1998
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 3
+    - show_slug: luna-1998-09-30-the-drop-sydney-new-south-wales-australia
+      date: '1998-09-30'
+      year: 1998
+      venue: The Drop
+      city: Sydney
+      country: Australia
+      position: 3
+    - show_slug: luna-1999-09-06-roadhouse-manchester-uk
+      date: '1999-09-06'
+      year: 1999
+      venue: Roadhouse
+      city: Manchester
+      country: UK
+      position: 3
+    - show_slug: luna-2021-05-15-gold-diggers-los-angeles-ca-usa
+      date: '2021-05-15'
+      year: 2021
+      venue: Gold Diggers
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: luna-2021-07-30-truro-vineyards-truro-ma-usa
+      date: '2021-07-30'
+      year: 2021
+      venue: Truro Vineyards
+      city: Truro
+      country: USA
+      position: 6
+    - show_slug: luna-2021-08-04-the-press-room-portsmouth-nh-usa
+      date: '2021-08-04'
+      year: 2021
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 12
+    - show_slug: luna-2021-11-10-3ten-acl-live-austin-tx-usa
+      date: '2021-11-10'
+      year: 2021
+      series: Luna play Penthouse
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 14

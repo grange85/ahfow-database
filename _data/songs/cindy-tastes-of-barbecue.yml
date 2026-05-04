@@ -1,0 +1,389 @@
+title: Cindy Tastes of Barbecue
+slug: cindy-tastes-of-barbecue
+sort_title: CINDY TASTES OF BARBECUE
+lyrics: 'Your electronic billet doux
+
+  It left me scrambling for a clue
+
+  North of North Dakota
+
+  East of Easter Egg
+
+  I made a promise to the hills
+
+
+  Your purple mouth says snicker smack
+
+  I''m turning round I''m turning back
+
+  Cindy tastes of barbecue
+
+  Cindy tastes like cream
+
+  I made a promise to the hills'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Cindy Tastes of Barbecue
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 2
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 2
+    - release_title: Tell Me Do You Miss Me
+      release_slug: tell-me-do-you-miss-me
+      release_type: Album
+      year: 2019
+      format: LP
+      edition_year: 2019
+      label: \[no label\]
+      side: A
+      position: 1
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 2
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: A
+      position: 2
+    played_live:
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-10-blind-pig-ann-arbor-mi-usa
+      date: '2004-11-10'
+      year: 2004
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 1
+    - show_slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+      date: '2004-11-14'
+      year: 2004
+      venue: Fine Line Music Cafe
+      city: Minneapolis
+      country: USA
+      position: 1
+    - show_slug: luna-2004-11-19-exitin-nashville-tn-usa
+      date: '2004-11-19'
+      year: 2004
+      venue: Exit/In
+      city: Nashville
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-21-cats-cradle-carrboro-nc-usa
+      date: '2004-11-21'
+      year: 2004
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-27-irving-plaza-new-york-ny-usa
+      date: '2004-11-27'
+      year: 2004
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2004-12-18-930-club-washington-dc-usa
+      date: '2004-12-18'
+      year: 2004
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 4
+    - show_slug: luna-2005-01-29-sons-of-hermann-hall-dallas-tx-usa
+      date: '2005-01-29'
+      year: 2005
+      venue: Sons of Hermann Hall
+      city: Dallas
+      country: USA
+      position: 3
+    - show_slug: luna-2005-01-31-fox-theatre-boulder-co-usa
+      date: '2005-01-31'
+      year: 2005
+      venue: Fox Theatre
+      city: Boulder
+      country: USA
+      position: 6
+    - show_slug: luna-2005-02-02-club-congress-tucson-az-usa
+      date: '2005-02-02'
+      year: 2005
+      venue: Club Congress
+      city: Tucson
+      country: USA
+      position: 3
+    - show_slug: luna-2005-02-04-el-rey-theater-los-angeles-ca-usa
+      date: '2005-02-04'
+      year: 2005
+      venue: El Rey Theater
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: luna-2005-02-05-fillmore-san-francisco-ca-usa
+      date: '2005-02-05'
+      year: 2005
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: luna-2005-02-11-1800-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 7
+    - show_slug: luna-2005-02-12-richards-on-richards-vancouver-british-columbia-canada
+      date: '2005-02-12'
+      year: 2005
+      venue: Richards on Richards
+      city: Vancouver
+      country: Canada
+      position: 2
+    - show_slug: luna-2005-02-27-2000-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-27'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2015-04-18-escenario-santander-santander-spain
+      date: '2015-04-18'
+      year: 2015
+      venue: Escenario Santander
+      city: Santander
+      country: Spain
+      position: 4
+    - show_slug: luna-2015-04-20-teatro-lara-madrid-spain
+      date: '2015-04-20'
+      year: 2015
+      venue: Teatro Lara
+      city: Madrid
+      country: Spain
+      position: 5
+    - show_slug: luna-2015-04-23-bikini-barcelona-spain
+      date: '2015-04-23'
+      year: 2015
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 7
+    - show_slug: luna-2015-04-26-casa-da-musica-porto-portugal
+      date: '2015-04-26'
+      year: 2015
+      venue: Casa da Musica
+      city: Porto
+      country: Portugal
+      position: 7
+    - show_slug: luna-2015-07-31-the-garage-london-uk
+      date: '2015-07-31'
+      year: 2015
+      venue: The Garage
+      city: London
+      country: UK
+      position: 9
+    - show_slug: luna-2015-08-02-cca-glasgow-uk
+      date: '2015-08-02'
+      year: 2015
+      venue: CCA
+      city: Glasgow
+      country: UK
+      position: 3
+    - show_slug: luna-2015-09-17-northcote-social-club-melbourne-victoria-australia
+      date: '2015-09-17'
+      year: 2015
+      venue: Northcote Social Club
+      city: Melbourne
+      country: Australia
+      position: 7
+    - show_slug: luna-2015-09-19-tuning-fork-auckland-new-zealand
+      date: '2015-09-19'
+      year: 2015
+      venue: Tuning Fork
+      city: Auckland
+      country: New Zealand
+      position: 8
+    - show_slug: luna-2015-10-09-music-hall-of-williamsburg-brooklyn-ny-usa
+      date: '2015-10-09'
+      year: 2015
+      venue: Music Hall of Williamsburg
+      city: Brooklyn
+      country: USA
+      position: 3
+    - show_slug: luna-2015-10-11-3s-artspace-portsmouth-nh-usa
+      date: '2015-10-11'
+      year: 2015
+      venue: 3S Artspace
+      city: Portsmouth
+      country: USA
+      position: 3
+    - show_slug: luna-2015-10-14-the-andy-warhol-museum-pittsburgh-pa-usa
+      date: '2015-10-14'
+      year: 2015
+      venue: The Andy Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 7
+    - show_slug: luna-2015-10-23-the-fillmore-san-francisco-ca-usa
+      date: '2015-10-23'
+      year: 2015
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 8
+    - show_slug: luna-2017-11-11-terminal-west-atlanta-ga-usa
+      date: '2017-11-11'
+      year: 2017
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 9
+    - show_slug: luna-2017-11-12-the-cats-cradle-carrboro-nc-usa
+      date: '2017-11-12'
+      year: 2017
+      venue: The Cat's Cradle
+      city: Carrboro
+      country: USA
+      position: 6
+    - show_slug: luna-2017-11-16-union-transfer-philadelphia-pa-usa
+      date: '2017-11-16'
+      year: 2017
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 4
+    - show_slug: luna-2018-01-12-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-12'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 7
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 5
+    - show_slug: luna-2018-04-06-3ten-acl-live-austin-tx-usa
+      date: '2018-04-06'
+      year: 2018
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-05-teragram-ballroom-los-angeles-ca-usa
+      date: '2020-02-05'
+      year: 2020
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: luna-2020-02-07-the-independent-san-francisco-ca-usa
+      date: '2020-02-07'
+      year: 2020
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2020-06-27-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-06-27'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 11
+    - show_slug: luna-2021-07-30-truro-vineyards-truro-ma-usa
+      date: '2021-07-30'
+      year: 2021
+      venue: Truro Vineyards
+      city: Truro
+      country: USA
+      position: 11
+    - show_slug: luna-2021-08-03-the-press-room-portsmouth-nh-usa
+      date: '2021-08-03'
+      year: 2021
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 11
+    - show_slug: luna-2023-09-08-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-08'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2023-10-29-kafe-antzokia-bilbao-spain
+      date: '2023-10-29'
+      year: 2023
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 9
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 7

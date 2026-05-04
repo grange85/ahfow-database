@@ -1,0 +1,176 @@
+title: Random Rules
+slug: random-rules
+sort_title: RANDOM RULES
+authors: D.C.Berman
+original_artist: Silver Jews
+originals_url: https://www.fullofwishes.co.uk/2014/03/26/originals-random-rules-by-silver-jews-covered-by-dean-britta/
+lyrics: 'In 1984 I was hospitalized for approaching perfection.
+
+  Slowly screwing my way across Europe, they had to make a correction.
+
+  Broken and smokin'' where the infrared deer plunge in the digital snake.
+
+  I tell you, they make it so you can''t shake hands when they make your hands shake.
+
+
+  I know you like to line dance, everything so democratic and cool,
+
+  But baby there''s no guidance when random rules.
+
+
+  I know that a lot of what I say has been lifted off of men''s room walls.
+
+  Maybe I''ve crossed the wrong rivers and walked down all the wrong halls.
+
+  But nothing can change the fact that we used to share a bed
+
+  and that''s why it scared me so when you turned to me and said:
+
+
+  "Yeah, you look like someone
+
+  Yeah you look like someone who up and left me low.
+
+  Boy, you look like somene I used to know."
+
+
+  I asked the painter why the roads are colored black.
+
+  He said, "Steve, it''s because people leave
+
+  and no highway will bring them back."
+
+  So if you don''t want me I promise not to linger,
+
+  But before I go I gotta ask you dear about the tan line on your ring finger.
+
+
+  No one should have two lives,
+
+  now you know my middle names are wrong and right.
+
+  Honey we''ve got two lives to give tonight.'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Random Rules
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: B
+      position: 10
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA59CD
+      position: 10
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: CD-BL-001
+      position: 10
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: LP
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: DBL-001
+      side: B
+      position: 10
+    played_live:
+    - show_slug: dean-and-britta-2003-06-19-great-american-san-francisco-ca-usa
+      date: '2003-06-19'
+      year: 2003
+      venue: Great American
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2003-06-21-double-door-chicago-il-usa
+      date: '2003-06-21'
+      year: 2003
+      venue: Double Door
+      city: Chicago
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2003-06-24-village-underground-new-york-ny-usa
+      date: '2003-06-24'
+      year: 2003
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2007-03-19-high-noon-saloon-madison-wi-usa
+      date: '2007-03-19'
+      year: 2007
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 14
+    - show_slug: dean-and-britta-2007-04-10-aladdin-theatre-portland-or-usa
+      date: '2007-04-10'
+      year: 2007
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2007-06-18-sussex-arts-club-brighton-uk
+      date: '2007-06-18'
+      year: 2007
+      venue: Sussex Arts Club
+      city: Brighton
+      country: UK
+      position: 14
+    - show_slug: dean-and-britta-2007-07-12-rams-head-tavern-annapolis-md-usa
+      date: '2007-07-12'
+      year: 2007
+      venue: Rams Head Tavern
+      city: Annapolis
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2007-12-04-silbergold-frankfurt-germany
+      date: '2007-12-04'
+      year: 2007
+      venue: Silbergold
+      city: Frankfurt
+      country: Germany
+      position: 3
+    - show_slug: dean-and-britta-2007-12-31-maxwells-hoboken-nj-usa
+      date: '2007-12-31'
+      year: 2007
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2011-11-03-royale-boston-ma-usa
+      date: '2011-11-03'
+      year: 2011
+      venue: Royale
+      city: Boston
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2020-09-26-1800-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 10

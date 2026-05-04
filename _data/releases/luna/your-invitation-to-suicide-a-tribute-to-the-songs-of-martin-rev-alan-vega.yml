@@ -1,0 +1,32 @@
+title: 'Your Invitation To Suicide: A Tribute To The Songs Of Martin Rev, Alan Vega'
+slug: your-invitation-to-suicide-a-tribute-to-the-songs-of-martin-rev-alan-vega
+release_type: Compilation
+year: 1994
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-your-invitation-to-suicide.jpg
+album_artist: Various artists
+act: Luna
+act_slug: luna
+editions:
+- format: 2xLP
+  year: 1994
+  label: Munster Records
+  catalogue_no: MR CD 040
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-your-invitation-to-suicide.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Dream Baby Dream
+    slug: dream-baby-dream
+    full_title: Dream Baby Dream
+- format: CD
+  year: 1994
+  label: Munster Records
+  catalogue_no: MR CD 040
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-your-invitation-to-suicide.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Dream Baby Dream
+    slug: dream-baby-dream
+    full_title: Dream Baby Dream

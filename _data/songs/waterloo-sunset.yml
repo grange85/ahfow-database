@@ -1,0 +1,20 @@
+title: Waterloo Sunset
+slug: waterloo-sunset
+sort_title: WATERLOO SUNSET
+authors: Ray Davies
+original_artist: The Kinks
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Waterloo Sunset
+    appears_on: []
+    played_live:
+    - show_slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+      date: '2022-11-12'
+      year: 2022
+      venue: Pappy and Harriet's
+      city: Pioneertown
+      country: USA
+      position: 1

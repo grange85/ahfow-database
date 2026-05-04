@@ -1,0 +1,86 @@
+title: Rock Your Baby
+slug: rock-your-baby
+sort_title: ROCK YOUR BABY
+authors: George McRae
+original_artist: George McRae
+originals_url: https://www.fullofwishes.co.uk/2013/12/31/originals-rock-your-baby-by-george-mccrae-covered-by-luna/
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Rock Your Baby
+    appears_on:
+    - release_title: Tell Me Do You Miss Me
+      release_slug: tell-me-do-you-miss-me
+      release_type: Album
+      year: 2019
+      format: LP
+      edition_year: 2019
+      label: \[no label\]
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-2000-12-31-cbgbs-new-york-ny-usa
+      date: '2000-12-31'
+      year: 2000
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 15
+    - show_slug: luna-2001-09-24-programa-garagem-brasil-2000-fm-brazil
+      date: '2001-09-24'
+      year: 2001
+      venue: Programa Garagem
+      city: Brasil 2000 FM
+      country: Brazil
+      position: 7
+    - show_slug: luna-2001-12-31-2300-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2002-12-31-maxwells-hoboken-nj-usa
+      date: '2002-12-31'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 3
+    - show_slug: luna-2004-12-31-southpaw-brooklyn-ny-usa
+      date: '2004-12-31'
+      year: 2004
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 8
+    - show_slug: luna-2005-02-05-fillmore-san-francisco-ca-usa
+      date: '2005-02-05'
+      year: 2005
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 17
+    - show_slug: dean-and-britta-2007-12-31-maxwells-hoboken-nj-usa
+      date: '2007-12-31'
+      year: 2007
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-2015-12-29-the-casbah-san-diego-ca-usa
+      date: '2015-12-29'
+      year: 2015
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 17
+    - show_slug: luna-2015-12-31-starline-social-club-oakland-ca-usa
+      date: '2015-12-31'
+      year: 2015
+      venue: Starline Social Club
+      city: Oakland
+      country: USA
+      position: 12

@@ -1,0 +1,28 @@
+title: Winter Is Blue
+slug: winter-is-blue
+sort_title: WINTER IS BLUE
+authors: Vashti Bunyan
+original_artist: Vashti Bunyan
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Winter Is Blue
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-2005-05-22-music-lovers-field-companion-music-festival-the-sage-gateshead-uk
+      date: '2005-05-22'
+      year: 2005
+      event: Music Lovers Field Companion music festival
+      venue: The Sage
+      city: Gateshead
+      country: UK
+      position: 1
+    - show_slug: damon-and-naomi-2005-06-23-nhk-livebeat-tokyo-japan
+      date: '2005-06-23'
+      year: 2005
+      venue: NHK Livebeat
+      city: Tokyo
+      country: Japan
+      position: 1

@@ -1,0 +1,71 @@
+slug: galaxie-500-1990-02-11-falcon-london-uk
+date: '1990-02-11'
+year: 1990
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+venue_name: Falcon
+venue_slug: falcon-london-uk
+city: London
+country: UK
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 2
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 3
+  raw_title: Plastic Bird
+  canonical_title: Plastic Bird
+  song_slug: plastic-bird
+  full_title: Plastic Bird
+- position: 4
+  raw_title: Here She Comes Now
+  canonical_title: Here She Comes Now
+  song_slug: here-she-comes-now
+  full_title: Here She Comes Now
+- position: 5
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 6
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 7
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 8
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 9
+  raw_title: Victory Garden
+  canonical_title: Victory Garden
+  song_slug: victory-garden
+  full_title: Victory Garden
+- position: 10
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+- position: 11
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising

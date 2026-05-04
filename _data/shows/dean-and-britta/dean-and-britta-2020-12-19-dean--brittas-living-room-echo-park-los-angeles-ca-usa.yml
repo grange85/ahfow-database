@@ -1,0 +1,89 @@
+slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+date: '2020-12-19'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+series: live stream
+event: Dean & Britta's living room
+poster_url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/dean-and-britta-2020-12-19-holiday-show.jpg
+venue_name: Echo Park
+venue_slug: dean--brittas-living-room-echo-park-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Happy Xmas (War is Over)
+  canonical_title: Happy Xmas (War Is Over)
+  song_slug: happy-xmas-war-is-over
+  full_title: Happy Xmas (War Is Over)
+- position: 2
+  raw_title: Stille Nacht
+  canonical_title: Stille Nacht
+  song_slug: stille-nacht
+  full_title: Stille Nacht
+- position: 3
+  raw_title: Do You Know How Christmas Trees are Grown?
+  canonical_title: Do You Know How Christmas Trees Are Grown?
+  song_slug: do-you-know-how-christmas-trees-are-grown
+  full_title: Do You Know How Christmas Trees Are Grown?
+- position: 4
+  raw_title: Old Toy Trains
+  canonical_title: Old Toy Trains
+  song_slug: old-toy-trains
+  full_title: Old Toy Trains
+- position: 5
+  raw_title: Christmas Can't be Far Away
+  canonical_title: Christmas Can't Be Far Away
+  song_slug: christmas-cant-be-far-away
+  full_title: Christmas Can't Be Far Away
+- position: 6
+  raw_title: He's Coming Home
+  canonical_title: He's Coming Home
+  song_slug: hes-coming-home
+  full_title: He's Coming Home
+- position: 7
+  raw_title: Little Altar Boy
+  canonical_title: Little Altar Boy
+  song_slug: little-altar-boy
+  full_title: Little Altar Boy
+- position: 8
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 9
+  raw_title: Snow is Falling in Manhattan
+  canonical_title: Snow Is Falling in Manhattan
+  song_slug: snow-is-falling-in-manhattan
+  full_title: Snow Is Falling in Manhattan
+- position: 10
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 11
+  raw_title: Listen the Snow is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 12
+  raw_title: Neon Lights
+  canonical_title: Neon Lights
+  song_slug: neon-lights
+  full_title: Neon Lights
+- position: 13
+  raw_title: Happy and Free
+  canonical_title: Happy and Free
+  song_slug: happy-and-free
+  full_title: Happy and Free
+- position: 14
+  raw_title: Happy New Year
+  canonical_title: Happy New Year
+  song_slug: happy-new-year
+  full_title: Happy New Year

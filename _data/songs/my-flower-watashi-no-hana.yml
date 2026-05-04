@@ -1,0 +1,76 @@
+title: My Flower (Watashi No Hana)
+slug: my-flower-watashi-no-hana
+sort_title: MY FLOWER (WATASHI NO HANA
+authors: K. Tomokawa
+original_artist: K. Tomokawa
+originals_url: https://www.fullofwishes.co.uk/2014/10/01/originals-watashi-hana-kazuki-tomokawa/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: My Flower (Watashi No Hana)
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: C
+      position: 11
+    - release_title: Monday January 19th, 2004
+      release_slug: monday-january-19th-2004
+      release_type: Album
+      year: 2005
+      format: CDr
+      edition_year: 2005
+      label: (no label)
+      side: A
+      position: 5
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 9
+    played_live:
+    - show_slug: damon-and-naomi-2002-07-13-namba-osaka-japan
+      date: '2002-07-13'
+      year: 2002
+      venue: Namba
+      city: Osaka
+      country: Japan
+      position: 14
+    - show_slug: damon-and-naomi-2002-07-15-tokuzo-nagoya-japan
+      date: '2002-07-15'
+      year: 2002
+      venue: Tokuzo
+      city: Nagoya
+      country: Japan
+      position: 15
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 15
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 8
+    - show_slug: damon-and-naomi-2004-01-19-mandala-2-tokyo-japan
+      date: '2004-01-19'
+      year: 2004
+      venue: Mandala-2
+      city: Tokyo
+      country: Japan
+      position: 5

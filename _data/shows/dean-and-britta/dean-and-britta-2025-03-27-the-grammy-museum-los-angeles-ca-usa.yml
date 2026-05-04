@@ -1,0 +1,30 @@
+slug: dean-and-britta-2025-03-27-the-grammy-museum-los-angeles-ca-usa
+date: '2025-03-27'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+ticket_url: https://grammymuseum.org/event/fifty-years-in-sixty-minutes-an-evening-with-the-bob-dylan-center/
+notes: 'Fifty Years in Sixty Minutes: An Evening with the Bob Dylan Center. Film Screening
+  and Discussion with Director Steven Jenkins. Performance by Special Guests Dean
+  and Britta'
+venue_name: The Grammy Museum
+venue_slug: the-grammy-museum-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 2
+  raw_title: Most of The Time
+  canonical_title: Most of the Time
+  song_slug: most-of-the-time
+  full_title: Most of the Time

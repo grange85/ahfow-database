@@ -1,0 +1,154 @@
+title: Goodbye
+slug: goodbye
+sort_title: GOODBYE
+lyrics: 'Goodbye baby
+
+  Bye bye honey
+
+  Goodbye baby
+
+  Bye bye
+
+
+  Three years in this town
+
+  And I want to leave town
+
+  The clubs have all shut down
+
+  And I have been dressed down
+
+
+  Goodbye baby
+
+  Bye bye honey
+
+  Goodbye baby
+
+  Bye bye
+
+
+  I''m leavin tonight
+
+  And I''m drivin all night
+
+  You know I been thinkin
+
+  The city is shrinkin'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Goodbye
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: B
+      position: 11
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: B
+      position: 11
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 11
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: B
+      position: 11
+    played_live:
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 2
+    - show_slug: luna-1997-11-14-bikini-barcelona-spain
+      date: '1997-11-14'
+      year: 1997
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 14
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 11
+    - show_slug: luna-2019-10-17-gateway-city-arts-holyoke-ma-usa
+      date: '2019-10-17'
+      year: 2019
+      venue: Gateway City Arts
+      city: Holyoke
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 11
+    - show_slug: damon-and-naomi-2021-08-12-babys-all-right-brooklyn-ny-usa
+      date: '2021-08-12'
+      year: 2021
+      venue: Baby's All Right
+      city: Brooklyn
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2026-01-04-cafe-oto-london-uk
+      date: '2026-01-04'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 1
+  - version_tag: Toxic shock demo
+    full_title: Goodbye [Toxic shock demo]
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: D
+      position: 21
+    played_live: []

@@ -1,0 +1,281 @@
+title: Luna Live
+slug: luna-live
+release_type: Album
+year: 2000
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_live.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: 2xLP
+  year: 2000
+  label: Arena Rock
+  catalogue_no: ARE 017-1
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 2
+    side: A
+    side_position: 2
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 3
+    side: A
+    side_position: 3
+    title: Double Feature
+    slug: double-feature
+    full_title: Double Feature
+  - position: 4
+    side: A
+    side_position: 4
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 5
+    side: A
+    side_position: 5
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 6
+    side: B
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 7
+    side: B
+    side_position: 2
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 8
+    side: B
+    side_position: 3
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 9
+    side: B
+    side_position: 4
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 10
+    side: B
+    side_position: 5
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 11
+    side: C
+    side_position: 1
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 12
+    side: C
+    side_position: 2
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 13
+    side: C
+    side_position: 3
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 14
+    side: C
+    side_position: 4
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 15
+    side: D
+    side_position: 1
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All the Way)
+  - position: 16
+    side: D
+    side_position: 2
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 17
+    side: D
+    side_position: 3
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 18
+    side: D
+    side_position: 4
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+- format: CD
+  year: 2000
+  label: Arena Rock
+  catalogue_no: ARE 017-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 2
+    side_position: 2
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 3
+    side_position: 3
+    title: Double Feature
+    slug: double-feature
+    full_title: Double Feature
+  - position: 4
+    side_position: 4
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 5
+    side_position: 5
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 6
+    side_position: 6
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 7
+    side_position: 7
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 8
+    side_position: 8
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 9
+    side_position: 9
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 10
+    side_position: 10
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 11
+    side_position: 11
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 12
+    side_position: 12
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 13
+    side_position: 13
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+- format: 2xCD
+  year: 2001
+  label: Trama
+  catalogue_no: TESI/496-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 2
+    side_position: 2
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 3
+    side_position: 3
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 4
+    side_position: 4
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 5
+    side_position: 5
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 6
+    side_position: 6
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 7
+    side_position: 7
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 8
+    side_position: 8
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 9
+    side_position: 9
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 10
+    side_position: 10
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 11
+    side_position: 11
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 12
+    side_position: 12
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 13
+    side_position: 13
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 14
+    side_position: 14
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 15
+    side_position: 15
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All the Way)
+  - position: 16
+    side_position: 16
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 17
+    side_position: 17
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer

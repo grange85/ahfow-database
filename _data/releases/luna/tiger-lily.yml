@@ -1,0 +1,26 @@
+title: Tiger Lily
+slug: tiger-lily
+release_type: Single
+year: 1994
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1994
+  label: Elektra
+  catalogue_no: PRCD 8884-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tiger-lily-promo-sleeve-front.jpg
+  notes: Radio promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 2
+    side_position: 2
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily

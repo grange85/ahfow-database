@@ -1,0 +1,396 @@
+title: Black Champagne
+slug: black-champagne
+sort_title: BLACK CHAMPAGNE
+lyrics: 'Sunday on a Whim
+
+  Things are falling in
+
+  You made it to your bed
+
+  But stayed up all night instead
+
+
+  My eyes are glossed
+
+  My head is tossed
+
+  I''m writing underneath your gaze
+
+  Don''t you want to know?
+
+  How this thing will go
+
+  I wonder how things became so strange
+
+
+  The Battle brings me life
+
+  Drain the disco lights on me
+
+
+  Drinking Black Champagne
+
+  Diamonds in my veins
+
+  My hands are growing old
+
+  My Teeth are paved with gold
+
+
+  My eyes are glossed
+
+  My head is tossed
+
+  I''m writing underneath your gaze
+
+
+  The Battle brings me life
+
+  Drain the disco lights on me'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Black Champagne
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 4
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 4
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 4
+    - release_title: Roundup
+      release_slug: roundup
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Maine Road Management
+      position: 2
+    played_live:
+    - show_slug: luna-2001-09-24-programa-garagem-brasil-2000-fm-brazil
+      date: '2001-09-24'
+      year: 2001
+      venue: Programa Garagem
+      city: Brasil 2000 FM
+      country: Brazil
+      position: 1
+    - show_slug: luna-2002-02-16-1-brooklyn-museum-brooklyn-ny-usa
+      date: '2002-02-16'
+      year: 2002
+      venue: Brooklyn Museum
+      city: Brooklyn
+      country: USA
+      position: 6
+    - show_slug: luna-2002-04-27-wfmu-jersey-city-nj-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFMU
+      city: Jersey City
+      country: USA
+      position: 4
+    - show_slug: luna-2002-05-16-world-cafe-philadelphia-pa-usa
+      date: '2002-05-16'
+      year: 2002
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-2002-05-16-world-cafe-philadelphia-pa-usa
+      date: '2002-05-16'
+      year: 2002
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 5
+      annotation: instrumental
+    - show_slug: luna-2002-05-17-930-club-washington-dc-usa
+      date: '2002-05-17'
+      year: 2002
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 2
+    - show_slug: luna-2002-05-18-fletchers-baltimore-md-usa
+      date: '2002-05-18'
+      year: 2002
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 6
+    - show_slug: luna-2002-05-25-lees-palace-toronto-ontario-canada
+      date: '2002-05-25'
+      year: 2002
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 5
+    - show_slug: luna-2002-05-26-beachland-ballroom-cleveland-oh-usa
+      date: '2002-05-26'
+      year: 2002
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 3
+    - show_slug: luna-2002-05-28-highdive-champaign-il-usa
+      date: '2002-05-28'
+      year: 2002
+      venue: Highdive
+      city: Champaign
+      country: USA
+      position: 8
+    - show_slug: luna-2002-05-29-southgate-house-newport-ky-usa
+      date: '2002-05-29'
+      year: 2002
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 5
+    - show_slug: luna-2002-05-31-caberet-metro-chicago-il-usa
+      date: '2002-05-31'
+      year: 2002
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 2
+    - show_slug: luna-2002-06-01-first-avenue-minneapolis-mn-usa
+      date: '2002-06-01'
+      year: 2002
+      venue: First Avenue
+      city: Minneapolis
+      country: USA
+      position: 5
+    - show_slug: luna-2002-06-04-showbox-seattle-wa-usa
+      date: '2002-06-04'
+      year: 2002
+      venue: Showbox
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-2002-06-05-aladdin-theatre-portland-or-usa
+      date: '2002-06-05'
+      year: 2002
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 5
+    - show_slug: luna-2002-06-07-bimbos-san-francisco-ca-usa
+      date: '2002-06-07'
+      year: 2002
+      venue: Bimbos
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: luna-2002-06-10-kcrw-santa-monica-ca-usa
+      date: '2002-06-10'
+      year: 2002
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 1
+    - show_slug: luna-2002-06-14-la-zona-rosa-austin-tx-usa
+      date: '2002-06-14'
+      year: 2002
+      venue: La Zona Rosa
+      city: Austin
+      country: USA
+      position: 2
+    - show_slug: luna-2002-06-18-blueberry-hill-duck-room-st-louis-mo-usa
+      date: '2002-06-18'
+      year: 2002
+      venue: Blueberry Hill Duck Room
+      city: St Louis
+      country: USA
+      position: 4
+    - show_slug: luna-2002-06-20-variety-playhouse-atlanta-ga-usa
+      date: '2002-06-20'
+      year: 2002
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 3
+    - show_slug: luna-2002-06-21-miller-plaza-chattanooga-tn-usa
+      date: '2002-06-21'
+      year: 2002
+      venue: Miller Plaza
+      city: Chattanooga
+      country: USA
+      position: 6
+    - show_slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+      date: '2002-07-20'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-2002-08-20-south-street-seaport-new-york-ny-usa
+      date: '2002-08-20'
+      year: 2002
+      venue: South Street Seaport
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2002-08-23-southpaw-brooklyn-ny-usa
+      date: '2002-08-23'
+      year: 2002
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 4
+    - show_slug: luna-2002-09-02-bumbershoot-seattle-wa-usa
+      date: '2002-09-02'
+      year: 2002
+      venue: Bumbershoot
+      city: Seattle
+      country: USA
+      position: 3
+    - show_slug: luna-2002-09-20-mojos-columbia-mo-usa
+      date: '2002-09-20'
+      year: 2002
+      venue: Mojos
+      city: Columbia
+      country: USA
+      position: 6
+    - show_slug: luna-2002-10-20-centre-civic-quart-girona-spain
+      date: '2002-10-20'
+      year: 2002
+      venue: Centre Civic Quart
+      city: Girona
+      country: Spain
+      position: 6
+    - show_slug: luna-2002-10-26-lescalier-liege-belgium
+      date: '2002-10-26'
+      year: 2002
+      venue: LEscalier
+      city: Liege
+      country: Belgium
+      position: 2
+    - show_slug: luna-2002-10-27-paradiso-amsterdam-the-netherlands
+      date: '2002-10-27'
+      year: 2002
+      venue: Paradiso
+      city: Amsterdam
+      country: The Netherlands
+      position: 2
+    - show_slug: luna-2002-11-23-north-star-bar-philadelphia-pa-usa
+      date: '2002-11-23'
+      year: 2002
+      venue: North Star Bar
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: luna-2002-11-30-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-30'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2002-12-13-fillmore-san-francisco-ca-usa
+      date: '2002-12-13'
+      year: 2002
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2003-01-24-fletchers-baltimore-md-usa
+      date: '2003-01-24'
+      year: 2003
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 3
+    - show_slug: luna-2003-02-01-echo-lounge-atlanta-ga-usa
+      date: '2003-02-01'
+      year: 2003
+      venue: Echo Lounge
+      city: Atlanta
+      country: USA
+      position: 10
+    - show_slug: luna-2003-02-02-cats-cradle-carrboro-nc-usa
+      date: '2003-02-02'
+      year: 2003
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 4
+    - show_slug: luna-2003-03-21-2000-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2003-04-10-brown-university-providence-ri-usa
+      date: '2003-04-10'
+      year: 2003
+      venue: Brown University
+      city: Providence
+      country: USA
+      position: 4
+    - show_slug: luna-2003-08-22-southpaw-brooklyn-ny-usa
+      date: '2003-08-22'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 4
+    - show_slug: luna-2003-09-06-trocadero-philadelphia-pa-usa
+      date: '2003-09-06'
+      year: 2003
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: luna-2003-11-29-knitting-factory-new-york-ny-usa
+      date: '2003-11-29'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2004-10-15-astro-hall-tokyo-japan
+      date: '2004-10-15'
+      year: 2004
+      venue: Astro Hall
+      city: Tokyo
+      country: Japan
+      position: 10
+    - show_slug: luna-2004-12-18-930-club-washington-dc-usa
+      date: '2004-12-18'
+      year: 2004
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 11
+    - show_slug: luna-2005-02-26-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-26'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5

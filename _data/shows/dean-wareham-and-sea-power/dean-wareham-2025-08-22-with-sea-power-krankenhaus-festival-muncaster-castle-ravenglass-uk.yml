@@ -1,0 +1,60 @@
+slug: dean-wareham-2025-08-22-with-sea-power-krankenhaus-festival-muncaster-castle-ravenglass-uk
+date: '2025-08-22'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards
+series: Dean Wareham plays Galaxie 500
+event: Krankenhaus FestIval
+ticket_url: https://krankenhaus.tygit.com/account/login
+notes: Dean Wareham and Sea Power play the songs of Galaxie 500.
+venue_name: Muncaster Castle
+venue_slug: krankenhaus-festival-muncaster-castle-ravenglass-uk
+city: Ravenglass
+country: UK
+venue_url: https://krankenhausfestival.com/
+act_name: Dean Wareham and Sea Power
+act_slug: dean-wareham-and-sea-power
+setlist:
+- position: 1
+  raw_title: I'm So Bored With The USA
+  canonical_title: I'm so Bored With the U.S.A.
+  song_slug: im-so-bored-with-the-usa
+  full_title: I'm so Bored With the U.S.A.
+- position: 2
+  raw_title: The Cloud Is Coming
+  canonical_title: The Cloud Is Coming
+  song_slug: the-cloud-is-coming
+  full_title: The Cloud Is Coming
+- position: 3
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 4
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 5
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive
+- position: 6
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+- position: 7
+  raw_title: Don't Let Our Youth Go To Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 8
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

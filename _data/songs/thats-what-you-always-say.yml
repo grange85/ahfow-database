@@ -1,0 +1,393 @@
+title: That's What You Always Say
+slug: thats-what-you-always-say
+sort_title: THATS WHAT YOU ALWAYS SAY
+authors: Wynn
+original_artist: Dream Syndicate
+lyrics: 'I told you that we''ve been through this but
+
+  You know I told you that before
+
+  I try to find out where we missed but
+
+  I gets to be such a bore
+
+
+  Cause ever since that time I told you so
+
+  Well something gets my eye and it won''t let go
+
+  And then the stories and words are here and gone
+
+  Well that''s what you always say
+
+
+  I try to sit and talk with you but
+
+  You know how moods change all the time
+
+  I try to wait a week or two but
+
+  By then I''ll probably change my mind
+
+
+  Cause ever since that time I told you so
+
+  Well something gets my eye and it won''t let go
+
+  And then the stories and words are here and gone
+
+  Well that''s what you always say'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: That's What You Always Say
+    appears_on:
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36CD
+      position: 4
+    - release_title: Indian Summer
+      release_slug: indian-summer
+      release_type: Single
+      year: 1993
+      format: '12'
+      country: UK
+      edition_year: 1993
+      label: Rough Trade
+      catalogue_no: R2970
+      side: B
+      position: 4
+    - release_title: Indian Summer
+      release_slug: indian-summer
+      release_type: Single
+      year: 1993
+      format: CD
+      country: UK
+      edition_year: 1993
+      label: Rough Trade
+      catalogue_no: R2973
+      position: 4
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: 9 61472-2
+      position: 4
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: A
+      position: 4
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: B
+      position: 10
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 27
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 5
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: A
+      position: 4
+    played_live:
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 8
+    - show_slug: luna-1992-03-01-bbc-radio-one-london-uk
+      date: '1992-03-01'
+      year: 1992
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 3
+    - show_slug: luna-1992-09-24-clapham-grand-london-uk
+      date: '1992-09-24'
+      year: 1992
+      venue: Clapham Grand
+      city: London
+      country: UK
+      position: 6
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 15
+    - show_slug: luna-1993-06-13-palac-kultury-prague-czech-republic
+      date: '1993-06-13'
+      year: 1993
+      venue: Palac Kultury
+      city: Prague
+      country: Czech Republic
+      position: 7
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 13
+    - show_slug: luna-1994-05-05-shank-hall-milwaukee-wi-usa
+      date: '1994-05-05'
+      year: 1994
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 10
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: luna-1994-05-23-bierkeller-bristol-uk
+      date: '1994-05-23'
+      year: 1994
+      venue: Bierkeller
+      city: Bristol
+      country: UK
+      position: 8
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 14
+    - show_slug: luna-1994-07-12-casbah-san-diego-ca-usa
+      date: '1994-07-12'
+      year: 1994
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 13
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 13
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 14
+    - show_slug: luna-1996-01-19-930-club-washington-dc-usa
+      date: '1996-01-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 18
+    - show_slug: luna-1996-02-11-point-atlanta-ga-usa
+      date: '1996-02-11'
+      year: 1996
+      venue: Point
+      city: Atlanta
+      country: USA
+      position: 11
+    - show_slug: luna-1996-04-01-massey-hall-toronto-ontario-canada
+      date: '1996-04-01'
+      year: 1996
+      venue: Massey Hall
+      city: Toronto
+      country: Canada
+      position: 6
+    - show_slug: luna-1996-04-18-philadelphia-college-of-textile-philadelphia-pa-usa
+      date: '1996-04-18'
+      year: 1996
+      venue: Philadelphia College of Textile
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-1996-10-19-930-club-washington-dc-usa
+      date: '1996-10-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 17
+    - show_slug: luna-2019-10-01-the-paradise-boston-ma-usa
+      date: '2019-10-01'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 12
+    - show_slug: luna-2019-10-04-union-transfer-philadelphia-pa-usa
+      date: '2019-10-04'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 12
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 13
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-2019-10-15-lees-palace-toronto-ontario-canada
+      date: '2019-10-15'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 15
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-2020-02-05-teragram-ballroom-los-angeles-ca-usa
+      date: '2020-02-05'
+      year: 2020
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: luna-2020-02-07-the-independent-san-francisco-ca-usa
+      date: '2020-02-07'
+      year: 2020
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      series: Luna play Bewitched
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 11
+    - show_slug: luna-2021-08-04-the-press-room-portsmouth-nh-usa
+      date: '2021-08-04'
+      year: 2021
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 3
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 6
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+      annotation: with Steve Wynn

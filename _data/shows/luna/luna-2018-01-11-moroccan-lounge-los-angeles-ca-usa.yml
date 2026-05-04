@@ -1,0 +1,102 @@
+slug: luna-2018-01-11-moroccan-lounge-los-angeles-ca-usa
+date: '2018-01-11'
+year: 2018
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.ticketfly.com/purchase/event/1585658
+venue_name: Moroccan Lounge
+venue_slug: moroccan-lounge-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+venue_url: https://www.themoroccan.com/event/1585658-luna-los-angeles/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 2
+  raw_title: Let Me Dream If I Want To
+  canonical_title: Let Me Dream If I Want To
+  song_slug: let-me-dream-if-i-want-to
+  full_title: Let Me Dream If I Want To
+- position: 3
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: Sweetness
+  canonical_title: Sweetness
+  song_slug: sweetness
+  full_title: Sweetness
+- position: 5
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 6
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 7
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 8
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 9
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 10
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 11
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 12
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 13
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: GTX3
+  canonical_title: GTX3
+  song_slug: gtx3
+  full_title: GTX3
+- position: 16
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 17
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

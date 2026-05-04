@@ -1,0 +1,95 @@
+slug: dean-and-britta-2007-11-30-gleis-22-munster-germany
+date: '2007-11-30'
+year: 2007
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+venue_name: Gleis 22
+venue_slug: gleis-22-munster-germany
+city: Munster
+country: Germany
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Singer Sing
+  canonical_title: Singer Sing
+  song_slug: singer-sing
+  full_title: Singer Sing
+- position: 2
+  raw_title: Our Love Will Still Be There
+  canonical_title: Our Love Will Still Be There
+  song_slug: our-love-will-still-be-there
+  full_title: Our Love Will Still Be There
+- position: 3
+  raw_title: Hear The Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 4
+  raw_title: Words You Used To Say
+  canonical_title: Words You Used to Say
+  song_slug: words-you-used-to-say
+  full_title: Words You Used to Say
+- position: 5
+  raw_title: Since I Lay My Burden Down
+  canonical_title: Since I Lay My Burden Down
+  song_slug: since-i-lay-my-burden-down
+  full_title: Since I Lay My Burden Down
+- position: 6
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 7
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 8
+  raw_title: White Horses
+  canonical_title: White Horses
+  song_slug: white-horses
+  full_title: White Horses
+- position: 9
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 10
+  raw_title: Ginger Snaps
+  canonical_title: Ginger Snaps
+  song_slug: ginger-snaps
+  full_title: Ginger Snaps
+- position: 11
+  raw_title: You Turned My Head Around
+  canonical_title: You Turned My Head Around
+  song_slug: you-turned-my-head-around
+  full_title: You Turned My Head Around
+- position: 12
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 13
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 14
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 15
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 16
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched

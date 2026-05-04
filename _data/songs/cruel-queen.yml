@@ -1,0 +1,152 @@
+title: Cruel Queen
+slug: cruel-queen
+sort_title: CRUEL QUEEN
+authors: Krukowski/Yang
+lyrics: 'The Queen she divides her land into three
+
+  She is as cruel as she wants to be
+
+  Many an hour she sits there all alone
+
+  All alone - but always thinking
+
+  Which of my children loves me the best?
+
+  I''ll give them everything, leave none to the rest
+
+  I''ll give them all my land and my jewels too
+
+  But my love - none shall have it
+
+  Mother, dear mother, you''ve done me a great wrong
+
+  You married me when I was far too young
+
+  The man was rich, but he left me with a child
+
+  I need your gold to feed him
+
+  Daughter, dear daughter, I''ve done you no wrong
+
+  I married you to a great lord''s son
+
+  Find a new man for when I''m dead and gone
+
+  As for gold, I''ll give you nothing
+
+  Mother, dear mother, if you see fit
+
+  Grant me your kingdom and I''ll watch over it
+
+  I will rule your land as you would yourself
+
+  For I am most like you
+
+  Daughter, dear daughter, no I don''t see fit
+
+  To give you my land, you''ll have none of it
+
+  Your words offend me for how could you presume
+
+  That you could rule as I do?
+
+  Which of my children loves me the best?
+
+  I''ll give them everything, leave none to the rest
+
+  I''ll give them all my land and my jewels too
+
+  But my love - none shall have it
+
+  Mother, dear mother, I do not want your land
+
+  I don''t want your riches, nor jewels on my hand
+
+  My request is simple, it''s every child''s desire
+
+  I only want your blessing
+
+  Daughter, dear daughter, you''re nothing but a fool
+
+  This world is governed by one and only rule
+
+  I will die with all my land and all my jewels too
+
+  And my love - none shall have it'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Cruel Queen
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 10
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 10
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Video
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 12
+    played_live:
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+      date: '2007-11-22'
+      year: 2007
+      venue: Lemon Tree
+      city: Aberdeen
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+      date: '2008-06-14'
+      year: 2008
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 9
+    - show_slug: damon-and-naomi-2008-06-15-le-poisson-rouge-new-york-ny-usa
+      date: '2008-06-15'
+      year: 2008
+      venue: Le Poisson Rouge
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: damon-and-naomi-2008-10-12-rough-trade-east-london-uk
+      date: '2008-10-12'
+      year: 2008
+      venue: Rough Trade East
+      city: London
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 11

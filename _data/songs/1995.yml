@@ -1,0 +1,528 @@
+title: '1995'
+slug: '1995'
+sort_title: NINETEEN-NINETY-FIVE
+lyrics: 'Well it''s painful to observe
+
+  Looking at your curls
+
+  Sorry to be mean
+
+  But it''s sad to be a churl
+
+  Talking to your friends is like talking to a shoe
+
+  His hair is stupid blonde
+
+  And his eyes are stupid blue
+
+
+  Searching for a crime
+
+  Searching for a crime
+
+  Something slipped my mind
+
+  And I am searching for a crime
+
+
+  In 1995 I told 1,000 lies
+
+  Let me tell you about the agony of love
+
+
+  Follow me
+
+  To the top
+
+  All the way
+
+  Never stop
+
+  I know I lost my cool
+
+  It''s no where to be found
+
+  My Violent obsession
+
+  Stood the test of time
+
+
+  Searching for a crime
+
+  Searching for a crime
+
+  Something slipped my mind
+
+  And I am searching for a crime
+
+
+  In 1995 I told 1,000 lies
+
+  Let me tell you about the agony of love'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: '1995'
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 8
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 8
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset
+      catalogue_no: TWA51CD
+      position: 9
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-2001-08-25-bowery-ballroom-new-york-ny-usa
+      date: '2001-08-25'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2001-09-30-trastienda-buenos-aires-argentina
+      date: '2001-09-30'
+      year: 2001
+      venue: Trastienda
+      city: Buenos Aires
+      country: Argentina
+      position: 2
+    - show_slug: luna-2001-12-31-2300-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2002-02-23-maxwells-hoboken-nj-usa
+      date: '2002-02-23'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 9
+    - show_slug: luna-2002-04-27-wfmu-jersey-city-nj-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFMU
+      city: Jersey City
+      country: USA
+      position: 2
+    - show_slug: luna-2002-04-27-wfuv-new-york-ny-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFUV
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2002-05-11-trocadero-philadelphia-pa-usa
+      date: '2002-05-11'
+      year: 2002
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-2002-05-18-fletchers-baltimore-md-usa
+      date: '2002-05-18'
+      year: 2002
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 1
+    - show_slug: luna-2002-05-26-beachland-ballroom-cleveland-oh-usa
+      date: '2002-05-26'
+      year: 2002
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 6
+    - show_slug: luna-2002-05-29-southgate-house-newport-ky-usa
+      date: '2002-05-29'
+      year: 2002
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 14
+    - show_slug: luna-2002-05-30-majestic-theater-detroit-mi-usa
+      date: '2002-05-30'
+      year: 2002
+      venue: Majestic Theater
+      city: Detroit
+      country: USA
+      position: 1
+    - show_slug: luna-2002-06-01-first-avenue-minneapolis-mn-usa
+      date: '2002-06-01'
+      year: 2002
+      venue: First Avenue
+      city: Minneapolis
+      country: USA
+      position: 11
+    - show_slug: luna-2002-06-08-bimbos-san-francisco-ca-usa
+      date: '2002-06-08'
+      year: 2002
+      venue: Bimbos
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: luna-2002-06-14-la-zona-rosa-austin-tx-usa
+      date: '2002-06-14'
+      year: 2002
+      venue: La Zona Rosa
+      city: Austin
+      country: USA
+      position: 16
+    - show_slug: luna-2002-06-18-blueberry-hill-duck-room-st-louis-mo-usa
+      date: '2002-06-18'
+      year: 2002
+      venue: Blueberry Hill Duck Room
+      city: St Louis
+      country: USA
+      position: 2
+    - show_slug: luna-2002-06-19-40-watt-club-athens-ga-usa
+      date: '2002-06-19'
+      year: 2002
+      venue: 40 Watt Club
+      city: Athens
+      country: USA
+      position: 9
+    - show_slug: luna-2002-06-20-variety-playhouse-atlanta-ga-usa
+      date: '2002-06-20'
+      year: 2002
+      venue: Variety Playhouse
+      city: Atlanta
+      country: USA
+      position: 17
+    - show_slug: luna-2002-06-21-miller-plaza-chattanooga-tn-usa
+      date: '2002-06-21'
+      year: 2002
+      venue: Miller Plaza
+      city: Chattanooga
+      country: USA
+      position: 13
+    - show_slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+      date: '2002-07-20'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-2002-08-20-south-street-seaport-new-york-ny-usa
+      date: '2002-08-20'
+      year: 2002
+      venue: South Street Seaport
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2002-08-23-southpaw-brooklyn-ny-usa
+      date: '2002-08-23'
+      year: 2002
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 1
+    - show_slug: luna-2002-08-24-northsix-brooklyn-ny-usa
+      date: '2002-08-24'
+      year: 2002
+      venue: Northsix
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: luna-2002-09-02-bumbershoot-seattle-wa-usa
+      date: '2002-09-02'
+      year: 2002
+      venue: Bumbershoot
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: luna-2002-09-20-mojos-columbia-mo-usa
+      date: '2002-09-20'
+      year: 2002
+      venue: Mojos
+      city: Columbia
+      country: USA
+      position: 1
+    - show_slug: luna-2002-09-21-bottleneck-lawrence-ks-usa
+      date: '2002-09-21'
+      year: 2002
+      venue: Bottleneck
+      city: Lawrence
+      country: USA
+      position: 8
+    - show_slug: luna-2002-10-08-gebaude-9-cologne-germany
+      date: '2002-10-08'
+      year: 2002
+      venue: Gebaude 9
+      city: Cologne
+      country: Germany
+      position: 2
+    - show_slug: luna-2002-10-20-centre-civic-quart-girona-spain
+      date: '2002-10-20'
+      year: 2002
+      venue: Centre Civic Quart
+      city: Girona
+      country: Spain
+      position: 13
+    - show_slug: luna-2002-10-21-bikini-barcelona-spain
+      date: '2002-10-21'
+      year: 2002
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 1
+    - show_slug: luna-2002-10-26-lescalier-liege-belgium
+      date: '2002-10-26'
+      year: 2002
+      venue: LEscalier
+      city: Liege
+      country: Belgium
+      position: 1
+    - show_slug: luna-2002-10-29-dingwalls-london-uk
+      date: '2002-10-29'
+      year: 2002
+      venue: Dingwalls
+      city: London
+      country: UK
+      position: 1
+    - show_slug: luna-2002-11-08-black-cat-washington-dc-usa
+      date: '2002-11-08'
+      year: 2002
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 1
+    - show_slug: luna-2002-11-23-north-star-bar-philadelphia-pa-usa
+      date: '2002-11-23'
+      year: 2002
+      venue: North Star Bar
+      city: Philadelphia
+      country: USA
+      position: 8
+    - show_slug: luna-2002-11-29-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-29'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2002-11-30-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-30'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2002-12-13-fillmore-san-francisco-ca-usa
+      date: '2002-12-13'
+      year: 2002
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: luna-2002-12-31-maxwells-hoboken-nj-usa
+      date: '2002-12-31'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-2003-02-02-cats-cradle-carrboro-nc-usa
+      date: '2003-02-02'
+      year: 2003
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 1
+    - show_slug: luna-2003-02-05-shank-hall-milwaukee-wi-usa
+      date: '2003-02-05'
+      year: 2003
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 1
+    - show_slug: luna-2003-03-21-2300-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2003-04-10-brown-university-providence-ri-usa
+      date: '2003-04-10'
+      year: 2003
+      venue: Brown University
+      city: Providence
+      country: USA
+      position: 6
+    - show_slug: luna-2003-06-30-cine-salesianos-vigo-spain
+      date: '2003-06-30'
+      year: 2003
+      venue: Cine Salesianos
+      city: Vigo
+      country: Spain
+      position: 3
+    - show_slug: luna-2003-07-26-maxwells-hoboken-nj-usa
+      date: '2003-07-26'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 2
+    - show_slug: luna-2003-08-15-black-cat-washington-dc-usa
+      date: '2003-08-15'
+      year: 2003
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: luna-2003-08-22-southpaw-brooklyn-ny-usa
+      date: '2003-08-22'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2003-08-23-southpaw-brooklyn-ny-usa
+      date: '2003-08-23'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2003-09-06-trocadero-philadelphia-pa-usa
+      date: '2003-09-06'
+      year: 2003
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 8
+    - show_slug: luna-2003-11-29-knitting-factory-new-york-ny-usa
+      date: '2003-11-29'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 14
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 6
+    - show_slug: luna-2004-11-09-beachland-ballroom-cleveland-oh-usa
+      date: '2004-11-09'
+      year: 2004
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 11
+    - show_slug: luna-2004-11-10-blind-pig-ann-arbor-mi-usa
+      date: '2004-11-10'
+      year: 2004
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 13
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+      date: '2004-11-14'
+      year: 2004
+      venue: Fine Line Music Cafe
+      city: Minneapolis
+      country: USA
+      position: 2
+    - show_slug: luna-2004-11-19-exitin-nashville-tn-usa
+      date: '2004-11-19'
+      year: 2004
+      venue: Exit/In
+      city: Nashville
+      country: USA
+      position: 11
+    - show_slug: luna-2004-11-20-echo-lounge-atlanta-ga-usa
+      date: '2004-11-20'
+      year: 2004
+      venue: Echo Lounge
+      city: Atlanta
+      country: USA
+      position: 1
+    - show_slug: luna-2004-11-21-cats-cradle-carrboro-nc-usa
+      date: '2004-11-21'
+      year: 2004
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 10
+    - show_slug: luna-2004-11-27-irving-plaza-new-york-ny-usa
+      date: '2004-11-27'
+      year: 2004
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2004-12-17-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2004-12-17'
+      year: 2004
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: luna-2005-02-23-caberet-metro-chicago-il-usa
+      date: '2005-02-23'
+      year: 2005
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 9
+    - show_slug: luna-2005-02-27-2000-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-27'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8

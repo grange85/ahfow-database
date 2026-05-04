@@ -1,0 +1,603 @@
+title: Herringbone Tweed
+slug: herringbone-tweed
+sort_title: HERRINGBONE TWEED
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Herringbone Tweed
+    appears_on:
+    - release_title: '13 Most Beautiful: Songs for Andy Warhol''s Screen Tests'
+      release_slug: 13-most-beautiful-songs-for-andy-warhols-screen-tests
+      release_type: Album
+      year: 2010
+      format: CD
+      edition_year: 2011
+      label: Double Feature
+      catalogue_no: CD-DBL-006
+      position: 6
+    - release_title: '13 Most Beautiful: Songs for Andy Warhol''s Screen Tests'
+      release_slug: 13-most-beautiful-songs-for-andy-warhols-screen-tests
+      release_type: Album
+      year: 2010
+      format: CDx2
+      edition_year: 2010
+      label: Double Feature
+      catalogue_no: CD-DBL-005
+      side: A
+      position: 9
+    - release_title: '13 Most Beautiful: Songs for Andy Warhol''s Screen Tests'
+      release_slug: 13-most-beautiful-songs-for-andy-warhols-screen-tests
+      release_type: Album
+      year: 2010
+      format: LPx2
+      edition_year: 2017
+      label: Wouldn't Waste
+      catalogue_no: WWR-01
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-and-britta-2008-10-24-byham-theater-pittsburgh-pa-usa
+      date: '2008-10-24'
+      year: 2008
+      series: 13 Most Beautiful
+      venue: Byham Theater
+      city: Pittsburgh
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2008-10-25-byham-theater-pittsburgh-pa-usa
+      date: '2008-10-25'
+      year: 2008
+      series: 13 Most Beautiful
+      venue: Byham Theater
+      city: Pittsburgh
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2008-11-20-wexner-center-columbus-oh-usa
+      date: '2008-11-20'
+      year: 2008
+      series: 13 Most Beautiful
+      venue: Wexner Center
+      city: Columbus
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-02-03-palace-of-fine-art-san-francisco-ca-usa
+      date: '2009-02-03'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Palace of Fine Art
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-02-06-seattle-art-museum-seattle-wa-usa
+      date: '2009-02-06'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Seattle Art Museum
+      city: Seattle
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-02-28-2030-walker-arts-center-minneapolis-mn-usa
+      date: '2009-02-28'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Walker Arts Center
+      city: Minneapolis
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-02-28-2230-walker-arts-center-minneapolis-mn-usa
+      date: '2009-02-28'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Walker Arts Center
+      city: Minneapolis
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-03-21-1900-ica-boston-ma-usa
+      date: '2009-03-21'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: ICA
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-03-21-2130-ica-boston-ma-usa
+      date: '2009-03-21'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: ICA
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-03-28-mass-moca-north-adams-ma-usa
+      date: '2009-03-28'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Mass MoCA
+      city: North Adams
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-06-20-ford-amphitheater-los-angeles-ca-usa
+      date: '2009-06-20'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Ford Amphitheater
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-07-02-ann-arbor-summer-festival-ann-arbor-mi-usa
+      date: '2009-07-02'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Ann Arbor Summer Festival
+      city: Ann Arbor
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-07-06-festival-de-marseille-marseille-france
+      date: '2009-07-06'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Festival de Marseille
+      city: Marseille
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-07-08-carnegie-hall-dunfermline-uk
+      date: '2009-07-08'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Carnegie Hall
+      city: Dunfermline
+      country: UK
+      position: 7
+    - show_slug: dean-and-britta-2009-07-09-festival-des-sept-collines-st-etienne-france
+      date: '2009-07-09'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Festival des Sept Collines
+      city: St Etienne
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-07-11-auditorio-municipal-vila-do-conde-portugal
+      date: '2009-07-11'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Auditorio Municipal
+      city: Vila do Conde
+      country: Portugal
+      position: 7
+    - show_slug: dean-and-britta-2009-07-15-eglise-st-eustache-paris-france
+      date: '2009-07-15'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Eglise St Eustache
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-07-16-eglise-st-eustache-paris-france
+      date: '2009-07-16'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Eglise St Eustache
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-07-17-eglise-st-eustache-paris-france
+      date: '2009-07-17'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Eglise St Eustache
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-08-01-prospect-park-bandshell-brooklyn-ny-usa
+      date: '2009-08-01'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Prospect Park Bandshell
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-09-12-la-batie-geneva-switzerland
+      date: '2009-09-12'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: La Batie
+      city: Geneva
+      country: Switzerland
+      position: 7
+    - show_slug: dean-and-britta-2009-09-14-teatro-versace-milan-italy
+      date: '2009-09-14'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Teatro Versace
+      city: Milan
+      country: Italy
+      position: 7
+    - show_slug: dean-and-britta-2009-09-15-transart-bolzano-italy
+      date: '2009-09-15'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Transart
+      city: Bolzano
+      country: Italy
+      position: 7
+    - show_slug: dean-and-britta-2009-09-18-1900-warehouse-festival-bar-philadelphia-pa-usa
+      date: '2009-09-18'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Warehouse Festival Bar
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-09-18-2100-warehouse-festival-bar-philadelphia-pa-usa
+      date: '2009-09-18'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Warehouse Festival Bar
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-09-25-cornell-cinema-ithaca-ny-usa
+      date: '2009-09-25'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Cornell Cinema
+      city: Ithaca
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-10-09-the-loft-ucsd-la-jolla-san-diego-ca-usa
+      date: '2009-10-09'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: The Loft, UCSD, La Jolla
+      city: San Diego
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-10-10-campbell-hall-ucsb-santa-barbara-ca-usa
+      date: '2009-10-10'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Campbell Hall, UCSB
+      city: Santa Barbara
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-10-15-merlyn-theatre-melbourne-victoria-australia
+      date: '2009-10-15'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Merlyn Theatre
+      city: Melbourne
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2009-10-16-merlyn-theatre-melbourne-victoria-australia
+      date: '2009-10-16'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Merlyn Theatre
+      city: Melbourne
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2009-10-17-merlyn-theatre-melbourne-victoria-australia
+      date: '2009-10-17'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Merlyn Theatre
+      city: Melbourne
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2009-11-20-la-comete-chalons-en-champagne-france
+      date: '2009-11-20'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: La Comete
+      city: Chalons-en-Champagne
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2009-11-24-teatro-de-la-laboral-gijon-spain
+      date: '2009-11-24'
+      year: 2009
+      series: 13 Most Beautiful
+      venue: Teatro de la Laboral
+      city: Gijon
+      country: Spain
+      position: 7
+    - show_slug: dean-and-britta-2010-02-18-reynolds-theatre-durham-nc-usa
+      date: '2010-02-18'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Reynolds Theatre
+      city: Durham
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2010-03-07-womadelaide-botanic-park-adelaide-south-australia-australia
+      date: '2010-03-07'
+      year: 2010
+      series: 13 Most Beautiful
+      event: WOMADelaide
+      venue: Botanic Park
+      city: Adelaide
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2010-03-08-womadelaide-botanic-park-adelaide-south-australia-australia
+      date: '2010-03-08'
+      year: 2010
+      series: 13 Most Beautiful
+      event: WOMADelaide
+      venue: Botanic Park
+      city: Adelaide
+      country: Australia
+      position: 7
+    - show_slug: dean-and-britta-2010-05-15-abrons-arts-center-new-york-ny-usa
+      date: '2010-05-15'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Abrons Arts Center
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2010-05-22-forum-de-la-passerelle-bretagne-france
+      date: '2010-05-22'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Forum de la Passerelle
+      city: Bretagne
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2010-05-24-sala-bbk-bilbao-spain
+      date: '2010-05-24'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Sala BBK
+      city: Bilbao
+      country: Spain
+      position: 7
+    - show_slug: dean-and-britta-2010-05-25-sala-bbk-bilbao-spain
+      date: '2010-05-25'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Sala BBK
+      city: Bilbao
+      country: Spain
+      position: 7
+    - show_slug: dean-and-britta-2010-07-30-the-barbican-london-uk
+      date: '2010-07-30'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: The Barbican
+      city: London
+      country: UK
+      position: 7
+    - show_slug: dean-and-britta-2010-09-18-sacred-heart-cultural-center-augusta-ga-usa
+      date: '2010-09-18'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Sacred Heart Cultural Center
+      city: Augusta
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2010-10-22-skirball-center-nyu-new-york-ny-usa
+      date: '2010-10-22'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Skirball Center, NYU
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2010-12-02-indianapolis-museum-of-art-indianapolis-in-usa
+      date: '2010-12-02'
+      year: 2010
+      series: 13 Most Beautiful
+      venue: Indianapolis Museum of Art
+      city: Indianapolis
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-03-23-cleveland-museum-of-art-spencer-oh-usa
+      date: '2011-03-23'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Cleveland Museum of Art
+      city: Spencer
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-04-08-moore-theater-dartmouth-college-hanover-nh-usa
+      date: '2011-04-08'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Moore Theater, Dartmouth College
+      city: Hanover
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-04-14-sesc-pompeia-sao-paulo-brazil
+      date: '2011-04-14'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: SESC Pompéia
+      city: Sao Paulo
+      country: Brazil
+      position: 7
+    - show_slug: dean-and-britta-2011-04-19-cite-de-la-musique-paris-france
+      date: '2011-04-19'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Cite de La Musique
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2011-04-21-le-lieu-unique-nantes-france
+      date: '2011-04-21'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Le Lieu Unique
+      city: Nantes
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2011-04-22-le-lieu-unique-nantes-france
+      date: '2011-04-22'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Le Lieu Unique
+      city: Nantes
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2011-11-12-national-gallery-of-art-washington-dc-usa
+      date: '2011-11-12'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: National Gallery of Art
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-11-29-keith-albee-theater-huntington-wv-usa
+      date: '2011-11-29'
+      year: 2011
+      series: 13 Most Beautiful
+      venue: Keith Albee Theater
+      city: Huntington
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2012-03-31-high-museum-of-art-atlanta-ga-usa
+      date: '2012-03-31'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: High Museum of Art
+      city: Atlanta
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2012-09-19-theatre-junction-calgary-alberta-canada
+      date: '2012-09-19'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: Theatre Junction
+      city: Calgary
+      country: Canada
+      position: 7
+    - show_slug: dean-and-britta-2012-09-20-theatre-junction-calgary-alberta-canada
+      date: '2012-09-20'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: Theatre Junction
+      city: Calgary
+      country: Canada
+      position: 7
+    - show_slug: dean-and-britta-2012-09-21-theatre-junction-calgary-alberta-canada
+      date: '2012-09-21'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: Theatre Junction
+      city: Calgary
+      country: Canada
+      position: 7
+    - show_slug: dean-and-britta-2012-09-22-theatre-junction-calgary-alberta-canada
+      date: '2012-09-22'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: Theatre Junction
+      city: Calgary
+      country: Canada
+      position: 7
+    - show_slug: dean-and-britta-2012-11-09-the-emery-cincinnati-ohio-usa
+      date: '2012-11-09'
+      year: 2012
+      series: 13 Most Beautiful
+      venue: The Emery
+      city: Cincinnati
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2013-02-16-mac-belfast-uk
+      date: '2013-02-16'
+      year: 2013
+      series: 13 Most Beautiful
+      venue: MAC
+      city: Belfast
+      country: UK
+      position: 7
+    - show_slug: dean-and-britta-2013-10-26-life-is-beautiful-festival-las-vegas-nv-usa
+      date: '2013-10-26'
+      year: 2013
+      series: 13 Most Beautiful
+      venue: Life is Beautiful Festival
+      city: Las Vegas
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2014-03-28-big-ears-festival-knoxville-tn-usa
+      date: '2014-03-28'
+      year: 2014
+      series: 13 Most Beautiful
+      venue: Big Ears Festival
+      city: Knoxville
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2015-01-17-oz-nashville-tn-usa
+      date: '2015-01-17'
+      year: 2015
+      series: 13 Most Beautiful
+      venue: OZ
+      city: Nashville
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2015-07-07-centre-pompidou-metz-metz-france
+      date: '2015-07-07'
+      year: 2015
+      series: 13 Most Beautiful
+      venue: Centre Pompidou-Metz
+      city: Metz
+      country: France
+      position: 7
+    - show_slug: dean-and-britta-2015-08-14-crystal-bridges-museum-of-american-art-bentonville-ar-usa
+      date: '2015-08-14'
+      year: 2015
+      series: 13 Most Beautiful
+      venue: Crystal Bridges Museum of American Art
+      city: Bentonville
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2016-07-13-shanghai-symphony-concert-hall-shanghai-china
+      date: '2016-07-13'
+      year: 2016
+      series: 13 Most Beautiful
+      venue: Shanghai Symphony Concert Hall
+      city: Shanghai
+      country: China
+      position: 7
+    - show_slug: dean-and-britta-2016-12-15-the-gershman-y-philadeplhia-pa-usa
+      date: '2016-12-15'
+      year: 2016
+      series: 13 Most Beautiful
+      venue: The Gershman Y
+      city: Philadeplhia
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2021-09-18-sound-series-block-party-isabella-street-block-pittsburgh-pa-usa
+      date: '2021-09-18'
+      year: 2021
+      series: 13 Most Beautiful
+      event: Sound Series Block Party
+      venue: Isabella Street Block
+      city: Pittsburgh
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2022-06-04-guild-theatre-menlo-park-ca-usa
+      date: '2022-06-04'
+      year: 2022
+      series: 13 Most Beautiful
+      venue: Guild Theatre
+      city: Menlo Park
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2023-02-16-maraya-al-ula-saudi-arabia
+      date: '2023-02-16'
+      year: 2023
+      series: 13 Most Beautiful
+      venue: Maraya
+      city: Al-Ula
+      country: Saudi Arabia
+      position: 7
+    - show_slug: dean-and-britta-2023-09-23-the-bram-goldsmith-theater-los-angeles-ca-usa
+      date: '2023-09-23'
+      year: 2023
+      series: 13 Most Beautiful
+      venue: The Bram Goldsmith Theater
+      city: Los Angeles
+      country: USA
+      position: 7

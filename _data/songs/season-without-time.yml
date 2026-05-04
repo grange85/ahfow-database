@@ -1,0 +1,105 @@
+title: Season Without Time
+slug: season-without-time
+sort_title: SEASON WITHOUT TIME
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Season Without Time
+    appears_on:
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: Booklet/download
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: A
+      position: 6
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2022
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: B
+      position: 6
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: CD
+      country: JP
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      position: 6
+    played_live:
+    - show_slug: damon-and-naomi-2021-08-12-babys-all-right-brooklyn-ny-usa
+      date: '2021-08-12'
+      year: 2021
+      venue: Baby's All Right
+      city: Brooklyn
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2023-05-09-tubbys-kingston-ny-usa
+      date: '2023-05-09'
+      year: 2023
+      venue: Tubby's
+      city: Kingston
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2023-05-10-union-pool-new-york-ny-usa
+      date: '2023-05-10'
+      year: 2023
+      venue: Union Pool
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: damon-and-naomi-2023-05-12-best-video-film--cultural-center-hamden-ct-usa
+      date: '2023-05-12'
+      year: 2023
+      venue: Best Video Film & Cultural Center
+      city: Hamden
+      country: USA
+      position: 8
+    - show_slug: damon-and-naomi-2023-09-03-cafe-oto-london-uk
+      date: '2023-09-03'
+      year: 2023
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 9
+    - show_slug: damon-and-naomi-2023-09-04-gullivers-manchester-uk
+      date: '2023-09-04'
+      year: 2023
+      venue: Gullivers
+      city: Manchester
+      country: UK
+      position: 8
+    - show_slug: damon-and-naomi-2023-10-16-bar-orwell-toronto-ontario-canada
+      date: '2023-10-16'
+      year: 2023
+      venue: Bar Orwell
+      city: Toronto
+      country: Canada
+      position: 9
+    - show_slug: damon-and-naomi-2023-10-19-epsilon-spires-brattleboro-vt-usa
+      date: '2023-10-19'
+      year: 2023
+      venue: Epsilon Spires
+      city: Brattleboro
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2026-01-04-cafe-oto-london-uk
+      date: '2026-01-04'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 9

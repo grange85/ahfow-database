@@ -1,0 +1,35 @@
+title: Back in Your Life
+slug: back-in-your-life
+sort_title: BACK IN YOUR LIFE
+authors: Jonathan Richman
+original_artist: Jonathan Richman
+originals_url: https://www.fullofwishes.co.uk/2013/02/20/originals-back-in-your-life-by-jonathan-richman-covered-by-galaxie-500/
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Back in Your Life
+    appears_on: []
+    played_live:
+    - show_slug: galaxie-500-1988-03-19-the-middle-east-cambridge-ma-usa
+      date: '1988-03-19'
+      year: 1988
+      venue: The Middle East
+      city: Cambridge
+      country: USA
+      position: 3
+  - version_tag: Middle East, Cambridge, MA - 1988-03-19
+    full_title: Back in Your Life [Middle East, Cambridge, MA - 1988-03-19]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 10
+    played_live: []

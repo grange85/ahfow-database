@@ -1,0 +1,34 @@
+title: Ocean
+slug: ocean
+sort_title: OCEAN
+authors: Lou Reed
+original_artist: The Velvet Undergroud
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Ocean
+    appears_on: []
+    played_live:
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 1
+    - show_slug: luna-2023-10-30-dabadaba-san-sebastian-spain
+      date: '2023-10-30'
+      year: 2023
+      venue: Dabadaba
+      city: San Sebastian
+      country: Spain
+      position: 7
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 14

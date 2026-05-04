@@ -1,0 +1,91 @@
+title: Stars Never Fade
+slug: stars-never-fade
+sort_title: STARS NEVER FADE
+authors: Krukowski/Yang
+lyrics: 'The world through your eyes looks so elegant
+
+  That perfect slanting light, the satin gowns
+
+  Could it really be - such a place of harmony?
+
+  And the stars glitter off your walls
+
+  And your stars never fade at all
+
+  The moment is caught, saved forever
+
+  That gaze in the glass, the shadowed room
+
+  Could it really be - or is it trick photography?
+
+  And the stars glitter off your walls
+
+  And your stars never fade at all
+
+  Your daughters are there, full of tenderness
+
+  That introspective look you know so well
+
+  Could it really be - such a happy family?
+
+  And the stars glitter off your walls
+
+  And your stars never fade at all'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Stars Never Fade
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 7
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 7
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Video
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 10
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 4
+    played_live:
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+      date: '2007-11-22'
+      year: 2007
+      venue: Lemon Tree
+      city: Aberdeen
+      country: UK
+      position: 7

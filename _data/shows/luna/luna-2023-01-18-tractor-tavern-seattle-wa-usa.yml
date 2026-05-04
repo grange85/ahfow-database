@@ -1,0 +1,99 @@
+slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+date: '2023-01-18'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+series: Luna play Lunafied
+ticket_url: https://www.ticketweb.com/event/luna-play-lunafied-w-guests-tractor-tickets/12519505
+notes: Luna will play a complete set of covers
+setlist_source: setlist.fm
+venue_name: Tractor Tavern
+venue_slug: tractor-tavern-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Thank You for Sending Me an Angel
+  canonical_title: Thank You for Sending Me an Angel
+  song_slug: thank-you-for-sending-me-an-angel
+  full_title: Thank You for Sending Me an Angel
+- position: 2
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 3
+  raw_title: Needles in the Camel's Eye
+  canonical_title: Needles in the Camel's Eye
+  song_slug: needles-in-the-camels-eye
+  full_title: Needles in the Camel's Eye
+- position: 4
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 5
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 6
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of the Witch
+- position: 7
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 8
+  raw_title: Outdoor Miner
+  canonical_title: Outdoor Miner
+  song_slug: outdoor-miner
+  full_title: Outdoor Miner
+- position: 9
+  raw_title: Neon Lights
+  canonical_title: Neon Lights
+  song_slug: neon-lights
+  full_title: Neon Lights
+- position: 10
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 11
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine
+- position: 12
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 13
+  raw_title: Walk on the Wild Side
+  canonical_title: Walk on the Wild Side
+  song_slug: walk-on-the-wild-side
+  full_title: Walk on the Wild Side
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 16
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange

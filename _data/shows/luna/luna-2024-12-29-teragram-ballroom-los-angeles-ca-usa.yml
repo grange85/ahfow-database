@@ -1,0 +1,102 @@
+slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+date: '2024-12-29'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.ticketmaster.com/luna-los-angeles-california-12-29-2024/event/090061370040566B
+venue_name: Teragram Ballroom
+venue_slug: teragram-ballroom-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+venue_url: http://www.teragramballroom.com/event/1412690-teenage-fanclub-los-angeles
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 2
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 3
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 4
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 5
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 6
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 7
+  raw_title: IHOP
+  canonical_title: IHOP
+  song_slug: ihop
+  full_title: IHOP
+- position: 8
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 9
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 10
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 11
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 12
+  raw_title: I'm So Bored With the U. S. A.
+  canonical_title: I'm so Bored With the U.S.A.
+  song_slug: im-so-bored-with-the-usa
+  full_title: I'm so Bored With the U.S.A.
+- position: 13
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: I'm Waiting for the Man
+  canonical_title: I'm Waiting for the Man
+  song_slug: im-waiting-for-the-man
+  full_title: I'm Waiting for the Man
+- position: 16
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 17
+  raw_title: What Goes On
+  canonical_title: What Goes On
+  song_slug: what-goes-on
+  full_title: What Goes On

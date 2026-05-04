@@ -1,0 +1,78 @@
+title: Indian Summer
+slug: indian-summer
+release_type: Single
+year: 1993
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: AUS
+  year: 1993
+  label: Summershine
+  catalogue_no: SHINE36
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+- format: '12'
+  country: UK
+  year: 1993
+  label: Rough Trade
+  catalogue_no: R2970
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 2
+    side: A
+    side_position: 2
+    title: Egg Nog
+    slug: egg-nog
+    full_title: Egg Nog
+  - position: 3
+    side: B
+    side_position: 1
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side: B
+    side_position: 2
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+- format: CD
+  country: UK
+  year: 1993
+  label: Rough Trade
+  catalogue_no: R2973
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-indian-summer.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 2
+    side_position: 2
+    title: Egg Nog
+    slug: egg-nog
+    full_title: Egg Nog
+  - position: 3
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say

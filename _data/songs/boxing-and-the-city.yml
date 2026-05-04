@@ -1,0 +1,22 @@
+title: Boxing and the City
+slug: boxing-and-the-city
+sort_title: BOXING AND THE CITY
+authors: Naomi Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Boxing and the City
+    appears_on:
+    - release_title: Never Be a Punching Bag for Nobody
+      release_slug: never-be-a-punching-bag-for-nobody
+      release_type: Album
+      year: 2023
+      format: Digital
+      edition_year: 2023
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: A
+      position: 3
+    played_live: []

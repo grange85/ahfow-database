@@ -1,0 +1,523 @@
+title: Season of the Witch
+slug: season-of-the-witch
+sort_title: SEASON OF THE WITCH
+authors: Donovan Leitch
+original_artist: Donovan
+originals_url: https://www.fullofwishes.co.uk/2014/04/16/originals-season-of-the-witch-by-donovan-covered-by-luna/
+lyrics: 'when i look out my window
+
+  many sights to see
+
+  and when i look in my window
+
+  so many different people to be
+
+  then it''s strange, so strange
+
+  you got to pick up every stitch
+
+  you got to pick up every stitch
+
+  you got to pick up every stitch
+
+  oooh...must be the season of the witch
+
+  must be the season of the witch, yeah
+
+  must be the season of the witch
+
+
+  when i look over my shoulder
+
+  what do you think i see
+
+  some old guy looking over
+
+  his shoulder at me
+
+  and he''s strange
+
+  so strange
+
+  you got to pick up every stitch
+
+  you got to pick up every stitch
+
+  beatniks are out to make it rich
+
+  oh no, must be the season of the witch
+
+  must be the season of the witch, yeah
+
+  must be the season of the witch
+
+
+  you got to pick up every stitch
+
+  the rabbit''s running in the ditch
+
+  beatniks are out to make it rich
+
+  oh no, must be the season of the witch
+
+  must be the season of the witch, yeah
+
+  must be the season of the witch
+
+
+  when i look out my window
+
+  what do you think i see
+
+  and when i look in my window
+
+  so many different people to be
+
+  it''s strange
+
+  sure is strange
+
+  you got to pick up every stitch
+
+  you got to pick up every stitch
+
+  the rabbits run in the ditch
+
+  oh no, must be the season of the witch
+
+  must be the season of the witch, yeah
+
+  must be the season of the witch'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Season of the Witch
+    appears_on:
+    - release_title: I Shot Andy Warhol
+      release_slug: i-shot-andy-warhol
+      release_type: Compilation
+      year: 1996
+      format: CD
+      edition_year: 1996
+      label: TAG/Atlantic
+      catalogue_no: 92690-2
+      position: 1
+    - release_title: Season of the Witch
+      release_slug: season-of-the-witch
+      release_type: Single
+      year: 1996
+      format: '10'
+      country: UK
+      edition_year: 1996
+      label: Beggars Banquet
+      catalogue_no: BBQ302TT
+      side: A
+      position: 1
+    - release_title: Season of the Witch
+      release_slug: season-of-the-witch
+      release_type: Single
+      year: 1996
+      format: CD
+      country: UK
+      edition_year: 1996
+      label: Beggars Banquet
+      catalogue_no: BBQ302CD
+      position: 1
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 23
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 8
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: B
+      position: 7
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: D
+      position: 14
+    played_live:
+    - show_slug: luna-1996-01-20-cats-cradle-carrboro-nc-usa
+      date: '1996-01-20'
+      year: 1996
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 16
+    - show_slug: luna-1996-04-18-philadelphia-college-of-textile-philadelphia-pa-usa
+      date: '1996-04-18'
+      year: 1996
+      venue: Philadelphia College of Textile
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-1996-05-16-kcrw-santa-monica-ca-usa
+      date: '1996-05-16'
+      year: 1996
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 4
+    - show_slug: luna-1996-05-25-930-club-washington-dc-usa
+      date: '1996-05-25'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 1
+    - show_slug: luna-1996-06-07-irving-plaza-new-york-ny-usa
+      date: '1996-06-07'
+      year: 1996
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-1996-12-31-mercury-lounge-new-york-ny-usa
+      date: '1996-12-31'
+      year: 1996
+      venue: Mercury Lounge
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-1997-09-08-bohagers-baltimore-md-usa
+      date: '1997-09-08'
+      year: 1997
+      venue: Bohagers
+      city: Baltimore
+      country: USA
+      position: 14
+    - show_slug: luna-1997-09-20-metro-chicago-il-usa
+      date: '1997-09-20'
+      year: 1997
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: luna-1997-09-26-crocodile-cafe-seattle-wa-usa
+      date: '1997-09-26'
+      year: 1997
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 17
+    - show_slug: luna-1997-12-12-irving-plaza-new-york-ny-usa
+      date: '1997-12-12'
+      year: 1997
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-1998-01-15-trax-charlottesville-va-usa
+      date: '1998-01-15'
+      year: 1998
+      venue: Trax
+      city: Charlottesville
+      country: USA
+      position: 1
+    - show_slug: luna-1999-07-23-prospect-park-bandstand-new-york-ny-usa
+      date: '1999-07-23'
+      year: 1999
+      venue: Prospect Park Bandstand
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-1999-10-31-idiots-delight-wnew-new-york-ny-usa
+      date: '1999-10-31'
+      year: 1999
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-1999-11-06-metro-chicago-il-usa
+      date: '1999-11-06'
+      year: 1999
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 14
+    - show_slug: luna-1999-12-11-trocadero-philadelphia-pa-usa
+      date: '1999-12-11'
+      year: 1999
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-1999-12-13-higher-ground-burlington-vt-usa
+      date: '1999-12-13'
+      year: 1999
+      venue: Higher Ground
+      city: Burlington
+      country: USA
+      position: 18
+    - show_slug: luna-2001-09-29-teatro-del-circulo-montevideo-uruguay
+      date: '2001-09-29'
+      year: 2001
+      venue: Teatro del Circulo
+      city: Montevideo
+      country: Uruguay
+      position: 16
+    - show_slug: luna-2001-12-31-2000-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 14
+    - show_slug: luna-2002-06-08-bimbos-san-francisco-ca-usa
+      date: '2002-06-08'
+      year: 2002
+      venue: Bimbos
+      city: San Francisco
+      country: USA
+      position: 17
+    - show_slug: luna-2002-06-18-blueberry-hill-duck-room-st-louis-mo-usa
+      date: '2002-06-18'
+      year: 2002
+      venue: Blueberry Hill Duck Room
+      city: St Louis
+      country: USA
+      position: 17
+    - show_slug: luna-2002-06-21-miller-plaza-chattanooga-tn-usa
+      date: '2002-06-21'
+      year: 2002
+      venue: Miller Plaza
+      city: Chattanooga
+      country: USA
+      position: 1
+    - show_slug: luna-2002-11-23-north-star-bar-philadelphia-pa-usa
+      date: '2002-11-23'
+      year: 2002
+      venue: North Star Bar
+      city: Philadelphia
+      country: USA
+      position: 15
+    - show_slug: luna-2003-02-08-blind-pig-ann-arbor-mi-usa
+      date: '2003-02-08'
+      year: 2003
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 15
+    - show_slug: luna-2003-03-21-2300-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2003-08-15-black-cat-washington-dc-usa
+      date: '2003-08-15'
+      year: 2003
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 16
+    - show_slug: luna-2004-10-30-maxwells-hoboken-nj-usa
+      date: '2004-10-30'
+      year: 2004
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-2004-11-12-abbey-pub-chicago-il-usa
+      date: '2004-11-12'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 16
+    - show_slug: luna-2004-11-18-southgate-house-newport-ky-usa
+      date: '2004-11-18'
+      year: 2004
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 18
+    - show_slug: luna-2005-02-10-aladdin-theatre-portland-or-usa
+      date: '2005-02-10'
+      year: 2005
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 15
+    - show_slug: luna-2015-10-05-trocadero-philadelphia-pa-usa
+      date: '2015-10-05'
+      year: 2015
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 18
+    - show_slug: luna-2015-10-06-930-club-washington-dc-usa
+      date: '2015-10-06'
+      year: 2015
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 18
+    - show_slug: luna-2015-10-08-bowery-ballroom-new-york-ny-usa
+      date: '2015-10-08'
+      year: 2015
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2015-10-09-music-hall-of-williamsburg-brooklyn-ny-usa
+      date: '2015-10-09'
+      year: 2015
+      venue: Music Hall of Williamsburg
+      city: Brooklyn
+      country: USA
+      position: 17
+    - show_slug: luna-2015-10-16-house-of-blues-chicago-il-usa
+      date: '2015-10-16'
+      year: 2015
+      venue: House of Blues
+      city: Chicago
+      country: USA
+      position: 18
+    - show_slug: luna-2015-10-17-the-cedar-minneapolis-mn-usa
+      date: '2015-10-17'
+      year: 2015
+      venue: The Cedar
+      city: Minneapolis
+      country: USA
+      position: 19
+    - show_slug: luna-2015-10-23-the-fillmore-san-francisco-ca-usa
+      date: '2015-10-23'
+      year: 2015
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 19
+    - show_slug: luna-2015-11-06-aladdin-theater-portland-or-usa
+      date: '2015-11-06'
+      year: 2015
+      venue: Aladdin Theater
+      city: Portland
+      country: USA
+      position: 18
+    - show_slug: luna-2015-12-31-starline-social-club-oakland-ca-usa
+      date: '2015-12-31'
+      year: 2015
+      venue: Starline Social Club
+      city: Oakland
+      country: USA
+      position: 16
+    - show_slug: luna-2016-10-02-rough-trade-nyc-brooklyn-ny-usa
+      date: '2016-10-02'
+      year: 2016
+      venue: Rough Trade NYC
+      city: Brooklyn
+      country: USA
+      position: 15
+    - show_slug: luna-2017-01-20-the-chapel-san-francisco-ca-usa
+      date: '2017-01-20'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: luna-2019-10-03-space-ballroom-hamden-ct-usa
+      date: '2019-10-03'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 15
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 12
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 19
+    - show_slug: luna-2019-10-20-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-20'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 22
+    - show_slug: luna-2021-05-15-gold-diggers-los-angeles-ca-usa
+      date: '2021-05-15'
+      year: 2021
+      venue: Gold Diggers
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: luna-2021-07-30-truro-vineyards-truro-ma-usa
+      date: '2021-07-30'
+      year: 2021
+      venue: Truro Vineyards
+      city: Truro
+      country: USA
+      position: 8
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 6
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 4
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 18
+      annotation: with Steve Wynn

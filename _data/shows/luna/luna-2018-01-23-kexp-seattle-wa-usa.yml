@@ -1,0 +1,41 @@
+slug: luna-2018-01-23-kexp-seattle-wa-usa
+date: '2018-01-23'
+year: 2018
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: KEXP
+venue_slug: kexp-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: GTX3
+  canonical_title: GTX3
+  song_slug: gtx3
+  full_title: GTX3
+- position: 2
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire in Cairo
+- position: 3
+  raw_title: ^interview
+  annotation: interview
+- position: 4
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 5
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore

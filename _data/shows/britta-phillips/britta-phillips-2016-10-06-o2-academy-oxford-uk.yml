@@ -1,0 +1,40 @@
+slug: britta-phillips-2016-10-06-o2-academy-oxford-uk
+date: '2016-10-06'
+year: 2016
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2016-10-06/2016-10-06-luna-o2-academy-oxford-poster.jpg
+ticket_url: http://www.ticketweb.co.uk/event/DEH0610Y?brand=o2academyoxford&camefrom=AMG_OXFORD_luna
+notes: Unscheduled show supporting Luna
+venue_name: O2 Academy
+venue_slug: o2-academy-oxford-uk
+city: Oxford
+country: UK
+venue_url: https://www.academymusicgroup.com/o2academyoxford/events/856618/luna-tickets
+act_name: Britta Phillips
+act_slug: britta-phillips
+setlist:
+- position: 1
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 2
+  raw_title: Daydream
+  canonical_title: Daydream
+  song_slug: daydream
+  full_title: Daydream
+- position: 3
+  raw_title: Ingrid Superstar
+  canonical_title: Ingrid Superstar
+  song_slug: ingrid-superstar
+  full_title: Ingrid Superstar
+- position: 4
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive

@@ -1,0 +1,113 @@
+title: We're Not Finished Yet
+slug: were-not-finished-yet
+sort_title: WERE NOT FINISHED YET
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: We're Not Finished Yet
+    appears_on:
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Carpark Records
+      position: 5
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Carpark Records
+      side: A
+      position: 5
+    played_live:
+    - show_slug: dean-wareham-2025-04-03-rough-trade-liverpool-uk
+      date: '2025-04-03'
+      year: 2025
+      venue: Rough Trade
+      city: Liverpool
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk
+      date: '2025-04-04'
+      year: 2025
+      venue: The Assembly
+      city: Royal Leamington Spa
+      country: UK
+      position: 3
+    - show_slug: dean-wareham-2025-04-05-brudenell-social-club-leeds-uk
+      date: '2025-04-05'
+      year: 2025
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2025-04-08-le-petit-bain-paris-france
+      date: '2025-04-08'
+      year: 2025
+      venue: Le Petit Bain
+      city: Paris
+      country: France
+      position: 5
+    - show_slug: dean-wareham-2025-04-10-dbs-utrecht-the-netherlands
+      date: '2025-04-10'
+      year: 2025
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 5
+    - show_slug: dean-wareham-2025-04-12-aa-theater-groningen-the-netherlands
+      date: '2025-04-12'
+      year: 2025
+      venue: Aa Theater
+      city: Groningen
+      country: The Netherlands
+      position: 5
+    - show_slug: dean-wareham-2025-04-13-nachtasyl-hamburg-germany
+      date: '2025-04-13'
+      year: 2025
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 4
+    - show_slug: dean-wareham-2025-06-02-the-press-room-portsmouth-nh-usa
+      date: '2025-06-02'
+      year: 2025
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-05-the-sinclair-cambridge-ma-usa
+      date: '2025-06-05'
+      year: 2025
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-12-pittsburgh-pa-usa
+      date: '2025-06-12'
+      year: 2025
+      event: Sound Series
+      venue: The Warhol Theatre
+      city: Pittsburgh
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2025-06-18-high-noon-saloon-madison-wi-usa
+      date: '2025-06-18'
+      year: 2025
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 2

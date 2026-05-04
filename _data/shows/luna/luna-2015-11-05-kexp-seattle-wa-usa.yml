@@ -1,0 +1,41 @@
+slug: luna-2015-11-05-kexp-seattle-wa-usa
+date: '2015-11-05'
+year: 2015
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar/vocals|Lee Wall - drums|Britta
+  Phillips - bass/vocals
+notes: Luna live on KEXP at 15:00 PST  TRUE
+venue_name: KEXP
+venue_slug: kexp-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 2
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 3
+  raw_title: ^interview
+  annotation: interview
+- position: 4
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 5
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun

@@ -1,0 +1,39 @@
+title: (unknown)
+slug: unknown
+sort_title: UNKNOWN
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: (unknown)
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-1996-03-15-alligator-lounge-santa-monica-ca-usa
+      date: '1996-03-15'
+      year: 1996
+      venue: Alligator Lounge
+      city: Santa Monica
+      country: USA
+      position: 10
+    - show_slug: luna-1998-07-16-castle-clinton-battery-park-new-york-ny-usa
+      date: '1998-07-16'
+      year: 1998
+      venue: Castle Clinton, Battery Park
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-1998-07-16-castle-clinton-battery-park-new-york-ny-usa
+      date: '1998-07-16'
+      year: 1998
+      venue: Castle Clinton, Battery Park
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-1998-07-16-castle-clinton-battery-park-new-york-ny-usa
+      date: '1998-07-16'
+      year: 1998
+      venue: Castle Clinton, Battery Park
+      city: New York
+      country: USA
+      position: 12

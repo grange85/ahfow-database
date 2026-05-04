@@ -1,0 +1,159 @@
+title: Happy New Year
+slug: happy-new-year
+sort_title: HAPPY NEW YEAR
+authors: Eugene Chadbourne
+original_artist: Shockabilly
+originals_url: https://www.fullofwishes.co.uk/2013/07/17/originals-happy-new-year-by-shockabilly-covered-by-luna/
+lyrics: 'to those who say have a happy new year
+
+  i have no fears
+
+  cause we''re all one
+
+  in my heart we are at peace
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad
+
+
+  and on the first day of our brand new year
+
+  i slept and slept
+
+  and in my dreams
+
+  giant turtles roamed the sky
+
+  happy new year
+
+  for me and my girls
+
+
+  the first one took such a long time
+
+  she asked me why
+
+  i told her no
+
+  then she told me i should go
+
+  but i loved her so i stayed on through the years
+
+
+  the next one was faster than breeze
+
+  i won''t forget
+
+  cause evey breath
+
+  every twinkle in her eye is part of you
+
+  happy new year
+
+
+  to those who say have a happy new year
+
+  i have no fears
+
+  cause we''re all one
+
+  in my heart we are at peace
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad
+
+  happy new year
+
+  we''re all glad, there''s none that''s sad'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Happy New Year
+    appears_on:
+    - release_title: Hedgehog / 23 Minutes in Brussels
+      release_slug: hedgehog-23-minutes-in-brussels
+      release_type: Single
+      year: 1995
+      format: '12'
+      country: UK
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BBQ59T
+      side: A
+      position: 4
+    - release_title: Hedgehog / 23 Minutes in Brussels
+      release_slug: hedgehog-23-minutes-in-brussels
+      release_type: Single
+      year: 1995
+      format: CD
+      country: UK
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BBQ59CD
+      position: 4
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: B
+      position: 11
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: CD
+      country: US
+      edition_year: 1995
+      label: Elektra Japan
+      position: 12
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 12
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: C
+      position: 11
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 14

@@ -1,0 +1,21 @@
+title: Snow
+slug: snow
+sort_title: SNOW
+authors: CHECK
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Snow
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: A
+      position: 5
+    played_live: []

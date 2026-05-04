@@ -1,0 +1,21 @@
+title: The Bob Magazine No. 48
+slug: the-bob-magazine-no-48
+release_type: Single
+year: 1994
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-the-bob-48.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: Flexidisc
+  country: US
+  year: 1994
+  label: The Bob
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-the-bob-48.jpg
+  notes: Promo flexidisc given away with The Bob
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Going Home
+    slug: going-home
+    full_title: Going Home

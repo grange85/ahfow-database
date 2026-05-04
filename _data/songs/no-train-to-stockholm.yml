@@ -1,0 +1,20 @@
+title: No Train to Stockholm
+slug: no-train-to-stockholm
+sort_title: NO TRAIN TO STOCKHOLM
+authors: Lee Hazelwood
+original_artist: Lee Hazelwood
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: No Train to Stockholm
+    appears_on: []
+    played_live:
+    - show_slug: dean-wareham-2003-03-01-joes-pub-new-york-ny-usa
+      date: '2003-03-01'
+      year: 2003
+      venue: Joes Pub
+      city: New York
+      country: USA
+      position: 1

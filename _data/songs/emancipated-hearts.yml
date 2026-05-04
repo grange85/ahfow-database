@@ -1,0 +1,243 @@
+title: Emancipated Hearts
+slug: emancipated-hearts
+sort_title: EMANCIPATED HEARTS
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Emancipated Hearts
+    appears_on:
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 2
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 7
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 2
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 7
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 047
+      side: A
+      position: 2
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: LP-DBL-010
+      side: A
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 11
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: Cassette
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 076
+      side: A
+      position: 2
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: 2xLP
+      country: UK
+      edition_year: 2023
+      label: Sonic Cathedral
+      catalogue_no: SCR 276LP
+      side: A
+      position: 2
+    played_live:
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 5
+    - show_slug: dean-wareham-2014-04-04-u-street-washington-dc-usa
+      date: '2014-04-04'
+      year: 2014
+      venue: U Street
+      city: Washington DC
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2014-04-24-amoeba-records-los-angeles-ca-usa
+      date: '2014-04-24'
+      year: 2014
+      venue: Amoeba Records
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 2
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 1
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2014-06-19-kcrw-santa-monica-ca-usa
+      date: '2014-06-19'
+      year: 2014
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2014-07-26-indietracks-festival-derbyshire-uk
+      date: '2014-07-26'
+      year: 2014
+      venue: Indietracks Festival
+      city: Derbyshire
+      country: UK
+      position: 1
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 10
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 14
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 8

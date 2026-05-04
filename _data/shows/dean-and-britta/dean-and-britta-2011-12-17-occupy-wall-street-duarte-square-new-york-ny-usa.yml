@@ -1,0 +1,42 @@
+slug: dean-and-britta-2011-12-17-occupy-wall-street-duarte-square-new-york-ny-usa
+date: '2011-12-17'
+year: 2011
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Sean Eden -
+  guitar|Anthony LaMarca - drums
+event: Occupy Wall Street
+notes: SATURDAY, DECEMBER 17th at 12PM DUARTE SQ. PARK, 6th AVE and CANAL - PROTECT
+  and CELEBRATE THE OCCUPY MOVEMENT FOR SOCIAL AND ECONOMIC JUSTICE “Join artists,
+  musicians, and local community members for an all-day performance event in support
+  of Occupy Wall Street's re-occupation of space in downtown Manhattan.
+venue_name: Duarte Square
+venue_slug: occupy-wall-street-duarte-square-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 3
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 4
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

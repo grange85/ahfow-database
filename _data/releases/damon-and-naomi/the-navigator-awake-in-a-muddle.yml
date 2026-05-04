@@ -1,0 +1,26 @@
+title: The Navigator / Awake in a Muddle
+slug: the-navigator-awake-in-a-muddle
+release_type: Single
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_navigator.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '7'
+  year: 1997
+  label: Earworm
+  catalogue_no: WORM 3
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_navigator.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: The Navigator
+    slug: the-navigator
+    full_title: The Navigator
+  - position: 2
+    side: B
+    side_position: 1
+    title: Awake in a Muddle
+    slug: awake-in-a-muddle
+    full_title: Awake in a Muddle

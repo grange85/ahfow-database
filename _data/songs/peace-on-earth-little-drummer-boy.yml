@@ -1,0 +1,27 @@
+title: Peace on Earth / Little Drummer Boy
+slug: peace-on-earth-little-drummer-boy
+sort_title: PEACE ON EARTH / LITTLE DRUMMER BOY
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Peace on Earth / Little Drummer Boy
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: B
+      position: 13
+    played_live:
+    - show_slug: dean-and-britta-2024-12-13-dean--brittas-basement-echo-park-la-usa
+      date: '2024-12-13'
+      year: 2024
+      venue: Dean & Britta's basement
+      city: Echo Park
+      country: USA
+      position: 4

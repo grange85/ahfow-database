@@ -1,0 +1,22 @@
+title: Dance With Me
+slug: dance-with-me
+release_type: Single
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dance-with-me.jpg
+album_artist: Luna / Wake Ooloo
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: US
+  year: 1998
+  label: ROCKER! Supernova Records
+  catalogue_no: RS-004
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-dance-with-me.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Dance With Me
+    slug: dance-with-me
+    full_title: Dance With Me

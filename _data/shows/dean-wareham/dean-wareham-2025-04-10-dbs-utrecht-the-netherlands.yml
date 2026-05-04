@@ -1,0 +1,100 @@
+slug: dean-wareham-2025-04-10-dbs-utrecht-the-netherlands
+date: '2025-04-10'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Roger Brogan
+  - drums
+ticket_url: https://dbs.stager.co/web/tickets/111488045
+venue_name: DB's
+venue_slug: dbs-utrecht-the-netherlands
+city: Utrecht
+country: The Netherlands
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Dear Betty Baby
+  canonical_title: Dear Betty Baby
+  song_slug: dear-betty-baby
+  full_title: Dear Betty Baby
+- position: 2
+  raw_title: Mystery Guest
+  canonical_title: Mystery Guest
+  song_slug: mystery-guest
+  full_title: Mystery Guest
+- position: 3
+  raw_title: That's the Price of Loving Me
+  canonical_title: That's the Price of Loving Me
+  song_slug: thats-the-price-of-loving-me
+  full_title: That's the Price of Loving Me
+- position: 4
+  raw_title: Yesterday's Hero
+  canonical_title: Yesterday's Hero
+  song_slug: yesterdays-hero
+  full_title: Yesterday's Hero
+- position: 5
+  raw_title: We're Not Finished Yet
+  canonical_title: We're Not Finished Yet
+  song_slug: were-not-finished-yet
+  full_title: We're Not Finished Yet
+- position: 6
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 7
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 8
+  raw_title: The Last Word
+  canonical_title: The Last Word
+  song_slug: the-last-word
+  full_title: The Last Word
+- position: 9
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 10
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 11
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 12
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 13
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 16
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 17
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

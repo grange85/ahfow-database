@@ -1,0 +1,518 @@
+title: Broken Chair
+slug: broken-chair
+sort_title: BROKEN CHAIR
+lyrics: 'I thought about it every day
+
+  While I was wondering in and out of the pink
+
+  You had to make another go
+
+  You were drowning in your wonderful drink
+
+  There''s so much of madness here
+
+  So much that sinks
+
+  Act like you are, we''re all in a terrible fable
+
+  What do you see
+
+
+  I''m running so fast
+
+  Gotta go where I need
+
+  Out on the road there
+
+  The devil knows what I see
+
+
+  Sometimes you gotta know
+
+  You gotta make it with a lot of the sane
+
+  Had to be another Joe
+
+  Drifting in and out of the way
+
+  So much I used to let by
+
+  Was so much like a kick in the head
+
+  Better be off and I better be able to see what''s ahead
+
+
+  It''s beautiful now
+
+  I tell myself I''m braver
+
+  Sorry somehow
+
+  Never know what it means to you'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Broken Chair
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 6
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 7
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 6
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 6
+    played_live:
+    - show_slug: luna-2003-11-28-knitting-factory-new-york-ny-usa
+      date: '2003-11-28'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2003-11-29-knitting-factory-new-york-ny-usa
+      date: '2003-11-29'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2004-10-10-borofest-kyoto-japan
+      date: '2004-10-10'
+      year: 2004
+      venue: Borofest
+      city: Kyoto
+      country: Japan
+      position: 5
+    - show_slug: luna-2004-10-15-astro-hall-tokyo-japan
+      date: '2004-10-15'
+      year: 2004
+      venue: Astro Hall
+      city: Tokyo
+      country: Japan
+      position: 4
+    - show_slug: luna-2004-10-30-maxwells-hoboken-nj-usa
+      date: '2004-10-30'
+      year: 2004
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 10
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 7
+    - show_slug: luna-2004-11-09-beachland-ballroom-cleveland-oh-usa
+      date: '2004-11-09'
+      year: 2004
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-10-blind-pig-ann-arbor-mi-usa
+      date: '2004-11-10'
+      year: 2004
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 8
+    - show_slug: luna-2004-11-12-abbey-pub-chicago-il-usa
+      date: '2004-11-12'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+      date: '2004-11-14'
+      year: 2004
+      venue: Fine Line Music Cafe
+      city: Minneapolis
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-19-exitin-nashville-tn-usa
+      date: '2004-11-19'
+      year: 2004
+      venue: Exit/In
+      city: Nashville
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-21-cats-cradle-carrboro-nc-usa
+      date: '2004-11-21'
+      year: 2004
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-27-irving-plaza-new-york-ny-usa
+      date: '2004-11-27'
+      year: 2004
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-2004-12-17-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2004-12-17'
+      year: 2004
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: luna-2004-12-18-930-club-washington-dc-usa
+      date: '2004-12-18'
+      year: 2004
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: luna-2004-12-31-southpaw-brooklyn-ny-usa
+      date: '2004-12-31'
+      year: 2004
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 4
+    - show_slug: luna-2005-01-10-apolo-barcelona-spain
+      date: '2005-01-10'
+      year: 2005
+      venue: Apolo
+      city: Barcelona
+      country: Spain
+      position: 5
+    - show_slug: luna-2005-01-17-bbc-6-music-london-uk
+      date: '2005-01-17'
+      year: 2005
+      venue: BBC 6 Music
+      city: London
+      country: UK
+      position: 1
+    - show_slug: luna-2005-01-17-ulu-london-uk
+      date: '2005-01-17'
+      year: 2005
+      venue: ULU
+      city: London
+      country: UK
+      position: 5
+    - show_slug: luna-2005-01-28-la-zona-rosa-austin-tx-usa
+      date: '2005-01-28'
+      year: 2005
+      venue: La Zona Rosa
+      city: Austin
+      country: USA
+      position: 6
+    - show_slug: luna-2005-01-31-fox-theatre-boulder-co-usa
+      date: '2005-01-31'
+      year: 2005
+      venue: Fox Theatre
+      city: Boulder
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-03-casbah-san-diego-ca-usa
+      date: '2005-02-03'
+      year: 2005
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 7
+    - show_slug: luna-2005-02-04-el-rey-theater-los-angeles-ca-usa
+      date: '2005-02-04'
+      year: 2005
+      venue: El Rey Theater
+      city: Los Angeles
+      country: USA
+      position: 8
+    - show_slug: luna-2005-02-07-harlows-night-club-sacramento-ca-usa
+      date: '2005-02-07'
+      year: 2005
+      venue: Harlows Night Club
+      city: Sacramento
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-10-aladdin-theatre-portland-or-usa
+      date: '2005-02-10'
+      year: 2005
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 6
+    - show_slug: luna-2005-02-11-1800-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: luna-2005-02-12-richards-on-richards-vancouver-british-columbia-canada
+      date: '2005-02-12'
+      year: 2005
+      venue: Richards on Richards
+      city: Vancouver
+      country: Canada
+      position: 8
+    - show_slug: luna-2005-02-24-st-andrews-hall-detroit-mi-usa
+      date: '2005-02-24'
+      year: 2005
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 5
+    - show_slug: luna-2005-02-27-1400-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-27'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-28-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-28'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-2017-10-03-sala-de-camara-del-kursaal-san-sebastian-spain
+      date: '2017-10-03'
+      year: 2017
+      venue: Sala de Camara del Kursaal
+      city: San Sebastian
+      country: Spain
+      position: 9
+    - show_slug: luna-2017-10-06-teatro-jofre-ferrol-spain
+      date: '2017-10-06'
+      year: 2017
+      venue: Teatro Jofre
+      city: Ferrol
+      country: Spain
+      position: 7
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 7
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 8
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 9
+    - show_slug: luna-2017-11-08-the-great-hall-toronto-ontario-canada
+      date: '2017-11-08'
+      year: 2017
+      venue: The Great Hall
+      city: Toronto
+      country: Canada
+      position: 8
+    - show_slug: luna-2017-11-17-montgomery-hall-jersey-city-nj-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Montgomery Hall
+      city: Jersey City
+      country: USA
+      position: 10
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 10
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 12
+    - show_slug: luna-2018-04-06-3ten-acl-live-austin-tx-usa
+      date: '2018-04-06'
+      year: 2018
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 8
+    - show_slug: luna-2018-08-24-industry-city-courtyard-brooklyn-ny-usa
+      date: '2018-08-24'
+      year: 2018
+      venue: Industry City Courtyard
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: luna-2018-08-26-the-warehouse-fairfield-ct-usa
+      date: '2018-08-26'
+      year: 2018
+      venue: The Warehouse
+      city: Fairfield
+      country: USA
+      position: 8
+    - show_slug: luna-2018-09-01-terraza-malabar-del-veles-e-vents-valencia-spain
+      date: '2018-09-01'
+      year: 2018
+      venue: Terraza Malabar Del Veles E Vents
+      city: Valencia
+      country: Spain
+      position: 9
+    - show_slug: luna-2018-09-14-kafe-antzokia-bilbao-spain
+      date: '2018-09-14'
+      year: 2018
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 7
+    - show_slug: luna-2019-10-05-930-club-washington-dc-usa
+      date: '2019-10-05'
+      year: 2019
+      series: Luna play Penthouse
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 13
+    - show_slug: luna-2019-10-17-gateway-city-arts-holyoke-ma-usa
+      date: '2019-10-17'
+      year: 2019
+      venue: Gateway City Arts
+      city: Holyoke
+      country: USA
+      position: 8
+    - show_slug: luna-2020-02-08-the-independent-san-francisco-ca-usa
+      date: '2020-02-08'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 15
+    - show_slug: dean-and-britta-2020-06-27-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-06-27'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 1
+      annotation: Sean Eden on Instagram Live
+    - show_slug: dean-and-britta-2020-06-27-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-06-27'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: luna-2021-08-04-the-press-room-portsmouth-nh-usa
+      date: '2021-08-04'
+      year: 2021
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 14
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 9
+    - show_slug: luna-2023-09-06-the-atlantis-washington-dc-usa
+      date: '2023-09-06'
+      year: 2023
+      venue: The Atlantis
+      city: Washington DC
+      country: USA
+      position: 11
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 7
+    - show_slug: luna-2025-12-29-fillmore-san-francisco-ca-usa
+      date: '2025-12-29'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-02'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12

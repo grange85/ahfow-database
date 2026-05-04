@@ -1,0 +1,83 @@
+title: The Wind's Twelve Quarters
+slug: the-winds-twelve-quarters
+sort_title: WINDS TWELVE QUARTERS
+authors: Michio Kurihara/You Ishihara
+original_artist: Michio Kurihara
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Wind's Twelve Quarters
+    appears_on:
+    - release_title: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+      release_slug: shibuya-o-nest-tokyo-japan-june-24-2005
+      release_type: Video
+      year: 2006
+      format: DVD
+      edition_year: 2006
+      label: (no label)
+      side: A
+      position: 8
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 7
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 8
+    played_live:
+    - show_slug: damon-and-naomi-2005-05-22-music-lovers-field-companion-music-festival-the-sage-gateshead-uk
+      date: '2005-05-22'
+      year: 2005
+      event: Music Lovers Field Companion music festival
+      venue: The Sage
+      city: Gateshead
+      country: UK
+      position: 4
+    - show_slug: damon-and-naomi-2005-06-23-nhk-livebeat-tokyo-japan
+      date: '2005-06-23'
+      year: 2005
+      venue: NHK Livebeat
+      city: Tokyo
+      country: Japan
+      position: 7
+    - show_slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+      date: '2005-06-24'
+      year: 2005
+      venue: Shibuya O-Nest
+      city: Tokyo
+      country: Japan
+      position: 8
+    - show_slug: damon-and-naomi-2006-04-23-terrastock-providence-ri-usa
+      date: '2006-04-23'
+      year: 2006
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+      date: '2007-11-22'
+      year: 2007
+      venue: Lemon Tree
+      city: Aberdeen
+      country: UK
+      position: 6

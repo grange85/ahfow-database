@@ -1,0 +1,111 @@
+slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+date: '2017-07-15'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Roger Brogan
+  - drums|Jason Quever - guitar/keyboards
+series: Dean Wareham plays Galaxie 500
+ticket_url: https://www.ticketfly.com/purchase/event/1505123
+notes: Dean Wareham plays Galaxie 500's classic LP “TODAY”
+venue_name: The Chapel
+venue_slug: the-chapel-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 3
+  raw_title: Parking Lot
+  canonical_title: Parking Lot
+  song_slug: parking-lot
+  full_title: Parking Lot
+- position: 4
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 5
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 6
+  raw_title: Oblivious
+  canonical_title: Oblivious
+  song_slug: oblivious
+  full_title: Oblivious
+- position: 7
+  raw_title: It's Getting Late
+  canonical_title: It's Getting Late
+  song_slug: its-getting-late
+  full_title: It's Getting Late
+- position: 8
+  raw_title: Instrumental
+  canonical_title: Instrumental
+  song_slug: instrumental
+  full_title: Instrumental
+- position: 9
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 10
+  raw_title: King of Spain
+  canonical_title: King of Spain
+  song_slug: king-of-spain
+  full_title: King of Spain
+- position: 11
+  raw_title: ^encore
+  annotation: encore
+- position: 12
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 13
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 14
+  raw_title: Love is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 15
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 16
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 17
+  raw_title: ^encore 2
+  annotation: encore 2
+- position: 18
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+- position: 19
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July

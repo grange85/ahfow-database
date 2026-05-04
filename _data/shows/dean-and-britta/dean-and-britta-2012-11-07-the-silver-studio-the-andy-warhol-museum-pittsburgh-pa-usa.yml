@@ -1,0 +1,38 @@
+slug: dean-and-britta-2012-11-07-the-silver-studio-the-andy-warhol-museum-pittsburgh-pa-usa
+date: '2012-11-07'
+year: 2012
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - vocals/bass|Antony LaMarca
+  - drums
+notes: Live session recording
+venue_name: The Silver Studio, The Andy Warhol Museum
+venue_slug: the-silver-studio-the-andy-warhol-museum-pittsburgh-pa-usa
+city: Pittsburgh
+state: PA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 2
+  raw_title: The Sun is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 3
+  raw_title: The Longest Bridges in the World
+  canonical_title: The Longest Bridges in the World
+  song_slug: the-longest-bridges-in-the-world
+  full_title: The Longest Bridges in the World
+- position: 4
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder

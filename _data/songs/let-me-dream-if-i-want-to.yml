@@ -1,0 +1,145 @@
+title: Let Me Dream If I Want To
+slug: let-me-dream-if-i-want-to
+sort_title: LET ME DREAM IF I WANT TO
+authors: Mink DeVille
+original_artist: Mink DeVille
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Let Me Dream If I Want To
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 9
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: B
+      position: 9
+    played_live:
+    - show_slug: luna-2017-10-03-sala-de-camara-del-kursaal-san-sebastian-spain
+      date: '2017-10-03'
+      year: 2017
+      venue: Sala de Camara del Kursaal
+      city: San Sebastian
+      country: Spain
+      position: 7
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 10
+    - show_slug: luna-2017-10-07-fiesta-del-marisco-o-grove-spain
+      date: '2017-10-07'
+      year: 2017
+      venue: Fiesta del Marisco
+      city: O Grove
+      country: Spain
+      position: 4
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 2
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 9
+    - show_slug: luna-2017-10-12-ram-club-valencia-spain
+      date: '2017-10-12'
+      year: 2017
+      venue: Ram Club
+      city: Valencia
+      country: Spain
+      position: 6
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: luna-2017-11-07-the-magic-stick-detroit-mi-usa
+      date: '2017-11-07'
+      year: 2017
+      venue: The Magic Stick
+      city: Detroit
+      country: USA
+      position: 4
+    - show_slug: luna-2017-11-09-the-grog-shop-cleveland-heights-oh-usa
+      date: '2017-11-09'
+      year: 2017
+      venue: The Grog Shop
+      city: Cleveland Heights
+      country: USA
+      position: 4
+    - show_slug: luna-2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa
+      date: '2017-11-15'
+      year: 2017
+      venue: Carnegie Lecture Hall
+      city: Pittsburgh
+      country: USA
+      position: 3
+    - show_slug: luna-2017-11-17-montgomery-hall-jersey-city-nj-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Montgomery Hall
+      city: Jersey City
+      country: USA
+      position: 3
+    - show_slug: luna-2018-01-11-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-11'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: luna-2018-01-23-the-neptune-theatre-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: The Neptune Theatre
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-2018-04-06-3ten-acl-live-austin-tx-usa
+      date: '2018-04-06'
+      year: 2018
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 4
+    - show_slug: luna-2018-08-26-the-warehouse-fairfield-ct-usa
+      date: '2018-08-26'
+      year: 2018
+      venue: The Warehouse
+      city: Fairfield
+      country: USA
+      position: 2
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 6

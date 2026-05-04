@@ -1,0 +1,66 @@
+title: Smile
+slug: smile
+release_type: Single
+year: 1993
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-smile-ep.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '12'
+  country: US
+  year: 1993
+  label: Elektra
+  catalogue_no: EKR169CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-smile-ep.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 2
+    side: A
+    side_position: 2
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 3
+    side: B
+    side_position: 1
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 4
+    side: B
+    side_position: 2
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster
+- format: CD
+  country: US
+  year: 1993
+  label: Elektra
+  catalogue_no: EKR169CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-smile-ep.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 2
+    side_position: 2
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 3
+    side_position: 3
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 4
+    side_position: 4
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster

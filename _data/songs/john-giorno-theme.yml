@@ -1,0 +1,35 @@
+title: John Giorno Theme
+slug: john-giorno-theme
+sort_title: JOHN GIORNO THEME
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: John Giorno Theme
+    appears_on: []
+    played_live:
+    - show_slug: dean-and-britta-2022-06-04-guild-theatre-menlo-park-ca-usa
+      date: '2022-06-04'
+      year: 2022
+      series: 13 Most Beautiful
+      venue: Guild Theatre
+      city: Menlo Park
+      country: USA
+      position: 14
+    - show_slug: dean-and-britta-2023-02-16-maraya-al-ula-saudi-arabia
+      date: '2023-02-16'
+      year: 2023
+      series: 13 Most Beautiful
+      venue: Maraya
+      city: Al-Ula
+      country: Saudi Arabia
+      position: 14
+    - show_slug: dean-and-britta-2023-09-23-the-bram-goldsmith-theater-los-angeles-ca-usa
+      date: '2023-09-23'
+      year: 2023
+      series: 13 Most Beautiful
+      venue: The Bram Goldsmith Theater
+      city: Los Angeles
+      country: USA
+      position: 14

@@ -1,0 +1,184 @@
+title: Most of the Time
+slug: most-of-the-time
+sort_title: MOST OF THE TIME
+authors: Bob Dylan
+original_artist: Bob Dylan
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Most of the Time
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 9
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 9
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: B
+      position: 9
+    played_live:
+    - show_slug: dean-and-britta-2020-06-27-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-06-27'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2025-03-27-the-grammy-museum-los-angeles-ca-usa
+      date: '2025-03-27'
+      year: 2025
+      venue: The Grammy Museum
+      city: Los Angeles
+      country: USA
+      position: 2
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Most of the Time
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 5
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 9
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 5
+    - show_slug: luna-2017-10-15-teatre-municipal-xesc-forteza-mallorca-spain
+      date: '2017-10-15'
+      year: 2017
+      venue: Teatre Municipal Xesc Forteza
+      city: Mallorca
+      country: Spain
+      position: 5
+    - show_slug: luna-2017-11-10-headliners-music-hall-louisville-ky-usa
+      date: '2017-11-10'
+      year: 2017
+      venue: Headliners Music Hall
+      city: Louisville
+      country: USA
+      position: 7
+    - show_slug: luna-2017-11-14-the-black-cat-washington-dc-usa
+      date: '2017-11-14'
+      year: 2017
+      venue: The Black Cat
+      city: Washington DC
+      country: USA
+      position: 15
+    - show_slug: luna-2018-01-12-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-12'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 12
+    - show_slug: luna-2018-01-14-the-casbah-san-diego-ca-usa
+      date: '2018-01-14'
+      year: 2018
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 5
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 5
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 9
+    - show_slug: luna-2018-04-07-granada-theater-dallas-tx-usa
+      date: '2018-04-07'
+      year: 2018
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 7
+    - show_slug: luna-2019-03-31-musical-instrument-museum-phoenix-az-usa
+      date: '2019-03-31'
+      year: 2019
+      venue: Musical Instrument Museum
+      city: Phoenix
+      country: USA
+      position: 8
+    - show_slug: luna-2019-10-04-union-transfer-philadelphia-pa-usa
+      date: '2019-10-04'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 13
+    - show_slug: luna-2021-11-10-3ten-acl-live-austin-tx-usa
+      date: '2021-11-10'
+      year: 2021
+      series: Luna play Penthouse
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 17
+    - show_slug: luna-2021-11-12-white-eagle-hall-jersey-city-nj-usa
+      date: '2021-11-12'
+      year: 2021
+      venue: White Eagle Hall
+      city: Jersey City
+      country: USA
+      position: 15

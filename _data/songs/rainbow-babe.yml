@@ -1,0 +1,96 @@
+title: Rainbow Babe
+slug: rainbow-babe
+sort_title: RAINBOW BABE
+lyrics: 'Souvenirs, soft and sweet
+
+  Clap your hands and tap your feet
+
+  Ring your bells and paint your toes
+
+  Rainbow babe
+
+
+  Aquavit, in plastic cups
+
+  Feathered drums and lipstick butts
+
+  RIng your bells and paint your toes
+
+  Rainbow babe
+
+
+  Midnight fell, at 12 o''clock
+
+  And your lips, said ticker tock
+
+  Two and two, makes twenty two
+
+  Rainbow babe'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Rainbow Babe
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 11
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 6
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 11
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: C
+      position: 11
+    played_live:
+    - show_slug: luna-2003-11-29-knitting-factory-new-york-ny-usa
+      date: '2003-11-29'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2005-02-07-harlows-night-club-sacramento-ca-usa
+      date: '2005-02-07'
+      year: 2005
+      venue: Harlows Night Club
+      city: Sacramento
+      country: USA
+      position: 9
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 11

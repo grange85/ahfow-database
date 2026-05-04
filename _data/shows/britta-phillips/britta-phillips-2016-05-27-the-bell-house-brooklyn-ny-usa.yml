@@ -1,0 +1,27 @@
+slug: britta-phillips-2016-05-27-the-bell-house-brooklyn-ny-usa
+date: '2016-05-27'
+year: 2016
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass/guitar/keyboards/vocals|Dean Wareham - guitar/bass|Sean
+  Eden - guitar|Lee Wall - drums|Matt Sumrow - keyboards
+venue_name: The Bell House
+venue_slug: the-bell-house-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Britta Phillips
+act_slug: britta-phillips
+setlist:
+- position: 1
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 2
+  raw_title: Ingrid Superstar
+  canonical_title: Ingrid Superstar
+  song_slug: ingrid-superstar
+  full_title: Ingrid Superstar

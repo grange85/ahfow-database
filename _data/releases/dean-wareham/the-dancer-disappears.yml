@@ -1,0 +1,33 @@
+title: The Dancer Disappears
+slug: the-dancer-disappears
+release_type: Single
+year: 2014
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-the-dancer-disappears-hires.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: File
+  year: 2014
+  label: Double Feature
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-the-dancer-disappears-hires.jpg
+  notes: Also as a Sonic Cathedral promo CD
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: The Dancer Disappears
+    slug: the-dancer-disappears
+    full_title: The Dancer Disappears
+  - position: 2
+    side: A
+    side_position: 2
+    title: Love
+    slug: love-the-jacks
+    full_title: Love
+  - position: 3
+    side: A
+    side_position: 3
+    title: Holding Pattern
+    slug: holding-pattern
+    version_tag: demo
+    full_title: Holding Pattern [demo]

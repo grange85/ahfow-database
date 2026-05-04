@@ -1,0 +1,36 @@
+title: Shine a Light
+slug: shine-a-light
+sort_title: SHINE A LIGHT
+authors: Jagger/Richards
+original_artist: The Rolling Stomes
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Shine a Light
+    appears_on:
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 5
+    played_live:
+    - show_slug: damon-and-naomi-2011-05-11-xfm-london-uk
+      date: '2011-05-11'
+      year: 2011
+      venue: Xfm
+      city: London
+      country: UK
+      position: 4
+    - show_slug: damon-and-naomi-2011-05-25-horseshoe-toronto-ontario-canada
+      date: '2011-05-25'
+      year: 2011
+      venue: Horseshoe
+      city: Toronto
+      country: Canada
+      position: 8

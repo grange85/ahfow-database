@@ -1,0 +1,107 @@
+title: Motel Bambi
+slug: motel-bambi
+sort_title: MOTEL BAMBI
+lyrics: 'Dog day romance, key lime pie
+
+  Valium sunset, hazy sky
+
+  Motel bambi
+
+  Where has all the sunshine gone?
+
+
+  Mystic rattlers, 8 eyed spy
+
+  Hong kong garden, spanish fly
+
+  Motel Bambi
+
+  Where has all the sunshine gone?
+
+
+  We don''t belong here
+
+  We can''t compete
+
+  We don''t belong, anymore
+
+
+  I like flowers, I like sex
+
+  Cover all the mirrors
+
+  I think I''m gonna cry
+
+  It''s Tuesday morning
+
+  Where have all the good times gone?
+
+
+  Taxi drivers, yellow hands
+
+  Cosmic dancers, on golden sands
+
+  Motel Bambi
+
+  Tell me where the good times have gone
+
+
+  We don''t belong
+
+  We can''t complete
+
+  We don''t belong, anymore'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Motel Bambi
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 8
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 9
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 8
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 8

@@ -1,0 +1,101 @@
+title: Out Walking
+slug: out-walking
+sort_title: OUT WALKING
+lyrics: 'He went out walking
+
+  alone to find somewhere to hide
+
+  No, she wasn''t talking much to him lately
+
+  So I think its kind of strange when he walks into those rooms again.
+
+
+  He started humming
+
+  A song that they both used to sing
+
+  Soon it was coming close between them
+
+  And she''ll fall down with her warm vacation sound.
+
+
+  Take something from me...to remember of me...
+
+
+  I had something to say once
+
+  I had a feeling but now its gone
+
+  Now there''s no one to be away from
+
+  No, there''s nothing much at all
+
+  No, now there''s nothing much at all
+
+  At all......at all...'
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Out Walking
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: A
+      position: 4
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA59CD
+      position: 4
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: CD-BL-001
+      position: 4
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: LP
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: DBL-001
+      side: A
+      position: 4
+    played_live:
+    - show_slug: dean-and-britta-2003-06-19-great-american-san-francisco-ca-usa
+      date: '2003-06-19'
+      year: 2003
+      venue: Great American
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2003-06-21-double-door-chicago-il-usa
+      date: '2003-06-21'
+      year: 2003
+      venue: Double Door
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2003-06-24-village-underground-new-york-ny-usa
+      date: '2003-06-24'
+      year: 2003
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 3

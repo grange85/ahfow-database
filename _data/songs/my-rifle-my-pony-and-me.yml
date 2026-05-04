@@ -1,0 +1,61 @@
+title: My Rifle, My Pony and Me
+slug: my-rifle-my-pony-and-me
+sort_title: MY RIFLE MY PONY AND ME
+authors: Webster/Levene/Tiomkin
+original_artist: Dean Martin and Ricky Nelson
+originals_url: https://www.fullofwishes.co.uk/2025/02/25/originals-my-rifle-my-pony-and-me-covered-by-dean-wareham/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: My Rifle, My Pony and Me
+    appears_on:
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: CD
+      edition_year: 2018
+      label: Double Feature
+      position: 9
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: LP
+      edition_year: 2018
+      label: Double Feature
+      side: B
+      position: 9
+    played_live:
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2020-04-27-dean--brittas-living-room-echo-park-la-usa
+      date: '2020-04-27'
+      year: 2020
+      venue: Dean & Britta's living room
+      city: Echo Park
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 2

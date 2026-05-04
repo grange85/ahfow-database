@@ -1,0 +1,194 @@
+title: A Sky Record
+slug: a-sky-record
+release_type: Album
+year: 2021
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-a-sky-record.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: Booklet/download
+  year: 2021
+  label: 20|20|20
+  catalogue_no: '202020'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Oceans in Between
+    slug: oceans-in-between
+    full_title: Oceans in Between
+  - position: 2
+    side: A
+    side_position: 2
+    title: Between the Wars
+    slug: between-the-wars
+    full_title: Between the Wars
+  - position: 3
+    side: A
+    side_position: 3
+    title: The Gift
+    slug: the-gift
+    full_title: The Gift
+  - position: 4
+    side: A
+    side_position: 4
+    title: Sailing By
+    slug: sailing-by
+    full_title: Sailing By
+  - position: 5
+    side: A
+    side_position: 5
+    title: Split Screen
+    slug: split-screen
+    full_title: Split Screen
+  - position: 6
+    side: A
+    side_position: 6
+    title: Season Without Time
+    slug: season-without-time
+    full_title: Season Without Time
+  - position: 7
+    side: A
+    side_position: 7
+    title: Midnight
+    slug: midnight
+    full_title: Midnight
+  - position: 8
+    side: A
+    side_position: 8
+    title: Invincible
+    slug: invincible
+    full_title: Invincible
+  - position: 9
+    side: A
+    side_position: 9
+    title: How I Came to Photograph Clouds
+    slug: how-i-came-to-photograph-clouds
+    full_title: How I Came to Photograph Clouds
+  - position: 10
+    side: A
+    side_position: 10
+    title: The Aftertime
+    slug: the-aftertime
+    full_title: The Aftertime
+- format: CD
+  country: JP
+  year: 2021
+  label: 20|20|20
+  catalogue_no: '202020'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Oceans in Between
+    slug: oceans-in-between
+    full_title: Oceans in Between
+  - position: 2
+    side_position: 2
+    title: Between the Wars
+    slug: between-the-wars
+    full_title: Between the Wars
+  - position: 3
+    side_position: 3
+    title: The Gift
+    slug: the-gift
+    full_title: The Gift
+  - position: 4
+    side_position: 4
+    title: Sailing By
+    slug: sailing-by
+    full_title: Sailing By
+  - position: 5
+    side_position: 5
+    title: Split Screen
+    slug: split-screen
+    full_title: Split Screen
+  - position: 6
+    side_position: 6
+    title: Season Without Time
+    slug: season-without-time
+    full_title: Season Without Time
+  - position: 7
+    side_position: 7
+    title: Midnight
+    slug: midnight
+    full_title: Midnight
+  - position: 8
+    side_position: 8
+    title: Invincible
+    slug: invincible
+    full_title: Invincible
+  - position: 9
+    side_position: 9
+    title: How I Came to Photograph Clouds
+    slug: how-i-came-to-photograph-clouds
+    full_title: How I Came to Photograph Clouds
+  - position: 10
+    side_position: 10
+    title: The Aftertime
+    slug: the-aftertime
+    full_title: The Aftertime
+- format: LP
+  year: 2022
+  label: 20|20|20
+  catalogue_no: '202020'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Oceans in Between
+    slug: oceans-in-between
+    full_title: Oceans in Between
+  - position: 2
+    side: A
+    side_position: 2
+    title: Between the Wars
+    slug: between-the-wars
+    full_title: Between the Wars
+  - position: 3
+    side: A
+    side_position: 3
+    title: The Gift
+    slug: the-gift
+    full_title: The Gift
+  - position: 4
+    side: A
+    side_position: 4
+    title: Sailing By
+    slug: sailing-by
+    full_title: Sailing By
+  - position: 5
+    side: B
+    side_position: 1
+    title: Split Screen
+    slug: split-screen
+    full_title: Split Screen
+  - position: 6
+    side: B
+    side_position: 2
+    title: Season Without Time
+    slug: season-without-time
+    full_title: Season Without Time
+  - position: 7
+    side: B
+    side_position: 3
+    title: Midnight
+    slug: midnight
+    full_title: Midnight
+  - position: 8
+    side: B
+    side_position: 4
+    title: Invincible
+    slug: invincible
+    full_title: Invincible
+  - position: 9
+    side: B
+    side_position: 5
+    title: How I Came to Photograph Clouds
+    slug: how-i-came-to-photograph-clouds
+    full_title: How I Came to Photograph Clouds
+  - position: 10
+    side: B
+    side_position: 6
+    title: The Aftertime
+    slug: the-aftertime
+    full_title: The Aftertime

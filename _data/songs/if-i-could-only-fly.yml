@@ -1,0 +1,43 @@
+title: If I Could Only Fly
+slug: if-i-could-only-fly
+sort_title: IF I COULD ONLY FLY
+authors: D. M. Fuller
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: If I Could Only Fly
+    appears_on:
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: CD
+      edition_year: 2018
+      label: Double Feature
+      position: 4
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: LP
+      edition_year: 2018
+      label: Double Feature
+      side: A
+      position: 4
+    played_live:
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 5

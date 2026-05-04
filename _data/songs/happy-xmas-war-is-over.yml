@@ -1,0 +1,40 @@
+title: Happy Xmas (War Is Over)
+slug: happy-xmas-war-is-over
+sort_title: HAPPY XMAS (WAR IS OVER
+authors: John Lennon/Yoko Ono
+original_artist: John & Yoko/The Plastic Ono Band
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Happy Xmas (War Is Over)
+    appears_on:
+    - release_title: Happy Xmas (War is Over)
+      release_slug: happy-xmas-war-is-over
+      release_type: Single
+      year: 2020
+      format: Digital
+      edition_year: 2020
+      label: (no label)
+      side: A
+      position: 1
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: B
+      position: 14
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 1

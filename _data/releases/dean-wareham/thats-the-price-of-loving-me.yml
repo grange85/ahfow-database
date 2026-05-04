@@ -1,0 +1,127 @@
+title: That's The Price of Loving Me
+slug: thats-the-price-of-loving-me
+release_type: Album
+year: 2025
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-thats-the-price.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: CD
+  year: 2025
+  label: Carpark Records
+  tracks:
+  - position: 1
+    side_position: 1
+    title: You Were the Ones I Had to Betray
+    slug: you-were-the-ones-i-had-to-betray
+    full_title: You Were the Ones I Had to Betray
+  - position: 2
+    side_position: 2
+    title: Dear Betty Baby
+    slug: dear-betty-baby
+    full_title: Dear Betty Baby
+  - position: 3
+    side_position: 3
+    title: Mystery Guest
+    slug: mystery-guest
+    full_title: Mystery Guest
+  - position: 4
+    side_position: 4
+    title: New World Julie
+    slug: new-world-julie
+    full_title: New World Julie
+  - position: 5
+    side_position: 5
+    title: We're Not Finished Yet
+    slug: were-not-finished-yet
+    full_title: We're Not Finished Yet
+  - position: 6
+    side_position: 6
+    title: Bourgeois Manqué
+    slug: bourgeois-manque
+    full_title: Bourgeois Manqué
+  - position: 7
+    side_position: 7
+    title: Yesterday's Hero
+    slug: yesterdays-hero
+    full_title: Yesterday's Hero
+  - position: 8
+    side_position: 8
+    title: That's the Price of Loving Me
+    slug: thats-the-price-of-loving-me
+    full_title: That's the Price of Loving Me
+  - position: 9
+    side_position: 9
+    title: Reich der Träume
+    slug: reich-der-traume
+    full_title: Reich der Träume
+  - position: 10
+    side_position: 10
+    title: The Cloud Is Coming
+    slug: the-cloud-is-coming
+    full_title: The Cloud Is Coming
+- format: LP
+  year: 2025
+  label: Carpark Records
+  notes: 400 copies in 'neon pink', others in clear vinyl
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: You Were the Ones I Had to Betray
+    slug: you-were-the-ones-i-had-to-betray
+    full_title: You Were the Ones I Had to Betray
+  - position: 2
+    side: A
+    side_position: 2
+    title: Dear Betty Baby
+    slug: dear-betty-baby
+    full_title: Dear Betty Baby
+  - position: 3
+    side: A
+    side_position: 3
+    title: Mystery Guest
+    slug: mystery-guest
+    full_title: Mystery Guest
+  - position: 4
+    side: A
+    side_position: 4
+    title: New World Julie
+    slug: new-world-julie
+    full_title: New World Julie
+  - position: 5
+    side: A
+    side_position: 5
+    title: We're Not Finished Yet
+    slug: were-not-finished-yet
+    full_title: We're Not Finished Yet
+  - position: 6
+    side: B
+    side_position: 1
+    title: Bourgeois Manqué
+    slug: bourgeois-manque
+    full_title: Bourgeois Manqué
+  - position: 7
+    side: B
+    side_position: 2
+    title: Yesterday's Hero
+    slug: yesterdays-hero
+    full_title: Yesterday's Hero
+  - position: 8
+    side: B
+    side_position: 3
+    title: That's the Price of Loving Me
+    slug: thats-the-price-of-loving-me
+    full_title: That's the Price of Loving Me
+  - position: 9
+    side: B
+    side_position: 4
+    title: Reich der Träume
+    slug: reich-der-traume
+    full_title: Reich der Träume
+  - position: 10
+    side: B
+    side_position: 5
+    title: The Cloud Is Coming
+    slug: the-cloud-is-coming
+    full_title: The Cloud Is Coming

@@ -1,0 +1,54 @@
+slug: damon-and-naomi-2000-11-03-terrastock-iv-showbox-seattle-wa-usa
+date: '2000-11-03'
+year: 2000
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals|Michio
+  Kurihara - guitars
+event: Terrastock IV
+setlist_source: video recording
+venue_name: Showbox
+venue_slug: terrastock-iv-showbox-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 2
+  raw_title: The Mirror Phase
+  canonical_title: The Mirror Phase
+  song_slug: the-mirror-phase
+  full_title: The Mirror Phase
+- position: 3
+  raw_title: The New World
+  canonical_title: The New World
+  song_slug: the-new-world
+  full_title: The New World
+- position: 4
+  raw_title: Eye of the Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 5
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 6
+  raw_title: The Great Wall
+  canonical_title: The Great Wall
+  song_slug: the-great-wall
+  full_title: The Great Wall
+- position: 7
+  raw_title: Tanka
+  canonical_title: Tanka
+  song_slug: tanka
+  full_title: Tanka

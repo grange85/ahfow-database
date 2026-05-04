@@ -1,0 +1,22 @@
+title: Seven-Eleven
+slug: seven-eleven
+sort_title: SEVEN-ELEVEN
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Seven-Eleven
+    appears_on:
+    - release_title: Dear Paulina / Seven-Eleven
+      release_slug: dear-paulina-seven-eleven
+      release_type: Single
+      year: 1999
+      format: '7'
+      country: UK
+      edition_year: 1999
+      label: Grange85
+      catalogue_no: g85-01
+      side: B
+      position: 2
+    played_live: []

@@ -1,0 +1,84 @@
+slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+date: '2007-01-09'
+year: 2007
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: with Sonic Boom - 'We had Matt Johnson on drums and Seal McCaul on vibraphones
+  (both of them play on both of our albums). And Sonic Boom joined us on Casio, Electribe
+  and Omnichord for 4 songs.' ~ Britta Phillips
+venue_name: Mo Pitkin's
+venue_slug: mo-pitkins-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: The Sun Is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 2
+  raw_title: Me and My Babies
+  canonical_title: Me and My Babies
+  song_slug: me-and-my-babies
+  full_title: Me and My Babies
+- position: 3
+  raw_title: Hear The Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 4
+  raw_title: Wait For Me
+  canonical_title: Wait for Me
+  song_slug: wait-for-me
+  full_title: Wait for Me
+- position: 5
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 6
+  raw_title: You Turned My Head Around
+  canonical_title: You Turned My Head Around
+  song_slug: you-turned-my-head-around
+  full_title: You Turned My Head Around
+- position: 7
+  raw_title: White Horses
+  canonical_title: White Horses
+  song_slug: white-horses
+  full_title: White Horses
+- position: 8
+  raw_title: Since I Lay My Burden Down
+  canonical_title: Since I Lay My Burden Down
+  song_slug: since-i-lay-my-burden-down
+  full_title: Since I Lay My Burden Down
+- position: 9
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 10
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 11
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 12
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 13
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder

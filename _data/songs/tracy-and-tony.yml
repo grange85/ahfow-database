@@ -1,0 +1,46 @@
+title: Tracy and Tony
+slug: tracy-and-tony
+sort_title: TRACY AND TONY
+authors: Wareham/Phillips
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Tracy and Tony
+    appears_on:
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 2
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 9
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: A
+      position: 2
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: B
+      position: 9
+    played_live: []

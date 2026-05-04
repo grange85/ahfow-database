@@ -1,0 +1,121 @@
+slug: luna-2024-03-14-vivarium-milwaukee-wi-usa
+date: '2024-03-14'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.axs.com/events/512158/luna-tickets
+venue_name: Vivarium
+venue_slug: vivarium-milwaukee-wi-usa
+city: Milwaukee
+state: WI
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 3
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 4
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 5
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 6
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 7
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 8
+  raw_title: New Sensations
+  canonical_title: New Sensations
+  song_slug: new-sensations
+  full_title: New Sensations
+- position: 9
+  raw_title: What Goes On
+  canonical_title: What Goes On
+  song_slug: what-goes-on
+  full_title: What Goes On
+- position: 10
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 11
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 12
+  raw_title: I'm Waiting for the Man
+  canonical_title: I'm Waiting for the Man
+  song_slug: im-waiting-for-the-man
+  full_title: I'm Waiting for the Man
+- position: 13
+  raw_title: Satellite of Love
+  canonical_title: Satellite of Love
+  song_slug: satellite-of-love
+  full_title: Satellite of Love
+- position: 14
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 15
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 16
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 17
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 18
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 19
+  raw_title: ^encore
+  annotation: encore
+- position: 20
+  raw_title: California (All the Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All the Way)
+- position: 21
+  raw_title: Walk on the Wild Side
+  canonical_title: Walk on the Wild Side
+  song_slug: walk-on-the-wild-side
+  full_title: Walk on the Wild Side

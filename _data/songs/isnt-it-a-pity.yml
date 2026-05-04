@@ -1,0 +1,226 @@
+title: Isn't It a Pity
+slug: isnt-it-a-pity
+sort_title: ISNT IT A PITY
+authors: George Harrison
+original_artist: Harrison, George
+originals_url: https://www.fullofwishes.co.uk/2013/10/23/originals-isnt-it-a-pity-by-george-harrison-covered-by-galaxie-500/
+lyrics: 'Isn''t it a pity
+
+  Isn''t it a shame
+
+  How we break each other''s hearts
+
+  And cause each other pain?
+
+  How we take each other''s love
+
+  Without thinking anymore
+
+  Forgetting to give back
+
+  Isn''t it a pity?
+
+
+  Some things take so long
+
+  And how do I explain?
+
+  But not too many people
+
+  Can see we''re all the same
+
+  And because of all their tears
+
+  Their eyes can''t hope to see
+
+  The beauty that surrounds them
+
+  Oh isn''t it a pity?
+
+
+  Isn''t it a pity
+
+  Isn''t it a shame
+
+  How we break each other''s hearts
+
+  And cause each other pain?
+
+  How we take each other''s love
+
+  Without thinking anymore
+
+  Forgetting to give back
+
+  Isn''t it a pity?
+
+
+  Forgetting to give back
+
+  Isn''t it a pity?
+
+  Forgetting to give back
+
+  Isn''t it a pity?
+
+
+  What a pity'
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Isn't It a Pity
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH CD 146
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH 146
+      side: B
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: EPGJPPTGJC
+      side: B
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: MC
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH C146
+      side: B
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1120
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1369
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74 CD
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10357
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74
+      side: B
+      position: 10
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.08LP
+      side: B
+      position: 10
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: B
+      position: 20
+    played_live:
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 12
+    - show_slug: dean-wareham-2023-03-12-nachtasyl-hamburg-germany
+      date: '2023-03-12'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 12

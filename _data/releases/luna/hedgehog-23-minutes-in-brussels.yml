@@ -1,0 +1,101 @@
+title: Hedgehog / 23 Minutes in Brussels
+slug: hedgehog-23-minutes-in-brussels
+release_type: Single
+year: 1995
+act: Luna
+act_slug: luna
+editions:
+- format: '12'
+  country: UK
+  year: 1995
+  label: Beggars Banquet
+  catalogue_no: BBQ59T
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog
+  - position: 2
+    side: A
+    side_position: 2
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 3
+    side: A
+    side_position: 3
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 4
+    side: A
+    side_position: 4
+    title: Happy New Year
+    slug: happy-new-year
+    full_title: Happy New Year
+- format: '7'
+  country: UK
+  year: 1995
+  label: Beggars Banquet
+  catalogue_no: BBQ59
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-hedgehog-23-minutes.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog
+  - position: 2
+    side: A
+    side_position: 2
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 3
+    side: B
+    side_position: 1
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+- format: CD
+  country: UK
+  year: 1995
+  label: Beggars Banquet
+  catalogue_no: BBQ59CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-hedgehog-23-minutes.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog
+  - position: 2
+    side_position: 2
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 3
+    side_position: 3
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 4
+    side_position: 4
+    title: Happy New Year
+    slug: happy-new-year
+    full_title: Happy New Year
+- format: CD
+  country: US
+  year: 1995
+  label: Elektra
+  catalogue_no: PRCD 9373-2
+  notes: Radio promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog

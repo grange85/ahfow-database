@@ -1,0 +1,105 @@
+title: Sadness
+slug: sadness
+sort_title: SADNESS
+authors: Donovan Leitch
+original_artist: Donovan
+lyrics: 'Sadness is in your eye
+
+  Who could have made you cry?
+
+  My lullaby
+
+  Roll along the sleepy dream, deep
+
+  Roll along the sleepy dream, deep
+
+
+  Salty tear down your cheek
+
+  Drowning the words you speak.
+
+  My lullaby can dry your every care
+
+  Roll along the sleepy dream, deep
+
+  Roll along the sleepy dream, deep
+
+
+  Sweet dream, my baby lie
+
+  Here in my arms tonight
+
+  Don''t cry I''ll hold you tight,
+
+  And soothe all your worriy away.
+
+
+  My lullaby can fly you out of there
+
+  Roll along the sleepy dream, deep
+
+  Roll along the sleepy dream -
+
+
+  Sweet dream, my baby lie
+
+  Here in my arms tonight
+
+  Don''t cry I''ll hold you tight,
+
+  And soothe all your worries away.
+
+
+  Sadness is in your eye
+
+  Who could have made you cry?
+
+  Sadness is in your eye
+
+  Sadness'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Sadness
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 3
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 3
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: A
+      position: 3
+    played_live:
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 16

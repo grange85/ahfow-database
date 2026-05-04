@@ -1,0 +1,22 @@
+title: Early Morning
+slug: early-morning
+sort_title: EARLY MORNING
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Early Morning
+    appears_on:
+    - release_title: In the Flesh
+      release_slug: in-the-flesh
+      release_type: Single
+      year: 1997
+      format: '7'
+      country: UK
+      edition_year: 1997
+      label: Trade 2
+      catalogue_no: TRDSC 005
+      side: B
+      position: 2
+    played_live: []

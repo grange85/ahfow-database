@@ -1,0 +1,242 @@
+title: GTX3
+slug: gtx3
+sort_title: GTX3
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: GTX3
+    appears_on:
+    - release_title: A Place of Greater Safety
+      release_slug: a-place-of-greater-safety
+      release_type: Single
+      year: 2017
+      format: '10'
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: DBL-0014
+      side: A
+      position: 1
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 11
+    played_live:
+    - show_slug: luna-2017-10-03-sala-de-camara-del-kursaal-san-sebastian-spain
+      date: '2017-10-03'
+      year: 2017
+      venue: Sala de Camara del Kursaal
+      city: San Sebastian
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-10-06-teatro-jofre-ferrol-spain
+      date: '2017-10-06'
+      year: 2017
+      venue: Teatro Jofre
+      city: Ferrol
+      country: Spain
+      position: 10
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 1
+    - show_slug: luna-2017-10-12-ram-club-valencia-spain
+      date: '2017-10-12'
+      year: 2017
+      venue: Ram Club
+      city: Valencia
+      country: Spain
+      position: 1
+    - show_slug: luna-2017-10-13-kafe-antzokia-bilbao-spain
+      date: '2017-10-13'
+      year: 2017
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 1
+    - show_slug: luna-2017-10-15-teatre-municipal-xesc-forteza-mallorca-spain
+      date: '2017-10-15'
+      year: 2017
+      venue: Teatre Municipal Xesc Forteza
+      city: Mallorca
+      country: Spain
+      position: 1
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-07-the-magic-stick-detroit-mi-usa
+      date: '2017-11-07'
+      year: 2017
+      venue: The Magic Stick
+      city: Detroit
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-08-the-great-hall-toronto-ontario-canada
+      date: '2017-11-08'
+      year: 2017
+      venue: The Great Hall
+      city: Toronto
+      country: Canada
+      position: 1
+    - show_slug: luna-2017-11-11-terminal-west-atlanta-ga-usa
+      date: '2017-11-11'
+      year: 2017
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-14-the-black-cat-washington-dc-usa
+      date: '2017-11-14'
+      year: 2017
+      venue: The Black Cat
+      city: Washington DC
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa
+      date: '2017-11-15'
+      year: 2017
+      venue: Carnegie Lecture Hall
+      city: Pittsburgh
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-16-union-transfer-philadelphia-pa-usa
+      date: '2017-11-16'
+      year: 2017
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-17-soundcheck-wnyc-ny-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Soundcheck
+      city: WNYC
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-18-brooklyn-steel-brooklyn-ny-usa
+      date: '2017-11-18'
+      year: 2017
+      venue: Brooklyn Steel
+      city: Brooklyn
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-20-wfuv-new-york-ny-usa
+      date: '2017-11-20'
+      year: 2017
+      venue: WFUV
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2018-01-11-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-11'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 15
+    - show_slug: luna-2018-01-14-the-casbah-san-diego-ca-usa
+      date: '2018-01-14'
+      year: 2018
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 1
+    - show_slug: luna-2018-01-23-kexp-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: luna-2018-01-23-the-neptune-theatre-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: The Neptune Theatre
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 1
+    - show_slug: luna-2018-01-26-the-fillmore-san-francisco-ca-usa
+      date: '2018-01-26'
+      year: 2018
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: luna-2018-04-06-3ten-acl-live-austin-tx-usa
+      date: '2018-04-06'
+      year: 2018
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 1
+    - show_slug: luna-2018-04-07-granada-theater-dallas-tx-usa
+      date: '2018-04-07'
+      year: 2018
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 1
+    - show_slug: luna-2018-08-25-the-sinclair-cambridge-ma-usa
+      date: '2018-08-25'
+      year: 2018
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 1
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 1
+    - show_slug: luna-2018-09-06-academy-islington-london-uk
+      date: '2018-09-06'
+      year: 2018
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 1
+    - show_slug: luna-2018-09-10-atlas-aarhus-denmark
+      date: '2018-09-10'
+      year: 2018
+      venue: Atlas
+      city: Aarhus
+      country: Denmark
+      position: 1
+    - show_slug: luna-2018-09-11-loppen-copenhagen-denmark
+      date: '2018-09-11'
+      year: 2018
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 1
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 1

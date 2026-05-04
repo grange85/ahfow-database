@@ -1,0 +1,20 @@
+title: Just My Imagination (Running Away With Me)
+slug: just-my-imagination-running-away-with-me
+sort_title: JUST MY IMAGINATION (RUNNING AWAY WITH ME
+authors: Whitfield/Strong
+original_artist: The Temptations
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Just My Imagination (Running Away With Me)
+    appears_on: []
+    played_live:
+    - show_slug: luna-1992-09-24-clapham-grand-london-uk
+      date: '1992-09-24'
+      year: 1992
+      venue: Clapham Grand
+      city: London
+      country: UK
+      position: 5

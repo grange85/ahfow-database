@@ -1,0 +1,42 @@
+slug: dean-wareham-2014-04-24-amoeba-records-los-angeles-ca-usa
+date: '2014-04-24'
+year: 2014
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: In-store performance
+venue_name: Amoeba Records
+venue_slug: amoeba-records-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: The Dancer Disappears
+  canonical_title: The Dancer Disappears
+  song_slug: the-dancer-disappears
+  full_title: The Dancer Disappears
+- position: 2
+  raw_title: Holding Pattern
+  canonical_title: Holding Pattern
+  song_slug: holding-pattern
+  full_title: Holding Pattern
+- position: 3
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 4
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 5
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

@@ -1,0 +1,21 @@
+title: Park Slope
+slug: park-slope
+sort_title: PARK SLOPE
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Park Slope
+    appears_on:
+    - release_title: Soundtrack EP
+      release_slug: soundtrack-ep
+      release_type: Single
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Double Feature
+      catalogue_no: DA-DBL-HOLIDAY-001
+      side: A
+      position: 3
+    played_live: []

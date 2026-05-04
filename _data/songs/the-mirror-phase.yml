@@ -1,0 +1,119 @@
+title: The Mirror Phase
+slug: the-mirror-phase
+sort_title: MIRROR PHASE
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Mirror Phase
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Sub Pop
+      catalogue_no: SPCD501
+      position: 1
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Elefant
+      catalogue_no: ER-1079
+      position: 1
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 1
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2012
+      label: Drag City
+      catalogue_no: DC 206CD
+      position: 1
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: A
+      position: 1
+    - release_title: The Sub Pop Years
+      release_slug: the-sub-pop-years
+      release_type: Album
+      year: 2009
+      format: LP
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 10
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-19-tin-angel-philadelphia-pa-usa
+      date: '2000-10-19'
+      year: 2000
+      venue: Tin Angel
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2000-10-31-knitting-factory-los-angeles-ca-usa
+      date: '2000-10-31'
+      year: 2000
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2000-11-03-terrastock-iv-showbox-seattle-wa-usa
+      date: '2000-11-03'
+      year: 2000
+      event: Terrastock IV
+      venue: Showbox
+      city: Seattle
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2002-07-12-taku-taku-kyoto-japan
+      date: '2002-07-12'
+      year: 2002
+      venue: Taku Taku
+      city: Kyoto
+      country: Japan
+      position: 6
+    - show_slug: damon-and-naomi-2002-07-13-namba-osaka-japan
+      date: '2002-07-13'
+      year: 2002
+      venue: Namba
+      city: Osaka
+      country: Japan
+      position: 8
+    - show_slug: damon-and-naomi-2002-07-15-tokuzo-nagoya-japan
+      date: '2002-07-15'
+      year: 2002
+      venue: Tokuzo
+      city: Nagoya
+      country: Japan
+      position: 9
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 9
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 10

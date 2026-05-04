@@ -1,0 +1,67 @@
+title: Bonnie and Clyde
+slug: bonnie-and-clyde
+release_type: Single
+year: 1995
+act: Luna
+act_slug: luna
+editions:
+- format: '12'
+  country: UK
+  year: 1995
+  label: Beggars Banquet
+  catalogue_no: BBQ56T
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Bonnie Parker version
+    full_title: Bonnie and Clyde [Bonnie Parker version]
+  - position: 2
+    side: A
+    side_position: 2
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 3
+    side: B
+    side_position: 1
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 4
+    side: B
+    side_position: 2
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Clyde Barrow version
+    full_title: Bonnie and Clyde [Clyde Barrow version]
+- format: CD
+  country: UK
+  year: 1995
+  label: Beggars Banquet
+  catalogue_no: BBQ56CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Bonnie Parker version
+    full_title: Bonnie and Clyde [Bonnie Parker version]
+  - position: 2
+    side_position: 2
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 3
+    side_position: 3
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 4
+    side_position: 4
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    version_tag: Clyde Barrow version
+    full_title: Bonnie and Clyde [Clyde Barrow version]

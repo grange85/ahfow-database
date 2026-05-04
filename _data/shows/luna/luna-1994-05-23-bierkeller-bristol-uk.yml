@@ -1,0 +1,63 @@
+slug: luna-1994-05-23-bierkeller-bristol-uk
+date: '1994-05-23'
+year: 1994
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: Supporting the AuteursReview and setlist and David Rose's Gig Diaries
+setlist_source: setlist scan
+venue_name: Bierkeller
+venue_slug: bierkeller-bristol-uk
+city: Bristol
+country: UK
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Time
+  canonical_title: Time
+  song_slug: time-cagney-and-lacee
+  full_title: Time
+- position: 2
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All the Way)
+- position: 3
+  raw_title: Thank You for Sending Me an Angel
+  canonical_title: Thank You for Sending Me an Angel
+  song_slug: thank-you-for-sending-me-an-angel
+  full_title: Thank You for Sending Me an Angel
+- position: 4
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 5
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 6
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 7
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 8
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 9
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit

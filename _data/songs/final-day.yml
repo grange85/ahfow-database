@@ -1,0 +1,181 @@
+title: Final Day
+slug: final-day
+sort_title: FINAL DAY
+authors: Moxham
+original_artist: Young Marble Giants, The
+originals_url: https://www.fullofwishes.co.uk/2013/06/12/originals-final-day-by-young-marble-giants-covered-by-galaxie-500/
+lyrics: 'When the rich die last
+
+  Like the rabbits
+
+  Running from a lucky past
+
+  Full of shadow cunning
+
+  And the world lights up
+
+  For the final day
+
+  We will all be poor
+
+  Having had our say
+
+  Put a blanket up on the window pane
+
+  When the baby cries lullaby again
+
+  As the light goes out on the final day
+
+  For the people who never had a say
+
+
+  There is so much noise
+
+  There is too much heat
+
+  And the living floor
+
+  throws you off your feet
+
+  As the final day falls into the night
+
+  There is peace outside
+
+  in the narrow light'
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Final Day
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 13
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 13
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 15
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 15
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: D
+      position: 36
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 23
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 23
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 23
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      position: 3
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 3
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      country: JP
+      edition_year: 1998
+      label: Rykodisc
+      position: 3
+    - release_title: Peel Sessions
+      release_slug: peel-sessions
+      release_type: Album
+      year: 2005
+      format: CD
+      country: US
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.02'
+      position: 2
+    played_live:
+    - show_slug: galaxie-500-1990-05-16-upstairs-at-the-middle-east-cambridge-ma-usa
+      date: '1990-05-16'
+      year: 1990
+      venue: Upstairs at The Middle East
+      city: Cambridge
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1990-11-04-bbc-radio-one-london-uk
+      date: '1990-11-04'
+      year: 1990
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 4

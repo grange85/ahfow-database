@@ -1,0 +1,33 @@
+slug: luna-2004-12-17-wxpn-philadelphia-pa-usa
+date: '2004-12-17'
+year: 2004
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: Recorded 2004-12-17Broadcast 2005-02-05  TRUE
+venue_name: WXPN
+venue_slug: wxpn-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 2
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 3
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown

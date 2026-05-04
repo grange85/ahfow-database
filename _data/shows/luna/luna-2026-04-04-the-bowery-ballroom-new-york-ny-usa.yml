@@ -1,0 +1,115 @@
+slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+date: '2026-04-04'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+support: The CFR|The Weeds of Eden|Dean & Britta
+ticket_url: https://www.ticketmaster.com/event/00006379BA77AC36
+notes: The support were unable to make it so Luna members and their friends played
+  a short set.
+venue_name: The Bowery Ballroom
+venue_slug: the-bowery-ballroom-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^support set
+  annotation: support set
+- position: 2
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive
+- position: 3
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 4
+  raw_title: ^luna set
+  annotation: luna set
+- position: 5
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 6
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 7
+  raw_title: Cindy Tastes of Barbecue
+  canonical_title: Cindy Tastes of Barbecue
+  song_slug: cindy-tastes-of-barbecue
+  full_title: Cindy Tastes of Barbecue
+- position: 8
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 9
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 10
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 11
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 12
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 13
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 14
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 15
+  raw_title: New Sensations
+  canonical_title: New Sensations
+  song_slug: new-sensations
+  full_title: New Sensations
+- position: 16
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 17
+  raw_title: ^encore
+  annotation: encore
+- position: 18
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 19
+  raw_title: Satellite of Love
+  canonical_title: Satellite of Love
+  song_slug: satellite-of-love
+  full_title: Satellite of Love
+- position: 20
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

@@ -1,0 +1,47 @@
+title: I Wanna Live
+slug: i-wanna-live
+sort_title: I WANNA LIVE
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: I Wanna Live
+    appears_on:
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 10
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: B
+      position: 10
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: B
+      position: 10
+    played_live:
+    - show_slug: galaxie-500-1988-12-16-rat-boston-ma-usa
+      date: '1988-12-16'
+      year: 1988
+      venue: Rat
+      city: Boston
+      country: USA
+      position: 6

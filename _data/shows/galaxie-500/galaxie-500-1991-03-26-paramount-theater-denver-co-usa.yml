@@ -1,0 +1,58 @@
+slug: galaxie-500-1991-03-26-paramount-theater-denver-co-usa
+date: '1991-03-26'
+year: 1991
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: Supporting The Cocteau Twins
+setlist_source: recording
+venue_name: Paramount Theater
+venue_slug: paramount-theater-denver-co-usa
+city: Denver
+state: CO
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 2
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 3
+  raw_title: Sorry
+  canonical_title: Sorry
+  song_slug: sorry
+  full_title: Sorry
+- position: 4
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 5
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 6
+  raw_title: Melt Away
+  canonical_title: Melt Away
+  song_slug: melt-away
+  full_title: Melt Away
+- position: 7
+  raw_title: Listen, The Snow is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+audio:
+- audio_type: Stream
+  url: https://www.fullofwishes.co.uk/2021/03/26/audio-galaxie-500-denver-1991/
+  label: A Head Full of Wishes

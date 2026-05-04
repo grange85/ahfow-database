@@ -1,0 +1,509 @@
+title: I Can't Wait
+slug: i-cant-wait
+sort_title: I CANT WAIT
+lyrics: 'Maybe I was bad as the ones I hate
+
+  Maybe I was dumb, but I can''t wait
+
+  Maybe what you said is not so cool
+
+  Maybe what you did is just too cruel
+
+
+  I can''t tell what it takes
+
+  I can''t wait for today
+
+
+  Scary lookin guys walk down my street
+
+  Scary lookin suits I don''t wanna meet
+
+  Maybe I was bad as the ones I hate
+
+  Maybe I was dumb, but I can''t wait
+
+
+  I can''t tell what it takes
+
+  I can''t wait for today
+
+
+  I can''t tell what it takes
+
+  I can''t tell what it takes
+
+  I can''t wait for today
+
+  I can''t wait for today'
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: I Can't Wait
+    appears_on:
+    - release_title: Anesthesia
+      release_slug: anesthesia
+      release_type: Single
+      year: 1991
+      format: '12'
+      edition_year: 1991
+      label: Mint Tea
+      catalogue_no: MINT6T
+      side: B
+      position: 2
+    - release_title: Anesthesia
+      release_slug: anesthesia
+      release_type: Single
+      year: 1991
+      format: '7'
+      edition_year: 1991
+      label: No. 6 Records
+      catalogue_no: KAR 019
+      side: B
+      position: 2
+    - release_title: Anesthesia
+      release_slug: anesthesia
+      release_type: Single
+      year: 1991
+      format: CD
+      edition_year: 1991
+      label: Mint Tea
+      catalogue_no: MINT6CD
+      position: 2
+    - release_title: Speed Dating
+      release_slug: speed-dating
+      release_type: Compilation
+      year: 2009
+      format: 2xCD
+      edition_year: 2009
+      label: No. 6
+      catalogue_no: KAR006
+      position: 2
+    played_live: []
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: I Can't Wait
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: B
+      position: 7
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: B
+      position: 7
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 7
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-1992-01-17-cbgbs-new-york-ny-usa
+      date: '1992-01-17'
+      year: 1992
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 10
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 10
+    - show_slug: luna-1992-03-01-bbc-radio-one-london-uk
+      date: '1992-03-01'
+      year: 1992
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 4
+    - show_slug: luna-1992-09-24-clapham-grand-london-uk
+      date: '1992-09-24'
+      year: 1992
+      venue: Clapham Grand
+      city: London
+      country: UK
+      position: 2
+    - show_slug: luna-1992-11-04-coach-house-san-juan-capistrano-ca-usa
+      date: '1992-11-04'
+      year: 1992
+      venue: Coach House
+      city: San Juan Capistrano
+      country: USA
+      position: 5
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-1992-11-06-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-06'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 5
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 11
+    - show_slug: luna-1993-06-13-palac-kultury-prague-czech-republic
+      date: '1993-06-13'
+      year: 1993
+      venue: Palac Kultury
+      city: Prague
+      country: Czech Republic
+      position: 6
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 11
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 8
+    - show_slug: luna-1994-07-14-the-roxy-los-angeles-ca-usa
+      date: '1994-07-14'
+      year: 1994
+      venue: The Roxy
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 9
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-1995-12-11-trefcentrum-vk-brussels-belgium
+      date: '1995-12-11'
+      year: 1995
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 10
+    - show_slug: luna-2000-07-13-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2000-07-13'
+      year: 2000
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 15
+    - show_slug: luna-2001-08-24-bowery-ballroom-new-york-ny-usa
+      date: '2001-08-24'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2002-02-23-maxwells-hoboken-nj-usa
+      date: '2002-02-23'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 7
+    - show_slug: luna-2002-08-23-southpaw-brooklyn-ny-usa
+      date: '2002-08-23'
+      year: 2002
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 14
+    - show_slug: luna-2004-10-30-maxwells-hoboken-nj-usa
+      date: '2004-10-30'
+      year: 2004
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 18
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 12
+    - show_slug: luna-2004-11-10-blind-pig-ann-arbor-mi-usa
+      date: '2004-11-10'
+      year: 2004
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 17
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-2004-11-18-southgate-house-newport-ky-usa
+      date: '2004-11-18'
+      year: 2004
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 9
+    - show_slug: luna-2004-11-21-cats-cradle-carrboro-nc-usa
+      date: '2004-11-21'
+      year: 2004
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 13
+    - show_slug: luna-2005-01-29-sons-of-hermann-hall-dallas-tx-usa
+      date: '2005-01-29'
+      year: 2005
+      venue: Sons of Hermann Hall
+      city: Dallas
+      country: USA
+      position: 16
+    - show_slug: luna-2005-02-02-club-congress-tucson-az-usa
+      date: '2005-02-02'
+      year: 2005
+      venue: Club Congress
+      city: Tucson
+      country: USA
+      position: 15
+    - show_slug: luna-2005-02-26-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-26'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 17
+    - show_slug: luna-2018-08-24-industry-city-courtyard-brooklyn-ny-usa
+      date: '2018-08-24'
+      year: 2018
+      venue: Industry City Courtyard
+      city: Brooklyn
+      country: USA
+      position: 5
+    - show_slug: luna-2018-08-25-the-sinclair-cambridge-ma-usa
+      date: '2018-08-25'
+      year: 2018
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 6
+    - show_slug: luna-2018-08-31-auditoria-parque-fofo-murcia-spain
+      date: '2018-08-31'
+      year: 2018
+      venue: Auditoria Parque Fofó
+      city: Murcia
+      country: Spain
+      position: 4
+    - show_slug: luna-2019-10-03-space-ballroom-hamden-ct-usa
+      date: '2019-10-03'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 11
+    - show_slug: luna-2021-11-12-white-eagle-hall-jersey-city-nj-usa
+      date: '2021-11-12'
+      year: 2021
+      venue: White Eagle Hall
+      city: Jersey City
+      country: USA
+      position: 1
+    - show_slug: luna-2023-01-13-the-chapel-san-francisco-ca-usa
+      date: '2023-01-13'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: luna-2023-01-17-tractor-tavern-seattle-wa-usa
+      date: '2023-01-17'
+      year: 2023
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: luna-2023-01-19-alladin-theater-portland-or-usa
+      date: '2023-01-19'
+      year: 2023
+      venue: Alladin Theater
+      city: Portland
+      country: USA
+      position: 14
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2023-12-01-teragram-ballroom-los-angeles-ca-usa
+      date: '2023-12-01'
+      year: 2023
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2024-03-13-the-fine-line-minneapolis-mn-usa
+      date: '2024-03-13'
+      year: 2024
+      venue: The Fine Line
+      city: Minneapolis
+      country: USA
+      position: 4
+    - show_slug: luna-2024-03-15-lincoln-hall-chicago-il-usa
+      date: '2024-03-15'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 2
+    - show_slug: luna-2025-12-05-paramount-theatre-austin-tx-usa
+      date: '2025-12-05'
+      year: 2025
+      venue: Paramount Theatre
+      city: Austin
+      country: USA
+      position: 4
+    - show_slug: luna-2025-12-06-granada-theater-dallas-tx-usa
+      date: '2025-12-06'
+      year: 2025
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 6
+    - show_slug: luna-2025-12-28-fillmore-san-francisco-ca-usa
+      date: '2025-12-28'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 6
+  - version_tag: Fun city demo
+    full_title: I Can't Wait [Fun city demo]
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: C
+      position: 14
+    played_live: []

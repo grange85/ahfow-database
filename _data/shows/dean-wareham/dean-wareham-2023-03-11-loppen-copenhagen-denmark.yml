@@ -1,0 +1,113 @@
+slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+date: '2023-03-11'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Derek See -
+  guitar|Roger Brogan - drums
+series: Dean Wareham plays Galaxie 500
+ticket_url: https://tikkio.com/tickets/14736-dean-wareham-us-pa-loppen
+notes: Dean Wareham plays Galaxie 500's On Fire + more.
+venue_name: Loppen
+venue_slug: loppen-copenhagen-denmark
+city: Copenhagen
+country: Denmark
+venue_url: http://loppen.dk/kalender/dean-wareham
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: The Past Is Our Plaything
+  canonical_title: The Past Is Our Plaything
+  song_slug: the-past-is-our-plaything
+  full_title: The Past Is Our Plaything
+- position: 2
+  raw_title: The Last Word
+  canonical_title: The Last Word
+  song_slug: the-last-word
+  full_title: The Last Word
+- position: 3
+  raw_title: Robin and Richard
+  canonical_title: Robin and Richard
+  song_slug: robin-and-richard
+  full_title: Robin and Richard
+- position: 4
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 5
+  raw_title: Tell Me
+  canonical_title: Tell Me
+  song_slug: tell-me
+  full_title: Tell Me
+- position: 6
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 7
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 8
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 9
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day
+- position: 10
+  raw_title: Leave the Planet
+  canonical_title: Leave the Planet
+  song_slug: leave-the-planet
+  full_title: Leave the Planet
+- position: 11
+  raw_title: Plastic Bird
+  canonical_title: Plastic Bird
+  song_slug: plastic-bird
+  full_title: Plastic Bird
+- position: 12
+  raw_title: Isn't It a Pity
+  canonical_title: Isn't It a Pity
+  song_slug: isnt-it-a-pity
+  full_title: Isn't It a Pity
+- position: 13
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 16
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 17
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 18
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 19
+  raw_title: Victory Garden
+  canonical_title: Victory Garden
+  song_slug: victory-garden
+  full_title: Victory Garden

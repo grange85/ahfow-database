@@ -1,0 +1,217 @@
+title: Romantica
+slug: romantica
+release_type: Album
+year: 2002
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_romantica.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: GB
+  year: 2002
+  label: Beggars Banquet
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 2
+    side_position: 2
+    title: Weird and Woozy
+    slug: weird-and-woozy
+    full_title: Weird and Woozy
+  - position: 3
+    side_position: 3
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 4
+    side_position: 4
+    title: Black Champagne
+    slug: black-champagne
+    full_title: Black Champagne
+  - position: 5
+    side_position: 5
+    title: Swedish Fish
+    slug: swedish-fish
+    full_title: Swedish Fish
+  - position: 6
+    side_position: 6
+    title: Renee Is Crying
+    slug: renee-is-crying
+    full_title: Renee Is Crying
+  - position: 7
+    side_position: 7
+    title: Mermaid Eyes
+    slug: mermaid-eyes
+    full_title: Mermaid Eyes
+  - position: 8
+    side_position: 8
+    title: '1995'
+    slug: '1995'
+    full_title: '1995'
+  - position: 9
+    side_position: 9
+    title: Rememories
+    slug: rememories
+    full_title: Rememories
+  - position: 10
+    side_position: 10
+    title: Dizzy
+    slug: dizzy
+    full_title: Dizzy
+  - position: 11
+    side_position: 11
+    title: Orange Peel
+    slug: orange-peel
+    full_title: Orange Peel
+  - position: 12
+    side_position: 12
+    title: Romantica
+    slug: romantica
+    full_title: Romantica
+- format: CD
+  country: US
+  year: 2002
+  label: Jetset Records
+  catalogue_no: JETS 44
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 2
+    side_position: 2
+    title: Weird and Woozy
+    slug: weird-and-woozy
+    full_title: Weird and Woozy
+  - position: 3
+    side_position: 3
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 4
+    side_position: 4
+    title: Black Champagne
+    slug: black-champagne
+    full_title: Black Champagne
+  - position: 5
+    side_position: 5
+    title: Swedish Fish
+    slug: swedish-fish
+    full_title: Swedish Fish
+  - position: 6
+    side_position: 6
+    title: Renee Is Crying
+    slug: renee-is-crying
+    full_title: Renee Is Crying
+  - position: 7
+    side_position: 7
+    title: Mermaid Eyes
+    slug: mermaid-eyes
+    full_title: Mermaid Eyes
+  - position: 8
+    side_position: 8
+    title: '1995'
+    slug: '1995'
+    full_title: '1995'
+  - position: 9
+    side_position: 9
+    title: Rememories
+    slug: rememories
+    full_title: Rememories
+  - position: 10
+    side_position: 10
+    title: Dizzy
+    slug: dizzy
+    full_title: Dizzy
+  - position: 11
+    side_position: 11
+    title: Orange Peel
+    slug: orange-peel
+    full_title: Orange Peel
+  - position: 12
+    side_position: 12
+    title: Romantica
+    slug: romantica
+    full_title: Romantica
+- format: LP
+  country: US
+  year: 2012
+  label: Double Feature
+  sleeve_url: https://media.fullofwishes.co.uk/00-misc/my-record-collection/romantica-lp.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 2
+    side: A
+    side_position: 2
+    title: Weird and Woozy
+    slug: weird-and-woozy
+    full_title: Weird and Woozy
+  - position: 3
+    side: A
+    side_position: 3
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 4
+    side: A
+    side_position: 4
+    title: Black Champagne
+    slug: black-champagne
+    full_title: Black Champagne
+  - position: 5
+    side: A
+    side_position: 5
+    title: Swedish Fish
+    slug: swedish-fish
+    full_title: Swedish Fish
+  - position: 6
+    side: A
+    side_position: 6
+    title: Renee Is Crying
+    slug: renee-is-crying
+    full_title: Renee Is Crying
+  - position: 7
+    side: B
+    side_position: 1
+    title: Mermaid Eyes
+    slug: mermaid-eyes
+    full_title: Mermaid Eyes
+  - position: 8
+    side: B
+    side_position: 2
+    title: '1995'
+    slug: '1995'
+    full_title: '1995'
+  - position: 9
+    side: B
+    side_position: 3
+    title: Rememories
+    slug: rememories
+    full_title: Rememories
+  - position: 10
+    side: B
+    side_position: 4
+    title: Dizzy
+    slug: dizzy
+    full_title: Dizzy
+  - position: 11
+    side: B
+    side_position: 5
+    title: Orange Peel
+    slug: orange-peel
+    full_title: Orange Peel
+  - position: 12
+    side: B
+    side_position: 6
+    title: Romantica
+    slug: romantica
+    full_title: Romantica

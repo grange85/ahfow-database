@@ -1,0 +1,91 @@
+slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+date: '2013-11-12'
+year: 2013
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+venue_name: Chapel
+venue_slug: chapel-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Love Is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 2
+  raw_title: The Longest Bridges in The World
+  canonical_title: The Longest Bridges in the World
+  song_slug: the-longest-bridges-in-the-world
+  full_title: The Longest Bridges in the World
+- position: 3
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 4
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 5
+  raw_title: Air
+  canonical_title: Air
+  song_slug: air
+  full_title: Air
+- position: 6
+  raw_title: Tell Me
+  canonical_title: Tell Me
+  song_slug: tell-me
+  full_title: Tell Me
+- position: 7
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 8
+  raw_title: The Deadliest Day Since The Invasion Began
+  canonical_title: The Deadliest Day Since the Invasion Began
+  song_slug: the-deadliest-day-since-the-invasion-began
+  full_title: The Deadliest Day Since the Invasion Began
+- position: 9
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 10
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 11
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 12
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 13
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 14
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 15
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

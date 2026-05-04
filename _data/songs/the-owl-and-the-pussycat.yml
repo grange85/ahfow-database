@@ -1,0 +1,179 @@
+title: The Owl and the Pussycat
+slug: the-owl-and-the-pussycat
+sort_title: OWL AND THE PUSSYCAT
+lyrics: 'Alison Andrews came up to see me
+
+  In a beautiful pea green coat
+
+  She took my pulse, she brought me pills
+
+  Wrapped up in a 5-dollar note
+
+  And hand in hand on the edge of the sand
+
+  we danced by the light of the moon
+
+
+  We drove away for a year and a day
+
+  To the land, where the bong tree grows
+
+  There in the wood a piggy-wig stood
+
+  With a ring at the end of his nose
+
+  Hand in hand on the edge of the sand
+
+  We danced by the light of the moon'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Owl and the Pussycat
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 4
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 4
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 4
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: A
+      position: 4
+    played_live:
+    - show_slug: luna-2004-10-15-astro-hall-tokyo-japan
+      date: '2004-10-15'
+      year: 2004
+      venue: Astro Hall
+      city: Tokyo
+      country: Japan
+      position: 7
+    - show_slug: luna-2004-10-30-maxwells-hoboken-nj-usa
+      date: '2004-10-30'
+      year: 2004
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 4
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 5
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: luna-2004-11-12-abbey-pub-chicago-il-usa
+      date: '2004-11-12'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2004-11-18-southgate-house-newport-ky-usa
+      date: '2004-11-18'
+      year: 2004
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 3
+    - show_slug: luna-2004-11-22-ottobar-baltimore-md-usa
+      date: '2004-11-22'
+      year: 2004
+      venue: Ottobar
+      city: Baltimore
+      country: USA
+      position: 6
+    - show_slug: luna-2005-01-17-bbc-6-music-london-uk
+      date: '2005-01-17'
+      year: 2005
+      venue: BBC 6 Music
+      city: London
+      country: UK
+      position: 2
+    - show_slug: luna-2005-02-03-casbah-san-diego-ca-usa
+      date: '2005-02-03'
+      year: 2005
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-09-wow-eugene-or-usa
+      date: '2005-02-09'
+      year: 2005
+      venue: WOW
+      city: Eugene
+      country: USA
+      position: 5
+    - show_slug: luna-2015-08-03-gorilla-manchester-uk
+      date: '2015-08-03'
+      year: 2015
+      venue: Gorilla
+      city: Manchester
+      country: UK
+      position: 4
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: luna-2020-02-05-teragram-ballroom-los-angeles-ca-usa
+      date: '2020-02-05'
+      year: 2020
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: luna-2020-02-07-the-independent-san-francisco-ca-usa
+      date: '2020-02-07'
+      year: 2020
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 3

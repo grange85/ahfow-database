@@ -1,0 +1,82 @@
+slug: dean-and-britta-2009-06-04-johnny-brendas-philadelphia-pa-usa
+date: '2009-06-04'
+year: 2009
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+setlist_source: Galaxie 500 Mailing List
+venue_name: Johnny Brendas
+venue_slug: johnny-brendas-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Silver Factory Theme
+  canonical_title: Silver Factory Theme
+  song_slug: silver-factory-theme
+  full_title: Silver Factory Theme
+- position: 2
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 3
+  raw_title: Words You Used To Say
+  canonical_title: Words You Used to Say
+  song_slug: words-you-used-to-say
+  full_title: Words You Used to Say
+- position: 4
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 5
+  raw_title: You Turned My Head Around
+  canonical_title: You Turned My Head Around
+  song_slug: you-turned-my-head-around
+  full_title: You Turned My Head Around
+- position: 6
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 7
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 8
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 9
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 10
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 11
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 12
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 13
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

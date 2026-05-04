@@ -1,0 +1,51 @@
+title: The Carnival Is Over
+slug: the-carnival-is-over
+sort_title: CARNIVAL IS OVER
+authors: traditional/Tom Springfield
+original_artist: The Seekers
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: The Carnival Is Over
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 7
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: B
+      position: 7
+    - release_title: The Carnival is Over
+      release_slug: the-carnival-is-over
+      release_type: Single
+      year: 2020
+      format: '7'
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: PIAPTK-285
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 2

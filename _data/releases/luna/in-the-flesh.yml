@@ -1,0 +1,27 @@
+title: In the Flesh
+slug: in-the-flesh
+release_type: Single
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-in-the-flesh.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: UK
+  year: 1997
+  label: Trade 2
+  catalogue_no: TRDSC 005
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-in-the-flesh.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: In the Flesh
+    slug: in-the-flesh
+    full_title: In the Flesh
+  - position: 2
+    side: B
+    side_position: 1
+    title: Early Morning
+    slug: early-morning
+    full_title: Early Morning

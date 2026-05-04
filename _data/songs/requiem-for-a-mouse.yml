@@ -1,0 +1,21 @@
+title: Requiem for a Mouse
+slug: requiem-for-a-mouse
+sort_title: REQUIEM FOR A MOUSE
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Requiem for a Mouse
+    appears_on:
+    - release_title: Dear Diary
+      release_slug: dear-diary
+      release_type: Single
+      year: 1999
+      format: CD
+      country: UK
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQ 340CDP
+      position: 3
+    played_live: []

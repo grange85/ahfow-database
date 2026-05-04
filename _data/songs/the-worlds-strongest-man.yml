@@ -1,0 +1,33 @@
+title: The World's Strongest Man
+slug: the-worlds-strongest-man
+sort_title: WORLD'S STRONGEST MAN
+authors: Scott Walker
+original_artist: Scott Walker
+originals_url: https://www.fullofwishes.co.uk/2014/09/17/originals-worlds-strongest-man-scott-walker-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The World's Strongest Man
+    appears_on:
+    - release_title: Walking Backwards / The World's Strongest Man
+      release_slug: walking-backwards-the-worlds-strongest-man
+      release_type: Single
+      year: 2011
+      format: '7'
+      edition_year: 2011
+      label: Great Pop Supplement
+      catalogue_no: GPS62
+      side: B
+      position: 2
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 3
+    played_live: []

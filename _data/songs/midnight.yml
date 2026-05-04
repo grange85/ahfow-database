@@ -1,0 +1,63 @@
+title: Midnight
+slug: midnight
+sort_title: MIDNIGHT
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Midnight
+    appears_on:
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: Booklet/download
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: A
+      position: 7
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2022
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: B
+      position: 7
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: CD
+      country: JP
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      position: 7
+    played_live:
+    - show_slug: damon-and-naomi-2021-08-12-babys-all-right-brooklyn-ny-usa
+      date: '2021-08-12'
+      year: 2021
+      venue: Baby's All Right
+      city: Brooklyn
+      country: USA
+      position: 9
+    - show_slug: damon-and-naomi-2023-05-10-union-pool-new-york-ny-usa
+      date: '2023-05-10'
+      year: 2023
+      venue: Union Pool
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2026-01-03-cafe-oto-london-uk
+      date: '2026-01-03'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 6

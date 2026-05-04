@@ -1,0 +1,51 @@
+slug: damon-and-naomi-2013-01-27-mains-doeuvres-paris-france
+date: '2013-01-27'
+year: 2013
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+setlist_source: setlist.fm
+venue_name: Mains D'Oeuvres
+venue_slug: mains-doeuvres-paris-france
+city: Paris
+country: France
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 2
+  raw_title: What She Brings
+  canonical_title: What She Brings
+  song_slug: what-she-brings
+  full_title: What She Brings
+- position: 3
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 4
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 5
+  raw_title: The Well
+  canonical_title: The Well
+  song_slug: the-well
+  full_title: The Well
+- position: 6
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 7
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren

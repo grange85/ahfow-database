@@ -1,0 +1,54 @@
+title: What Else Do You Do (A Compilation of Quiet Music)
+slug: what-else-do-you-do-a-compilation-of-quiet-music
+release_type: Compilation
+year: 1990
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+album_artist: Various artists
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: CD
+  year: 1990
+  label: Shimmy Disc
+  catalogue_no: SDE-9021CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile
+- format: LP
+  year: 1990
+  label: Shimmy Disc
+  catalogue_no: SHIMMY 34
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile
+- format: LP
+  year: 1990
+  label: Shimmy Disc
+  catalogue_no: SDE-9021
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile
+- format: LP
+  year: 1990
+  label: Shimmy Disc
+  catalogue_no: SHIMMY 34 CD
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_quietmusic.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Smile
+    slug: smile
+    full_title: Smile

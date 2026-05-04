@@ -1,0 +1,88 @@
+slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+date: '2017-06-08'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Britta Phillips - bass|Dean Wareham - guitar/vocals
+ticket_url: https://www.ticketfly.com/purchase/event/1470512
+venue_name: Sweetwater Music Hall
+venue_slug: sweetwater-music-hall-mill-valley-ca-usa
+city: Mill Valley
+state: CA
+country: USA
+venue_url: http://www.sweetwatermusichall.com/event/1470512-dean-britta-mill-valley/
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 2
+  raw_title: Knives from Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 3
+  raw_title: Hear the Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 4
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 5
+  raw_title: The Sun Is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 6
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 7
+  raw_title: Love Is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 8
+  raw_title: Daydream
+  canonical_title: Daydream
+  song_slug: daydream
+  full_title: Daydream
+- position: 9
+  raw_title: Ingrid Superstar
+  canonical_title: Ingrid Superstar
+  song_slug: ingrid-superstar
+  full_title: Ingrid Superstar
+- position: 10
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 11
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive
+- position: 12
+  raw_title: Happy and Free
+  canonical_title: Happy and Free
+  song_slug: happy-and-free
+  full_title: Happy and Free
+- position: 13
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 14
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

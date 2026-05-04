@@ -1,0 +1,32 @@
+title: Distractions, Pt. 1
+slug: distractions-pt-1
+sort_title: DISTRACTIONS PT. 1
+authors: Bobby Darin
+original_artist: Bobby Darin
+originals_url: https://www.fullofwishes.co.uk/2013/05/08/originals-distractions-pt-1-by-bobby-darin-covered-by-dean-britta/
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Distractions, Pt. 1
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: D
+      position: 20
+    - release_title: Words You Used to Say
+      release_slug: words-you-used-to-say
+      release_type: Single
+      year: 2006
+      format: CD
+      edition_year: 2006
+      label: Zoë
+      catalogue_no: 01143-2009-2
+      position: 5
+    played_live: []

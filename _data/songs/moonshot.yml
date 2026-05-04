@@ -1,0 +1,261 @@
+title: Moonshot
+slug: moonshot
+sort_title: MOONSHOT
+authors: Buffy Saint-Marie
+original_artist: Buffy Saint-Marie
+originals_url: https://www.fullofwishes.co.uk/2014/01/22/originals-moonshot-by-buffy-sainte-marie-covered-by-galaxie-500-and-dean-britta/
+lyrics: 'off into outer space you go my friends
+
+  we wish you bon voyage
+
+  and when you get there we will welcome you again
+
+  and still you''ll wonder at it all
+
+  see all the wonders that you leave behind
+
+  the wonders humble people own
+
+  I know a boy from a tribe so primitive
+
+  he can call me up without no telephone
+
+  see all the wonders that you leave behind
+
+  enshrined in some great hourglass
+
+  the noble tongues, the noble languages
+
+  entombed in some great english class
+
+  off into outer space you go my friends
+
+  we wish you bon voyage
+
+  and when you get there we will welcome you again
+
+  and still you''ll wonder at it all
+
+
+  an anthropologist he wrote a book
+
+  he called it "myths of heaven"
+
+  he''s disappeared, his wife is all distraught
+
+  an angel came and got him
+
+  his hair was light, his eyes were love, his words were true,
+
+  his eys were lapis lazuli
+
+  he spoke in a language oh so primitive
+
+  that he made sense to me
+
+  off into outer space you go my friends
+
+  we wish you bon voyage
+
+  and when you get there we will welcome you again
+
+  and still you''ll wonder at it all'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Moonshot
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: A
+      position: 5
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA59CD
+      position: 5
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: CD-BL-001
+      position: 5
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: LP
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: DBL-001
+      side: A
+      position: 5
+    played_live:
+    - show_slug: dean-and-britta-2003-06-19-great-american-san-francisco-ca-usa
+      date: '2003-06-19'
+      year: 2003
+      venue: Great American
+      city: San Francisco
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2003-06-21-double-door-chicago-il-usa
+      date: '2003-06-21'
+      year: 2003
+      venue: Double Door
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2003-06-24-village-underground-new-york-ny-usa
+      date: '2003-06-24'
+      year: 2003
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2008-02-07-mfa-boston-ma-usa
+      date: '2008-02-07'
+      year: 2008
+      venue: MFA
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2008-02-09-the-mod-club-toronto-ontaria-canada
+      date: '2008-02-09'
+      year: 2008
+      venue: The Mod Club
+      city: Toronto
+      country: Canada
+      position: 4
+    - show_slug: dean-and-britta-2008-02-10-lakeshore-theater-chicago-il-usa
+      date: '2008-02-10'
+      year: 2008
+      venue: Lakeshore Theater
+      city: Chicago
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2008-02-16-aladdin-theater-portland-or-usa
+      date: '2008-02-16'
+      year: 2008
+      venue: Aladdin Theater
+      city: Portland
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2008-02-27-black-cat-washington-dc-usa
+      date: '2008-02-27'
+      year: 2008
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 4
+  - version_tag: Myths Of Heaven
+    full_title: Moonshot [Myths Of Heaven]
+    appears_on:
+    - release_title: Sonic Souvenirs
+      release_slug: sonic-souvenirs
+      release_type: Single
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA68
+      position: 4
+    played_live: []
+  - version_tag: Myths of Heaven
+    full_title: Moonshot [Myths of Heaven]
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: C
+      position: 14
+    played_live: []
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Moonshot
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 17
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 17
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 21
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 21
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 21
+    - release_title: Peel Sessions
+      release_slug: peel-sessions
+      release_type: Album
+      year: 2005
+      format: CD
+      country: US
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.02'
+      position: 4
+    played_live:
+    - show_slug: galaxie-500-1990-11-04-bbc-radio-one-london-uk
+      date: '1990-11-04'
+      year: 1990
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 1

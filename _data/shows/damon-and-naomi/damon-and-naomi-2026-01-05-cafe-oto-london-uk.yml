@@ -1,0 +1,59 @@
+slug: damon-and-naomi-2026-01-05-cafe-oto-london-uk
+date: '2026-01-05'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals|Alabaster
+  dePlume - saxophone|Gina Birch - vocals|Mark Webber - guitar|Marie Merlet - flute/percussion|Laetitia
+  Sadier - vocals/percussion
+support: Gina Birch
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/damon-and-naomi-cafe-oto-2026.jpg
+ticket_url: https://www.cafeoto.co.uk/events/damon-naomi-three-day-residency/
+venue_name: Cafe Oto
+venue_slug: cafe-oto-london-uk
+city: London
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day
+- position: 2
+  raw_title: Sailing By
+  canonical_title: Sailing By
+  song_slug: sailing-by
+  full_title: Sailing By
+- position: 3
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 4
+  raw_title: A Shining Dream
+  canonical_title: A Shining Dream
+  song_slug: a-shining-dream
+  full_title: A Shining Dream
+- position: 5
+  raw_title: The Aftertime
+  canonical_title: The Aftertime
+  song_slug: the-aftertime
+  full_title: The Aftertime
+- position: 6
+  raw_title: Blue Thunder [with Alabaster dePlume and Mark Webber]
+  annotation: with Alabaster dePlume and Mark Webber
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 7
+  raw_title: Listen, The Snow is Falling [with Alabaster dePlume, Mark Webber, Gina
+    Birch, Marie Merlet, Laetitia Sadier]
+  annotation: with Alabaster dePlume, Mark Webber, Gina Birch, Marie Merlet, Laetitia
+    Sadier
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling

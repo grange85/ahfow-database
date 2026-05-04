@@ -1,0 +1,105 @@
+slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+date: '2025-04-14'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Roger Brogan
+  - drums|Matt Popieluch - guitar/keyboards
+ticket_url: https://www.tixforgigs.com/Event/62205
+venue_name: Frannz Club
+venue_slug: frannz-club-berlin-germany
+city: Berlin
+country: Germany
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: New World Julie
+  canonical_title: New World Julie
+  song_slug: new-world-julie
+  full_title: New World Julie
+- position: 2
+  raw_title: Dear Betty Baby
+  canonical_title: Dear Betty Baby
+  song_slug: dear-betty-baby
+  full_title: Dear Betty Baby
+- position: 3
+  raw_title: The Cloud Is Coming
+  canonical_title: The Cloud Is Coming
+  song_slug: the-cloud-is-coming
+  full_title: The Cloud Is Coming
+- position: 4
+  raw_title: Yesterday's Hero
+  canonical_title: Yesterday's Hero
+  song_slug: yesterdays-hero
+  full_title: Yesterday's Hero
+- position: 5
+  raw_title: Bourgeois Manqué
+  canonical_title: Bourgeois Manqué
+  song_slug: bourgeois-manque
+  full_title: Bourgeois Manqué
+- position: 6
+  raw_title: Reich der Träume
+  canonical_title: Reich der Träume
+  song_slug: reich-der-traume
+  full_title: Reich der Träume
+- position: 7
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 8
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 9
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 10
+  raw_title: Just As Much as It Was Worth
+  canonical_title: Just as Much as It Was Worth
+  song_slug: just-as-much-as-it-was-worth
+  full_title: Just as Much as It Was Worth
+- position: 11
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 12
+  raw_title: The Last Word
+  canonical_title: The Last Word
+  song_slug: the-last-word
+  full_title: The Last Word
+- position: 13
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 14
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 17
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 18
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

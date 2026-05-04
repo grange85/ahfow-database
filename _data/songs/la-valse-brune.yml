@@ -1,0 +1,22 @@
+title: La valse brune
+slug: la-valse-brune
+sort_title: VALSE BRUNE
+original_artist: Aristide Bruant
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: La valse brune
+    appears_on:
+    - release_title: Chansons de Vampires
+      release_slug: chansons-de-vampires
+      release_type: Single
+      year: 2023
+      format: '7'
+      edition_year: 2023
+      label: Disques Fantômes
+      catalogue_no: EO-001
+      side: B
+      position: 3
+    played_live: []

@@ -1,0 +1,116 @@
+title: Drive
+slug: drive
+sort_title: DRIVE
+authors: Ric Ocasek
+original_artist: The Cars
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Drive
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 8
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 8
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: B
+      position: 8
+    played_live:
+    - show_slug: britta-phillips-2016-09-29-birchmere-music-hall-alexandria-va-usa
+      date: '2016-09-29'
+      year: 2016
+      venue: Birchmere Music Hall
+      city: Alexandria
+      country: USA
+      position: 6
+    - show_slug: britta-phillips-2016-10-06-o2-academy-oxford-uk
+      date: '2016-10-06'
+      year: 2016
+      venue: O2 Academy
+      city: Oxford
+      country: UK
+      position: 4
+    - show_slug: britta-phillips-2016-10-07-academy-islington-london-uk
+      date: '2016-10-07'
+      year: 2016
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 7
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 11
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: dean-wareham-2025-08-22-with-sea-power-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-22'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 5
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 9
+    - show_slug: dean-and-britta-2025-08-26-the-engine-room-north-shields-uk
+      date: '2025-08-26'
+      year: 2025
+      venue: The Engine Room
+      city: North Shields
+      country: UK
+      position: 8
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2026-04-05-assembly-kingston-ny-usa
+      date: '2026-04-05'
+      year: 2026
+      venue: Assembly
+      city: Kingston
+      country: USA
+      position: 16

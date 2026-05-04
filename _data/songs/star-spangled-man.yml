@@ -1,0 +1,109 @@
+title: Star Spangled Man
+slug: star-spangled-man
+sort_title: STAR SPANGLED MAN
+lyrics: 'High speed train
+
+  French cocaine
+
+  Comfort Station
+
+  Show and tell
+
+  Tell me something nice
+
+  Striped ties
+
+  Denim suit
+
+  Dirty windshield
+
+  Snakeskin boot
+
+  Tell me somthing good
+
+
+  I am waiting for a sign
+
+  I am waiting for a sign
+
+
+  Steven Sprouse
+
+  Chairman mouse
+
+  Chow yun fat
+
+  Geronimo pratt
+
+  Tell me something nice
+
+  Unknown treasures
+
+  Unknown tricks
+
+  Unknown pleasures
+
+  I feel six
+
+  Tell me something good'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Star Spangled Man
+    appears_on:
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: CD
+      country: US
+      edition_year: 2004
+      label: Jetset Records
+      catalogue_no: TWA69CD
+      position: 7
+    - release_title: Rendezvous
+      release_slug: rendezvous
+      release_type: Album
+      year: 2004
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 8
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 7
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-2004-11-15-high-noon-saloon-madison-wi-usa
+      date: '2004-11-15'
+      year: 2004
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 6
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 7

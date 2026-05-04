@@ -1,0 +1,71 @@
+title: The New Historicism
+slug: the-new-historicism
+sort_title: NEW HISTORICISM
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The New Historicism
+    appears_on:
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: CD
+      edition_year: 1995
+      label: Sub Pop
+      catalogue_no: SP322
+      position: 2
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10440
+      position: 2
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: LP
+      edition_year: 1995
+      label: Sub Pop
+      catalogue_no: SP322
+      side: A
+      position: 2
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: LP
+      edition_year: 2013
+      label: 20|20|20
+      catalogue_no: '202020.14'
+      side: B
+      position: 8
+    played_live:
+    - show_slug: damon-and-naomi-1996-03-15-alligator-lounge-santa-monica-ca-usa
+      date: '1996-03-15'
+      year: 1996
+      venue: Alligator Lounge
+      city: Santa Monica
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-1997-04-26-terrastock-providence-ri-usa
+      date: '1997-04-26'
+      year: 1997
+      event: Terrastock
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+      date: '2008-06-14'
+      year: 2008
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 8

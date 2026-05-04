@@ -1,0 +1,70 @@
+slug: dean-wareham-2025-04-27-austin-psych-fest-the-far-out-lounge-austin-tx-usa
+date: '2025-04-27'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals|Roger
+  Brogan - drums
+series: Dean Wareham plays Galaxie 500
+event: Austin Psych Fest
+ticket_url: https://www.seetickets.us/event/AUSTIN-PSYCH-FEST-2025/634244
+setlist_source: video
+venue_name: The Far Out Lounge
+venue_slug: austin-psych-fest-the-far-out-lounge-austin-tx-usa
+city: Austin
+state: TX
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 3
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 4
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 5
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 6
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 7
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 8
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 9
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+audio:
+- audio_type: Stream video
+  url: https://www.youtube.com/watch?v=nx5jXa82QQM
+  label: YouTube

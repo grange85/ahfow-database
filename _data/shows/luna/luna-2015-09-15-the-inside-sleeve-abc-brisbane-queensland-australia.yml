@@ -1,0 +1,27 @@
+slug: luna-2015-09-15-the-inside-sleeve-abc-brisbane-queensland-australia
+date: '2015-09-15'
+year: 2015
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar
+notes: Acoustic live radio session with just Dean and Sean.  TRUE
+venue_name: The Inside Sleeve, ABC
+venue_slug: the-inside-sleeve-abc-brisbane-queensland-australia
+city: Brisbane
+state: Queensland
+country: Australia
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 2
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace

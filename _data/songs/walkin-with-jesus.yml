@@ -1,0 +1,20 @@
+title: Walkin' With Jesus
+slug: walkin-with-jesus
+sort_title: WALKIN WITH JESUS
+authors: Jason Pierce/Pete Kember
+original_artist: Spacemen 3
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Walkin' With Jesus
+    appears_on: []
+    played_live:
+    - show_slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+      date: '2022-11-12'
+      year: 2022
+      venue: Pappy and Harriet's
+      city: Pioneertown
+      country: USA
+      position: 7

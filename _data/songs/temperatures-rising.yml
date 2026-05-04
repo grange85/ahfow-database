@@ -1,0 +1,812 @@
+title: Temperature's Rising
+slug: temperatures-rising
+sort_title: TEMPERATURES RISING
+authors: Krukowski/Wareham/Yang
+lyrics: 'My temperature''s rising, my fingers are tingling
+
+  I''m starting to shake
+
+  I look in the mirror and everything''s funny
+
+  I think you''re a fake
+
+  Why did I do it, how could I say that
+
+  I wanna come down.
+
+  Everything''s swirling and I just forgot
+
+  Why I came to this town
+
+
+  So now I think I''m all tied up
+
+  So now I think I''m tangled up
+
+  Oh, no and I can''t see no more
+
+  Oh, no and I can''t see no more
+
+
+  My temperature''s rising, my fingers are tingling
+
+  I''m starting to shake
+
+  I look in the mirror and everything''s funny
+
+  I think I''m a fake
+
+  Why did I do it, how could I say that
+
+  I wanna come down.
+
+  Everything''s swirling and I just forgot
+
+  Why I came to this town
+
+
+  So now I think I''m all tied up
+
+  So now I think I''m tangled up
+
+  Oh, no and I can''t see no more
+
+  Oh, no and I can''t see no more'
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Temperature's Rising
+    appears_on:
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: Cassette
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 076
+      side: B
+      position: 9
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: 2xLP
+      country: UK
+      edition_year: 2023
+      label: Sonic Cathedral
+      catalogue_no: SCR 276LP
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 12
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 12
+    - show_slug: luna-1992-11-04-coach-house-san-juan-capistrano-ca-usa
+      date: '1992-11-04'
+      year: 1992
+      venue: Coach House
+      city: San Juan Capistrano
+      country: USA
+      position: 6
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: luna-1992-11-06-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-06'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 7
+    - show_slug: luna-1993-03-04-st-andrews-hall-detroit-mi-usa
+      date: '1993-03-04'
+      year: 1993
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2007-01-23-mo-pitkins-new-york-ny-usa
+      date: '2007-01-23'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2008-08-21-the-zipper-factory-new-york-ny-usa
+      date: '2008-08-21'
+      year: 2008
+      venue: The Zipper Factory
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2009-06-04-johnny-brendas-philadelphia-pa-usa
+      date: '2009-06-04'
+      year: 2009
+      venue: Johnny Brendas
+      city: Philadelphia
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2009-06-05-black-cat-washington-dc-usa
+      date: '2009-06-05'
+      year: 2009
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2009-10-17-pure-pop-records-melbourne-victoria-australia
+      date: '2009-10-17'
+      year: 2009
+      venue: Pure Pop Records
+      city: Melbourne
+      country: Australia
+      position: 2
+    - show_slug: dean-and-britta-2010-08-20-the-trocadero-philadelphia-pa-usa
+      date: '2010-08-20'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trocadero
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2010-09-17-the-earl-atlanta-ga-usa
+      date: '2010-09-17'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2010-11-11-the-troubadour-los-angeles-ca-usa
+      date: '2010-11-11'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Troubadour
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2010-11-13-the-fillmore-san-francisco-ca-usa
+      date: '2010-11-13'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2010-11-15-biltmore-cabaret-vancouver-british-columbia-canada
+      date: '2010-11-15'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Biltmore Cabaret
+      city: Vancouver
+      country: Canada
+      position: 3
+    - show_slug: dean-and-britta-2010-12-03-lincoln-hall-chicago-il-usa
+      date: '2010-12-03'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2011-01-13-maxwells-hoboken-nj-usa
+      date: '2011-01-13'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: dean-and-britta-2011-02-18-route-du-rock-st-malo-france
+      date: '2011-02-18'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Route Du Rock
+      city: St Malo
+      country: France
+      position: 3
+    - show_slug: dean-and-britta-2011-05-28-primavera-festival-parc-del-forum-barcelona-spain
+      date: '2011-05-28'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      event: Primavera Festival
+      venue: Parc del Forum
+      city: Barcelona
+      country: Spain
+      position: 2
+    - show_slug: dean-and-britta-2011-06-17-the-bell-house-brooklyn-ny-usa
+      date: '2011-06-17'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2011-07-02-the-wall-livehouse-taipei-taiwan
+      date: '2011-07-02'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Wall Livehouse
+      city: Taipei
+      country: Taiwan
+      position: 3
+    - show_slug: dean-and-britta-2011-10-11-corner-hotel-melbourne-victoria-australia
+      date: '2011-10-11'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Corner Hotel
+      city: Melbourne
+      country: Australia
+      position: 16
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 3
+    - show_slug: dean-and-britta-2012-05-11-1930-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2012-05-11-2230-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2012-07-27-antones-austin-tx-usa
+      date: '2012-07-27'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Antones
+      city: Austin
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 6
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 6
+    - show_slug: dean-wareham-2014-04-04-u-street-washington-dc-usa
+      date: '2014-04-04'
+      year: 2014
+      venue: U Street
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 16
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 6
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 6
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 8
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 13
+    - show_slug: dean-and-britta-2024-12-01-meow-wellington-new-zealand
+      date: '2024-12-01'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: Meow
+      city: Wellington
+      country: New Zealand
+      position: 3
+    - show_slug: dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk
+      date: '2025-04-04'
+      year: 2025
+      venue: The Assembly
+      city: Royal Leamington Spa
+      country: UK
+      position: 17
+    - show_slug: dean-wareham-2025-04-12-aa-theater-groningen-the-netherlands
+      date: '2025-04-12'
+      year: 2025
+      venue: Aa Theater
+      city: Groningen
+      country: The Netherlands
+      position: 17
+    - show_slug: dean-wareham-2025-04-20-sala-upload-barcelona-spain
+      date: '2025-04-20'
+      year: 2025
+      venue: Sala Upload
+      city: Barcelona
+      country: Spain
+      position: 8
+    - show_slug: dean-wareham-2025-04-22-la-lata-de-bombillas-zaragoza-spain
+      date: '2025-04-22'
+      year: 2025
+      venue: La Lata De Bombillas
+      city: Zaragoza
+      country: Spain
+      position: 7
+    - show_slug: dean-wareham-2025-04-25-sala-villanos-madrid-spain
+      date: '2025-04-25'
+      year: 2025
+      venue: Sala Villanos
+      city: Madrid
+      country: Spain
+      position: 7
+    - show_slug: dean-wareham-2025-05-17-the-chapel-san-francisco-ca-usa
+      date: '2025-05-17'
+      year: 2025
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 10
+    - show_slug: dean-wareham-2025-08-20-with-sea-power-the-trades-club-hebden-bridge-uk
+      date: '2025-08-20'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 3
+    - show_slug: dean-and-britta-2025-08-24-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-24'
+      year: 2025
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 3
+    - show_slug: dean-wareham-2025-09-21-woodsist-festival-arrowood-farms-accord-ny-usa
+      date: '2025-09-21'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      event: Woodsist Festival
+      venue: Arrowood Farms
+      city: Accord
+      country: USA
+      position: 2
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Temperature's Rising
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: DE
+      edition_year: 1989
+      label: Schemer
+      catalogue_no: SCHEMER 8905/CD
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1119
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1368
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: NL
+      edition_year: 1989
+      label: Shimmy Disc Europe
+      catalogue_no: SDE 8908 LP
+      side: B
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1991
+      label: Rough Trade America
+      catalogue_no: R266-2
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10356
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 1988
+      label: Aurora Records
+      catalogue_no: AU 002
+      side: B
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 2009
+      label: Domino
+      catalogue_no: REWIGLP69
+      side: B
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.07LP
+      side: B
+      position: 5
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: A
+      position: 5
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 2
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      country: JP
+      edition_year: 1998
+      label: Rykodisc
+      position: 2
+    - release_title: Temperature's Rising
+      release_slug: temperatures-rising
+      release_type: Single
+      year: 2013
+      format: '7'
+      country: US
+      edition_year: 2013
+      label: Yeti Publishing
+      side: A
+      position: 1
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Silver Current
+      position: 8
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Silver Current
+      side: B
+      position: 8
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: MC
+      edition_year: 2025
+      label: Silver Current
+      side: B
+      position: 8
+    played_live:
+    - show_slug: galaxie-500-1988-12-13-cbgbs-new-york-ny-usa
+      date: '1988-12-13'
+      year: 1988
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: galaxie-500-1988-12-16-rat-boston-ma-usa
+      date: '1988-12-16'
+      year: 1988
+      venue: Rat
+      city: Boston
+      country: USA
+      position: 8
+    - show_slug: galaxie-500-1989-04-29-rat-boston-ma-usa
+      date: '1989-04-29'
+      year: 1989
+      venue: Rat
+      city: Boston
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1989-07-19-pyramid-new-york-ny-usa
+      date: '1989-07-19'
+      year: 1989
+      venue: Pyramid
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1989-09-26-ica-london-uk
+      date: '1989-09-26'
+      year: 1989
+      venue: ICA
+      city: London
+      country: UK
+      position: 5
+    - show_slug: galaxie-500-1989-10-31-ecstacy-berlin-germany
+      date: '1989-10-31'
+      year: 1989
+      venue: Ecstacy
+      city: Berlin
+      country: Germany
+      position: 4
+    - show_slug: galaxie-500-1989-11-06-basement-brighton-uk
+      date: '1989-11-06'
+      year: 1989
+      venue: Basement
+      city: Brighton
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1989-11-08-powerhaus-london-uk
+      date: '1989-11-08'
+      year: 1989
+      venue: Powerhaus
+      city: London
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1989-11-15-burgerweehuis-deventer-netherlands
+      date: '1989-11-15'
+      year: 1989
+      venue: Burgerweehuis
+      city: Deventer
+      country: The Netherlands
+      position: 5
+    - show_slug: galaxie-500-1989-11-26-trust-nurenburg-germany
+      date: '1989-11-26'
+      year: 1989
+      venue: Trust
+      city: Nurenburg
+      country: Germany
+      position: 6
+    - show_slug: galaxie-500-1989-11-29-schwimmbad-heidelberg-germany
+      date: '1989-11-29'
+      year: 1989
+      venue: Schwimmbad
+      city: Heidelberg
+      country: Germany
+      position: 6
+    - show_slug: galaxie-500-1989-12-02-forum-enger-germany
+      date: '1989-12-02'
+      year: 1989
+      venue: Forum
+      city: Enger
+      country: Germany
+      position: 5
+    - show_slug: galaxie-500-1989-12-06-riverside-newcastle-uk
+      date: '1989-12-06'
+      year: 1989
+      venue: Riverside
+      city: Newcastle
+      country: UK
+      position: 5
+    - show_slug: galaxie-500-1989-12-08-tech-glasgow-uk
+      date: '1989-12-08'
+      year: 1989
+      venue: Tech
+      city: Glasgow
+      country: UK
+      position: 5
+    - show_slug: galaxie-500-1989-12-12-winkles-bedford-uk
+      date: '1989-12-12'
+      year: 1989
+      venue: Winkles
+      city: Bedford
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1989-12-13-subterania-london-uk
+      date: '1989-12-13'
+      year: 1989
+      venue: Subterania
+      city: London
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1990-01-17-night-stage-cambridge-ma-usa
+      date: '1990-01-17'
+      year: 1990
+      venue: Night Stage
+      city: Cambridge
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1990-01-19-knitting-factory-new-york-ny-usa
+      date: '1990-01-19'
+      year: 1990
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1990-02-11-falcon-london-uk
+      date: '1990-02-11'
+      year: 1990
+      venue: Falcon
+      city: London
+      country: UK
+      position: 11
+    - show_slug: galaxie-500-1990-02-19-tt-the-bears-cambridge-ma-usa
+      date: '1990-02-19'
+      year: 1990
+      venue: TT The Bear's
+      city: Cambridge
+      country: USA
+      position: 7
+    - show_slug: galaxie-500-1990-02-24-maxwells-hoboken-nj-usa
+      date: '1990-02-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1990-03-16-paradise-boston-ma-usa
+      date: '1990-03-16'
+      year: 1990
+      venue: Paradise
+      city: Boston
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1990-03-23-rocket-providence-ri-usa
+      date: '1990-03-23'
+      year: 1990
+      venue: Rocket
+      city: Providence
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1990-03-24-maxwells-hoboken-nj-usa
+      date: '1990-03-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1990-03-25-cactus-club-san-jose-ca-usa
+      date: '1990-03-25'
+      year: 1990
+      venue: Cactus Club
+      city: San Jose
+      country: USA
+      position: 5
+  - version_tag: Commonwealth School, Boston, MA - 1989-04-21
+    full_title: Temperature's Rising [Commonwealth School, Boston, MA - 1989-04-21]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 13
+    played_live: []

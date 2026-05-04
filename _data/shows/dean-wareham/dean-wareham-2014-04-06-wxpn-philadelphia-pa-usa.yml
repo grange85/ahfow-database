@@ -1,0 +1,32 @@
+slug: dean-wareham-2014-04-06-wxpn-philadelphia-pa-usa
+date: '2014-04-06'
+year: 2014
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: Radio session
+venue_name: WXPN
+venue_slug: wxpn-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Holding Pattern
+  canonical_title: Holding Pattern
+  song_slug: holding-pattern
+  full_title: Holding Pattern
+- position: 2
+  raw_title: Heartless People
+  canonical_title: Heartless People
+  song_slug: heartless-people
+  full_title: Heartless People
+- position: 3
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily

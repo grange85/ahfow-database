@@ -1,0 +1,91 @@
+slug: damon-and-naomi-2015-04-11-salon-iksv-istanbul-turkey
+date: '2015-04-11'
+year: 2015
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals
+setlist_source: setlist.fm
+venue_name: Salon IKSV
+venue_slug: salon-iksv-istanbul-turkey
+city: Istanbul
+country: Turkey
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 2
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 3
+  raw_title: Turn of the Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 4
+  raw_title: The Seeker
+  canonical_title: The Seeker
+  song_slug: the-seeker
+  full_title: The Seeker
+- position: 5
+  raw_title: Amnesia
+  canonical_title: Amnesia
+  song_slug: amnesia
+  full_title: Amnesia
+- position: 6
+  raw_title: It's Over
+  canonical_title: It's Over
+  song_slug: its-over
+  full_title: It's Over
+- position: 7
+  raw_title: Reflections
+  canonical_title: Reflections
+  song_slug: reflections
+  full_title: Reflections
+- position: 8
+  raw_title: A Shining Dream
+  canonical_title: A Shining Dream
+  song_slug: a-shining-dream
+  full_title: A Shining Dream
+- position: 9
+  raw_title: Shadows
+  canonical_title: Shadows
+  song_slug: shadows
+  full_title: Shadows
+- position: 10
+  raw_title: Towards Tomorrow
+  canonical_title: Towards Tomorrow
+  song_slug: towards-tomorrow
+  full_title: Towards Tomorrow
+- position: 11
+  raw_title: Sky Memories
+  canonical_title: Sky Memories
+  song_slug: sky-memories
+  full_title: Sky Memories
+- position: 12
+  raw_title: Hurt House
+  canonical_title: Hurt House
+  song_slug: hurt-house
+  full_title: Hurt House
+- position: 13
+  raw_title: The North Light
+  canonical_title: The North Light
+  song_slug: the-north-light
+  full_title: The North Light
+- position: 14
+  raw_title: Time Won't Own Me
+  canonical_title: Time Won't Own Me
+  song_slug: time-wont-own-me
+  full_title: Time Won't Own Me
+- position: 15
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling

@@ -1,0 +1,78 @@
+title: Orange Peel
+slug: orange-peel
+sort_title: ORANGE PEEL
+lyrics: 'Asleep with one eye open
+
+  It''s an innocent dream
+
+  The telephone is singing
+
+  And I''ll do it again
+
+
+  Resting in your yellow room
+
+  Your face looks so surreal
+
+  I kissed you with my rabbit foot
+
+  I made your orange peel
+
+
+  On Christy Street, the sinking sun
+
+  Has set your face ablaze
+
+  Your ruby is weeping
+
+  And you''re all in a daze
+
+  I told you all my riddles
+
+  And I made your sickness heal
+
+  I kissed you with my rabbit''s foot
+
+  I made your orange peel
+
+
+  Shadows on the wall
+
+  Heading for a fall'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Orange Peel
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 11
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 11
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: B
+      position: 11
+    played_live: []

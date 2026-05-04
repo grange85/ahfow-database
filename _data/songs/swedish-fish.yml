@@ -1,0 +1,265 @@
+title: Swedish Fish
+slug: swedish-fish
+sort_title: SWEDISH FISH
+lyrics: 'I''m so tired I did it again
+
+  Trucks are on strike
+
+  And I slept on train
+
+  There''s evil in Sweden
+
+  And Evil in Spain
+
+  Drinking my lunch all over again
+
+
+  Goddess of Shadow
+
+  Lipstick and Scent
+
+  Where did you land?
+
+
+  Apricot candles and blackberry pie
+
+  Is it a time bomb I see in your eye
+
+  I want you forever, forever tonight
+
+  Pulling your hair and holding you tight
+
+
+  Goddess of shadow
+
+  Lipstick and scent
+
+  Where did you land?'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Swedish Fish
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 5
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 5
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 5
+    - release_title: Roundup
+      release_slug: roundup
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Maine Road Management
+      position: 3
+    played_live:
+    - show_slug: luna-2002-02-16-2-brooklyn-museum-brooklyn-ny-usa
+      date: '2002-02-16'
+      year: 2002
+      venue: Brooklyn Museum
+      city: Brooklyn
+      country: USA
+      position: 6
+    - show_slug: luna-2002-02-23-maxwells-hoboken-nj-usa
+      date: '2002-02-23'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-2002-04-27-wfmu-jersey-city-nj-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFMU
+      city: Jersey City
+      country: USA
+      position: 3
+    - show_slug: luna-2002-04-27-wfuv-new-york-ny-usa
+      date: '2002-04-27'
+      year: 2002
+      venue: WFUV
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2002-05-11-borders-bookstore-philadelphia-pa-usa
+      date: '2002-05-11'
+      year: 2002
+      venue: Borders Bookstore
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: luna-2002-05-17-whfs-washington-dc-usa
+      date: '2002-05-17'
+      year: 2002
+      venue: WHFS
+      city: Washington DC
+      country: USA
+      position: 1
+    - show_slug: luna-2002-05-28-highdive-champaign-il-usa
+      date: '2002-05-28'
+      year: 2002
+      venue: Highdive
+      city: Champaign
+      country: USA
+      position: 5
+    - show_slug: luna-2002-06-04-kexp-seattle-wa-usa
+      date: '2002-06-04'
+      year: 2002
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 2
+    - show_slug: luna-2002-06-04-showbox-seattle-wa-usa
+      date: '2002-06-04'
+      year: 2002
+      venue: Showbox
+      city: Seattle
+      country: USA
+      position: 8
+    - show_slug: luna-2002-06-08-bimbos-san-francisco-ca-usa
+      date: '2002-06-08'
+      year: 2002
+      venue: Bimbos
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2002-06-10-kcrw-santa-monica-ca-usa
+      date: '2002-06-10'
+      year: 2002
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 3
+    - show_slug: luna-2002-06-14-la-zona-rosa-austin-tx-usa
+      date: '2002-06-14'
+      year: 2002
+      venue: La Zona Rosa
+      city: Austin
+      country: USA
+      position: 7
+    - show_slug: luna-2002-06-19-40-watt-club-athens-ga-usa
+      date: '2002-06-19'
+      year: 2002
+      venue: 40 Watt Club
+      city: Athens
+      country: USA
+      position: 8
+    - show_slug: luna-2002-06-21-miller-plaza-chattanooga-tn-usa
+      date: '2002-06-21'
+      year: 2002
+      venue: Miller Plaza
+      city: Chattanooga
+      country: USA
+      position: 7
+    - show_slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+      date: '2002-07-20'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: luna-2002-08-20-south-street-seaport-new-york-ny-usa
+      date: '2002-08-20'
+      year: 2002
+      venue: South Street Seaport
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2002-09-21-bottleneck-lawrence-ks-usa
+      date: '2002-09-21'
+      year: 2002
+      venue: Bottleneck
+      city: Lawrence
+      country: USA
+      position: 5
+    - show_slug: luna-2002-10-26-lescalier-liege-belgium
+      date: '2002-10-26'
+      year: 2002
+      venue: LEscalier
+      city: Liege
+      country: Belgium
+      position: 9
+    - show_slug: luna-2002-11-30-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-30'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2003-03-21-2300-knitting-factory-new-york-ny-usa
+      date: '2003-03-21'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2003-07-25-maxwells-hoboken-nj-usa
+      date: '2003-07-25'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-2003-08-22-southpaw-brooklyn-ny-usa
+      date: '2003-08-22'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 2
+    - show_slug: luna-2005-02-02-club-congress-tucson-az-usa
+      date: '2005-02-02'
+      year: 2005
+      venue: Club Congress
+      city: Tucson
+      country: USA
+      position: 11
+    - show_slug: luna-2005-02-10-aladdin-theatre-portland-or-usa
+      date: '2005-02-10'
+      year: 2005
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2005-12-08-paula-cooper-gallery-new-york-ny-usa
+      date: '2005-12-08'
+      year: 2005
+      venue: Paula Cooper Gallery
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2008-03-21-lizard-lounge-cambridge-ma-usa
+      date: '2008-03-21'
+      year: 2008
+      series: Black Postcards book tour
+      venue: Lizard Lounge
+      city: Cambridge
+      country: USA
+      position: 4

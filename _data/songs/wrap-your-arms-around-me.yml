@@ -1,0 +1,27 @@
+title: Wrap Your Arms Around Me
+slug: wrap-your-arms-around-me
+sort_title: WRAP YOUR ARMS AROUND ME
+authors: Chapman/Knight
+original_artist: Agnetha Fältskog
+is_cover: true
+acts:
+- act: Britta Phillips
+  act_slug: britta-phillips
+  versions:
+  - full_title: Wrap Your Arms Around Me
+    appears_on: []
+    played_live:
+    - show_slug: britta-phillips-2016-09-29-birchmere-music-hall-alexandria-va-usa
+      date: '2016-09-29'
+      year: 2016
+      venue: Birchmere Music Hall
+      city: Alexandria
+      country: USA
+      position: 4
+    - show_slug: britta-phillips-2016-10-07-academy-islington-london-uk
+      date: '2016-10-07'
+      year: 2016
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 5

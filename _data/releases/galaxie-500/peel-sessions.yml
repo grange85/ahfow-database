@@ -1,0 +1,54 @@
+title: Peel Sessions
+slug: peel-sessions
+release_type: Album
+year: 2005
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_peelsessions.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: US
+  year: 2005
+  label: 20|20|20
+  catalogue_no: '202020.02'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Submission
+    slug: submission
+    full_title: Submission
+  - position: 2
+    side_position: 2
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 3
+    side_position: 3
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 4
+    side_position: 4
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 5
+    side_position: 5
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 6
+    side_position: 6
+    title: Blue Thunder
+    slug: blue-thunder
+    full_title: Blue Thunder
+  - position: 7
+    side_position: 7
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 8
+    side_position: 8
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste

@@ -1,0 +1,26 @@
+title: Love is Colder Than Death
+slug: love-is-colder-than-death
+release_type: Single
+year: 2013
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_loveiscolderthandeath_01.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '7'
+  year: 2013
+  label: Sonic Cathedral
+  catalogue_no: SCR048
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean_loveiscolderthandeath_01.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Love Is Colder Than Death
+    slug: love-is-colder-than-death
+    full_title: Love Is Colder Than Death
+  - position: 2
+    side: B
+    side_position: 1
+    title: She Went Walking in the Rain
+    slug: she-went-walking-in-the-rain
+    full_title: She Went Walking in the Rain

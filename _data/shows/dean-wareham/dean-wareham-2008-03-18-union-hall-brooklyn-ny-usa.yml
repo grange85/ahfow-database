@@ -1,0 +1,48 @@
+slug: dean-wareham-2008-03-18-union-hall-brooklyn-ny-usa
+date: '2008-03-18'
+year: 2008
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+series: Black Postcards book tour
+notes: Book signing and performance - 7:30pm
+setlist_source: https://www.fullofwishes.co.uk/2008/03/18/dean-wareham-on-wnyc-this-afternoon-and-in-brooklyn-this-evening/#comment-572
+venue_name: Union Hall
+venue_slug: union-hall-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 3
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 4
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 5
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 6
+  raw_title: Teenage Lightning
+  canonical_title: Teenage Lightning
+  song_slug: teenage-lightning
+  full_title: Teenage Lightning

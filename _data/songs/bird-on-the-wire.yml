@@ -1,0 +1,27 @@
+title: Bird on the Wire
+slug: bird-on-the-wire
+sort_title: BIRD ON THE WIRE
+authors: Leonard Cohen
+original_artist: Leonard Cohen
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Bird on the Wire
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-2009-10-16-high-dive-denver-co-usa
+      date: '2009-10-16'
+      year: 2009
+      venue: High Dive
+      city: Denver
+      country: USA
+      position: 8
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 13

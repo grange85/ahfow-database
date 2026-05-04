@@ -1,0 +1,174 @@
+title: Live Rendezvous
+slug: live-rendezvous
+release_type: Album
+year: 2022
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-rendezvous-bandcamp.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: Digital
+  year: 2022
+  label: \[no label\]
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Malibu Love Nest
+    slug: malibu-love-nest
+    full_title: Malibu Love Nest
+  - position: 2
+    side: A
+    side_position: 2
+    title: Cindy Tastes of Barbecue
+    slug: cindy-tastes-of-barbecue
+    full_title: Cindy Tastes of Barbecue
+  - position: 3
+    side: A
+    side_position: 3
+    title: Speedbumps
+    slug: speedbumps
+    full_title: Speedbumps
+  - position: 4
+    side: A
+    side_position: 4
+    title: The Owl and the Pussycat
+    slug: the-owl-and-the-pussycat
+    full_title: The Owl and the Pussycat
+  - position: 5
+    side: A
+    side_position: 5
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 6
+    side: A
+    side_position: 6
+    title: Broken Chair
+    slug: broken-chair
+    full_title: Broken Chair
+  - position: 7
+    side: A
+    side_position: 7
+    title: Star Spangled Man
+    slug: star-spangled-man
+    full_title: Star Spangled Man
+  - position: 8
+    side: A
+    side_position: 8
+    title: Motel Bambi
+    slug: motel-bambi
+    full_title: Motel Bambi
+  - position: 9
+    side: A
+    side_position: 9
+    title: Still at Home
+    slug: still-at-home
+    full_title: Still at Home
+  - position: 10
+    side: A
+    side_position: 10
+    title: Buffalo Boots
+    slug: buffalo-boots
+    full_title: Buffalo Boots
+  - position: 11
+    side: A
+    side_position: 11
+    title: Rainbow Babe
+    slug: rainbow-babe
+    full_title: Rainbow Babe
+  - position: 12
+    side: A
+    side_position: 12
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+- format: 2xLP
+  country: US
+  year: 2023
+  label: Bandbox
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-rendezvous-lp.png
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Malibu Love Nest
+    slug: malibu-love-nest
+    full_title: Malibu Love Nest
+  - position: 2
+    side: A
+    side_position: 2
+    title: Cindy Tastes of Barbecue
+    slug: cindy-tastes-of-barbecue
+    full_title: Cindy Tastes of Barbecue
+  - position: 3
+    side: A
+    side_position: 3
+    title: Speedbumps
+    slug: speedbumps
+    full_title: Speedbumps
+  - position: 4
+    side: A
+    side_position: 4
+    title: The Owl and the Pussycat
+    slug: the-owl-and-the-pussycat
+    full_title: The Owl and the Pussycat
+  - position: 5
+    side: B
+    side_position: 1
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 6
+    side: B
+    side_position: 2
+    title: Broken Chair
+    slug: broken-chair
+    full_title: Broken Chair
+  - position: 7
+    side: B
+    side_position: 3
+    title: Star Spangled Man
+    slug: star-spangled-man
+    full_title: Star Spangled Man
+  - position: 8
+    side: B
+    side_position: 4
+    title: Motel Bambi
+    slug: motel-bambi
+    full_title: Motel Bambi
+  - position: 9
+    side: C
+    side_position: 1
+    title: Still at Home
+    slug: still-at-home
+    full_title: Still at Home
+  - position: 10
+    side: C
+    side_position: 2
+    title: Buffalo Boots
+    slug: buffalo-boots
+    full_title: Buffalo Boots
+  - position: 11
+    side: C
+    side_position: 3
+    title: Rainbow Babe
+    slug: rainbow-babe
+    full_title: Rainbow Babe
+  - position: 12
+    side: D
+    side_position: 1
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+  - position: 13
+    side: D
+    side_position: 2
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 14
+    side: D
+    side_position: 3
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of the Witch

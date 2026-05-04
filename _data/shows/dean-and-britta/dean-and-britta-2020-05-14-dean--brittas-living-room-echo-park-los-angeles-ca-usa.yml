@@ -1,0 +1,79 @@
+slug: dean-and-britta-2020-05-14-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+date: '2020-05-14'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals
+series: live stream
+event: Dean & Britta's living room
+notes: Live stream from Dean & Britta's home in Los Angeles
+venue_name: Echo Park
+venue_slug: dean--brittas-living-room-echo-park-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 3
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 4
+  raw_title: Cheese and Onions
+  canonical_title: Cheese and Onions
+  song_slug: cheese-and-onions
+  full_title: Cheese and Onions
+- position: 5
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 6
+  raw_title: Heartless People
+  canonical_title: Heartless People
+  song_slug: heartless-people
+  full_title: Heartless People
+- position: 7
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 8
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 9
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 10
+  raw_title: Massachusetts
+  canonical_title: Massachusetts
+  song_slug: massachusetts
+  full_title: Massachusetts
+- position: 11
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 12
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

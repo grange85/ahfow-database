@@ -1,0 +1,30 @@
+title: Tomato Poodle
+slug: tomato-poodle
+sort_title: TOMATO POODLE
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Tomato Poodle
+    appears_on:
+    - release_title: Anesthesia
+      release_slug: anesthesia
+      release_type: Single
+      year: 1991
+      format: '12'
+      edition_year: 1991
+      label: Mint Tea
+      catalogue_no: MINT6T
+      side: B
+      position: 3
+    - release_title: Anesthesia
+      release_slug: anesthesia
+      release_type: Single
+      year: 1991
+      format: CD
+      edition_year: 1991
+      label: Mint Tea
+      catalogue_no: MINT6CD
+      position: 3
+    played_live: []

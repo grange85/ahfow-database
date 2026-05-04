@@ -1,0 +1,42 @@
+slug: dean-and-britta-2024-12-13-dean--brittas-basement-echo-park-la-usa
+date: '2024-12-13'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals
+notes: Instagram Live
+venue_name: Dean & Britta's basement
+venue_slug: dean--brittas-basement-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Wonderful Christmastime
+  canonical_title: Wonderful Christmastime
+  song_slug: wonderful-christmastime
+  full_title: Wonderful Christmastime
+- position: 2
+  raw_title: Old Toy Trains
+  canonical_title: Old Toy Trains
+  song_slug: old-toy-trains
+  full_title: Old Toy Trains
+- position: 3
+  raw_title: Do You Know How Christmas Trees Are Grown
+  canonical_title: Do You Know How Christmas Trees Are Grown?
+  song_slug: do-you-know-how-christmas-trees-are-grown
+  full_title: Do You Know How Christmas Trees Are Grown?
+- position: 4
+  raw_title: Peace on Earth / Little Drummer Boy
+  canonical_title: Peace on Earth / Little Drummer Boy
+  song_slug: peace-on-earth-little-drummer-boy
+  full_title: Peace on Earth / Little Drummer Boy
+- position: 5
+  raw_title: Old Toy Trains
+  canonical_title: Old Toy Trains
+  song_slug: old-toy-trains
+  full_title: Old Toy Trains

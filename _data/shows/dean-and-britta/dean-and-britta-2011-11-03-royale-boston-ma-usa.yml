@@ -1,0 +1,56 @@
+slug: dean-and-britta-2011-11-03-royale-boston-ma-usa
+date: '2011-11-03'
+year: 2011
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+venue_name: Royale
+venue_slug: royale-boston-ma-usa
+city: Boston
+state: MA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Hear the Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 2
+  raw_title: Knives from Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 3
+  raw_title: Random Rules
+  canonical_title: Random Rules
+  song_slug: random-rules
+  full_title: Random Rules
+- position: 4
+  raw_title: The Sun is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 5
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 6
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 7
+  raw_title: Listen the Snow is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 8
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder

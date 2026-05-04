@@ -1,0 +1,70 @@
+slug: damon-and-naomi-2002-07-12-taku-taku-kyoto-japan
+date: '2002-07-12'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Taku Taku
+venue_slug: taku-taku-kyoto-japan
+city: Kyoto
+country: Japan
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 2
+  raw_title: Eye Of The Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 3
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 4
+  raw_title: The Great Wall
+  canonical_title: The Great Wall
+  song_slug: the-great-wall
+  full_title: The Great Wall
+- position: 5
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 6
+  raw_title: The Mirror Phase
+  canonical_title: The Mirror Phase
+  song_slug: the-mirror-phase
+  full_title: The Mirror Phase
+- position: 7
+  raw_title: The New World
+  canonical_title: The New World
+  song_slug: the-new-world
+  full_title: The New World
+- position: 8
+  raw_title: I Dreamed of the Caucasus
+  canonical_title: I Dreamed of the Caucasus
+  song_slug: i-dreamed-of-the-caucasus
+  full_title: I Dreamed of the Caucasus
+- position: 9
+  raw_title: Awake in a Muddle
+  canonical_title: Awake in a Muddle
+  song_slug: awake-in-a-muddle
+  full_title: Awake in a Muddle
+- position: 10
+  raw_title: Tanka
+  canonical_title: Tanka
+  song_slug: tanka
+  full_title: Tanka
+- position: 11
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love

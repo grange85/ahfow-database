@@ -1,0 +1,26 @@
+title: I'll Keep It With Mine
+slug: ill-keep-it-with-mine
+release_type: Single
+year: 2010
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-ill-keep-it-with-mine-the-great-pop-supplement.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '7'
+  year: 2010
+  label: Great Pop Supplement
+  catalogue_no: GPS55
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-ill-keep-it-with-mine-the-great-pop-supplement.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: I'll Keep It With Mine
+    slug: ill-keep-it-with-mine
+    full_title: I'll Keep It With Mine
+  - position: 2
+    side: B
+    side_position: 1
+    title: It Don't Rain in Beverly Hills
+    slug: it-dont-rain-in-beverly-hills
+    full_title: It Don't Rain in Beverly Hills

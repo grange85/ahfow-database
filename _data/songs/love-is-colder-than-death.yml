@@ -1,0 +1,184 @@
+title: Love Is Colder Than Death
+slug: love-is-colder-than-death
+sort_title: LOVE IS COLDER THAN DEATH
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Love Is Colder Than Death
+    appears_on:
+    - release_title: Love is Colder Than Death
+      release_slug: love-is-colder-than-death
+      release_type: Single
+      year: 2013
+      format: '7'
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR048
+      side: A
+      position: 1
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 1
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 1
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 047
+      side: A
+      position: 1
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: LP-DBL-010
+      side: A
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 15
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: Cassette
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 076
+      side: A
+      position: 6
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: 2xLP
+      country: UK
+      edition_year: 2023
+      label: Sonic Cathedral
+      catalogue_no: SCR 276LP
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 1
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 1
+    - show_slug: dean-and-britta-2013-12-06-xfm-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: Xfm
+      city: London
+      country: UK
+      position: 1
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 1
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+      date: '2025-08-21'
+      year: 2025
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 4
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 8

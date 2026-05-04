@@ -1,0 +1,63 @@
+title: New Haven Comet
+slug: new-haven-comet
+sort_title: NEW HAVEN COMET
+lyrics: 'I''m late for a date on the way to new haven
+
+  Our clocks run too fast and our heartbeats are haywire
+
+
+  Inside those houses people are livin''
+
+  Toughened by love that no one will give
+
+
+  I''m on your side
+
+  I''m on your side
+
+  I''m on your side
+
+
+  Rattlin'' around in my mini cathedral
+
+  So many problems and our plans are approved
+
+
+  I''m late for a date on the way to new haven
+
+  Our clocks run too fast and our heartbeats are haywire
+
+
+  I''m on your side
+
+  I''m on your side
+
+  I''m on your side'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: New Haven Comet
+    appears_on:
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset
+      catalogue_no: TWA51CD
+      position: 6
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: Digital
+      country: US
+      edition_year: 2011
+      label: Self released
+      side: A
+      position: 6
+    played_live: []

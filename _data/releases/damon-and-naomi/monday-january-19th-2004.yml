@@ -1,0 +1,48 @@
+title: Monday January 19th, 2004
+slug: monday-january-19th-2004
+release_type: Album
+year: 2005
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-19-january-2004.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CDr
+  year: 2005
+  label: (no label)
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Araçá Azul
+    slug: araca-azul
+    full_title: Araçá Azul
+  - position: 2
+    side: A
+    side_position: 2
+    title: The Earth Is Blue
+    slug: the-earth-is-blue
+    full_title: The Earth Is Blue
+  - position: 3
+    side: A
+    side_position: 3
+    title: A Second Life
+    slug: a-second-life
+    full_title: A Second Life
+  - position: 4
+    side: A
+    side_position: 4
+    title: Song to the Siren
+    slug: song-to-the-siren
+    full_title: Song to the Siren
+  - position: 5
+    side: A
+    side_position: 5
+    title: My Flower (Watashi No Hana)
+    slug: my-flower-watashi-no-hana
+    full_title: My Flower (Watashi No Hana)
+  - position: 6
+    side: A
+    side_position: 6
+    title: Love
+    slug: love-the-jacks
+    full_title: Love

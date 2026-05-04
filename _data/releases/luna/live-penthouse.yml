@@ -1,0 +1,168 @@
+title: Live Penthouse
+slug: live-penthouse
+release_type: Album
+year: 2022
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-penthouse-live-bandcamp.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: Digital
+  year: 2022
+  label: \[no label\]
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 2
+    side: A
+    side_position: 2
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 3
+    side: A
+    side_position: 3
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 4
+    side: A
+    side_position: 4
+    title: Double Feature
+    slug: double-feature
+    full_title: Double Feature
+  - position: 5
+    side: A
+    side_position: 5
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 6
+    side: A
+    side_position: 6
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 7
+    side: A
+    side_position: 7
+    title: Rhythm King
+    slug: rhythm-king
+    full_title: Rhythm King
+  - position: 8
+    side: A
+    side_position: 8
+    title: Kalamazoo
+    slug: kalamazoo
+    full_title: Kalamazoo
+  - position: 9
+    side: A
+    side_position: 9
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog
+  - position: 10
+    side: A
+    side_position: 10
+    title: Freakin' and Peakin'
+    slug: freakin-and-peakin
+    full_title: Freakin' and Peakin'
+  - position: 11
+    side: A
+    side_position: 11
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 12
+    side: A
+    side_position: 12
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+- format: 2xLP
+  country: US
+  year: 2023
+  label: Bandbox
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-penthouse-lp.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 2
+    side: A
+    side_position: 2
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 3
+    side: A
+    side_position: 3
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 4
+    side: A
+    side_position: 4
+    title: Double Feature
+    slug: double-feature
+    full_title: Double Feature
+  - position: 5
+    side: B
+    side_position: 1
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 6
+    side: B
+    side_position: 2
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 7
+    side: B
+    side_position: 3
+    title: Rhythm King
+    slug: rhythm-king
+    full_title: Rhythm King
+  - position: 8
+    side: C
+    side_position: 1
+    title: Kalamazoo
+    slug: kalamazoo
+    full_title: Kalamazoo
+  - position: 9
+    side: C
+    side_position: 2
+    title: Hedgehog
+    slug: hedgehog
+    full_title: Hedgehog
+  - position: 10
+    side: C
+    side_position: 3
+    title: Freakin' and Peakin'
+    slug: freakin-and-peakin
+    full_title: Freakin' and Peakin'
+  - position: 11
+    side: C
+    side_position: 4
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 12
+    side: D
+    side_position: 1
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 13
+    side: D
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer

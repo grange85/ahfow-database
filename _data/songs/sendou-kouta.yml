@@ -1,0 +1,28 @@
+title: Sendou Kouta
+slug: sendou-kouta
+sort_title: SENDOU KOUTA
+authors: traditional
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Sendou Kouta
+    appears_on:
+    - release_title: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+      release_slug: shibuya-o-nest-tokyo-japan-june-24-2005
+      release_type: Video
+      year: 2006
+      format: DVD
+      edition_year: 2006
+      label: (no label)
+      side: A
+      position: 13
+    played_live:
+    - show_slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+      date: '2005-06-24'
+      year: 2005
+      venue: Shibuya O-Nest
+      city: Tokyo
+      country: Japan
+      position: 13

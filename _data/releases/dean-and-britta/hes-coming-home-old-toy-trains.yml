@@ -1,0 +1,24 @@
+title: He's Coming Home / Old Toy Trains
+slug: hes-coming-home-old-toy-trains
+release_type: Single
+year: 2007
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '7'
+  year: 2007
+  label: Chimney Rocks!
+  catalogue_no: PAD-002
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: He's Coming Home
+    slug: hes-coming-home
+    full_title: He's Coming Home
+  - position: 2
+    side: B
+    side_position: 1
+    title: Old Toy Trains
+    slug: old-toy-trains
+    full_title: Old Toy Trains

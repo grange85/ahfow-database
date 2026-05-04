@@ -1,0 +1,52 @@
+slug: dean-and-britta-2007-04-06-kcrw-santa-monica-ca-usa
+date: '2007-04-06'
+year: 2007
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: Radio session
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: The Sun Is Still Sunny
+  canonical_title: The Sun Is Still Sunny
+  song_slug: the-sun-is-still-sunny
+  full_title: The Sun Is Still Sunny
+- position: 2
+  raw_title: Singer Sing
+  canonical_title: Singer Sing
+  song_slug: singer-sing
+  full_title: Singer Sing
+- position: 3
+  raw_title: Words You Used To Say
+  canonical_title: Words You Used to Say
+  song_slug: words-you-used-to-say
+  full_title: Words You Used to Say
+- position: 4
+  raw_title: You Turned My Head Around
+  canonical_title: You Turned My Head Around
+  song_slug: you-turned-my-head-around
+  full_title: You Turned My Head Around
+- position: 5
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 6
+  raw_title: Ginger Snaps
+  canonical_title: Ginger Snaps
+  song_slug: ginger-snaps
+  full_title: Ginger Snaps
+- position: 7
+  raw_title: Our Love Will Still Be There
+  canonical_title: Our Love Will Still Be There
+  song_slug: our-love-will-still-be-there
+  full_title: Our Love Will Still Be There

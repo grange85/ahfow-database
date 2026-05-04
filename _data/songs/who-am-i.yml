@@ -1,0 +1,52 @@
+title: Who Am I
+slug: who-am-i
+sort_title: WHO AM I
+authors: J. McDonald
+original_artist: Country Joe and The Fish
+originals_url: https://www.fullofwishes.co.uk/2014/09/10/originals-country-joe-fish-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Who Am I
+    appears_on:
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: CD
+      edition_year: 1995
+      label: Sub Pop
+      catalogue_no: SP322
+      position: 7
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10440
+      position: 7
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: LP
+      edition_year: 1995
+      label: Sub Pop
+      catalogue_no: SP322
+      side: B
+      position: 7
+    - release_title: The Wondrous World of Damon & Naomi
+      release_slug: the-wondrous-world-of-damon-and-naomi
+      release_type: Album
+      year: 1992
+      format: LP
+      edition_year: 2013
+      label: 20|20|20
+      catalogue_no: '202020.14'
+      side: A
+      position: 4
+    played_live: []

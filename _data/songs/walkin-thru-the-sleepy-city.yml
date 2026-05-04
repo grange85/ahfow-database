@@ -1,0 +1,49 @@
+title: (Walkin' Thru The) Sleepy City
+slug: walkin-thru-the-sleepy-city
+sort_title: WALKIN THRU THE) SLEEPY CITY
+authors: Jagger/Richards
+original_artist: The Rolling Stones
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: (Walkin' Thru The) Sleepy City
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 8
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: B
+      position: 8
+    played_live:
+    - show_slug: dean-and-britta-2020-04-28-dean--brittas-living-room-echo-park-la-usa
+      date: '2020-04-28'
+      year: 2020
+      venue: Dean & Britta's living room
+      city: Echo Park
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 10

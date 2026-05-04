@@ -1,0 +1,33 @@
+slug: luna-1992-11-24-wxpn-philadelphia-pa-usa
+date: '1992-11-24'
+year: 1992
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: 'TRUE'
+venue_name: WXPN
+venue_slug: wxpn-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 2
+  raw_title: Time
+  canonical_title: Time
+  song_slug: time-cagney-and-lacee
+  full_title: Time
+- position: 3
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything

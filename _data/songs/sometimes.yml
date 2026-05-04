@@ -1,0 +1,67 @@
+title: Sometimes
+slug: sometimes
+sort_title: SOMETIMES
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Sometimes
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.01'
+      position: 5
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Sonic Unyon
+      catalogue_no: SUNCD105
+      position: 5
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 5
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: P-Vine/20|20|20
+      catalogue_no: PCD 23593
+      position: 5
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: LP
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: 202020.01LP
+      side: A
+      position: 5
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 4
+    played_live: []

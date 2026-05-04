@@ -1,0 +1,395 @@
+title: Spook
+slug: spook
+sort_title: SPOOK
+authors: Krukowski/Wareham/Yang
+lyrics: 'When you went blind
+
+  Then I nearly lost my mind
+
+  It didn''t last
+
+  Cause you have another eyelid
+
+
+  And when you smile
+
+  Then you give yourself away
+
+  It''s all too much
+
+  And you have another eyelid
+
+
+  But when you cry
+
+  Then I know we are in trouble
+
+  It''s all too much
+
+  And you have another eyelid'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Spook
+    appears_on:
+    - release_title: What's Past is Prologue
+      release_slug: whats-past-is-prologue
+      release_type: Album
+      year: 2026
+      format: Digital
+      edition_year: 2026
+      label: (no label)
+      side: A
+      position: 4
+    played_live:
+    - show_slug: dean-wareham-2025-08-20-with-sea-power-the-trades-club-hebden-bridge-uk
+      date: '2025-08-20'
+      year: 2025
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 6
+    - show_slug: dean-and-britta-2025-08-24-krankenhaus-festival-muncaster-castle-ravenglass-uk
+      date: '2025-08-24'
+      year: 2025
+      event: Krankenhaus FestIval
+      venue: Muncaster Castle
+      city: Ravenglass
+      country: UK
+      position: 6
+    - show_slug: damon-and-naomi-2026-01-04-cafe-oto-london-uk
+      date: '2026-01-04'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 10
+      annotation: with Richard Youngs
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Spook
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 3
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 16
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156L
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH 156
+      side: A
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 16
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1990
+      label: Rough Trade America
+      catalogue_no: RUS 86-2
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 3
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.09LP
+      side: A
+      position: 3
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 26
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1371
+      position: 6
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2020
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      side: B
+      position: 6
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10373
+      position: 6
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 6
+    - release_title: Selected
+      release_slug: selected
+      release_type: Album
+      year: 1998
+      format: CD
+      country: JP
+      edition_year: 1998
+      label: Rykodisc
+      position: 6
+    played_live:
+    - show_slug: galaxie-500-1990-05-16-upstairs-at-the-middle-east-cambridge-ma-usa
+      date: '1990-05-16'
+      year: 1990
+      venue: Upstairs at The Middle East
+      city: Cambridge
+      country: USA
+      position: 2
+    - show_slug: galaxie-500-1990-06-26-international-1-manchester-uk
+      date: '1990-06-26'
+      year: 1990
+      venue: International 1
+      city: Manchester
+      country: UK
+      position: 2
+    - show_slug: galaxie-500-1990-06-27-subterania-london-uk
+      date: '1990-06-27'
+      year: 1990
+      venue: Subterania
+      city: London
+      country: UK
+      position: 2
+    - show_slug: galaxie-500-1990-10-11-the-point-atlanta-ga-usa
+      date: '1990-10-11'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1990-10-15-kennel-club-san-francisco-ca-usa
+      date: '1990-10-15'
+      year: 1990
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1990-10-19-cbgbs-new-york-ny-usa
+      date: '1990-10-19'
+      year: 1990
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: galaxie-500-1990-11-03-college-of-building-and-printing-glasgow-uk
+      date: '1990-11-03'
+      year: 1990
+      venue: College of Building and Printing
+      city: Glasgow
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1990-11-15-ulu-london-uk
+      date: '1990-11-15'
+      year: 1990
+      venue: ULU
+      city: London
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1990-11-21-trefcentrum-vk-brussels-belgium
+      date: '1990-11-21'
+      year: 1990
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 7
+    - show_slug: galaxie-500-1990-11-26-batschkapp-frankfurt-germany
+      date: '1990-11-26'
+      year: 1990
+      venue: Batschkapp
+      city: Frankfurt
+      country: Germany
+      position: 8
+    - show_slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+      date: '1990-11-30'
+      year: 1990
+      venue: Markthalle
+      city: Hamburg
+      country: Germany
+      position: 8
+    - show_slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+      date: '1990-12-01'
+      year: 1990
+      venue: Barbue
+      city: Copenhagen
+      country: Denmark
+      position: 6
+    - show_slug: galaxie-500-1991-03-21-warfield-theater-san-francisco-ca-usa
+      date: '1991-03-21'
+      year: 1991
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 4
+  - version_tag: Kennel Club, San Francisco, CA - 1990-10-15
+    full_title: Spook [Kennel Club, San Francisco, CA - 1990-10-15]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 24
+    played_live: []
+  - version_tag: University of London, UK - 1990-11-15
+    full_title: Spook [University of London, UK - 1990-11-15]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Video
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 39
+    played_live: []

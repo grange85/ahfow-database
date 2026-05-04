@@ -1,0 +1,252 @@
+title: Pup Tent
+slug: pup-tent
+release_type: Album
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_puptent.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: UK
+  year: 1997
+  label: Beggars Banquet
+  catalogue_no: BBQCD194
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/pictures/luna_puptent_front.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side_position: 2
+    title: Beautiful View
+    slug: beautiful-view
+    full_title: Beautiful View
+  - position: 3
+    side_position: 3
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 4
+    side_position: 4
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 5
+    side_position: 5
+    title: Beggar's Bliss
+    slug: beggars-bliss
+    full_title: Beggar's Bliss
+  - position: 6
+    side_position: 6
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 7
+    side_position: 7
+    title: Whispers
+    slug: whispers
+    full_title: Whispers
+  - position: 8
+    side_position: 8
+    title: City Kitty
+    slug: city-kitty
+    full_title: City Kitty
+  - position: 9
+    side_position: 9
+    title: The Creeps
+    slug: the-creeps
+    full_title: The Creeps
+  - position: 10
+    side_position: 10
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+- format: LP
+  country: UK
+  year: 1997
+  label: Beggars Banquet
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side: A
+    side_position: 2
+    title: Beautiful View
+    slug: beautiful-view
+    full_title: Beautiful View
+  - position: 3
+    side: A
+    side_position: 3
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 4
+    side: A
+    side_position: 4
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 5
+    side: A
+    side_position: 5
+    title: Beggar's Bliss
+    slug: beggars-bliss
+    full_title: Beggar's Bliss
+  - position: 6
+    side: B
+    side_position: 1
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 7
+    side: B
+    side_position: 2
+    title: Whispers
+    slug: whispers
+    full_title: Whispers
+  - position: 8
+    side: B
+    side_position: 3
+    title: City Kitty
+    slug: city-kitty
+    full_title: City Kitty
+  - position: 9
+    side: B
+    side_position: 4
+    title: The Creeps
+    slug: the-creeps
+    full_title: The Creeps
+  - position: 10
+    side: B
+    side_position: 5
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+- format: CD
+  country: US
+  year: 1997
+  label: Elektra
+  catalogue_no: 62055-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/pictures/luna_puptent_front.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side_position: 2
+    title: Beautiful View
+    slug: beautiful-view
+    full_title: Beautiful View
+  - position: 3
+    side_position: 3
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 4
+    side_position: 4
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 5
+    side_position: 5
+    title: Beggar's Bliss
+    slug: beggars-bliss
+    full_title: Beggar's Bliss
+  - position: 6
+    side_position: 6
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 7
+    side_position: 7
+    title: Whispers
+    slug: whispers
+    full_title: Whispers
+  - position: 8
+    side_position: 8
+    title: City Kitty
+    slug: city-kitty
+    full_title: City Kitty
+  - position: 9
+    side_position: 9
+    title: The Creeps
+    slug: the-creeps
+    full_title: The Creeps
+  - position: 10
+    side_position: 10
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+- format: LP
+  country: US
+  year: 1997
+  label: Teenbeat
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side: A
+    side_position: 2
+    title: Beautiful View
+    slug: beautiful-view
+    full_title: Beautiful View
+  - position: 3
+    side: A
+    side_position: 3
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 4
+    side: A
+    side_position: 4
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 5
+    side: A
+    side_position: 5
+    title: Beggar's Bliss
+    slug: beggars-bliss
+    full_title: Beggar's Bliss
+  - position: 6
+    side: B
+    side_position: 1
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 7
+    side: B
+    side_position: 2
+    title: Whispers
+    slug: whispers
+    full_title: Whispers
+  - position: 8
+    side: B
+    side_position: 3
+    title: City Kitty
+    slug: city-kitty
+    full_title: City Kitty
+  - position: 9
+    side: B
+    side_position: 4
+    title: The Creeps
+    slug: the-creeps
+    full_title: The Creeps
+  - position: 10
+    side: B
+    side_position: 5
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy

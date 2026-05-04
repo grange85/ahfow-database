@@ -1,0 +1,95 @@
+slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+date: '2002-07-18'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Dolphy
+venue_slug: dolphy-yokohama-japan
+city: Yokohama
+country: Japan
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 2
+  raw_title: Eye Of The Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 3
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 4
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 5
+  raw_title: The Great Wall
+  canonical_title: The Great Wall
+  song_slug: the-great-wall
+  full_title: The Great Wall
+- position: 6
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 7
+  raw_title: A Song for You
+  canonical_title: A Song for You
+  song_slug: a-song-for-you
+  full_title: A Song for You
+- position: 8
+  raw_title: My Flower (Watashi No Hana)
+  canonical_title: My Flower (Watashi No Hana)
+  song_slug: my-flower-watashi-no-hana
+  full_title: My Flower (Watashi No Hana)
+- position: 9
+  raw_title: Tanka
+  canonical_title: Tanka
+  song_slug: tanka
+  full_title: Tanka
+- position: 10
+  raw_title: The Mirror Phase
+  canonical_title: The Mirror Phase
+  song_slug: the-mirror-phase
+  full_title: The Mirror Phase
+- position: 11
+  raw_title: Awake in a Muddle
+  canonical_title: Awake in a Muddle
+  song_slug: awake-in-a-muddle
+  full_title: Awake in a Muddle
+- position: 12
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love
+- position: 13
+  raw_title: This Car Climbed Mt. Washington
+  canonical_title: This Car Climbed Mt. Washington
+  song_slug: this-car-climbed-mt-washington
+  full_title: This Car Climbed Mt. Washington
+- position: 14
+  raw_title: Tour Of The World
+  canonical_title: Tour of the World
+  song_slug: tour-of-the-world
+  full_title: Tour of the World
+- position: 15
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 16
+  raw_title: Oh, Sister
+  canonical_title: Oh, Sister
+  song_slug: oh-sister
+  full_title: Oh, Sister

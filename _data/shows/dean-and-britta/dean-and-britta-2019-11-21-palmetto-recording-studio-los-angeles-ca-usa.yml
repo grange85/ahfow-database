@@ -1,0 +1,40 @@
+slug: dean-and-britta-2019-11-21-palmetto-recording-studio-los-angeles-ca-usa
+date: '2019-11-21'
+year: 2019
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass|Dean Wareham - guitar/vocals|Roger Brogan - drums|Jason
+  Quever - guitar
+notes: 'Session recorded for KXLU show Part Time Punks.The date is transmission date.Recorded
+  at Jason Quever''s Palmetto Recording Studio in autumn 2019. Back in the fall of
+  2019 Britta, Roger and I recorded some Galaxie 500 songs for the Part Time Punks
+  radio show that airs weekly at KXLU here in Los Angeles. Jason Quever engineered
+  the session at his Palmetto Recording Studio (Jason also plays some electric guitar,
+  including a nifty solo on “When Will You Come Home”). For April we are posting three
+  songs from that session: “Flowers,” “Victory Garden” and “When Will You Come Home.”Dean
+  Wareham - Patreon, 1st April 2021  TRUE'
+venue_name: Palmetto Recording Studio
+venue_slug: palmetto-recording-studio-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Victory Garden
+  canonical_title: Victory Garden
+  song_slug: victory-garden
+  full_title: Victory Garden
+- position: 3
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home

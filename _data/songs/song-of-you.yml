@@ -1,0 +1,19 @@
+title: Song of You
+slug: song-of-you
+sort_title: SONG OF YOU
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Song of You
+    appears_on:
+    - release_title: Variations
+      release_slug: variations
+      release_type: Single
+      year: 2008
+      format: CD
+      edition_year: 2008
+      label: (no label)
+      position: 6
+    played_live: []

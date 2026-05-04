@@ -1,0 +1,116 @@
+title: Araçá Azul
+slug: araca-azul
+sort_title: ARACA AZUL
+authors: Caetano Veloso
+original_artist: Caetano Veloso
+originals_url: https://www.fullofwishes.co.uk/2013/02/07/originals-araca-azul-by-caetano-veloso-covered-by-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Araçá Azul
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.01'
+      position: 9
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Sonic Unyon
+      catalogue_no: SUNCD105
+      position: 9
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 9
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: P-Vine/20|20|20
+      catalogue_no: PCD 23593
+      position: 9
+    - release_title: Monday January 19th, 2004
+      release_slug: monday-january-19th-2004
+      release_type: Album
+      year: 2005
+      format: CDr
+      edition_year: 2005
+      label: (no label)
+      side: A
+      position: 1
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: LP
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: 202020.01LP
+      side: B
+      position: 9
+    - release_title: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+      release_slug: shibuya-o-nest-tokyo-japan-june-24-2005
+      release_type: Video
+      year: 2006
+      format: DVD
+      edition_year: 2006
+      label: (no label)
+      side: A
+      position: 10
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 10
+    played_live:
+    - show_slug: damon-and-naomi-2004-01-19-mandala-2-tokyo-japan
+      date: '2004-01-19'
+      year: 2004
+      venue: Mandala-2
+      city: Tokyo
+      country: Japan
+      position: 1
+    - show_slug: damon-and-naomi-2005-05-22-music-lovers-field-companion-music-festival-the-sage-gateshead-uk
+      date: '2005-05-22'
+      year: 2005
+      event: Music Lovers Field Companion music festival
+      venue: The Sage
+      city: Gateshead
+      country: UK
+      position: 6
+    - show_slug: damon-and-naomi-2005-06-23-nhk-livebeat-tokyo-japan
+      date: '2005-06-23'
+      year: 2005
+      venue: NHK Livebeat
+      city: Tokyo
+      country: Japan
+      position: 9
+    - show_slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+      date: '2005-06-24'
+      year: 2005
+      venue: Shibuya O-Nest
+      city: Tokyo
+      country: Japan
+      position: 10

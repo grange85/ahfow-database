@@ -1,0 +1,37 @@
+slug: luna-1992-03-01-bbc-radio-one-london-uk
+date: '1992-03-01'
+year: 1992
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums
+notes: Rx - 1992-03-01TX - 1992-04-27Producer - Dale GriffinEngineer - Mike EnglesEngineer
+  - Paul LongStudio - Maida Vale 3Details on the BBC\'s Peel Sessions website  TRUE
+venue_name: BBC Radio One
+venue_slug: bbc-radio-one-london-uk
+city: London
+country: UK
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Crazy People
+  canonical_title: Crazy People
+  song_slug: crazy-people
+  full_title: Crazy People
+- position: 2
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 3
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 4
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait

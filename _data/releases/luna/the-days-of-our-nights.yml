@@ -1,0 +1,300 @@
+title: The Days of Our Nights
+slug: the-days-of-our-nights
+release_type: Album
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_days.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: GB
+  year: 1999
+  label: Beggars Banquet
+  catalogue_no: BBQCD209
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 2
+    side_position: 2
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 3
+    side_position: 3
+    title: The Old Fashioned Way
+    slug: the-old-fashioned-way
+    full_title: The Old Fashioned Way
+  - position: 4
+    side_position: 4
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 5
+    side_position: 5
+    title: Seven Steps to Satan
+    slug: seven-steps-to-satan
+    full_title: Seven Steps to Satan
+  - position: 6
+    side_position: 6
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 7
+    side_position: 7
+    title: Math Wiz
+    slug: math-wiz
+    full_title: Math Wiz
+  - position: 8
+    side_position: 8
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles
+  - position: 9
+    side_position: 9
+    title: The Rustler
+    slug: the-rustler
+    full_title: The Rustler
+  - position: 10
+    side_position: 10
+    title: US Out of My Pants
+    slug: us-out-of-my-pants
+    full_title: US Out of My Pants
+  - position: 11
+    side_position: 11
+    title: The Slow Song
+    slug: the-slow-song
+    full_title: The Slow Song
+  - position: 12
+    side_position: 12
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+- format: LP
+  country: GB
+  year: 1999
+  label: Beggars Banquet
+  catalogue_no: BBQLP209
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 2
+    side: A
+    side_position: 2
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 3
+    side: A
+    side_position: 3
+    title: The Old Fashioned Way
+    slug: the-old-fashioned-way
+    full_title: The Old Fashioned Way
+  - position: 4
+    side: A
+    side_position: 4
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 5
+    side: A
+    side_position: 5
+    title: Seven Steps to Satan
+    slug: seven-steps-to-satan
+    full_title: Seven Steps to Satan
+  - position: 6
+    side: A
+    side_position: 6
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 7
+    side: B
+    side_position: 1
+    title: Math Wiz
+    slug: math-wiz
+    full_title: Math Wiz
+  - position: 8
+    side: B
+    side_position: 2
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles
+  - position: 9
+    side: B
+    side_position: 3
+    title: The Rustler
+    slug: the-rustler
+    full_title: The Rustler
+  - position: 10
+    side: B
+    side_position: 4
+    title: US Out of My Pants
+    slug: us-out-of-my-pants
+    full_title: US Out of My Pants
+  - position: 11
+    side: B
+    side_position: 5
+    title: The Slow Song
+    slug: the-slow-song
+    full_title: The Slow Song
+  - position: 12
+    side: B
+    side_position: 6
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+- format: CD
+  country: US
+  year: 1999
+  label: Jericho
+  catalogue_no: 90003-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 2
+    side_position: 2
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 3
+    side_position: 3
+    title: The Old Fashioned Way
+    slug: the-old-fashioned-way
+    full_title: The Old Fashioned Way
+  - position: 4
+    side_position: 4
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 5
+    side_position: 5
+    title: Seven Steps to Satan
+    slug: seven-steps-to-satan
+    full_title: Seven Steps to Satan
+  - position: 6
+    side_position: 6
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 7
+    side_position: 7
+    title: Math Wiz
+    slug: math-wiz
+    full_title: Math Wiz
+  - position: 8
+    side_position: 8
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles
+  - position: 9
+    side_position: 9
+    title: The Rustler
+    slug: the-rustler
+    full_title: The Rustler
+  - position: 10
+    side_position: 10
+    title: US Out of My Pants
+    slug: us-out-of-my-pants
+    full_title: US Out of My Pants
+  - position: 11
+    side_position: 11
+    title: The Slow Song
+    slug: the-slow-song
+    full_title: The Slow Song
+  - position: 12
+    side_position: 12
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+- format: LP
+  country: US
+  year: 2023
+  label: Real Gone Music
+  catalogue_no: RGM-1574
+  sleeve_url: https://media.fullofwishes.co.uk/00-misc/my-record-collection/the-days-of-our-nights-lp-reissue.jpg
+  notes: 'Available in three colours: 100 copies in cream (exclusive from the label
+    website), 300 copies in powder blue (Rough Trade exclusive), and the remainder
+    in orange swirl.'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 2
+    side: A
+    side_position: 2
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One
+  - position: 3
+    side: A
+    side_position: 3
+    title: The Old Fashioned Way
+    slug: the-old-fashioned-way
+    full_title: The Old Fashioned Way
+  - position: 4
+    side: A
+    side_position: 4
+    title: Four Thousand Days
+    slug: four-thousand-days
+    full_title: Four Thousand Days
+  - position: 5
+    side: A
+    side_position: 5
+    title: Seven Steps to Satan
+    slug: seven-steps-to-satan
+    full_title: Seven Steps to Satan
+  - position: 6
+    side: A
+    side_position: 6
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 7
+    side: B
+    side_position: 1
+    title: Math Wiz
+    slug: math-wiz
+    full_title: Math Wiz
+  - position: 8
+    side: B
+    side_position: 2
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles
+  - position: 9
+    side: B
+    side_position: 3
+    title: The Rustler
+    slug: the-rustler
+    full_title: The Rustler
+  - position: 10
+    side: B
+    side_position: 4
+    title: US Out of My Pants
+    slug: us-out-of-my-pants
+    full_title: US Out of My Pants
+  - position: 11
+    side: B
+    side_position: 5
+    title: The Slow Song
+    slug: the-slow-song
+    full_title: The Slow Song
+  - position: 12
+    side: B
+    side_position: 6
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine

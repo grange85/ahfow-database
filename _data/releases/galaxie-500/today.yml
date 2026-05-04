@@ -1,0 +1,836 @@
+title: Today
+slug: today
+release_type: Album
+year: 1988
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: LP
+  country: US
+  year: 1988
+  label: Aurora Records
+  catalogue_no: AU 002
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side: B
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side: B
+    side_position: 5
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+- format: CD
+  country: DE
+  year: 1989
+  label: Schemer
+  catalogue_no: SCHEMER 8905/CD
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today_schemer_front.jpg
+  ahfow_ref: AHFOW 10/005
+  my_collection_url: https://www.fullofwishes.co.uk/2023/04/20/my-record-collection-027-galaxie-500-today-schemer-cd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side_position: 6
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side_position: 9
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 10
+    side_position: 10
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 11
+    side_position: 11
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+- format: LP
+  country: NL
+  year: 1989
+  label: Shimmy Disc Europe
+  catalogue_no: SDE 8908 LP
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side: B
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side: B
+    side_position: 5
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+- format: CD
+  country: US
+  year: 1991
+  label: Rough Trade America
+  catalogue_no: R266-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side_position: 6
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side_position: 9
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 10
+    side_position: 10
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+- format: CD
+  country: JP
+  year: 1997
+  label: Videoarts Music
+  catalogue_no: VACK-1119
+  notes: 1996 CD remaster by Alan Douches and Kramer
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side_position: 6
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side_position: 9
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 10
+    side_position: 10
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+- format: CD
+  country: US
+  year: 1997
+  label: Rykodisc
+  catalogue_no: RCD 10356
+  notes: 1996 CD remaster by Alan Douches and Kramer
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side_position: 6
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side_position: 9
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 10
+    side_position: 10
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+- format: CD
+  country: JP
+  year: 2008
+  label: Videoarts Music
+  catalogue_no: VACK 1368
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_today_f_vack1368001.jpg
+  notes: 1996 CD remaster by Alan Douches and Kramer
+  ahfow_ref: AHFOW 10/050
+  my_collection_url: https://www.fullofwishes.co.uk/2023/09/21/my-record-collection-071-galaxie-500-today-video-arts-japan-cd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side_position: 6
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side_position: 9
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 10
+    side_position: 10
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+- format: LP
+  country: US
+  year: 2009
+  label: Domino
+  catalogue_no: REWIGLP69
+  notes: 2009 vinyl remaster by Alan Douches and Kramer
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side: B
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side: B
+    side_position: 5
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+- format: LP
+  country: US
+  year: 2009
+  label: 20|20|20
+  catalogue_no: 202020.07LP
+  notes: '- 2009 vinyl remaster by Alan Douches and Kramer
+
+    - 2009 - black vinyl
+
+    - 2019 - maroon swirl vinyl - Newbury Comics exclusive (400 copies)
+
+    - 2022 - glacial blue vinyl - Newbury Comics exclusive (500 copies)'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 6
+    side: B
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Instrumental
+    slug: instrumental
+    full_title: Instrumental
+  - position: 9
+    side: B
+    side_position: 5
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+- format: 2×CD
+  country: GB
+  year: 2010
+  label: Domino
+  catalogue_no: REWIGCD69
+  notes: 1996 CD remaster by Alan Douches and Kramer
+  ahfow_ref: AHFOW 10/006
+  my_collection_url: https://www.fullofwishes.co.uk/2024/06/20/my-record-collection-146-galaxie-500-today-uncollected-2xcd/
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 11
+    side_position: 11
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 12
+    side_position: 12
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 13
+    side_position: 13
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 14
+    side_position: 14
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 15
+    side_position: 15
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 16
+    side_position: 16
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 17
+    side_position: 17
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 18
+    side_position: 18
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 19
+    side_position: 19
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 20
+    side_position: 20
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 21
+    side_position: 21
+    title: Walking Song
+    slug: walking-song
+    full_title: Walking Song
+  - position: 22
+    side_position: 22
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 23
+    side_position: 23
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 24
+    side_position: 24
+    title: Rain
+    slug: rain
+    version_tag: live
+    full_title: Rain [live]
+  - position: 25
+    side_position: 25
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    version_tag: live
+    full_title: Don't Let Our Youth Go to Waste [live]
+  - position: 26
+    side_position: 26
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: video
+    full_title: Blue Thunder [video]
+- format: 2×CD
+  country: US
+  year: 2010
+  label: 20|20|20
+  catalogue_no: '202020.07'
+  notes: 1996 CD remaster by Alan Douches and Kramer
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Hearing Voices
+    slug: hearing-voices
+    full_title: Hearing Voices
+  - position: 3
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 4
+    side_position: 4
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 5
+    side_position: 5
+    title: Way up High
+    slug: way-up-high
+    full_title: Way up High
+  - position: 6
+    side_position: 6
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 7
+    side_position: 7
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 8
+    side_position: 8
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+  - position: 9
+    side_position: 9
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 10
+    side_position: 10
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 11
+    side_position: 11
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 12
+    side_position: 12
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 13
+    side_position: 13
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 14
+    side_position: 14
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 15
+    side_position: 15
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 16
+    side_position: 16
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 17
+    side_position: 17
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 18
+    side_position: 18
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 19
+    side_position: 19
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 20
+    side_position: 20
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 21
+    side_position: 21
+    title: Walking Song
+    slug: walking-song
+    full_title: Walking Song
+  - position: 22
+    side_position: 22
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 23
+    side_position: 23
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 24
+    side_position: 24
+    title: Rain
+    slug: rain
+    version_tag: live
+    full_title: Rain [live]
+  - position: 25
+    side_position: 25
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    version_tag: live
+    full_title: Don't Let Our Youth Go to Waste [live]
+  - position: 26
+    side_position: 26
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: video
+    full_title: Blue Thunder [video]

@@ -1,0 +1,321 @@
+title: L'Avventura
+slug: lavventura
+release_type: Album
+year: 2003
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_lavventura.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: CD
+  year: 2003
+  label: Jetset
+  catalogue_no: TWA59CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Night Nurse
+    slug: night-nurse
+    full_title: Night Nurse
+  - position: 2
+    side_position: 2
+    title: Ginger Snaps
+    slug: ginger-snaps
+    full_title: Ginger Snaps
+  - position: 3
+    side_position: 3
+    title: I Deserve It
+    slug: i-deserve-it
+    full_title: I Deserve It
+  - position: 4
+    side_position: 4
+    title: Out Walking
+    slug: out-walking
+    full_title: Out Walking
+  - position: 5
+    side_position: 5
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 6
+    side_position: 6
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    full_title: Hear the Wind Blow
+  - position: 7
+    side_position: 7
+    title: Your Baby
+    slug: your-baby
+    full_title: Your Baby
+  - position: 8
+    side_position: 8
+    title: Threw It Away
+    slug: threw-it-away
+    full_title: Threw It Away
+  - position: 9
+    side_position: 9
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    full_title: Knives From Bavaria
+  - position: 10
+    side_position: 10
+    title: Random Rules
+    slug: random-rules
+    full_title: Random Rules
+- format: CD
+  year: 2008
+  label: Double Feature
+  catalogue_no: CD-BL-001
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Night Nurse
+    slug: night-nurse
+    full_title: Night Nurse
+  - position: 2
+    side_position: 2
+    title: Ginger Snaps
+    slug: ginger-snaps
+    full_title: Ginger Snaps
+  - position: 3
+    side_position: 3
+    title: I Deserve It
+    slug: i-deserve-it
+    full_title: I Deserve It
+  - position: 4
+    side_position: 4
+    title: Out Walking
+    slug: out-walking
+    full_title: Out Walking
+  - position: 5
+    side_position: 5
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 6
+    side_position: 6
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    full_title: Hear the Wind Blow
+  - position: 7
+    side_position: 7
+    title: Your Baby
+    slug: your-baby
+    full_title: Your Baby
+  - position: 8
+    side_position: 8
+    title: Threw It Away
+    slug: threw-it-away
+    full_title: Threw It Away
+  - position: 9
+    side_position: 9
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    full_title: Knives From Bavaria
+  - position: 10
+    side_position: 10
+    title: Random Rules
+    slug: random-rules
+    full_title: Random Rules
+  - position: 12
+    side_position: 11
+    title: Your Baby
+    slug: your-baby
+    full_title: Your Baby
+  - position: 13
+    side_position: 12
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    full_title: Knives From Bavaria
+  - position: 14
+    side_position: 13
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    full_title: Hear the Wind Blow
+- format: LP
+  year: 2008
+  label: Double Feature
+  catalogue_no: DBL-001
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Night Nurse
+    slug: night-nurse
+    full_title: Night Nurse
+  - position: 2
+    side: A
+    side_position: 2
+    title: Ginger Snaps
+    slug: ginger-snaps
+    full_title: Ginger Snaps
+  - position: 3
+    side: A
+    side_position: 3
+    title: I Deserve It
+    slug: i-deserve-it
+    full_title: I Deserve It
+  - position: 4
+    side: A
+    side_position: 4
+    title: Out Walking
+    slug: out-walking
+    full_title: Out Walking
+  - position: 5
+    side: A
+    side_position: 5
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 6
+    side: B
+    side_position: 1
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    full_title: Hear the Wind Blow
+  - position: 7
+    side: B
+    side_position: 2
+    title: Your Baby
+    slug: your-baby
+    full_title: Your Baby
+  - position: 8
+    side: B
+    side_position: 3
+    title: Threw It Away
+    slug: threw-it-away
+    full_title: Threw It Away
+  - position: 9
+    side: B
+    side_position: 4
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    full_title: Knives From Bavaria
+  - position: 10
+    side: B
+    side_position: 5
+    title: Random Rules
+    slug: random-rules
+    full_title: Random Rules
+- format: 2xLP
+  year: 2024
+  label: Double Feature
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/lavventura-rsd-2lp.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Night Nurse
+    slug: night-nurse
+    full_title: Night Nurse
+  - position: 2
+    side: A
+    side_position: 2
+    title: Ginger Snaps
+    slug: ginger-snaps
+    full_title: Ginger Snaps
+  - position: 3
+    side: A
+    side_position: 3
+    title: I Deserve It
+    slug: i-deserve-it
+    full_title: I Deserve It
+  - position: 4
+    side: A
+    side_position: 4
+    title: Out Walking
+    slug: out-walking
+    full_title: Out Walking
+  - position: 5
+    side: A
+    side_position: 5
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 6
+    side: B
+    side_position: 1
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    full_title: Hear the Wind Blow
+  - position: 7
+    side: B
+    side_position: 2
+    title: Your Baby
+    slug: your-baby
+    full_title: Your Baby
+  - position: 8
+    side: B
+    side_position: 3
+    title: Threw It Away
+    slug: threw-it-away
+    full_title: Threw It Away
+  - position: 9
+    side: B
+    side_position: 4
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    full_title: Knives From Bavaria
+  - position: 10
+    side: B
+    side_position: 5
+    title: Random Rules
+    slug: random-rules
+    full_title: Random Rules
+  - position: 12
+    side: C
+    side_position: 1
+    title: Your Baby
+    slug: your-baby
+    version_tag: Can't Stand the Rain
+    full_title: Your Baby [Can't Stand the Rain]
+  - position: 13
+    side: C
+    side_position: 2
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    version_tag: Spoonful of Fun
+    full_title: Knives From Bavaria [Spoonful of Fun]
+  - position: 14
+    side: C
+    side_position: 3
+    title: Moonshot
+    slug: moonshot
+    version_tag: Myths of Heaven
+    full_title: Moonshot [Myths of Heaven]
+  - position: 15
+    side: C
+    side_position: 4
+    title: Ginger Snaps
+    slug: ginger-snaps
+    version_tag: and Sugar Winks
+    full_title: Ginger Snaps [and Sugar Winks]
+  - position: 16
+    side: D
+    side_position: 1
+    title: Words You Used to Say
+    slug: words-you-used-to-say
+    full_title: Words You Used to Say
+  - position: 17
+    side: D
+    side_position: 2
+    title: We're Not Supposed to Be Lovers
+    slug: were-not-supposed-to-be-lovers
+    full_title: We're Not Supposed to Be Lovers
+  - position: 18
+    side: D
+    side_position: 3
+    title: Since I Lay My Burden Down
+    slug: since-i-lay-my-burden-down
+    full_title: Since I Lay My Burden Down
+  - position: 19
+    side: D
+    side_position: 4
+    title: Colours
+    slug: colours
+    full_title: Colours
+  - position: 20
+    side: D
+    side_position: 5
+    title: Distractions, Pt. 1
+    slug: distractions-pt-1
+    full_title: Distractions, Pt. 1

@@ -1,0 +1,134 @@
+title: Fortune
+slug: fortune
+release_type: Album
+year: 2015
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-fortune.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD
+  year: 2015
+  label: 20|20|20
+  catalogue_no: '202020.15'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: The Seeker
+    slug: the-seeker
+    full_title: The Seeker
+  - position: 2
+    side_position: 2
+    title: Amnesia
+    slug: amnesia
+    full_title: Amnesia
+  - position: 3
+    side_position: 3
+    title: It's Over
+    slug: its-over
+    full_title: It's Over
+  - position: 4
+    side_position: 4
+    title: Reflections
+    slug: reflections
+    full_title: Reflections
+  - position: 5
+    side_position: 5
+    title: A Shining Dream
+    slug: a-shining-dream
+    full_title: A Shining Dream
+  - position: 6
+    side_position: 6
+    title: Shadows
+    slug: shadows
+    full_title: Shadows
+  - position: 7
+    side_position: 7
+    title: Towards Tomorrow
+    slug: towards-tomorrow
+    full_title: Towards Tomorrow
+  - position: 8
+    side_position: 8
+    title: Sky Memories
+    slug: sky-memories
+    full_title: Sky Memories
+  - position: 9
+    side_position: 9
+    title: Hurt House
+    slug: hurt-house
+    full_title: Hurt House
+  - position: 10
+    side_position: 10
+    title: The North Light
+    slug: the-north-light
+    full_title: The North Light
+- format: LP
+  year: 2015
+  label: 20|20|20
+  catalogue_no: 202020.15LP
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: The Seeker
+    slug: the-seeker
+    full_title: The Seeker
+  - position: 2
+    side: A
+    side_position: 2
+    title: Amnesia
+    slug: amnesia
+    full_title: Amnesia
+  - position: 3
+    side: A
+    side_position: 3
+    title: It's Over
+    slug: its-over
+    full_title: It's Over
+  - position: 4
+    side: A
+    side_position: 4
+    title: Reflections
+    slug: reflections
+    full_title: Reflections
+  - position: 5
+    side: A
+    side_position: 5
+    title: A Shining Dream
+    slug: a-shining-dream
+    full_title: A Shining Dream
+  - position: 6
+    side: A
+    side_position: 6
+    title: Shadows
+    slug: shadows
+    full_title: Shadows
+  - position: 7
+    side: B
+    side_position: 1
+    title: Towards Tomorrow
+    slug: towards-tomorrow
+    full_title: Towards Tomorrow
+  - position: 8
+    side: B
+    side_position: 2
+    title: Sky Memories
+    slug: sky-memories
+    full_title: Sky Memories
+  - position: 9
+    side: B
+    side_position: 3
+    title: Hurt House
+    slug: hurt-house
+    full_title: Hurt House
+  - position: 10
+    side: B
+    side_position: 4
+    title: The North Light
+    slug: the-north-light
+    full_title: The North Light
+  - position: 11
+    side: B
+    side_position: 5
+    title: Time Won't Own Me
+    slug: time-wont-own-me
+    full_title: Time Won't Own Me

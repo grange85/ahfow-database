@@ -1,0 +1,40 @@
+title: Chansons de Vampires
+slug: chansons-de-vampires
+release_type: Single
+year: 2023
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-chansons-de-vampires.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '7'
+  year: 2023
+  label: Disques Fantômes
+  catalogue_no: EO-001
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-chansons-de-vampires.jpg
+  notes: Single for Dean & Britta's Patreon subscribers
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Le chat noir
+    slug: le-chat-noir
+    full_title: Le chat noir
+  - position: 2
+    side: A
+    side_position: 2
+    title: La place Maubert
+    slug: la-place-maubert
+    full_title: La place Maubert
+  - position: 3
+    side: B
+    side_position: 1
+    title: La valse brune
+    slug: la-valse-brune
+    full_title: La valse brune
+  - position: 4
+    side: B
+    side_position: 2
+    title: Duchess
+    slug: duchess
+    version_tag: Duchesse
+    full_title: Duchess [Duchesse]

@@ -1,0 +1,36 @@
+slug: dean-and-britta-2024-11-22-dean--brittas-living-room-echo-park-la-usa
+date: '2024-11-22'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals
+notes: Instagram Live
+venue_name: Dean & Britta's living room
+venue_slug: dean--brittas-living-room-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Little Altar Boy
+  canonical_title: Little Altar Boy
+  song_slug: little-altar-boy
+  full_title: Little Altar Boy
+- position: 2
+  raw_title: He's Coming Home
+  canonical_title: He's Coming Home
+  song_slug: hes-coming-home
+  full_title: He's Coming Home
+- position: 3
+  raw_title: Snow is Falling in Manhattan
+  canonical_title: Snow Is Falling in Manhattan
+  song_slug: snow-is-falling-in-manhattan
+  full_title: Snow Is Falling in Manhattan
+audio:
+- audio_type: Stream
+  url: https://youtu.be/7_myrS3Tw3Q
+  label: YouTube

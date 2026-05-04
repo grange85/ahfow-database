@@ -1,0 +1,33 @@
+title: Speedbumps
+slug: speedbumps
+release_type: Single
+year: 2004
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: DE
+  year: 2004
+  label: Little Teddy
+  catalogue_no: LiTe757
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-speedbumps.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Speedbumps
+    slug: speedbumps
+    full_title: Speedbumps
+  - position: 2
+    side: B
+    side_position: 1
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 3
+    side: B
+    side_position: 2
+    title: Eyes in My Smoke
+    slug: eyes-in-my-smoke
+    full_title: Eyes in My Smoke

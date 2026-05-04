@@ -1,0 +1,27 @@
+slug: luna-2005-01-17-bbc-6-music-london-uk
+date: '2005-01-17'
+year: 2005
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: Sean and Dean only  TRUE
+venue_name: BBC 6 Music
+venue_slug: bbc-6-music-london-uk
+city: London
+country: UK
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 2
+  raw_title: The Owl and the Pussycat
+  canonical_title: The Owl and the Pussycat
+  song_slug: the-owl-and-the-pussycat
+  full_title: The Owl and the Pussycat

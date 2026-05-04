@@ -1,0 +1,179 @@
+title: California Blue
+slug: california-blue
+sort_title: CALIFORNIA BLUE
+authors: Orbison/Lynne/Petty
+original_artist: Roy Orbison
+lyrics: 'Working all day
+
+  And the sun don''t shine
+
+  Trying to get by
+
+  And I''m just killin'' time
+
+  I feel the rain
+
+  Fall the whole night through
+
+  Far away from you
+
+  California blue
+
+
+  California blue
+
+  Dreaming all alone
+
+  Nothing else to do
+
+  California blue
+
+  Everyday I pray
+
+  I''ll be on my way
+
+  Saving love for you
+
+  California blue
+
+
+  One sunny day
+
+  I''ll get back again
+
+  Somehow, someway
+
+  But I don''t know when
+
+  California blue
+
+  California blue
+
+
+  Living my life
+
+  With you on my mind
+
+  Thinking of things
+
+  That I left far behind
+
+  It''s been so long
+
+  Doing all I can do
+
+  To get back to you
+
+  California blue
+
+
+  California blue
+
+  Dreaming all alone
+
+  Nothing else to do
+
+  California blue
+
+  Everyday I pray
+
+  I''ll be on my way
+
+  Saving love for you
+
+  California blue
+
+
+  One sunny day
+
+  I''ll get back again
+
+  Somehow, someway
+
+  But I don''t know when
+
+  California blue
+
+  California blue
+
+  Still missing you
+
+  California blue
+
+  Still missing you
+
+  California blue
+
+  Still missing you
+
+  California blue'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: California Blue
+    appears_on:
+    - release_title: Postscripts
+      release_slug: postscripts
+      release_type: Single
+      year: 2019
+      format: digital
+      country: US
+      edition_year: 2019
+      label: Double Feature
+      side: A
+      position: 1
+    played_live:
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 16
+    - show_slug: luna-2019-10-09-paste-studio-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      venue: Paste Studio
+      city: Atlanta
+      country: USA
+      position: 1
+    - show_slug: luna-2019-10-20-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-20'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 14
+    - show_slug: luna-2020-02-05-teragram-ballroom-los-angeles-ca-usa
+      date: '2020-02-05'
+      year: 2020
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: luna-2020-02-08-the-independent-san-francisco-ca-usa
+      date: '2020-02-08'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: luna-2020-02-10-doug-fir-lounge-portland-or-usa
+      date: '2020-02-10'
+      year: 2020
+      series: Luna play Penthouse
+      venue: Doug Fir Lounge
+      city: Portland
+      country: USA
+      position: 13
+    - show_slug: dean-and-britta-2020-04-28-dean--brittas-living-room-echo-park-la-usa
+      date: '2020-04-28'
+      year: 2020
+      venue: Dean & Britta's living room
+      city: Echo Park
+      country: USA
+      position: 3

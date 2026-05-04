@@ -1,0 +1,61 @@
+slug: galaxie-500-1989-11-15-burgerweehuis-deventer-netherlands
+date: '1989-11-15'
+year: 1989
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+setlist_source: recording
+venue_name: Burgerweehuis
+venue_slug: burgerweehuis-deventer-netherlands
+city: Deventer
+country: The Netherlands
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 3
+  raw_title: Tell Me
+  canonical_title: Tell Me
+  song_slug: tell-me
+  full_title: Tell Me
+- position: 4
+  raw_title: Plastic Bird
+  canonical_title: Plastic Bird
+  song_slug: plastic-bird
+  full_title: Plastic Bird
+- position: 5
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 6
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 7
+  raw_title: Victory Garden
+  canonical_title: Victory Garden
+  song_slug: victory-garden
+  full_title: Victory Garden
+- position: 8
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+audio:
+- audio_type: Download
+  url: https://www.mediafire.com/file/9n3ba66qvkttcaw/Galaxie_500_1989-11-15__Burgerweehuis%252C_Deventer%252C_Netherlands.zip/file
+  label: A Head Full of Wishes (Mediafire)

@@ -1,0 +1,62 @@
+slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+date: '2008-06-14'
+year: 2008
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+setlist_source: setlist.fm
+venue_name: Southpaw
+venue_slug: southpaw-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 2
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 3
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 4
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 5
+  raw_title: Eye of the Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 6
+  raw_title: No More Sad Refrains
+  canonical_title: No More Sad Refrains
+  song_slug: no-more-sad-refrains
+  full_title: No More Sad Refrains
+- position: 7
+  raw_title: Awake in a Muddle
+  canonical_title: Awake in a Muddle
+  song_slug: awake-in-a-muddle
+  full_title: Awake in a Muddle
+- position: 8
+  raw_title: The New Historicism
+  canonical_title: The New Historicism
+  song_slug: the-new-historicism
+  full_title: The New Historicism
+- position: 9
+  raw_title: Cruel Queen
+  canonical_title: Cruel Queen
+  song_slug: cruel-queen
+  full_title: Cruel Queen

@@ -1,0 +1,67 @@
+title: Roll in the Sand
+slug: roll-in-the-sand
+sort_title: ROLL IN THE SAND
+lyrics: 'well he fell from the skies
+
+  with a sense he devised
+
+  and he dropped out of school
+
+  with his evil sunglasses
+
+
+  and the desert he crossed
+
+  was a picture to see
+
+  roll in the sand
+
+  he had it all in his hand
+
+
+  (chorus)
+
+  you''re gonna live forever
+
+  we can see you roll in the sand
+
+
+  he was a bungling thief
+
+  turning fiction to fact
+
+  and back at the hill
+
+  they want him to act
+
+
+  (chorus)'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Roll in the Sand
+    appears_on:
+    - release_title: Outdoor Miner
+      release_slug: outdoor-miner
+      release_type: Single
+      year: 1996
+      format: '7'
+      country: ES
+      edition_year: 1996
+      label: Radiation
+      catalogue_no: RARE 027
+      side: B
+      position: 2
+    - release_title: Outdoor Miner
+      release_slug: outdoor-miner
+      release_type: Single
+      year: 1996
+      format: CD
+      country: ES
+      edition_year: 1996
+      label: Radioation
+      catalogue_no: RARE 027
+      position: 2
+    played_live: []

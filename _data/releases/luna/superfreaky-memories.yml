@@ -1,0 +1,49 @@
+title: Superfreaky Memories
+slug: superfreaky-memories
+release_type: Single
+year: 1999
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: UK
+  year: 1999
+  label: Beggars Banquet
+  catalogue_no: BBQ334
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 2
+    side: B
+    side_position: 1
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+- format: CD
+  country: UK
+  year: 1999
+  label: Beggars Banquet
+  catalogue_no: BBQ334CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_superfreaky.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 2
+    side_position: 2
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 3
+    side_position: 3
+    title: The Bad Vibe Merchant
+    slug: the-bad-vibe-merchant
+    full_title: The Bad Vibe Merchant

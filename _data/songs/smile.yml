@@ -1,0 +1,218 @@
+title: Smile
+slug: smile
+sort_title: SMILE
+lyrics: 'I lost my tongue
+
+  When I saw your new friends
+
+  Please take me home
+
+  To the place it will end
+
+
+  I felt to sick
+
+  Had to smile, had to smile
+
+  Please take me home
+
+  To the place I belong
+
+
+  I saw my room
+
+  Looked so soft all about
+
+  I felt so sick
+
+  Had to smile, had to smile'
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Smile
+    appears_on:
+    - release_title: What Else Do You Do (A Compilation of Quiet Music)
+      release_slug: what-else-do-you-do-a-compilation-of-quiet-music
+      release_type: Compilation
+      year: 1990
+      format: CD
+      edition_year: 1990
+      label: Shimmy Disc
+      catalogue_no: SDE-9021CD
+      position: 1
+    - release_title: What Else Do You Do (A Compilation of Quiet Music)
+      release_slug: what-else-do-you-do-a-compilation-of-quiet-music
+      release_type: Compilation
+      year: 1990
+      format: LP
+      edition_year: 1990
+      label: Shimmy Disc
+      catalogue_no: SHIMMY 34
+      side: A
+      position: 1
+    - release_title: What Else Do You Do (A Compilation of Quiet Music)
+      release_slug: what-else-do-you-do-a-compilation-of-quiet-music
+      release_type: Compilation
+      year: 1990
+      format: LP
+      edition_year: 1990
+      label: Shimmy Disc
+      catalogue_no: SDE-9021
+      side: A
+      position: 1
+    - release_title: What Else Do You Do (A Compilation of Quiet Music)
+      release_slug: what-else-do-you-do-a-compilation-of-quiet-music
+      release_type: Compilation
+      year: 1990
+      format: LP
+      edition_year: 1990
+      label: Shimmy Disc
+      catalogue_no: SHIMMY 34 CD
+      side: A
+      position: 1
+    played_live: []
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Smile
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: A
+      position: 6
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: A
+      position: 6
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 6
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: A
+      position: 6
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: '12'
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      side: A
+      position: 1
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      position: 1
+    played_live:
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: luna-1992-11-06-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-06'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 4
+    - show_slug: luna-1992-12-27-idiots-delight-wxrk-fm-new-york-ny-usa
+      date: '1992-12-27'
+      year: 1992
+      event: Idiots Delight
+      venue: WXRK-FM
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-1993-03-05-agora-cleveland-oh-usa
+      date: '1993-03-05'
+      year: 1993
+      venue: Agora
+      city: Cleveland
+      country: USA
+      position: 7
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 10
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-1996-04-18-philadelphia-college-of-textile-philadelphia-pa-usa
+      date: '1996-04-18'
+      year: 1996
+      venue: Philadelphia College of Textile
+      city: Philadelphia
+      country: USA
+      position: 4
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 6

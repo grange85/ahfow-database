@@ -1,0 +1,23 @@
+title: Gigantic 2
+slug: gigantic-2
+release_type: Compilation
+year: 1990
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
+album_artist: Various Artists
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: UK
+  year: 1990
+  label: Melody Maker
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_gigantic.jpg
+  notes: Live. Melody Maker/Rough Trade compilation. Recorded live in Amsterdam “Nineteen
+    for the Nineties” compilation with Lush, Pale Saints, Mazzy Star…
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    version_tag: live
+    full_title: Flowers [live]
