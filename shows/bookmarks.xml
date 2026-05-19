@@ -21,7 +21,7 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-	{%- assign bookmarks = site.data.gigography.live-show-bookmarks | sort: 'date_added' | reverse -%}
+	{%- assign bookmarks = site.data.shows.live-show-bookmarks | sort: 'date_added' | reverse -%}
     {%- for bookmark in bookmarks limit:50 -%}
 	{%- unless post.draft -%}
 
