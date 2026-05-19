@@ -1,0 +1,19 @@
+title: This Time Around
+slug: this-time-around
+release_type: Single
+year: 1994
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1994
+  label: Elektra
+  catalogue_no: PRCD 8984-2
+  notes: Radio promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: This Time Around
+    slug: this-time-around
+    full_title: This Time Around

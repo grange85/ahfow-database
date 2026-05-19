@@ -1,0 +1,72 @@
+title: Eulogy to Lenny Bruce
+slug: eulogy-to-lenny-bruce
+sort_title: EULOGY TO LENNY BRUCE
+authors: Tim Hardin
+original_artist: Nico
+originals_url: https://www.fullofwishes.co.uk/2013/05/29/originals-eulogy-to-lenny-bruce-by-nico-covered-by-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Eulogy to Lenny Bruce
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Sub Pop
+      catalogue_no: SPCD501
+      position: 9
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Elefant
+      catalogue_no: ER-1079
+      position: 9
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 9
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2012
+      label: Drag City
+      catalogue_no: DC 206CD
+      position: 9
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: B
+      position: 9
+    - release_title: The Sub Pop Years
+      release_slug: the-sub-pop-years
+      release_type: Album
+      year: 2009
+      format: LP
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 1
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-31-knitting-factory-los-angeles-ca-usa
+      date: '2000-10-31'
+      year: 2000
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 7

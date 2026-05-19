@@ -1,0 +1,91 @@
+slug: luna-2015-08-02-cca-glasgow-uk
+date: '2015-08-02'
+year: 2015
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar/vocals|Lee Wall - drums|Britta
+  Phillips - bass/vocals
+ticket_url: http://ccaglasgow.ticketsolve.com/shows/873530579/events?show_id=873530579
+venue_name: CCA
+venue_slug: cca-glasgow-uk
+city: Glasgow
+country: UK
+venue_url: http://www.cca-glasgow.com/programme/5506b7778c50e6d36600001d
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 3
+  raw_title: Cindy Tastes of Barbecue
+  canonical_title: Cindy Tastes of Barbecue
+  song_slug: cindy-tastes-of-barbecue
+  full_title: Cindy Tastes of Barbecue
+- position: 4
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 5
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 6
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 7
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 8
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 9
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 10
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 11
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 15
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

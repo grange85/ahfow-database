@@ -1,0 +1,40 @@
+title: Homeward Bound
+slug: homeward-bound
+sort_title: HOMEWARD BOUND
+authors: Paul Simon
+original_artist: Simon & Garfunkel
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Homeward Bound
+    appears_on:
+    - release_title: A Gift / Homeward Bound
+      release_slug: a-gift-homeward-bound
+      release_type: Single
+      year: 2025
+      format: '7'
+      edition_year: 2025
+      label: PIAPTK
+      side: A
+      position: 2
+    played_live:
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 16
+    - show_slug: dean-and-britta-2020-09-26-1800-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 13

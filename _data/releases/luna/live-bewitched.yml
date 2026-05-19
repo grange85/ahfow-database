@@ -1,0 +1,156 @@
+title: Live Bewitched
+slug: live-bewitched
+release_type: Album
+year: 2022
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-bewitched-bandcamp.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: Digital
+  year: 2022
+  label: \[no label\]
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 3
+    side: A
+    side_position: 3
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 4
+    side: A
+    side_position: 4
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 5
+    side: A
+    side_position: 5
+    title: This Time Around
+    slug: this-time-around
+    full_title: This Time Around
+  - position: 6
+    side: A
+    side_position: 6
+    title: Great Jones Street
+    slug: great-jones-street
+    full_title: Great Jones Street
+  - position: 7
+    side: A
+    side_position: 7
+    title: Going Home
+    slug: going-home
+    full_title: Going Home
+  - position: 8
+    side: A
+    side_position: 8
+    title: Into the Fold
+    slug: into-the-fold
+    full_title: Into the Fold
+  - position: 9
+    side: A
+    side_position: 9
+    title: I Know You Tried
+    slug: i-know-you-tried
+    full_title: I Know You Tried
+  - position: 10
+    side: A
+    side_position: 10
+    title: Sleeping Pill
+    slug: sleeping-pill
+    full_title: Sleeping Pill
+  - position: 11
+    side: A
+    side_position: 11
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+- format: 2xLP
+  country: US
+  year: 2023
+  label: Bandbox
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-live-bewitched-lp.png
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 3
+    side: A
+    side_position: 3
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 4
+    side: B
+    side_position: 1
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 5
+    side: B
+    side_position: 2
+    title: This Time Around
+    slug: this-time-around
+    full_title: This Time Around
+  - position: 6
+    side: B
+    side_position: 3
+    title: Great Jones Street
+    slug: great-jones-street
+    full_title: Great Jones Street
+  - position: 7
+    side: B
+    side_position: 4
+    title: Going Home
+    slug: going-home
+    full_title: Going Home
+  - position: 8
+    side: C
+    side_position: 1
+    title: Into the Fold
+    slug: into-the-fold
+    full_title: Into the Fold
+  - position: 9
+    side: C
+    side_position: 2
+    title: I Know You Tried
+    slug: i-know-you-tried
+    full_title: I Know You Tried
+  - position: 10
+    side: C
+    side_position: 3
+    title: Sleeping Pill
+    slug: sleeping-pill
+    full_title: Sleeping Pill
+  - position: 11
+    side: D
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 12
+    side: D
+    side_position: 2
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru

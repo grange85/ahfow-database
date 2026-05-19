@@ -1,0 +1,39 @@
+title: Jonathan and Charles
+slug: jonathan-and-charles
+sort_title: JONATHAN AND CHARLES
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Jonathan and Charles
+    appears_on:
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 5
+    - release_title: Will They Turn You On Or Will They Turn On You
+      release_slug: will-they-turn-you-on-or-will-they-turn-on-you
+      release_type: Misc
+      year: 1995
+      format: CD
+      edition_year: 1995
+      label: Twisted Village
+      catalogue_no: TW-1035
+      position: 5
+    - release_title: Will They Turn You On Or Will They Turn On You
+      release_slug: will-they-turn-you-on-or-will-they-turn-on-you
+      release_type: Misc
+      year: 1995
+      format: LP
+      edition_year: 1995
+      label: Ché
+      catalogue_no: CHE 30LP
+      side: A
+      position: 5
+    played_live: []

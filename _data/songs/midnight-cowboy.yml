@@ -1,0 +1,54 @@
+title: Midnight Cowboy
+slug: midnight-cowboy
+sort_title: MIDNIGHT COWBOY
+authors: John Barry
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Midnight Cowboy
+    appears_on: []
+    played_live:
+    - show_slug: luna-2025-12-05-paramount-theatre-austin-tx-usa
+      date: '2025-12-05'
+      year: 2025
+      venue: Paramount Theatre
+      city: Austin
+      country: USA
+      position: 9
+    - show_slug: luna-2025-12-06-granada-theater-dallas-tx-usa
+      date: '2025-12-06'
+      year: 2025
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 10
+    - show_slug: luna-2025-12-28-fillmore-san-francisco-ca-usa
+      date: '2025-12-28'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2025-12-29-fillmore-san-francisco-ca-usa
+      date: '2025-12-29'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2026-04-05-assembly-kingston-ny-usa
+      date: '2026-04-05'
+      year: 2026
+      venue: Assembly
+      city: Kingston
+      country: USA
+      position: 1

@@ -1,0 +1,738 @@
+title: Decomposing Trees
+slug: decomposing-trees
+sort_title: DECOMPOSING TREES
+authors: Krukowski/Wareham/Yang
+lyrics: 'My toes can talk
+
+  And they''re smiling at me
+
+  Calm down they say
+
+  Not afraid anymore
+
+
+  And they talk to me
+
+  And they smile at me
+
+
+  I walked upstream
+
+  And I sat in the mud
+
+  Life starts again
+
+  Watching trees decompose
+
+
+  And they talk to me
+
+  And they smile at me'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Decomposing Trees
+    appears_on:
+    - release_title: What's Past is Prologue
+      release_slug: whats-past-is-prologue
+      release_type: Album
+      year: 2026
+      format: Digital
+      edition_year: 2026
+      label: (no label)
+      side: A
+      position: 5
+    played_live:
+    - show_slug: dean-and-britta-2010-08-20-the-trocadero-philadelphia-pa-usa
+      date: '2010-08-20'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trocadero
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2010-09-17-the-earl-atlanta-ga-usa
+      date: '2010-09-17'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2010-11-11-the-troubadour-los-angeles-ca-usa
+      date: '2010-11-11'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Troubadour
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2010-11-13-the-fillmore-san-francisco-ca-usa
+      date: '2010-11-13'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2010-11-15-biltmore-cabaret-vancouver-british-columbia-canada
+      date: '2010-11-15'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Biltmore Cabaret
+      city: Vancouver
+      country: Canada
+      position: 5
+    - show_slug: dean-and-britta-2010-12-03-lincoln-hall-chicago-il-usa
+      date: '2010-12-03'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2011-01-13-maxwells-hoboken-nj-usa
+      date: '2011-01-13'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-06-17-the-bell-house-brooklyn-ny-usa
+      date: '2011-06-17'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2011-07-02-the-wall-livehouse-taipei-taiwan
+      date: '2011-07-02'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Wall Livehouse
+      city: Taipei
+      country: Taiwan
+      position: 6
+    - show_slug: dean-and-britta-2011-10-11-corner-hotel-melbourne-victoria-australia
+      date: '2011-10-11'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Corner Hotel
+      city: Melbourne
+      country: Australia
+      position: 5
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 6
+    - show_slug: dean-and-britta-2012-07-27-antones-austin-tx-usa
+      date: '2012-07-27'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Antones
+      city: Austin
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2014-07-26-indietracks-festival-derbyshire-uk
+      date: '2014-07-26'
+      year: 2014
+      venue: Indietracks Festival
+      city: Derbyshire
+      country: UK
+      position: 7
+    - show_slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-30'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 8
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 8
+    - show_slug: dean-wareham-2023-03-12-nachtasyl-hamburg-germany
+      date: '2023-03-12'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 8
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 8
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 12
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 12
+    - show_slug: damon-and-naomi-2026-01-04-cafe-oto-london-uk
+      date: '2026-01-04'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 11
+      annotation: with Richard Youngs
+    - show_slug: dean-wareham-2026-05-08-cordao-da-bola-preta-rio-de-janeiro-brazil
+      date: '2026-05-08'
+      year: 2026
+      venue: Cordão da Bola Preta
+      city: Rio de Janeiro
+      country: Brazil
+      position: 5
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Decomposing Trees
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 20
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH CD 146
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH 146
+      side: B
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: EPGJPPTGJC
+      side: B
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: MC
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH C146
+      side: B
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1120
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1369
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 20
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74 CD
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10357
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74
+      side: B
+      position: 6
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.08LP
+      side: B
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 11
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 11
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: B
+      position: 16
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1371
+      position: 1
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2020
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      side: A
+      position: 1
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10373
+      position: 1
+    - release_title: Peel Sessions
+      release_slug: peel-sessions
+      release_type: Album
+      year: 2005
+      format: CD
+      country: US
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.02'
+      position: 7
+    played_live:
+    - show_slug: galaxie-500-1989-07-19-pyramid-new-york-ny-usa
+      date: '1989-07-19'
+      year: 1989
+      venue: Pyramid
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1989-09-24-bbc-radio-one-london-uk
+      date: '1989-09-24'
+      year: 1989
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 3
+    - show_slug: galaxie-500-1989-09-26-ica-london-uk
+      date: '1989-09-26'
+      year: 1989
+      venue: ICA
+      city: London
+      country: UK
+      position: 3
+    - show_slug: galaxie-500-1989-10-31-ecstacy-berlin-germany
+      date: '1989-10-31'
+      year: 1989
+      venue: Ecstacy
+      city: Berlin
+      country: Germany
+      position: 6
+    - show_slug: galaxie-500-1989-11-06-basement-brighton-uk
+      date: '1989-11-06'
+      year: 1989
+      venue: Basement
+      city: Brighton
+      country: UK
+      position: 3
+    - show_slug: galaxie-500-1989-11-08-powerhaus-london-uk
+      date: '1989-11-08'
+      year: 1989
+      venue: Powerhaus
+      city: London
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1989-11-26-trust-nurenburg-germany
+      date: '1989-11-26'
+      year: 1989
+      venue: Trust
+      city: Nurenburg
+      country: Germany
+      position: 3
+    - show_slug: galaxie-500-1989-11-29-schwimmbad-heidelberg-germany
+      date: '1989-11-29'
+      year: 1989
+      venue: Schwimmbad
+      city: Heidelberg
+      country: Germany
+      position: 3
+    - show_slug: galaxie-500-1989-12-02-forum-enger-germany
+      date: '1989-12-02'
+      year: 1989
+      venue: Forum
+      city: Enger
+      country: Germany
+      position: 3
+    - show_slug: galaxie-500-1989-12-06-riverside-newcastle-uk
+      date: '1989-12-06'
+      year: 1989
+      venue: Riverside
+      city: Newcastle
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1989-12-08-tech-glasgow-uk
+      date: '1989-12-08'
+      year: 1989
+      venue: Tech
+      city: Glasgow
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1989-12-12-winkles-bedford-uk
+      date: '1989-12-12'
+      year: 1989
+      venue: Winkles
+      city: Bedford
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1989-12-13-subterania-london-uk
+      date: '1989-12-13'
+      year: 1989
+      venue: Subterania
+      city: London
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1990-01-17-night-stage-cambridge-ma-usa
+      date: '1990-01-17'
+      year: 1990
+      venue: Night Stage
+      city: Cambridge
+      country: USA
+      position: 3
+    - show_slug: galaxie-500-1990-01-19-knitting-factory-new-york-ny-usa
+      date: '1990-01-19'
+      year: 1990
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: galaxie-500-1990-01-23-the-40-watt-club-athens-ga-usa
+      date: '1990-01-23'
+      year: 1990
+      venue: The 40 Watt Club
+      city: Athens
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-01-26-the-point-atlanta-ga-usa
+      date: '1990-01-26'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-02-11-falcon-london-uk
+      date: '1990-02-11'
+      year: 1990
+      venue: Falcon
+      city: London
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1990-02-19-tt-the-bears-cambridge-ma-usa
+      date: '1990-02-19'
+      year: 1990
+      venue: TT the Bears
+      city: Cambridge
+      country: USA
+      position: 4
+    - show_slug: galaxie-500-1990-02-24-maxwells-hoboken-nj-usa
+      date: '1990-02-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-03-16-paradise-boston-ma-usa
+      date: '1990-03-16'
+      year: 1990
+      venue: Paradise
+      city: Boston
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-03-23-rocket-providence-ri-usa
+      date: '1990-03-23'
+      year: 1990
+      venue: Rocket
+      city: Providence
+      country: USA
+      position: 2
+    - show_slug: galaxie-500-1990-03-24-maxwells-hoboken-nj-usa
+      date: '1990-03-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-03-25-cactus-club-san-jose-ca-usa
+      date: '1990-03-25'
+      year: 1990
+      venue: Cactus Club
+      city: San Jose
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-06-26-international-1-manchester-uk
+      date: '1990-06-26'
+      year: 1990
+      venue: International 1
+      city: Manchester
+      country: UK
+      position: 3
+    - show_slug: galaxie-500-1990-06-29-roskilde-festival-roskilde-denmark
+      date: '1990-06-29'
+      year: 1990
+      venue: Roskilde Festival
+      city: Roskilde
+      country: Denmark
+      position: 2
+    - show_slug: galaxie-500-1990-10-11-the-point-atlanta-ga-usa
+      date: '1990-10-11'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 3
+    - show_slug: galaxie-500-1990-10-15-kennel-club-san-francisco-ca-usa
+      date: '1990-10-15'
+      year: 1990
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: galaxie-500-1990-10-19-cbgbs-new-york-ny-usa
+      date: '1990-10-19'
+      year: 1990
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: galaxie-500-1990-11-03-college-of-building-and-printing-glasgow-uk
+      date: '1990-11-03'
+      year: 1990
+      venue: College of Building and Printing
+      city: Glasgow
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1990-11-15-ulu-london-uk
+      date: '1990-11-15'
+      year: 1990
+      venue: ULU
+      city: London
+      country: UK
+      position: 1
+    - show_slug: galaxie-500-1990-11-21-trefcentrum-vk-brussels-belgium
+      date: '1990-11-21'
+      year: 1990
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 4
+    - show_slug: galaxie-500-1990-11-24-philipshalle-dusseldorf-germany
+      date: '1990-11-24'
+      year: 1990
+      venue: Philipshalle
+      city: Dusseldorf
+      country: Germany
+      position: 1
+    - show_slug: galaxie-500-1990-11-26-batschkapp-frankfurt-germany
+      date: '1990-11-26'
+      year: 1990
+      venue: Batschkapp
+      city: Frankfurt
+      country: Germany
+      position: 1
+    - show_slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+      date: '1990-11-30'
+      year: 1990
+      venue: Markthalle
+      city: Hamburg
+      country: Germany
+      position: 1
+    - show_slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+      date: '1990-12-01'
+      year: 1990
+      venue: Barbue
+      city: Copenhagen
+      country: Denmark
+      position: 1
+    - show_slug: galaxie-500-1991-03-21-warfield-theater-san-francisco-ca-usa
+      date: '1991-03-21'
+      year: 1991
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1991-03-26-paramount-theater-denver-co-usa
+      date: '1991-03-26'
+      year: 1991
+      venue: Paramount Theater
+      city: Denver
+      country: USA
+      position: 2
+  - version_tag: Kennel Club, San Francisco, CA - 1990-03-28
+    full_title: Decomposing Trees [Kennel Club, San Francisco, CA - 1990-03-28]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 17
+    played_live: []
+  - version_tag: The Point, Atlanta, GA - 1990-01-26
+    full_title: Decomposing Trees [The Point, Atlanta, GA - 1990-01-26]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 28
+    played_live: []

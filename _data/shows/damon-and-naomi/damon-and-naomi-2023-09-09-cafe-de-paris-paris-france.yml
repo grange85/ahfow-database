@@ -1,0 +1,64 @@
+slug: damon-and-naomi-2023-09-09-cafe-de-paris-paris-france
+date: '2023-09-09'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals
+support: Tugboat Captain|Coeur-Joie
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/2023-09-09-damon-and-naomi-paris-poster.jpg
+ticket_url: https://www.helloasso.com/associations/buddy-records/evenements/damon-and-naomi
+setlist_source: setlist.fm
+venue_name: Cafe de Paris
+venue_slug: cafe-de-paris-paris-france
+city: Paris
+country: France
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Oceans in Between
+  canonical_title: Oceans in Between
+  song_slug: oceans-in-between
+  full_title: Oceans in Between
+- position: 2
+  raw_title: Between the Wars
+  canonical_title: Between the Wars
+  song_slug: between-the-wars
+  full_title: Between the Wars
+- position: 3
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 4
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 5
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 6
+  raw_title: Turn of the Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 7
+  raw_title: Sailing By
+  canonical_title: Sailing By
+  song_slug: sailing-by
+  full_title: Sailing By
+- position: 8
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day
+- position: 9
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren

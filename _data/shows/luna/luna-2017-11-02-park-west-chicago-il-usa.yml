@@ -1,0 +1,101 @@
+slug: luna-2017-11-02-park-west-chicago-il-usa
+date: '2017-11-02'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums|Kelly Kyle - trumpet/french horn (Bewitched, Car Wash Hair)
+venue_name: Park West
+venue_slug: park-west-chicago-il-usa
+city: Chicago
+state: IL
+country: USA
+venue_url: http://www.parkwestchicago.com/event/1508855-luna-chicago/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: GTX3
+  canonical_title: GTX3
+  song_slug: gtx3
+  full_title: GTX3
+- position: 2
+  raw_title: California (All the Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 3
+  raw_title: One Together
+  canonical_title: One Together
+  song_slug: one-together
+  full_title: One Together
+- position: 4
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 5
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 6
+  raw_title: Let Me Dream If I Want To
+  canonical_title: Let Me Dream If I Want To
+  song_slug: let-me-dream-if-i-want-to
+  full_title: Let Me Dream If I Want To
+- position: 7
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 8
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 9
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 10
+  raw_title: Math Wiz
+  canonical_title: Math Wiz
+  song_slug: math-wiz
+  full_title: Math Wiz
+- position: 11
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 12
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 13
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 14
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 17
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

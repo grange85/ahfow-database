@@ -1,0 +1,50 @@
+title: Sonic Souvenirs
+slug: sonic-souvenirs
+release_type: Single
+year: 2003
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: CD
+  year: 2003
+  label: Jetset
+  catalogue_no: TWA68
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_sonic_souvenirs.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Your Baby
+    slug: your-baby
+    version_tag: Can't Stand The Rain
+    full_title: Your Baby [Can't Stand The Rain]
+  - position: 2
+    side_position: 2
+    title: Hear the Wind Blow
+    slug: hear-the-wind-blow
+    version_tag: Down Moonlight Mile
+    full_title: Hear the Wind Blow [Down Moonlight Mile]
+  - position: 3
+    side_position: 3
+    title: Knives From Bavaria
+    slug: knives-from-bavaria
+    version_tag: Spoonful Of Fun
+    full_title: Knives From Bavaria [Spoonful Of Fun]
+  - position: 4
+    side_position: 4
+    title: Moonshot
+    slug: moonshot
+    version_tag: Myths Of Heaven
+    full_title: Moonshot [Myths Of Heaven]
+  - position: 5
+    side_position: 5
+    title: Ginger Snaps
+    slug: ginger-snaps
+    version_tag: and Sugar Winks
+    full_title: Ginger Snaps [and Sugar Winks]
+  - position: 6
+    side_position: 6
+    title: Your Baby
+    slug: your-baby
+    version_tag: Lets You Down Gently
+    full_title: Your Baby [Lets You Down Gently]

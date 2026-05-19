@@ -1,0 +1,41 @@
+slug: damon-and-naomi-2011-05-11-xfm-london-uk
+date: '2011-05-11'
+year: 2011
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+notes: radio session with Michio Kurihara. Broadcast 2011-05-18  Radio session
+setlist_source: recording
+venue_name: Xfm
+venue_slug: xfm-london-uk
+city: London
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 2
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 3
+  raw_title: Nettles and Ivy
+  canonical_title: Nettles and Ivy
+  song_slug: nettles-and-ivy
+  full_title: Nettles and Ivy
+- position: 4
+  raw_title: Shine a Light
+  canonical_title: Shine a Light
+  song_slug: shine-a-light
+  full_title: Shine A Light
+audio:
+- audio_type: Download
+  url: https://www.fullofwishes.co.uk/2021/05/11/ten-years-ago-damon-and-naomi-on-xfm/
+  label: A Head Full of Wishes

@@ -1,0 +1,338 @@
+title: Hear the Wind Blow
+slug: hear-the-wind-blow
+sort_title: HEAR THE WIND BLOW
+authors: Roback/Smith
+original_artist: Opal
+lyrics: 'Hear The Wind Blow
+
+
+  Sometimes you feel
+
+  you''ve traveled the whole wide world
+
+  And sometimes it seems
+
+  you haven''t gone so very far
+
+
+  I know you''re tired and your shoes are filled with sand
+
+  But I''ll take you anywhere you want to go
+
+
+  I''ll give you the wind
+
+  to take you to the oceanside
+
+  Once he was an orphan boy
+
+  Now he''s not so alone
+
+
+  Nighttime is all we have the hours move so slowly now
+
+  And I''ll take you anywhere you want to go
+
+
+  Hear the wind blow
+
+  Blow through every tree
+
+  Inside every house
+
+  If you''re listening
+
+
+  And if you''re tired
+
+  And you''re weary
+
+  Rest your sleepy head
+
+  Here beside me'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Hear the Wind Blow
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: B
+      position: 6
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA59CD
+      position: 6
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: CD-BL-001
+      position: 6
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: CD
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: CD-BL-001
+      position: 14
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: LP
+      edition_year: 2008
+      label: Double Feature
+      catalogue_no: DBL-001
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-and-britta-2003-06-19-great-american-san-francisco-ca-usa
+      date: '2003-06-19'
+      year: 2003
+      venue: Great American
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2003-06-21-double-door-chicago-il-usa
+      date: '2003-06-21'
+      year: 2003
+      venue: Double Door
+      city: Chicago
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2003-06-24-village-underground-new-york-ny-usa
+      date: '2003-06-24'
+      year: 2003
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-01-23-mo-pitkins-new-york-ny-usa
+      date: '2007-01-23'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2007-03-08-world-cafe-live-philadelphia-pa-usa
+      date: '2007-03-08'
+      year: 2007
+      venue: World Cafe Live
+      city: Philadelphia
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-09-mfa-boston-ma-usa
+      date: '2007-03-09'
+      year: 2007
+      venue: MFA
+      city: Boston
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-12-mod-club-toronto-ontaria-canada
+      date: '2007-03-12'
+      year: 2007
+      venue: Mod Club
+      city: Toronto
+      country: Canada
+      position: 3
+    - show_slug: dean-and-britta-2007-03-13-dowes-pittsburgh-pa-usa
+      date: '2007-03-13'
+      year: 2007
+      venue: Dowes
+      city: Pittsburgh
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-15-schubas-chicago-il-usa
+      date: '2007-03-15'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-16-schubas-chicago-il-usa
+      date: '2007-03-16'
+      year: 2007
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-22-mercy-lounge-nashville-tn-usa
+      date: '2007-03-22'
+      year: 2007
+      venue: Mercy Lounge
+      city: Nashville
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-03-29-black-cat-washington-dc-usa
+      date: '2007-03-29'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-03-30-hiro-ballroom-new-york-ny-usa
+      date: '2007-03-30'
+      year: 2007
+      venue: Hiro Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-04-07-1900-silent-movie-theatre-los-angeles-ca-usa
+      date: '2007-04-07'
+      year: 2007
+      venue: Silent Movie Theatre
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-06-10-loco-club-valencia-spain
+      date: '2007-06-10'
+      year: 2007
+      venue: Loco Club
+      city: Valencia
+      country: Spain
+      position: 2
+    - show_slug: dean-and-britta-2007-06-17-social-nottingham-uk
+      date: '2007-06-17'
+      year: 2007
+      venue: Social
+      city: Nottingham
+      country: UK
+      position: 9
+    - show_slug: dean-and-britta-2007-06-18-sussex-arts-club-brighton-uk
+      date: '2007-06-18'
+      year: 2007
+      venue: Sussex Arts Club
+      city: Brighton
+      country: UK
+      position: 4
+    - show_slug: dean-and-britta-2007-06-19-metro-club-london-uk
+      date: '2007-06-19'
+      year: 2007
+      venue: Metro Club
+      city: London
+      country: UK
+      position: 2
+    - show_slug: dean-and-britta-2007-06-20-legion-london-uk
+      date: '2007-06-20'
+      year: 2007
+      venue: Legion
+      city: London
+      country: UK
+      position: 6
+    - show_slug: dean-and-britta-2007-07-12-rams-head-tavern-annapolis-md-usa
+      date: '2007-07-12'
+      year: 2007
+      venue: Rams Head Tavern
+      city: Annapolis
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-10-16-bowery-ballroom-new-york-ny-usa
+      date: '2007-10-16'
+      year: 2007
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2007-11-23-studenterhuset-copenhagen-denmark
+      date: '2007-11-23'
+      year: 2007
+      venue: Studenterhuset
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: dean-and-britta-2007-11-29-vortex-siegen-germany
+      date: '2007-11-29'
+      year: 2007
+      venue: Vortex
+      city: Siegen
+      country: Germany
+      position: 4
+    - show_slug: dean-and-britta-2007-11-30-gleis-22-munster-germany
+      date: '2007-11-30'
+      year: 2007
+      venue: Gleis 22
+      city: Munster
+      country: Germany
+      position: 3
+    - show_slug: dean-and-britta-2007-12-04-silbergold-frankfurt-germany
+      date: '2007-12-04'
+      year: 2007
+      venue: Silbergold
+      city: Frankfurt
+      country: Germany
+      position: 4
+    - show_slug: dean-and-britta-2008-02-16-aladdin-theater-portland-or-usa
+      date: '2008-02-16'
+      year: 2008
+      venue: Aladdin Theater
+      city: Portland
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2008-02-28-johnny-brendas-philadelphia-pa-usa
+      date: '2008-02-28'
+      year: 2008
+      venue: Johnny Brendas
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2011-11-03-royale-boston-ma-usa
+      date: '2011-11-03'
+      year: 2011
+      venue: Royale
+      city: Boston
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 4
+  - version_tag: Down Moonlight Mile
+    full_title: Hear the Wind Blow [Down Moonlight Mile]
+    appears_on:
+    - release_title: Sonic Souvenirs
+      release_slug: sonic-souvenirs
+      release_type: Single
+      year: 2003
+      format: CD
+      edition_year: 2003
+      label: Jetset
+      catalogue_no: TWA68
+      position: 2
+    played_live: []

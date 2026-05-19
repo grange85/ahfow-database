@@ -1,0 +1,39 @@
+title: Secession 96
+slug: secession-96
+release_type: Misc
+year: 1996
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_secession.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: LP
+  year: 1996
+  label: Twisted Village
+  catalogue_no: TW-1039
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_secession.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Sunset One
+    slug: sunset-one
+    full_title: Sunset One
+  - position: 2
+    side: A
+    side_position: 2
+    title: Rosebud
+    slug: rosebud
+    full_title: Rosebud
+  - position: 3
+    side: A
+    side_position: 3
+    title: Sunrise
+    slug: sunrise
+    full_title: Sunrise
+  - position: 4
+    side: A
+    side_position: 4
+    title: Sunset Two
+    slug: sunset-two
+    full_title: Sunset Two

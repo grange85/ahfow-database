@@ -1,0 +1,20 @@
+title: Open Road
+slug: open-road
+sort_title: OPEN ROAD
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Open Road
+    appears_on:
+    - release_title: Demo tape 1
+      release_slug: demo-tape-1
+      release_type: Misc
+      year: 1987
+      format: MC
+      country: US
+      edition_year: 1987
+      side: A
+      position: 6
+    played_live: []

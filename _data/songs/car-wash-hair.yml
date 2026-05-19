@@ -1,0 +1,368 @@
+title: Car Wash Hair
+slug: car-wash-hair
+sort_title: CAR WASH HAIR
+authors: Mercury Rev
+original_artist: Mercury Rev
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Car Wash Hair
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 10
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: B
+      position: 10
+    played_live:
+    - show_slug: luna-2017-10-03-sala-de-camara-del-kursaal-san-sebastian-spain
+      date: '2017-10-03'
+      year: 2017
+      venue: Sala de Camara del Kursaal
+      city: San Sebastian
+      country: Spain
+      position: 10
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 12
+    - show_slug: luna-2017-10-07-fiesta-del-marisco-o-grove-spain
+      date: '2017-10-07'
+      year: 2017
+      venue: Fiesta del Marisco
+      city: O Grove
+      country: Spain
+      position: 8
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-10-10-las-armas-zaragoza-spain
+      date: '2017-10-10'
+      year: 2017
+      venue: Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 10
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 11
+    - show_slug: luna-2017-10-12-ram-club-valencia-spain
+      date: '2017-10-12'
+      year: 2017
+      venue: Ram Club
+      city: Valencia
+      country: Spain
+      position: 11
+    - show_slug: luna-2017-10-15-teatre-municipal-xesc-forteza-mallorca-spain
+      date: '2017-10-15'
+      year: 2017
+      venue: Teatre Municipal Xesc Forteza
+      city: Mallorca
+      country: Spain
+      position: 11
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 11
+    - show_slug: luna-2017-11-08-the-great-hall-toronto-ontario-canada
+      date: '2017-11-08'
+      year: 2017
+      venue: The Great Hall
+      city: Toronto
+      country: Canada
+      position: 11
+    - show_slug: luna-2017-11-09-the-grog-shop-cleveland-heights-oh-usa
+      date: '2017-11-09'
+      year: 2017
+      venue: The Grog Shop
+      city: Cleveland Heights
+      country: USA
+      position: 9
+    - show_slug: luna-2017-11-10-headliners-music-hall-louisville-ky-usa
+      date: '2017-11-10'
+      year: 2017
+      venue: Headliners Music Hall
+      city: Louisville
+      country: USA
+      position: 18
+    - show_slug: luna-2017-11-11-terminal-west-atlanta-ga-usa
+      date: '2017-11-11'
+      year: 2017
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 12
+    - show_slug: luna-2017-11-14-the-black-cat-washington-dc-usa
+      date: '2017-11-14'
+      year: 2017
+      venue: The Black Cat
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: luna-2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa
+      date: '2017-11-15'
+      year: 2017
+      venue: Carnegie Lecture Hall
+      city: Pittsburgh
+      country: USA
+      position: 9
+    - show_slug: luna-2017-11-16-union-transfer-philadelphia-pa-usa
+      date: '2017-11-16'
+      year: 2017
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-2017-11-17-montgomery-hall-jersey-city-nj-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Montgomery Hall
+      city: Jersey City
+      country: USA
+      position: 1
+    - show_slug: luna-2017-11-18-brooklyn-steel-brooklyn-ny-usa
+      date: '2017-11-18'
+      year: 2017
+      venue: Brooklyn Steel
+      city: Brooklyn
+      country: USA
+      position: 14
+    - show_slug: luna-2018-01-11-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-11'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: luna-2018-01-14-the-casbah-san-diego-ca-usa
+      date: '2018-01-14'
+      year: 2018
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 11
+    - show_slug: luna-2018-01-23-the-neptune-theatre-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: The Neptune Theatre
+      city: Seattle
+      country: USA
+      position: 11
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 13
+    - show_slug: luna-2018-01-26-the-fillmore-san-francisco-ca-usa
+      date: '2018-01-26'
+      year: 2018
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 11
+    - show_slug: luna-2018-04-06-3ten-acl-live-austin-tx-usa
+      date: '2018-04-06'
+      year: 2018
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 14
+    - show_slug: luna-2018-04-07-granada-theater-dallas-tx-usa
+      date: '2018-04-07'
+      year: 2018
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 17
+    - show_slug: luna-2018-04-09-the-bridge-at-santa-fe-brewing-santa-fe-nm-usa
+      date: '2018-04-09'
+      year: 2018
+      venue: The Bridge at Santa Fe Brewing
+      city: Santa Fe
+      country: USA
+      position: 11
+    - show_slug: luna-2018-08-24-industry-city-courtyard-brooklyn-ny-usa
+      date: '2018-08-24'
+      year: 2018
+      venue: Industry City Courtyard
+      city: Brooklyn
+      country: USA
+      position: 17
+    - show_slug: luna-2018-08-25-the-sinclair-cambridge-ma-usa
+      date: '2018-08-25'
+      year: 2018
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 13
+    - show_slug: luna-2018-08-31-auditoria-parque-fofo-murcia-spain
+      date: '2018-08-31'
+      year: 2018
+      venue: Auditoria Parque Fofó
+      city: Murcia
+      country: Spain
+      position: 10
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 13
+    - show_slug: luna-2018-09-06-academy-islington-london-uk
+      date: '2018-09-06'
+      year: 2018
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 11
+    - show_slug: luna-2018-09-11-loppen-copenhagen-denmark
+      date: '2018-09-11'
+      year: 2018
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 17
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 11
+    - show_slug: luna-2018-09-14-kafe-antzokia-bilbao-spain
+      date: '2018-09-14'
+      year: 2018
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 8
+    - show_slug: luna-2019-03-31-musical-instrument-museum-phoenix-az-usa
+      date: '2019-03-31'
+      year: 2019
+      venue: Musical Instrument Museum
+      city: Phoenix
+      country: USA
+      position: 11
+    - show_slug: luna-2019-04-02-191-toole-tuscon-az-usa
+      date: '2019-04-02'
+      year: 2019
+      venue: 191 Toole
+      city: Tuscon
+      country: USA
+      position: 18
+    - show_slug: luna-2019-10-01-the-paradise-boston-ma-usa
+      date: '2019-10-01'
+      year: 2019
+      series: Luna play Penthouse
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 14
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2020-02-08-the-independent-san-francisco-ca-usa
+      date: '2020-02-08'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: luna-2020-02-11-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-11'
+      year: 2020
+      series: Luna play Penthouse
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 14
+    - show_slug: luna-2020-02-12-kexp-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2020-06-27-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-06-27'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 14
+    - show_slug: luna-2021-11-15-union-transfer-philadelphia-pa-usa
+      date: '2021-11-15'
+      year: 2021
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 13
+    - show_slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+      date: '2024-12-29'
+      year: 2024
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 13
+    - show_slug: luna-2024-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2024-12-31'
+      year: 2024
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: luna-2025-12-29-fillmore-san-francisco-ca-usa
+      date: '2025-12-29'
+      year: 2025
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 12

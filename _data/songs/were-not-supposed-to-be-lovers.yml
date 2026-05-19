@@ -1,0 +1,69 @@
+title: We're Not Supposed to Be Lovers
+slug: were-not-supposed-to-be-lovers
+sort_title: WERE NOT SUPPOSED TO BE LOVERS
+authors: Adam Green
+original_artist: Adam Green
+originals_url: https://www.fullofwishes.co.uk/2014/08/06/originals-supposed-lovers-adam-green-covered-dean-britta/
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: We're Not Supposed to Be Lovers
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: D
+      position: 17
+    - release_title: Words You Used to Say
+      release_slug: words-you-used-to-say
+      release_type: Single
+      year: 2006
+      format: CD
+      edition_year: 2006
+      label: Zoë
+      catalogue_no: 01143-2009-2
+      position: 2
+    played_live:
+    - show_slug: dean-and-britta-2007-11-24-apparatet-copenhagen-denmark
+      date: '2007-11-24'
+      year: 2007
+      venue: Apparatet
+      city: Copenhagen
+      country: Denmark
+      position: 6
+    - show_slug: dean-and-britta-2007-11-29-vortex-siegen-germany
+      date: '2007-11-29'
+      year: 2007
+      venue: Vortex
+      city: Siegen
+      country: Germany
+      position: 15
+    - show_slug: dean-and-britta-2008-02-09-the-mod-club-toronto-ontaria-canada
+      date: '2008-02-09'
+      year: 2008
+      venue: The Mod Club
+      city: Toronto
+      country: Canada
+      position: 2
+    - show_slug: dean-and-britta-2008-02-10-lakeshore-theater-chicago-il-usa
+      date: '2008-02-10'
+      year: 2008
+      venue: Lakeshore Theater
+      city: Chicago
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 6

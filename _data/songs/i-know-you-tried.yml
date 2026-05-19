@@ -1,0 +1,190 @@
+title: I Know You Tried
+slug: i-know-you-tried
+sort_title: I KNOW YOU TRIED
+lyrics: 'i went to your street
+
+  at seven in the mornin''
+
+  and while you were asleep
+
+  i read your newspaper
+
+  i saw you out walkin''
+
+  out walkin'' with your father
+
+  pretendin'' not to see me
+
+  pretendin'' to be a family
+
+
+  i know you tried, baby
+
+  i know you tried
+
+  i know you tried to go on
+
+
+  saw a metal object
+
+  lyin'' in the street
+
+  and when we turned away
+
+  it stood itself up
+
+  you circled the island
+
+  in a chevy caprice
+
+  you stuck out your tongue
+
+  and your nose began to bleed
+
+
+  i know you tried, baby
+
+  i know you tried
+
+  i know you tried to go on
+
+
+  i know you tried, baby
+
+  i know you tried
+
+  i know you tried to go on'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: I Know You Tried
+    appears_on:
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: JP
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: WPCP-5802
+      position: 9
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: 61617-2
+      position: 9
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Gotta Groove Records
+      catalogue_no: GGR2012-001
+      side: B
+      position: 9
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 9
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: C
+      position: 9
+    played_live:
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 9
+    - show_slug: luna-2017-01-19-the-chapel-san-francisco-ca-usa
+      date: '2017-01-19'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 9
+    - show_slug: luna-2017-01-21-the-chapel-san-francisco-ca-usa
+      date: '2017-01-21'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: luna-2019-10-02-greenwich-odeum-east-greenwich-ri-usa
+      date: '2019-10-02'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Greenwich Odeum
+      city: East Greenwich
+      country: USA
+      position: 9
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 9
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 9
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      series: Luna play Bewitched
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 9
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 9
+    - show_slug: luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-02'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9

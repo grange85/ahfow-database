@@ -1,0 +1,77 @@
+slug: luna-1994-04-15-trocadeo-philadelphia-pa-usa
+date: '1994-04-15'
+year: 1994
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+venue_name: Trocadeo
+venue_slug: trocadeo-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 2
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 3
+  raw_title: Hold On
+  canonical_title: Hold On
+  song_slug: hold-on
+  full_title: Hold On
+- position: 4
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 5
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 6
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 7
+  raw_title: We're Both Confused
+  canonical_title: We're Both Confused
+  song_slug: were-both-confused
+  full_title: We're Both Confused
+- position: 8
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 9
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 10
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 11
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 12
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

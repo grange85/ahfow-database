@@ -1,0 +1,27 @@
+title: Heads Down
+slug: heads-down
+release_type: Misc
+year: 1993
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_headsdown.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '7'
+  year: 1993
+  label: Twisted Village
+  catalogue_no: TW-1028
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_headsdown.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Heads Down
+    slug: heads-down
+    full_title: Heads Down
+  - position: 2
+    side: B
+    side_position: 1
+    title: Heads Down
+    slug: heads-down
+    full_title: Heads Down

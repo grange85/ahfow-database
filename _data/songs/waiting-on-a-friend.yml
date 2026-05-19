@@ -1,0 +1,33 @@
+title: Waiting on a Friend
+slug: waiting-on-a-friend
+sort_title: WAITING ON A FRIEND
+authors: Jagger/Richards
+original_artist: Rolling Stones
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Waiting on a Friend
+    appears_on:
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset
+      catalogue_no: TWA51CD
+      position: 2
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: Digital
+      country: US
+      edition_year: 2011
+      label: Self released
+      side: A
+      position: 2
+    played_live: []

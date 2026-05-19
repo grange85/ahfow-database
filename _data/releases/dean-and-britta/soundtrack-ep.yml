@@ -1,0 +1,45 @@
+title: Soundtrack EP
+slug: soundtrack-ep
+release_type: Single
+year: 2006
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_soundtrack.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: Digital
+  year: 2006
+  label: Double Feature
+  catalogue_no: DA-DBL-HOLIDAY-001
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_soundtrack.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Hey You
+    slug: hey-you
+    full_title: Hey You
+  - position: 2
+    side: A
+    side_position: 2
+    title: Family Conference
+    slug: family-conference
+    full_title: Family Conference
+  - position: 3
+    side: A
+    side_position: 3
+    title: Park Slope
+    slug: park-slope
+    full_title: Park Slope
+  - position: 4
+    side: A
+    side_position: 4
+    title: Daniel and Boone
+    slug: daniel-and-boone
+    full_title: Daniel and Boone
+  - position: 5
+    side: A
+    side_position: 5
+    title: Around and Around
+    slug: around-and-around
+    version_tag: Around and Around Again
+    full_title: Around and Around [Around and Around Again]

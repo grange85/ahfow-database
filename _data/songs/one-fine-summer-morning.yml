@@ -1,0 +1,329 @@
+title: One Fine Summer Morning
+slug: one-fine-summer-morning
+sort_title: ONE FINE SUMMER MORNING
+authors: Al Gorgoni
+original_artist: Evie Sands
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: One Fine Summer Morning
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 3
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 3
+    played_live:
+    - show_slug: luna-2016-05-27-the-bell-house-brooklyn-ny-usa
+      date: '2016-05-27'
+      year: 2016
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 8
+      annotation: Britta Phillips
+    - show_slug: luna-2016-05-29-columbus-theatre-providence-ri-usa
+      date: '2016-05-29'
+      year: 2016
+      venue: Columbus Theatre
+      city: Providence
+      country: USA
+      position: 7
+      annotation: Britta Phillips
+    - show_slug: luna-2016-07-07-thalia-hall-chicago-il-usa
+      date: '2016-07-07'
+      year: 2016
+      venue: Thalia Hall
+      city: Chicago
+      country: USA
+      position: 5
+      annotation: Britta Phillips
+    - show_slug: luna-2016-10-01-rough-trade-nyc-brooklyn-ny-usa
+      date: '2016-10-01'
+      year: 2016
+      venue: Rough Trade NYC
+      city: Brooklyn
+      country: USA
+      position: 8
+      annotation: Britta Phillips
+    - show_slug: luna-2016-10-05-academy-3-manchester-uk
+      date: '2016-10-05'
+      year: 2016
+      venue: Academy 3
+      city: Manchester
+      country: UK
+      position: 14
+      annotation: Britta Phillips
+    - show_slug: luna-2016-10-08-rockaway-beach-festival-butlins-bognor-regis-uk
+      date: '2016-10-08'
+      year: 2016
+      event: Rockaway Beach Festival
+      venue: Butlins
+      city: Bognor Regis
+      country: UK
+      position: 8
+      annotation: Britta Phillips
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 6
+    - show_slug: luna-2017-10-06-teatro-jofre-ferrol-spain
+      date: '2017-10-06'
+      year: 2017
+      venue: Teatro Jofre
+      city: Ferrol
+      country: Spain
+      position: 4
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 14
+    - show_slug: luna-2017-10-10-las-armas-zaragoza-spain
+      date: '2017-10-10'
+      year: 2017
+      venue: Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 7
+    - show_slug: luna-2017-10-11-bikini-barcelona-spain
+      date: '2017-10-11'
+      year: 2017
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-10-12-ram-club-valencia-spain
+      date: '2017-10-12'
+      year: 2017
+      venue: Ram Club
+      city: Valencia
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-10-13-kafe-antzokia-bilbao-spain
+      date: '2017-10-13'
+      year: 2017
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 14
+    - show_slug: luna-2017-10-15-teatre-municipal-xesc-forteza-mallorca-spain
+      date: '2017-10-15'
+      year: 2017
+      venue: Teatre Municipal Xesc Forteza
+      city: Mallorca
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 16
+    - show_slug: luna-2017-11-07-the-magic-stick-detroit-mi-usa
+      date: '2017-11-07'
+      year: 2017
+      venue: The Magic Stick
+      city: Detroit
+      country: USA
+      position: 13
+    - show_slug: luna-2017-11-08-the-great-hall-toronto-ontario-canada
+      date: '2017-11-08'
+      year: 2017
+      venue: The Great Hall
+      city: Toronto
+      country: Canada
+      position: 15
+    - show_slug: luna-2017-11-09-the-grog-shop-cleveland-heights-oh-usa
+      date: '2017-11-09'
+      year: 2017
+      venue: The Grog Shop
+      city: Cleveland Heights
+      country: USA
+      position: 15
+    - show_slug: luna-2017-11-10-headliners-music-hall-louisville-ky-usa
+      date: '2017-11-10'
+      year: 2017
+      venue: Headliners Music Hall
+      city: Louisville
+      country: USA
+      position: 15
+    - show_slug: luna-2017-11-12-the-cats-cradle-carrboro-nc-usa
+      date: '2017-11-12'
+      year: 2017
+      venue: The Cat's Cradle
+      city: Carrboro
+      country: USA
+      position: 15
+    - show_slug: luna-2017-11-14-the-black-cat-washington-dc-usa
+      date: '2017-11-14'
+      year: 2017
+      venue: The Black Cat
+      city: Washington DC
+      country: USA
+      position: 12
+    - show_slug: luna-2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa
+      date: '2017-11-15'
+      year: 2017
+      venue: Carnegie Lecture Hall
+      city: Pittsburgh
+      country: USA
+      position: 11
+    - show_slug: luna-2017-11-16-union-transfer-philadelphia-pa-usa
+      date: '2017-11-16'
+      year: 2017
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 14
+    - show_slug: luna-2017-11-18-brooklyn-steel-brooklyn-ny-usa
+      date: '2017-11-18'
+      year: 2017
+      venue: Brooklyn Steel
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2018-01-12-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-12'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: luna-2018-01-14-the-casbah-san-diego-ca-usa
+      date: '2018-01-14'
+      year: 2018
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 10
+    - show_slug: luna-2018-01-23-the-neptune-theatre-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: The Neptune Theatre
+      city: Seattle
+      country: USA
+      position: 15
+    - show_slug: luna-2018-01-24-the-wonder-ballroom-portland-or-usa
+      date: '2018-01-24'
+      year: 2018
+      venue: The Wonder Ballroom
+      city: Portland
+      country: USA
+      position: 15
+    - show_slug: luna-2018-01-26-the-fillmore-san-francisco-ca-usa
+      date: '2018-01-26'
+      year: 2018
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: luna-2018-04-09-the-bridge-at-santa-fe-brewing-santa-fe-nm-usa
+      date: '2018-04-09'
+      year: 2018
+      venue: The Bridge at Santa Fe Brewing
+      city: Santa Fe
+      country: USA
+      position: 12
+    - show_slug: luna-2018-08-26-the-warehouse-fairfield-ct-usa
+      date: '2018-08-26'
+      year: 2018
+      venue: The Warehouse
+      city: Fairfield
+      country: USA
+      position: 14
+    - show_slug: luna-2018-09-03-lux-interior-festival-salao-brazil-coimbra-portugal
+      date: '2018-09-03'
+      year: 2018
+      event: Lux Interior Festival
+      venue: Salao Brazil
+      city: Coimbra
+      country: Portugal
+      position: 14
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 15
+    - show_slug: luna-2018-09-07-thekla-bristol-uk
+      date: '2018-09-07'
+      year: 2018
+      venue: Thekla
+      city: Bristol
+      country: UK
+      position: 16
+    - show_slug: luna-2018-09-09-nachtasyl-hamburg-germany
+      date: '2018-09-09'
+      year: 2018
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 11
+    - show_slug: luna-2018-09-11-loppen-copenhagen-denmark
+      date: '2018-09-11'
+      year: 2018
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 12
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 12
+    - show_slug: luna-2019-04-02-191-toole-tuscon-az-usa
+      date: '2019-04-02'
+      year: 2019
+      venue: 191 Toole
+      city: Tuscon
+      country: USA
+      position: 15
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: dean-and-britta-2020-09-26-1800-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-02'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16

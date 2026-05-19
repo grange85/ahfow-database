@@ -1,0 +1,96 @@
+slug: dean-wareham-2026-05-16-aforo-lima-peru
+date: '2026-05-16'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards|Roger
+  Brogan - drums
+series: Dean Wareham interpreta las canciones de Galaxie 500
+poster_url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-05-16-dean-wareham-lima-peru.jpg
+venue_name: Aforo
+venue_slug: aforo-lima-peru
+city: Lima
+country: Peru
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 3
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 4
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 5
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 6
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 7
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 8
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, The Snow is Falling
+- position: 9
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 10
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 11
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 12
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 13
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 14
+  raw_title: '^encore:'
+  annotation: 'encore:'
+- position: 15
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine
+- position: 16
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

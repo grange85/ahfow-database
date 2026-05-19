@@ -1,0 +1,100 @@
+slug: luna-1993-06-03-borderline-london-uk
+date: '1993-06-03'
+year: 1993
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+venue_name: Borderline
+venue_slug: borderline-london-uk
+city: London
+country: UK
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Crazy People
+  canonical_title: Crazy People
+  song_slug: crazy-people
+  full_title: Crazy People
+- position: 2
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 3
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 4
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 5
+  raw_title: We're Both Confused
+  canonical_title: We're Both Confused
+  song_slug: were-both-confused
+  full_title: We're Both Confused
+- position: 6
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 7
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 8
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 9
+  raw_title: I Know You Tried
+  canonical_title: I Know You Tried
+  song_slug: i-know-you-tried
+  full_title: I Know You Tried
+- position: 10
+  raw_title: Smile
+  canonical_title: Smile
+  song_slug: smile
+  full_title: Smile
+- position: 11
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 12
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 13
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 14
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 15
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 16
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When WIll You Come Home
+audio:
+- audio_type: Stream
+  url: https://www.fullofwishes.co.uk/2009/09/02/mp3-luna-live-in-london-in-1993/
+  label: A Head Full of Wishes

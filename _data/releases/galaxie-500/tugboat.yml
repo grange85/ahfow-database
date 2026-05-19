@@ -1,0 +1,27 @@
+title: Tugboat
+slug: tugboat
+release_type: Single
+year: 1988
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_tugboat_a001.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '7'
+  country: US
+  year: 1988
+  label: Aurora Records
+  catalogue_no: AU 001
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_tugboat_a001.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 2
+    side: B
+    side_position: 1
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain

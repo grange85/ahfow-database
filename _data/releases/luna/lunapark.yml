@@ -1,0 +1,378 @@
+title: Lunapark
+slug: lunapark
+release_type: Album
+year: 1992
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_lunapark.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1992
+  label: Elektra
+  catalogue_no: 9 61360-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side_position: 2
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 3
+    side_position: 3
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 4
+    side_position: 4
+    title: Crazy People
+    slug: crazy-people
+    full_title: Crazy People
+  - position: 5
+    side_position: 5
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 6
+    side_position: 6
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 7
+    side_position: 7
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 8
+    side_position: 8
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 9
+    side_position: 9
+    title: I Want Everything
+    slug: i-want-everything
+    full_title: I Want Everything
+  - position: 10
+    side_position: 10
+    title: Time to Quit
+    slug: time-to-quit
+    full_title: Time to Quit
+  - position: 11
+    side_position: 11
+    title: Goodbye
+    slug: goodbye
+    full_title: Goodbye
+  - position: 12
+    side_position: 12
+    title: We're Both Confused
+    slug: were-both-confused
+    full_title: We're Both Confused
+- format: MC
+  country: US
+  year: 1992
+  label: Elektra
+  catalogue_no: 9 61360-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lunapark-cassette.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side: A
+    side_position: 2
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 3
+    side: A
+    side_position: 3
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 4
+    side: A
+    side_position: 4
+    title: Crazy People
+    slug: crazy-people
+    full_title: Crazy People
+  - position: 5
+    side: A
+    side_position: 5
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 6
+    side: A
+    side_position: 6
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 7
+    side: B
+    side_position: 1
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 8
+    side: B
+    side_position: 2
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 9
+    side: B
+    side_position: 3
+    title: I Want Everything
+    slug: i-want-everything
+    full_title: I Want Everything
+  - position: 10
+    side: B
+    side_position: 4
+    title: Time to Quit
+    slug: time-to-quit
+    full_title: Time to Quit
+  - position: 11
+    side: B
+    side_position: 5
+    title: Goodbye
+    slug: goodbye
+    full_title: Goodbye
+  - position: 12
+    side: B
+    side_position: 6
+    title: We're Both Confused
+    slug: were-both-confused
+    full_title: We're Both Confused
+- format: LP
+  country: AUS
+  year: 1993
+  label: Summershine
+  catalogue_no: SHINE LP 008
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side: A
+    side_position: 2
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 3
+    side: A
+    side_position: 3
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 4
+    side: A
+    side_position: 4
+    title: Crazy People
+    slug: crazy-people
+    full_title: Crazy People
+  - position: 5
+    side: A
+    side_position: 5
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 6
+    side: A
+    side_position: 6
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 7
+    side: B
+    side_position: 1
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 8
+    side: B
+    side_position: 2
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 9
+    side: B
+    side_position: 3
+    title: I Want Everything
+    slug: i-want-everything
+    full_title: I Want Everything
+  - position: 10
+    side: B
+    side_position: 4
+    title: Time to Quit
+    slug: time-to-quit
+    full_title: Time to Quit
+  - position: 11
+    side: B
+    side_position: 5
+    title: Goodbye
+    slug: goodbye
+    full_title: Goodbye
+  - position: 12
+    side: B
+    side_position: 6
+    title: We're Both Confused
+    slug: were-both-confused
+    full_title: We're Both Confused
+- format: 2xLP
+  country: US
+  year: 2023
+  label: Run Out Groove/Elektra
+  catalogue_no: ROGV-178
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side: A
+    side_position: 2
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 3
+    side: A
+    side_position: 3
+    title: Slash Your Tires
+    slug: slash-your-tires
+    full_title: Slash Your Tires
+  - position: 4
+    side: A
+    side_position: 4
+    title: Crazy People
+    slug: crazy-people
+    full_title: Crazy People
+  - position: 5
+    side: A
+    side_position: 5
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 6
+    side: A
+    side_position: 6
+    title: Smile
+    slug: smile
+    full_title: Smile
+  - position: 7
+    side: B
+    side_position: 1
+    title: I Can't Wait
+    slug: i-cant-wait
+    full_title: I Can't Wait
+  - position: 8
+    side: B
+    side_position: 2
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 9
+    side: B
+    side_position: 3
+    title: I Want Everything
+    slug: i-want-everything
+    full_title: I Want Everything
+  - position: 10
+    side: B
+    side_position: 4
+    title: Time to Quit
+    slug: time-to-quit
+    full_title: Time to Quit
+  - position: 11
+    side: B
+    side_position: 5
+    title: Goodbye
+    slug: goodbye
+    full_title: Goodbye
+  - position: 12
+    side: B
+    side_position: 6
+    title: We're Both Confused
+    slug: were-both-confused
+    full_title: We're Both Confused
+  - position: 13
+    side: C
+    side_position: 1
+    title: Anesthesia
+    slug: anesthesia
+    version_tag: Fun city demo
+    full_title: Anesthesia [Fun city demo]
+  - position: 14
+    side: C
+    side_position: 2
+    title: I Can't Wait
+    slug: i-cant-wait
+    version_tag: Fun city demo
+    full_title: I Can't Wait [Fun city demo]
+  - position: 15
+    side: C
+    side_position: 3
+    title: Time
+    slug: time-cagney-and-lacee
+    version_tag: Fun city demo
+    full_title: Time [Fun city demo]
+  - position: 16
+    side: C
+    side_position: 4
+    title: Crazy People
+    slug: crazy-people
+    version_tag: Fun city demo
+    full_title: Crazy People [Fun city demo]
+  - position: 17
+    side: C
+    side_position: 5
+    title: Slash Your Tires
+    slug: slash-your-tires
+    version_tag: Fun city demo
+    full_title: Slash Your Tires [Fun city demo]
+  - position: 18
+    side: D
+    side_position: 1
+    title: Slide
+    slug: slide
+    version_tag: Toxic shock Demo
+    full_title: Slide [Toxic shock Demo]
+  - position: 19
+    side: D
+    side_position: 2
+    title: Time to Quit
+    slug: time-to-quit
+    version_tag: Toxic shock demo
+    full_title: Time To Quit [Toxic shock demo]
+  - position: 20
+    side: D
+    side_position: 3
+    title: Hey Sister
+    slug: hey-sister
+    version_tag: Toxic shock demo
+    full_title: Hey Sister [Toxic shock demo]
+  - position: 21
+    side: D
+    side_position: 4
+    title: Goodbye
+    slug: goodbye
+    version_tag: Toxic shock demo
+    full_title: Goodbye [Toxic shock demo]
+  - position: 22
+    side: D
+    side_position: 5
+    title: Egg Nog
+    slug: egg-nog
+    full_title: Egg Nog

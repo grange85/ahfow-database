@@ -1,0 +1,46 @@
+title: Grand Canyon
+slug: grand-canyon
+sort_title: GRAND CANYON
+authors: Stephin Merritt
+original_artist: The Magnetic Fields
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Grand Canyon
+    appears_on:
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: CD
+      edition_year: 2018
+      label: Double Feature
+      position: 10
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: LP
+      edition_year: 2018
+      label: Double Feature
+      side: B
+      position: 10
+    played_live:
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      series: Dean Wareham vs. Cheval Sombre
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      series: Dean Wareham vs. Cheval Sombre
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 9

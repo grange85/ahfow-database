@@ -1,0 +1,161 @@
+title: Just as Much as It Was Worth
+slug: just-as-much-as-it-was-worth
+sort_title: JUST AS MUCH AS IT WAS WORTH
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Just as Much as It Was Worth
+    appears_on:
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: CD
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: CD-DBL-0018
+      position: 6
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: LP-DBL-0018
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2023-03-12-nachtasyl-hamburg-germany
+      date: '2023-03-12'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 1
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 2
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 2
+    - show_slug: dean-wareham-2025-04-01-the-garage-glasgow-uk
+      date: '2025-04-01'
+      year: 2025
+      venue: The Garage
+      city: Glasgow
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2025-04-03-rough-trade-liverpool-uk
+      date: '2025-04-03'
+      year: 2025
+      venue: Rough Trade
+      city: Liverpool
+      country: UK
+      position: 7
+    - show_slug: dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk
+      date: '2025-04-04'
+      year: 2025
+      venue: The Assembly
+      city: Royal Leamington Spa
+      country: UK
+      position: 10
+    - show_slug: dean-wareham-2025-04-05-brudenell-social-club-leeds-uk
+      date: '2025-04-05'
+      year: 2025
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 10
+    - show_slug: dean-wareham-2025-04-06-the-fleece-bristol-uk
+      date: '2025-04-06'
+      year: 2025
+      venue: The Fleece
+      city: Bristol
+      country: UK
+      position: 10
+    - show_slug: dean-wareham-2025-04-07-229-london-uk
+      date: '2025-04-07'
+      year: 2025
+      venue: '229'
+      city: London
+      country: UK
+      position: 10
+    - show_slug: dean-wareham-2025-04-08-le-petit-bain-paris-france
+      date: '2025-04-08'
+      year: 2025
+      venue: Le Petit Bain
+      city: Paris
+      country: France
+      position: 10
+    - show_slug: dean-wareham-2025-04-12-aa-theater-groningen-the-netherlands
+      date: '2025-04-12'
+      year: 2025
+      venue: Aa Theater
+      city: Groningen
+      country: The Netherlands
+      position: 11
+    - show_slug: dean-wareham-2025-04-13-nachtasyl-hamburg-germany
+      date: '2025-04-13'
+      year: 2025
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 10
+    - show_slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+      date: '2025-04-14'
+      year: 2025
+      venue: Frannz Club
+      city: Berlin
+      country: Germany
+      position: 10
+    - show_slug: dean-wareham-2025-04-21-16-toneladas-valencia-spain
+      date: '2025-04-21'
+      year: 2025
+      venue: 16 Toneladas
+      city: Valencia
+      country: Spain
+      position: 4
+    - show_slug: dean-wareham-2025-06-02-the-press-room-portsmouth-nh-usa
+      date: '2025-06-02'
+      year: 2025
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2025-06-03-space-ballroom-hamden-ct-usa
+      date: '2025-06-03'
+      year: 2025
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 11

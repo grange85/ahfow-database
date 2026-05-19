@@ -1,0 +1,21 @@
+title: Sunrise
+slug: sunrise
+sort_title: SUNRISE
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Sunrise
+    appears_on:
+    - release_title: Secession 96
+      release_slug: secession-96
+      release_type: Misc
+      year: 1996
+      format: LP
+      edition_year: 1996
+      label: Twisted Village
+      catalogue_no: TW-1039
+      side: A
+      position: 3
+    played_live: []

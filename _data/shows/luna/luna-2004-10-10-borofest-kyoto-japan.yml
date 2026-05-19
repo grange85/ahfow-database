@@ -1,0 +1,71 @@
+slug: luna-2004-10-10-borofest-kyoto-japan
+date: '2004-10-10'
+year: 2004
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Borofest
+venue_slug: borofest-kyoto-japan
+city: Kyoto
+country: Japan
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 2
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 4
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 5
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 6
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 7
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 8
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 9
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 10
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 11
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown

@@ -1,0 +1,46 @@
+title: EP (Shock)
+slug: ep-shock
+release_type: Single
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_shockep.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: AUS
+  year: 1998
+  label: Shock Records
+  catalogue_no: CORX063CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_shockep.jpg
+  notes: Tour EP
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 2
+    side_position: 2
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 3
+    side_position: 3
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 4
+    side_position: 4
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 5
+    side_position: 5
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 6
+    side_position: 6
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru

@@ -1,0 +1,67 @@
+title: Red Flower
+slug: red-flower
+sort_title: RED FLOWER
+authors: Krukowski/Yang
+lyrics: 'Dear Friend,
+
+  You''ve lost your center
+
+  And cannot find the rhyme
+
+  That makes you whole
+
+  I can try to tell you
+
+  What you already know
+
+  But it''s not for the telling
+
+  It''s what you hold and let go
+
+  It''s when the words come easy
+
+  They disappear
+
+  What''s near is all you know
+
+  I can try to tell you
+
+  About the ebb and the fl ow
+
+  But it''s not for the telling
+
+  It''s what you hold and let go
+
+  Let it fl oat back to you
+
+  To your waiting hands
+
+  Red flower
+
+  Floating back'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Red Flower
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 5
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 5
+    played_live: []

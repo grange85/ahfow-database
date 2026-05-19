@@ -1,0 +1,72 @@
+slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+date: '2018-02-09'
+year: 2018
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals|Thalia Zedez
+  - guitar/vocals on Dance Me... and Translucent Carriages
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2018-02/damon-and-naomi-spain-2018-02.jpg
+venue_name: Sala Be Good
+venue_slug: sala-be-good-barcelona-spain
+city: Barcelona
+country: Spain
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 2
+  raw_title: Judah and The Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 3
+  raw_title: Eye of The Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 4
+  raw_title: A Shining Dream
+  canonical_title: A Shining Dream
+  song_slug: a-shining-dream
+  full_title: A Shining Dream
+- position: 5
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 6
+  raw_title: Turn of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 7
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 8
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 9
+  raw_title: Dance Me To The End of Love
+  canonical_title: Dance Me to the End of Love
+  song_slug: dance-me-to-the-end-of-love
+  full_title: Dance Me To The End of Love
+- position: 10
+  raw_title: Translucent Carriages
+  canonical_title: Translucent Carriages
+  song_slug: translucent-carriages
+  full_title: Translucent Carriages
+- position: 11
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks

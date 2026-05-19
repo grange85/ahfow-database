@@ -1,0 +1,52 @@
+slug: luna-2000-04-02-amoeba-records-san-francisco-ca-usa
+date: '2000-04-02'
+year: 2000
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Amoeba Records
+venue_slug: amoeba-records-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Dear Diary
+  canonical_title: Dear Diary
+  song_slug: dear-diary
+  full_title: Dear Diary
+- position: 2
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Hello Little One
+  canonical_title: Hello Little One
+  song_slug: hello-little-one
+  full_title: Hello Little One
+- position: 4
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 5
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 6
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 7
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace

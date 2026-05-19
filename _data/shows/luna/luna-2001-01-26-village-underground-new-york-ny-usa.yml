@@ -1,0 +1,92 @@
+slug: luna-2001-01-26-village-underground-new-york-ny-usa
+date: '2001-01-26'
+year: 2001
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Village Underground
+venue_slug: village-underground-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Egg Nog
+  canonical_title: Egg Nog
+  song_slug: egg-nog
+  full_title: Egg Nog
+- position: 2
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 3
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 5
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 6
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 7
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 8
+  raw_title: Beggar's Bliss
+  canonical_title: Beggar's Bliss
+  song_slug: beggars-bliss
+  full_title: Beggar's Bliss
+- position: 9
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 10
+  raw_title: The Slow Song
+  canonical_title: The Slow Song
+  song_slug: the-slow-song
+  full_title: The Slow Song
+- position: 11
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 12
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 13
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 14
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 15
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'

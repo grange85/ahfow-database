@@ -1,0 +1,536 @@
+title: Hello Little One
+slug: hello-little-one
+sort_title: HELLO LITTLE ONE
+lyrics: 'Hello, little one
+
+  And what can I say?
+
+  That you are not an angel
+
+  And I am not a saint
+
+  Wastin'' all my money
+
+  On small town trinkets
+
+  I lost my silver spoon
+
+  And I won''t be coming home
+
+  Carry on
+
+  Carry, carry on
+
+  I wonder who it is
+
+  Whisperin'' in your ear
+
+  Hush hush little one
+
+  Let me Back in Your Life
+
+  Take me to the morning
+
+  Pretending that I got it made
+
+  Cool lips to the bottle
+
+  To hell with everyone'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Hello Little One
+    appears_on:
+    - release_title: 'Mr Jealousy: Music From The Motion Picture'
+      release_slug: mr-jealousy-music-from-the-motion-picture
+      release_type: Misc
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: BMG Classics
+      catalogue_no: 09026 63243-2
+      position: 4
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 2
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: A
+      position: 2
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 2
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: A
+      position: 2
+    - release_title: Luna Live
+      release_slug: luna-live
+      release_type: Album
+      year: 2000
+      format: 2xCD
+      edition_year: 2001
+      label: Trama
+      catalogue_no: TESI/496-2
+      position: 9
+    - release_title: Luna Live
+      release_slug: luna-live
+      release_type: Album
+      year: 2000
+      format: 2xLP
+      edition_year: 2000
+      label: Arena Rock
+      catalogue_no: ARE 017-1
+      side: B
+      position: 9
+    played_live:
+    - show_slug: luna-1998-09-10-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-10'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-1998-09-12-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-12'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-1999-07-23-prospect-park-bandstand-new-york-ny-usa
+      date: '1999-07-23'
+      year: 1999
+      venue: Prospect Park Bandstand
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-1999-07-27-1-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-1999-07-27-2-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-1999-08-01-930-club-washington-dc-usa
+      date: '1999-08-01'
+      year: 1999
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: luna-1999-09-04-leadmill-sheffield-uk
+      date: '1999-09-04'
+      year: 1999
+      venue: Leadmill
+      city: Sheffield
+      country: UK
+      position: 3
+    - show_slug: luna-1999-09-05-king-tuts-wah-wah-hut-glasgow-uk
+      date: '1999-09-05'
+      year: 1999
+      venue: King Tuts Wah Wah Hut
+      city: Glasgow
+      country: UK
+      position: 7
+    - show_slug: luna-1999-09-06-roadhouse-manchester-uk
+      date: '1999-09-06'
+      year: 1999
+      venue: Roadhouse
+      city: Manchester
+      country: UK
+      position: 11
+    - show_slug: luna-1999-09-14-loppen-copenhagen-denmark
+      date: '1999-09-14'
+      year: 1999
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 6
+    - show_slug: luna-1999-09-18-kfz-marburg-germany
+      date: '1999-09-18'
+      year: 1999
+      venue: KFZ
+      city: Marburg
+      country: Germany
+      position: 9
+    - show_slug: luna-1999-10-27-union-square-tower-records-new-york-ny-usa
+      date: '1999-10-27'
+      year: 1999
+      venue: Union Square Tower Records
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-1999-10-27-virgin-megastore-new-york-ny-usa
+      date: '1999-10-27'
+      year: 1999
+      venue: Virgin Megastore
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-1999-10-31-idiots-delight-wnew-new-york-ny-usa
+      date: '1999-10-31'
+      year: 1999
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-1999-11-03-agora-ballroom-cleveland-oh-usa
+      date: '1999-11-03'
+      year: 1999
+      venue: Agora Ballroom
+      city: Cleveland
+      country: USA
+      position: 8
+    - show_slug: luna-1999-11-06-metro-chicago-il-usa
+      date: '1999-11-06'
+      year: 1999
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: luna-1999-11-08-first-avenue-minneapolis-mn-usa
+      date: '1999-11-08'
+      year: 1999
+      venue: First Avenue
+      city: Minneapolis
+      country: USA
+      position: 5
+    - show_slug: luna-1999-11-11-crocodile-cafe-seattle-wa-usa
+      date: '1999-11-11'
+      year: 1999
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 8
+    - show_slug: luna-1999-11-15-troubadour-los-angeles-ca-usa
+      date: '1999-11-15'
+      year: 1999
+      venue: Troubadour
+      city: Los Angeles
+      country: USA
+      position: 11
+    - show_slug: luna-1999-11-18-kcrw-santa-monica-ca-usa
+      date: '1999-11-18'
+      year: 1999
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 4
+    - show_slug: luna-1999-11-29-irving-plaza-new-york-ny-usa
+      date: '1999-11-29'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-1999-11-30-irving-plaza-new-york-ny-usa
+      date: '1999-11-30'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-1999-12-02-fletchers-baltimore-md-usa
+      date: '1999-12-02'
+      year: 1999
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 10
+    - show_slug: luna-1999-12-04-cotton-club-atlanta-ga-usa
+      date: '1999-12-04'
+      year: 1999
+      venue: Cotton Club
+      city: Atlanta
+      country: USA
+      position: 13
+    - show_slug: luna-1999-12-07-somerville-theatre-somerville-ma-usa
+      date: '1999-12-07'
+      year: 1999
+      venue: Somerville Theatre
+      city: Somerville
+      country: USA
+      position: 9
+    - show_slug: luna-1999-12-11-trocadero-philadelphia-pa-usa
+      date: '1999-12-11'
+      year: 1999
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-1999-12-13-higher-ground-burlington-vt-usa
+      date: '1999-12-13'
+      year: 1999
+      venue: Higher Ground
+      city: Burlington
+      country: USA
+      position: 12
+    - show_slug: luna-1999-12-13-higher-ground-burlington-vt-usa
+      date: '1999-12-13'
+      year: 1999
+      venue: Higher Ground
+      city: Burlington
+      country: USA
+      position: 13
+    - show_slug: luna-2000-03-25-black-cat-washington-dc-usa
+      date: '2000-03-25'
+      year: 2000
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 13
+    - show_slug: luna-2000-03-30-starfish-room-vancouver-british-columbia-canada
+      date: '2000-03-30'
+      year: 2000
+      venue: Starfish Room
+      city: Vancouver
+      country: Canada
+      position: 4
+    - show_slug: luna-2000-04-01-fillmore-san-francisco-ca-usa
+      date: '2000-04-01'
+      year: 2000
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-2000-04-02-amoeba-records-san-francisco-ca-usa
+      date: '2000-04-02'
+      year: 2000
+      venue: Amoeba Records
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: luna-2000-04-03-fox-theatre-boulder-co-usa
+      date: '2000-04-03'
+      year: 2000
+      venue: Fox Theatre
+      city: Boulder
+      country: USA
+      position: 3
+    - show_slug: luna-2000-04-04-metro-chicago-il-usa
+      date: '2000-04-04'
+      year: 2000
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 4
+    - show_slug: luna-2000-04-07-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-07'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2000-04-08-1-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-08'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2000-04-08-2-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-08'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2000-04-19-fletchers-baltimore-md-usa
+      date: '2000-04-19'
+      year: 2000
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 10
+    - show_slug: luna-2000-05-27-maxwells-hoboken-nj-usa
+      date: '2000-05-27'
+      year: 2000
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 2
+    - show_slug: luna-2000-12-31-cbgbs-new-york-ny-usa
+      date: '2000-12-31'
+      year: 2000
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2001-08-01-world-trade-center-new-york-ny-usa
+      date: '2001-08-01'
+      year: 2001
+      venue: World Trade Center
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2001-09-29-teatro-del-circulo-montevideo-uruguay
+      date: '2001-09-29'
+      year: 2001
+      venue: Teatro del Circulo
+      city: Montevideo
+      country: Uruguay
+      position: 1
+    - show_slug: luna-2002-02-16-2-brooklyn-museum-brooklyn-ny-usa
+      date: '2002-02-16'
+      year: 2002
+      venue: Brooklyn Museum
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: luna-2002-05-11-trocadero-philadelphia-pa-usa
+      date: '2002-05-11'
+      year: 2002
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-2002-05-17-930-club-washington-dc-usa
+      date: '2002-05-17'
+      year: 2002
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 11
+    - show_slug: luna-2002-05-18-fletchers-baltimore-md-usa
+      date: '2002-05-18'
+      year: 2002
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 10
+    - show_slug: luna-2002-05-25-lees-palace-toronto-ontario-canada
+      date: '2002-05-25'
+      year: 2002
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 11
+    - show_slug: luna-2002-05-26-beachland-ballroom-cleveland-oh-usa
+      date: '2002-05-26'
+      year: 2002
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 12
+    - show_slug: luna-2002-05-28-highdive-champaign-il-usa
+      date: '2002-05-28'
+      year: 2002
+      venue: Highdive
+      city: Champaign
+      country: USA
+      position: 9
+    - show_slug: luna-2002-05-30-majestic-theater-detroit-mi-usa
+      date: '2002-05-30'
+      year: 2002
+      venue: Majestic Theater
+      city: Detroit
+      country: USA
+      position: 7
+    - show_slug: luna-2002-05-31-caberet-metro-chicago-il-usa
+      date: '2002-05-31'
+      year: 2002
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2002-06-05-aladdin-theatre-portland-or-usa
+      date: '2002-06-05'
+      year: 2002
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 9
+    - show_slug: luna-2002-06-07-bimbos-san-francisco-ca-usa
+      date: '2002-06-07'
+      year: 2002
+      venue: Bimbos
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: luna-2002-09-02-bumbershoot-seattle-wa-usa
+      date: '2002-09-02'
+      year: 2002
+      venue: Bumbershoot
+      city: Seattle
+      country: USA
+      position: 11
+    - show_slug: luna-2002-09-20-mojos-columbia-mo-usa
+      date: '2002-09-20'
+      year: 2002
+      venue: Mojos
+      city: Columbia
+      country: USA
+      position: 5
+    - show_slug: luna-2003-02-08-blind-pig-ann-arbor-mi-usa
+      date: '2003-02-08'
+      year: 2003
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 7
+    - show_slug: luna-2003-03-20-knitting-factory-new-york-ny-usa
+      date: '2003-03-20'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2003-08-23-southpaw-brooklyn-ny-usa
+      date: '2003-08-23'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 12
+    - show_slug: luna-2003-09-06-trocadero-philadelphia-pa-usa
+      date: '2003-09-06'
+      year: 2003
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: luna-2005-02-12-richards-on-richards-vancouver-british-columbia-canada
+      date: '2005-02-12'
+      year: 2005
+      venue: Richards on Richards
+      city: Vancouver
+      country: Canada
+      position: 3

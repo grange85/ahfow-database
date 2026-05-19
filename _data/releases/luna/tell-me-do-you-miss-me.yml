@@ -1,0 +1,66 @@
+title: Tell Me Do You Miss Me
+slug: tell-me-do-you-miss-me
+release_type: Album
+year: 2019
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-tell-me-do-you-miss-me-live-lp.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: LP
+  year: 2019
+  label: \[no label\]
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Cindy Tastes of Barbecue
+    slug: cindy-tastes-of-barbecue
+    full_title: Cindy Tastes of Barbecue
+  - position: 2
+    side: A
+    side_position: 2
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 3
+    side: A
+    side_position: 3
+    title: Still at Home
+    slug: still-at-home
+    full_title: Still at Home
+  - position: 4
+    side: A
+    side_position: 4
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 5
+    side: A
+    side_position: 5
+    title: Rock Your Baby
+    slug: rock-your-baby
+    full_title: Rock Your Baby
+  - position: 6
+    side: B
+    side_position: 1
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)
+  - position: 7
+    side: B
+    side_position: 2
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 8
+    side: B
+    side_position: 3
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 9
+    side: B
+    side_position: 4
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy

@@ -1,0 +1,38 @@
+title: Kinetoscope
+slug: kinetoscope
+sort_title: KINETOSCOPE
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Kinetoscope
+    appears_on:
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10438
+      position: 6
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Sub Pop
+      catalogue_no: SPCD425
+      position: 6
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 2001
+      label: Trama
+      catalogue_no: T900/399-2
+      position: 6
+    played_live: []

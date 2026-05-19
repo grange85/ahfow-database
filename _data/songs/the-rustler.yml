@@ -1,0 +1,113 @@
+title: The Rustler
+slug: the-rustler
+sort_title: RUSTLER
+lyrics: 'he''s a softly spoken tiger
+
+  in a sea of pussycats
+
+  a softly spoken tiger
+
+  getting on the groove
+
+  Betty and Veronica
+
+  lord I miss them so
+
+  forgot to mail those postcards
+
+  it was a long time ago
+
+
+  in a city of this size
+
+  we''ll never meet again
+
+  no, no. no
+
+
+  well the mind is a monkey
+
+  and honey so am I
+
+  befuddled and befiddled
+
+  in the corner of your eye
+
+  and the rustler''s getting loopy
+
+  on zycoline and booze
+
+  he''s gonna meet you at the airport
+
+  there''s no way for him to lose'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Rustler
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 9
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: B
+      position: 9
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 9
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: B
+      position: 9
+    played_live:
+    - show_slug: luna-1999-11-29-irving-plaza-new-york-ny-usa
+      date: '1999-11-29'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-1999-11-30-irving-plaza-new-york-ny-usa
+      date: '1999-11-30'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-1999-12-10-whfs-washington-dc-usa
+      date: '1999-12-10'
+      year: 1999
+      venue: WHFS
+      city: Washington DC
+      country: USA
+      position: 6

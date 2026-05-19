@@ -1,0 +1,46 @@
+title: The Alibi
+slug: the-alibi
+sort_title: ALIBI
+authors: Wareham/Eden/Phillips/Wall
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Alibi
+    appears_on:
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset
+      catalogue_no: TWA51CD
+      position: 5
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: Digital
+      country: US
+      edition_year: 2011
+      label: Self released
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-2025-11-01-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-11-01'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 9
+    - show_slug: luna-2026-04-05-assembly-kingston-ny-usa
+      date: '2026-04-05'
+      year: 2026
+      venue: Assembly
+      city: Kingston
+      country: USA
+      position: 6

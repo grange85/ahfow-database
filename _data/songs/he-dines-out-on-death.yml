@@ -1,0 +1,67 @@
+title: He Dines Out on Death
+slug: he-dines-out-on-death
+sort_title: HE DINES OUT ON DEATH
+authors: Brierley/Cristina
+original_artist: Cristina
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: He Dines Out on Death
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 11
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 4
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: LP-DBL-0017
+      side: A
+      position: 4
+    played_live:
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2020-09-26-1800-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2025-08-26-the-engine-room-north-shields-uk
+      date: '2025-08-26'
+      year: 2025
+      venue: The Engine Room
+      city: North Shields
+      country: UK
+      position: 3

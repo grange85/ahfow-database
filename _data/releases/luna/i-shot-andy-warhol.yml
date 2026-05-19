@@ -1,0 +1,20 @@
+title: I Shot Andy Warhol
+slug: i-shot-andy-warhol
+release_type: Misc
+year: 1996
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-i-shot-andy-warhol.jpg
+album_artist: Various artists
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  year: 1996
+  label: TAG/Atlantic
+  catalogue_no: 92690-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-i-shot-andy-warhol.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of The Witch

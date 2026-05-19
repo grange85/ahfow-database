@@ -1,0 +1,26 @@
+title: Chinatown
+slug: chinatown
+release_type: Single
+year: 1995
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1995
+  label: Elektra
+  catalogue_no: PRCD 8884-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-chinatown-promo.jpg
+  notes: Promo single
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 2
+    side_position: 2
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown

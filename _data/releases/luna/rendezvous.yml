@@ -1,0 +1,140 @@
+title: Rendezvous
+slug: rendezvous
+release_type: Album
+year: 2004
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_rendezvous.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 2004
+  label: Jetset Records
+  catalogue_no: TWA69CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Malibu Love Nest
+    slug: malibu-love-nest
+    full_title: Malibu Love Nest
+  - position: 2
+    side_position: 2
+    title: Cindy Tastes of Barbecue
+    slug: cindy-tastes-of-barbecue
+    full_title: Cindy Tastes of Barbecue
+  - position: 3
+    side_position: 3
+    title: Speedbumps
+    slug: speedbumps
+    full_title: Speedbumps
+  - position: 4
+    side_position: 4
+    title: The Owl and the Pussycat
+    slug: the-owl-and-the-pussycat
+    full_title: The Owl and the Pussycat
+  - position: 5
+    side_position: 5
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 6
+    side_position: 6
+    title: Broken Chair
+    slug: broken-chair
+    full_title: Broken Chair
+  - position: 7
+    side_position: 7
+    title: Star Spangled Man
+    slug: star-spangled-man
+    full_title: Star Spangled Man
+  - position: 8
+    side_position: 8
+    title: Motel Bambi
+    slug: motel-bambi
+    full_title: Motel Bambi
+  - position: 9
+    side_position: 9
+    title: Still at Home
+    slug: still-at-home
+    full_title: Still at Home
+  - position: 10
+    side_position: 10
+    title: Buffalo Boots
+    slug: buffalo-boots
+    full_title: Buffalo Boots
+  - position: 11
+    side_position: 11
+    title: Rainbow Babe
+    slug: rainbow-babe
+    full_title: Rainbow Babe
+- format: LP
+  country: US
+  year: 2012
+  label: Double Feature
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Malibu Love Nest
+    slug: malibu-love-nest
+    full_title: Malibu Love Nest
+  - position: 2
+    side: A
+    side_position: 2
+    title: Cindy Tastes of Barbecue
+    slug: cindy-tastes-of-barbecue
+    full_title: Cindy Tastes of Barbecue
+  - position: 3
+    side: A
+    side_position: 3
+    title: Speedbumps
+    slug: speedbumps
+    full_title: Speedbumps
+  - position: 4
+    side: A
+    side_position: 4
+    title: The Owl and the Pussycat
+    slug: the-owl-and-the-pussycat
+    full_title: The Owl and the Pussycat
+  - position: 5
+    side: A
+    side_position: 5
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 6
+    side: A
+    side_position: 6
+    title: Rainbow Babe
+    slug: rainbow-babe
+    full_title: Rainbow Babe
+  - position: 7
+    side: B
+    side_position: 1
+    title: Broken Chair
+    slug: broken-chair
+    full_title: Broken Chair
+  - position: 8
+    side: B
+    side_position: 2
+    title: Star Spangled Man
+    slug: star-spangled-man
+    full_title: Star Spangled Man
+  - position: 9
+    side: B
+    side_position: 3
+    title: Motel Bambi
+    slug: motel-bambi
+    full_title: Motel Bambi
+  - position: 10
+    side: B
+    side_position: 4
+    title: Still at Home
+    slug: still-at-home
+    full_title: Still at Home
+  - position: 11
+    side: B
+    side_position: 5
+    title: Buffalo Boots
+    slug: buffalo-boots
+    full_title: Buffalo Boots

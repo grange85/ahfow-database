@@ -1,0 +1,177 @@
+title: Way up High
+slug: way-up-high
+sort_title: WAY UP HIGH
+authors: Krukowski/Wareham/Yang
+lyrics: 'Down to the club
+
+  Up on the roof
+
+  I missed the band
+
+  Why so aloof?
+
+
+  Way up high and goin too fast
+
+  Way up, way up high
+
+
+  Open your eyes
+
+  Come see my quilt
+
+  Big as the bed
+
+  Look what I built
+
+
+  Way up high and goin too fast
+
+  Way up, way up high'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Way Up High
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 5
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156L
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH 156
+      side: A
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1990
+      label: Rough Trade America
+      catalogue_no: RUS 86-2
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 5
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.09LP
+      side: A
+      position: 5
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 28
+    played_live:
+    - show_slug: galaxie-500-1990-05-16-upstairs-at-the-middle-east-cambridge-ma-usa
+      date: '1990-05-16'
+      year: 1990
+      venue: Upstairs at The Middle East
+      city: Cambridge
+      country: USA
+      position: 6

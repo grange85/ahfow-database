@@ -1,0 +1,1013 @@
+title: Time to Quit
+slug: time-to-quit
+sort_title: TIME TO QUIT
+lyrics: 'It''s gettin warm already
+
+  We''re goin for a ride
+
+  I love the Motel 6''s
+
+  I''m feelin pacified
+
+
+  Forget about your parents
+
+  They never cared a bit
+
+  Leave the doctors behind you
+
+  I think it''s time to quit'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Time to Quit
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: B
+      position: 10
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: B
+      position: 10
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 10
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: B
+      position: 10
+    played_live:
+    - show_slug: luna-1992-01-17-cbgbs-new-york-ny-usa
+      date: '1992-01-17'
+      year: 1992
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 6
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 6
+    - show_slug: luna-1992-11-04-coach-house-san-juan-capistrano-ca-usa
+      date: '1992-11-04'
+      year: 1992
+      venue: Coach House
+      city: San Juan Capistrano
+      country: USA
+      position: 9
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: luna-1992-11-06-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-06'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 9
+    - show_slug: luna-1993-03-02-opera-house-toronto-ontario-canada
+      date: '1993-03-02'
+      year: 1993
+      venue: Opera House
+      city: Toronto
+      country: Canada
+      position: 9
+    - show_slug: luna-1993-03-04-st-andrews-hall-detroit-mi-usa
+      date: '1993-03-04'
+      year: 1993
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 8
+    - show_slug: luna-1993-03-05-agora-cleveland-oh-usa
+      date: '1993-03-05'
+      year: 1993
+      venue: Agora
+      city: Cleveland
+      country: USA
+      position: 9
+    - show_slug: luna-1993-03-19-warfield-theater-san-francisco-ca-usa
+      date: '1993-03-19'
+      year: 1993
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 12
+    - show_slug: luna-1993-06-05-forum-london-uk
+      date: '1993-06-05'
+      year: 1993
+      venue: Forum
+      city: London
+      country: UK
+      position: 6
+    - show_slug: luna-1993-06-13-palac-kultury-prague-czech-republic
+      date: '1993-06-13'
+      year: 1993
+      venue: Palac Kultury
+      city: Prague
+      country: Czech Republic
+      position: 8
+    - show_slug: luna-1994-02-18-kennel-club-san-francisco-ca-usa
+      date: '1994-02-18'
+      year: 1994
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 11
+    - show_slug: luna-1994-03-30-civic-auditorium-portland-or-usa
+      date: '1994-03-30'
+      year: 1994
+      venue: Civic Auditorium
+      city: Portland
+      country: USA
+      position: 9
+    - show_slug: luna-1994-04-03-universal-amphitheatre-los-angeles-ca-usa
+      date: '1994-04-03'
+      year: 1994
+      venue: Universal Amphitheatre
+      city: Los Angeles
+      country: USA
+      position: 8
+    - show_slug: luna-1994-04-15-trocadeo-philadelphia-pa-usa
+      date: '1994-04-15'
+      year: 1994
+      venue: Trocadeo
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 15
+    - show_slug: luna-1994-05-05-shank-hall-milwaukee-wi-usa
+      date: '1994-05-05'
+      year: 1994
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 13
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 11
+    - show_slug: luna-1994-05-20-la2-london-uk
+      date: '1994-05-20'
+      year: 1994
+      venue: LA2
+      city: London
+      country: UK
+      position: 8
+    - show_slug: luna-1994-05-23-bierkeller-bristol-uk
+      date: '1994-05-23'
+      year: 1994
+      venue: Bierkeller
+      city: Bristol
+      country: UK
+      position: 9
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 15
+    - show_slug: luna-1994-07-12-casbah-san-diego-ca-usa
+      date: '1994-07-12'
+      year: 1994
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 14
+    - show_slug: luna-1994-07-14-the-roxy-los-angeles-ca-usa
+      date: '1994-07-14'
+      year: 1994
+      venue: The Roxy
+      city: Los Angeles
+      country: USA
+      position: 14
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 14
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 14
+    - show_slug: luna-1994-11-16-avalon-ballroom-boston-ma-usa
+      date: '1994-11-16'
+      year: 1994
+      venue: Avalon Ballroom
+      city: Boston
+      country: USA
+      position: 10
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-1995-05-10-borderline-london-uk
+      date: '1995-05-10'
+      year: 1995
+      venue: Borderline
+      city: London
+      country: UK
+      position: 11
+    - show_slug: luna-1995-09-08-nyu-new-york-ny-usa
+      date: '1995-09-08'
+      year: 1995
+      venue: NYU
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-1995-09-15-cats-cradle-carrboro-nc-usa
+      date: '1995-09-15'
+      year: 1995
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 12
+    - show_slug: luna-1995-09-16-point-atlanta-ga-usa
+      date: '1995-09-16'
+      year: 1995
+      venue: Point
+      city: Atlanta
+      country: USA
+      position: 13
+    - show_slug: luna-1995-10-12-moes-seattle-wa-usa
+      date: '1995-10-12'
+      year: 1995
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 12
+    - show_slug: luna-1995-10-13-la-luna-portland-or-usa
+      date: '1995-10-13'
+      year: 1995
+      venue: La Luna
+      city: Portland
+      country: USA
+      position: 8
+    - show_slug: luna-1995-10-14-john-henrys-eugene-or-usa
+      date: '1995-10-14'
+      year: 1995
+      venue: John Henrys
+      city: Eugene
+      country: USA
+      position: 10
+    - show_slug: luna-1995-10-16-slims-san-francisco-ca-usa
+      date: '1995-10-16'
+      year: 1995
+      venue: Slims
+      city: San Francisco
+      country: USA
+      position: 13
+    - show_slug: luna-1995-11-11-early-knitting-factory-new-york-ny-usa
+      date: '1995-11-11'
+      year: 1995
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-1995-12-11-trefcentrum-vk-brussels-belgium
+      date: '1995-12-11'
+      year: 1995
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 11
+    - show_slug: luna-1995-12-16-garage-london-uk
+      date: '1995-12-16'
+      year: 1995
+      venue: Garage
+      city: London
+      country: UK
+      position: 10
+    - show_slug: luna-1996-01-19-930-club-washington-dc-usa
+      date: '1996-01-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: luna-1996-01-20-cats-cradle-carrboro-nc-usa
+      date: '1996-01-20'
+      year: 1996
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 8
+    - show_slug: luna-1996-01-26-einstein-a-go-go-jacksonville-fl-usa
+      date: '1996-01-26'
+      year: 1996
+      venue: Einstein A Go Go
+      city: Jacksonville
+      country: USA
+      position: 13
+    - show_slug: luna-1996-03-08-electric-factory-philadelphia-pa-usa
+      date: '1996-03-08'
+      year: 1996
+      venue: Electric Factory
+      city: Philadelphia
+      country: USA
+      position: 6
+    - show_slug: luna-1996-04-18-philadelphia-college-of-textile-philadelphia-pa-usa
+      date: '1996-04-18'
+      year: 1996
+      venue: Philadelphia College of Textile
+      city: Philadelphia
+      country: USA
+      position: 11
+    - show_slug: luna-1996-05-25-930-club-washington-dc-usa
+      date: '1996-05-25'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 14
+    - show_slug: luna-1996-06-07-irving-plaza-new-york-ny-usa
+      date: '1996-06-07'
+      year: 1996
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 15
+    - show_slug: luna-1996-07-21-mercury-lounge-new-york-ny-usa
+      date: '1996-07-21'
+      year: 1996
+      venue: Mercury Lounge
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-1996-10-19-930-club-washington-dc-usa
+      date: '1996-10-19'
+      year: 1996
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: luna-1996-11-15-fletchers-baltimore-md-usa
+      date: '1996-11-15'
+      year: 1996
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 7
+    - show_slug: luna-1996-12-28-maxwells-hoboken-nj-usa
+      date: '1996-12-28'
+      year: 1996
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 9
+    - show_slug: luna-1996-12-31-mercury-lounge-new-york-ny-usa
+      date: '1996-12-31'
+      year: 1996
+      venue: Mercury Lounge
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-1997-01-25-930-club-washington-dc-usa
+      date: '1997-01-25'
+      year: 1997
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: luna-1997-03-01-vassar-college-poughkeepsie-ny-usa
+      date: '1997-03-01'
+      year: 1997
+      venue: Vassar College
+      city: Poughkeepsie
+      country: USA
+      position: 6
+    - show_slug: luna-1997-09-05-cats-cradle-carrboro-nc-usa
+      date: '1997-09-05'
+      year: 1997
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 11
+    - show_slug: luna-1997-09-08-bohagers-baltimore-md-usa
+      date: '1997-09-08'
+      year: 1997
+      venue: Bohagers
+      city: Baltimore
+      country: USA
+      position: 15
+    - show_slug: luna-1997-09-18-little-brothers-columbus-oh-usa
+      date: '1997-09-18'
+      year: 1997
+      venue: Little Brothers
+      city: Columbus
+      country: USA
+      position: 9
+    - show_slug: luna-1997-09-26-crocodile-cafe-seattle-wa-usa
+      date: '1997-09-26'
+      year: 1997
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: luna-1997-09-29-fillmore-san-francisco-ca-usa
+      date: '1997-09-29'
+      year: 1997
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 17
+    - show_slug: luna-1997-11-14-bikini-barcelona-spain
+      date: '1997-11-14'
+      year: 1997
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 10
+    - show_slug: luna-1997-12-12-irving-plaza-new-york-ny-usa
+      date: '1997-12-12'
+      year: 1997
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-1998-01-15-trax-charlottesville-va-usa
+      date: '1998-01-15'
+      year: 1998
+      venue: Trax
+      city: Charlottesville
+      country: USA
+      position: 5
+    - show_slug: luna-1998-01-17-alley-katz-richmond-va-usa
+      date: '1998-01-17'
+      year: 1998
+      venue: Alley Katz
+      city: Richmond
+      country: USA
+      position: 11
+    - show_slug: luna-1998-02-14-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '1998-02-14'
+      year: 1998
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 11
+    - show_slug: luna-1998-04-04-liberty-lunch-austin-tx-usa
+      date: '1998-04-04'
+      year: 1998
+      venue: Liberty Lunch
+      city: Austin
+      country: USA
+      position: 11
+    - show_slug: luna-1998-05-01-slims-san-francisco-ca-usa
+      date: '1998-05-01'
+      year: 1998
+      venue: Slims
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-1998-09-10-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-10'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-1998-09-30-the-drop-sydney-new-south-wales-australia
+      date: '1998-09-30'
+      year: 1998
+      venue: The Drop
+      city: Sydney
+      country: Australia
+      position: 12
+    - show_slug: luna-1998-11-22-dark-horse-tavern-atlanta-ga-usa
+      date: '1998-11-22'
+      year: 1998
+      venue: Dark Horse Tavern
+      city: Atlanta
+      country: USA
+      position: 12
+    - show_slug: luna-1999-07-27-1-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 14
+    - show_slug: luna-1999-08-01-930-club-washington-dc-usa
+      date: '1999-08-01'
+      year: 1999
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 7
+    - show_slug: luna-1999-11-08-first-avenue-minneapolis-mn-usa
+      date: '1999-11-08'
+      year: 1999
+      venue: First Avenue
+      city: Minneapolis
+      country: USA
+      position: 11
+    - show_slug: luna-1999-11-11-crocodile-cafe-seattle-wa-usa
+      date: '1999-11-11'
+      year: 1999
+      venue: Crocodile Cafe
+      city: Seattle
+      country: USA
+      position: 9
+    - show_slug: luna-1999-11-30-irving-plaza-new-york-ny-usa
+      date: '1999-11-30'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-1999-12-04-cotton-club-atlanta-ga-usa
+      date: '1999-12-04'
+      year: 1999
+      venue: Cotton Club
+      city: Atlanta
+      country: USA
+      position: 11
+    - show_slug: luna-1999-12-13-higher-ground-burlington-vt-usa
+      date: '1999-12-13'
+      year: 1999
+      venue: Higher Ground
+      city: Burlington
+      country: USA
+      position: 11
+    - show_slug: luna-2000-03-30-starfish-room-vancouver-british-columbia-canada
+      date: '2000-03-30'
+      year: 2000
+      venue: Starfish Room
+      city: Vancouver
+      country: Canada
+      position: 10
+    - show_slug: luna-2000-04-03-fox-theatre-boulder-co-usa
+      date: '2000-04-03'
+      year: 2000
+      venue: Fox Theatre
+      city: Boulder
+      country: USA
+      position: 12
+    - show_slug: luna-2000-04-04-metro-chicago-il-usa
+      date: '2000-04-04'
+      year: 2000
+      venue: Metro
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-2000-04-08-1-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-08'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2000-04-08-2-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-08'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2000-04-19-fletchers-baltimore-md-usa
+      date: '2000-04-19'
+      year: 2000
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 12
+    - show_slug: luna-2000-05-27-maxwells-hoboken-nj-usa
+      date: '2000-05-27'
+      year: 2000
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 13
+    - show_slug: luna-2001-02-10-930-club-washington-dc-usa
+      date: '2001-02-10'
+      year: 2001
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 8
+    - show_slug: luna-2001-02-23-knitting-factory-los-angeles-ca-usa
+      date: '2001-02-23'
+      year: 2001
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 12
+    - show_slug: luna-2001-03-30-bowery-ballroom-new-york-ny-usa
+      date: '2001-03-30'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2001-03-31-bowery-ballroom-new-york-ny-usa
+      date: '2001-03-31'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2001-05-18-trees-lounge-dallas-tx-usa
+      date: '2001-05-18'
+      year: 2001
+      venue: Trees Lounge
+      city: Dallas
+      country: USA
+      position: 14
+    - show_slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+      date: '2002-07-20'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 13
+    - show_slug: luna-2002-11-30-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-30'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-2002-12-31-maxwells-hoboken-nj-usa
+      date: '2002-12-31'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 18
+    - show_slug: luna-2003-07-26-maxwells-hoboken-nj-usa
+      date: '2003-07-26'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 13
+    - show_slug: luna-2003-08-15-black-cat-washington-dc-usa
+      date: '2003-08-15'
+      year: 2003
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 15
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 17
+    - show_slug: luna-2004-11-07-lees-palace-toronto-ontario-canada
+      date: '2004-11-07'
+      year: 2004
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 17
+    - show_slug: luna-2004-11-09-beachland-ballroom-cleveland-oh-usa
+      date: '2004-11-09'
+      year: 2004
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 19
+    - show_slug: luna-2004-11-12-abbey-pub-chicago-il-usa
+      date: '2004-11-12'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 15
+    - show_slug: luna-2004-11-19-exitin-nashville-tn-usa
+      date: '2004-11-19'
+      year: 2004
+      venue: Exit/In
+      city: Nashville
+      country: USA
+      position: 13
+    - show_slug: luna-2004-12-18-930-club-washington-dc-usa
+      date: '2004-12-18'
+      year: 2004
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 18
+    - show_slug: luna-2005-01-28-la-zona-rosa-austin-tx-usa
+      date: '2005-01-28'
+      year: 2005
+      venue: La Zona Rosa
+      city: Austin
+      country: USA
+      position: 18
+    - show_slug: luna-2005-02-02-club-congress-tucson-az-usa
+      date: '2005-02-02'
+      year: 2005
+      venue: Club Congress
+      city: Tucson
+      country: USA
+      position: 19
+    - show_slug: luna-2005-02-11-2100-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 16
+    - show_slug: luna-2005-02-24-st-andrews-hall-detroit-mi-usa
+      date: '2005-02-24'
+      year: 2005
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 17
+    - show_slug: luna-2005-02-28-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-28'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-2015-04-18-escenario-santander-santander-spain
+      date: '2015-04-18'
+      year: 2015
+      venue: Escenario Santander
+      city: Santander
+      country: Spain
+      position: 12
+    - show_slug: luna-2015-04-20-teatro-lara-madrid-spain
+      date: '2015-04-20'
+      year: 2015
+      venue: Teatro Lara
+      city: Madrid
+      country: Spain
+      position: 18
+    - show_slug: luna-2015-04-24-centro-de-las-armas-zaragoza-spain
+      date: '2015-04-24'
+      year: 2015
+      venue: Centro de Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 15
+    - show_slug: luna-2015-06-11-northside-festival-brooklyn-ny-usa
+      date: '2015-06-11'
+      year: 2015
+      venue: Northside Festival
+      city: Brooklyn
+      country: USA
+      position: 15
+    - show_slug: luna-2015-08-01-brudenell-social-club-leeds-uk
+      date: '2015-08-01'
+      year: 2015
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 12
+    - show_slug: luna-2015-10-03-terminal-west-atlanta-ga-usa
+      date: '2015-10-03'
+      year: 2015
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 10
+    - show_slug: luna-2015-10-06-930-club-washington-dc-usa
+      date: '2015-10-06'
+      year: 2015
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 15
+    - show_slug: luna-2015-10-09-music-hall-of-williamsburg-brooklyn-ny-usa
+      date: '2015-10-09'
+      year: 2015
+      venue: Music Hall of Williamsburg
+      city: Brooklyn
+      country: USA
+      position: 15
+    - show_slug: luna-2015-10-15-st-andrews-hall-deroit-mi-usa
+      date: '2015-10-15'
+      year: 2015
+      venue: St Andrew's Hall
+      city: Deroit
+      country: USA
+      position: 15
+    - show_slug: luna-2015-11-04-biltmore-caberet-vancouver-british-columbia-canada
+      date: '2015-11-04'
+      year: 2015
+      venue: Biltmore Caberet
+      city: Vancouver
+      country: Canada
+      position: 11
+    - show_slug: luna-2015-12-29-the-casbah-san-diego-ca-usa
+      date: '2015-12-29'
+      year: 2015
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 13
+    - show_slug: luna-2015-12-31-starline-social-club-oakland-ca-usa
+      date: '2015-12-31'
+      year: 2015
+      venue: Starline Social Club
+      city: Oakland
+      country: USA
+      position: 10
+    - show_slug: luna-2016-05-27-the-bell-house-brooklyn-ny-usa
+      date: '2016-05-27'
+      year: 2016
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 13
+    - show_slug: luna-2017-01-20-the-chapel-san-francisco-ca-usa
+      date: '2017-01-20'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 18
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 15
+    - show_slug: luna-2017-10-07-fiesta-del-marisco-o-grove-spain
+      date: '2017-10-07'
+      year: 2017
+      venue: Fiesta del Marisco
+      city: O Grove
+      country: Spain
+      position: 12
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 16
+    - show_slug: luna-2018-01-11-moroccan-lounge-los-angeles-ca-usa
+      date: '2018-01-11'
+      year: 2018
+      venue: Moroccan Lounge
+      city: Los Angeles
+      country: USA
+      position: 12
+    - show_slug: luna-2018-01-23-the-neptune-theatre-seattle-wa-usa
+      date: '2018-01-23'
+      year: 2018
+      venue: The Neptune Theatre
+      city: Seattle
+      country: USA
+      position: 12
+    - show_slug: luna-2019-10-04-union-transfer-philadelphia-pa-usa
+      date: '2019-10-04'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 16
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 10
+    - show_slug: luna-2019-10-15-lees-palace-toronto-ontario-canada
+      date: '2019-10-15'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lees Palace
+      city: Toronto
+      country: Canada
+      position: 22
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2023-01-12-lodge-room-los-angeles-ca-usa
+      date: '2023-01-12'
+      year: 2023
+      venue: Lodge Room
+      city: Los Angeles
+      country: USA
+      position: 17
+    - show_slug: luna-2023-01-13-the-chapel-san-francisco-ca-usa
+      date: '2023-01-13'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 11
+    - show_slug: luna-2023-01-16-wow-hall-eugene-or-usa
+      date: '2023-01-16'
+      year: 2023
+      venue: WOW Hall
+      city: Eugene
+      country: USA
+      position: 12
+    - show_slug: luna-2024-03-16-lincoln-hall-chicago-il-usa
+      date: '2024-03-16'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 15
+  - version_tag: Toxic shock demo
+    full_title: Time To Quit [Toxic shock demo]
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: D
+      position: 19
+    played_live: []

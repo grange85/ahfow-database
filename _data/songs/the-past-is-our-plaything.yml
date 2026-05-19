@@ -1,0 +1,70 @@
+title: The Past Is Our Plaything
+slug: the-past-is-our-plaything
+sort_title: PAST IS OUR PLAYTHING
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Past Is Our Plaything
+    appears_on:
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: CD
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: CD-DBL-0018
+      position: 1
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: LP-DBL-0018
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 1
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 1
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 1
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 14

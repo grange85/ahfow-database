@@ -1,0 +1,97 @@
+slug: luna-2002-02-23-maxwells-hoboken-nj-usa
+date: '2002-02-23'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Maxwells
+venue_slug: maxwells-hoboken-nj-usa
+city: Hoboken
+state: NJ
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Dear Diary
+  canonical_title: Dear Diary
+  song_slug: dear-diary
+  full_title: Dear Diary
+- position: 2
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 3
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 4
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 5
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 6
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 7
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 8
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 9
+  raw_title: '1995'
+  canonical_title: '1995'
+  song_slug: '1995'
+  full_title: '1995'
+- position: 10
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 11
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 12
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 13
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 14
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 15
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 16
+  raw_title: Everybody's Talkin'
+  canonical_title: Everybody's Talkin'
+  song_slug: everybodys-talkin
+  full_title: Everybody's Talkin'

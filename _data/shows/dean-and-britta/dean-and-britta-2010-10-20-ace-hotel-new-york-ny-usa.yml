@@ -1,0 +1,48 @@
+slug: dean-and-britta-2010-10-20-ace-hotel-new-york-ny-usa
+date: '2010-10-20'
+year: 2010
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Matt Sumrow
+  - guitar|Jason Lawrence - drums
+notes: CMJ event for KEXP
+venue_name: Ace Hotel
+venue_slug: ace-hotel-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 2
+  raw_title: Eyes in My Smoke
+  canonical_title: Eyes in My Smoke
+  song_slug: eyes-in-my-smoke
+  full_title: Eyes in My Smoke
+- position: 3
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 4
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 5
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 6
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange

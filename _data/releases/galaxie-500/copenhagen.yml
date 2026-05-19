@@ -1,0 +1,173 @@
+title: Copenhagen
+slug: copenhagen
+release_type: Album
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: US
+  year: 1997
+  label: Rykodisc
+  catalogue_no: RCD 10373
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500copenhagen_front_019.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 2
+    side_position: 2
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 3
+    side_position: 3
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 4
+    side_position: 4
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 7
+    side_position: 7
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 8
+    side_position: 8
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 9
+    side_position: 9
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+- format: CD
+  country: JP
+  year: 2008
+  label: Videoarts Music
+  catalogue_no: VACK 1371
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_copenhagen_va_front.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 2
+    side_position: 2
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 3
+    side_position: 3
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 4
+    side_position: 4
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 5
+    side_position: 5
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side_position: 6
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 7
+    side_position: 7
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 8
+    side_position: 8
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 9
+    side_position: 9
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+- format: 2xLP
+  country: US
+  year: 2020
+  label: 20|20|20
+  catalogue_no: '202020.15'
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500copenhagen_front_019.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 2
+    side: A
+    side_position: 2
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 3
+    side: A
+    side_position: 3
+    title: Summertime
+    slug: summertime
+    full_title: Summertime
+  - position: 4
+    side: B
+    side_position: 1
+    title: Sorry
+    slug: sorry
+    full_title: Sorry
+  - position: 5
+    side: B
+    side_position: 2
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 6
+    side: B
+    side_position: 3
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 7
+    side: C
+    side_position: 1
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, the Snow Is Falling
+  - position: 8
+    side: C
+    side_position: 2
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+  - position: 9
+    side: C
+    side_position: 3
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste

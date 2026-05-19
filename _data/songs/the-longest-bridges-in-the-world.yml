@@ -1,0 +1,113 @@
+title: The Longest Bridges in the World
+slug: the-longest-bridges-in-the-world
+sort_title: LONGEST BRIDGES IN THE WORLD
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Longest Bridges in the World
+    appears_on:
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 4
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 4
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 047
+      side: B
+      position: 4
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: LP-DBL-010
+      side: B
+      position: 4
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: Cassette
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 076
+      side: B
+      position: 10
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: 2xLP
+      country: UK
+      edition_year: 2023
+      label: Sonic Cathedral
+      catalogue_no: SCR 276LP
+      side: C
+      position: 10
+    played_live:
+    - show_slug: dean-and-britta-2012-11-07-the-silver-studio-the-andy-warhol-museum-pittsburgh-pa-usa
+      date: '2012-11-07'
+      year: 2012
+      venue: The Silver Studio, The Andy Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 2

@@ -1,0 +1,21 @@
+title: Silver Snowflakes
+slug: silver-snowflakes
+sort_title: SILVER SNOWFLAKES
+authors: CHECK
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Silver Snowflakes
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: A
+      position: 6
+    played_live: []

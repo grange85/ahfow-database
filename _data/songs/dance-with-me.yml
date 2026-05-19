@@ -1,0 +1,47 @@
+title: Dance With Me
+slug: dance-with-me
+sort_title: DANCE WITH ME
+authors: Jonathan Richman
+original_artist: Richman, Jonathan
+originals_url: https://www.fullofwishes.co.uk/2013/04/24/originals-dance-with-me-by-the-modern-lovers-covered-by-luna/
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Dance With Me
+    appears_on:
+    - release_title: Bobby Peru
+      release_slug: bobby-peru
+      release_type: Single
+      year: 1997
+      format: '7'
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ319CD
+      side: B
+      position: 2
+    - release_title: Dance With Me
+      release_slug: dance-with-me
+      release_type: Single
+      year: 1998
+      format: '7'
+      country: US
+      edition_year: 1998
+      label: ROCKER! Supernova Records
+      catalogue_no: RS-004
+      side: A
+      position: 1
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: D
+      position: 20
+    played_live: []

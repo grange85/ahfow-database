@@ -1,0 +1,290 @@
+title: Thank You for Sending Me an Angel
+slug: thank-you-for-sending-me-an-angel
+sort_title: THANK YOU FOR SENDING ME AN ANGEL
+authors: David Byrne
+original_artist: Talking Heads
+lyrics: 'oh, oh, oh
+
+  oh baby you can walk
+
+  you can talk just like me
+
+  you can walk/talk just like me
+
+  you can look
+
+  tell me what you see
+
+  you can look
+
+  you won''t see nothin'' like me
+
+
+  oh, oh, oh
+
+  oh baby you can walk
+
+  you can talk just like me
+
+  little girl you can walk/talk just like me
+
+  if that''s what''s you wan''t to do
+
+  and you can look
+
+  you walk in circles around me
+
+  but first, i''ll walk in circles around you
+
+
+  round we go
+
+  round the world we go
+
+  aye aye aye aye......
+
+  you can walk girl
+
+  you walk in circles around me
+
+  but first...
+
+  show me what you can do'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Thank You for Sending Me an Angel
+    appears_on:
+    - release_title: Bonnie and Clyde
+      release_slug: bonnie-and-clyde
+      release_type: Single
+      year: 1995
+      format: '12'
+      country: UK
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BBQ56T
+      side: A
+      position: 2
+    - release_title: Bonnie and Clyde
+      release_slug: bonnie-and-clyde
+      release_type: Single
+      year: 1995
+      format: CD
+      country: UK
+      edition_year: 1995
+      label: Beggars Banquet
+      catalogue_no: BBQ56CD
+      position: 2
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: C
+      position: 16
+    - release_title: Penthouse
+      release_slug: penthouse
+      release_type: Album
+      year: 1995
+      format: 2xLP
+      country: US
+      edition_year: 2017
+      label: Elektra / Rhino
+      catalogue_no: R1 558604
+      side: D
+      position: 21
+    - release_title: EP (No.6)
+      release_slug: ep-no-6
+      release_type: Single
+      year: 1996
+      format: CD
+      country: US
+      edition_year: 1996
+      label: No. 6 Records
+      catalogue_no: KAR 036-2
+      position: 2
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 34
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 14
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-1994-02-18-kennel-club-san-francisco-ca-usa
+      date: '1994-02-18'
+      year: 1994
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: luna-1994-05-05-shank-hall-milwaukee-wi-usa
+      date: '1994-05-05'
+      year: 1994
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 6
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: luna-1994-05-20-la2-london-uk
+      date: '1994-05-20'
+      year: 1994
+      venue: LA2
+      city: London
+      country: UK
+      position: 3
+    - show_slug: luna-1994-05-23-bierkeller-bristol-uk
+      date: '1994-05-23'
+      year: 1994
+      venue: Bierkeller
+      city: Bristol
+      country: UK
+      position: 3
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 6
+    - show_slug: luna-1994-07-12-casbah-san-diego-ca-usa
+      date: '1994-07-12'
+      year: 1994
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 5
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: luna-1994-07-14-the-roxy-los-angeles-ca-usa
+      date: '1994-07-14'
+      year: 1994
+      venue: The Roxy
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 7
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: luna-1994-11-16-avalon-ballroom-boston-ma-usa
+      date: '1994-11-16'
+      year: 1994
+      venue: Avalon Ballroom
+      city: Boston
+      country: USA
+      position: 4
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-1995-05-10-borderline-london-uk
+      date: '1995-05-10'
+      year: 1995
+      venue: Borderline
+      city: London
+      country: UK
+      position: 7
+    - show_slug: luna-1995-09-16-point-atlanta-ga-usa
+      date: '1995-09-16'
+      year: 1995
+      venue: Point
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: luna-2023-01-14-the-chapel-san-francisco-ca-usa
+      date: '2023-01-14'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: luna-2023-01-19-alladin-theater-portland-or-usa
+      date: '2023-01-19'
+      year: 2023
+      venue: Alladin Theater
+      city: Portland
+      country: USA
+      position: 12
+    - show_slug: luna-2023-09-07-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-07'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: luna-2023-09-11-the-paradise-boston-ma-usa
+      date: '2023-09-11'
+      year: 2023
+      venue: The Paradise
+      city: Boston
+      country: USA
+      position: 3
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 8

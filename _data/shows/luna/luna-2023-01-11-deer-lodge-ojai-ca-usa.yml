@@ -1,0 +1,100 @@
+slug: luna-2023-01-11-deer-lodge-ojai-ca-usa
+date: '2023-01-11'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2023-01-11/2023-01-11-luna-ojai-poster.jpg
+ticket_url: https://www.eventbrite.com/e/luna-ojai-deer-lodge-ojai-111-tickets-471595774657
+setlist_source: setlist.fm
+venue_name: Deer Lodge
+venue_slug: deer-lodge-ojai-ca-usa
+city: Ojai
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 4
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 5
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 6
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 7
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 8
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 9
+  raw_title: The Corridors of Power
+  canonical_title: The Corridors of Power
+  song_slug: the-corridors-of-power
+  full_title: The Corridors of Power
+- position: 10
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 11
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 12
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 13
+  raw_title: Neon Lights
+  canonical_title: Neon Lights
+  song_slug: neon-lights
+  full_title: Neon Lights
+- position: 14
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 15
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 16
+  raw_title: Walk on the Wild Side
+  canonical_title: Walk on the Wild Side
+  song_slug: walk-on-the-wild-side
+  full_title: Walk on the Wild Side

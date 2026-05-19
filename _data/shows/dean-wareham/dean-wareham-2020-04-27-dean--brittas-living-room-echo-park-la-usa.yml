@@ -1,0 +1,22 @@
+slug: dean-wareham-2020-04-27-dean--brittas-living-room-echo-park-la-usa
+date: '2020-04-27'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals
+notes: Ad-hoc live stream from Dean & Britta's home in Los Angeles
+venue_name: Dean & Britta's living room
+venue_slug: dean--brittas-living-room-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: My Rifle, My Pony and Me
+  canonical_title: My Rifle, My Pony and Me
+  song_slug: my-rifle-my-pony-and-me
+  full_title: My Rifle, My Pony and Me

@@ -1,0 +1,105 @@
+slug: luna-2023-10-25-club-lula-madrid-spain
+date: '2023-10-25'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://houstonpartymusic.com/tour-dates/809
+venue_name: Club Lula
+venue_slug: club-lula-madrid-spain
+city: Madrid
+country: Spain
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 2
+  raw_title: Dear Diary
+  canonical_title: Dear Diary
+  song_slug: dear-diary
+  full_title: Dear Diary
+- position: 3
+  raw_title: Sideshow by The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 5
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 6
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 7
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 8
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 9
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 10
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 11
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 12
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 13
+  raw_title: Satellite of Love
+  canonical_title: Satellite of Love
+  song_slug: satellite-of-love
+  full_title: Satellite of Love
+- position: 14
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 15
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 16
+  raw_title: ^encore
+  annotation: encore
+- position: 17
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 18
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon

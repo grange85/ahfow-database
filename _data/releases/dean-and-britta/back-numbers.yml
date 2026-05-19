@@ -1,0 +1,139 @@
+title: Back Numbers
+slug: back-numbers
+release_type: Album
+year: 2007
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_backnumbers.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: CD
+  year: 2007
+  label: Zoë
+  catalogue_no: 01143-1105-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Singer Sing
+    slug: singer-sing
+    full_title: Singer Sing
+  - position: 2
+    side_position: 2
+    title: Words You Used to Say
+    slug: words-you-used-to-say
+    full_title: Words You Used to Say
+  - position: 3
+    side_position: 3
+    title: Wait for Me
+    slug: wait-for-me
+    full_title: Wait For Me
+  - position: 4
+    side_position: 4
+    title: You Turned My Head Around
+    slug: you-turned-my-head-around
+    full_title: You Turned My Head Around
+  - position: 5
+    side_position: 5
+    title: Teen Angel
+    slug: teen-angel
+    full_title: Teen Angel
+  - position: 6
+    side_position: 6
+    title: White Horses
+    slug: white-horses
+    full_title: White Horses
+  - position: 7
+    side_position: 7
+    title: Me and My Babies
+    slug: me-and-my-babies
+    full_title: Me and My Babies
+  - position: 8
+    side_position: 8
+    title: Say Goodnight
+    slug: say-goodnight
+    full_title: Say Goodnight
+  - position: 9
+    side_position: 9
+    title: Crystal Blue R.I.P.
+    slug: crystal-blue-rip
+    full_title: Crystal Blue R.I.P.
+  - position: 10
+    side_position: 10
+    title: The Sun Is Still Sunny
+    slug: the-sun-is-still-sunny
+    full_title: The Sun is Still Sunny
+  - position: 11
+    side_position: 11
+    title: Our Love Will Still Be There
+    slug: our-love-will-still-be-there
+    full_title: Our Love Will Still be There
+- format: LP
+  year: 2019
+  label: Wouldn't Waste
+  catalogue_no: WWR-13
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Singer Sing
+    slug: singer-sing
+    full_title: Singer Sing
+  - position: 2
+    side: A
+    side_position: 2
+    title: Words You Used to Say
+    slug: words-you-used-to-say
+    full_title: Words You Used to Say
+  - position: 3
+    side: A
+    side_position: 3
+    title: Wait for Me
+    slug: wait-for-me
+    full_title: Wait For Me
+  - position: 4
+    side: A
+    side_position: 4
+    title: You Turned My Head Around
+    slug: you-turned-my-head-around
+    full_title: You Turned My Head Around
+  - position: 5
+    side: A
+    side_position: 5
+    title: The Sun Is Still Sunny
+    slug: the-sun-is-still-sunny
+    full_title: The Sun is Still Sunny
+  - position: 6
+    side: B
+    side_position: 1
+    title: Teen Angel
+    slug: teen-angel
+    full_title: Teen Angel
+  - position: 7
+    side: B
+    side_position: 2
+    title: White Horses
+    slug: white-horses
+    full_title: White Horses
+  - position: 8
+    side: B
+    side_position: 3
+    title: Me and My Babies
+    slug: me-and-my-babies
+    full_title: Me and My Babies
+  - position: 9
+    side: B
+    side_position: 4
+    title: Say Goodnight
+    slug: say-goodnight
+    full_title: Say Goodnight
+  - position: 10
+    side: B
+    side_position: 5
+    title: Crystal Blue R.I.P.
+    slug: crystal-blue-rip
+    full_title: Crystal Blue R.I.P.
+  - position: 11
+    side: B
+    side_position: 6
+    title: Our Love Will Still Be There
+    slug: our-love-will-still-be-there
+    full_title: Our Love Will Still be There

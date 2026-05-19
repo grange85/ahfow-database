@@ -1,0 +1,39 @@
+slug: luna-1994-04-04-kxlu-fm-los-angeles-ca-usa
+date: '1994-04-04'
+year: 1994
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: (possibly 1994-04-03)  TRUE
+setlist_source: recording
+venue_name: KXLU-FM
+venue_slug: kxlu-fm-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 2
+  raw_title: Hold On
+  canonical_title: Hold On
+  song_slug: hold-on
+  full_title: Hold On
+- position: 3
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 4
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister

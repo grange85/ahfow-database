@@ -1,0 +1,44 @@
+title: Reich der Träume
+slug: reich-der-traume
+sort_title: REICH DER TRAUME
+authors: Lutz Graf-Ulbrich
+original_artist: Lutz Graf-Ulbrich & Nico
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Reich der Träume
+    appears_on:
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Carpark Records
+      position: 9
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Carpark Records
+      side: B
+      position: 9
+    played_live:
+    - show_slug: dean-wareham-2025-04-13-nachtasyl-hamburg-germany
+      date: '2025-04-13'
+      year: 2025
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 6
+    - show_slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+      date: '2025-04-14'
+      year: 2025
+      venue: Frannz Club
+      city: Berlin
+      country: Germany
+      position: 6

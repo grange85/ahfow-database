@@ -1,0 +1,28 @@
+title: Time / Egg Nog
+slug: time-egg-nog
+release_type: Single
+year: 1992
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-time-egg-nog-800.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: US
+  year: 1992
+  label: Elektra
+  catalogue_no: ST-E-64679
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-time-egg-nog-800.jpg
+  notes: Promo - released in red and green vinyl editions
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 2
+    side: B
+    side_position: 1
+    title: Egg Nog
+    slug: egg-nog
+    full_title: Egg Nog

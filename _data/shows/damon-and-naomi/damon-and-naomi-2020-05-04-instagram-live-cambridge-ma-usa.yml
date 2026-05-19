@@ -1,0 +1,27 @@
+slug: damon-and-naomi-2020-05-04-instagram-live-cambridge-ma-usa
+date: '2020-05-04'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - piano/vocals
+notes: Live stream from Damon & Naomi's home in Cambridge in support of UMAW
+venue_name: Instagram Live
+venue_slug: instagram-live-cambridge-ma-usa
+city: Cambridge
+state: MA
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 2
+  raw_title: No More Sad Refrains
+  canonical_title: No More Sad Refrains
+  song_slug: no-more-sad-refrains
+  full_title: No More Sad Refrains

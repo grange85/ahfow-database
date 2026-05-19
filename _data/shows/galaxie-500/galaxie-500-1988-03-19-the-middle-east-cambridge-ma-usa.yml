@@ -1,0 +1,37 @@
+slug: galaxie-500-1988-03-19-the-middle-east-cambridge-ma-usa
+date: '1988-03-19'
+year: 1988
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass|Damon Krukowski - drums
+notes: 'DW: “Opening for Beat Happening”'
+venue_name: The Middle East
+venue_slug: the-middle-east-cambridge-ma-usa
+city: Cambridge
+state: MA
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Oblivious
+  canonical_title: Oblivious
+  song_slug: oblivious
+  full_title: Oblivious
+- position: 2
+  raw_title: I Can't Believe It's Me
+  canonical_title: I Can't Believe It's Me
+  song_slug: i-cant-believe-its-me
+  full_title: I Can't Believe It's Me
+- position: 3
+  raw_title: Back in Your Life
+  canonical_title: Back in Your Life
+  song_slug: back-in-your-life
+  full_title: Back in Your Life
+- position: 4
+  raw_title: Buzz in My Head
+  canonical_title: Buzz in My Head
+  song_slug: buzz-in-my-head
+  full_title: Buzz in My Head

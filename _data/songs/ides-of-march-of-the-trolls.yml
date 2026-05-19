@@ -1,0 +1,32 @@
+title: Ides of March of the Trolls
+slug: ides-of-march-of-the-trolls
+sort_title: IDES OF MARCH OF THE TROLLS
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Ides Of March Of The Trolls
+    appears_on:
+    - release_title: A Place of Greater Safety
+      release_slug: a-place-of-greater-safety
+      release_type: Single
+      year: 2017
+      format: '10'
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: DBL-0014
+      side: A
+      position: 5
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 15
+    played_live: []

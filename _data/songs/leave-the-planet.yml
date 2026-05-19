@@ -1,0 +1,188 @@
+title: Leave the Planet
+slug: leave-the-planet
+sort_title: LEAVE THE PLANET
+authors: Krukowski/Wareham/Yang
+lyrics: 'You said, "It''s time to get your clothes on"
+
+  You said, "It''s time to leave the planet"
+
+  You said, "You needn''t bring your wallet"
+
+  You said, "It''s time to leave the planet"
+
+
+  You said that I could bring my guitar
+
+  And you said, "It''s time to leave the planet"
+
+  You said that I could bring my guitar
+
+  And you said, "It''s time to leave the planet"'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Leave The Planet
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH CD 146
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH 146
+      side: B
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: EPGJPPTGJC
+      side: B
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: MC
+      country: GB
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH C146
+      side: B
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1120
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1369
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74 CD
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10357
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 1989
+      label: Rough Trade
+      catalogue_no: ROUGH US 74
+      side: B
+      position: 8
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.08LP
+      side: B
+      position: 8
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: B
+      position: 18
+    played_live:
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 10
+    - show_slug: dean-wareham-2023-03-12-nachtasyl-hamburg-germany
+      date: '2023-03-12'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Nachtasyl
+      city: Hamburg
+      country: Germany
+      position: 10

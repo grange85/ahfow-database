@@ -1,0 +1,57 @@
+title: No More Sad Refrains
+slug: no-more-sad-refrains
+sort_title: NO MORE SAD REFRAINS
+authors: Sandy Denny
+original_artist: Sandy Denny
+lyrics: 'Here comes the morning how it pleases
+
+  It always brings me something new
+
+  Its golden light will wash away the dust of yesterday
+
+  If I try it may let me forget you
+
+  And when these winter days are over
+
+  I mean to set myself upon my feet
+
+  I see me as something that I have never been
+
+  And I''ll pick up the pieces that will make the girl complete
+
+  I''ll be smiling all the time at everybody
+
+  My friends will tell me I''m just not the same
+
+  I won''t linger over any tragedies that were
+
+  And I won''t be singing any more sad refrains'
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: No More Sad Refrains
+    appears_on: []
+    played_live:
+    - show_slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+      date: '2008-06-14'
+      year: 2008
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2008-06-15-le-poisson-rouge-new-york-ny-usa
+      date: '2008-06-15'
+      year: 2008
+      venue: Le Poisson Rouge
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2020-05-04-instagram-live-cambridge-ma-usa
+      date: '2020-05-04'
+      year: 2020
+      venue: Instagram Live
+      city: Cambridge
+      country: USA
+      position: 2

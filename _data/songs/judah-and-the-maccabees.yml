@@ -1,0 +1,214 @@
+title: Judah and the Maccabees
+slug: judah-and-the-maccabees
+sort_title: JUDAH AND THE MACCABEES
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Judah and the Maccabees
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Sub Pop
+      catalogue_no: SPCD501
+      position: 3
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Elefant
+      catalogue_no: ER-1079
+      position: 3
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 3
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2012
+      label: Drag City
+      catalogue_no: DC 206CD
+      position: 3
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: CD/DVD
+      edition_year: 2002
+      label: Sub Pop
+      catalogue_no: SPCD592
+      side: A
+      position: 1
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: A
+      position: 3
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: LP/DVD
+      edition_year: 2009
+      label: Factory 25
+      catalogue_no: FTF-002
+      side: A
+      position: 1
+    - release_title: The Sub Pop Years
+      release_slug: the-sub-pop-years
+      release_type: Album
+      year: 2009
+      format: LP
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 6
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-19-tin-angel-philadelphia-pa-usa
+      date: '2000-10-19'
+      year: 2000
+      venue: Tin Angel
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2000-10-27-schubas-chicago-il-usa
+      date: '2000-10-27'
+      year: 2000
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-2000-10-31-knitting-factory-los-angeles-ca-usa
+      date: '2000-10-31'
+      year: 2000
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-2000-11-03-terrastock-iv-showbox-seattle-wa-usa
+      date: '2000-11-03'
+      year: 2000
+      event: Terrastock IV
+      venue: Showbox
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-2001-03-26-casa-del-populo-montreal-quebec-canada
+      date: '2001-03-26'
+      year: 2001
+      venue: Casa del Populo
+      city: Montreal
+      country: Canada
+      position: 1
+    - show_slug: damon-and-naomi-2001-05-15-garage-london-uk
+      date: '2001-05-15'
+      year: 2001
+      venue: Garage
+      city: London
+      country: UK
+      position: 1
+    - show_slug: damon-and-naomi-2001-05-24-ekko-utrecht-netherlands
+      date: '2001-05-24'
+      year: 2001
+      venue: Ekko
+      city: Utrecht
+      country: Netherlands
+      position: 1
+    - show_slug: damon-and-naomi-2001-08-30-bottom-of-the-hill-san-francisco-ca-usa
+      date: '2001-08-30'
+      year: 2001
+      venue: Bottom of the Hill
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-2002-07-15-tokuzo-nagoya-japan
+      date: '2002-07-15'
+      year: 2002
+      venue: Tokuzo
+      city: Nagoya
+      country: Japan
+      position: 1
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 1
+    - show_slug: damon-and-naomi-2013-01-27-mains-doeuvres-paris-france
+      date: '2013-01-27'
+      year: 2013
+      venue: Mains D'Oeuvres
+      city: Paris
+      country: France
+      position: 6
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 2
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 2
+    - show_slug: damon-and-naomi-2018-11-16-union-pool-brooklyn-ny-usa
+      date: '2018-11-16'
+      year: 2018
+      venue: Union Pool
+      city: Brooklyn
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2019-04-11-zebulon-los-angeles-ca-usa
+      date: '2019-04-11'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2023-05-10-union-pool-new-york-ny-usa
+      date: '2023-05-10'
+      year: 2023
+      venue: Union Pool
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: damon-and-naomi-2023-09-03-cafe-oto-london-uk
+      date: '2023-09-03'
+      year: 2023
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 11
+    - show_slug: damon-and-naomi-2023-10-16-bar-orwell-toronto-ontario-canada
+      date: '2023-10-16'
+      year: 2023
+      venue: Bar Orwell
+      city: Toronto
+      country: Canada
+      position: 6
+    - show_slug: damon-and-naomi-2026-01-03-cafe-oto-london-uk
+      date: '2026-01-03'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 4

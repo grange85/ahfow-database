@@ -1,0 +1,91 @@
+slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+date: '2025-08-21'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards
+support: Deary
+poster_url: https://media.fullofwishes.co.uk/07-dean_and_britta/show_assets/2025-08-21/2025-08-21-dean-and-britta-trades-club.jpg
+ticket_url: https://thetradesclub.com/events/deanbritta
+venue_name: The Trades Club
+venue_slug: the-trades-club-hebden-bridge-uk
+city: Hebden Bridge
+country: UK
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'm So Bored With The USA
+  canonical_title: I'm so Bored With the U.S.A.
+  song_slug: im-so-bored-with-the-usa
+  full_title: I'm So Bored With The U. S. A.
+- position: 2
+  raw_title: The Cloud is Coming
+  canonical_title: The Cloud Is Coming
+  song_slug: the-cloud-is-coming
+  full_title: The Cloud is Coming
+- position: 3
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 4
+  raw_title: Love is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 5
+  raw_title: I'll Keep it With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 6
+  raw_title: Mystery Guest
+  canonical_title: Mystery Guest
+  song_slug: mystery-guest
+  full_title: Mystery Guest
+- position: 7
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 8
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 9
+  raw_title: Knives from Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 10
+  raw_title: Yesterday's Hero
+  canonical_title: Yesterday's Hero
+  song_slug: yesterdays-hero
+  full_title: Yesterday's Hero
+- position: 11
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 12
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 15
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange

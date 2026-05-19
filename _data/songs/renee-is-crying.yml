@@ -1,0 +1,92 @@
+title: Renee Is Crying
+slug: renee-is-crying
+sort_title: RENEE IS CRYING
+lyrics: 'Salt and Pepper Squid
+
+  Singapore noodles
+
+  I could look at your face
+
+  For oodles and oodles
+
+
+  In Bamboo Chairs
+
+  We''ll sip through straws
+
+  As Scott goes up
+
+  Renee is crying
+
+
+  Once we have Dreams
+
+  Now we have schemes
+
+  My blood is bleeding
+
+  Oh can''t you hear
+
+
+  Love made of Silver
+
+  Love made of Gold
+
+  Am I in the right place?
+
+  Is my timing right?
+
+
+  In Bamboo Chairs
+
+  We''ll sip through Straws
+
+  As Scott Goes up
+
+  Renee is crying
+
+
+  Once we have Dreams
+
+  Now we have schemes
+
+  My blood is bleeding
+
+  Oh can''t you hear'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Renee is Crying
+    appears_on:
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: GB
+      edition_year: 2002
+      label: Beggars Banquet
+      position: 6
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: CD
+      country: US
+      edition_year: 2002
+      label: Jetset Records
+      catalogue_no: JETS 44
+      position: 6
+    - release_title: Romantica
+      release_slug: romantica
+      release_type: Album
+      year: 2002
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Double Feature
+      side: A
+      position: 6
+    played_live: []

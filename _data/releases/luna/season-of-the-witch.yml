@@ -1,0 +1,66 @@
+title: Season of the Witch
+slug: season-of-the-witch
+release_type: Single
+year: 1996
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_season.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '10'
+  country: UK
+  year: 1996
+  label: Beggars Banquet
+  catalogue_no: BBQ302TT
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_season.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of The Witch
+  - position: 2
+    side: B
+    side_position: 1
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side: B
+    side_position: 2
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 4
+    side: B
+    side_position: 3
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+- format: CD
+  country: UK
+  year: 1996
+  label: Beggars Banquet
+  catalogue_no: BBQ302CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_season.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of The Witch
+  - position: 2
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side_position: 3
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 4
+    side_position: 4
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels

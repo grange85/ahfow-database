@@ -1,0 +1,463 @@
+title: Pictures
+slug: pictures
+sort_title: PICTURES
+authors: Krukowski/Wareham/Yang
+lyrics: 'Baby my head''s full of wishes
+
+  Baby my head''s full of pictures
+
+  Baby my head''s full of colors
+
+  Baby my head''s full of pictures of you
+
+
+  Baby I spent all my money
+
+  Baby don''t think that it''s funny
+
+  Baby my head''s full of colors
+
+  Baby my head''s full of pictures of you'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Pictures
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: DE
+      edition_year: 1989
+      label: Schemer
+      catalogue_no: SCHEMER 8905/CD
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1119
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1368
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: NL
+      edition_year: 1989
+      label: Shimmy Disc Europe
+      catalogue_no: SDE 8908 LP
+      side: A
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1991
+      label: Rough Trade America
+      catalogue_no: R266-2
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10356
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 1988
+      label: Aurora Records
+      catalogue_no: AU 002
+      side: A
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 2009
+      label: Domino
+      catalogue_no: REWIGLP69
+      side: A
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.07LP
+      side: A
+      position: 2
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: A
+      position: 2
+    - release_title: Snowstorm / Pictures
+      release_slug: snowstorm-pictures
+      release_type: Single
+      year: 2004
+      format: '7'
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 2
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Silver Current
+      position: 5
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Silver Current
+      side: B
+      position: 5
+    - release_title: CBGB 12.13.88
+      release_slug: cbgb-12-13-88
+      release_type: Album
+      year: 2025
+      format: MC
+      edition_year: 2025
+      label: Silver Current
+      side: B
+      position: 5
+    played_live:
+    - show_slug: galaxie-500-1988-12-13-cbgbs-new-york-ny-usa
+      date: '1988-12-13'
+      year: 1988
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: galaxie-500-1989-11-08-powerhaus-london-uk
+      date: '1989-11-08'
+      year: 1989
+      venue: Powerhaus
+      city: London
+      country: UK
+      position: 9
+    - show_slug: galaxie-500-1989-11-29-schwimmbad-heidelberg-germany
+      date: '1989-11-29'
+      year: 1989
+      venue: Schwimmbad
+      city: Heidelberg
+      country: Germany
+      position: 2
+    - show_slug: galaxie-500-1989-12-02-forum-enger-germany
+      date: '1989-12-02'
+      year: 1989
+      venue: Forum
+      city: Enger
+      country: Germany
+      position: 2
+    - show_slug: galaxie-500-1989-12-06-riverside-newcastle-uk
+      date: '1989-12-06'
+      year: 1989
+      venue: Riverside
+      city: Newcastle
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1989-12-13-subterania-london-uk
+      date: '1989-12-13'
+      year: 1989
+      venue: Subterania
+      city: London
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1990-01-23-the-40-watt-club-athens-ga-usa
+      date: '1990-01-23'
+      year: 1990
+      venue: The 40 Watt Club
+      city: Athens
+      country: USA
+      position: 6
+    - show_slug: galaxie-500-1990-01-26-the-point-atlanta-ga-usa
+      date: '1990-01-26'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 2
+    - show_slug: galaxie-500-1990-02-11-falcon-london-uk
+      date: '1990-02-11'
+      year: 1990
+      venue: Falcon
+      city: London
+      country: UK
+      position: 6
+    - show_slug: galaxie-500-1990-02-19-tt-the-bears-cambridge-ma-usa
+      date: '1990-02-19'
+      year: 1990
+      venue: TT the Bears
+      city: Cambridge
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2010-08-20-the-trocadero-philadelphia-pa-usa
+      date: '2010-08-20'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Trocadero
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2010-09-17-the-earl-atlanta-ga-usa
+      date: '2010-09-17'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2010-11-11-the-troubadour-los-angeles-ca-usa
+      date: '2010-11-11'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Troubadour
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2010-11-13-the-fillmore-san-francisco-ca-usa
+      date: '2010-11-13'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2010-11-15-biltmore-cabaret-vancouver-british-columbia-canada
+      date: '2010-11-15'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Biltmore Cabaret
+      city: Vancouver
+      country: Canada
+      position: 2
+    - show_slug: dean-and-britta-2010-12-03-lincoln-hall-chicago-il-usa
+      date: '2010-12-03'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2011-01-13-maxwells-hoboken-nj-usa
+      date: '2011-01-13'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2011-06-17-the-bell-house-brooklyn-ny-usa
+      date: '2011-06-17'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2011-07-02-the-wall-livehouse-taipei-taiwan
+      date: '2011-07-02'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Wall Livehouse
+      city: Taipei
+      country: Taiwan
+      position: 2
+    - show_slug: dean-and-britta-2011-10-11-corner-hotel-melbourne-victoria-australia
+      date: '2011-10-11'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Corner Hotel
+      city: Melbourne
+      country: Australia
+      position: 2
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 2
+    - show_slug: dean-and-britta-2012-05-11-1930-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: dean-and-britta-2012-07-27-antones-austin-tx-usa
+      date: '2012-07-27'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Antones
+      city: Austin
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 4
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: luna-2018-09-07-thekla-bristol-uk
+      date: '2018-09-07'
+      year: 2018
+      venue: Thekla
+      city: Bristol
+      country: UK
+      position: 3
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+      date: '2022-11-12'
+      year: 2022
+      venue: Pappy and Harriet's
+      city: Pioneertown
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 5
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 7
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 6
+    - show_slug: dean-and-britta-2024-12-01-meow-wellington-new-zealand
+      date: '2024-12-01'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: Meow
+      city: Wellington
+      country: New Zealand
+      position: 2
+    - show_slug: dean-wareham-2026-05-14-centro-arte-alameda-chile
+      date: '2026-05-14'
+      year: 2026
+      series: Dean Wareham presentando Galaxie 500 y Luna
+      venue: Centro Arte
+      city: Alameda
+      country: Chile
+      position: 2
+  - version_tag: Club Lingerie, Hollywood, CA - 1990-03-30
+    full_title: Pictures [Club Lingerie, Hollywood, CA - 1990-03-30]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 21
+    played_live: []
+  - version_tag: The Point, Atlanta, GA - 1990-01-26
+    full_title: Pictures [The Point, Atlanta, GA - 1990-01-26]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 29
+    played_live: []

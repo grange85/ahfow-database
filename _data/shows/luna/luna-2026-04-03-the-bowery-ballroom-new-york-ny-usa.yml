@@ -1,0 +1,110 @@
+slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+date: '2026-04-03'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+support: Elk City
+ticket_url: https://www.ticketmaster.com/event/00006379BAB9AC6D
+venue_name: The Bowery Ballroom
+venue_slug: the-bowery-ballroom-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Midnight Cowboy
+  canonical_title: Midnight Cowboy
+  song_slug: midnight-cowboy
+  full_title: Midnight Cowboy
+- position: 2
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 3
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 4
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 5
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 6
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 7
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 8
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 9
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 10
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 11
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 12
+  raw_title: Sleeping Pill
+  canonical_title: Sleeping Pill
+  song_slug: sleeping-pill
+  full_title: Sleeping Pill
+- position: 13
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 14
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: That's What You Always Say [with Steve Wynn]
+  annotation: with Steve Wynn
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 17
+  raw_title: Tell Me When It's Over [with Steve Wynn]
+  annotation: with Steve Wynn
+  canonical_title: Tell Me When It's Over
+  song_slug: tell-me-when-its-over
+  full_title: Tell Me When It's Over
+- position: 18
+  raw_title: Season of the Witch [with Steve Wynn]
+  annotation: with Steve Wynn
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch

@@ -1,0 +1,21 @@
+title: Daniel and Boone
+slug: daniel-and-boone
+sort_title: DANIEL AND BOONE
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Daniel and Boone
+    appears_on:
+    - release_title: Soundtrack EP
+      release_slug: soundtrack-ep
+      release_type: Single
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Double Feature
+      catalogue_no: DA-DBL-HOLIDAY-001
+      side: A
+      position: 4
+    played_live: []

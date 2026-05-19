@@ -1,0 +1,48 @@
+slug: galaxie-500-1989-05-12-tt-the-bears-cambridge-ma-usa
+date: '1989-05-12'
+year: 1989
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+setlist_source: recording
+venue_name: TT the Bears
+venue_slug: tt-the-bears-cambridge-ma-usa
+city: Cambridge
+state: MA
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 2
+  raw_title: Plastic Bird
+  canonical_title: Plastic Bird
+  song_slug: plastic-bird
+  full_title: Plastic Bird
+- position: 3
+  raw_title: King of Spain
+  canonical_title: King of Spain
+  song_slug: king-of-spain
+  full_title: King of Spain
+- position: 4
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 5
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 6
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

@@ -1,0 +1,127 @@
+title: Dean Wareham vs. Cheval Sombre
+slug: dean-wareham-vs-cheval-sombre
+release_type: Album
+year: 2018
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-vs-cheval-sombre-640.jpg
+album_artist: Dean Wareham vs. Cheval Sombre
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: CD
+  year: 2018
+  label: Double Feature
+  tracks:
+  - position: 1
+    side_position: 1
+    title: The Bend in the River
+    slug: the-bend-in-the-river
+    full_title: The Bend in the River
+  - position: 2
+    side_position: 2
+    title: Tomorrow Is a Long Time
+    slug: tomorrow-is-a-long-time
+    full_title: Tomorrow is a Long Time
+  - position: 3
+    side_position: 3
+    title: Mountains of the Moon
+    slug: mountains-of-the-moon
+    full_title: Mountains of the Moon
+  - position: 4
+    side_position: 4
+    title: If I Could Only Fly
+    slug: if-i-could-only-fly
+    full_title: If I Could Only Fly
+  - position: 5
+    side_position: 5
+    title: Wayfaring Stranger
+    slug: wayfaring-stranger
+    full_title: Wayfaring Stranger
+  - position: 6
+    side_position: 6
+    title: Alberta
+    slug: alberta
+    full_title: Alberta
+  - position: 7
+    side_position: 7
+    title: Wand'rin' Star
+    slug: wandrin-star
+    full_title: Wand'rin' Star
+  - position: 8
+    side_position: 8
+    title: Greensboro Woman
+    slug: greensboro-woman
+    full_title: Greensboro Woman
+  - position: 9
+    side_position: 9
+    title: My Rifle, My Pony and Me
+    slug: my-rifle-my-pony-and-me
+    full_title: My Rifle, My Pony and Me
+  - position: 10
+    side_position: 10
+    title: Grand Canyon
+    slug: grand-canyon
+    full_title: Grand Canyon
+- format: LP
+  year: 2018
+  label: Double Feature
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: The Bend in the River
+    slug: the-bend-in-the-river
+    full_title: The Bend in the River
+  - position: 2
+    side: A
+    side_position: 2
+    title: Tomorrow Is a Long Time
+    slug: tomorrow-is-a-long-time
+    full_title: Tomorrow is a Long Time
+  - position: 3
+    side: A
+    side_position: 3
+    title: Mountains of the Moon
+    slug: mountains-of-the-moon
+    full_title: Mountains of the Moon
+  - position: 4
+    side: A
+    side_position: 4
+    title: If I Could Only Fly
+    slug: if-i-could-only-fly
+    full_title: If I Could Only Fly
+  - position: 5
+    side: A
+    side_position: 5
+    title: Wayfaring Stranger
+    slug: wayfaring-stranger
+    full_title: Wayfaring Stranger
+  - position: 6
+    side: B
+    side_position: 1
+    title: Alberta
+    slug: alberta
+    full_title: Alberta
+  - position: 7
+    side: B
+    side_position: 2
+    title: Wand'rin' Star
+    slug: wandrin-star
+    full_title: Wand'rin' Star
+  - position: 8
+    side: B
+    side_position: 3
+    title: Greensboro Woman
+    slug: greensboro-woman
+    full_title: Greensboro Woman
+  - position: 9
+    side: B
+    side_position: 4
+    title: My Rifle, My Pony and Me
+    slug: my-rifle-my-pony-and-me
+    full_title: My Rifle, My Pony and Me
+  - position: 10
+    side: B
+    side_position: 5
+    title: Grand Canyon
+    slug: grand-canyon
+    full_title: Grand Canyon

@@ -1,0 +1,51 @@
+slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+date: '2007-11-22'
+year: 2007
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+notes: with Michio Kurihara + Picastro + Adrian Crowley
+venue_name: Lemon Tree
+venue_slug: lemon-tree-aberdeen-uk
+city: Aberdeen
+country: UK
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 2
+  raw_title: Eye Of The Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 3
+  raw_title: The Well
+  canonical_title: The Well
+  song_slug: the-well
+  full_title: The Well
+- position: 4
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 5
+  raw_title: Cruel Queen
+  canonical_title: Cruel Queen
+  song_slug: cruel-queen
+  full_title: Cruel Queen
+- position: 6
+  raw_title: The Wind's Twelve Quarters
+  canonical_title: The Wind's Twelve Quarters
+  song_slug: the-winds-twelve-quarters
+  full_title: The Wind's Twelve Quarters
+- position: 7
+  raw_title: Stars Never Fade
+  canonical_title: Stars Never Fade
+  song_slug: stars-never-fade
+  full_title: Stars Never Fade

@@ -1,0 +1,184 @@
+title: Seven Steps to Satan
+slug: seven-steps-to-satan
+sort_title: SEVEN STEPS TO SATAN
+lyrics: 'In thirty-three locations high
+
+  In northern California
+
+  Space angels show the way
+
+  Space brothers save the day
+
+  It''s nothin'' but an overtone
+
+  From a distant land unknown
+
+  Unfavorable omens in the sky
+
+  You got no time to waste
+
+  The world is hard to understand
+
+  Inside my head it''s rainin''
+
+  A million billion trillion stars
+
+  What''s the use in tryin''?
+
+  A second chance for a second chance
+
+  She''s not the loving kind
+
+  A tearless doll with plastic eyes
+
+  Have you ever seen?
+
+  Seven vodkas to the wind
+
+  Seven ways from sundown
+
+  Seventh heaven seventh veil
+
+  I was only joking
+
+  Seven vodkas to the wind
+
+  Seven steps to Satan
+
+  Seven cities made of gold
+
+  I was only joking'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Seven Steps to Satan
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 5
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: A
+      position: 5
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 5
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-1998-09-10-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-10'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-1998-09-11-bowery-ballroom-new-york-ny-usa
+      date: '1998-09-11'
+      year: 1998
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-1998-11-22-dark-horse-tavern-atlanta-ga-usa
+      date: '1998-11-22'
+      year: 1998
+      venue: Dark Horse Tavern
+      city: Atlanta
+      country: USA
+      position: 4
+    - show_slug: luna-1999-07-23-prospect-park-bandstand-new-york-ny-usa
+      date: '1999-07-23'
+      year: 1999
+      venue: Prospect Park Bandstand
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: luna-1999-07-27-2-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 12
+    - show_slug: luna-1999-09-05-king-tuts-wah-wah-hut-glasgow-uk
+      date: '1999-09-05'
+      year: 1999
+      venue: King Tuts Wah Wah Hut
+      city: Glasgow
+      country: UK
+      position: 12
+    - show_slug: luna-1999-09-06-roadhouse-manchester-uk
+      date: '1999-09-06'
+      year: 1999
+      venue: Roadhouse
+      city: Manchester
+      country: UK
+      position: 8
+    - show_slug: luna-1999-10-31-idiots-delight-wnew-new-york-ny-usa
+      date: '1999-10-31'
+      year: 1999
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-1999-11-29-irving-plaza-new-york-ny-usa
+      date: '1999-11-29'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 14
+    - show_slug: luna-1999-11-30-irving-plaza-new-york-ny-usa
+      date: '1999-11-30'
+      year: 1999
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-1999-12-04-cotton-club-atlanta-ga-usa
+      date: '1999-12-04'
+      year: 1999
+      venue: Cotton Club
+      city: Atlanta
+      country: USA
+      position: 9
+    - show_slug: luna-1999-12-11-trocadero-philadelphia-pa-usa
+      date: '1999-12-11'
+      year: 1999
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 12

@@ -1,0 +1,51 @@
+title: Do Everything
+slug: do-everything
+sort_title: DO EVERYTHING
+authors: Wareham/Phillips
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - version_tag: Gas Station
+    full_title: Do Everything [Gas Station]
+    appears_on:
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 6
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: A
+      position: 6
+    played_live: []
+  - version_tag: Soul Cycle
+    full_title: Do Everything [Soul Cycle]
+    appears_on:
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 3
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: A
+      position: 3
+    played_live: []

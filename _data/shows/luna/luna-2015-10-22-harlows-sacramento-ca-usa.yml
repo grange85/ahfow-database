@@ -1,0 +1,100 @@
+slug: luna-2015-10-22-harlows-sacramento-ca-usa
+date: '2015-10-22'
+year: 2015
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2015-10-22/2015-10-22-luna-harlows-sacramento-poster.jpg
+ticket_url: http://www.ticketfly.com/purchase/event/897441?utm_medium=459899
+venue_name: Harlow's
+venue_slug: harlows-sacramento-ca-usa
+city: Sacramento
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^Penthouse
+  annotation: Penthouse
+- position: 2
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 3
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 5
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 6
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 7
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 8
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 9
+  raw_title: Kalamazoo
+  canonical_title: Kalamazoo
+  song_slug: kalamazoo
+  full_title: Kalamazoo
+- position: 10
+  raw_title: Hedgehog
+  canonical_title: Hedgehog
+  song_slug: hedgehog
+  full_title: Hedgehog
+- position: 11
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 12
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 15
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 16
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 17
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

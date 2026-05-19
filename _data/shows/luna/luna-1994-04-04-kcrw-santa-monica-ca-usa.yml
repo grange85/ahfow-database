@@ -1,0 +1,43 @@
+slug: luna-1994-04-04-kcrw-santa-monica-ca-usa
+date: '1994-04-04'
+year: 1994
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+notes: 'TRUE'
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 2
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 3
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 4
+  raw_title: Hold On
+  canonical_title: Hold On
+  song_slug: hold-on
+  full_title: Hold On
+- position: 5
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

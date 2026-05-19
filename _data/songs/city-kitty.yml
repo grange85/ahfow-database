@@ -1,0 +1,152 @@
+title: City Kitty
+slug: city-kitty
+sort_title: CITY KITTY
+lyrics: 'In rented tuxedoes
+
+  The guests will arrive
+
+  Smiling and smoking
+
+  Chewing and choking
+
+  Women int heir favourite shoes
+
+  Thinking dark disturbing thoughts
+
+  All of them together
+
+  Making trips to the bathroom
+
+  Blackeyed susans
+
+  And chilled potatoes
+
+  High balls and low
+
+  A pinch and a punch
+
+  Invisible to mirrors
+
+  You fly around the room
+
+  Tell me the password
+
+  Banana cream pie
+
+
+  So get up off the floor
+
+  And play with me some more
+
+  Come down to my side
+
+  And tell me green-eyed lies
+
+  We''ll find a magic spell
+
+  To turn this much to gold
+
+  Well promises don''t grow on trees
+
+
+  Playin'' the oujia board
+
+  In front of the fire
+
+  It told me to do
+
+  Unspeakable things
+
+  Mixed in a cocktail
+
+  Of muddles emotions
+
+  Stinky and winky
+
+  Drinky and stinky
+
+
+  They made me dance
+
+  They made me sing
+
+  The boring bibble babble
+
+  The dreary dibble dabble
+
+  The bustle and the vanity
+
+  The hustle and insanity
+
+  Clowning and towning
+
+  Frowning and drowning'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: City Kitty
+    appears_on:
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQCD194
+      position: 8
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      side: B
+      position: 8
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Elektra
+      catalogue_no: 62055-2
+      position: 8
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: US
+      edition_year: 1997
+      label: Teenbeat
+      side: B
+      position: 8
+    played_live:
+    - show_slug: luna-1997-10-23-loppen-copenhagen-denmark
+      date: '1997-10-23'
+      year: 1997
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 9
+    - show_slug: luna-1997-12-12-irving-plaza-new-york-ny-usa
+      date: '1997-12-12'
+      year: 1997
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2000-05-27-maxwells-hoboken-nj-usa
+      date: '2000-05-27'
+      year: 2000
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 7

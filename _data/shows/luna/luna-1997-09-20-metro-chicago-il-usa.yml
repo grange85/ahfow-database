@@ -1,0 +1,107 @@
+slug: luna-1997-09-20-metro-chicago-il-usa
+date: '1997-09-20'
+year: 1997
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+venue_name: Metro
+venue_slug: metro-chicago-il-usa
+city: Chicago
+state: IL
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 2
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Beautiful View
+  canonical_title: Beautiful View
+  song_slug: beautiful-view
+  full_title: Beautiful View
+- position: 4
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 5
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 6
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 7
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 8
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 9
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 10
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 11
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 12
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 13
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 14
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 15
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 16
+  raw_title: IHOP
+  canonical_title: IHOP
+  song_slug: ihop
+  full_title: IHOP
+- position: 17
+  raw_title: Beggar's Bliss
+  canonical_title: Beggar's Bliss
+  song_slug: beggars-bliss
+  full_title: Beggar's Bliss
+- position: 18
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

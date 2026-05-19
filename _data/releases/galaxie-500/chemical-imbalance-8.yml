@@ -1,0 +1,24 @@
+title: 'Chemical Imbalance #8'
+slug: chemical-imbalance-8
+release_type: Single
+year: 1991
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_oblivious001.jpg
+album_artist: Various artists
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '7'
+  country: US
+  year: 1991
+  label: Chemical Imbalance
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_oblivious001.jpg
+  notes: 'Alternate version. Also features Mofungo, Half Japanese, Great Plains, and
+    Daniel Johnston Free with Chemical Imbalance magazine #8'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]

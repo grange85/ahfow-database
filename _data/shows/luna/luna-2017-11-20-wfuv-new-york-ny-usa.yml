@@ -1,0 +1,45 @@
+slug: luna-2017-11-20-wfuv-new-york-ny-usa
+date: '2017-11-20'
+year: 2017
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: WFUV
+venue_slug: wfuv-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^interview
+  annotation: interview
+- position: 2
+  raw_title: Sweetness
+  canonical_title: Sweetness
+  song_slug: sweetness
+  full_title: Sweetness
+- position: 3
+  raw_title: ^interview
+  annotation: interview
+- position: 4
+  raw_title: GTX3
+  canonical_title: GTX3
+  song_slug: gtx3
+  full_title: GTX3
+- position: 5
+  raw_title: ^interview
+  annotation: interview
+- position: 6
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 7
+  raw_title: ^interview
+  annotation: interview

@@ -1,0 +1,29 @@
+title: Demo tape 2
+slug: demo-tape-2
+release_type: Misc
+year: 1988
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: MC
+  country: US
+  year: 1988
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 2
+    side: A
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 3
+    side: A
+    side_position: 3
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain

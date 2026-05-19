@@ -1,0 +1,62 @@
+title: Blue Moon
+slug: blue-moon
+sort_title: BLUE MOON
+authors: Big Star
+original_artist: Big Star
+originals_url: https://www.fullofwishes.co.uk/2013/03/06/originals-blue-moon-by-big-star-covered-by-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Blue Moon
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Sub Pop
+      catalogue_no: SPCD501
+      position: 4
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2000
+      label: Elefant
+      catalogue_no: ER-1079
+      position: 4
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 4
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2012
+      label: Drag City
+      catalogue_no: DC 206CD
+      position: 4
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: A
+      position: 4
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-19-tin-angel-philadelphia-pa-usa
+      date: '2000-10-19'
+      year: 2000
+      venue: Tin Angel
+      city: Philadelphia
+      country: USA
+      position: 7

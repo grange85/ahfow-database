@@ -1,0 +1,43 @@
+slug: dean-wareham-2014-06-28-kexp-seattle-wa-usa
+date: '2014-06-28'
+year: 2014
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar and vocals|Britta Phillips - bass, keyboards and
+  backing vocals|Raymond Richards - guitar, keyboards, bass and backing vocals|Roger
+  Brogan - drums
+poster_url: https://media.fullofwishes.co.uk/05-dean_wareham/pictures/dean-wareham-kexp-instagram.jpg
+notes: Radio show
+venue_name: KEXP
+venue_slug: kexp-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: The Dancer Disappears
+  canonical_title: The Dancer Disappears
+  song_slug: the-dancer-disappears
+  full_title: The Dancer Disappears
+- position: 2
+  raw_title: Holding Pattern
+  canonical_title: Holding Pattern
+  song_slug: holding-pattern
+  full_title: Holding Pattern
+- position: 3
+  raw_title: ^interview
+  annotation: interview
+- position: 4
+  raw_title: Happy and Free
+  canonical_title: Happy and Free
+  song_slug: happy-and-free
+  full_title: Happy and Free
+- position: 5
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

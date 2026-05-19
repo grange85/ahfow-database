@@ -1,0 +1,22 @@
+title: Greyhound Goin' Somewhere
+slug: greyhound-goin-somewhere
+sort_title: GREYHOUND GOIN SOMEWHERE
+authors: Murphy/Dorsey
+original_artist: Bobbie Gentry
+originals_url: https://www.fullofwishes.co.uk/2013/07/10/originals-greyhound-goin-somewhere-by-bobbie-gentry-covered-by-cagney-and-lacee/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Greyhound Goin' Somewhere
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 6
+    played_live: []

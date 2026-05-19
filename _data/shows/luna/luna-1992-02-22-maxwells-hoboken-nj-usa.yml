@@ -1,0 +1,75 @@
+slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+date: '1992-02-22'
+year: 1992
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+venue_name: Maxwells
+venue_slug: maxwells-hoboken-nj-usa
+city: Hoboken
+state: NJ
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 3
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 4
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 5
+  raw_title: Crazy People
+  canonical_title: Crazy People
+  song_slug: crazy-people
+  full_title: Crazy People
+- position: 6
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 7
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 8
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 9
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 10
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 11
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 12
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising

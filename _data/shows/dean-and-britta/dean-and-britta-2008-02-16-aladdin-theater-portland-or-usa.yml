@@ -1,0 +1,72 @@
+slug: dean-and-britta-2008-02-16-aladdin-theater-portland-or-usa
+date: '2008-02-16'
+year: 2008
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: co-headlining with Keren Ann
+venue_name: Aladdin Theater
+venue_slug: aladdin-theater-portland-or-usa
+city: Portland
+state: OR
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Teenage Lightning
+  canonical_title: Teenage Lightning
+  song_slug: teenage-lightning
+  full_title: Teenage Lightning
+- position: 2
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 3
+  raw_title: Ginger Snaps
+  canonical_title: Ginger Snaps
+  song_slug: ginger-snaps
+  full_title: Ginger Snaps
+- position: 4
+  raw_title: Moonshot
+  canonical_title: Moonshot
+  song_slug: moonshot
+  full_title: Moonshot
+- position: 5
+  raw_title: Singer Sing
+  canonical_title: Singer Sing
+  song_slug: singer-sing
+  full_title: Singer Sing
+- position: 6
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 7
+  raw_title: Hear The Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 8
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 9
+  raw_title: Words You Used To Say
+  canonical_title: Words You Used to Say
+  song_slug: words-you-used-to-say
+  full_title: Words You Used to Say
+- position: 10
+  raw_title: You Turned My Head Around
+  canonical_title: You Turned My Head Around
+  song_slug: you-turned-my-head-around
+  full_title: You Turned My Head Around
+- position: 11
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily

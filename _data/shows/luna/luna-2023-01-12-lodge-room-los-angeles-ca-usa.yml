@@ -1,0 +1,102 @@
+slug: luna-2023-01-12-lodge-room-los-angeles-ca-usa
+date: '2023-01-12'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://www.lodgeroomhlp.com/shows/luna/
+setlist_source: setlist.fm
+venue_name: Lodge Room
+venue_slug: lodge-room-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 3
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 4
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 5
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 6
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 7
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 8
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 9
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 10
+  raw_title: Ride Into the Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 11
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 12
+  raw_title: Neon Lights
+  canonical_title: Neon Lights
+  song_slug: neon-lights
+  full_title: Neon Lights
+- position: 13
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 14
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: Marquee Moon
+  canonical_title: Marquee Moon
+  song_slug: marquee-moon
+  full_title: Marquee Moon
+- position: 17
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit

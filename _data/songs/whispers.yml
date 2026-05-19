@@ -1,0 +1,116 @@
+title: Whispers
+slug: whispers
+sort_title: WHISPERS
+lyrics: 'There''s a train of thought
+
+  Making all the local stops
+
+  Here''s where I get off
+
+  That is where I fall
+
+  There''s a rule of thumb
+
+  That comes in handy
+
+  It isn''t just your word
+
+  It''s who you give it to
+
+
+  Can you hear the whispers?
+
+  The deafening whispers
+
+  Can you hear the whispers?
+
+  Ganging up on me
+
+
+  Airport time
+
+  Moves so quickly
+
+  In the airport lights
+
+  We look so sickly
+
+  Remember the caress
+
+  Of your magical fingers
+
+  I did a foolish thing
+
+  I must be a fool
+
+
+  My mind is playing tricks on me,
+
+  My life is catchin'' up with me
+
+  It''s so damn hard to disentangle
+
+  My emotions
+
+  If we ask for the impossible,
+
+  Maybe they will give it to us
+
+  Could it really be...
+
+  Our luck is coming back?'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Whispers
+    appears_on:
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQCD194
+      position: 7
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      side: B
+      position: 7
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Elektra
+      catalogue_no: 62055-2
+      position: 7
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: US
+      edition_year: 1997
+      label: Teenbeat
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-1996-11-15-fletchers-baltimore-md-usa
+      date: '1996-11-15'
+      year: 1996
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 13

@@ -1,0 +1,162 @@
+title: Cheese and Onions
+slug: cheese-and-onions
+sort_title: CHEESE AND ONIONS
+authors: Neil Innes
+original_artist: Rutles, The
+originals_url: https://www.fullofwishes.co.uk/2013/04/10/originals-cheese-and-onions-by-the-rutles-covered-by-galaxie-500/
+lyrics: 'I have always thought
+
+  In the back of my mind, Cheese and Onions
+
+  I have always thought
+
+  That the world was unkind, Cheese and Onions
+
+
+  Do I have to spell it out?
+
+  C-H-E-E-S-E-A-N-D-O-N-I-O-N-S-Oh no
+
+
+  My machine
+
+  Keep yourself clean
+
+  I''ll be a has-been
+
+  Like a dinosaur
+
+  My device
+
+  For everything nice
+
+  You better think twice
+
+  At least once more'
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Cheese and Onions
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 11
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 11
+    - release_title: Rutles Highway Revisited
+      release_slug: rutles-highway-revisited
+      release_type: Misc
+      year: 1989
+      format: CD/LP
+      country: US
+      edition_year: 1989
+      label: Shimmy Disc
+      side: A
+      position: 1
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: D
+      position: 34
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 18
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: C
+      position: 18
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: C
+      position: 18
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      position: 1
+    played_live:
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 15
+    - show_slug: dean-and-britta-2020-05-14-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-14'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 15
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 15
+    - show_slug: dean-and-britta-2024-12-01-meow-wellington-new-zealand
+      date: '2024-12-01'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: Meow
+      city: Wellington
+      country: New Zealand
+      position: 15

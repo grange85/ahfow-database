@@ -1,0 +1,56 @@
+title: Postscripts
+slug: postscripts
+release_type: Single
+year: 2019
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-postmarks.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: digital
+  country: US
+  year: 2019
+  label: Double Feature
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-postmarks.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: California Blue
+    slug: california-blue
+    full_title: California Blue
+  - position: 2
+    side: A
+    side_position: 2
+    title: Inside Your Heart
+    slug: inside-your-heart
+    full_title: Inside Your Heart
+  - position: 3
+    side: A
+    side_position: 3
+    title: Lonesome Cowboy Bill
+    slug: lonesome-cowboy-bill
+    full_title: Lonesome Cowboy Bill
+  - position: 4
+    side: A
+    side_position: 4
+    title: Something in the Air
+    slug: something-in-the-air
+    full_title: Something In The Air
+  - position: 5
+    side: A
+    side_position: 5
+    title: The Oort Cloud
+    slug: the-oort-cloud
+    full_title: The Oort Cloud
+  - position: 6
+    side: A
+    side_position: 6
+    title: Kuiper Belt
+    slug: kuiper-belt
+    full_title: Kuiper Belt
+  - position: 7
+    side: A
+    side_position: 7
+    title: Gin
+    slug: gin
+    full_title: Gin

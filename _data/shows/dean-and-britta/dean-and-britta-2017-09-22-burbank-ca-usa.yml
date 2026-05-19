@@ -1,0 +1,32 @@
+slug: dean-and-britta-2017-09-22-burbank-ca-usa
+date: '2017-09-22'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass|Dean Wareham - guitar/vocals|Roger Brogan - drums
+notes: Private event
+venue_name: ''
+venue_slug: burbank-ca-usa
+city: Burbank
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 2
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 3
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

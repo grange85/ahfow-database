@@ -1,0 +1,62 @@
+slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+date: '1990-12-01'
+year: 1990
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: This show was officially released as the album “Copenhagen
+venue_name: Barbue
+venue_slug: barbue-copenhagen-denmark
+city: Copenhagen
+country: Denmark
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 2
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 3
+  raw_title: Summertime
+  canonical_title: Summertime
+  song_slug: summertime
+  full_title: Summertime
+- position: 4
+  raw_title: Sorry
+  canonical_title: Sorry
+  song_slug: sorry
+  full_title: Sorry
+- position: 5
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 6
+  raw_title: Spook
+  canonical_title: Spook
+  song_slug: spook
+  full_title: Spook
+- position: 7
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 8
+  raw_title: Here She Comes Now
+  canonical_title: Here She Comes Now
+  song_slug: here-she-comes-now
+  full_title: Here She Comes Now
+- position: 9
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste

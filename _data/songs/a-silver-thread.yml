@@ -1,0 +1,43 @@
+title: A Silver Thread
+slug: a-silver-thread
+sort_title: SILVER THREAD, A
+authors: Krukowski/Yang
+lyrics: 'A silver thread so fine weaves through our shared days
+
+  Is this all we have, this moment so fine
+
+  Will the wind still blow after you have gone?
+
+  It''s so fragile, it breaks before you know
+
+  How I wish for a way not to lose it all
+
+  How can I save this moment so fine
+
+  Will the wind still blow after you have gone?'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: A Silver Thread
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 8
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 8
+    played_live: []

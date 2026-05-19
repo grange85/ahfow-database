@@ -1,0 +1,53 @@
+title: Ingrid Superstar
+slug: ingrid-superstar
+sort_title: INGRID SUPERSTAR
+authors: Britta Phillips
+original_artist: Britta Phillips
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Ingrid Superstar
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 10
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 10
+    played_live:
+    - show_slug: luna-2016-05-27-the-bell-house-brooklyn-ny-usa
+      date: '2016-05-27'
+      year: 2016
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 9
+      annotation: Britta Phillips
+    - show_slug: luna-2016-05-29-columbus-theatre-providence-ri-usa
+      date: '2016-05-29'
+      year: 2016
+      venue: Columbus Theatre
+      city: Providence
+      country: USA
+      position: 8
+      annotation: Britta Phillips
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 9

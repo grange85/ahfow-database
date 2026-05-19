@@ -1,0 +1,20 @@
+title: Wonderful Christmastime
+slug: wonderful-christmastime
+sort_title: WONDERFUL CHRISTMASTIME
+authors: Paul McCartney
+original_artist: Paul McCartney
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Wonderful Christmastime
+    appears_on: []
+    played_live:
+    - show_slug: dean-and-britta-2024-12-13-dean--brittas-basement-echo-park-la-usa
+      date: '2024-12-13'
+      year: 2024
+      venue: Dean & Britta's basement
+      city: Echo Park
+      country: USA
+      position: 1

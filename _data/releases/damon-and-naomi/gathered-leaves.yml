@@ -1,0 +1,21 @@
+title: Gathered Leaves
+slug: gathered-leaves
+release_type: Misc
+year: 2016
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/various-artists-gathered-leaves-sugarbush-lp.jpg
+album_artist: Various artists
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: LP
+  year: 2016
+  label: Sugarbush
+  catalogue_no: SB023
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/various-artists-gathered-leaves-sugarbush-lp.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Eye of the Storm
+    slug: eye-of-the-storm
+    full_title: Eye of the Storm

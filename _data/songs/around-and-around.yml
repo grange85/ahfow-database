@@ -1,0 +1,49 @@
+title: Around and Around
+slug: around-and-around
+sort_title: AROUND AND AROUND
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - version_tag: Around and Around Again
+    full_title: Around and Around [Around and Around Again]
+    appears_on:
+    - release_title: Soundtrack EP
+      release_slug: soundtrack-ep
+      release_type: Single
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Double Feature
+      catalogue_no: DA-DBL-HOLIDAY-001
+      side: A
+      position: 5
+    played_live: []
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Around And Around
+    appears_on:
+    - release_title: A Place of Greater Safety
+      release_slug: a-place-of-greater-safety
+      release_type: Single
+      year: 2017
+      format: '10'
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: DBL-0014
+      side: A
+      position: 4
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 14
+    played_live: []

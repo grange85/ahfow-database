@@ -1,0 +1,108 @@
+slug: luna-2016-05-27-the-bell-house-brooklyn-ny-usa
+date: '2016-05-27'
+year: 2016
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass|Matt Sumrow - keyboards (on One Fine Summer Morning and Ingrid Superstar)
+ticket_url: https://www.ticketfly.com/purchase/event/1153103
+venue_name: The Bell House
+venue_slug: the-bell-house-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 2
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 4
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 5
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 6
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 7
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 8
+  raw_title: One Fine Summer Morning [Britta Phillips]
+  annotation: Britta Phillips
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 9
+  raw_title: Ingrid Superstar [Britta Phillips]
+  annotation: Britta Phillips
+  canonical_title: Ingrid Superstar
+  song_slug: ingrid-superstar
+  full_title: Ingrid Superstar
+- position: 10
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 11
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 12
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 13
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 14
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 17
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 18
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

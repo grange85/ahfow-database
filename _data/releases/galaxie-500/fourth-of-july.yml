@@ -1,0 +1,42 @@
+title: Fourth of July
+slug: fourth-of-july
+release_type: Single
+year: 1990
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '12'
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: RTT249
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/galaxie-500-fourth-of-july-rtt249.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side: B
+    side_position: 1
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: CD
+  country: GB
+  year: 1990
+  label: Rough Trade
+  catalogue_no: RTT249CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now

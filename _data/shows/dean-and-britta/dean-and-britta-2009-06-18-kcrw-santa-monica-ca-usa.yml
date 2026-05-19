@@ -1,0 +1,52 @@
+slug: dean-and-britta-2009-06-18-kcrw-santa-monica-ca-usa
+date: '2009-06-18'
+year: 2009
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: Live radio session  Radio session
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I Found It Not So
+  canonical_title: I Found It Not So
+  song_slug: i-found-it-not-so
+  full_title: I Found it Not So
+- position: 2
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 3
+  raw_title: Silver Factory Theme
+  canonical_title: Silver Factory Theme
+  song_slug: silver-factory-theme
+  full_title: Silver Factory Theme
+- position: 4
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 5
+  raw_title: Eyes In My Smoke
+  canonical_title: Eyes in My Smoke
+  song_slug: eyes-in-my-smoke
+  full_title: Eyes in My Smoke
+- position: 6
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 7
+  raw_title: Not A Young Man Anymore
+  canonical_title: Not a Young Man Anymore
+  song_slug: not-a-young-man-anymore
+  full_title: Not a Young Man Anymore

@@ -1,0 +1,22 @@
+title: A Gift
+slug: a-gift
+sort_title: GIFT
+authors: Lou Reed
+original_artist: Lou Reed
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: A Gift
+    appears_on:
+    - release_title: A Gift / Homeward Bound
+      release_slug: a-gift-homeward-bound
+      release_type: Single
+      year: 2025
+      format: '7'
+      edition_year: 2025
+      label: PIAPTK
+      side: A
+      position: 1
+    played_live: []

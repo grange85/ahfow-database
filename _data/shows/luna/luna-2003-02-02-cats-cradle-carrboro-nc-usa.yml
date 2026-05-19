@@ -1,0 +1,97 @@
+slug: luna-2003-02-02-cats-cradle-carrboro-nc-usa
+date: '2003-02-02'
+year: 2003
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Cats Cradle
+venue_slug: cats-cradle-carrboro-nc-usa
+city: Carrboro
+state: NC
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: '1995'
+  canonical_title: '1995'
+  song_slug: '1995'
+  full_title: '1995'
+- position: 2
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 3
+  raw_title: Astronaut
+  canonical_title: Astronaut
+  song_slug: astronaut
+  full_title: Astronaut
+- position: 4
+  raw_title: Black Champagne
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne
+- position: 5
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 6
+  raw_title: Mermaid Eyes
+  canonical_title: Mermaid Eyes
+  song_slug: mermaid-eyes
+  full_title: Mermaid Eyes
+- position: 7
+  raw_title: Math Wiz
+  canonical_title: Math Wiz
+  song_slug: math-wiz
+  full_title: Math Wiz
+- position: 8
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 9
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 10
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 11
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 13
+  raw_title: Teenage Lightning
+  canonical_title: Teenage Lightning
+  song_slug: teenage-lightning
+  full_title: Teenage Lightning
+- position: 14
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 15
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 16
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde

@@ -1,0 +1,28 @@
+title: Snowstorm / Pictures
+slug: snowstorm-pictures
+release_type: Single
+year: 2004
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: '7'
+  country: US
+  year: 2004
+  label: Plexifilm
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_snowstorm_front_002.jpg
+  notes: Promo given away with pre-orders of the Galaxie 500 double DVD. Live tracks
+    recorded 30 March 1990 at Club Lingerie, LA.
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Snowstorm
+    slug: snowstorm
+    full_title: Snowstorm
+  - position: 2
+    side: B
+    side_position: 1
+    title: Pictures
+    slug: pictures
+    full_title: Pictures

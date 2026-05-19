@@ -1,0 +1,42 @@
+title: The Gift
+slug: the-gift
+sort_title: GIFT
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Gift
+    appears_on:
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: Booklet/download
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: A
+      position: 3
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2022
+      label: 20|20|20
+      catalogue_no: '202020'
+      side: A
+      position: 3
+    - release_title: A Sky Record
+      release_slug: a-sky-record
+      release_type: Album
+      year: 2021
+      format: CD
+      country: JP
+      edition_year: 2021
+      label: 20|20|20
+      catalogue_no: '202020'
+      position: 3
+    played_live: []

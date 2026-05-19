@@ -1,0 +1,38 @@
+title: Neon Lights EP
+slug: neon-lights-ep
+release_type: Single
+year: 2020
+sleeve_url: https://www.fullofwishes.co.uk/images/dean-britta-neon-lights-ep-cover.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '12'
+  year: 2020
+  label: Double Feature
+  catalogue_no: DBL-0016
+  sleeve_url: https://www.fullofwishes.co.uk/images/dean-britta-neon-lights-ep-cover.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 2
+    side: A
+    side_position: 2
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 3
+    side: B
+    side_position: 1
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 4
+    side: B
+    side_position: 2
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights

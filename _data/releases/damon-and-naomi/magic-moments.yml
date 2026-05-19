@@ -1,0 +1,68 @@
+title: Magic Moments
+slug: magic-moments
+release_type: Misc
+year: 1993
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-magic-moments.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: Digital
+  year: 1993
+  label: Twisted Village
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-magic-moments.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Heads Down
+    slug: heads-down
+    full_title: Heads Down
+  - position: 2
+    side: A
+    side_position: 2
+    title: Heads Down
+    slug: heads-down
+    full_title: Heads Down
+  - position: 3
+    side: A
+    side_position: 3
+    title: Out of Touch
+    slug: out-of-touch
+    full_title: Out Of Touch
+  - position: 4
+    side: A
+    side_position: 4
+    title: Permanent Green Light
+    slug: permanent-green-light
+    full_title: Permanent Green Light
+  - position: 5
+    side: A
+    side_position: 5
+    title: Jonathan and Charles
+    slug: jonathan-and-charles
+    full_title: Jonathan and Charles
+  - position: 6
+    side: A
+    side_position: 6
+    title: Something Else
+    slug: something-else
+    full_title: Something Else
+  - position: 7
+    side: A
+    side_position: 7
+    title: America
+    slug: america
+    full_title: America
+  - position: 8
+    side: A
+    side_position: 8
+    title: Sunset Variations
+    slug: sunset-variations
+    full_title: Sunset Variations
+  - position: 9
+    side: A
+    side_position: 9
+    title: Untitled
+    slug: untitled
+    full_title: Untitled

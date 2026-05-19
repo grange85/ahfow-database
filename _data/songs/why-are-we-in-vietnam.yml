@@ -1,0 +1,31 @@
+title: Why Are We in Vietnam?
+slug: why-are-we-in-vietnam
+sort_title: WHY ARE WE IN VIETNAM
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Why Are We in Vietnam?
+    appears_on:
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: CD
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: CD-DBL-0018
+      position: 10
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: LP-DBL-0018
+      side: B
+      position: 10
+    played_live: []

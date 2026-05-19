@@ -1,0 +1,130 @@
+title: Maracas Song
+slug: maracas-song
+sort_title: MARACAS SONG
+authors: Krukowski/Wareham/Yang
+lyrics: 'When I look at you
+
+  What a drag to be so mean
+
+  Had a dream
+
+  All the cops were dead
+
+
+  When I went up to Times Square
+
+  Bought myself a pair of shoes
+
+  Bought myself a pair of shoes
+
+  Now I''m walking sideways too
+
+  Now the heat is in my face
+
+  And I have no room to move
+
+  I''m as scared as I can be
+
+  Try and let the daytime pass
+
+
+  When I look at you
+
+  What a drag to be so mean
+
+  Had a dream
+
+  All the cops were dead
+
+
+  When I went up to Times Square
+
+  Bought myself a pair of shoes
+
+  Bought myself a pair of shoes
+
+  Now I''m walking sideways too
+
+  Now the heat is in my face
+
+  And I have no room to move
+
+  I''m as scared as I can be
+
+  Try and let the daytime pass'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Maracas Song
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 15
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 15
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: D
+      position: 38
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 15
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: C
+      position: 15
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: C
+      position: 15
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      position: 5
+    played_live: []

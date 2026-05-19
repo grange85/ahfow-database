@@ -1,0 +1,200 @@
+title: Sleeping Pill
+slug: sleeping-pill
+sort_title: SLEEPING PILL
+lyrics: 'a sleepin'' pill
+
+  has made you ill
+
+  and caused you to regress
+
+  you''re losin'' touch
+
+  with simple pleasures
+
+  your life is gettin'' dull
+
+
+  your telephone neurosis
+
+  it''s killin'' all us
+
+  your friends are gettin'' famous
+
+  but that''s not who have to call
+
+  you''re havin'' trouble wakin'' up
+
+  you want things to be perfect
+
+  you''re always at the window
+
+  you think it''s safer there'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Sleeping Pill
+    appears_on:
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: JP
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: WPCP-5802
+      position: 10
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: 61617-2
+      position: 10
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Gotta Groove Records
+      catalogue_no: GGR2012-001
+      side: B
+      position: 10
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 10
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: C
+      position: 10
+    played_live:
+    - show_slug: luna-1994-03-30-civic-auditorium-portland-or-usa
+      date: '1994-03-30'
+      year: 1994
+      venue: Civic Auditorium
+      city: Portland
+      country: USA
+      position: 1
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 1
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 17
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 19
+    - show_slug: luna-2017-01-19-the-chapel-san-francisco-ca-usa
+      date: '2017-01-19'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 10
+    - show_slug: luna-2019-10-02-greenwich-odeum-east-greenwich-ri-usa
+      date: '2019-10-02'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Greenwich Odeum
+      city: East Greenwich
+      country: USA
+      position: 10
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 10
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      series: Luna play Bewitched
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 10
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 10
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 12
+    - show_slug: luna-2021-11-18-birchmere-alexandria-va-usa
+      date: '2021-11-18'
+      year: 2021
+      venue: Birchmere
+      city: Alexandria
+      country: USA
+      position: 12
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12

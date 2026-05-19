@@ -1,0 +1,95 @@
+title: Submission
+slug: submission
+sort_title: SUBMISSION
+authors: Rotten/Cook/Jones/Matlock
+original_artist: Sex Pistols
+originals_url: https://www.fullofwishes.co.uk/2014/05/28/originals-submission-by-the-sex-pistols-covered-by-galaxie-500/
+lyrics: 'I''m on a submarine mission for you baby
+
+  I feel the way you were going
+
+  I picked you up on my TV screen
+
+  I feel your undercurrent flowing
+
+
+  Submission going down down
+
+  dragging me down
+
+  Submission I can''t tell ya what I''ve found
+
+
+  You''ve pot me pretty deep baby
+
+  I can''t figure out your watery love.
+
+  I gotta solve your mystery.
+
+  You''re sitfing if out in heaven above.
+
+
+  Submission going down down
+
+  dragging me down
+
+  Submission I can''t tell ya what I''ve found
+
+
+  For there''s a mystery.
+
+  Under the sea... Under a water come
+
+  (share it)
+
+
+  Submission going down down
+
+  dragging me down
+
+  Submission I can''t tell ya what I''ve found'
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Submission
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 14
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 14
+    - release_title: Peel Sessions
+      release_slug: peel-sessions
+      release_type: Album
+      year: 2005
+      format: CD
+      country: US
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.02'
+      position: 1
+    played_live:
+    - show_slug: galaxie-500-1990-11-04-bbc-radio-one-london-uk
+      date: '1990-11-04'
+      year: 1990
+      venue: BBC Radio One
+      city: London
+      country: UK
+      position: 2

@@ -1,0 +1,152 @@
+title: Selected
+slug: selected
+release_type: Album
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_selected.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  year: 1998
+  label: Rykodisc
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 3
+    side_position: 3
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 4
+    side_position: 4
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 5
+    side_position: 5
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 6
+    side_position: 6
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 7
+    side_position: 7
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 8
+    side_position: 8
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 9
+    side_position: 9
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 10
+    side_position: 10
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 11
+    side_position: 11
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 12
+    side_position: 12
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 13
+    side_position: 13
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away
+- format: CD
+  country: JP
+  year: 1998
+  label: Rykodisc
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_meltaway.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fourth of July
+    slug: fourth-of-july
+    full_title: Fourth of July
+  - position: 2
+    side_position: 2
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+  - position: 3
+    side_position: 3
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 4
+    side_position: 4
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When Will You Come Home
+  - position: 5
+    side_position: 5
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 6
+    side_position: 6
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 7
+    side_position: 7
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 8
+    side_position: 8
+    title: Another Day
+    slug: another-day
+    full_title: Another Day
+  - position: 9
+    side_position: 9
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 10
+    side_position: 10
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 11
+    side_position: 11
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 12
+    side_position: 12
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 13
+    side_position: 13
+    title: Melt Away
+    slug: melt-away
+    full_title: Melt Away

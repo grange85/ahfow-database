@@ -1,0 +1,78 @@
+slug: luna-2002-02-16-2-brooklyn-museum-brooklyn-ny-usa
+date: '2002-02-16'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: second set
+venue_name: Brooklyn Museum
+venue_slug: brooklyn-museum-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 2
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 3
+  raw_title: Kalamazoo
+  canonical_title: Kalamazoo
+  song_slug: kalamazoo
+  full_title: Kalamazoo
+- position: 4
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 5
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 6
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 7
+  raw_title: Hello Little One
+  canonical_title: Hello Little One
+  song_slug: hello-little-one
+  full_title: Hello Little One
+- position: 8
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 9
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 10
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 11
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 12
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown

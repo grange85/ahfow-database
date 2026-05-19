@@ -1,0 +1,40 @@
+title: Shadow Boxing
+slug: shadow-boxing
+sort_title: SHADOW BOXING
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Shadow Boxing
+    appears_on:
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: '202020.12'
+      position: 3
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: Broken Horse
+      catalogue_no: BKH-CD 022
+      position: 3
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: LP
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: 202020.12LP
+      side: A
+      position: 3
+    played_live: []

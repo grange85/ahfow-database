@@ -1,0 +1,38 @@
+title: Spirit of Love
+slug: spirit-of-love
+sort_title: SPIRIT OF LOVE
+authors: Clive Palmer
+original_artist: Clive Palmer
+originals_url: https://www.fullofwishes.co.uk/2014/05/16/originals-spirit-of-love-by-c-o-b-covered-by-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Spirit of Love
+    appears_on:
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 12
+    played_live:
+    - show_slug: damon-and-naomi-1996-03-15-alligator-lounge-santa-monica-ca-usa
+      date: '1996-03-15'
+      year: 1996
+      venue: Alligator Lounge
+      city: Santa Monica
+      country: USA
+      position: 1
+    - show_slug: damon-and-naomi-1997-04-26-terrastock-providence-ri-usa
+      date: '1997-04-26'
+      year: 1997
+      event: Terrastock
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 1

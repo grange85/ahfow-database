@@ -1,0 +1,87 @@
+slug: dean-and-britta-2020-05-30-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+date: '2020-05-30'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals
+series: live stream
+event: Dean & Britta's living room
+poster_url: https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
+ticket_url: https://deanandbritta.veeps.com/stream/events/8b4241490d72
+notes: Live stream from Dean & Britta's home in Los Angeles
+venue_name: Echo Park
+venue_slug: dean--brittas-living-room-echo-park-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'm So Bored With The U. S. A.
+  canonical_title: I'm so Bored With the U.S.A.
+  song_slug: im-so-bored-with-the-usa
+  full_title: I'm So Bored With The U. S. A.
+- position: 2
+  raw_title: The Carnival is Over
+  canonical_title: The Carnival Is Over
+  song_slug: the-carnival-is-over
+  full_title: The Carnival is Over
+- position: 3
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 4
+  raw_title: Mountains of The Moon
+  canonical_title: Mountains of the Moon
+  song_slug: mountains-of-the-moon
+  full_title: Mountains of the Moon
+- position: 5
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day
+- position: 6
+  raw_title: '^Poem: The Jumblies (Edward Lear)'
+  annotation: 'Poem: The Jumblies (Edward Lear)'
+- position: 7
+  raw_title: Love is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 8
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 9
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 10
+  raw_title: Drive
+  canonical_title: Drive
+  song_slug: drive
+  full_title: Drive
+- position: 11
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 12
+  raw_title: '^Poem: On Thinking About Hell (Bertolt Brecht)'
+  annotation: 'Poem: On Thinking About Hell (Bertolt Brecht)'
+- position: 13
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 14
+  raw_title: Massachusetts
+  canonical_title: Massachusetts
+  song_slug: massachusetts
+  full_title: Massachusetts

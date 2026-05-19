@@ -1,0 +1,87 @@
+slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+date: '2009-11-14'
+year: 2009
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+setlist_source: setlist.fm
+venue_name: Tsukimiru kimiomofu
+venue_slug: tsukimiru-kimiomofu-tokyo-japan
+city: Tokyo
+country: Japan
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 2
+  raw_title: Eye of the Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 3
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 4
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 5
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 6
+  raw_title: Turn of the Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 7
+  raw_title: I'm Yours
+  canonical_title: I'm Yours
+  song_slug: im-yours
+  full_title: I'm Yours
+- position: 8
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 9
+  raw_title: Memories
+  canonical_title: Memories
+  song_slug: memories
+  full_title: Memories
+- position: 10
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 11
+  raw_title: Cruel Queen
+  canonical_title: Cruel Queen
+  song_slug: cruel-queen
+  full_title: Cruel Queen
+- position: 12
+  raw_title: ^encore
+  annotation: encore
+- position: 13
+  raw_title: Bird on the Wire
+  canonical_title: Bird on the Wire
+  song_slug: bird-on-the-wire
+  full_title: Bird on the Wire
+- position: 14
+  raw_title: ^encore 2
+  annotation: encore 2
+- position: 15
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love

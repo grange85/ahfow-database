@@ -1,0 +1,26 @@
+title: A Gift / Homeward Bound
+slug: a-gift-homeward-bound
+release_type: Single
+year: 2025
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-a-gift-homeward-bound.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '7'
+  year: 2025
+  label: PIAPTK
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-and-britta-a-gift-homeward-bound.jpg
+  notes: Single for PIAPTK Patreon supporters
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: A Gift
+    slug: a-gift
+    full_title: A Gift
+  - position: 2
+    side: A
+    side_position: 2
+    title: Homeward Bound
+    slug: homeward-bound
+    full_title: Homeward Bound

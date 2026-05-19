@@ -1,0 +1,69 @@
+slug: damon-and-naomi-2019-04-11-zebulon-los-angeles-ca-usa
+date: '2019-04-11'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals
+poster_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/show_assets/2019-04/2019-04-damon-and-naomi-west-coast.jpg
+ticket_url: https://www.eventbrite.com/e/damon-naomi-exploding-flowers-tickets-58603156619
+setlist_source: setlist.fm
+venue_name: Zebulon
+venue_slug: zebulon-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 2
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 3
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 4
+  raw_title: A Shining Dream
+  canonical_title: A Shining Dream
+  song_slug: a-shining-dream
+  full_title: A Shining Dream
+- position: 5
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 6
+  raw_title: What She Brings
+  canonical_title: What She Brings
+  song_slug: what-she-brings
+  full_title: What She Brings
+- position: 7
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 8
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 9
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 10
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki

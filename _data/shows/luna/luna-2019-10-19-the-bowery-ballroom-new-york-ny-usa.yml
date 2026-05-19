@@ -1,0 +1,112 @@
+slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+date: '2019-10-19'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums|Justin Harwood - bass (guest)
+series: Luna play Bewitched
+ticket_url: https://www.eventbrite.com/e/luna-plays-bewitched-tickets-59930977166
+notes: Luna play BewitchedTickets on sale Friday 12th April at 12pm EST
+setlist_source: setlist.fm
+venue_name: The Bowery Ballroom
+venue_slug: the-bowery-ballroom-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^Bewitched
+  annotation: Bewitched
+- position: 2
+  raw_title: California (All the Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 3
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 4
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 5
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 6
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 7
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 8
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 9
+  raw_title: Into the Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 10
+  raw_title: I Know You Tried
+  canonical_title: I Know You Tried
+  song_slug: i-know-you-tried
+  full_title: I Know You Tried
+- position: 11
+  raw_title: Sleeping Pill
+  canonical_title: Sleeping Pill
+  song_slug: sleeping-pill
+  full_title: Sleeping Pill
+- position: 12
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 13
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 14
+  raw_title: Lonesome Cowboy Bill
+  canonical_title: Lonesome Cowboy Bill
+  song_slug: lonesome-cowboy-bill
+  full_title: Lonesome Cowboy Bill
+- position: 15
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 16
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 17
+  raw_title: ^encore
+  annotation: encore
+- position: 18
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 19
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy

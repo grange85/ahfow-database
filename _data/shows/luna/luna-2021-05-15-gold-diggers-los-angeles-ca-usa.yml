@@ -1,0 +1,89 @@
+slug: luna-2021-05-15-gold-diggers-los-angeles-ca-usa
+date: '2021-05-15'
+year: 2021
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+ticket_url: https://luna.veeps.com/stream/events/39805cda-3dc3-4281-8343-54004240c9fc
+notes: While this is a full band show in a real venue it is for a lives tream.
+venue_name: Gold Diggers
+venue_slug: gold-diggers-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Beautiful View
+  canonical_title: Beautiful View
+  song_slug: beautiful-view
+  full_title: Beautiful View
+- position: 3
+  raw_title: California (All the Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 4
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 5
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 6
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 7
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 8
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 9
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 10
+  raw_title: The Corridors of Power
+  canonical_title: The Corridors of Power
+  song_slug: the-corridors-of-power
+  full_title: The Corridors of Power
+- position: 11
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 13
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 14
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine

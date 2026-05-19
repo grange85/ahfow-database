@@ -1,0 +1,42 @@
+title: Sally Free and Easy
+slug: sally-free-and-easy
+sort_title: SALLY FREE AND EASY
+authors: Tawney
+original_artist: Cyril Tawney
+originals_url: https://www.fullofwishes.co.uk/2014/04/09/originals-sally-free-and-easy-by-trees-covered-by-magic-hour/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Sally Free and Easy
+    appears_on:
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 20
+      position: 3
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Twisted Village
+      catalogue_no: TW-1031
+      position: 3
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: LP
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 20LP
+      side: A
+      position: 3
+    played_live: []

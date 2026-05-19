@@ -1,0 +1,124 @@
+title: Love Is Not a Roof Against the Rain
+slug: love-is-not-a-roof-against-the-rain
+sort_title: LOVE IS NOT A ROOF AGAINST THE RAIN
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Love Is Not a Roof Against the Rain
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 5
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 5
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 5
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 5
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: A
+      position: 5
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: A
+      position: 5
+    played_live:
+    - show_slug: dean-wareham-2014-04-04-u-street-washington-dc-usa
+      date: '2014-04-04'
+      year: 2014
+      venue: U Street
+      city: Washington DC
+      country: USA
+      position: 9
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 8
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 7
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2014-06-19-kcrw-santa-monica-ca-usa
+      date: '2014-06-19'
+      year: 2014
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2014-07-26-indietracks-festival-derbyshire-uk
+      date: '2014-07-26'
+      year: 2014
+      venue: Indietracks Festival
+      city: Derbyshire
+      country: UK
+      position: 6

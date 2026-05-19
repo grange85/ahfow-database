@@ -1,0 +1,23 @@
+title: She Went Walking in the Rain
+slug: she-went-walking-in-the-rain
+sort_title: SHE WENT WALKING IN THE RAIN
+authors: Kember/Popra
+original_artist: Cheval Sombre
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: She Went Walking in the Rain
+    appears_on:
+    - release_title: Love is Colder Than Death
+      release_slug: love-is-colder-than-death
+      release_type: Single
+      year: 2013
+      format: '7'
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR048
+      side: B
+      position: 2
+    played_live: []

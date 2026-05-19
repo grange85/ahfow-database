@@ -1,0 +1,22 @@
+title: Love / Fallin' in Love
+slug: love-fallin-in-love
+release_type: Single
+year: 2014
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg
+album_artist: Dean Wareham / Britta Phillips
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '7'
+  year: 2014
+  label: Formosa Punk Records
+  catalogue_no: SHADE 017
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-love-formosa-punk.jpg
+  notes: Split single with Britta Phillips
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Love
+    slug: love-the-jacks
+    full_title: Love

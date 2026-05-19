@@ -1,0 +1,53 @@
+slug: luna-2002-06-10-kcrw-santa-monica-ca-usa
+date: '2002-06-10'
+year: 2002
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: Morning Becomes Eclectic - live studio session and interview  TRUE
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Black Champagne
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne
+- position: 2
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 3
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 4
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 5
+  raw_title: Mermaid Eyes
+  canonical_title: Mermaid Eyes
+  song_slug: mermaid-eyes
+  full_title: Mermaid Eyes
+- position: 6
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 7
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched

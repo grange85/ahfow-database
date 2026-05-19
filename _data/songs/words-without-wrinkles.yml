@@ -1,0 +1,131 @@
+title: Words Without Wrinkles
+slug: words-without-wrinkles
+sort_title: WORDS WITHOUT WRINKLES
+lyrics: 'Will you stand trial
+
+  For crimes against the mind
+
+  Don''t contradict yourself
+
+  Not today
+
+  Quickly fetch the lawyer
+
+  You haven''t long to live
+
+  Words without wrinkles
+
+  Will hurt the most
+
+  Get your story straight
+
+  I heard them say
+
+  Quickly fetch the lawyer
+
+  You''ve nothin left to give
+
+
+  Go to the window
+
+  Make love to the wind
+
+  Concentrate and listen
+
+  This is the end...
+
+
+  A tear filled eye
+
+  Raised to the sky
+
+  You want us all to notice
+
+  We got no choice
+
+  Listen can you hear me
+
+  You''re going home
+
+  Your dopamine receptors
+
+  Are shot to hell
+
+  Your thoughts are spongy
+
+  You don''t seem well
+
+  Listen can you hear me?
+
+  You''re going home'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Words Without Wrinkles
+    appears_on:
+    - release_title: IHOP
+      release_slug: ihop
+      release_type: Single
+      year: 1997
+      format: '7'
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ313
+      side: B
+      position: 2
+    - release_title: IHOP
+      release_slug: ihop
+      release_type: Single
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ313CD
+      position: 3
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 8
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: B
+      position: 8
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 8
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: B
+      position: 8
+    played_live: []

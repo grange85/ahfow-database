@@ -1,0 +1,99 @@
+slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+date: '2020-09-26'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals|Roger
+  Brogan - drums
+series: live stream
+event: Dean & Britta's living room
+poster_url: https://www.fullofwishes.co.uk/images/2020-05-30-dean-and-britta-veeps.jpg
+ticket_url: https://deanandbritta.veeps.com/stream/events/25c7c930bc6d
+notes: Early show - 12:00 PDT the time where you areLive stream from Dean & Britta's
+  home in Los Angeles.
+venue_name: Echo Park
+venue_slug: dean--brittas-living-room-echo-park-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Air
+  canonical_title: Air
+  song_slug: air
+  full_title: Air
+- position: 2
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 3
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 4
+  raw_title: ^poem - Yogi by Rodger Kamenetz
+  annotation: poem - Yogi by Rodger Kamenetz
+- position: 5
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 6
+  raw_title: We're Not Supposed to be Lovers
+  canonical_title: We're Not Supposed to Be Lovers
+  song_slug: were-not-supposed-to-be-lovers
+  full_title: We're Not Supposed to Be Lovers
+- position: 7
+  raw_title: He Dines Out on Death
+  canonical_title: He Dines Out on Death
+  song_slug: he-dines-out-on-death
+  full_title: He Dines Out on Death
+- position: 8
+  raw_title: Duchess
+  canonical_title: Duchess
+  song_slug: duchess
+  full_title: Duchess
+- position: 9
+  raw_title: The Slow Song
+  canonical_title: The Slow Song
+  song_slug: the-slow-song
+  full_title: The Slow Song
+- position: 10
+  raw_title: (Walkin' Thru The) Sleepy City
+  canonical_title: (Walkin' Thru The) Sleepy City
+  song_slug: walkin-thru-the-sleepy-city
+  full_title: (Walkin' Thru The) Sleepy City
+- position: 11
+  raw_title: The Bend in The River
+  canonical_title: The Bend in the River
+  song_slug: the-bend-in-the-river
+  full_title: The Bend in the River
+- position: 12
+  raw_title: ^poem - Hearts Together by John Betjeman
+  annotation: poem - Hearts Together by John Betjeman
+- position: 13
+  raw_title: It's Getting Late
+  canonical_title: It's Getting Late
+  song_slug: its-getting-late
+  full_title: It's Getting Late
+- position: 14
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 15
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 16
+  raw_title: Homeward Bound
+  canonical_title: Homeward Bound
+  song_slug: homeward-bound
+  full_title: Homeward Bound

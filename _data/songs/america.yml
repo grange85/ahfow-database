@@ -1,0 +1,33 @@
+title: America
+slug: america
+sort_title: AMERICA
+authors: Traffic Sound
+original_artist: Traffic Sound
+originals_url: https://www.fullofwishes.co.uk/2013/01/31/originals-america-by-traffic-sound-covered-by-magic-hour/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: America
+    appears_on:
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 7
+    - release_title: I Had a Thought
+      release_slug: i-had-a-thought
+      release_type: Misc
+      year: 1995
+      format: '7'
+      edition_year: 1995
+      label: Ché
+      catalogue_no: CHE 29
+      side: B
+      position: 2
+    played_live: []

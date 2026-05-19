@@ -1,0 +1,21 @@
+title: Along the Santa Fe Trail
+slug: along-the-santa-fe-trail
+sort_title: ALONG THE SANTA FE TRAIL
+authors: Dubin/Coolidge/Grosz
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Along the Santa Fe Trail
+    appears_on:
+    - release_title: Along the Santa Fe Trail
+      release_slug: along-the-santa-fe-trail
+      release_type: Single
+      year: 2018
+      format: '7'
+      edition_year: 2018
+      label: Double Feature
+      side: A
+      position: 1
+    played_live: []

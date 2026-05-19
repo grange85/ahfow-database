@@ -1,0 +1,88 @@
+slug: dean-and-britta-2003-06-19-great-american-san-francisco-ca-usa
+date: '2003-06-19'
+year: 2003
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: 'Setlist: scan'
+venue_name: Great American
+venue_slug: great-american-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse
+- position: 2
+  raw_title: Random Rules
+  canonical_title: Random Rules
+  song_slug: random-rules
+  full_title: Random Rules
+- position: 3
+  raw_title: Out Walking
+  canonical_title: Out Walking
+  song_slug: out-walking
+  full_title: Out Walking
+- position: 4
+  raw_title: Hear The Wind Blow
+  canonical_title: Hear the Wind Blow
+  song_slug: hear-the-wind-blow
+  full_title: Hear the Wind Blow
+- position: 5
+  raw_title: I Deserve It
+  canonical_title: I Deserve It
+  song_slug: i-deserve-it
+  full_title: I Deserve It
+- position: 6
+  raw_title: Mermaid Eyes
+  canonical_title: Mermaid Eyes
+  song_slug: mermaid-eyes
+  full_title: Mermaid Eyes
+- position: 7
+  raw_title: Indian Summer [The Doors]
+  annotation: The Doors
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 8
+  raw_title: Your Baby
+  canonical_title: Your Baby
+  song_slug: your-baby
+  full_title: Your Baby
+- position: 9
+  raw_title: Threw It Away
+  canonical_title: Threw It Away
+  song_slug: threw-it-away
+  full_title: Threw it Away
+- position: 10
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 11
+  raw_title: Moonshot
+  canonical_title: Moonshot
+  song_slug: moonshot
+  full_title: Moonshot
+- position: 12
+  raw_title: Ginger Snaps
+  canonical_title: Ginger Snaps
+  song_slug: ginger-snaps
+  full_title: Ginger Snaps
+- position: 13
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 14
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde

@@ -1,0 +1,68 @@
+title: I Can Only Give My All
+slug: i-can-only-give-my-all
+sort_title: I CAN ONLY GIVE MY ALL
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: I Can Only Give My All
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 7
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 7
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 7
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 7
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: B
+      position: 7
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: B
+      position: 7
+    played_live: []

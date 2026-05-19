@@ -1,0 +1,40 @@
+slug: luna-2017-11-17-soundcheck-wnyc-ny-usa
+date: '2017-11-17'
+year: 2017
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: Soundcheck
+venue_slug: soundcheck-wnyc-ny-usa
+city: WNYC
+state: NY
+country: USA
+venue_url: https://www.facebook.com/WNYCSoundcheck/videos/10155845737028180/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: GTX3
+  canonical_title: GTX3
+  song_slug: gtx3
+  full_title: GTX3
+- position: 2
+  raw_title: ^interview
+  annotation: interview
+- position: 3
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: ^interview
+  annotation: interview
+- position: 5
+  raw_title: Captain Pentagon
+  canonical_title: Captain Pentagon
+  song_slug: captain-pentagon
+  full_title: Captain Pentagon

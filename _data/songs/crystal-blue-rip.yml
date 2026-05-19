@@ -1,0 +1,45 @@
+title: Crystal Blue R.I.P.
+slug: crystal-blue-rip
+sort_title: CRYSTAL BLUE R.I.P.
+authors: Kember/Wareham/Phillips
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Crystal Blue R.I.P.
+    appears_on:
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: Zoë
+      catalogue_no: 01143-1105-2
+      position: 9
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: LP
+      edition_year: 2019
+      label: Wouldn't Waste
+      catalogue_no: WWR-13
+      side: B
+      position: 10
+    played_live: []
+  - version_tag: remix
+    full_title: Crystal Blue R.I.P. [remix]
+    appears_on:
+    - release_title: Our Lips Are Sealed / Crystal Blue RIP
+      release_slug: our-lips-are-sealed-crystal-blue-rip
+      release_type: Single
+      year: 2011
+      format: '7'
+      edition_year: 2011
+      label: Rocket Girl
+      catalogue_no: RGIRL76
+      side: B
+      position: 2
+    played_live: []

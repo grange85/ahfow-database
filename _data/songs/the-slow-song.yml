@@ -1,0 +1,304 @@
+title: The Slow Song
+slug: the-slow-song
+sort_title: SLOW SONG
+lyrics: 'durch Strassen bevoikert
+
+  wir laufen breit
+
+  wir sind zufrieden
+
+  die Nacht ist schon
+
+
+  wenn du im Halbschlaf bist, in Wunderland
+
+  und einst von mir entfernt bist
+
+  schau in den Himmel
+
+  die Engelshande saen Senfkomer des Wahnsinns
+
+
+  schau auf die Uhr
+
+  ich muss zu Bett
+
+  wir tanzen zusammen
+
+  to the Tennesse Waltz'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Slow Song
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 11
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: B
+      position: 11
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 11
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: B
+      position: 11
+    played_live:
+    - show_slug: luna-1999-07-27-1-maxwells-hoboken-nj-usa
+      date: '1999-07-27'
+      year: 1999
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 1
+    - show_slug: luna-1999-09-18-kfz-marburg-germany
+      date: '1999-09-18'
+      year: 1999
+      venue: KFZ
+      city: Marburg
+      country: Germany
+      position: 11
+    - show_slug: luna-1999-10-31-idiots-delight-wnew-new-york-ny-usa
+      date: '1999-10-31'
+      year: 1999
+      venue: Idiots Delight WNEW
+      city: New York
+      country: USA
+      position: 7
+    - show_slug: luna-1999-11-18-kcrw-santa-monica-ca-usa
+      date: '1999-11-18'
+      year: 1999
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 3
+    - show_slug: luna-2000-04-08-1-bowery-ballroom-new-york-ny-usa
+      date: '2000-04-08'
+      year: 2000
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 5
+    - show_slug: luna-2000-05-27-maxwells-hoboken-nj-usa
+      date: '2000-05-27'
+      year: 2000
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 5
+    - show_slug: luna-2000-08-04-warhol-museum-pittsburgh-pa-usa
+      date: '2000-08-04'
+      year: 2000
+      venue: Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 12
+    - show_slug: luna-2001-01-26-village-underground-new-york-ny-usa
+      date: '2001-01-26'
+      year: 2001
+      venue: Village Underground
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2001-02-02-knitting-factory-new-york-ny-usa
+      date: '2001-02-02'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2001-02-10-930-club-washington-dc-usa
+      date: '2001-02-10'
+      year: 2001
+      venue: 9:30 Club
+      city: Washington DC
+      country: USA
+      position: 5
+    - show_slug: luna-2001-02-24-fillmore-san-francisco-ca-usa
+      date: '2001-02-24'
+      year: 2001
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2001-03-02-40-watt-club-athens-ga-usa
+      date: '2001-03-02'
+      year: 2001
+      venue: 40 Watt Club
+      city: Athens
+      country: USA
+      position: 10
+    - show_slug: luna-2001-03-31-bowery-ballroom-new-york-ny-usa
+      date: '2001-03-31'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 10
+    - show_slug: luna-2001-12-31-2300-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2002-02-16-1-brooklyn-museum-brooklyn-ny-usa
+      date: '2002-02-16'
+      year: 2002
+      venue: Brooklyn Museum
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2002-05-17-whfs-washington-dc-usa
+      date: '2002-05-17'
+      year: 2002
+      venue: WHFS
+      city: Washington DC
+      country: USA
+      position: 2
+    - show_slug: luna-2002-05-28-highdive-champaign-il-usa
+      date: '2002-05-28'
+      year: 2002
+      venue: Highdive
+      city: Champaign
+      country: USA
+      position: 11
+    - show_slug: luna-2002-05-29-southgate-house-newport-ky-usa
+      date: '2002-05-29'
+      year: 2002
+      venue: Southgate House
+      city: Newport
+      country: USA
+      position: 12
+    - show_slug: luna-2002-06-01-first-avenue-minneapolis-mn-usa
+      date: '2002-06-01'
+      year: 2002
+      venue: First Avenue
+      city: Minneapolis
+      country: USA
+      position: 10
+    - show_slug: luna-2002-06-05-aladdin-theatre-portland-or-usa
+      date: '2002-06-05'
+      year: 2002
+      venue: Aladdin Theatre
+      city: Portland
+      country: USA
+      position: 12
+    - show_slug: luna-2002-06-18-blueberry-hill-duck-room-st-louis-mo-usa
+      date: '2002-06-18'
+      year: 2002
+      venue: Blueberry Hill Duck Room
+      city: St Louis
+      country: USA
+      position: 12
+    - show_slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+      date: '2002-07-20'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 10
+    - show_slug: luna-2002-08-24-northsix-brooklyn-ny-usa
+      date: '2002-08-24'
+      year: 2002
+      venue: Northsix
+      city: Brooklyn
+      country: USA
+      position: 10
+    - show_slug: luna-2002-10-08-gebaude-9-cologne-germany
+      date: '2002-10-08'
+      year: 2002
+      venue: Gebaude 9
+      city: Cologne
+      country: Germany
+      position: 12
+    - show_slug: luna-2002-11-23-north-star-bar-philadelphia-pa-usa
+      date: '2002-11-23'
+      year: 2002
+      venue: North Star Bar
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-2003-07-26-maxwells-hoboken-nj-usa
+      date: '2003-07-26'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 7
+    - show_slug: luna-2003-08-15-black-cat-washington-dc-usa
+      date: '2003-08-15'
+      year: 2003
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 14
+    - show_slug: luna-2003-08-23-southpaw-brooklyn-ny-usa
+      date: '2003-08-23'
+      year: 2003
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 14
+    - show_slug: luna-2005-01-29-sons-of-hermann-hall-dallas-tx-usa
+      date: '2005-01-29'
+      year: 2005
+      venue: Sons of Hermann Hall
+      city: Dallas
+      country: USA
+      position: 9
+    - show_slug: luna-2005-02-11-2100-neumos-crystal-ball-reading-room-seattle-wa-usa
+      date: '2005-02-11'
+      year: 2005
+      venue: Neumos Crystal Ball Reading Room
+      city: Seattle
+      country: USA
+      position: 9
+    - show_slug: luna-2005-02-27-1400-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-27'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 9

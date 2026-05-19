@@ -1,0 +1,30 @@
+title: Beautiful View
+slug: beautiful-view
+release_type: Single
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_beautifulview.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: UK
+  year: 1998
+  label: Beggars Banquet
+  catalogue_no: BBQ 322CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_beautifulview.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Beautiful View
+    slug: beautiful-view
+    full_title: Beautiful View
+  - position: 2
+    side_position: 2
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 3
+    side_position: 3
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)

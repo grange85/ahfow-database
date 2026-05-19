@@ -1,0 +1,60 @@
+title: While My Guitar Gently Weeps
+slug: while-my-guitar-gently-weeps
+sort_title: WHILE MY GUITAR GENTLY WEEPS
+authors: George Harrison
+original_artist: The Beatles
+originals_url: https://www.fullofwishes.co.uk/2014/08/13/originals-guitar-gently-weeps-beatles-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: While My Guitar Gently Weeps
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.01'
+      position: 6
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Sonic Unyon
+      catalogue_no: SUNCD105
+      position: 6
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 6
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: P-Vine/20|20|20
+      catalogue_no: PCD 23593
+      position: 6
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: LP
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: 202020.01LP
+      side: B
+      position: 6
+    played_live: []

@@ -1,0 +1,58 @@
+slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+date: '2022-11-12'
+year: 2022
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals|Roger Brogan
+  - drums|Derek See - guitar
+notes: Private wedding
+venue_name: Pappy and Harriet's
+venue_slug: pappy-and-harriets-pioneertown-ca-usa
+city: Pioneertown
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Waterloo Sunset
+  canonical_title: Waterloo Sunset
+  song_slug: waterloo-sunset
+  full_title: Waterloo Sunset
+- position: 2
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 3
+  raw_title: Massachusetts
+  canonical_title: Massachusetts
+  song_slug: massachusetts
+  full_title: Massachusetts
+- position: 4
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 5
+  raw_title: Duchess
+  canonical_title: Duchess
+  song_slug: duchess
+  full_title: Duchess
+- position: 6
+  raw_title: I'm Sticking With You
+  canonical_title: I'm Sticking With You
+  song_slug: im-sticking-with-you
+  full_title: I'm Sticking With You
+- position: 7
+  raw_title: Walkin' With Jesus
+  canonical_title: Walkin' With Jesus
+  song_slug: walkin-with-jesus
+  full_title: Walkin' With Jesus
+- position: 8
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

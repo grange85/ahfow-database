@@ -1,0 +1,51 @@
+title: A Place of Greater Safety
+slug: a-place-of-greater-safety
+release_type: Single
+year: 2017
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-place-of-greater-safety-lo-res.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '10'
+  country: US
+  year: 2017
+  label: Double Feature
+  catalogue_no: DBL-0014
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-place-of-greater-safety-lo-res.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: GTX3
+    slug: gtx3
+    full_title: GTX3
+  - position: 2
+    side: A
+    side_position: 2
+    title: A Place of Greater Safety
+    slug: a-place-of-greater-safety
+    full_title: A Place Of Greater Safety
+  - position: 3
+    side: A
+    side_position: 3
+    title: Captain Pentagon
+    slug: captain-pentagon
+    full_title: Captain Pentagon
+  - position: 4
+    side: A
+    side_position: 4
+    title: Around and Around
+    slug: around-and-around
+    full_title: Around And Around
+  - position: 5
+    side: A
+    side_position: 5
+    title: Ides of March of the Trolls
+    slug: ides-of-march-of-the-trolls
+    full_title: Ides Of March Of The Trolls
+  - position: 6
+    side: A
+    side_position: 6
+    title: Spanish Odyssey
+    slug: spanish-odyssey
+    full_title: Spanish Odyssey

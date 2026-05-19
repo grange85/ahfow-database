@@ -1,0 +1,35 @@
+slug: luna-2015-09-16-sideways-through-sound-2ser-sydney-new-south-wales-australia
+date: '2015-09-16'
+year: 2015
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar
+event: Sideways Through Sound
+notes: Dean Wareham and Sean Eden acoustic performance and interview.This was transmitted
+  on 30 September 2015 but I'm assuming it was recorded while the band were in Sydney
+  on tour on 16 September - please let me know if you know different.  TRUE
+venue_name: 2SER
+venue_slug: sideways-through-sound-2ser-sydney-new-south-wales-australia
+city: Sydney
+state: New South Wales
+country: Australia
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 2
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 3
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace

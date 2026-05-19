@@ -1,0 +1,82 @@
+title: Friends
+slug: friends
+sort_title: FRIENDS
+authors: Doug Yule
+original_artist: The Velvet Underground
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Friends
+    appears_on:
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 3
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: LP
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      side: A
+      position: 3
+    played_live:
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 7
+    - show_slug: luna-2017-11-03-88nine-radio-milwaukee-milwaukee-wi-usa
+      date: '2017-11-03'
+      year: 2017
+      venue: 88Nine Radio Milwaukee
+      city: Milwaukee
+      country: USA
+      position: 2
+    - show_slug: luna-2017-11-10-wfpk-louisville-ky-usa
+      date: '2017-11-10'
+      year: 2017
+      venue: WFPK
+      city: Louisville
+      country: USA
+      position: 2
+    - show_slug: luna-2017-11-11-terminal-west-atlanta-ga-usa
+      date: '2017-11-11'
+      year: 2017
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: luna-2017-11-15-carnegie-lecture-hall-pittsburgh-pa-usa
+      date: '2017-11-15'
+      year: 2017
+      venue: Carnegie Lecture Hall
+      city: Pittsburgh
+      country: USA
+      position: 5
+    - show_slug: luna-2017-11-17-montgomery-hall-jersey-city-nj-usa
+      date: '2017-11-17'
+      year: 2017
+      venue: Montgomery Hall
+      city: Jersey City
+      country: USA
+      position: 2
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 2

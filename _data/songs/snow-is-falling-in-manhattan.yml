@@ -1,0 +1,38 @@
+title: Snow Is Falling in Manhattan
+slug: snow-is-falling-in-manhattan
+sort_title: SNOW IS FALLING IN MANHATTAN
+authors: David Berman
+original_artist: Purple Mountains
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Snow Is Falling in Manhattan
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2024-11-22-dean--brittas-living-room-echo-park-la-usa
+      date: '2024-11-22'
+      year: 2024
+      venue: Dean & Britta's living room
+      city: Echo Park
+      country: USA
+      position: 3

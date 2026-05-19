@@ -1,0 +1,89 @@
+title: The Old Fashioned Way
+slug: the-old-fashioned-way
+sort_title: OLD FASHIONED WAY
+lyrics: 'Well according to the shadows
+
+  We should be getting home
+
+  According to the shadows
+
+  We should be getting on
+
+  With your lucky lucky fingers
+
+  And your caterpillar eyes
+
+  I promise to be gentle
+
+  And I promise to be nice
+
+
+  Some love is short, some love is long
+
+  Sing to the ghosts of a dream gone wrong
+
+  A new style hit the city
+
+  A nueva bossa craze
+
+  Dance into the future
+
+  In the old fashioned ways
+
+  Perfect your dimensions
+
+  Teeth as white as mice
+
+  I promise to be gentle
+
+  And I promise to be nice'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Old Fashioned Way
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 3
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: A
+      position: 3
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 3
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: A
+      position: 3
+    played_live: []

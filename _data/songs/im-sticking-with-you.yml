@@ -1,0 +1,48 @@
+title: I'm Sticking With You
+slug: im-sticking-with-you
+sort_title: IM STICKING WITH YOU
+authors: Lou Reed
+original_artist: The Velvet Underground
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: I'm Sticking With You
+    appears_on: []
+    played_live:
+    - show_slug: dean-and-britta-2022-11-12-pappy-and-harriets-pioneertown-ca-usa
+      date: '2022-11-12'
+      year: 2022
+      venue: Pappy and Harriet's
+      city: Pioneertown
+      country: USA
+      position: 6
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 16
+    - show_slug: luna-2023-10-30-dabadaba-san-sebastian-spain
+      date: '2023-10-30'
+      year: 2023
+      venue: Dabadaba
+      city: San Sebastian
+      country: Spain
+      position: 16
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 20
+    - show_slug: dean-and-britta-2024-05-14-monty-bar-los-angeles-ca-usa
+      date: '2024-05-14'
+      year: 2024
+      venue: Monty Bar
+      city: Los Angeles
+      country: USA
+      position: 1

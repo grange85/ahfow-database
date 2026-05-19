@@ -1,0 +1,49 @@
+title: IHOP
+slug: ihop
+release_type: Single
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: UK
+  year: 1997
+  label: Beggars Banquet
+  catalogue_no: BBQ313
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side: B
+    side_position: 1
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles
+- format: CD
+  country: UK
+  year: 1997
+  label: Beggars Banquet
+  catalogue_no: BBQ313CD
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_ihop.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 2
+    side_position: 2
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    full_title: Fuzzy Wuzzy
+  - position: 3
+    side_position: 3
+    title: Words Without Wrinkles
+    slug: words-without-wrinkles
+    full_title: Words Without Wrinkles

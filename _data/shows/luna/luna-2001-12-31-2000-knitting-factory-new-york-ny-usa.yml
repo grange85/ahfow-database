@@ -1,0 +1,88 @@
+slug: luna-2001-12-31-2000-knitting-factory-new-york-ny-usa
+date: '2001-12-31'
+year: 2001
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: 8pm show
+venue_name: Knitting Factory
+venue_slug: knitting-factory-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 2
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 3
+  raw_title: Math Wiz
+  canonical_title: Math Wiz
+  song_slug: math-wiz
+  full_title: Math Wiz
+- position: 4
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 5
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 6
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 7
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 8
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 9
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 10
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 11
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 12
+  raw_title: Egg Nog
+  canonical_title: Egg Nog
+  song_slug: egg-nog
+  full_title: Egg Nog
+- position: 13
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 14
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch

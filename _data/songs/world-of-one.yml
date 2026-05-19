@@ -1,0 +1,39 @@
+title: World of One
+slug: world-of-one
+sort_title: WORLD OF ONE
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: World of One
+    appears_on:
+    - release_title: After Tomorrow
+      release_slug: after-tomorrow
+      release_type: Misc
+      year: 1994
+      format: '10'
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 18
+      side: A
+      position: 2
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 20
+      position: 6
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Twisted Village
+      catalogue_no: TW-1031
+      position: 6
+    played_live: []

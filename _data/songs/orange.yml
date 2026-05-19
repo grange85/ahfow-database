@@ -1,0 +1,21 @@
+title: Orange
+slug: orange
+sort_title: ORANGE
+authors: Silver/Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Orange
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: '7'
+      edition_year: 1998
+      label: Earworm
+      catalogue_no: WORMSS3
+      side: B
+      position: 2
+    played_live: []

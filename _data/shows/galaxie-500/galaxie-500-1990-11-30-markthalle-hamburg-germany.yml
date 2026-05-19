@@ -1,0 +1,83 @@
+slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+date: '1990-11-30'
+year: 1990
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: An audience recording doing the rounds claims this was at a club called 'Kin
+  and Zilo' but that seems to be wrong.
+venue_name: Markthalle
+venue_slug: markthalle-hamburg-germany
+city: Hamburg
+country: Germany
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 2
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 3
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 4
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 5
+  raw_title: Summertime
+  canonical_title: Summertime
+  song_slug: summertime
+  full_title: Summertime
+- position: 6
+  raw_title: Sorry
+  canonical_title: Sorry
+  song_slug: sorry
+  full_title: Sorry
+- position: 7
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 8
+  raw_title: Spook
+  canonical_title: Spook
+  song_slug: spook
+  full_title: Spook
+- position: 9
+  raw_title: Listen, the Snow Is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, the Snow Is Falling
+- position: 10
+  raw_title: Melt Away
+  canonical_title: Melt Away
+  song_slug: melt-away
+  full_title: Melt Away
+- position: 11
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 12
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony
+- position: 13
+  raw_title: Here She Comes Now
+  canonical_title: Here She Comes Now
+  song_slug: here-she-comes-now
+  full_title: Here She Comes Now

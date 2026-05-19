@@ -1,0 +1,25 @@
+title: Slide Rule
+slug: slide-rule
+sort_title: SLIDE RULE
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Slide Rule
+    appears_on: []
+    played_live:
+    - show_slug: luna-2001-08-24-bowery-ballroom-new-york-ny-usa
+      date: '2001-08-24'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2001-08-25-bowery-ballroom-new-york-ny-usa
+      date: '2001-08-25'
+      year: 2001
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3

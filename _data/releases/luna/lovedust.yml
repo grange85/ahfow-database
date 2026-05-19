@@ -1,0 +1,30 @@
+title: Lovedust
+slug: lovedust
+release_type: Single
+year: 2002
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: UK
+  year: 2002
+  label: Beggars Banquet/Jetset
+  catalogue_no: BBQ 363CDP
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-lovedust-promo.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 2
+    side_position: 2
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 3
+    side_position: 3
+    title: Only Women Bleed
+    slug: only-women-bleed
+    full_title: Only Women Bleed

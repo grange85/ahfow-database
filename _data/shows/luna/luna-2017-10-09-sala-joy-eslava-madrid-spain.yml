@@ -1,0 +1,100 @@
+slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+date: '2017-10-09'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-10-09/2017-10-09-luna-madrid-poster.jpg
+ticket_url: https://www.notikumi.com/channel/escenario-santander/2017/10/5/concierto-de-luna-en-santander
+venue_name: Sala Joy Eslava
+venue_slug: sala-joy-eslava-madrid-spain
+city: Madrid
+country: Spain
+venue_url: https://sonestrellagalicia.masgalicia.net/entradas/musica_american-autumn-presenta-luna-en-madrid
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 2
+  raw_title: Let Me Dream If I Want To
+  canonical_title: Let Me Dream If I Want To
+  song_slug: let-me-dream-if-i-want-to
+  full_title: Let Me Dream If I Want To
+- position: 3
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 4
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 5
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 6
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 7
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 8
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 9
+  raw_title: Most Of The Time
+  canonical_title: Most of the Time
+  song_slug: most-of-the-time
+  full_title: Most Of The Time
+- position: 10
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 11
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 12
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 13
+  raw_title: ^encore 1
+  annotation: encore 1
+- position: 14
+  raw_title: One Fine Summer Morning
+  canonical_title: One Fine Summer Morning
+  song_slug: one-fine-summer-morning
+  full_title: One Fine Summer Morning
+- position: 15
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 16
+  raw_title: ^encore 2
+  annotation: encore 2
+- position: 17
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

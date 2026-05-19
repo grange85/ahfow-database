@@ -1,0 +1,83 @@
+title: Satellite of Love
+slug: satellite-of-love
+sort_title: SATELLITE OF LOVE
+authors: Lou Reed
+original_artist: Lou Reed
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Satellite of Love
+    appears_on: []
+    played_live:
+    - show_slug: luna-2023-10-25-club-lula-madrid-spain
+      date: '2023-10-25'
+      year: 2023
+      venue: Club Lula
+      city: Madrid
+      country: Spain
+      position: 13
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 6
+    - show_slug: luna-2023-10-27-la-2-de-apolo-barcelona-spain
+      date: '2023-10-27'
+      year: 2023
+      venue: La (2) de Apolo
+      city: Barcelona
+      country: Spain
+      position: 9
+    - show_slug: luna-2023-10-28-espacio-las-armas-zaragoza-spain
+      date: '2023-10-28'
+      year: 2023
+      venue: Espacio Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 10
+    - show_slug: luna-2023-10-29-kafe-antzokia-bilbao-spain
+      date: '2023-10-29'
+      year: 2023
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 13
+    - show_slug: luna-2023-12-01-teragram-ballroom-los-angeles-ca-usa
+      date: '2023-12-01'
+      year: 2023
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 17
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 18
+    - show_slug: luna-2024-03-14-vivarium-milwaukee-wi-usa
+      date: '2024-03-14'
+      year: 2024
+      venue: Vivarium
+      city: Milwaukee
+      country: USA
+      position: 13
+    - show_slug: luna-2024-03-15-lincoln-hall-chicago-il-usa
+      date: '2024-03-15'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 16
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 19

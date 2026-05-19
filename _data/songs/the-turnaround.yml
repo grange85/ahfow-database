@@ -1,0 +1,73 @@
+title: The Turnaround
+slug: the-turnaround
+sort_title: TURNAROUND
+authors: Krukowski/Yang
+lyrics: 'Up all night
+
+  Just to feel the breeze
+
+  An attic room
+
+  Closed for centuries
+
+  The turnaround
+
+  The change of key
+
+  The open door
+
+  You gave to me
+
+  A dusty book
+
+  With tipped-in plates
+
+  Brushes dipped
+
+  In fresh white paint
+
+  An open door
+
+  Might lead you
+
+  A million miles away
+
+  But this heart will stay
+
+  Beside you'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Turnaround
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 9
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 9
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 13
+    played_live: []

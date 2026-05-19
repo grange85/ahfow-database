@@ -1,0 +1,37 @@
+title: Me and My Babies
+slug: me-and-my-babies
+sort_title: ME AND MY BABIES
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Me and My Babies
+    appears_on:
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: Zoë
+      catalogue_no: 01143-1105-2
+      position: 7
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: LP
+      edition_year: 2019
+      label: Wouldn't Waste
+      catalogue_no: WWR-13
+      side: B
+      position: 8
+    played_live:
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 2

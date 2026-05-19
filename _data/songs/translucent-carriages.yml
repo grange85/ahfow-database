@@ -1,0 +1,70 @@
+title: Translucent Carriages
+slug: translucent-carriages
+sort_title: TRANSLUCENT CARRIAGES
+authors: Tom Rapp
+original_artist: Pearls Before Swine
+originals_url: https://www.fullofwishes.co.uk/2014/07/16/originals-translucent-carriages-pearls-swine-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Translucent Carriages
+    appears_on:
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10438
+      position: 9
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Sub Pop
+      catalogue_no: SPCD425
+      position: 9
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 2001
+      label: Trama
+      catalogue_no: T900/399-2
+      position: 9
+    played_live:
+    - show_slug: damon-and-naomi-1997-04-26-terrastock-providence-ri-usa
+      date: '1997-04-26'
+      year: 1997
+      event: Terrastock
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 9
+    - show_slug: damon-and-naomi-1997-09-03-threadwaxing-space-new-york-ny-usa
+      date: '1997-09-03'
+      year: 1997
+      venue: Threadwaxing Space
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 10
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 11

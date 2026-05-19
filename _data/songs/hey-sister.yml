@@ -1,0 +1,440 @@
+title: Hey Sister
+slug: hey-sister
+sort_title: HEY SISTER
+lyrics: 'Hey sister, hey sister
+
+  Things move all alone
+
+  You know that I
+
+  Can''t stand what you do
+
+  And it won''t be too long
+
+
+  Hey soldier, hey soldier
+
+  Things die on their own
+
+  You know that I
+
+  Can''t stand what you do
+
+  And it won''t be too long
+
+
+  And I''m sure that it won''t be too long
+
+  And I''m tired of pretending I''m wrong'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Hey Sister
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: B
+      position: 8
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: B
+      position: 8
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 8
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: B
+      position: 8
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36CD
+      position: 5
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: '12'
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      side: B
+      position: 3
+    - release_title: Smile
+      release_slug: smile
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: EKR169CD
+      position: 3
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: 9 61472-2
+      position: 5
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: A
+      position: 5
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: B
+      position: 11
+    played_live:
+    - show_slug: luna-1992-01-17-cbgbs-new-york-ny-usa
+      date: '1992-01-17'
+      year: 1992
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-1992-02-22-maxwells-hoboken-nj-usa
+      date: '1992-02-22'
+      year: 1992
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 9
+    - show_slug: luna-1992-02-27-underworld-london-uk
+      date: '1992-02-27'
+      year: 1992
+      venue: Underworld
+      city: London
+      country: UK
+      position: 9
+    - show_slug: luna-1992-11-04-coach-house-san-juan-capistrano-ca-usa
+      date: '1992-11-04'
+      year: 1992
+      venue: Coach House
+      city: San Juan Capistrano
+      country: USA
+      position: 7
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: luna-1992-11-06-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-06'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: luna-1992-11-07-bogarts-long-beach-ca-usa
+      date: '1992-11-07'
+      year: 1992
+      venue: Bogart's
+      city: Long Beach
+      country: USA
+      position: 6
+    - show_slug: luna-1993-03-02-opera-house-toronto-ontario-canada
+      date: '1993-03-02'
+      year: 1993
+      venue: Opera House
+      city: Toronto
+      country: Canada
+      position: 7
+    - show_slug: luna-1993-03-04-st-andrews-hall-detroit-mi-usa
+      date: '1993-03-04'
+      year: 1993
+      venue: St. Andrews Hall
+      city: Detroit
+      country: USA
+      position: 6
+    - show_slug: luna-1993-03-05-agora-cleveland-oh-usa
+      date: '1993-03-05'
+      year: 1993
+      venue: Agora
+      city: Cleveland
+      country: USA
+      position: 8
+    - show_slug: luna-1993-03-19-warfield-theater-san-francisco-ca-usa
+      date: '1993-03-19'
+      year: 1993
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 8
+    - show_slug: luna-1993-06-05-forum-london-uk
+      date: '1993-06-05'
+      year: 1993
+      venue: Forum
+      city: London
+      country: UK
+      position: 4
+    - show_slug: luna-1993-06-13-palac-kultury-prague-czech-republic
+      date: '1993-06-13'
+      year: 1993
+      venue: Palac Kultury
+      city: Prague
+      country: Czech Republic
+      position: 5
+    - show_slug: luna-1994-04-04-kxlu-fm-los-angeles-ca-usa
+      date: '1994-04-04'
+      year: 1994
+      venue: KXLU-FM
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: luna-1994-04-15-trocadeo-philadelphia-pa-usa
+      date: '1994-04-15'
+      year: 1994
+      venue: Trocadeo
+      city: Philadelphia
+      country: USA
+      position: 8
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 9
+    - show_slug: luna-1994-05-05-shank-hall-milwaukee-wi-usa
+      date: '1994-05-05'
+      year: 1994
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 15
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 8
+    - show_slug: luna-1994-07-12-casbah-san-diego-ca-usa
+      date: '1994-07-12'
+      year: 1994
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 1
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 8
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 7
+    - show_slug: luna-1996-07-21-mercury-lounge-new-york-ny-usa
+      date: '1996-07-21'
+      year: 1996
+      venue: Mercury Lounge
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2004-11-27-irving-plaza-new-york-ny-usa
+      date: '2004-11-27'
+      year: 2004
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2004-12-17-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2004-12-17'
+      year: 2004
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-2005-01-17-ulu-london-uk
+      date: '2005-01-17'
+      year: 2005
+      venue: ULU
+      city: London
+      country: UK
+      position: 7
+    - show_slug: luna-2005-02-04-el-rey-theater-los-angeles-ca-usa
+      date: '2005-02-04'
+      year: 2005
+      venue: El Rey Theater
+      city: Los Angeles
+      country: USA
+      position: 18
+    - show_slug: luna-2005-02-09-wow-eugene-or-usa
+      date: '2005-02-09'
+      year: 2005
+      venue: WOW
+      city: Eugene
+      country: USA
+      position: 7
+    - show_slug: luna-2017-10-03-sala-de-camara-del-kursaal-san-sebastian-spain
+      date: '2017-10-03'
+      year: 2017
+      venue: Sala de Camara del Kursaal
+      city: San Sebastian
+      country: Spain
+      position: 3
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 9
+    - show_slug: luna-2017-10-09-sala-joy-eslava-madrid-spain
+      date: '2017-10-09'
+      year: 2017
+      venue: Sala Joy Eslava
+      city: Madrid
+      country: Spain
+      position: 4
+    - show_slug: luna-2017-10-12-ram-club-valencia-spain
+      date: '2017-10-12'
+      year: 2017
+      venue: Ram Club
+      city: Valencia
+      country: Spain
+      position: 5
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 13
+    - show_slug: luna-2017-11-20-wfuv-new-york-ny-usa
+      date: '2017-11-20'
+      year: 2017
+      venue: WFUV
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 4
+    - show_slug: luna-2018-04-07-granada-theater-dallas-tx-usa
+      date: '2018-04-07'
+      year: 2018
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 8
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 14
+    - show_slug: luna-2019-10-16-the-haunt-ithaca-ny-usa
+      date: '2019-10-16'
+      year: 2019
+      venue: The Haunt
+      city: Ithaca
+      country: USA
+      position: 6
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 8
+  - version_tag: Toxic shock demo
+    full_title: Hey Sister [Toxic shock demo]
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: D
+      position: 20
+    played_live: []

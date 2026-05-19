@@ -1,0 +1,24 @@
+title: Dancing Days
+slug: dancing-days
+sort_title: DANCING DAYS
+authors: Page/Plant
+original_artist: Led Zeppelin
+originals_url: https://www.fullofwishes.co.uk/2013/05/01/originals-dancing-days-by-led-zeppelin-covered-by-luna/
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Dancing Days
+    appears_on:
+    - release_title: Close Cover Before Striking
+      release_slug: close-cover-before-striking
+      release_type: Single
+      year: 2002
+      format: Digital
+      country: US
+      edition_year: 2011
+      label: Self released
+      side: A
+      position: 8
+    played_live: []

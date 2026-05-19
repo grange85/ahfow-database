@@ -1,0 +1,29 @@
+title: Everybody's Talkin'
+slug: everybodys-talkin
+release_type: Single
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: US
+  year: 1998
+  label: Sub Pop
+  catalogue_no: SP438
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-everybodys-talkin.jpg
+  notes: Sub Pop Singles Club 1998
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 2
+    side: B
+    side_position: 1
+    title: Fuzzy Wuzzy
+    slug: fuzzy-wuzzy
+    version_tag: demo
+    full_title: Fuzzy Wuzzy [demo]

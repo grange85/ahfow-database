@@ -1,0 +1,261 @@
+title: Yesterday's Hero
+slug: yesterdays-hero
+sort_title: YESTERDAYS HERO
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Yesterday's Hero
+    appears_on:
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Carpark Records
+      position: 7
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Carpark Records
+      side: B
+      position: 7
+    played_live:
+    - show_slug: dean-wareham-2025-04-01-the-garage-glasgow-uk
+      date: '2025-04-01'
+      year: 2025
+      venue: The Garage
+      city: Glasgow
+      country: UK
+      position: 4
+    - show_slug: dean-wareham-2025-04-03-rough-trade-liverpool-uk
+      date: '2025-04-03'
+      year: 2025
+      venue: Rough Trade
+      city: Liverpool
+      country: UK
+      position: 4
+    - show_slug: dean-wareham-2025-04-04-the-assembly-royal-leamington-spa-uk
+      date: '2025-04-04'
+      year: 2025
+      venue: The Assembly
+      city: Royal Leamington Spa
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2025-04-05-brudenell-social-club-leeds-uk
+      date: '2025-04-05'
+      year: 2025
+      venue: Brudenell Social Club
+      city: Leeds
+      country: UK
+      position: 4
+    - show_slug: dean-wareham-2025-04-06-the-fleece-bristol-uk
+      date: '2025-04-06'
+      year: 2025
+      venue: The Fleece
+      city: Bristol
+      country: UK
+      position: 6
+    - show_slug: dean-wareham-2025-04-07-229-london-uk
+      date: '2025-04-07'
+      year: 2025
+      venue: '229'
+      city: London
+      country: UK
+      position: 6
+    - show_slug: dean-wareham-2025-04-10-dbs-utrecht-the-netherlands
+      date: '2025-04-10'
+      year: 2025
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 4
+    - show_slug: dean-wareham-2025-04-14-frannz-club-berlin-germany
+      date: '2025-04-14'
+      year: 2025
+      venue: Frannz Club
+      city: Berlin
+      country: Germany
+      position: 4
+    - show_slug: dean-wareham-2025-04-16-pumpehuset-copenhagen-denmark
+      date: '2025-04-16'
+      year: 2025
+      venue: Pumpehuset
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: dean-wareham-2025-04-20-sala-upload-barcelona-spain
+      date: '2025-04-20'
+      year: 2025
+      venue: Sala Upload
+      city: Barcelona
+      country: Spain
+      position: 4
+    - show_slug: dean-wareham-2025-04-22-la-lata-de-bombillas-zaragoza-spain
+      date: '2025-04-22'
+      year: 2025
+      venue: La Lata De Bombillas
+      city: Zaragoza
+      country: Spain
+      position: 4
+    - show_slug: dean-wareham-2025-04-25-sala-villanos-madrid-spain
+      date: '2025-04-25'
+      year: 2025
+      venue: Sala Villanos
+      city: Madrid
+      country: Spain
+      position: 4
+    - show_slug: dean-wareham-2025-05-17-the-chapel-san-francisco-ca-usa
+      date: '2025-05-17'
+      year: 2025
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-05-20-mississippi-studios-portland-or-usa
+      date: '2025-05-20'
+      year: 2025
+      venue: Mississippi Studios
+      city: Portland
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-05-21-kexp-seattle-wa-usa
+      date: '2025-05-21'
+      year: 2025
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2025-06-02-the-press-room-portsmouth-nh-usa
+      date: '2025-06-02'
+      year: 2025
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-03-space-ballroom-hamden-ct-usa
+      date: '2025-06-03'
+      year: 2025
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-05-the-sinclair-cambridge-ma-usa
+      date: '2025-06-05'
+      year: 2025
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-06-iron-horse-northampton-ma-usa
+      date: '2025-06-06'
+      year: 2025
+      venue: Iron Horse
+      city: Northampton
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-07-bowery-ballroom-new-york-ny-usa
+      date: '2025-06-07'
+      year: 2025
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-08-the-basement-at-bond-street-bar-asbury-park-nj-usa
+      date: '2025-06-08'
+      year: 2025
+      venue: The Basement at Bond Street Bar
+      city: Asbury Park
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-10-world-cafe-philadelphia-pa-usa
+      date: '2025-06-10'
+      year: 2025
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-11-songbyrd-music-house-washington-dc-usa
+      date: '2025-06-11'
+      year: 2025
+      venue: Songbyrd Music House
+      city: Washington DC
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-12-pittsburgh-pa-usa
+      date: '2025-06-12'
+      year: 2025
+      event: Sound Series
+      venue: The Warhol Theatre
+      city: Pittsburgh
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-14-beachland-ballroom-cleveland-oh-usa
+      date: '2025-06-14'
+      year: 2025
+      venue: Beachland Ballroom
+      city: Cleveland
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-06-15-magic-bag-ferndale-mi-usa
+      date: '2025-06-15'
+      year: 2025
+      venue: Magic Bag
+      city: Ferndale
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2025-06-16-lincoln-hall-chicago-il-usa
+      date: '2025-06-16'
+      year: 2025
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2025-06-18-high-noon-saloon-madison-wi-usa
+      date: '2025-06-18'
+      year: 2025
+      venue: High Noon Saloon
+      city: Madison
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2025-06-19-turf-club-st-paul-mn-usa
+      date: '2025-06-19'
+      year: 2025
+      venue: Turf Club
+      city: St. Paul
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2025-08-21-the-trades-club-hebden-bridge-uk
+      date: '2025-08-21'
+      year: 2025
+      venue: The Trades Club
+      city: Hebden Bridge
+      country: UK
+      position: 10
+    - show_slug: dean-and-britta-2025-08-25-the-holy-grale-durham-uk
+      date: '2025-08-25'
+      year: 2025
+      venue: The Holy GrAle
+      city: Durham
+      country: UK
+      position: 11
+    - show_slug: dean-wareham-2026-05-08-cordao-da-bola-preta-rio-de-janeiro-brazil
+      date: '2026-05-08'
+      year: 2026
+      venue: Cordão da Bola Preta
+      city: Rio de Janeiro
+      country: Brazil
+      position: 4
+    - show_slug: dean-wareham-2026-05-09-cine-joia-sao-paulo-brazil
+      date: '2026-05-09'
+      year: 2026
+      series: Dean Wareham plays Galaxie 500
+      venue: Cine Joia
+      city: São Paulo
+      country: Brazil
+      position: 5

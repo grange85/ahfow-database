@@ -1,0 +1,530 @@
+title: Uncollected
+slug: uncollected
+release_type: Album
+year: 1997
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-uncollected-2024.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  country: US
+  year: 1997
+  label: Rykodisc
+  sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500_uncollected.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 2
+    side_position: 2
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 3
+    side_position: 3
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 4
+    side_position: 4
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 5
+    side_position: 5
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 6
+    side_position: 6
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 7
+    side_position: 7
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 8
+    side_position: 8
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 9
+    side_position: 9
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 10
+    side_position: 10
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 11
+    side_position: 11
+    title: Walking Song
+    slug: walking-song
+    full_title: Walking Song
+  - position: 12
+    side_position: 12
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 13
+    side_position: 13
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 14
+    side_position: 14
+    title: Rain
+    slug: rain
+    full_title: Rain
+  - position: 15
+    side_position: 15
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 16
+    side_position: 16
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: video
+    full_title: Blue Thunder [video]
+- format: 2xCD
+  country: US
+  year: 2024
+  label: Silver Current
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Shout You Down
+    slug: shout-you-down
+    full_title: Shout You Down
+  - position: 2
+    side_position: 2
+    title: See Through Glasses
+    slug: see-through-glasses
+    full_title: See Through Glasses
+  - position: 3
+    side_position: 3
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 4
+    side_position: 4
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 5
+    side_position: 5
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 6
+    side_position: 6
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 7
+    side_position: 7
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 8
+    side_position: 8
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 9
+    side_position: 9
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 10
+    side_position: 10
+    title: I Wanna Live
+    slug: i-wanna-live
+    full_title: I Wanna Live
+  - position: 11
+    side_position: 11
+    title: I Will Walk
+    slug: i-will-walk
+    full_title: I Will Walk
+  - position: 12
+    side_position: 12
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+  - position: 13
+    side_position: 13
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 14
+    side_position: 14
+    title: Never Get to Heaven
+    slug: never-get-to-heaven
+    full_title: Never Get to Heaven
+  - position: 15
+    side_position: 15
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 16
+    side_position: 16
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 17
+    side_position: 17
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 18
+    side_position: 18
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 19
+    side_position: 19
+    title: Fourth of July
+    slug: fourth-of-july
+    version_tag: video mix
+    full_title: Fourth of July [video mix]
+  - position: 20
+    side_position: 20
+    title: Cactus
+    slug: cactus
+    full_title: Cactus
+  - position: 21
+    side_position: 21
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 22
+    side_position: 22
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 23
+    side_position: 23
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 24
+    side_position: 24
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: 2xLP
+  country: US
+  year: 2024
+  label: Silver Current
+  notes: Available in a deluxe edition, a Bandcamp exlusive coloured vinyl, a UK record
+    shop exclusive coloured vinyl and 'classic' black vinyl.
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Shout You Down
+    slug: shout-you-down
+    full_title: Shout You Down
+  - position: 2
+    side: A
+    side_position: 2
+    title: See Through Glasses
+    slug: see-through-glasses
+    full_title: See Through Glasses
+  - position: 3
+    side: A
+    side_position: 3
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 4
+    side: A
+    side_position: 4
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 5
+    side: A
+    side_position: 5
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 6
+    side: A
+    side_position: 6
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 7
+    side: B
+    side_position: 1
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 8
+    side: B
+    side_position: 2
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 9
+    side: B
+    side_position: 3
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 10
+    side: B
+    side_position: 4
+    title: I Wanna Live
+    slug: i-wanna-live
+    full_title: I Wanna Live
+  - position: 11
+    side: B
+    side_position: 5
+    title: I Will Walk
+    slug: i-will-walk
+    full_title: I Will Walk
+  - position: 12
+    side: B
+    side_position: 6
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+  - position: 13
+    side: B
+    side_position: 7
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 14
+    side: C
+    side_position: 1
+    title: Never Get to Heaven
+    slug: never-get-to-heaven
+    full_title: Never Get to Heaven
+  - position: 15
+    side: C
+    side_position: 2
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 16
+    side: C
+    side_position: 3
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 17
+    side: C
+    side_position: 4
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 18
+    side: C
+    side_position: 5
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 19
+    side: C
+    side_position: 6
+    title: Fourth of July
+    slug: fourth-of-july
+    version_tag: video mix
+    full_title: Fourth of July [video mix]
+  - position: 20
+    side: D
+    side_position: 1
+    title: Cactus
+    slug: cactus
+    full_title: Cactus
+  - position: 21
+    side: D
+    side_position: 2
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 22
+    side: D
+    side_position: 3
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 23
+    side: D
+    side_position: 4
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 24
+    side: D
+    side_position: 5
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now
+- format: 2xMC
+  country: US
+  year: 2024
+  label: Silver Current
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Shout You Down
+    slug: shout-you-down
+    full_title: Shout You Down
+  - position: 2
+    side: A
+    side_position: 2
+    title: See Through Glasses
+    slug: see-through-glasses
+    full_title: See Through Glasses
+  - position: 3
+    side: A
+    side_position: 3
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 4
+    side: A
+    side_position: 4
+    title: I Can't Believe It's Me
+    slug: i-cant-believe-its-me
+    full_title: I Can't Believe It's Me
+  - position: 5
+    side: A
+    side_position: 5
+    title: Oblivious
+    slug: oblivious
+    version_tag: alternate version
+    full_title: Oblivious [alternate version]
+  - position: 6
+    side: A
+    side_position: 6
+    title: King of Spain
+    slug: king-of-spain
+    full_title: King of Spain
+  - position: 7
+    side: B
+    side_position: 1
+    title: Jerome
+    slug: jerome
+    full_title: Jerome
+  - position: 8
+    side: B
+    side_position: 2
+    title: Song in 3
+    slug: song-in-3
+    full_title: Song in 3
+  - position: 9
+    side: B
+    side_position: 3
+    title: Crazy
+    slug: crazy
+    full_title: Crazy
+  - position: 10
+    side: B
+    side_position: 4
+    title: I Wanna Live
+    slug: i-wanna-live
+    full_title: I Wanna Live
+  - position: 11
+    side: B
+    side_position: 5
+    title: I Will Walk
+    slug: i-will-walk
+    full_title: I Will Walk
+  - position: 12
+    side: B
+    side_position: 6
+    title: Cold Night
+    slug: cold-night
+    full_title: Cold Night
+  - position: 13
+    side: B
+    side_position: 7
+    title: Ceremony
+    slug: ceremony
+    full_title: Ceremony
+  - position: 14
+    side: C
+    side_position: 1
+    title: Never Get to Heaven
+    slug: never-get-to-heaven
+    full_title: Never Get to Heaven
+  - position: 15
+    side: C
+    side_position: 2
+    title: Maracas Song
+    slug: maracas-song
+    full_title: Maracas Song
+  - position: 16
+    side: C
+    side_position: 3
+    title: Victory Garden
+    slug: victory-garden
+    full_title: Victory Garden
+  - position: 17
+    side: C
+    side_position: 4
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 18
+    side: C
+    side_position: 5
+    title: Cheese and Onions
+    slug: cheese-and-onions
+    full_title: Cheese and Onions
+  - position: 19
+    side: C
+    side_position: 6
+    title: Fourth of July
+    slug: fourth-of-july
+    version_tag: video mix
+    full_title: Fourth of July [video mix]
+  - position: 20
+    side: D
+    side_position: 1
+    title: Cactus
+    slug: cactus
+    full_title: Cactus
+  - position: 21
+    side: D
+    side_position: 2
+    title: Moonshot
+    slug: moonshot
+    full_title: Moonshot
+  - position: 22
+    side: D
+    side_position: 3
+    title: Them
+    slug: them
+    full_title: Them
+  - position: 23
+    side: D
+    side_position: 4
+    title: Final Day
+    slug: final-day
+    full_title: Final Day
+  - position: 24
+    side: D
+    side_position: 5
+    title: Here She Comes Now
+    slug: here-she-comes-now
+    full_title: Here She Comes Now

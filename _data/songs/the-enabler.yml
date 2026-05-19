@@ -1,0 +1,28 @@
+title: The Enabler
+slug: the-enabler
+sort_title: ENABLER
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Enabler
+    appears_on:
+    - release_title: EP (No.6)
+      release_slug: ep-no-6
+      release_type: Single
+      year: 1996
+      format: CD
+      country: US
+      edition_year: 1996
+      label: No. 6 Records
+      catalogue_no: KAR 036-2
+      position: 5
+    played_live:
+    - show_slug: dean-and-britta-2009-03-20-the-grind-clark-university-worcester-ma-usa
+      date: '2009-03-20'
+      year: 2009
+      venue: The Grind, Clark University
+      city: Worcester
+      country: USA
+      position: 1

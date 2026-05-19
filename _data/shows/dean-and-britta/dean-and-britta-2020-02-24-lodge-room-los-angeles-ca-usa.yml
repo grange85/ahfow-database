@@ -1,0 +1,34 @@
+slug: dean-and-britta-2020-02-24-lodge-room-los-angeles-ca-usa
+date: '2020-02-24'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals|Roger
+  Brogan - drums
+notes: Bernie Party - benefit show for Bernie Sanders presidential campaign.With Julia
+  Holter, Hand Habits and others
+venue_name: Lodge Room
+venue_slug: lodge-room-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Victory Garden
+  canonical_title: Victory Garden
+  song_slug: victory-garden
+  full_title: Victory Garden
+- position: 2
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 3
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

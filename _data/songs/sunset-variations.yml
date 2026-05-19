@@ -1,0 +1,21 @@
+title: Sunset Variations
+slug: sunset-variations
+sort_title: SUNSET VARIATIONS
+authors: Wayne Rogers
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Sunset Variations
+    appears_on:
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 8
+    played_live: []

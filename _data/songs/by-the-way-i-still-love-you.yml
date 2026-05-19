@@ -1,0 +1,40 @@
+title: By the Way (I Still Love You)
+slug: by-the-way-i-still-love-you
+sort_title: BY THE WAY (I STILL LOVE YOU
+authors: Lee Hazlewood
+original_artist: Sinatra, Nancy
+originals_url: https://www.fullofwishes.co.uk/2013/03/27/originals-by-the-way-i-still-love-you-by-nancy-sinatra-covered-by-cagney-and-lacee/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: By The Way (I Still Love You)
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: '7'
+      edition_year: 1995
+      label: No. 6
+      catalogue_no: KAR034
+      side: B
+      position: 2
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 5
+    - release_title: Speed Dating
+      release_slug: speed-dating
+      release_type: Misc
+      year: 2009
+      format: 2xCD
+      edition_year: 2009
+      label: No. 6
+      catalogue_no: KAR006
+      position: 4
+    played_live: []

@@ -1,0 +1,97 @@
+slug: luna-1996-12-31-mercury-lounge-new-york-ny-usa
+date: '1996-12-31'
+year: 1996
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+venue_name: Mercury Lounge
+venue_slug: mercury-lounge-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 2
+  raw_title: Sideshow by The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 4
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 5
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 6
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 7
+  raw_title: Hedgehog
+  canonical_title: Hedgehog
+  song_slug: hedgehog
+  full_title: Hedgehog
+- position: 8
+  raw_title: Outdoor Miner
+  canonical_title: Outdoor Miner
+  song_slug: outdoor-miner
+  full_title: Outdoor Miner
+- position: 9
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 10
+  raw_title: IHOP
+  canonical_title: IHOP
+  song_slug: ihop
+  full_title: IHOP
+- position: 11
+  raw_title: Season of The Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 12
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 13
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 14
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 15
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 16
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia

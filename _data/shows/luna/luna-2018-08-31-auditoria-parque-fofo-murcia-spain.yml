@@ -1,0 +1,84 @@
+slug: luna-2018-08-31-auditoria-parque-fofo-murcia-spain
+date: '2018-08-31'
+year: 2018
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+venue_name: Auditoria Parque Fofó
+venue_slug: auditoria-parque-fofo-murcia-spain
+city: Murcia
+country: Spain
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 2
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 3
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 4
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 5
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 6
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 7
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 8
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 9
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 10
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 11
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 12
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 13
+  raw_title: ^encore
+  annotation: encore
+- position: 14
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

@@ -1,0 +1,18 @@
+title: 'Chemical Imbalance #7'
+slug: chemical-imbalance-7
+release_type: Single
+year: 1990
+album_artist: Various artists
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '7'
+  year: 1990
+  label: Chemical Imbalance
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer

@@ -1,0 +1,102 @@
+slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+date: '2004-11-14'
+year: 2004
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Fine Line Music Cafe
+venue_slug: fine-line-music-cafe-minneapolis-mn-usa
+city: Minneapolis
+state: MN
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Cindy Tastes of Barbecue
+  canonical_title: Cindy Tastes of Barbecue
+  song_slug: cindy-tastes-of-barbecue
+  full_title: Cindy Tastes of Barbecue
+- position: 2
+  raw_title: '1995'
+  canonical_title: '1995'
+  song_slug: '1995'
+  full_title: '1995'
+- position: 3
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 4
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 5
+  raw_title: Speedbumps
+  canonical_title: Speedbumps
+  song_slug: speedbumps
+  full_title: Speedbumps
+- position: 6
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 7
+  raw_title: Broken Chair
+  canonical_title: Broken Chair
+  song_slug: broken-chair
+  full_title: Broken Chair
+- position: 8
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 9
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 10
+  raw_title: Astronaut
+  canonical_title: Astronaut
+  song_slug: astronaut
+  full_title: Astronaut
+- position: 11
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 12
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 13
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 14
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 15
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 16
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 17
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

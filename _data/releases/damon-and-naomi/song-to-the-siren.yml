@@ -1,0 +1,144 @@
+title: Song to the Siren
+slug: song-to-the-siren
+release_type: Album
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_songtothesiren.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD/DVD
+  year: 2002
+  label: Sub Pop
+  catalogue_no: SPCD592
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Judah and the Maccabees
+    slug: judah-and-the-maccabees
+    full_title: Judah and the Maccabees
+  - position: 2
+    side: A
+    side_position: 2
+    title: The New World
+    slug: the-new-world
+    full_title: The New World
+  - position: 3
+    side: A
+    side_position: 3
+    title: Eye of the Storm
+    slug: eye-of-the-storm
+    full_title: Eye of the Storm
+  - position: 4
+    side: A
+    side_position: 4
+    title: Song to the Siren
+    slug: song-to-the-siren
+    full_title: Song to the Siren
+  - position: 5
+    side: A
+    side_position: 5
+    title: The Navigator
+    slug: the-navigator
+    full_title: The Navigator
+  - position: 6
+    side: A
+    side_position: 6
+    title: The Great Wall
+    slug: the-great-wall
+    full_title: The Great Wall
+  - position: 7
+    side: A
+    side_position: 7
+    title: I Dreamed of the Caucasus
+    slug: i-dreamed-of-the-caucasus
+    full_title: I Dreamed of the Caucasus
+  - position: 8
+    side: A
+    side_position: 8
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 9
+    side: A
+    side_position: 9
+    title: Tanka
+    slug: tanka
+    full_title: Tanka
+  - position: 10
+    side: A
+    side_position: 10
+    title: Turn of the Century
+    slug: turn-of-the-century
+    full_title: Turn of the Century
+  - position: 11
+    side: A
+    side_position: 11
+    title: Love
+    slug: love-the-jacks
+    full_title: Love
+- format: LP/DVD
+  year: 2009
+  label: Factory 25
+  catalogue_no: FTF-002
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-1001-nights.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Judah and the Maccabees
+    slug: judah-and-the-maccabees
+    full_title: Judah and the Maccabees
+  - position: 2
+    side: A
+    side_position: 2
+    title: The New World
+    slug: the-new-world
+    full_title: The New World
+  - position: 3
+    side: A
+    side_position: 3
+    title: Eye of the Storm
+    slug: eye-of-the-storm
+    full_title: Eye of the Storm
+  - position: 4
+    side: A
+    side_position: 4
+    title: The Navigator
+    slug: the-navigator
+    full_title: The Navigator
+  - position: 5
+    side: A
+    side_position: 5
+    title: The Great Wall
+    slug: the-great-wall
+    full_title: The Great Wall
+  - position: 6
+    side: B
+    side_position: 1
+    title: I Dreamed of the Caucasus
+    slug: i-dreamed-of-the-caucasus
+    full_title: I Dreamed of the Caucasus
+  - position: 7
+    side: B
+    side_position: 2
+    title: New York City
+    slug: new-york-city
+    full_title: New York City
+  - position: 8
+    side: B
+    side_position: 3
+    title: Tanka
+    slug: tanka
+    full_title: Tanka
+  - position: 9
+    side: B
+    side_position: 4
+    title: Turn of the Century
+    slug: turn-of-the-century
+    full_title: Turn of the Century
+  - position: 10
+    side: B
+    side_position: 5
+    title: Love
+    slug: love-the-jacks
+    full_title: Love

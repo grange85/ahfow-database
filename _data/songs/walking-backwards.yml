@@ -1,0 +1,50 @@
+title: Walking Backwards
+slug: walking-backwards
+sort_title: WALKING BACKWARDS
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Walking Backwards
+    appears_on:
+    - release_title: Walking Backwards / The World's Strongest Man
+      release_slug: walking-backwards-the-worlds-strongest-man
+      release_type: Single
+      year: 2011
+      format: '7'
+      edition_year: 2011
+      label: Great Pop Supplement
+      catalogue_no: GPS62
+      side: A
+      position: 1
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: '202020.12'
+      position: 1
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: Broken Horse
+      catalogue_no: BKH-CD 022
+      position: 1
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: LP
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: 202020.12LP
+      side: A
+      position: 1
+    played_live: []

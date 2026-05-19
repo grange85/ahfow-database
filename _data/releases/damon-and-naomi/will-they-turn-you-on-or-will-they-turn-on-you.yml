@@ -1,0 +1,87 @@
+title: Will They Turn You On Or Will They Turn On You
+slug: will-they-turn-you-on-or-will-they-turn-on-you
+release_type: Misc
+year: 1995
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD
+  year: 1995
+  label: Twisted Village
+  catalogue_no: TW-1035
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Something Else
+    slug: something-else
+    full_title: Something Else
+  - position: 2
+    side_position: 2
+    title: I Had a Thought
+    slug: i-had-a-thought
+    full_title: I Had a Thought
+  - position: 3
+    side_position: 3
+    title: Chance Was
+    slug: chance-was
+    full_title: Chance Was
+  - position: 4
+    side_position: 4
+    title: When I Remembered
+    slug: when-i-remembered
+    full_title: When I Remembered
+  - position: 5
+    side_position: 5
+    title: Jonathan and Charles
+    slug: jonathan-and-charles
+    full_title: Jonathan and Charles
+  - position: 6
+    side_position: 6
+    title: Passing Words
+    slug: passing-words
+    full_title: Passing Words
+- format: LP
+  year: 1995
+  label: Ché
+  catalogue_no: CHE 30LP
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magichour_willthey.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Something Else
+    slug: something-else
+    full_title: Something Else
+  - position: 2
+    side: A
+    side_position: 2
+    title: I Had a Thought
+    slug: i-had-a-thought
+    full_title: I Had a Thought
+  - position: 3
+    side: A
+    side_position: 3
+    title: Chance Was
+    slug: chance-was
+    full_title: Chance Was
+  - position: 4
+    side: A
+    side_position: 4
+    title: When I Remembered
+    slug: when-i-remembered
+    full_title: When I Remembered
+  - position: 5
+    side: A
+    side_position: 5
+    title: Jonathan and Charles
+    slug: jonathan-and-charles
+    full_title: Jonathan and Charles
+  - position: 6
+    side: B
+    side_position: 1
+    title: Passing Words
+    slug: passing-words
+    full_title: Passing Words

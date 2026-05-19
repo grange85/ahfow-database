@@ -1,0 +1,138 @@
+title: Cold Night
+slug: cold-night
+sort_title: COLD NIGHT
+authors: Krukowski/Wareham/Yang
+lyrics: 'I can''t talk to today
+
+  The phone will have to ring
+
+  I''ll keep the blind pulled down
+
+  I''ll keep the bedroom locked
+
+
+  I think the window froze
+
+  I think my head is broke
+
+  I think my toes won''t move
+
+  I think my head is broke'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Cold Night
+    appears_on:
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 13
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1120
+      position: 13
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1369
+      position: 13
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.08'
+      position: 13
+    - release_title: On Fire
+      release_slug: on-fire
+      release_type: Album
+      year: 1989
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10357
+      position: 13
+    - release_title: Blue Thunder
+      release_slug: blue-thunder
+      release_type: Single
+      year: 1990
+      format: '12'
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: RTT246
+      side: B
+      position: 4
+    - release_title: Blue Thunder
+      release_slug: blue-thunder
+      release_type: Single
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: RTT246CD
+      position: 4
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: B
+      position: 23
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 12
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: B
+      position: 12
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: B
+      position: 12
+    played_live: []

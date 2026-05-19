@@ -1,0 +1,75 @@
+title: Something in the Air
+slug: something-in-the-air
+sort_title: SOMETHING IN THE AIR
+authors: Speedy Keen
+original_artist: Thunderclap Newman
+lyrics: 'Call out the instigators
+
+  Because there''s something in the air
+
+  We''ve got to get together sooner or later
+
+  Because the revolution''s here, and you know it''s right
+
+  And you know that it''s right
+
+  We have got to get it together
+
+  We have got to get it together now
+
+  Lock up the streets and houses
+
+  Because there''s something in the air
+
+  We''ve got to get together sooner or later
+
+  Because the revolution''s here, and you know it''s right
+
+  And you know that it''s right
+
+  We have got to get it together
+
+  We have got to get it together now
+
+  Hand out the arms and ammo
+
+  We''re going to blast our way through here
+
+  We''ve got to get together sooner or later
+
+  Because the revolution''s here, and you know it''s right
+
+  And you know that it''s right
+
+  We have got to get it together
+
+  We have got to get it together now'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Something In The Air
+    appears_on:
+    - release_title: Something In The Air / The Oort Cloud / Kuiper Belt
+      release_slug: something-in-the-air-the-oort-cloud-kuiper-belt
+      release_type: Single
+      year: 2019
+      format: '7'
+      country: UK
+      edition_year: 2019
+      label: Sonic Cathedral
+      catalogue_no: SCR 107
+      side: A
+      position: 1
+    - release_title: Postscripts
+      release_slug: postscripts
+      release_type: Single
+      year: 2019
+      format: digital
+      country: US
+      edition_year: 2019
+      label: Double Feature
+      side: A
+      position: 4
+    played_live: []

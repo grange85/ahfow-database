@@ -1,0 +1,32 @@
+title: A Place of Greater Safety
+slug: a-place-of-greater-safety
+sort_title: PLACE OF GREATER SAFETY
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: A Place Of Greater Safety
+    appears_on:
+    - release_title: A Place of Greater Safety
+      release_slug: a-place-of-greater-safety
+      release_type: Single
+      year: 2017
+      format: '10'
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: DBL-0014
+      side: A
+      position: 2
+    - release_title: A Sentimental Education
+      release_slug: a-sentimental-education
+      release_type: Album
+      year: 2017
+      format: 2×CD
+      country: US
+      edition_year: 2017
+      label: Double Feature
+      catalogue_no: CD-DBL-0013
+      position: 12
+    played_live: []

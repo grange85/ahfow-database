@@ -1,0 +1,22 @@
+title: For the Sake of the Children
+slug: for-the-sake-of-the-children
+sort_title: FOR THE SAKE OF THE CHILDREN
+authors: Baskin/Relcheg
+original_artist: Henry Gibson
+originals_url: https://www.fullofwishes.co.uk/2013/06/26/originals-for-the-sake-of-the-children-by-henry-gibson-covered-by-cagney-and-lacee/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: For The Sake of The Children
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 7
+    played_live: []

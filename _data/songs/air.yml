@@ -1,0 +1,150 @@
+title: Air
+slug: air
+sort_title: AIR
+authors: Mike Heron
+original_artist: The Incredible String Band
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Air
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 2
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 12
+    played_live:
+    - show_slug: dean-and-britta-2020-09-26-1200-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: dean-and-britta-2020-09-26-1800-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-09-26'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 1
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Air
+    appears_on:
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 6
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 6
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 047
+      side: B
+      position: 6
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: LP-DBL-010
+      side: B
+      position: 6
+    played_live:
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 8
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 7
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 8
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 7
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 6
+    - show_slug: dean-wareham-2014-06-19-kcrw-santa-monica-ca-usa
+      date: '2014-06-19'
+      year: 2014
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 5

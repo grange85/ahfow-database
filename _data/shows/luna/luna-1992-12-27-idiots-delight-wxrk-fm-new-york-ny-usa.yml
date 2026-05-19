@@ -1,0 +1,44 @@
+slug: luna-1992-12-27-idiots-delight-wxrk-fm-new-york-ny-usa
+date: '1992-12-27'
+year: 1992
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Stanley Demeski - drums|Sean
+  Eden - guitar
+event: Idiots Delight
+notes: 'Setlist source: recording  TRUE'
+venue_name: WXRK-FM
+venue_slug: idiots-delight-wxrk-fm-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 2
+  raw_title: Time
+  canonical_title: Time
+  song_slug: time-cagney-and-lacee
+  full_title: Time
+- position: 3
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 4
+  raw_title: Smile
+  canonical_title: Smile
+  song_slug: smile
+  full_title: Smile
+- position: 5
+  raw_title: We're Both Confused
+  canonical_title: We're Both Confused
+  song_slug: were-both-confused
+  full_title: We're Both Confused

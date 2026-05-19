@@ -1,0 +1,173 @@
+title: Femme Fatale
+slug: femme-fatale
+sort_title: FEMME FATALE
+authors: Reed/Cale/Morrison/Tucker
+original_artist: The Velvet Underground
+originals_url: https://www.fullofwishes.co.uk/2014/10/15/originals-femme-fatale-velvet-underground-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Femme Fatale
+    appears_on:
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: CD
+      edition_year: 2002
+      label: P-Vine
+      catalogue_no: PCD-23270
+      position: 10
+    - release_title: Damon & Naomi with Ghost
+      release_slug: damon-and-naomi-with-ghost
+      release_type: Album
+      format: LP
+      edition_year: 2000
+      label: Drag City
+      catalogue_no: DC206
+      side: C
+      position: 10
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 10
+    played_live:
+    - show_slug: luna-2023-09-08-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-08'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 16
+    - show_slug: luna-2023-10-24-rtve-radio-3-madrid-spain
+      date: '2023-10-24'
+      year: 2023
+      venue: RTVE Radio 3
+      city: Madrid
+      country: Spain
+      position: 2
+    - show_slug: luna-2023-10-25-club-lula-madrid-spain
+      date: '2023-10-25'
+      year: 2023
+      venue: Club Lula
+      city: Madrid
+      country: Spain
+      position: 17
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 3
+    - show_slug: luna-2023-10-27-la-2-de-apolo-barcelona-spain
+      date: '2023-10-27'
+      year: 2023
+      venue: La (2) de Apolo
+      city: Barcelona
+      country: Spain
+      position: 16
+    - show_slug: luna-2023-10-28-espacio-las-armas-zaragoza-spain
+      date: '2023-10-28'
+      year: 2023
+      venue: Espacio Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 13
+    - show_slug: luna-2023-11-30-the-belly-up-tavern-solana-beach-ca-usa
+      date: '2023-11-30'
+      year: 2023
+      venue: The Belly Up Tavern
+      city: Solana Beach
+      country: USA
+      position: 16
+    - show_slug: luna-2023-12-01-teragram-ballroom-los-angeles-ca-usa
+      date: '2023-12-01'
+      year: 2023
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 16
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 15
+    - show_slug: luna-2024-03-13-the-fine-line-minneapolis-mn-usa
+      date: '2024-03-13'
+      year: 2024
+      venue: The Fine Line
+      city: Minneapolis
+      country: USA
+      position: 17
+    - show_slug: luna-2024-03-14-vivarium-milwaukee-wi-usa
+      date: '2024-03-14'
+      year: 2024
+      venue: Vivarium
+      city: Milwaukee
+      country: USA
+      position: 10
+    - show_slug: luna-2024-03-15-lincoln-hall-chicago-il-usa
+      date: '2024-03-15'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 8
+    - show_slug: luna-2024-03-16-lincoln-hall-chicago-il-usa
+      date: '2024-03-16'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 17
+    - show_slug: luna-2024-12-29-teragram-ballroom-los-angeles-ca-usa
+      date: '2024-12-29'
+      year: 2024
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 16
+    - show_slug: luna-2024-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2024-12-31'
+      year: 2024
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: luna-2025-10-30-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-30'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 12
+    - show_slug: luna-2025-12-05-paramount-theatre-austin-tx-usa
+      date: '2025-12-05'
+      year: 2025
+      venue: Paramount Theatre
+      city: Austin
+      country: USA
+      position: 17
+    - show_slug: luna-2025-12-06-granada-theater-dallas-tx-usa
+      date: '2025-12-06'
+      year: 2025
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 17
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3

@@ -1,0 +1,102 @@
+slug: luna-2002-08-24-northsix-brooklyn-ny-usa
+date: '2002-08-24'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Northsix
+venue_slug: northsix-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 2
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 3
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 4
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 5
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 6
+  raw_title: Beggar's Bliss
+  canonical_title: Beggar's Bliss
+  song_slug: beggars-bliss
+  full_title: Beggar's Bliss
+- position: 7
+  raw_title: '1995'
+  canonical_title: '1995'
+  song_slug: '1995'
+  full_title: '1995'
+- position: 8
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 9
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 10
+  raw_title: The Slow Song
+  canonical_title: The Slow Song
+  song_slug: the-slow-song
+  full_title: The Slow Song
+- position: 11
+  raw_title: Romantica
+  canonical_title: Romantica
+  song_slug: romantica
+  full_title: Romantica
+- position: 12
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 13
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 14
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 15
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 16
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 17
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires

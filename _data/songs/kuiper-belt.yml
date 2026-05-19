@@ -1,0 +1,33 @@
+title: Kuiper Belt
+slug: kuiper-belt
+sort_title: KUIPER BELT
+authors: Luna
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Kuiper Belt
+    appears_on:
+    - release_title: Something In The Air / The Oort Cloud / Kuiper Belt
+      release_slug: something-in-the-air-the-oort-cloud-kuiper-belt
+      release_type: Single
+      year: 2019
+      format: '7'
+      country: UK
+      edition_year: 2019
+      label: Sonic Cathedral
+      catalogue_no: SCR 107
+      side: B
+      position: 3
+    - release_title: Postscripts
+      release_slug: postscripts
+      release_type: Single
+      year: 2019
+      format: digital
+      country: US
+      edition_year: 2019
+      label: Double Feature
+      side: A
+      position: 6
+    played_live: []

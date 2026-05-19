@@ -1,0 +1,171 @@
+title: Love
+slug: love-the-jacks
+sort_title: LOVE
+authors: The Jacks
+original_artist: The Jacks
+originals_url: https://www.fullofwishes.co.uk/2013/12/11/originals-love-by-the-jacks-covered-by-damon-naomi/
+disambiguate: The Jacks
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Love
+    appears_on:
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: CD/DVD
+      edition_year: 2002
+      label: Sub Pop
+      catalogue_no: SPCD592
+      side: A
+      position: 11
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: LP/DVD
+      edition_year: 2009
+      label: Factory 25
+      catalogue_no: FTF-002
+      side: B
+      position: 10
+    - release_title: Monday January 19th, 2004
+      release_slug: monday-january-19th-2004
+      release_type: Album
+      year: 2005
+      format: CDr
+      edition_year: 2005
+      label: (no label)
+      side: A
+      position: 6
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Misc
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 11
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 11
+    - release_title: Everything Quieter than Everything Else
+      release_slug: everything-quieter-than-everything-else
+      release_type: Album
+      year: 2017
+      format: CD
+      edition_year: 2017
+      label: SUPER FUJI DISCS
+      catalogue_no: FJSP286
+      position: 5
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-31-knitting-factory-los-angeles-ca-usa
+      date: '2000-10-31'
+      year: 2000
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: damon-and-naomi-2001-05-24-ekko-utrecht-netherlands
+      date: '2001-05-24'
+      year: 2001
+      venue: Ekko
+      city: Utrecht
+      country: Netherlands
+      position: 12
+    - show_slug: damon-and-naomi-2002-07-12-taku-taku-kyoto-japan
+      date: '2002-07-12'
+      year: 2002
+      venue: Taku Taku
+      city: Kyoto
+      country: Japan
+      position: 11
+    - show_slug: damon-and-naomi-2002-07-13-namba-osaka-japan
+      date: '2002-07-13'
+      year: 2002
+      venue: Namba
+      city: Osaka
+      country: Japan
+      position: 13
+    - show_slug: damon-and-naomi-2002-07-15-tokuzo-nagoya-japan
+      date: '2002-07-15'
+      year: 2002
+      venue: Tokuzo
+      city: Nagoya
+      country: Japan
+      position: 14
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 14
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 12
+    - show_slug: damon-and-naomi-2004-01-19-mandala-2-tokyo-japan
+      date: '2004-01-19'
+      year: 2004
+      venue: Mandala-2
+      city: Tokyo
+      country: Japan
+      position: 6
+    - show_slug: damon-and-naomi-2005-06-23-nhk-livebeat-tokyo-japan
+      date: '2005-06-23'
+      year: 2005
+      venue: NHK Livebeat
+      city: Tokyo
+      country: Japan
+      position: 6
+    - show_slug: damon-and-naomi-2006-04-23-terrastock-providence-ri-usa
+      date: '2006-04-23'
+      year: 2006
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 15
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Love
+    appears_on:
+    - release_title: Love / Fallin' in Love
+      release_slug: love-fallin-in-love
+      release_type: Single
+      year: 2014
+      format: '7'
+      edition_year: 2014
+      label: Formosa Punk Records
+      catalogue_no: SHADE 017
+      side: A
+      position: 1
+    - release_title: The Dancer Disappears
+      release_slug: the-dancer-disappears
+      release_type: Single
+      year: 2014
+      format: File
+      edition_year: 2014
+      label: Double Feature
+      side: A
+      position: 2
+    played_live: []

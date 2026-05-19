@@ -1,0 +1,181 @@
+title: Outdoor Miner
+slug: outdoor-miner
+sort_title: OUTDOOR MINER
+authors: Lewis/Newman
+original_artist: Wire
+originals_url: https://www.fullofwishes.co.uk/2014/03/05/originals-outdoor-miner-by-wire-covered-by-luna/
+lyrics: 'no blind spots in the leopard''s eyes
+
+  could ever hope to jeopardize
+
+  the lives of lambs
+
+  the shepherd cries
+
+
+  an afterlife for a silverfish
+
+  eternal dust, less ticklish
+
+  than a clean room
+
+  a houseguest''s wish
+
+
+  (chorus)
+
+  he lies on his side
+
+  is he trying to hide
+
+  in fact it''s the earth
+
+  which he''s known since birth
+
+
+  face worker, a serpentine miner
+
+  a roof falls, an underliner
+
+  of leaf structure
+
+  the egg timer'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Outdoor Miner
+    appears_on:
+    - release_title: Outdoor Miner
+      release_slug: outdoor-miner
+      release_type: Single
+      year: 1996
+      format: '7'
+      country: ES
+      edition_year: 1996
+      label: Radiation
+      catalogue_no: RARE 027
+      side: A
+      position: 1
+    - release_title: Outdoor Miner
+      release_slug: outdoor-miner
+      release_type: Single
+      year: 1996
+      format: CD
+      country: ES
+      edition_year: 1996
+      label: Radioation
+      catalogue_no: RARE 027
+      position: 1
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 29
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 2
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: C
+      position: 10
+    - release_title: Live Rendezvous
+      release_slug: live-rendezvous
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: D
+      position: 13
+    played_live:
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 9
+    - show_slug: luna-1994-11-16-avalon-ballroom-boston-ma-usa
+      date: '1994-11-16'
+      year: 1994
+      venue: Avalon Ballroom
+      city: Boston
+      country: USA
+      position: 6
+    - show_slug: luna-1994-11-18-tramps-new-york-ny-usa
+      date: '1994-11-18'
+      year: 1994
+      venue: Tramps
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-1995-11-11-early-knitting-factory-new-york-ny-usa
+      date: '1995-11-11'
+      year: 1995
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-1996-12-31-mercury-lounge-new-york-ny-usa
+      date: '1996-12-31'
+      year: 1996
+      venue: Mercury Lounge
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-1997-11-13-el-sol-madrid-spain
+      date: '1997-11-13'
+      year: 1997
+      venue: El Sol
+      city: Madrid
+      country: Spain
+      position: 11
+    - show_slug: luna-2015-04-19-teatre-de-lloseta-mallorca-spain
+      date: '2015-04-19'
+      year: 2015
+      venue: Teatre de Lloseta
+      city: Mallorca
+      country: Spain
+      position: 14
+    - show_slug: luna-2015-04-20-teatro-lara-madrid-spain
+      date: '2015-04-20'
+      year: 2015
+      venue: Teatro Lara
+      city: Madrid
+      country: Spain
+      position: 17
+    - show_slug: luna-2017-01-20-the-chapel-san-francisco-ca-usa
+      date: '2017-01-20'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 15
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 8

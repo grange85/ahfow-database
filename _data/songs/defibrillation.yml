@@ -1,0 +1,70 @@
+title: Defibrillation
+slug: defibrillation
+sort_title: DEFIBRILLATION
+authors: Krukowski/Yang
+lyrics: 'Lives crossing other lives
+
+  In a network of nerves
+
+  Crossed signal a twitch at the end of the line
+
+  Your doubt reaches inside me
+
+  Across this network of nerves
+
+  Flat line alarm sounds but I''m not the one
+
+  This I is not me, it''s possession
+
+  Electrical wires of relation: defibrillation
+
+  Your doubt reaches inside
+
+  Into my network of nerves
+
+  Red light - alarm sounds - but I''m not the one
+
+  This I is not me, it''s possession
+
+  Electrical bonds of relation: defibrillation
+
+  Come tomorrow I''ll be another care from the past
+
+  This I is not me, it''s possession
+
+  Defibrillation: separation'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Defibrillation
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 6
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 6
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Misc
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 5
+    played_live: []

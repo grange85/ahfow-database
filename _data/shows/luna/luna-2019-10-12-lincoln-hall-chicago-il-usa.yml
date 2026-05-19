@@ -1,0 +1,117 @@
+slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+date: '2019-10-12'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+series: Luna play Bewitched
+ticket_url: https://lh-st.com/shows/10-12-2019-luna-performing-bewitched/
+notes: Luna play Bewitched
+setlist_source: setlist.fm
+venue_name: Lincoln Hall
+venue_slug: lincoln-hall-chicago-il-usa
+city: Chicago
+state: IL
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: California (All the Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 2
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 3
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 4
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 5
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 6
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street
+- position: 7
+  raw_title: Going Home
+  canonical_title: Going Home
+  song_slug: going-home
+  full_title: Going Home
+- position: 8
+  raw_title: Into the Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 9
+  raw_title: I Know You Tried
+  canonical_title: I Know You Tried
+  song_slug: i-know-you-tried
+  full_title: I Know You Tried
+- position: 10
+  raw_title: Sleeping Pill
+  canonical_title: Sleeping Pill
+  song_slug: sleeping-pill
+  full_title: Sleeping Pill
+- position: 11
+  raw_title: ^encore
+  annotation: encore
+- position: 12
+  raw_title: That's What You Always Say
+  canonical_title: That's What You Always Say
+  song_slug: thats-what-you-always-say
+  full_title: That's What You Always Say
+- position: 13
+  raw_title: Malibu Love Nest
+  canonical_title: Malibu Love Nest
+  song_slug: malibu-love-nest
+  full_title: Malibu Love Nest
+- position: 14
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 15
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 16
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 17
+  raw_title: ^encore 2
+  annotation: encore 2
+- position: 18
+  raw_title: Math Wiz
+  canonical_title: Math Wiz
+  song_slug: math-wiz
+  full_title: Math Wiz
+- position: 19
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 20
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder

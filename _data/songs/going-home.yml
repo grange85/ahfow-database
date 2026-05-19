@@ -1,0 +1,566 @@
+title: Going Home
+slug: going-home
+sort_title: GOING HOME
+lyrics: 'i''ve seen her face
+
+  in those scented magazines
+
+
+  all is forgivin''
+
+  i love her still
+
+  and we''re home, home
+
+  goin'' home
+
+
+  the chrysler building
+
+  was talkin'' to the empire state
+
+  the twin towers
+
+  were talkin'' to each other
+
+  sayin'' all is forgivin''
+
+  i love you still
+
+  and we''re home, home
+
+  goin'' home
+
+
+  what she saw in him
+
+  nobody knew
+
+  it''s a mystery
+
+  what she saw in him
+
+  nobody could tell
+
+  now it''s history
+
+
+  all is forgivin''
+
+  i love her still
+
+  and we''re home, home
+
+  goin'' home
+
+  and we''re home, home
+
+  goin'' home'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Going Home
+    appears_on:
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: JP
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: WPCP-5802
+      position: 7
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1994
+      label: Elektra
+      catalogue_no: 61617-2
+      position: 7
+    - release_title: Bewitched
+      release_slug: bewitched
+      release_type: Album
+      year: 1993
+      format: LP
+      country: US
+      edition_year: 2012
+      label: Gotta Groove Records
+      catalogue_no: GGR2012-001
+      side: B
+      position: 7
+    - release_title: The Bob Magazine No. 48
+      release_slug: the-bob-magazine-no-48
+      release_type: Single
+      year: 1994
+      format: Flexidisc
+      country: US
+      edition_year: 1994
+      label: The Bob
+      side: A
+      position: 1
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: Digital
+      edition_year: 2022
+      label: \[no label\]
+      side: A
+      position: 7
+    - release_title: Live Bewitched
+      release_slug: live-bewitched
+      release_type: Album
+      year: 2022
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Bandbox
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 6
+    - show_slug: luna-1994-02-18-kennel-club-san-francisco-ca-usa
+      date: '1994-02-18'
+      year: 1994
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 2
+    - show_slug: luna-1994-04-04-kcrw-santa-monica-ca-usa
+      date: '1994-04-04'
+      year: 1994
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 2
+    - show_slug: luna-1994-04-15-trocadeo-philadelphia-pa-usa
+      date: '1994-04-15'
+      year: 1994
+      venue: Trocadeo
+      city: Philadelphia
+      country: USA
+      position: 1
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 3
+    - show_slug: luna-1994-05-05-shank-hall-milwaukee-wi-usa
+      date: '1994-05-05'
+      year: 1994
+      venue: Shank Hall
+      city: Milwaukee
+      country: USA
+      position: 3
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 4
+    - show_slug: luna-1994-07-12-casbah-san-diego-ca-usa
+      date: '1994-07-12'
+      year: 1994
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 4
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-1994-07-19-moes-seattle-wa-usa
+      date: '1994-07-19'
+      year: 1994
+      venue: Moes
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: luna-1999-12-13-higher-ground-burlington-vt-usa
+      date: '1999-12-13'
+      year: 1999
+      venue: Higher Ground
+      city: Burlington
+      country: USA
+      position: 3
+    - show_slug: luna-2003-11-28-knitting-factory-new-york-ny-usa
+      date: '2003-11-28'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 17
+    - show_slug: luna-2003-11-29-knitting-factory-new-york-ny-usa
+      date: '2003-11-29'
+      year: 2003
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 6
+    - show_slug: luna-2004-11-05-middle-east-cambridge-ma-usa
+      date: '2004-11-05'
+      year: 2004
+      venue: Middle East
+      city: Cambridge
+      country: USA
+      position: 6
+    - show_slug: luna-2004-11-11-abbey-pub-chicago-il-usa
+      date: '2004-11-11'
+      year: 2004
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 5
+    - show_slug: luna-2004-11-14-fine-line-music-cafe-minneapolis-mn-usa
+      date: '2004-11-14'
+      year: 2004
+      venue: Fine Line Music Cafe
+      city: Minneapolis
+      country: USA
+      position: 9
+    - show_slug: luna-2004-11-19-exitin-nashville-tn-usa
+      date: '2004-11-19'
+      year: 2004
+      venue: Exit/In
+      city: Nashville
+      country: USA
+      position: 9
+    - show_slug: luna-2004-11-22-ottobar-baltimore-md-usa
+      date: '2004-11-22'
+      year: 2004
+      venue: Ottobar
+      city: Baltimore
+      country: USA
+      position: 7
+    - show_slug: luna-2004-11-27-irving-plaza-new-york-ny-usa
+      date: '2004-11-27'
+      year: 2004
+      venue: Irving Plaza
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2004-12-17-theatre-of-the-living-arts-philadelphia-pa-usa
+      date: '2004-12-17'
+      year: 2004
+      venue: Theatre of the Living Arts
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: luna-2004-12-31-southpaw-brooklyn-ny-usa
+      date: '2004-12-31'
+      year: 2004
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 12
+    - show_slug: luna-2005-01-10-apolo-barcelona-spain
+      date: '2005-01-10'
+      year: 2005
+      venue: Apolo
+      city: Barcelona
+      country: Spain
+      position: 4
+    - show_slug: luna-2005-02-28-bowery-ballroom-new-york-ny-usa
+      date: '2005-02-28'
+      year: 2005
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-2015-04-13-the-echo-los-angeles-ca-usa
+      date: '2015-04-13'
+      year: 2015
+      venue: The Echo
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: luna-2015-04-21-teatro-lara-madrid-spain
+      date: '2015-04-21'
+      year: 2015
+      venue: Teatro Lara
+      city: Madrid
+      country: Spain
+      position: 7
+    - show_slug: luna-2015-04-23-bikini-barcelona-spain
+      date: '2015-04-23'
+      year: 2015
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 9
+    - show_slug: luna-2015-04-30-planta-baja-granada-spain
+      date: '2015-04-30'
+      year: 2015
+      venue: Planta Baja
+      city: Granada
+      country: Spain
+      position: 4
+    - show_slug: luna-2015-07-30-sticky-mikes-frog-bar-brighton-uk
+      date: '2015-07-30'
+      year: 2015
+      venue: Sticky Mike's Frog Bar
+      city: Brighton
+      country: UK
+      position: 5
+    - show_slug: luna-2015-10-05-trocadero-philadelphia-pa-usa
+      date: '2015-10-05'
+      year: 2015
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 5
+    - show_slug: luna-2015-10-07-bowery-ballroom-new-york-ny-usa
+      date: '2015-10-07'
+      year: 2015
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2015-10-10-paradise-boston-ma-usa
+      date: '2015-10-10'
+      year: 2015
+      venue: Paradise
+      city: Boston
+      country: USA
+      position: 3
+    - show_slug: luna-2015-10-14-the-andy-warhol-museum-pittsburgh-pa-usa
+      date: '2015-10-14'
+      year: 2015
+      venue: The Andy Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 4
+    - show_slug: luna-2015-10-17-the-cedar-minneapolis-mn-usa
+      date: '2015-10-17'
+      year: 2015
+      venue: The Cedar
+      city: Minneapolis
+      country: USA
+      position: 2
+    - show_slug: luna-2015-11-05-the-showbox-seattle-wa-usa
+      date: '2015-11-05'
+      year: 2015
+      venue: The Showbox
+      city: Seattle
+      country: USA
+      position: 2
+    - show_slug: luna-2015-12-29-the-casbah-san-diego-ca-usa
+      date: '2015-12-29'
+      year: 2015
+      venue: The Casbah
+      city: San Diego
+      country: USA
+      position: 3
+    - show_slug: luna-2015-12-31-starline-social-club-oakland-ca-usa
+      date: '2015-12-31'
+      year: 2015
+      venue: Starline Social Club
+      city: Oakland
+      country: USA
+      position: 3
+    - show_slug: luna-2016-05-05-mohawk-austin-tx-usa
+      date: '2016-05-05'
+      year: 2016
+      venue: Mohawk
+      city: Austin
+      country: USA
+      position: 4
+    - show_slug: luna-2016-05-27-the-bell-house-brooklyn-ny-usa
+      date: '2016-05-27'
+      year: 2016
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 7
+    - show_slug: luna-2016-07-07-thalia-hall-chicago-il-usa
+      date: '2016-07-07'
+      year: 2016
+      venue: Thalia Hall
+      city: Chicago
+      country: USA
+      position: 13
+    - show_slug: luna-2017-01-19-the-chapel-san-francisco-ca-usa
+      date: '2017-01-19'
+      year: 2017
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: luna-2017-10-05-escenario-santander-spain
+      date: '2017-10-05'
+      year: 2017
+      venue: Escenario
+      city: Santander
+      country: Spain
+      position: 5
+    - show_slug: luna-2017-11-04-off-broadway-st-louis-mo-usa
+      date: '2017-11-04'
+      year: 2017
+      venue: Off Broadway
+      city: St. Louis
+      country: USA
+      position: 4
+    - show_slug: luna-2017-11-07-the-magic-stick-detroit-mi-usa
+      date: '2017-11-07'
+      year: 2017
+      venue: The Magic Stick
+      city: Detroit
+      country: USA
+      position: 5
+    - show_slug: luna-2017-11-09-the-grog-shop-cleveland-heights-oh-usa
+      date: '2017-11-09'
+      year: 2017
+      venue: The Grog Shop
+      city: Cleveland Heights
+      country: USA
+      position: 6
+    - show_slug: luna-2017-11-11-terminal-west-atlanta-ga-usa
+      date: '2017-11-11'
+      year: 2017
+      venue: Terminal West
+      city: Atlanta
+      country: USA
+      position: 3
+    - show_slug: luna-2017-11-14-the-black-cat-washington-dc-usa
+      date: '2017-11-14'
+      year: 2017
+      venue: The Black Cat
+      city: Washington DC
+      country: USA
+      position: 4
+    - show_slug: luna-2018-01-27-gundlach-bundschu-winery-sonoma-ca-usa
+      date: '2018-01-27'
+      year: 2018
+      venue: Gundlach Bundschu Winery
+      city: Sonoma
+      country: USA
+      position: 7
+    - show_slug: luna-2018-04-07-granada-theater-dallas-tx-usa
+      date: '2018-04-07'
+      year: 2018
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 4
+    - show_slug: luna-2019-10-02-greenwich-odeum-east-greenwich-ri-usa
+      date: '2019-10-02'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Greenwich Odeum
+      city: East Greenwich
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-09-the-earl-atlanta-ga-usa
+      date: '2019-10-09'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 7
+    - show_slug: luna-2019-10-16-the-haunt-ithaca-ny-usa
+      date: '2019-10-16'
+      year: 2019
+      venue: The Haunt
+      city: Ithaca
+      country: USA
+      position: 4
+    - show_slug: luna-2019-10-19-the-bowery-ballroom-new-york-ny-usa
+      date: '2019-10-19'
+      year: 2019
+      series: Luna play Bewitched
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: luna-2020-02-07-the-independent-san-francisco-ca-usa
+      date: '2020-02-07'
+      year: 2020
+      venue: The Independent
+      city: San Francisco
+      country: USA
+      position: 9
+    - show_slug: luna-2020-02-12-the-tractor-tavern-seattle-wa-usa
+      date: '2020-02-12'
+      year: 2020
+      series: Luna play Bewitched
+      venue: The Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 7
+    - show_slug: luna-2021-08-04-the-press-room-portsmouth-nh-usa
+      date: '2021-08-04'
+      year: 2021
+      venue: The Press Room
+      city: Portsmouth
+      country: USA
+      position: 4
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 7
+    - show_slug: luna-2021-11-13-brooklyn-made-brooklyn-ny-usa
+      date: '2021-11-13'
+      year: 2021
+      venue: Brooklyn Made
+      city: Brooklyn
+      country: USA
+      position: 3
+    - show_slug: luna-2026-04-02-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-02'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 1
+    - show_slug: luna-2026-04-04-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-04'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2026-04-05-assembly-kingston-ny-usa
+      date: '2026-04-05'
+      year: 2026
+      venue: Assembly
+      city: Kingston
+      country: USA
+      position: 3

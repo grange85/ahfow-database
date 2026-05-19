@@ -1,0 +1,182 @@
+title: The Dancer Disappears
+slug: the-dancer-disappears
+sort_title: DANCER DISAPPEARS
+authors: Dean Wareham
+lyrics: 'I was the arrow, I was the bow
+
+  I love to give but I''m ready to go
+
+  Now that we''re here, I''m ready to leave
+
+  The whole wide world behind
+
+
+  Bring back the magic and let the match
+
+  There''s a dream that I''m open to catch
+
+  Now that we''re here, I''m ready to leave
+
+  The whole wide world behind
+
+
+  Now in the twilight of the psychedelic years
+
+  Roll back the highlights til'' the dancer disappears, til'' the dancer disappears
+
+
+  Bring back the magic and let the match
+
+  There''s a star that I hope I will catch
+
+  Now that we here, I''m ready to leave
+
+  The whole wide world behind
+
+
+  Now in the twilight of the psychedelic years
+
+  Roll back the highlights til'' the dancer disappears, til'' the dancer disappears'
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Dancer Disappears
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 1
+    - release_title: The Dancer Disappears
+      release_slug: the-dancer-disappears
+      release_type: Single
+      year: 2014
+      format: File
+      edition_year: 2014
+      label: Double Feature
+      side: A
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: A
+      position: 1
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-wareham-2014-04-04-u-street-washington-dc-usa
+      date: '2014-04-04'
+      year: 2014
+      venue: U Street
+      city: Washington DC
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2014-04-24-amoeba-records-los-angeles-ca-usa
+      date: '2014-04-24'
+      year: 2014
+      venue: Amoeba Records
+      city: Los Angeles
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 5
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 5
+    - show_slug: dean-wareham-2014-06-19-kcrw-santa-monica-ca-usa
+      date: '2014-06-19'
+      year: 2014
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2014-06-28-kexp-seattle-wa-usa
+      date: '2014-06-28'
+      year: 2014
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 1
+    - show_slug: dean-wareham-2014-07-26-indietracks-festival-derbyshire-uk
+      date: '2014-07-26'
+      year: 2014
+      venue: Indietracks Festival
+      city: Derbyshire
+      country: UK
+      position: 3

@@ -1,0 +1,93 @@
+title: Cagney & Lacee
+slug: cagney-and-lacee
+release_type: Album
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '7'
+  year: 1995
+  label: No. 6
+  catalogue_no: KAR034
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_time_sleeve_01.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Time
+    slug: time-cagney-and-lacee
+    full_title: Time
+  - position: 2
+    side: B
+    side_position: 1
+    title: By the Way (I Still Love You)
+    slug: by-the-way-i-still-love-you
+    full_title: By The Way (I Still Love You)
+- format: CD
+  year: 1997
+  label: No. 6
+  catalogue_no: KAR 041-2
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cagney-and-lacee-six-feet-of-chain.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Be Mine
+    slug: be-mine
+    full_title: Be Mine
+  - position: 2
+    side_position: 2
+    title: Lovin' You
+    slug: lovin-you
+    full_title: Lovin' You
+  - position: 3
+    side_position: 3
+    title: Six Feet of Chain
+    slug: six-feet-of-chain
+    full_title: Six Feet of Chain
+  - position: 4
+    side_position: 4
+    title: The Last Goodbye
+    slug: the-last-goodbye
+    full_title: The Last Goodbye
+  - position: 5
+    side_position: 5
+    title: By the Way (I Still Love You)
+    slug: by-the-way-i-still-love-you
+    full_title: By The Way (I Still Love You)
+  - position: 6
+    side_position: 6
+    title: Greyhound Goin' Somewhere
+    slug: greyhound-goin-somewhere
+    full_title: Greyhound Goin' Somewhere
+  - position: 7
+    side_position: 7
+    title: For the Sake of the Children
+    slug: for-the-sake-of-the-children
+    full_title: For The Sake of The Children
+  - position: 8
+    side_position: 8
+    title: Memphis
+    slug: memphis
+    full_title: Memphis
+  - position: 9
+    side_position: 9
+    title: I'm Not Sayin'
+    slug: im-not-sayin
+    full_title: I'm Not Sayin'
+- format: '7'
+  year: 1998
+  label: Earworm
+  catalogue_no: WORMSS3
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/cal_borderline_sleeve_04.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Borderline
+    slug: borderline
+    full_title: Borderline
+  - position: 2
+    side: B
+    side_position: 1
+    title: Orange
+    slug: orange
+    full_title: Orange

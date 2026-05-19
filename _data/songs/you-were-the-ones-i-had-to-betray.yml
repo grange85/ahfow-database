@@ -1,0 +1,91 @@
+title: You Were the Ones I Had to Betray
+slug: you-were-the-ones-i-had-to-betray
+sort_title: YOU WERE THE ONES I HAD TO BETRAY
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: You Were The Ones I Had to Betray
+    appears_on:
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: CD
+      edition_year: 2025
+      label: Carpark Records
+      position: 1
+    - release_title: That's The Price of Loving Me
+      release_slug: thats-the-price-of-loving-me
+      release_type: Album
+      year: 2025
+      format: LP
+      edition_year: 2025
+      label: Carpark Records
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-wareham-2025-04-01-the-garage-glasgow-uk
+      date: '2025-04-01'
+      year: 2025
+      venue: The Garage
+      city: Glasgow
+      country: UK
+      position: 2
+    - show_slug: dean-wareham-2025-06-03-space-ballroom-hamden-ct-usa
+      date: '2025-06-03'
+      year: 2025
+      venue: Space Ballroom
+      city: Hamden
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-05-the-sinclair-cambridge-ma-usa
+      date: '2025-06-05'
+      year: 2025
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-06-iron-horse-northampton-ma-usa
+      date: '2025-06-06'
+      year: 2025
+      venue: Iron Horse
+      city: Northampton
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-07-bowery-ballroom-new-york-ny-usa
+      date: '2025-06-07'
+      year: 2025
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-10-world-cafe-philadelphia-pa-usa
+      date: '2025-06-10'
+      year: 2025
+      venue: World Cafe
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-15-magic-bag-ferndale-mi-usa
+      date: '2025-06-15'
+      year: 2025
+      venue: Magic Bag
+      city: Ferndale
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-16-lincoln-hall-chicago-il-usa
+      date: '2025-06-16'
+      year: 2025
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2025-06-19-turf-club-st-paul-mn-usa
+      date: '2025-06-19'
+      year: 2025
+      venue: Turf Club
+      city: St. Paul
+      country: USA
+      position: 3

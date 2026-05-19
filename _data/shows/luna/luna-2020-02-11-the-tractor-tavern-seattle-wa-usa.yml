@@ -1,0 +1,98 @@
+slug: luna-2020-02-11-the-tractor-tavern-seattle-wa-usa
+date: '2020-02-11'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+series: Luna play Penthouse
+ticket_url: https://www.ticketweb.com/event/luna-performing-penthouse-tractor-tickets/10014175?pl=tractor
+venue_name: The Tractor Tavern
+venue_slug: the-tractor-tavern-seattle-wa-usa
+city: Seattle
+state: WA
+country: USA
+venue_url: http://www.tractortavern.com/event/10014175/luna-performing-penthouse/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 2
+  raw_title: Sideshow By The Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 4
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 5
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 6
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 7
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 8
+  raw_title: Kalamazoo
+  canonical_title: Kalamazoo
+  song_slug: kalamazoo
+  full_title: Kalamazoo
+- position: 9
+  raw_title: Hedgehog
+  canonical_title: Hedgehog
+  song_slug: hedgehog
+  full_title: Hedgehog
+- position: 10
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 11
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 12
+  raw_title: ^encore
+  annotation: encore
+- position: 13
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 14
+  raw_title: Car Wash Hair
+  canonical_title: Car Wash Hair
+  song_slug: car-wash-hair
+  full_title: Car Wash Hair
+- position: 15
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 16
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards

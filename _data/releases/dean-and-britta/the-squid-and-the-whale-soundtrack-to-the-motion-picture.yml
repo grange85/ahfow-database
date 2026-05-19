@@ -1,0 +1,30 @@
+title: 'The Squid and the Whale: Soundtrack to the Motion Picture'
+slug: the-squid-and-the-whale-soundtrack-to-the-motion-picture
+release_type: Misc
+year: 2005
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_squid.jpg
+album_artist: Various Artists
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: CD
+  year: 2005
+  label: Ultra
+  catalogue_no: 1330-2
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_squid.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Park Slope
+    slug: park-slope
+    full_title: Park Slope
+  - position: 2
+    side_position: 2
+    title: Hey You
+    slug: hey-you
+    full_title: Hey You
+  - position: 3
+    side_position: 3
+    title: Family Conference
+    slug: family-conference
+    full_title: Family Conference

@@ -1,0 +1,44 @@
+title: Outdoor Miner
+slug: outdoor-miner
+release_type: Single
+year: 1996
+sleeve_url: https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: '7'
+  country: ES
+  year: 1996
+  label: Radiation
+  catalogue_no: RARE 027
+  sleeve_url: https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 2
+    side: B
+    side_position: 1
+    title: Roll in the Sand
+    slug: roll-in-the-sand
+    full_title: Roll in the Sand
+- format: CD
+  country: ES
+  year: 1996
+  label: Radioation
+  catalogue_no: RARE 027
+  sleeve_url: https://media.fullofwishes.co.uk/images/misc/luna-outdoorminer-500.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 2
+    side_position: 2
+    title: Roll in the Sand
+    slug: roll-in-the-sand
+    full_title: Roll in the Sand

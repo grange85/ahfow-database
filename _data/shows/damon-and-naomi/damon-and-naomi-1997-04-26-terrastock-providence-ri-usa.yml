@@ -1,0 +1,67 @@
+slug: damon-and-naomi-1997-04-26-terrastock-providence-ri-usa
+date: '1997-04-26'
+year: 1997
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+event: Terrastock
+venue_name: Rogue Lounge
+venue_slug: terrastock-providence-ri-usa
+city: Providence
+state: RI
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Spirit of Love
+  canonical_title: Spirit of Love
+  song_slug: spirit-of-love
+  full_title: Spirit of Love
+- position: 2
+  raw_title: Laika
+  canonical_title: Laika
+  song_slug: laika
+  full_title: Laika
+- position: 3
+  raw_title: The New Historicism
+  canonical_title: The New Historicism
+  song_slug: the-new-historicism
+  full_title: The New Historicism
+- position: 4
+  raw_title: Information Age
+  canonical_title: Information Age
+  song_slug: information-age
+  full_title: Information Age
+- position: 5
+  raw_title: This Car Climbed Mt. Washington
+  canonical_title: This Car Climbed Mt. Washington
+  song_slug: this-car-climbed-mt-washington
+  full_title: This Car Climbed Mt. Washington
+- position: 6
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 7
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 8
+  raw_title: Tour Of The World
+  canonical_title: Tour of the World
+  song_slug: tour-of-the-world
+  full_title: Tour of the World
+- position: 9
+  raw_title: Translucent Carriages
+  canonical_title: Translucent Carriages
+  song_slug: translucent-carriages
+  full_title: Translucent Carriages
+- position: 10
+  raw_title: I Shall Be Released
+  canonical_title: I Shall Be Released
+  song_slug: i-shall-be-released
+  full_title: I Shall Be Released

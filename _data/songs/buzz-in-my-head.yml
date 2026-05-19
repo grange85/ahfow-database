@@ -1,0 +1,32 @@
+title: Buzz in My Head
+slug: buzz-in-my-head
+sort_title: BUZZ IN MY HEAD
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Buzz in My Head
+    appears_on: []
+    played_live:
+    - show_slug: galaxie-500-1988-03-19-the-middle-east-cambridge-ma-usa
+      date: '1988-03-19'
+      year: 1988
+      venue: The Middle East
+      city: Cambridge
+      country: USA
+      position: 4
+  - version_tag: Middle East, Cambridge, MA - 1988-03-19
+    full_title: Buzz In My Head [Middle East, Cambridge, MA - 1988-03-19]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 11
+    played_live: []

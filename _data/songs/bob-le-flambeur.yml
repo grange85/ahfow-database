@@ -1,0 +1,39 @@
+title: Bob Le Flambeur
+slug: bob-le-flambeur
+sort_title: BOB LE FLAMBEUR
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Bob le flambeur
+    appears_on:
+    - release_title: Bobby Peru
+      release_slug: bobby-peru
+      release_type: Single
+      year: 1997
+      format: '7'
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ319CD
+      side: B
+      position: 3
+    - release_title: Bobby Peru
+      release_slug: bobby-peru
+      release_type: Single
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ319CD
+      position: 4
+    played_live:
+    - show_slug: luna-1998-09-29-annandale-hotel-sydney-australia
+      date: '1998-09-29'
+      year: 1998
+      venue: Annandale Hotel
+      city: Sydney
+      country: Australia
+      position: 2

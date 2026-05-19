@@ -1,0 +1,22 @@
+title: Falling Out of Love With You
+slug: falling-out-of-love-with-you
+sort_title: FALLING OUT OF LOVE WITH YOU
+authors: Stephin Merritt
+original_artist: The Sixths
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Falling Out Of Love (With You)
+    appears_on:
+    - release_title: Wasps' Nest
+      release_slug: wasps-nest
+      release_type: Misc
+      year: 1995
+      format: CD
+      edition_year: 1995
+      label: Factory Too
+      catalogue_no: FACD 2.06
+      position: 1
+    played_live: []

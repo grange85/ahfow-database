@@ -1,0 +1,157 @@
+title: CBGB 12.13.88
+slug: cbgb-12-13-88
+release_type: Album
+year: 2025
+sleeve_url: https://media.fullofwishes.co.uk/01-galaxie_500/sleeves/g500-cbgb-13th-december-1988.jpg
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: CD
+  year: 2025
+  label: Silver Current
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 2
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 3
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side_position: 5
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 6
+    side_position: 6
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 7
+    side_position: 7
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side_position: 8
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+- format: LP
+  year: 2025
+  label: Silver Current
+  notes: Available in multiple different coloured vinyl
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 2
+    side: A
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 6
+    side: B
+    side_position: 2
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising
+- format: MC
+  year: 2025
+  label: Silver Current
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 2
+    side: A
+    side_position: 2
+    title: Oblivious
+    slug: oblivious
+    full_title: Oblivious
+  - position: 3
+    side: A
+    side_position: 3
+    title: Parking Lot
+    slug: parking-lot
+    full_title: Parking Lot
+  - position: 4
+    side: A
+    side_position: 4
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 5
+    side: B
+    side_position: 1
+    title: Pictures
+    slug: pictures
+    full_title: Pictures
+  - position: 6
+    side: B
+    side_position: 2
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 7
+    side: B
+    side_position: 3
+    title: It's Getting Late
+    slug: its-getting-late
+    full_title: It's Getting Late
+  - position: 8
+    side: B
+    side_position: 4
+    title: Temperature's Rising
+    slug: temperatures-rising
+    full_title: Temperature's Rising

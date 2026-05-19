@@ -1,0 +1,22 @@
+title: If We Make It Through December
+slug: if-we-make-it-through-december
+sort_title: IF WE MAKE IT THROUGH DECEMBER
+authors: Merle Haggard
+original_artist: Merle Haggard
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: If We Make It Through December
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: B
+      position: 12
+    played_live: []

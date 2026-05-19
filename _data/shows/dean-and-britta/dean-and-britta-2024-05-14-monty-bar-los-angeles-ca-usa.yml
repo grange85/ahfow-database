@@ -1,0 +1,39 @@
+slug: dean-and-britta-2024-05-14-monty-bar-los-angeles-ca-usa
+date: '2024-05-14'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass|Derek See - guitar|Roger
+  Brogan - drums
+notes: Private party
+setlist_source: Facebook post (setlist incomplete)
+venue_name: Monty Bar
+venue_slug: monty-bar-los-angeles-ca-usa
+city: Los Angeles
+state: CA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: I'm Sticking With You
+  canonical_title: I'm Sticking With You
+  song_slug: im-sticking-with-you
+  full_title: I'm Sticking With You
+- position: 2
+  raw_title: Oblivious
+  canonical_title: Oblivious
+  song_slug: oblivious
+  full_title: Oblivious
+- position: 3
+  raw_title: Not A Young Man Anymore
+  canonical_title: Not a Young Man Anymore
+  song_slug: not-a-young-man-anymore
+  full_title: Not a Young Man Anymore
+- position: 4
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

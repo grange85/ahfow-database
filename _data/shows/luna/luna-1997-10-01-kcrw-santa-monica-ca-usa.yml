@@ -1,0 +1,48 @@
+slug: luna-1997-10-01-kcrw-santa-monica-ca-usa
+date: '1997-10-01'
+year: 1997
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+notes: Morning Becomes Eclectic - live studio session and interview  TRUE
+venue_name: KCRW
+venue_slug: kcrw-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Beggar's Bliss
+  canonical_title: Beggar's Bliss
+  song_slug: beggars-bliss
+  full_title: Beggar's Bliss
+- position: 2
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 3
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 4
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 5
+  raw_title: Everybody's Talkin'
+  canonical_title: Everybody's Talkin'
+  song_slug: everybodys-talkin
+  full_title: Everybody's Talkin'
+- position: 6
+  raw_title: Beautiful View
+  canonical_title: Beautiful View
+  song_slug: beautiful-view
+  full_title: Beautiful View

@@ -1,0 +1,39 @@
+title: Nineteen Sixty-Nine
+slug: nineteen-sixty-nine
+sort_title: NINETEEN SIXTY-NINE
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Nineteen Sixty-Nine
+    appears_on:
+    - release_title: Pierre Étoile
+      release_slug: pierre-toile
+      release_type: Single
+      year: 1991
+      format: '12'
+      edition_year: 1991
+      label: Rough Trade
+      catalogue_no: R2720
+      side: A
+      position: 2
+    - release_title: Pierre Étoile
+      release_slug: pierre-toile
+      release_type: Single
+      year: 1991
+      format: CD
+      edition_year: 1991
+      label: Rough Trade
+      catalogue_no: R2723
+      position: 2
+    - release_title: Pierre Étoile
+      release_slug: pierre-toile
+      release_type: Single
+      year: 1991
+      format: CD
+      edition_year: 1997
+      label: Elefant
+      catalogue_no: ER-306
+      position: 2
+    played_live: []

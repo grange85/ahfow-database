@@ -1,0 +1,27 @@
+title: I Had a Thought
+slug: i-had-a-thought
+release_type: Misc
+year: 1995
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '7'
+  year: 1995
+  label: Ché
+  catalogue_no: CHE 29
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-i-had-a-thought.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: I Had a Thought
+    slug: i-had-a-thought
+    full_title: I Had a Thought
+  - position: 2
+    side: B
+    side_position: 1
+    title: America
+    slug: america
+    full_title: America

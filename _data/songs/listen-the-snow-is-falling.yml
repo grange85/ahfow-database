@@ -1,0 +1,617 @@
+title: Listen, the Snow Is Falling
+slug: listen-the-snow-is-falling
+sort_title: LISTEN THE SNOW IS FALLING
+authors: Yoko Ono
+original_artist: Ono, Yoko
+originals_url: https://www.fullofwishes.co.uk/2013/12/04/originals-listen-the-snow-is-falling-by-yoko-ono-and-the-plastic-ono-band-covered-by-galaxie-500/
+lyrics: 'Listen, the Snow Is Falling over town
+
+  Listen, the Snow Is Falling everywhere
+
+  Between Empire State Building
+
+  And between Trafalgar Square
+
+  Listen, the Snow Is Falling over town
+
+
+  Listen, the Snow Is Falling over town
+
+  Listen, the Snow Is Falling everywhere
+
+  Between your bed and mine
+
+  Between your head and my mind
+
+  Listen, the Snow Is Falling over town
+
+
+  Between Tokyo and Paris
+
+  Between London and Dallas
+
+  Between your God and mine
+
+  Listen, the Snow Is Falling everywhere
+
+
+  Snow dream
+
+  Snow fall
+
+  Snow fly
+
+  Listen
+
+  Listen'
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Listen, The Snow is Falling
+    appears_on:
+    - release_title: What's Past is Prologue
+      release_slug: whats-past-is-prologue
+      release_type: Album
+      year: 2026
+      format: Digital
+      edition_year: 2026
+      label: (no label)
+      side: A
+      position: 8
+    played_live:
+    - show_slug: dean-and-britta-2010-11-13-the-fillmore-san-francisco-ca-usa
+      date: '2010-11-13'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2010-11-15-biltmore-cabaret-vancouver-british-columbia-canada
+      date: '2010-11-15'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Biltmore Cabaret
+      city: Vancouver
+      country: Canada
+      position: 12
+    - show_slug: dean-and-britta-2010-12-03-lincoln-hall-chicago-il-usa
+      date: '2010-12-03'
+      year: 2010
+      series: Dean Wareham plays Galaxie 500
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2011-01-13-maxwells-hoboken-nj-usa
+      date: '2011-01-13'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 13
+    - show_slug: dean-and-britta-2011-02-18-route-du-rock-st-malo-france
+      date: '2011-02-18'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Route Du Rock
+      city: St Malo
+      country: France
+      position: 9
+    - show_slug: dean-and-britta-2011-06-17-the-bell-house-brooklyn-ny-usa
+      date: '2011-06-17'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Bell House
+      city: Brooklyn
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2011-07-02-the-wall-livehouse-taipei-taiwan
+      date: '2011-07-02'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: The Wall Livehouse
+      city: Taipei
+      country: Taiwan
+      position: 11
+    - show_slug: dean-and-britta-2011-10-11-corner-hotel-melbourne-victoria-australia
+      date: '2011-10-11'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Corner Hotel
+      city: Melbourne
+      country: Australia
+      position: 10
+    - show_slug: dean-and-britta-2011-10-12-anadale-hotel-sydney-new-south-wales-australia
+      date: '2011-10-12'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Anadale Hotel
+      city: Sydney
+      country: Australia
+      position: 11
+    - show_slug: dean-and-britta-2011-11-03-royale-boston-ma-usa
+      date: '2011-11-03'
+      year: 2011
+      venue: Royale
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: dean-and-britta-2011-11-19-casa-da-musica-porto-portugal
+      date: '2011-11-19'
+      year: 2011
+      series: Dean Wareham plays Galaxie 500
+      venue: Casa da Musica
+      city: Porto
+      country: Portugal
+      position: 7
+    - show_slug: dean-and-britta-2012-05-11-1930-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: dean-and-britta-2012-05-11-2230-hemlock-tavern-san-francisco-ca-usa
+      date: '2012-05-11'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Hemlock Tavern
+      city: San Francisco
+      country: USA
+      position: 9
+    - show_slug: dean-and-britta-2012-07-21-mulcahys-wantagh-ny-usa
+      date: '2012-07-21'
+      year: 2012
+      venue: Mulcahy's
+      city: Wantagh
+      country: USA
+      position: 13
+    - show_slug: dean-and-britta-2012-07-27-antones-austin-tx-usa
+      date: '2012-07-27'
+      year: 2012
+      series: Dean Wareham plays Galaxie 500
+      venue: Antones
+      city: Austin
+      country: USA
+      position: 11
+    - show_slug: damon-and-naomi-2015-04-09-rough-trade-east-london-uk
+      date: '2015-04-09'
+      year: 2015
+      series: Fortune
+      venue: Rough Trade East
+      city: London
+      country: UK
+      position: 2
+    - show_slug: damon-and-naomi-2015-04-11-salon-iksv-istanbul-turkey
+      date: '2015-04-11'
+      year: 2015
+      venue: Salon IKSV
+      city: Istanbul
+      country: Turkey
+      position: 15
+    - show_slug: damon-and-naomi-2015-12-04-legacy-mini-taipei-taiwan
+      date: '2015-12-04'
+      year: 2015
+      venue: Legacy Mini
+      city: Taipei
+      country: Taiwan
+      position: 12
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2023-03-11-loppen-copenhagen-denmark
+      date: '2023-03-11'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 18
+    - show_slug: dean-wareham-2023-03-14-merleyn-nijmegen-the-netherlands
+      date: '2023-03-14'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Merleyn
+      city: Nijmegen
+      country: The Netherlands
+      position: 13
+    - show_slug: dean-wareham-2023-03-15-dbs-utrecht-the-netherlands
+      date: '2023-03-15'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 13
+    - show_slug: dean-wareham-2023-03-16-the-garage-london-uk
+      date: '2023-03-16'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: The Garage
+      city: London
+      country: UK
+      position: 13
+    - show_slug: dean-wareham-2023-03-19-whelans-dublin-ireland
+      date: '2023-03-19'
+      year: 2023
+      series: Dean Wareham plays Galaxie 500
+      venue: Whelans
+      city: Dublin
+      country: Ireland
+      position: 16
+    - show_slug: dean-and-britta-2024-11-28-the-loons-lyttelton-new-zealand
+      date: '2024-11-28'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: The Loons
+      city: Lyttelton
+      country: New Zealand
+      position: 1
+    - show_slug: dean-and-britta-2024-12-01-meow-wellington-new-zealand
+      date: '2024-12-01'
+      year: 2024
+      series: Dean & Britta play Galaxie 500
+      venue: Meow
+      city: Wellington
+      country: New Zealand
+      position: 11
+    - show_slug: dean-wareham-2025-04-10-dbs-utrecht-the-netherlands
+      date: '2025-04-10'
+      year: 2025
+      venue: DB's
+      city: Utrecht
+      country: The Netherlands
+      position: 13
+    - show_slug: damon-and-naomi-2026-01-05-cafe-oto-london-uk
+      date: '2026-01-05'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 7
+      annotation: with Alabaster dePlume, Mark Webber, Gina Birch, Marie Merlet, Laetitia
+        Sadier
+    - show_slug: dean-wareham-2026-05-08-cordao-da-bola-preta-rio-de-janeiro-brazil
+      date: '2026-05-08'
+      year: 2026
+      venue: Cordão da Bola Preta
+      city: Rio de Janeiro
+      country: Brazil
+      position: 12
+    - show_slug: dean-wareham-2026-05-09-cine-joia-sao-paulo-brazil
+      date: '2026-05-09'
+      year: 2026
+      series: Dean Wareham plays Galaxie 500
+      venue: Cine Joia
+      city: São Paulo
+      country: Brazil
+      position: 9
+    - show_slug: dean-wareham-2026-05-12-niceto-club-buenos-aires-argentina
+      date: '2026-05-12'
+      year: 2026
+      series: Dean Wareham interpreta las canciones de Galaxie 500
+      venue: Niceto Club
+      city: Buenos Aires
+      country: Argentina
+      position: 8
+    - show_slug: dean-wareham-2026-05-16-aforo-lima-peru
+      date: '2026-05-16'
+      year: 2026
+      series: Dean Wareham interpreta las canciones de Galaxie 500
+      venue: Aforo
+      city: Lima
+      country: Peru
+      position: 8
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Listen, the Snow Is Falling
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 6
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 17
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH CD 156L
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: ROUGH 156
+      side: B
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 17
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1990
+      label: Rough Trade America
+      catalogue_no: RUS 86-2
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 6
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: LP
+      country: US
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: 202020.09LP
+      side: B
+      position: 6
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 29
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1371
+      position: 7
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2020
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      side: C
+      position: 7
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10373
+      position: 7
+    - release_title: The Portable Galaxie 500
+      release_slug: the-portable-galaxie-500
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      position: 4
+    played_live:
+    - show_slug: galaxie-500-1990-10-11-the-point-atlanta-ga-usa
+      date: '1990-10-11'
+      year: 1990
+      venue: The Point
+      city: Atlanta
+      country: USA
+      position: 9
+    - show_slug: galaxie-500-1990-10-15-kennel-club-san-francisco-ca-usa
+      date: '1990-10-15'
+      year: 1990
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 9
+    - show_slug: galaxie-500-1990-10-19-cbgbs-new-york-ny-usa
+      date: '1990-10-19'
+      year: 1990
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 8
+    - show_slug: galaxie-500-1990-11-03-college-of-building-and-printing-glasgow-uk
+      date: '1990-11-03'
+      year: 1990
+      venue: College of Building and Printing
+      city: Glasgow
+      country: UK
+      position: 7
+    - show_slug: galaxie-500-1990-11-15-ulu-london-uk
+      date: '1990-11-15'
+      year: 1990
+      venue: ULU
+      city: London
+      country: UK
+      position: 10
+    - show_slug: galaxie-500-1990-11-21-trefcentrum-vk-brussels-belgium
+      date: '1990-11-21'
+      year: 1990
+      venue: Trefcentrum VK
+      city: Brussels
+      country: Belgium
+      position: 11
+    - show_slug: galaxie-500-1990-11-24-philipshalle-dusseldorf-germany
+      date: '1990-11-24'
+      year: 1990
+      venue: Philipshalle
+      city: Dusseldorf
+      country: Germany
+      position: 5
+    - show_slug: galaxie-500-1990-11-26-batschkapp-frankfurt-germany
+      date: '1990-11-26'
+      year: 1990
+      venue: Batschkapp
+      city: Frankfurt
+      country: Germany
+      position: 9
+    - show_slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+      date: '1990-11-30'
+      year: 1990
+      venue: Markthalle
+      city: Hamburg
+      country: Germany
+      position: 9
+    - show_slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+      date: '1990-12-01'
+      year: 1990
+      venue: Barbue
+      city: Copenhagen
+      country: Denmark
+      position: 7
+    - show_slug: galaxie-500-1991-03-20-warfield-theater-san-francisco-ca-usa
+      date: '1991-03-20'
+      year: 1991
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 6
+    - show_slug: galaxie-500-1991-03-21-warfield-theater-san-francisco-ca-usa
+      date: '1991-03-21'
+      year: 1991
+      venue: Warfield Theater
+      city: San Francisco
+      country: USA
+      position: 7
+    - show_slug: galaxie-500-1991-03-26-paramount-theater-denver-co-usa
+      date: '1991-03-26'
+      year: 1991
+      venue: Paramount Theater
+      city: Denver
+      country: USA
+      position: 7
+  - version_tag: University of London, UK - 1990-11-15
+    full_title: Listen The Snow Is Falling [University of London, UK - 1990-11-15]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 43
+    played_live: []

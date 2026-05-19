@@ -1,0 +1,106 @@
+title: La Poupee Qui Fait Non
+slug: la-poupee-qui-fait-non
+sort_title: POUPEE QUI FAIT NON
+authors: Michel Polnareff
+original_artist: Michel Polnareff
+originals_url: https://www.fullofwishes.co.uk/2014/03/12/originals-la-poupee-qui-fait-non-by-michel-polnareff-covered-by-luna/
+lyrics: 'C''est une poupée qui fait non, non, non, non
+
+  Toute la journée elle fait non, non, non, non
+
+  Elle est, elle est tell''ment jolie
+
+  Que j''en rêve la nuit
+
+
+  C''est une poupée qui fait non, non, non, non
+
+  Toute la journée elle fait non, non, non, non
+
+  Personne ne lui a jamais appris
+
+  Qu''on pouvait dire oui
+
+
+  Sans même écouter elle fait non, non, non, non
+
+  Sans me regarder elle fait non, non, non, non
+
+  Pourtant je donnerais ma vie
+
+  Pour qu''elle dise oui
+
+
+  Pourtant je donnerais ma vie
+
+  Pour qu''elle dise oui
+
+
+  Mais c''est une poupée qui fait non, non, non, non
+
+  Toute la journée elle fait non, non, non, non
+
+  Personne ne lui a jamais appris
+
+  Qu''on pouvait dire oui
+
+  Oh, non, non, non, non
+
+  Non, non, non, non
+
+
+  Ell'' fait non, non, non, non'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: La Poupee Qui Fait Non
+    appears_on:
+    - release_title: 'Pop Romantique: French Pop Classics'
+      release_slug: pop-romantique-french-pop-classics
+      release_type: Misc
+      year: 1999
+      format: CD
+      edition_year: 1999
+      label: Emperor Norton
+      catalogue_no: EMN 7011-1
+      position: 1
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 31
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 13
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: C
+      position: 14
+    played_live:
+    - show_slug: luna-2019-10-13-lincoln-hall-chicago-il-usa
+      date: '2019-10-13'
+      year: 2019
+      series: Luna play Penthouse
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 15

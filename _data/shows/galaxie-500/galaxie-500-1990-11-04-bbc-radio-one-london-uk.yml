@@ -1,0 +1,38 @@
+slug: galaxie-500-1990-11-04-bbc-radio-one-london-uk
+date: '1990-11-04'
+year: 1990
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: 'John Peel Session Recorded: 30 October 1990 Transmitted: 4 November 1990  Radio
+  session'
+venue_name: BBC Radio One
+venue_slug: bbc-radio-one-london-uk
+city: London
+country: UK
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Moonshot
+  canonical_title: Moonshot
+  song_slug: moonshot
+  full_title: Moonshot
+- position: 2
+  raw_title: Submission
+  canonical_title: Submission
+  song_slug: submission
+  full_title: Submission
+- position: 3
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 4
+  raw_title: Final Day
+  canonical_title: Final Day
+  song_slug: final-day
+  full_title: Final Day

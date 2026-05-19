@@ -1,0 +1,66 @@
+slug: damon-and-naomi-1996-03-15-alligator-lounge-santa-monica-ca-usa
+date: '1996-03-15'
+year: 1996
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+venue_name: Alligator Lounge
+venue_slug: alligator-lounge-santa-monica-ca-usa
+city: Santa Monica
+state: CA
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Spirit of Love
+  canonical_title: Spirit of Love
+  song_slug: spirit-of-love
+  full_title: Spirit of Love
+- position: 2
+  raw_title: Tour Of The World
+  canonical_title: Tour of the World
+  song_slug: tour-of-the-world
+  full_title: Tour of the World
+- position: 3
+  raw_title: Forgot To Get High
+  canonical_title: Forgot to Get High
+  song_slug: forgot-to-get-high
+  full_title: Forgot to Get High
+- position: 4
+  raw_title: Information Age
+  canonical_title: Information Age
+  song_slug: information-age
+  full_title: Information Age
+- position: 5
+  raw_title: Laika
+  canonical_title: Laika
+  song_slug: laika
+  full_title: Laika
+- position: 6
+  raw_title: The New Historicism
+  canonical_title: The New Historicism
+  song_slug: the-new-historicism
+  full_title: The New Historicism
+- position: 7
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 8
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 9
+  raw_title: Pandora's Box
+  canonical_title: Pandora's Box
+  song_slug: pandoras-box
+  full_title: Pandora's Box
+- position: 10
+  raw_title: (unknown)
+  canonical_title: (unknown)
+  song_slug: unknown
+  full_title: (unknown)

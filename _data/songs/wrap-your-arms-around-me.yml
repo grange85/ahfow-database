@@ -1,0 +1,30 @@
+title: Wrap Your Arms Around Me
+slug: wrap-your-arms-around-me
+sort_title: WRAP YOUR ARMS AROUND ME
+authors: Chapman/Knight
+original_artist: Agnetha Fältskog
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Wrap Your Arms Around Me
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 9
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 9
+    played_live: []

@@ -1,0 +1,30 @@
+title: Wand'rin' Star
+slug: wandrin-star
+sort_title: WANDRIN STAR
+authors: Alan J. Lerner/Frederick Loewe
+original_artist: Lee Marvin
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Wand'rin' Star
+    appears_on:
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: CD
+      edition_year: 2018
+      label: Double Feature
+      position: 7
+    - release_title: Dean Wareham vs. Cheval Sombre
+      release_slug: dean-wareham-vs-cheval-sombre
+      release_type: Album
+      year: 2018
+      format: LP
+      edition_year: 2018
+      label: Double Feature
+      side: B
+      position: 7
+    played_live: []

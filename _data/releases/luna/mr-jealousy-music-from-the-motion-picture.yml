@@ -1,0 +1,35 @@
+title: 'Mr Jealousy: Music From The Motion Picture'
+slug: mr-jealousy-music-from-the-motion-picture
+release_type: Misc
+year: 1998
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
+album_artist: Various artists
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  year: 1998
+  label: BMG Classics
+  catalogue_no: 09026 63243-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-mr-jealousy-soundtrack.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Jealous Guy
+    slug: jealous-guy
+    full_title: Jealous Guy
+  - position: 2
+    side_position: 2
+    title: Mr Jealousy Luna Suite
+    slug: mr-jealousy-luna-suite
+    full_title: Mr Jealousy Luna Suite
+  - position: 3
+    side_position: 3
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 4
+    side_position: 4
+    title: Hello Little One
+    slug: hello-little-one
+    full_title: Hello Little One

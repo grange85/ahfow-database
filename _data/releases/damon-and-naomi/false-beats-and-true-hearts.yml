@@ -1,0 +1,167 @@
+title: False Beats and True Hearts
+slug: false-beats-and-true-hearts
+release_type: Album
+year: 2011
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/dan_falsebeats.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: CD
+  year: 2011
+  label: 20|20|20
+  catalogue_no: '202020.12'
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Walking Backwards
+    slug: walking-backwards
+    full_title: Walking Backwards
+  - position: 2
+    side_position: 2
+    title: How Do I Say Goodbye
+    slug: how-do-i-say-goodbye
+    full_title: How Do I Say Goodbye
+  - position: 3
+    side_position: 3
+    title: Shadow Boxing
+    slug: shadow-boxing
+    full_title: Shadow Boxing
+  - position: 4
+    side_position: 4
+    title: Ophelia
+    slug: ophelia
+    full_title: Ophelia
+  - position: 5
+    side_position: 5
+    title: Nettles and Ivy
+    slug: nettles-and-ivy
+    full_title: Nettles and Ivy
+  - position: 6
+    side_position: 6
+    title: What She Brings
+    slug: what-she-brings
+    full_title: What She Brings
+  - position: 7
+    side_position: 7
+    title: Embers
+    slug: embers
+    full_title: Embers
+  - position: 8
+    side_position: 8
+    title: And You Are There
+    slug: and-you-are-there
+    full_title: And You Are There
+  - position: 9
+    side_position: 9
+    title: Helsinki
+    slug: helsinki
+    full_title: Helsinki
+- format: CD
+  year: 2011
+  label: Broken Horse
+  catalogue_no: BKH-CD 022
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Walking Backwards
+    slug: walking-backwards
+    full_title: Walking Backwards
+  - position: 2
+    side_position: 2
+    title: How Do I Say Goodbye
+    slug: how-do-i-say-goodbye
+    full_title: How Do I Say Goodbye
+  - position: 3
+    side_position: 3
+    title: Shadow Boxing
+    slug: shadow-boxing
+    full_title: Shadow Boxing
+  - position: 4
+    side_position: 4
+    title: Ophelia
+    slug: ophelia
+    full_title: Ophelia
+  - position: 5
+    side_position: 5
+    title: Nettles and Ivy
+    slug: nettles-and-ivy
+    full_title: Nettles and Ivy
+  - position: 6
+    side_position: 6
+    title: What She Brings
+    slug: what-she-brings
+    full_title: What She Brings
+  - position: 7
+    side_position: 7
+    title: Embers
+    slug: embers
+    full_title: Embers
+  - position: 8
+    side_position: 8
+    title: And You Are There
+    slug: and-you-are-there
+    full_title: And You Are There
+  - position: 9
+    side_position: 9
+    title: Helsinki
+    slug: helsinki
+    full_title: Helsinki
+- format: LP
+  year: 2011
+  label: 20|20|20
+  catalogue_no: 202020.12LP
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Walking Backwards
+    slug: walking-backwards
+    full_title: Walking Backwards
+  - position: 2
+    side: A
+    side_position: 2
+    title: How Do I Say Goodbye
+    slug: how-do-i-say-goodbye
+    full_title: How Do I Say Goodbye
+  - position: 3
+    side: A
+    side_position: 3
+    title: Shadow Boxing
+    slug: shadow-boxing
+    full_title: Shadow Boxing
+  - position: 4
+    side: A
+    side_position: 4
+    title: Ophelia
+    slug: ophelia
+    full_title: Ophelia
+  - position: 5
+    side: A
+    side_position: 5
+    title: Nettles and Ivy
+    slug: nettles-and-ivy
+    full_title: Nettles and Ivy
+  - position: 6
+    side: B
+    side_position: 1
+    title: What She Brings
+    slug: what-she-brings
+    full_title: What She Brings
+  - position: 7
+    side: B
+    side_position: 2
+    title: Embers
+    slug: embers
+    full_title: Embers
+  - position: 8
+    side: B
+    side_position: 3
+    title: And You Are There
+    slug: and-you-are-there
+    full_title: And You Are There
+  - position: 9
+    side: B
+    side_position: 4
+    title: Helsinki
+    slug: helsinki
+    full_title: Helsinki

@@ -1,0 +1,65 @@
+slug: galaxie-500-1988-12-16-rat-boston-ma-usa
+date: '1988-12-16'
+year: 1988
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: Supporting The Pixies.This was in the database as a show from December 1987
+  but having listened to it evidence suggests that its probably from a year later.In
+  the show Dean mentions asks if anyone has their album which wasnt released until
+  October 1988, and he also shouts 'stick around for The Pixies' at the end.
+venue_name: Rat
+venue_slug: rat-boston-ma-usa
+city: Boston
+state: MA
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Oblivious
+  canonical_title: Oblivious
+  song_slug: oblivious
+  full_title: Oblivious
+- position: 3
+  raw_title: Parking Lot
+  canonical_title: Parking Lot
+  song_slug: parking-lot
+  full_title: Parking Lot
+- position: 4
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 5
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 6
+  raw_title: I Wanna Live
+  canonical_title: I Wanna Live
+  song_slug: i-wanna-live
+  full_title: I Wanna Live
+- position: 7
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 8
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+audio:
+- audio_type: Download
+  url: https://www.mediafire.com/file/3kdph0idz80fpev/Galaxie_500_1988-12-16__The_Rat%252C_Boston%252C_MA%252C_USA.zip/file
+  label: A Head Full of Wishes (Mediafire)

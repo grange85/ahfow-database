@@ -1,0 +1,129 @@
+title: I Have Nothing to Say to The Mayor of L.A.
+slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+release_type: Album
+year: 2021
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-i-have-nothing-to-say.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: CD
+  year: 2021
+  label: Double Feature
+  catalogue_no: CD-DBL-0018
+  tracks:
+  - position: 1
+    side_position: 1
+    title: The Past Is Our Plaything
+    slug: the-past-is-our-plaything
+    full_title: The Past Is Our Plaything
+  - position: 2
+    side_position: 2
+    title: Cashing In
+    slug: cashing-in
+    full_title: Cashing In
+  - position: 3
+    side_position: 3
+    title: The Last Word
+    slug: the-last-word
+    full_title: The Last Word
+  - position: 4
+    side_position: 4
+    title: Robin and Richard
+    slug: robin-and-richard
+    full_title: Robin and Richard
+  - position: 5
+    side_position: 5
+    title: The Corridors of Power
+    slug: the-corridors-of-power
+    full_title: The Corridors of Power
+  - position: 6
+    side_position: 6
+    title: Just as Much as It Was Worth
+    slug: just-as-much-as-it-was-worth
+    full_title: Just as Much as It Was Worth
+  - position: 7
+    side_position: 7
+    title: Under Skys
+    slug: under-skys
+    full_title: Under Skys
+  - position: 8
+    side_position: 8
+    title: Duchess
+    slug: duchess
+    full_title: Duchess
+  - position: 9
+    side_position: 9
+    title: Red Hollywood
+    slug: red-hollywood
+    full_title: Red Hollywood
+  - position: 10
+    side_position: 10
+    title: Why Are We in Vietnam?
+    slug: why-are-we-in-vietnam
+    full_title: Why Are We in Vietnam?
+- format: LP
+  year: 2021
+  label: Double Feature
+  catalogue_no: LP-DBL-0018
+  notes: 500 copies in red vinyl, the remainder in balck.
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: The Past Is Our Plaything
+    slug: the-past-is-our-plaything
+    full_title: The Past Is Our Plaything
+  - position: 2
+    side: A
+    side_position: 2
+    title: Cashing In
+    slug: cashing-in
+    full_title: Cashing In
+  - position: 3
+    side: A
+    side_position: 3
+    title: The Last Word
+    slug: the-last-word
+    full_title: The Last Word
+  - position: 4
+    side: A
+    side_position: 4
+    title: Robin and Richard
+    slug: robin-and-richard
+    full_title: Robin and Richard
+  - position: 5
+    side: A
+    side_position: 5
+    title: The Corridors of Power
+    slug: the-corridors-of-power
+    full_title: The Corridors of Power
+  - position: 6
+    side: B
+    side_position: 1
+    title: Just as Much as It Was Worth
+    slug: just-as-much-as-it-was-worth
+    full_title: Just as Much as It Was Worth
+  - position: 7
+    side: B
+    side_position: 2
+    title: Under Skys
+    slug: under-skys
+    full_title: Under Skys
+  - position: 8
+    side: B
+    side_position: 3
+    title: Duchess
+    slug: duchess
+    full_title: Duchess
+  - position: 9
+    side: B
+    side_position: 4
+    title: Red Hollywood
+    slug: red-hollywood
+    full_title: Red Hollywood
+  - position: 10
+    side: B
+    side_position: 5
+    title: Why Are We in Vietnam?
+    slug: why-are-we-in-vietnam
+    full_title: Why Are We in Vietnam?

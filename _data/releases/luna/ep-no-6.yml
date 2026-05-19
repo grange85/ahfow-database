@@ -1,0 +1,45 @@
+title: EP (No.6)
+slug: ep-no-6
+release_type: Single
+year: 1996
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1996
+  label: No. 6 Records
+  catalogue_no: KAR 036-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_no6ep.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 2
+    side_position: 2
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 3
+    side_position: 3
+    title: The Moviegoer
+    slug: the-moviegoer
+    full_title: The Moviegoer
+  - position: 4
+    side_position: 4
+    title: It's Bringing You Down
+    slug: its-bringing-you-down
+    full_title: It's Bringing You Down
+  - position: 5
+    side_position: 5
+    title: The Enabler
+    slug: the-enabler
+    full_title: The Enabler
+  - position: 6
+    side_position: 6
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets

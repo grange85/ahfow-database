@@ -1,0 +1,58 @@
+slug: damon-and-naomi-2009-10-16-high-dive-denver-co-usa
+date: '2009-10-16'
+year: 2009
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+notes: Supporting A Hawk and A Hacksaw
+setlist_source: recording
+venue_name: High Dive
+venue_slug: high-dive-denver-co-usa
+city: Denver
+state: CO
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Song to the Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 2
+  raw_title: Eye of the Storm
+  canonical_title: Eye of the Storm
+  song_slug: eye-of-the-storm
+  full_title: Eye of the Storm
+- position: 3
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 4
+  raw_title: Lilac Land
+  canonical_title: Lilac Land
+  song_slug: lilac-land
+  full_title: Lilac Land
+- position: 5
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 6
+  raw_title: Turn of the Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 7
+  raw_title: I'm Yours
+  canonical_title: I'm Yours
+  song_slug: im-yours
+  full_title: I'm Yours
+- position: 8
+  raw_title: Bird on the Wire
+  canonical_title: Bird on the Wire
+  song_slug: bird-on-the-wire
+  full_title: Bird on the Wire

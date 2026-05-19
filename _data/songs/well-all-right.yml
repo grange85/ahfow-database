@@ -1,0 +1,23 @@
+title: Well... All Right
+slug: well-all-right
+sort_title: WELL... ALL RIGHT
+authors: Holly/Allison/Petty/Mauldin
+original_artist: Buddy Holly and The Crickets
+originals_url: https://www.fullofwishes.co.uk/2014/09/03/originals-well-right-buddy-holly-crickets-covered-galaxie-500/
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Well... All Right
+    appears_on:
+    - release_title: Demo tape 1
+      release_slug: demo-tape-1
+      release_type: Misc
+      year: 1987
+      format: MC
+      country: US
+      edition_year: 1987
+      side: A
+      position: 7
+    played_live: []

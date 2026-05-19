@@ -1,0 +1,22 @@
+title: Six Feet of Chain
+slug: six-feet-of-chain
+sort_title: SIX FEET OF CHAIN
+authors: Lee Hazlewood
+original_artist: Hazlewood, Lee
+originals_url: https://www.fullofwishes.co.uk/2014/04/30/originals-six-feet-of-chain-by-lee-hazlewood-covered-by-cagney-lacee/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Six Feet of Chain
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 3
+    played_live: []

@@ -1,0 +1,70 @@
+slug: dean-wareham-2016-05-18-le-lieu-unique-nantes-france
+date: '2016-05-18'
+year: 2016
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Tom Verlaine - guitar|Martin Rev - keyboards/vocals|Eleanor
+  Friedberger - guitar/vocals|Britta Phillips - bass/vocals|Jason Quever - guitar/keyboards|Noah
+  Hecht - drums
+series: 'Exposed: Songs For Unseen Warhol Films'
+ticket_url: http://bandsintown.fnacspectacles.com/place-spectacle/manifestation/Cine-concert-EXPOSED-9L60B.htm
+notes: 'Exposed: Songs For Unseen Warhol Films.15 Andy Warhol films with live accompaniment.Featuring
+  Dean Wareham, Tom Verlaine, Maritn Rev and Eleanor Friedburger.Bradford Cox was
+  unavailable to play due to a family bereavement - his films were shown with recorded
+  music.'
+venue_name: Le Lieu Unique
+venue_slug: le-lieu-unique-nantes-france
+city: Nantes
+country: France
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: ^John Washing (1963) - Tom Verlaine
+  annotation: John Washing (1963) - Tom Verlaine
+- position: 2
+  raw_title: ^Jill (1963) - Tom Verlaine
+  annotation: Jill (1963) - Tom Verlaine
+- position: 3
+  raw_title: ^Bob Indiana Etc. (1963) - Tom Verlaine
+  annotation: Bob Indiana Etc. (1963) - Tom Verlaine
+- position: 4
+  raw_title: ^Superboy (extract - 1966) - Martin Rev
+  annotation: Superboy (extract - 1966) - Martin Rev
+- position: 5
+  raw_title: ^Allen (1964) - Martin Rev
+  annotation: Allen (1964) - Martin Rev
+- position: 6
+  raw_title: ^Jack Cigarette (extract from Batman Dracula) (1964) - Martin Rev
+  annotation: Jack Cigarette (extract from Batman Dracula) (1964) - Martin Rev
+- position: 7
+  raw_title: '^Screen Test: Donovan (ST 78 - 1966) - Eleanor Friedberger'
+  annotation: 'Screen Test: Donovan (ST 78 - 1966) - Eleanor Friedberger'
+- position: 8
+  raw_title: ^Marisol – Stop Motion (1963) - Eleanor Friedberger
+  annotation: Marisol – Stop Motion (1963) - Eleanor Friedberger
+- position: 9
+  raw_title: '^Screen Test: Edie Sedgwick (ST 310 - 1965) - Eleanor Friedberger'
+  annotation: 'Screen Test: Edie Sedgwick (ST 310 - 1965) - Eleanor Friedberger'
+- position: 10
+  raw_title: ^Paraphernalia (1966) - Dean Wareham
+  annotation: Paraphernalia (1966) - Dean Wareham
+- position: 11
+  raw_title: ^Nico/Antoine (1966) - Dean Wareham
+  annotation: Nico/Antoine (1966) - Dean Wareham
+- position: 12
+  raw_title: ^Kiss the Boot (extract) (1966) - Dean Wareham
+  annotation: Kiss the Boot (extract) (1966) - Dean Wareham
+- position: 13
+  raw_title: '^Screen Test: Marcel Duchamp and Benedetta Barzini (ST 81 - 1966) -
+    Bradford Cox (recording)'
+  annotation: 'Screen Test: Marcel Duchamp and Benedetta Barzini (ST 81 - 1966) -
+    Bradford Cox (recording)'
+- position: 14
+  raw_title: ^Mario Montez and Boy (1965) - Bradford Cox (recording)
+  annotation: Mario Montez and Boy (1965) - Bradford Cox (recording)
+- position: 15
+  raw_title: ^Me and Taylor (1963) - Bradford Cox (recording)
+  annotation: Me and Taylor (1963) - Bradford Cox (recording)

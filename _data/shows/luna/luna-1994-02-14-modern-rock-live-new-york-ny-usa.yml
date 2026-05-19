@@ -1,0 +1,22 @@
+slug: luna-1994-02-14-modern-rock-live-new-york-ny-usa
+date: '1994-02-14'
+year: 1994
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sterling Morrison - guitar
+notes: 'TRUE'
+venue_name: Modern Rock Live
+venue_slug: modern-rock-live-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Great Jones Street
+  canonical_title: Great Jones Street
+  song_slug: great-jones-street
+  full_title: Great Jones Street

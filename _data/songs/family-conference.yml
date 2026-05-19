@@ -1,0 +1,30 @@
+title: Family Conference
+slug: family-conference
+sort_title: FAMILY CONFERENCE
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Family Conference
+    appears_on:
+    - release_title: 'The Squid and the Whale: Soundtrack to the Motion Picture'
+      release_slug: the-squid-and-the-whale-soundtrack-to-the-motion-picture
+      release_type: Misc
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Ultra
+      catalogue_no: 1330-2
+      position: 3
+    - release_title: Soundtrack EP
+      release_slug: soundtrack-ep
+      release_type: Single
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Double Feature
+      catalogue_no: DA-DBL-HOLIDAY-001
+      side: A
+      position: 2
+    played_live: []

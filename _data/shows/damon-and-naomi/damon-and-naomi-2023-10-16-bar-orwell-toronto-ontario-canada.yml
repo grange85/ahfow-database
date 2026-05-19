@@ -1,0 +1,73 @@
+slug: damon-and-naomi-2023-10-16-bar-orwell-toronto-ontario-canada
+date: '2023-10-16'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/vocals
+support: Picastro
+ticket_url: https://link.dice.fm/K049e1f6af47
+venue_name: Bar Orwell
+venue_slug: bar-orwell-toronto-ontario-canada
+city: Toronto
+state: Ontario
+country: Canada
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Oceans in Between
+  canonical_title: Oceans in Between
+  song_slug: oceans-in-between
+  full_title: Oceans in Between
+- position: 2
+  raw_title: Between the Wars
+  canonical_title: Between the Wars
+  song_slug: between-the-wars
+  full_title: Between the Wars
+- position: 3
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 4
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 5
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 6
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 7
+  raw_title: In The Sun
+  canonical_title: In the Sun
+  song_slug: in-the-sun
+  full_title: In the Sun
+- position: 8
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 9
+  raw_title: Season Without Time
+  canonical_title: Season Without Time
+  song_slug: season-without-time
+  full_title: Season Without Time
+- position: 10
+  raw_title: Sailing By
+  canonical_title: Sailing By
+  song_slug: sailing-by
+  full_title: Sailing By
+- position: 11
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day

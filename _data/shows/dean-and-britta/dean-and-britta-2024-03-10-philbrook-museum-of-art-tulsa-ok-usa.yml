@@ -1,0 +1,35 @@
+slug: dean-and-britta-2024-03-10-philbrook-museum-of-art-tulsa-ok-usa
+date: '2024-03-10'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+ticket_url: https://secure.americansongarchives.org/28861/cabinetofwonders?fbclid=IwAR0GiaQlayg08dB0tYJTVRrFyi41IUlHHY-AeZwOS9Ez66iv8PURnILO7Mw
+notes: Wesley Stace's Cabinet of Wonders also featuring (amongst others) Yo La Tengo,
+  Grant Lee Buffalo, Eugene Mirman. Wesley Stace joined Dean & Britta for the last
+  two songs.
+venue_name: Philbrook Museum of Art
+venue_slug: philbrook-museum-of-art-tulsa-ok-usa
+city: Tulsa
+state: OK
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 2
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 3
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine

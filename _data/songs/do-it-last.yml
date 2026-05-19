@@ -1,0 +1,30 @@
+title: Do It Last
+slug: do-it-last
+sort_title: DO IT LAST
+authors: Britta Phillips
+original_artist: Britta Phillips
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Do It Last
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 2
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 2
+    played_live: []

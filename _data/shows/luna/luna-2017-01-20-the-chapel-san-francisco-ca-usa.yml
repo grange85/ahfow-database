@@ -1,0 +1,106 @@
+slug: luna-2017-01-20-the-chapel-san-francisco-ca-usa
+date: '2017-01-20'
+year: 2017
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+poster_url: https://media.fullofwishes.co.uk/02-luna/show_assets/2017-01/2017-01-luna-chapel-sf-poster.jpg
+ticket_url: https://www.ticketfly.com/purchase/event/1304941?utm_medium=bks
+notes: 'Second night of a three night residency. Night 2: Penthouse.'
+venue_name: The Chapel
+venue_slug: the-chapel-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 2
+  raw_title: Sideshow by the Seashore
+  canonical_title: Sideshow by the Seashore
+  song_slug: sideshow-by-the-seashore
+  full_title: Sideshow by the Seashore
+- position: 3
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 4
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 5
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 6
+  raw_title: Lost In Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 7
+  raw_title: Rhythm King
+  canonical_title: Rhythm King
+  song_slug: rhythm-king
+  full_title: Rhythm King
+- position: 8
+  raw_title: Kalamazoo
+  canonical_title: Kalamazoo
+  song_slug: kalamazoo
+  full_title: Kalamazoo
+- position: 9
+  raw_title: Hedgehog
+  canonical_title: Hedgehog
+  song_slug: hedgehog
+  full_title: Hedgehog
+- position: 10
+  raw_title: Freakin' and Peakin'
+  canonical_title: Freakin' and Peakin'
+  song_slug: freakin-and-peakin
+  full_title: Freakin' and Peakin'
+- position: 11
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 12
+  raw_title: ^encore 1
+  annotation: encore 1
+- position: 13
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 14
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 15
+  raw_title: Outdoor Miner
+  canonical_title: Outdoor Miner
+  song_slug: outdoor-miner
+  full_title: Outdoor Miner
+- position: 16
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 17
+  raw_title: ^encore2
+  annotation: encore2
+- position: 18
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit

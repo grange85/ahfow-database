@@ -1,0 +1,99 @@
+title: The Creeps
+slug: the-creeps
+sort_title: CREEPS
+lyrics: 'Tell me who it was
+
+  Let the creeps into my life
+
+  Tell me who it was
+
+  Let the creeps into the house
+
+  Well I guess that it was me
+
+  Who handed out the key
+
+  I gots to be more careful
+
+  Next time
+
+  Some very clever people
+
+  Have got it figured out
+
+  Let me say now
+
+  You are in grave danger
+
+  I''ll open all the drawers
+
+  And look behind the socks
+
+  So where are you
+
+  This time
+
+
+  Does anybody see it?
+
+  Does anybody care?
+
+  A hideous trick
+
+  Has been played on all of us
+
+  A saddle of deception
+
+  A sauce of nasty lies
+
+  Greetings from the chateau
+
+  For the very last time'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: The Creeps
+    appears_on:
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQCD194
+      position: 9
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      side: B
+      position: 9
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Elektra
+      catalogue_no: 62055-2
+      position: 9
+    - release_title: Pup Tent
+      release_slug: pup-tent
+      release_type: Album
+      year: 1997
+      format: LP
+      country: US
+      edition_year: 1997
+      label: Teenbeat
+      side: B
+      position: 9
+    played_live: []

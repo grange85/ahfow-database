@@ -1,0 +1,27 @@
+slug: luna-2017-11-10-wfpk-louisville-ky-usa
+date: '2017-11-10'
+year: 2017
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass
+notes: 'TRUE'
+venue_name: WFPK
+venue_slug: wfpk-louisville-ky-usa
+city: Louisville
+state: KY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Fire in Cairo
+  canonical_title: Fire in Cairo
+  song_slug: fire-in-cairo
+  full_title: Fire In Cairo
+- position: 2
+  raw_title: Friends
+  canonical_title: Friends
+  song_slug: friends
+  full_title: Friends

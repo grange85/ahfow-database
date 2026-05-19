@@ -1,0 +1,30 @@
+title: Three Stories
+slug: three-stories
+release_type: Single
+year: 1995
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-three-stories-promo.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: US
+  year: 1995
+  label: Elektra
+  catalogue_no: PRCD 9241-2
+  sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-three-stories-promo.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 2
+    side_position: 2
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 3
+    side_position: 3
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde

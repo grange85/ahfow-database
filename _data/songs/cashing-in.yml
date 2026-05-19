@@ -1,0 +1,45 @@
+title: Cashing In
+slug: cashing-in
+sort_title: CASHING IN
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Cashing In
+    appears_on:
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: CD
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: CD-DBL-0018
+      position: 2
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: LP-DBL-0018
+      side: A
+      position: 2
+    played_live:
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2025-04-16-pumpehuset-copenhagen-denmark
+      date: '2025-04-16'
+      year: 2025
+      venue: Pumpehuset
+      city: Copenhagen
+      country: Denmark
+      position: 16

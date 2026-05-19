@@ -1,0 +1,68 @@
+title: Hey Paula
+slug: hey-paula
+sort_title: HEY PAULA
+authors: Ray Hildebrand
+original_artist: Paul and Paula
+lyrics: 'Hey, hey Paula, I wanna marry you
+
+  Hey, hey Paula, no one else will ever do
+
+  I''ve waited so long for school to be through
+
+  Paula, I can''t wait no more for you
+
+  My love, my love
+
+  Hey Paul, I''ve been waiting for you
+
+  Hey, hey, hey Paul, I want to marry you too
+
+  If you love me true, if you love me still
+
+  Our love will always be real
+
+  My love, my love
+
+  True love means planning a life for two
+
+  Being together the whole day through
+
+  True love means waiting and hoping that soon
+
+  Wishes we''ve made will come true
+
+  My love, my love'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Hey Paula
+    appears_on:
+    - release_title: Don't Think Twice It's Alright / Hey Paula
+      release_slug: dont-think-twice-its-alright-hey-paula
+      release_type: Single
+      year: 2016
+      format: '7'
+      edition_year: 2016
+      label: Great Pop Supplement
+      catalogue_no: GPS131
+      side: B
+      position: 2
+    played_live: []
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Hey Paula
+    appears_on:
+    - release_title: Hey Paula
+      release_slug: hey-paula
+      release_type: Single
+      year: 2016
+      format: '7'
+      edition_year: 2016
+      label: Great Pop Supplement
+      catalogue_no: GPS 131
+      side: B
+      position: 2
+    played_live: []

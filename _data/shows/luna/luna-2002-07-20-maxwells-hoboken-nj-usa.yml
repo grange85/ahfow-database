@@ -1,0 +1,97 @@
+slug: luna-2002-07-20-maxwells-hoboken-nj-usa
+date: '2002-07-20'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Maxwells
+venue_slug: maxwells-hoboken-nj-usa
+city: Hoboken
+state: NJ
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: '1995'
+  canonical_title: '1995'
+  song_slug: '1995'
+  full_title: '1995'
+- position: 2
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 3
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 4
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 5
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 6
+  raw_title: Black Champagne
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne
+- position: 7
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 8
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 9
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 10
+  raw_title: The Slow Song
+  canonical_title: The Slow Song
+  song_slug: the-slow-song
+  full_title: The Slow Song
+- position: 11
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 12
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 13
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 14
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 15
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 16
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

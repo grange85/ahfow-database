@@ -1,0 +1,33 @@
+title: After Tomorrow
+slug: after-tomorrow
+release_type: Misc
+year: 1994
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-after-tomorrow.jpg
+album_artist: Magic Hour
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '10'
+  year: 1994
+  label: Ché
+  catalogue_no: CHE 18
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/magic-hour-after-tomorrow.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: After Tomorrow
+    slug: after-tomorrow
+    full_title: After Tomorrow
+  - position: 2
+    side: A
+    side_position: 2
+    title: World of One
+    slug: world-of-one
+    full_title: World of One
+  - position: 3
+    side: B
+    side_position: 1
+    title: Permanent Green Light
+    slug: permanent-green-light
+    full_title: Permanent Green Light

@@ -1,0 +1,459 @@
+title: Ride Into the Sun
+slug: ride-into-the-sun
+sort_title: RIDE INTO THE SUN
+authors: Reed/Cale
+original_artist: Velvet Underground, The
+originals_url: https://www.fullofwishes.co.uk/2014/04/02/originals-ride-into-the-sun-by-the-velvet-underground-covered-by-luna/
+lyrics: 'Lookin for another chance
+
+  For someone else to be
+
+  Lookin for another place
+
+  To ride into the sun
+
+
+  Ride into the sun
+
+  Ride into the sun
+
+  Ride into the sun
+
+  Ride into the sun
+
+
+  Waitin for the ships to sail
+
+  Looking for an end
+
+  Ridin for another time
+
+  To ride into the sun
+
+
+  Ride into the sun
+
+  Ride into the sun
+
+  Ride into the sun
+
+  Ride into the sun'
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Ride Into The Sun
+    appears_on:
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: 7 x lathe-cut singles
+      edition_year: 2020
+      label: PIAPTK
+      catalogue_no: 01143-2009-2
+      side: A
+      position: 4
+    - release_title: Quarantine Tapes
+      release_slug: quarantine-tapes
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2020
+      label: Double Feature
+      catalogue_no: CD-DBL-0017
+      position: 13
+    played_live: []
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Ride Into the Sun
+    appears_on:
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: Cassette
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 076
+      side: B
+      position: 7
+    - release_title: Live at St Pancras Old Church London
+      release_slug: live-at-st-pancras-old-church-london
+      release_type: Album
+      year: 2015
+      format: 2xLP
+      country: UK
+      edition_year: 2023
+      label: Sonic Cathedral
+      catalogue_no: SCR 276LP
+      side: B
+      position: 7
+    played_live:
+    - show_slug: dean-wareham-2013-11-12-chapel-san-francisco-ca-usa
+      date: '2013-11-12'
+      year: 2013
+      venue: Chapel
+      city: San Francisco
+      country: USA
+      position: 14
+    - show_slug: dean-wareham-2013-11-14-largo-at-the-coronet-theatre-los-angeles-ca-usa
+      date: '2013-11-14'
+      year: 2013
+      venue: Largo at the Coronet Theatre
+      city: Los Angeles
+      country: USA
+      position: 11
+    - show_slug: dean-wareham-2013-12-05-st-pancras-old-church-london-uk
+      date: '2013-12-05'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 12
+    - show_slug: dean-wareham-2013-12-06-st-pancras-old-church-london-uk
+      date: '2013-12-06'
+      year: 2013
+      venue: St. Pancras Old Church
+      city: London
+      country: UK
+      position: 13
+    - show_slug: dean-wareham-2013-12-07-point-ephemere-paris-france
+      date: '2013-12-07'
+      year: 2013
+      venue: Point Ephemere
+      city: Paris
+      country: France
+      position: 13
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Ride Into the Sun
+    appears_on:
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36CD
+      position: 3
+    - release_title: Indian Summer
+      release_slug: indian-summer
+      release_type: Single
+      year: 1993
+      format: '12'
+      country: UK
+      edition_year: 1993
+      label: Rough Trade
+      catalogue_no: R2970
+      side: B
+      position: 3
+    - release_title: Indian Summer
+      release_slug: indian-summer
+      release_type: Single
+      year: 1993
+      format: CD
+      country: UK
+      edition_year: 1993
+      label: Rough Trade
+      catalogue_no: R2973
+      position: 3
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: CD
+      country: US
+      edition_year: 1993
+      label: Elektra
+      catalogue_no: 9 61472-2
+      position: 3
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: A
+      position: 3
+    - release_title: Slide
+      release_slug: slide
+      release_type: Single
+      year: 1993
+      format: MC
+      country: US
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE36MC
+      side: B
+      position: 9
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 21
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 4
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: A
+      position: 3
+    played_live:
+    - show_slug: luna-1992-11-05-whiskey-a-go-go-los-angeles-ca-usa
+      date: '1992-11-05'
+      year: 1992
+      venue: Whiskey-A-Go-Go
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: luna-1993-03-02-opera-house-toronto-ontario-canada
+      date: '1993-03-02'
+      year: 1993
+      venue: Opera House
+      city: Toronto
+      country: Canada
+      position: 5
+    - show_slug: luna-1993-06-03-borderline-london-uk
+      date: '1993-06-03'
+      year: 1993
+      venue: Borderline
+      city: London
+      country: UK
+      position: 3
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 17
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 3
+    - show_slug: luna-1994-08-19-trocadero-philadelphia-pa-usa
+      date: '1994-08-19'
+      year: 1994
+      venue: Trocadero
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-1995-09-08-nyu-new-york-ny-usa
+      date: '1995-09-08'
+      year: 1995
+      venue: NYU
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: luna-1996-04-01-massey-hall-toronto-ontario-canada
+      date: '1996-04-01'
+      year: 1996
+      venue: Massey Hall
+      city: Toronto
+      country: Canada
+      position: 7
+    - show_slug: luna-1997-09-29-fillmore-san-francisco-ca-usa
+      date: '1997-09-29'
+      year: 1997
+      venue: Fillmore
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: luna-2000-08-04-warhol-museum-pittsburgh-pa-usa
+      date: '2000-08-04'
+      year: 2000
+      venue: Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 15
+    - show_slug: luna-2015-04-18-escenario-santander-santander-spain
+      date: '2015-04-18'
+      year: 2015
+      venue: Escenario Santander
+      city: Santander
+      country: Spain
+      position: 15
+    - show_slug: luna-2015-04-19-teatre-de-lloseta-mallorca-spain
+      date: '2015-04-19'
+      year: 2015
+      venue: Teatre de Lloseta
+      city: Mallorca
+      country: Spain
+      position: 11
+    - show_slug: luna-2015-04-20-teatro-lara-madrid-spain
+      date: '2015-04-20'
+      year: 2015
+      venue: Teatro Lara
+      city: Madrid
+      country: Spain
+      position: 15
+    - show_slug: luna-2015-04-23-bikini-barcelona-spain
+      date: '2015-04-23'
+      year: 2015
+      venue: Bikini
+      city: Barcelona
+      country: Spain
+      position: 16
+    - show_slug: luna-2015-04-24-centro-de-las-armas-zaragoza-spain
+      date: '2015-04-24'
+      year: 2015
+      venue: Centro de Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 12
+    - show_slug: luna-2015-04-25-intxaurrondo-san-sebastian-spain
+      date: '2015-04-25'
+      year: 2015
+      venue: Intxaurrondo
+      city: San Sebastián
+      country: Spain
+      position: 18
+    - show_slug: luna-2015-04-26-casa-da-musica-porto-portugal
+      date: '2015-04-26'
+      year: 2015
+      venue: Casa da Musica
+      city: Porto
+      country: Portugal
+      position: 13
+    - show_slug: luna-2015-04-30-planta-baja-granada-spain
+      date: '2015-04-30'
+      year: 2015
+      venue: Planta Baja
+      city: Granada
+      country: Spain
+      position: 15
+    - show_slug: luna-2015-10-11-3s-artspace-portsmouth-nh-usa
+      date: '2015-10-11'
+      year: 2015
+      venue: 3S Artspace
+      city: Portsmouth
+      country: USA
+      position: 13
+    - show_slug: luna-2015-10-14-the-andy-warhol-museum-pittsburgh-pa-usa
+      date: '2015-10-14'
+      year: 2015
+      venue: The Andy Warhol Museum
+      city: Pittsburgh
+      country: USA
+      position: 15
+    - show_slug: luna-2015-10-16-house-of-blues-chicago-il-usa
+      date: '2015-10-16'
+      year: 2015
+      venue: House of Blues
+      city: Chicago
+      country: USA
+      position: 15
+    - show_slug: luna-2015-10-25-the-teragram-ballroom-los-angeles-ca-usa
+      date: '2015-10-25'
+      year: 2015
+      venue: The Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 16
+    - show_slug: luna-2015-11-04-biltmore-caberet-vancouver-british-columbia-canada
+      date: '2015-11-04'
+      year: 2015
+      venue: Biltmore Caberet
+      city: Vancouver
+      country: Canada
+      position: 14
+    - show_slug: luna-2015-11-05-kexp-seattle-wa-usa
+      date: '2015-11-05'
+      year: 2015
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: luna-2023-01-11-deer-lodge-ojai-ca-usa
+      date: '2023-01-11'
+      year: 2023
+      venue: Deer Lodge
+      city: Ojai
+      country: USA
+      position: 7
+    - show_slug: luna-2023-01-12-lodge-room-los-angeles-ca-usa
+      date: '2023-01-12'
+      year: 2023
+      venue: Lodge Room
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: luna-2023-01-13-the-chapel-san-francisco-ca-usa
+      date: '2023-01-13'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 8
+    - show_slug: luna-2023-01-16-wow-hall-eugene-or-usa
+      date: '2023-01-16'
+      year: 2023
+      venue: WOW Hall
+      city: Eugene
+      country: USA
+      position: 7
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: luna-2023-01-19-alladin-theater-portland-or-usa
+      date: '2023-01-19'
+      year: 2023
+      venue: Alladin Theater
+      city: Portland
+      country: USA
+      position: 9
+    - show_slug: luna-2023-09-09-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-09'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 13
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 5
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 17

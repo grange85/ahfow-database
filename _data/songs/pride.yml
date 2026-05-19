@@ -1,0 +1,20 @@
+title: Pride
+slug: pride
+sort_title: PRIDE
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Pride
+    appears_on:
+    - release_title: Demo tape 1
+      release_slug: demo-tape-1
+      release_type: Misc
+      year: 1987
+      format: MC
+      country: US
+      edition_year: 1987
+      side: A
+      position: 4
+    played_live: []

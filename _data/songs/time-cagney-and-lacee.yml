@@ -1,0 +1,198 @@
+title: Time
+slug: time-cagney-and-lacee
+sort_title: TIME
+authors: Michael Merchant
+original_artist: Jimmie Rodgers
+originals_url: https://www.fullofwishes.co.uk/2014/07/09/originals-time-nancy-sinatra-covered-cagney-lacee/
+lyrics: 'Some people run, some people crawl,
+
+  Some people don''t even move at all,
+
+  Some roads lead forwards, some roads lead back,
+
+  Some roads are bathed in light, some wrapped in fearful black.
+
+
+  Time, oh time, where did you go?
+
+  Time, oh good, good time where did you go?
+
+
+  Some people never get, and some never give,
+
+  Some people never die, and some never live,
+
+  Some folks they treat me mean, some treat me kind,
+
+  Most folks just go there way, don''t pay me no mind.
+
+
+  Time, oh time, where did you go
+
+  Time, oh good, good time where did you go?
+
+
+  Sometimes I''m satisfied, sometimes I''m not,
+
+  Sometimes my face is cold, sometimes it''s hot,
+
+  At sunset I laugh, but at sunrise I cry,
+
+  At midnight I''m in between and wondering why.
+
+
+  Time, oh time, where did you go
+
+  Time, oh good, good time where did you go?..
+
+
+  Time, oh time, where did you go
+
+  Time, oh good, good time where did you go?..'
+disambiguate: Cagney & Lacee
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Time
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: '7'
+      edition_year: 1995
+      label: No. 6
+      catalogue_no: KAR034
+      side: A
+      position: 1
+    - release_title: Speed Dating
+      release_slug: speed-dating
+      release_type: Misc
+      year: 2009
+      format: 2xCD
+      edition_year: 2009
+      label: No. 6
+      catalogue_no: KAR006
+      position: 3
+    played_live: []
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Time
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: LP
+      country: AUS
+      edition_year: 1993
+      label: Summershine
+      catalogue_no: SHINE LP 008
+      side: A
+      position: 5
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: A
+      position: 5
+    - release_title: Time / Egg Nog
+      release_slug: time-egg-nog
+      release_type: Single
+      year: 1992
+      format: '7'
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: ST-E-64679
+      side: A
+      position: 1
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: CD
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      position: 5
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: MC
+      country: US
+      edition_year: 1992
+      label: Elektra
+      catalogue_no: 9 61360-2
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-1992-11-24-wxpn-philadelphia-pa-usa
+      date: '1992-11-24'
+      year: 1992
+      venue: WXPN
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: luna-1992-12-27-idiots-delight-wxrk-fm-new-york-ny-usa
+      date: '1992-12-27'
+      year: 1992
+      event: Idiots Delight
+      venue: WXRK-FM
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-1994-05-23-bierkeller-bristol-uk
+      date: '1994-05-23'
+      year: 1994
+      venue: Bierkeller
+      city: Bristol
+      country: UK
+      position: 1
+    - show_slug: luna-2019-10-08-the-earl-atlanta-ga-usa
+      date: '2019-10-08'
+      year: 2019
+      series: Luna play Lunapark
+      venue: The Earl
+      city: Atlanta
+      country: USA
+      position: 5
+    - show_slug: luna-2019-10-17-gateway-city-arts-holyoke-ma-usa
+      date: '2019-10-17'
+      year: 2019
+      venue: Gateway City Arts
+      city: Holyoke
+      country: USA
+      position: 5
+    - show_slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+      date: '2019-10-18'
+      year: 2019
+      series: Luna play Lunapark
+      venue: Elsewhere
+      city: Brooklyn
+      country: USA
+      position: 5
+  - version_tag: Fun city demo
+    full_title: Time [Fun city demo]
+    appears_on:
+    - release_title: Lunapark
+      release_slug: lunapark
+      release_type: Album
+      year: 1992
+      format: 2xLP
+      country: US
+      edition_year: 2023
+      label: Run Out Groove/Elektra
+      catalogue_no: ROGV-178
+      side: C
+      position: 15
+    played_live: []

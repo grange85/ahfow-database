@@ -1,0 +1,69 @@
+title: I'm Yours
+slug: im-yours
+sort_title: IM YOURS
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: I'm Yours
+    appears_on:
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10438
+      position: 5
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Sub Pop
+      catalogue_no: SPCD425
+      position: 5
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 2001
+      label: Trama
+      catalogue_no: T900/399-2
+      position: 5
+    - release_title: The Sub Pop Years
+      release_slug: the-sub-pop-years
+      release_type: Album
+      year: 2009
+      format: LP
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 2
+    played_live:
+    - show_slug: damon-and-naomi-2009-10-16-high-dive-denver-co-usa
+      date: '2009-10-16'
+      year: 2009
+      venue: High Dive
+      city: Denver
+      country: USA
+      position: 7
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 7
+    - show_slug: damon-and-naomi-2010-08-08-off-festival-katowice-poland
+      date: '2010-08-08'
+      year: 2010
+      venue: OFF Festival
+      city: Katowice
+      country: Poland
+      position: 7

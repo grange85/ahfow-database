@@ -1,0 +1,21 @@
+title: Tell Me When It's Over
+slug: tell-me-when-its-over
+sort_title: TELL ME WHEN ITS OVER
+authors: Steve Wynn
+original_artist: Dream Syndicate
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Tell Me When It's Over
+    appears_on: []
+    played_live:
+    - show_slug: luna-2026-04-03-the-bowery-ballroom-new-york-ny-usa
+      date: '2026-04-03'
+      year: 2026
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 17
+      annotation: with Steve Wynn

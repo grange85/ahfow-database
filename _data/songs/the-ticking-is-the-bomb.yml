@@ -1,0 +1,50 @@
+title: The Ticking Is the Bomb
+slug: the-ticking-is-the-bomb
+sort_title: TICKING IS THE BOMB
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Ticking is the Bomb
+    appears_on:
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 5
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: CD
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: CD-DBL-010
+      position: 5
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Sonic Cathedral
+      catalogue_no: SCR 047
+      side: B
+      position: 5
+    - release_title: Emancipated Hearts
+      release_slug: emancipated-hearts
+      release_type: Album
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: Double Feature
+      catalogue_no: LP-DBL-010
+      side: B
+      position: 5
+    played_live: []

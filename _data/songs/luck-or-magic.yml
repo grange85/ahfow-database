@@ -1,0 +1,30 @@
+title: Luck or Magic
+slug: luck-or-magic
+sort_title: LUCK OR MAGIC
+authors: Britta Phillips
+original_artist: Britta Phillips
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Luck or Magic
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 7
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: B
+      position: 7
+    played_live: []

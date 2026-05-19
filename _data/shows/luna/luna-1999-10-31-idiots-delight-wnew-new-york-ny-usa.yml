@@ -1,0 +1,58 @@
+slug: luna-1999-10-31-idiots-delight-wnew-new-york-ny-usa
+date: '1999-10-31'
+year: 1999
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: Idiots Delight WNEW
+venue_slug: idiots-delight-wnew-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 2
+  raw_title: Dear Diary
+  canonical_title: Dear Diary
+  song_slug: dear-diary
+  full_title: Dear Diary
+- position: 3
+  raw_title: Season of the Witch
+  canonical_title: Season of the Witch
+  song_slug: season-of-the-witch
+  full_title: Season of The Witch
+- position: 4
+  raw_title: Hello Little One
+  canonical_title: Hello Little One
+  song_slug: hello-little-one
+  full_title: Hello Little One
+- position: 5
+  raw_title: Seven Steps to Satan
+  canonical_title: Seven Steps to Satan
+  song_slug: seven-steps-to-satan
+  full_title: Seven Steps to Satan
+- position: 6
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 7
+  raw_title: The Slow Song
+  canonical_title: The Slow Song
+  song_slug: the-slow-song
+  full_title: The Slow Song
+- position: 8
+  raw_title: Sweet Child o' Mine
+  canonical_title: Sweet Child o' Mine
+  song_slug: sweet-child-o-mine
+  full_title: Sweet Child o' Mine

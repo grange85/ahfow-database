@@ -1,0 +1,29 @@
+title: Mistress America
+slug: mistress-america
+sort_title: MISTRESS AMERICA
+authors: Wareham/Phillips
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Mistress America
+    appears_on:
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 1
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: A
+      position: 1
+    played_live: []

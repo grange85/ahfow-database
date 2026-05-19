@@ -1,0 +1,73 @@
+slug: damon-and-naomi-2023-05-12-best-video-film--cultural-center-hamden-ct-usa
+date: '2023-05-12'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+ticket_url: https://www.fernandopintopresents.com/events/damon-naomi
+venue_name: Best Video Film & Cultural Center
+venue_slug: best-video-film--cultural-center-hamden-ct-usa
+city: Hamden
+state: CT
+country: USA
+venue_url: https://www.bestvideo.com/events/damon-naomi
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: Oceans In Between
+  canonical_title: Oceans in Between
+  song_slug: oceans-in-between
+  full_title: Oceans in Between
+- position: 2
+  raw_title: Between The Wars
+  canonical_title: Between the Wars
+  song_slug: between-the-wars
+  full_title: Between the Wars
+- position: 3
+  raw_title: How Do I Say Goodbye
+  canonical_title: How Do I Say Goodbye
+  song_slug: how-do-i-say-goodbye
+  full_title: How Do I Say Goodbye
+- position: 4
+  raw_title: Helsinki
+  canonical_title: Helsinki
+  song_slug: helsinki
+  full_title: Helsinki
+- position: 5
+  raw_title: Song To The Siren
+  canonical_title: Song to the Siren
+  song_slug: song-to-the-siren
+  full_title: Song to the Siren
+- position: 6
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 7
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 8
+  raw_title: Season Without Time
+  canonical_title: Season Without Time
+  song_slug: season-without-time
+  full_title: Season Without Time
+- position: 9
+  raw_title: Sailing By
+  canonical_title: Sailing By
+  song_slug: sailing-by
+  full_title: Sailing By
+- position: 10
+  raw_title: Another Day
+  canonical_title: Another Day
+  song_slug: another-day
+  full_title: Another Day
+- position: 11
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century

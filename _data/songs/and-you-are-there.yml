@@ -1,0 +1,50 @@
+title: And You Are There
+slug: and-you-are-there
+sort_title: AND YOU ARE THERE
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: And You Are There
+    appears_on:
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: '202020.12'
+      position: 8
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: CD
+      edition_year: 2011
+      label: Broken Horse
+      catalogue_no: BKH-CD 022
+      position: 8
+    - release_title: False Beats and True Hearts
+      release_slug: false-beats-and-true-hearts
+      release_type: Album
+      year: 2011
+      format: LP
+      edition_year: 2011
+      label: 20|20|20
+      catalogue_no: 202020.12LP
+      side: B
+      position: 8
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 14
+    played_live: []

@@ -1,0 +1,59 @@
+title: Wait for Me
+slug: wait-for-me
+sort_title: WAIT FOR ME
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Wait For Me
+    appears_on:
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: Zoë
+      catalogue_no: 01143-1105-2
+      position: 3
+    - release_title: Back Numbers
+      release_slug: back-numbers
+      release_type: Album
+      year: 2007
+      format: LP
+      edition_year: 2019
+      label: Wouldn't Waste
+      catalogue_no: WWR-13
+      side: A
+      position: 3
+    - release_title: Variations
+      release_slug: variations
+      release_type: Single
+      year: 2008
+      format: CD
+      edition_year: 2008
+      label: (no label)
+      position: 4
+    played_live:
+    - show_slug: dean-and-britta-2007-01-09-mo-pitkins-new-york-ny-usa
+      date: '2007-01-09'
+      year: 2007
+      venue: Mo Pitkin's
+      city: New York
+      country: USA
+      position: 4
+    - show_slug: dean-and-britta-2007-12-04-silbergold-frankfurt-germany
+      date: '2007-12-04'
+      year: 2007
+      venue: Silbergold
+      city: Frankfurt
+      country: Germany
+      position: 10
+    - show_slug: dean-and-britta-2007-12-31-maxwells-hoboken-nj-usa
+      date: '2007-12-31'
+      year: 2007
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 10

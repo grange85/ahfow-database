@@ -1,0 +1,88 @@
+slug: dean-and-britta-2012-07-21-mulcahys-wantagh-ny-usa
+date: '2012-07-21'
+year: 2012
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: Benefit show for the Tommy Brull Foundation
+venue_name: Mulcahy's
+venue_slug: mulcahys-wantagh-ny-usa
+city: Wantagh
+state: NY
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When WIll You Come Home
+- position: 3
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 4
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 5
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 6
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 7
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 8
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 9
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 10
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 11
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 12
+  raw_title: ^encore
+  annotation: encore
+- position: 13
+  raw_title: Listen, The Snow is Falling
+  canonical_title: Listen, the Snow Is Falling
+  song_slug: listen-the-snow-is-falling
+  full_title: Listen, The Snow is Falling
+- position: 14
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+audio:
+- audio_type: Download
+  url: https://www.fullofwishes.co.uk/2012/07/26/audio-dean-britta-with-sean-eden-almost-luna/

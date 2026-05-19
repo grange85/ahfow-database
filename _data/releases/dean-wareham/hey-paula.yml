@@ -1,0 +1,26 @@
+title: Hey Paula
+slug: hey-paula
+release_type: Single
+year: 2016
+sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
+act: Dean Wareham
+act_slug: dean-wareham
+editions:
+- format: '7'
+  year: 2016
+  label: Great Pop Supplement
+  catalogue_no: GPS 131
+  sleeve_url: https://media.fullofwishes.co.uk/05-dean_wareham/sleeves/dean-wareham-hey-paula.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Don't Think Twice, It's Alright
+    slug: dont-think-twice-its-alright
+    full_title: Don't Think Twice, It's Alright
+  - position: 2
+    side: B
+    side_position: 1
+    title: Hey Paula
+    slug: hey-paula
+    full_title: Hey Paula

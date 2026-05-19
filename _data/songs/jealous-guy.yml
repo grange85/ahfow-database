@@ -1,0 +1,78 @@
+title: Jealous Guy
+slug: jealous-guy
+sort_title: JEALOUS GUY
+authors: John Lennon
+original_artist: John Lennon
+originals_url: https://www.fullofwishes.co.uk/2013/11/13/originals-jealous-guy-by-john-lennon-covered-by-luna/
+lyrics: 'I was dreaming of the past.
+
+  And my heart was beating fast,
+
+  I began to lose control,
+
+  I began to lose control,
+
+
+  I didn''t mean to hurt you,
+
+  I''m sorry that I mad you cry,
+
+  I didn''t want to hurt you,
+
+  I''m just a jealous guy,
+
+
+  I was feeling insecure,
+
+  You night not love me any more,
+
+
+  I was shivering inside,
+
+  I was shivering inside,
+
+
+  I was trying to catch your eyes,
+
+  Thought that you were trying to hide,
+
+  I was swallowing my pain,
+
+  I was swallowing my pain.'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Jealous Guy
+    appears_on:
+    - release_title: 'Mr Jealousy: Music From The Motion Picture'
+      release_slug: mr-jealousy-music-from-the-motion-picture
+      release_type: Misc
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: BMG Classics
+      catalogue_no: 09026 63243-2
+      position: 1
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 24
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: D
+      position: 16
+    played_live: []

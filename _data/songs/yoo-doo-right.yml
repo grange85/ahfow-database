@@ -1,0 +1,23 @@
+title: Yoo Doo Right
+slug: yoo-doo-right
+sort_title: YOO DOO RIGHT
+authors: Can
+original_artist: Can
+originals_url: https://www.fullofwishes.co.uk/2014/09/24/originals-doo-right-can-covered-damon-naomi/
+is_cover: true
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Yoo Doo Right
+    appears_on:
+    - release_title: It's All Over Now, Baby Blue / Yoo Doo Right
+      release_slug: its-all-over-now-baby-blue-yoo-doo-right
+      release_type: Single
+      year: 1999
+      format: '7'
+      edition_year: 1999
+      label: Grimsey
+      side: B
+      position: 2
+    played_live: []

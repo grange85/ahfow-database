@@ -1,0 +1,68 @@
+title: Beat the Devil
+slug: beat-the-devil
+sort_title: BEAT THE DEVIL
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Beat the Devil
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: A
+      position: 2
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: A
+      position: 2
+    played_live: []

@@ -1,0 +1,27 @@
+slug: dean-and-britta-2020-05-01-dean--brittas-living-room-echo-park-la-usa
+date: '2020-05-01'
+year: 2020
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Britta Phillips - bass/keyboards/vocals|Dean Wareham - guitar/vocals
+notes: Ad-hoc live stream from Dean & Britta's home in Los Angeles
+venue_name: Dean & Britta's living room
+venue_slug: dean--brittas-living-room-echo-park-la-usa
+city: Echo Park
+state: LA
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Holding Pattern
+  canonical_title: Holding Pattern
+  song_slug: holding-pattern
+  full_title: Holding Pattern
+- position: 2
+  raw_title: Teenage Lightning
+  canonical_title: Teenage Lightning
+  song_slug: teenage-lightning
+  full_title: Teenage Lightning

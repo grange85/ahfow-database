@@ -1,0 +1,84 @@
+title: Walk on the Wild Side
+slug: walk-on-the-wild-side
+sort_title: WALK ON THE WILD SIDE
+authors: Lou Reed
+original_artist: Lou Reed
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Walk on the Wild Side
+    appears_on: []
+    played_live:
+    - show_slug: luna-1995-10-16-slims-san-francisco-ca-usa
+      date: '1995-10-16'
+      year: 1995
+      venue: Slims
+      city: San Francisco
+      country: USA
+      position: 16
+    - show_slug: luna-1995-10-26-kcrw-santa-monica-ca-usa
+      date: '1995-10-26'
+      year: 1995
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 3
+    - show_slug: luna-1996-02-11-point-atlanta-ga-usa
+      date: '1996-02-11'
+      year: 1996
+      venue: Point
+      city: Atlanta
+      country: USA
+      position: 15
+    - show_slug: luna-2023-01-11-deer-lodge-ojai-ca-usa
+      date: '2023-01-11'
+      year: 2023
+      venue: Deer Lodge
+      city: Ojai
+      country: USA
+      position: 16
+    - show_slug: luna-2023-01-14-the-chapel-san-francisco-ca-usa
+      date: '2023-01-14'
+      year: 2023
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 17
+    - show_slug: luna-2023-01-18-tractor-tavern-seattle-wa-usa
+      date: '2023-01-18'
+      year: 2023
+      series: Luna play Lunafied
+      venue: Tractor Tavern
+      city: Seattle
+      country: USA
+      position: 13
+    - show_slug: luna-2023-10-26-la-rambleta-valencia-spain
+      date: '2023-10-26'
+      year: 2023
+      venue: La Rambleta
+      city: Valencia
+      country: Spain
+      position: 14
+    - show_slug: luna-2023-12-31-the-fillmore-san-francisco-ca-usa
+      date: '2023-12-31'
+      year: 2023
+      venue: The Fillmore
+      city: San Francisco
+      country: USA
+      position: 19
+    - show_slug: luna-2024-03-14-vivarium-milwaukee-wi-usa
+      date: '2024-03-14'
+      year: 2024
+      venue: Vivarium
+      city: Milwaukee
+      country: USA
+      position: 21
+    - show_slug: luna-2024-03-16-lincoln-hall-chicago-il-usa
+      date: '2024-03-16'
+      year: 2024
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 18

@@ -1,0 +1,46 @@
+title: Million Dollar Doll
+slug: million-dollar-doll
+sort_title: MILLION DOLLAR DOLL
+authors: Britta Phillips
+original_artist: Britta Phillips
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Million Dollar Doll
+    appears_on:
+    - release_title: Music From The Motion Picture Frances Ha
+      release_slug: music-from-the-motion-picture-frances-ha
+      release_type: Misc
+      year: 2013
+      format: LP
+      edition_year: 2013
+      label: ABKCO
+      catalogue_no: '89761'
+      side: A
+      position: 1
+    played_live: []
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Million Dollar Doll
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 4
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 4
+    played_live: []

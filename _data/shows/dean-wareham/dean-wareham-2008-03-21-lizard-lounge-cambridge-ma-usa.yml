@@ -1,0 +1,43 @@
+slug: dean-wareham-2008-03-21-lizard-lounge-cambridge-ma-usa
+date: '2008-03-21'
+year: 2008
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+series: Black Postcards book tour
+notes: Book signing and performance - 7:00pm
+setlist_source: Galaxie 500 Mailing List
+venue_name: Lizard Lounge
+venue_slug: lizard-lounge-cambridge-ma-usa
+city: Cambridge
+state: MA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 2
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 3
+  raw_title: Into The Fold
+  canonical_title: Into the Fold
+  song_slug: into-the-fold
+  full_title: Into the Fold
+- position: 4
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 5
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste

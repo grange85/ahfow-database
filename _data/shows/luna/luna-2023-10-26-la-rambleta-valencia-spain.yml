@@ -1,0 +1,103 @@
+slug: luna-2023-10-26-la-rambleta-valencia-spain
+date: '2023-10-26'
+year: 2023
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+support: The Standby Connection
+ticket_url: https://houstonpartymusic.com/tour-dates/810
+notes: Perfect Days fesival celebrating Lou Reed, Luna will perform a special set.
+venue_name: La Rambleta
+venue_slug: la-rambleta-valencia-spain
+city: Valencia
+country: Spain
+venue_url: http://www.larambleta.com/eventos/ver/perfect-days
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Ocean
+  canonical_title: Ocean
+  song_slug: ocean
+  full_title: Ocean
+- position: 2
+  raw_title: Lonesome Cowboy Bill
+  canonical_title: Lonesome Cowboy Bill
+  song_slug: lonesome-cowboy-bill
+  full_title: Lonesome Cowboy Bill
+- position: 3
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 4
+  raw_title: New Sensations
+  canonical_title: New Sensations
+  song_slug: new-sensations
+  full_title: New Sensations
+- position: 5
+  raw_title: Ride Into The Sun
+  canonical_title: Ride Into the Sun
+  song_slug: ride-into-the-sun
+  full_title: Ride Into the Sun
+- position: 6
+  raw_title: Satellite of Love
+  canonical_title: Satellite of Love
+  song_slug: satellite-of-love
+  full_title: Satellite of Love
+- position: 7
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 8
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 9
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 10
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 11
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 12
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 13
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 14
+  raw_title: Walk on The Wild Side
+  canonical_title: Walk on the Wild Side
+  song_slug: walk-on-the-wild-side
+  full_title: Walk on the Wild Side
+- position: 15
+  raw_title: ^encore
+  annotation: encore
+- position: 16
+  raw_title: I'm Sticking With You
+  canonical_title: I'm Sticking With You
+  song_slug: im-sticking-with-you
+  full_title: I'm Sticking With You
+- position: 17
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

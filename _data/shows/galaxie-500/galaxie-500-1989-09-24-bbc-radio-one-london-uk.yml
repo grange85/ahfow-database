@@ -1,0 +1,38 @@
+slug: galaxie-500-1989-09-24-bbc-radio-one-london-uk
+date: '1989-09-24'
+year: 1989
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: 'John Peel Session Recorded: 24 September 1989 Transmitted: 17 October 1989  Radio
+  session'
+venue_name: BBC Radio One
+venue_slug: bbc-radio-one-london-uk
+city: London
+country: UK
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 3
+  raw_title: Decomposing Trees
+  canonical_title: Decomposing Trees
+  song_slug: decomposing-trees
+  full_title: Decomposing Trees
+- position: 4
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste

@@ -1,0 +1,242 @@
+title: A Shining Dream
+slug: a-shining-dream
+sort_title: SHINING DREAM
+authors: Krukowski/Yang
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: A Shining Dream
+    appears_on:
+    - release_title: Fortune
+      release_slug: fortune
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      position: 5
+    - release_title: Fortune
+      release_slug: fortune
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: 20|20|20
+      catalogue_no: 202020.15LP
+      side: A
+      position: 5
+    - release_title: Damon & Naomi in The 21st Century
+      release_slug: damon-and-naomi-in-the-21st-century
+      release_type: Album
+      year: 2019
+      format: Digital
+      edition_year: 2019
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 8
+    played_live:
+    - show_slug: damon-and-naomi-2014-05-15-mono-glasgow-uk
+      date: '2014-05-15'
+      year: 2014
+      series: Fortune
+      venue: Mono
+      city: Glasgow
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2014-05-18-cafe-oto-london-uk
+      date: '2014-05-18'
+      year: 2014
+      series: Fortune
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2014-05-19-clwb-ifor-bach-cardiff-uk
+      date: '2014-05-19'
+      year: 2014
+      series: Fortune
+      venue: Clwb Ifor Bach
+      city: Cardiff
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2014-05-20-talking-heads-southampton-uk
+      date: '2014-05-20'
+      year: 2014
+      series: Fortune
+      venue: Talking Heads
+      city: Southampton
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2014-09-19-film-box-quartiers-pop-montreal-quebec-canada
+      date: '2014-09-19'
+      year: 2014
+      series: Fortune
+      venue: Film BOX (Quartiers POP)
+      city: Montreal
+      country: Canada
+      position: 5
+    - show_slug: damon-and-naomi-2014-10-02-carpenter-center-for-the-visual-arts-harvard-university-cambridge-ma-usa
+      date: '2014-10-02'
+      year: 2014
+      series: Fortune
+      venue: Carpenter Center for the Visual Arts, Harvard University
+      city: Cambridge
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2015-04-07-gullivers-manchester-uk
+      date: '2015-04-07'
+      year: 2015
+      series: Fortune
+      venue: Gullivers
+      city: Manchester
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2015-04-08-green-mind--the-portland-arms-cambridge-uk
+      date: '2015-04-08'
+      year: 2015
+      series: Fortune
+      venue: Green Mind @ The Portland Arms
+      city: Cambridge
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2015-04-09-rough-trade-east-london-uk
+      date: '2015-04-09'
+      year: 2015
+      series: Fortune
+      venue: Rough Trade East
+      city: London
+      country: UK
+      position: 7
+    - show_slug: damon-and-naomi-2015-04-11-salon-iksv-istanbul-turkey
+      date: '2015-04-11'
+      year: 2015
+      venue: Salon IKSV
+      city: Istanbul
+      country: Turkey
+      position: 8
+    - show_slug: damon-and-naomi-2015-04-18-emp-museum-seattle-wa-usa
+      date: '2015-04-18'
+      year: 2015
+      series: Fortune
+      venue: EMP Museum
+      city: Seattle
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2015-08-20-cinefamily-los-angeles-ca-usa
+      date: '2015-08-20'
+      year: 2015
+      series: Fortune
+      venue: Cinefamily
+      city: Los Angeles
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2015-09-07-veloso-seoul-south-korea
+      date: '2015-09-07'
+      year: 2015
+      series: Fortune
+      venue: Veloso
+      city: Seoul
+      country: South Korea
+      position: 5
+    - show_slug: damon-and-naomi-2015-09-10-vacant-tokyo-japan
+      date: '2015-09-10'
+      year: 2015
+      series: Fortune
+      venue: Vacant
+      city: Tokyo
+      country: Japan
+      position: 5
+    - show_slug: damon-and-naomi-2015-12-04-legacy-mini-taipei-taiwan
+      date: '2015-12-04'
+      year: 2015
+      venue: Legacy Mini
+      city: Taipei
+      country: Taiwan
+      position: 5
+    - show_slug: damon-and-naomi-2015-12-16-casa-del-popolo-montreal-quebec-canada
+      date: '2015-12-16'
+      year: 2015
+      series: Fortune
+      venue: Casa del Popolo
+      city: Montreal
+      country: Canada
+      position: 5
+    - show_slug: damon-and-naomi-2016-04-17-all-tomorrows-parties-20-pontins-prestatyn-uk
+      date: '2016-04-17'
+      year: 2016
+      series: Fortune
+      event: All Tomorrows Parties 2.0
+      venue: Pontins
+      city: Prestatyn
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2016-04-19-clamores-madrid-spain
+      date: '2016-04-19'
+      year: 2016
+      series: Fortune
+      venue: Clamores
+      city: Madrid
+      country: Spain
+      position: 5
+    - show_slug: damon-and-naomi-2016-04-22-gruner-salon-berlin-germany
+      date: '2016-04-22'
+      year: 2016
+      series: Fortune
+      venue: Grüner Salon
+      city: Berlin
+      country: Germany
+      position: 5
+    - show_slug: damon-and-naomi-2016-09-13-yu-yin-tang-shanghai-china
+      date: '2016-09-13'
+      year: 2016
+      venue: Yu Yin Tang
+      city: Shanghai
+      country: China
+      position: 9
+    - show_slug: damon-and-naomi-2016-11-04-the-guild-cinema-albuquerque-nm-usa
+      date: '2016-11-04'
+      year: 2016
+      series: Fortune
+      venue: The Guild Cinema
+      city: Albuquerque
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 4
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 4
+    - show_slug: damon-and-naomi-2018-11-16-union-pool-brooklyn-ny-usa
+      date: '2018-11-16'
+      year: 2018
+      venue: Union Pool
+      city: Brooklyn
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2019-04-11-zebulon-los-angeles-ca-usa
+      date: '2019-04-11'
+      year: 2019
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2026-01-05-cafe-oto-london-uk
+      date: '2026-01-05'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 4

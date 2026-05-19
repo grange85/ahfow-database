@@ -1,0 +1,53 @@
+slug: luna-1997-08-03-idiots-delight-wnew-new-york-ny-usa
+date: '1997-08-03'
+year: 1997
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+notes: 'TRUE'
+venue_name: Idiots Delight WNEW
+venue_slug: idiots-delight-wnew-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Beggar's Bliss
+  canonical_title: Beggar's Bliss
+  song_slug: beggars-bliss
+  full_title: Beggar's Bliss
+- position: 2
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 3
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 4
+  raw_title: Beautiful View
+  canonical_title: Beautiful View
+  song_slug: beautiful-view
+  full_title: Beautiful View
+- position: 5
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 6
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 7
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer

@@ -1,0 +1,367 @@
+title: Here She Comes Now
+slug: here-she-comes-now
+sort_title: HERE SHE COMES NOW
+authors: Velvet Underground
+original_artist: Velvet Underground, The
+originals_url: https://www.fullofwishes.co.uk/2013/07/31/originals-here-she-comes-now-by-the-velvet-underground-covered-by-galaxie-500/
+lyrics: 'Now, if she ever comes now now
+
+  If she ever comes now now
+
+  If she ever comes now now
+
+  Now, if she ever comes now now
+
+  If she ever comes now now
+
+  If she ever comes now now
+
+
+  Oh, she looks so good
+
+  And oh, she''s made out of wood
+
+  Just look and see
+
+  She''s made out of wood
+
+  Just look and see now now now
+
+  Made out of wood now'
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Here She Comes Now
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 10
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 10
+    - release_title: Fourth of July
+      release_slug: fourth-of-july
+      release_type: Single
+      year: 1990
+      format: '12'
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: RTT249
+      side: B
+      position: 2
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 10
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: Domino
+      position: 18
+    - release_title: Fourth of July
+      release_slug: fourth-of-july
+      release_type: Single
+      year: 1990
+      format: CD
+      country: GB
+      edition_year: 1990
+      label: Rough Trade
+      catalogue_no: RTT249CD
+      position: 2
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1121
+      position: 10
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1370
+      position: 10
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 10
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.09'
+      position: 18
+    - release_title: This Is Our Music
+      release_slug: this-is-our-music
+      release_type: Album
+      year: 1990
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10358
+      position: 10
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: C
+      position: 33
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1371
+      position: 8
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 24
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2020
+      label: 20|20|20
+      catalogue_no: '202020.15'
+      side: C
+      position: 8
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 24
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: D
+      position: 24
+    - release_title: Copenhagen
+      release_slug: copenhagen
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10373
+      position: 8
+    played_live:
+    - show_slug: galaxie-500-1989-11-26-trust-nurenburg-germany
+      date: '1989-11-26'
+      year: 1989
+      venue: Trust
+      city: Nurenburg
+      country: Germany
+      position: 11
+    - show_slug: galaxie-500-1989-12-02-forum-enger-germany
+      date: '1989-12-02'
+      year: 1989
+      venue: Forum
+      city: Enger
+      country: Germany
+      position: 12
+    - show_slug: galaxie-500-1989-12-08-tech-glasgow-uk
+      date: '1989-12-08'
+      year: 1989
+      venue: Tech
+      city: Glasgow
+      country: UK
+      position: 7
+    - show_slug: galaxie-500-1990-01-23-the-40-watt-club-athens-ga-usa
+      date: '1990-01-23'
+      year: 1990
+      venue: The 40 Watt Club
+      city: Athens
+      country: USA
+      position: 9
+    - show_slug: galaxie-500-1990-02-11-falcon-london-uk
+      date: '1990-02-11'
+      year: 1990
+      venue: Falcon
+      city: London
+      country: UK
+      position: 4
+    - show_slug: galaxie-500-1990-02-19-tt-the-bears-cambridge-ma-usa
+      date: '1990-02-19'
+      year: 1990
+      venue: TT the Bears
+      city: Cambridge
+      country: USA
+      position: 1
+    - show_slug: galaxie-500-1990-02-24-maxwells-hoboken-nj-usa
+      date: '1990-02-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 8
+    - show_slug: galaxie-500-1990-03-16-paradise-boston-ma-usa
+      date: '1990-03-16'
+      year: 1990
+      venue: Paradise
+      city: Boston
+      country: USA
+      position: 2
+    - show_slug: galaxie-500-1990-03-23-rocket-providence-ri-usa
+      date: '1990-03-23'
+      year: 1990
+      venue: Rocket
+      city: Providence
+      country: USA
+      position: 9
+    - show_slug: galaxie-500-1990-03-24-maxwells-hoboken-nj-usa
+      date: '1990-03-24'
+      year: 1990
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 9
+    - show_slug: galaxie-500-1990-05-16-upstairs-at-the-middle-east-cambridge-ma-usa
+      date: '1990-05-16'
+      year: 1990
+      venue: Upstairs at The Middle East
+      city: Cambridge
+      country: USA
+      position: 1
+      annotation: Velvet Underground cover
+    - show_slug: galaxie-500-1990-10-15-kennel-club-san-francisco-ca-usa
+      date: '1990-10-15'
+      year: 1990
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 11
+    - show_slug: galaxie-500-1990-10-19-cbgbs-new-york-ny-usa
+      date: '1990-10-19'
+      year: 1990
+      venue: CBGBs
+      city: New York
+      country: USA
+      position: 11
+    - show_slug: galaxie-500-1990-11-15-ulu-london-uk
+      date: '1990-11-15'
+      year: 1990
+      venue: ULU
+      city: London
+      country: UK
+      position: 12
+    - show_slug: galaxie-500-1990-11-26-batschkapp-frankfurt-germany
+      date: '1990-11-26'
+      year: 1990
+      venue: Batschkapp
+      city: Frankfurt
+      country: Germany
+      position: 11
+    - show_slug: galaxie-500-1990-11-30-markthalle-hamburg-germany
+      date: '1990-11-30'
+      year: 1990
+      venue: Markthalle
+      city: Hamburg
+      country: Germany
+      position: 13
+    - show_slug: galaxie-500-1990-12-01-barbue-copenhagen-denmark
+      date: '1990-12-01'
+      year: 1990
+      venue: Barbue
+      city: Copenhagen
+      country: Denmark
+      position: 8
+  - version_tag: UK TV
+    full_title: Here She Comes Now [UK TV]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: A
+      position: 7
+    played_live: []
+  - version_tag: University of London, UK - 1990-11-15
+    full_title: Here She Comes Now [University of London, UK - 1990-11-15]
+    appears_on:
+    - release_title: Don't Let Our Youth Go to Waste
+      release_slug: dont-let-our-youth-go-to-waste
+      release_type: Misc
+      year: 2004
+      format: DVD
+      country: US
+      edition_year: 2004
+      label: Plexifilm
+      side: B
+      position: 45
+    played_live: []

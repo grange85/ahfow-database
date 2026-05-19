@@ -1,0 +1,107 @@
+slug: luna-2024-03-16-lincoln-hall-chicago-il-usa
+date: '2024-03-16'
+year: 2024
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums
+support: Twin Coast
+ticket_url: https://lh-st.com/shows/03-15-2024-luna/
+venue_name: Lincoln Hall
+venue_slug: lincoln-hall-chicago-il-usa
+city: Chicago
+state: IL
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 2
+  raw_title: Four Thousand Days
+  canonical_title: Four Thousand Days
+  song_slug: four-thousand-days
+  full_title: Four Thousand Days
+- position: 3
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 4
+  raw_title: Bewitched
+  canonical_title: Bewitched
+  song_slug: bewitched
+  full_title: Bewitched
+- position: 5
+  raw_title: Still at Home
+  canonical_title: Still at Home
+  song_slug: still-at-home
+  full_title: Still at Home
+- position: 6
+  raw_title: Bobby Peru
+  canonical_title: Bobby Peru
+  song_slug: bobby-peru
+  full_title: Bobby Peru
+- position: 7
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 8
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 9
+  raw_title: New Sensations
+  canonical_title: New Sensations
+  song_slug: new-sensations
+  full_title: New Sensations
+- position: 10
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 11
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 12
+  raw_title: What Goes On
+  canonical_title: What Goes On
+  song_slug: what-goes-on
+  full_title: What Goes On
+- position: 13
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 14
+  raw_title: ^encore
+  annotation: encore
+- position: 15
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 16
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 17
+  raw_title: Femme Fatale
+  canonical_title: Femme Fatale
+  song_slug: femme-fatale
+  full_title: Femme Fatale
+- position: 18
+  raw_title: Walk on the Wild Side
+  canonical_title: Walk on the Wild Side
+  song_slug: walk-on-the-wild-side
+  full_title: Walk on the Wild Side

@@ -1,0 +1,91 @@
+slug: luna-2002-10-27-paradiso-amsterdam-the-netherlands
+date: '2002-10-27'
+year: 2002
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar, vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+venue_name: Paradiso
+venue_slug: paradiso-amsterdam-the-netherlands
+city: Amsterdam
+country: The Netherlands
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 2
+  raw_title: Black Champagne
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne
+- position: 3
+  raw_title: Pup Tent
+  canonical_title: Pup Tent
+  song_slug: pup-tent
+  full_title: Pup Tent
+- position: 4
+  raw_title: Mermaid Eyes
+  canonical_title: Mermaid Eyes
+  song_slug: mermaid-eyes
+  full_title: Mermaid Eyes
+- position: 5
+  raw_title: Weird And Woozy
+  canonical_title: Weird and Woozy
+  song_slug: weird-and-woozy
+  full_title: Weird and Woozy
+- position: 6
+  raw_title: Astronaut
+  canonical_title: Astronaut
+  song_slug: astronaut
+  full_title: Astronaut
+- position: 7
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 8
+  raw_title: Black Postcards
+  canonical_title: Black Postcards
+  song_slug: black-postcards
+  full_title: Black Postcards
+- position: 9
+  raw_title: Dear Diary
+  canonical_title: Dear Diary
+  song_slug: dear-diary
+  full_title: Dear Diary
+- position: 10
+  raw_title: Rememories
+  canonical_title: Rememories
+  song_slug: rememories
+  full_title: Rememories
+- position: 11
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 12
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 13
+  raw_title: Fuzzy Wuzzy
+  canonical_title: Fuzzy Wuzzy
+  song_slug: fuzzy-wuzzy
+  full_title: Fuzzy Wuzzy
+- position: 14
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 15
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels

@@ -1,0 +1,95 @@
+title: House of Glass
+slug: house-of-glass
+sort_title: HOUSE OF GLASS
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: House of Glass
+    appears_on:
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: '202020.01'
+      position: 4
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Sonic Unyon
+      catalogue_no: SUNCD105
+      position: 4
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: Acuarela Discos
+      catalogue_no: NOIS 1052
+      position: 4
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: CD
+      edition_year: 2005
+      label: P-Vine/20|20|20
+      catalogue_no: PCD 23593
+      position: 4
+    - release_title: The Earth is Blue
+      release_slug: the-earth-is-blue
+      release_type: Album
+      year: 2005
+      format: LP
+      edition_year: 2005
+      label: 20|20|20
+      catalogue_no: 202020.01LP
+      side: A
+      position: 4
+    - release_title: Shibuya O Nest, Tokyo, Japan - June 24, 2005
+      release_slug: shibuya-o-nest-tokyo-japan-june-24-2005
+      release_type: Misc
+      year: 2006
+      format: DVD
+      edition_year: 2006
+      label: (no label)
+      side: A
+      position: 2
+    played_live:
+    - show_slug: damon-and-naomi-2005-05-22-music-lovers-field-companion-music-festival-the-sage-gateshead-uk
+      date: '2005-05-22'
+      year: 2005
+      event: Music Lovers Field Companion music festival
+      venue: The Sage
+      city: Gateshead
+      country: UK
+      position: 5
+    - show_slug: damon-and-naomi-2005-06-23-nhk-livebeat-tokyo-japan
+      date: '2005-06-23'
+      year: 2005
+      venue: NHK Livebeat
+      city: Tokyo
+      country: Japan
+      position: 3
+    - show_slug: damon-and-naomi-2005-06-24-shibuya-o-nest-tokyo-japan
+      date: '2005-06-24'
+      year: 2005
+      venue: Shibuya O-Nest
+      city: Tokyo
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2006-04-23-terrastock-providence-ri-usa
+      date: '2006-04-23'
+      year: 2006
+      venue: Rogue Lounge
+      city: Providence
+      country: USA
+      position: 1

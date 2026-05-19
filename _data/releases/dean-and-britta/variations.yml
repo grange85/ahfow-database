@@ -1,0 +1,48 @@
+title: Variations
+slug: variations
+release_type: Single
+year: 2008
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: CD
+  year: 2008
+  label: (no label)
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_variations.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Singer Sing
+    slug: singer-sing
+    full_title: Singer Sing
+  - position: 2
+    side_position: 2
+    title: Say Goodnight
+    slug: say-goodnight
+    full_title: Say Goodnight
+  - position: 3
+    side_position: 3
+    title: Our Love Will Still Be There
+    slug: our-love-will-still-be-there
+    full_title: Our Love Will Still be There
+  - position: 4
+    side_position: 4
+    title: Wait for Me
+    slug: wait-for-me
+    full_title: Wait For Me
+  - position: 5
+    side_position: 5
+    title: Words You Used to Say
+    slug: words-you-used-to-say
+    full_title: Words You Used to Say
+  - position: 6
+    side_position: 6
+    title: Song of You
+    slug: song-of-you
+    full_title: Song of You
+  - position: 7
+    side_position: 7
+    title: Singer Sing
+    slug: singer-sing
+    full_title: Singer Sing

@@ -1,0 +1,63 @@
+slug: galaxie-500-1988-12-13-cbgbs-new-york-ny-usa
+date: '1988-12-13'
+year: 1988
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Naomi Yang - bass/vocals|Damon Krukowski
+  - drums
+notes: Benefit for See/Hear. Supporting Sonic Youth and B.A.L.L.
+setlist_source: recording
+venue_name: CBGBs
+venue_slug: cbgbs-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Galaxie 500
+act_slug: galaxie-500
+setlist:
+- position: 1
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 2
+  raw_title: Oblivious
+  canonical_title: Oblivious
+  song_slug: oblivious
+  full_title: Oblivious
+- position: 3
+  raw_title: Parking Lot
+  canonical_title: Parking Lot
+  song_slug: parking-lot
+  full_title: Parking Lot
+- position: 4
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 5
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 6
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 7
+  raw_title: It's Getting Late
+  canonical_title: It's Getting Late
+  song_slug: its-getting-late
+  full_title: It's Getting Late
+- position: 8
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+audio:
+- audio_type: Download
+  url: https://www.fullofwishes.co.uk/2021/03/25/audio-full-galaxie-500-show-cbgbs-1988/
+  label: A Head Full of Wishes

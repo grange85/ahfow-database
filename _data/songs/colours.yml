@@ -1,0 +1,32 @@
+title: Colours
+slug: colours
+sort_title: COLOURS
+authors: Donovan Leitch
+original_artist: Donovan
+originals_url: https://www.fullofwishes.co.uk/2013/04/17/originals-colours-by-donovan-covered-by-dean-britta/
+is_cover: true
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Colours
+    appears_on:
+    - release_title: L'Avventura
+      release_slug: lavventura
+      release_type: Album
+      year: 2003
+      format: 2xLP
+      edition_year: 2024
+      label: Double Feature
+      side: D
+      position: 19
+    - release_title: Words You Used to Say
+      release_slug: words-you-used-to-say
+      release_type: Single
+      year: 2006
+      format: CD
+      edition_year: 2006
+      label: Zoë
+      catalogue_no: 01143-2009-2
+      position: 4
+    played_live: []

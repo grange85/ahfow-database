@@ -1,0 +1,55 @@
+slug: damon-and-naomi-1997-09-03-threadwaxing-space-new-york-ny-usa
+date: '1997-09-03'
+year: 1997
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals|Masaki
+  Batoh|Tom Rapp
+venue_name: Threadwaxing Space
+venue_slug: threadwaxing-space-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 2
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 3
+  raw_title: How Long
+  canonical_title: How Long
+  song_slug: how-long
+  full_title: How Long
+- position: 4
+  raw_title: Translucent Carriages
+  canonical_title: Translucent Carriages
+  song_slug: translucent-carriages
+  full_title: Translucent Carriages
+- position: 5
+  raw_title: Tour of the World
+  canonical_title: Tour of the World
+  song_slug: tour-of-the-world
+  full_title: Tour of the World
+- position: 6
+  raw_title: Awake in a Muddle
+  canonical_title: Awake in a Muddle
+  song_slug: awake-in-a-muddle
+  full_title: Awake in a Muddle
+- position: 7
+  raw_title: ^[unknown]
+  annotation: '[unknown'
+- position: 8
+  raw_title: This Car Climbed Mt. Washington
+  canonical_title: This Car Climbed Mt. Washington
+  song_slug: this-car-climbed-mt-washington
+  full_title: This Car Climbed Mt. Washington

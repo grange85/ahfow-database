@@ -1,0 +1,51 @@
+slug: dean-and-britta-2009-10-17-pure-pop-records-melbourne-victoria-australia
+date: '2009-10-17'
+year: 2009
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: in-store performance with Sand Pebbles
+venue_name: Pure Pop Records
+venue_slug: pure-pop-records-melbourne-victoria-australia
+city: Melbourne
+state: Victoria
+country: Australia
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 2
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 3
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 4
+  raw_title: Not a Young Man Anymore
+  canonical_title: Not a Young Man Anymore
+  song_slug: not-a-young-man-anymore
+  full_title: Not a Young Man Anymore
+- position: 5
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 6
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+audio:
+- audio_type: Download
+  url: https://www.fullofwishes.co.uk/2021/04/14/audio-full-show-dean-and-britta-instore-melbourne-2009/
+  label: A Head Full of Wishes

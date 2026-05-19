@@ -1,0 +1,62 @@
+title: On the Aventine
+slug: on-the-aventine
+sort_title: ON THE AVENTINE
+authors: Krukowski/Yang
+lyrics: 'Cheap champagne instead of rain
+
+  A saffron dream come what will
+
+  The birds that sing in the middle of the night
+
+  While the roses bloom on the hill
+
+  Peace within and traffic''s outside
+
+  The markets are closed
+
+  The day we sing in the middle of the night
+
+  While the roses bloom
+
+  A lightning storm to keep you warm
+
+  Yellow light standing still
+
+  On the Aventine
+
+  On the Aventine Hill'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: On The Aventine
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 3
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 3
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Misc
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 4
+    played_live: []

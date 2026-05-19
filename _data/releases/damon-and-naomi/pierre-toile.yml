@@ -1,0 +1,74 @@
+title: Pierre Étoile
+slug: pierre-toile
+release_type: Single
+year: 1991
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: '12'
+  year: 1991
+  label: Rough Trade
+  catalogue_no: R2720
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: In the Sun
+    slug: in-the-sun
+    full_title: In the Sun
+  - position: 2
+    side: A
+    side_position: 2
+    title: Nineteen Sixty-Nine
+    slug: nineteen-sixty-nine
+    full_title: Nineteen Sixty-Nine
+  - position: 3
+    side: B
+    side_position: 1
+    title: This Car Climbed Mt. Washington
+    slug: this-car-climbed-mt-washington
+    full_title: This Car Climbed Mt. Washington
+- format: CD
+  year: 1991
+  label: Rough Trade
+  catalogue_no: R2723
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: In the Sun
+    slug: in-the-sun
+    full_title: In the Sun
+  - position: 2
+    side_position: 2
+    title: Nineteen Sixty-Nine
+    slug: nineteen-sixty-nine
+    full_title: Nineteen Sixty-Nine
+  - position: 3
+    side_position: 3
+    title: This Car Climbed Mt. Washington
+    slug: this-car-climbed-mt-washington
+    full_title: This Car Climbed Mt. Washington
+- format: CD
+  year: 1997
+  label: Elefant
+  catalogue_no: ER-306
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-pierre-etoile-elefant.jpg
+  tracks:
+  - position: 1
+    side_position: 1
+    title: In the Sun
+    slug: in-the-sun
+    full_title: In the Sun
+  - position: 2
+    side_position: 2
+    title: Nineteen Sixty-Nine
+    slug: nineteen-sixty-nine
+    full_title: Nineteen Sixty-Nine
+  - position: 3
+    side_position: 3
+    title: This Car Climbed Mt. Washington
+    slug: this-car-climbed-mt-washington
+    full_title: This Car Climbed Mt. Washington

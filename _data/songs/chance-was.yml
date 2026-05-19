@@ -1,0 +1,30 @@
+title: Chance Was
+slug: chance-was
+sort_title: CHANCE WAS
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Chance Was
+    appears_on:
+    - release_title: Will They Turn You On Or Will They Turn On You
+      release_slug: will-they-turn-you-on-or-will-they-turn-on-you
+      release_type: Misc
+      year: 1995
+      format: CD
+      edition_year: 1995
+      label: Twisted Village
+      catalogue_no: TW-1035
+      position: 3
+    - release_title: Will They Turn You On Or Will They Turn On You
+      release_slug: will-they-turn-you-on-or-will-they-turn-on-you
+      release_type: Misc
+      year: 1995
+      format: LP
+      edition_year: 1995
+      label: Ché
+      catalogue_no: CHE 30LP
+      side: A
+      position: 3
+    played_live: []

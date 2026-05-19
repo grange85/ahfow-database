@@ -1,0 +1,361 @@
+title: Math Wiz
+slug: math-wiz
+sort_title: MATH WIZ
+lyrics: 'Where is he going?
+
+  What has he done?
+
+  What''s to become of him
+
+  I wrote a speech to my dad
+
+  Twenty-one pages long
+
+  He twisted my jokes and swallowed their meanings
+
+
+  I lay awake counting one, two and three,
+
+  It''s alright, it''s alright
+
+  I fell asleep
+
+  Counting eight, ten and four
+
+  it''s okay
+
+
+  A twelve year old math wiz
+
+  Came to me in my sleep
+
+  He knew all the answers
+
+  Which he kept to himself
+
+  He said I''d hate to be you
+
+  When the big day comes
+
+  The look on your face
+
+  Will be priceless'
+is_cover: false
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Math Wiz
+    appears_on:
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQCD209
+      position: 7
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: GB
+      edition_year: 1999
+      label: Beggars Banquet
+      catalogue_no: BBQLP209
+      side: B
+      position: 7
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: CD
+      country: US
+      edition_year: 1999
+      label: Jericho
+      catalogue_no: 90003-2
+      position: 7
+    - release_title: The Days of Our Nights
+      release_slug: the-days-of-our-nights
+      release_type: Album
+      year: 1999
+      format: LP
+      country: US
+      edition_year: 2023
+      label: Real Gone Music
+      catalogue_no: RGM-1574
+      side: B
+      position: 7
+    played_live:
+    - show_slug: luna-1999-12-10-whfs-washington-dc-usa
+      date: '1999-12-10'
+      year: 1999
+      venue: WHFS
+      city: Washington DC
+      country: USA
+      position: 4
+    - show_slug: luna-2000-04-19-fletchers-baltimore-md-usa
+      date: '2000-04-19'
+      year: 2000
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 6
+    - show_slug: luna-2000-05-27-maxwells-hoboken-nj-usa
+      date: '2000-05-27'
+      year: 2000
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 3
+    - show_slug: luna-2001-09-29-teatro-del-circulo-montevideo-uruguay
+      date: '2001-09-29'
+      year: 2001
+      venue: Teatro del Circulo
+      city: Montevideo
+      country: Uruguay
+      position: 3
+    - show_slug: luna-2001-12-31-2000-knitting-factory-new-york-ny-usa
+      date: '2001-12-31'
+      year: 2001
+      venue: Knitting Factory
+      city: New York
+      country: USA
+      position: 3
+    - show_slug: luna-2002-11-29-bowery-ballroom-new-york-ny-usa
+      date: '2002-11-29'
+      year: 2002
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: luna-2002-12-31-maxwells-hoboken-nj-usa
+      date: '2002-12-31'
+      year: 2002
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 9
+    - show_slug: luna-2003-01-24-fletchers-baltimore-md-usa
+      date: '2003-01-24'
+      year: 2003
+      venue: Fletchers
+      city: Baltimore
+      country: USA
+      position: 2
+    - show_slug: luna-2003-02-02-cats-cradle-carrboro-nc-usa
+      date: '2003-02-02'
+      year: 2003
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 7
+    - show_slug: luna-2003-02-06-abbey-pub-chicago-il-usa
+      date: '2003-02-06'
+      year: 2003
+      venue: Abbey Pub
+      city: Chicago
+      country: USA
+      position: 3
+    - show_slug: luna-2003-02-08-blind-pig-ann-arbor-mi-usa
+      date: '2003-02-08'
+      year: 2003
+      venue: Blind Pig
+      city: Ann Arbor
+      country: USA
+      position: 9
+    - show_slug: luna-2003-07-26-maxwells-hoboken-nj-usa
+      date: '2003-07-26'
+      year: 2003
+      venue: Maxwells
+      city: Hoboken
+      country: USA
+      position: 4
+    - show_slug: luna-2005-02-03-casbah-san-diego-ca-usa
+      date: '2005-02-03'
+      year: 2005
+      venue: Casbah
+      city: San Diego
+      country: USA
+      position: 12
+    - show_slug: luna-2017-11-02-park-west-chicago-il-usa
+      date: '2017-11-02'
+      year: 2017
+      venue: Park West
+      city: Chicago
+      country: USA
+      position: 10
+    - show_slug: luna-2018-08-24-industry-city-courtyard-brooklyn-ny-usa
+      date: '2018-08-24'
+      year: 2018
+      venue: Industry City Courtyard
+      city: Brooklyn
+      country: USA
+      position: 3
+    - show_slug: luna-2018-08-25-the-sinclair-cambridge-ma-usa
+      date: '2018-08-25'
+      year: 2018
+      venue: The Sinclair
+      city: Cambridge
+      country: USA
+      position: 7
+    - show_slug: luna-2018-08-30-claustre-de-sant-domingo-pollenca-mallorca-spain
+      date: '2018-08-30'
+      year: 2018
+      venue: Claustre de Sant Domingo, Pollença
+      city: Mallorca
+      country: Spain
+      position: 4
+    - show_slug: luna-2018-09-01-terraza-malabar-del-veles-e-vents-valencia-spain
+      date: '2018-09-01'
+      year: 2018
+      venue: Terraza Malabar Del Veles E Vents
+      city: Valencia
+      country: Spain
+      position: 6
+    - show_slug: luna-2018-09-03-lux-interior-festival-salao-brazil-coimbra-portugal
+      date: '2018-09-03'
+      year: 2018
+      event: Lux Interior Festival
+      venue: Salao Brazil
+      city: Coimbra
+      country: Portugal
+      position: 5
+    - show_slug: luna-2018-09-05-petit-bain-paris-france
+      date: '2018-09-05'
+      year: 2018
+      venue: Petit Bain
+      city: Paris
+      country: France
+      position: 10
+    - show_slug: luna-2018-09-06-academy-islington-london-uk
+      date: '2018-09-06'
+      year: 2018
+      venue: Academy Islington
+      city: London
+      country: UK
+      position: 4
+    - show_slug: luna-2018-09-10-atlas-aarhus-denmark
+      date: '2018-09-10'
+      year: 2018
+      venue: Atlas
+      city: Aarhus
+      country: Denmark
+      position: 4
+    - show_slug: luna-2018-09-11-loppen-copenhagen-denmark
+      date: '2018-09-11'
+      year: 2018
+      venue: Loppen
+      city: Copenhagen
+      country: Denmark
+      position: 4
+    - show_slug: luna-2018-09-12-debaser-stockholm-sweden
+      date: '2018-09-12'
+      year: 2018
+      venue: Debaser
+      city: Stockholm
+      country: Sweden
+      position: 5
+    - show_slug: luna-2018-09-14-kafe-antzokia-bilbao-spain
+      date: '2018-09-14'
+      year: 2018
+      venue: Kafe Antzokia
+      city: Bilbao
+      country: Spain
+      position: 3
+    - show_slug: luna-2019-04-02-191-toole-tuscon-az-usa
+      date: '2019-04-02'
+      year: 2019
+      venue: 191 Toole
+      city: Tuscon
+      country: USA
+      position: 17
+    - show_slug: luna-2019-10-02-greenwich-odeum-east-greenwich-ri-usa
+      date: '2019-10-02'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Greenwich Odeum
+      city: East Greenwich
+      country: USA
+      position: 13
+    - show_slug: luna-2019-10-10-saturn-birmingham-al-usa
+      date: '2019-10-10'
+      year: 2019
+      venue: Saturn
+      city: Birmingham
+      country: USA
+      position: 8
+    - show_slug: luna-2019-10-12-lincoln-hall-chicago-il-usa
+      date: '2019-10-12'
+      year: 2019
+      series: Luna play Bewitched
+      venue: Lincoln Hall
+      city: Chicago
+      country: USA
+      position: 18
+    - show_slug: luna-2019-10-17-gateway-city-arts-holyoke-ma-usa
+      date: '2019-10-17'
+      year: 2019
+      venue: Gateway City Arts
+      city: Holyoke
+      country: USA
+      position: 16
+    - show_slug: luna-2020-02-05-teragram-ballroom-los-angeles-ca-usa
+      date: '2020-02-05'
+      year: 2020
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 8
+    - show_slug: luna-2023-09-07-the-bowery-ballroom-new-york-ny-usa
+      date: '2023-09-07'
+      year: 2023
+      venue: The Bowery Ballroom
+      city: New York
+      country: USA
+      position: 9
+    - show_slug: luna-2023-10-28-espacio-las-armas-zaragoza-spain
+      date: '2023-10-28'
+      year: 2023
+      venue: Espacio Las Armas
+      city: Zaragoza
+      country: Spain
+      position: 7
+    - show_slug: luna-2023-10-30-dabadaba-san-sebastian-spain
+      date: '2023-10-30'
+      year: 2023
+      venue: Dabadaba
+      city: San Sebastian
+      country: Spain
+      position: 5
+    - show_slug: luna-2023-11-30-the-belly-up-tavern-solana-beach-ca-usa
+      date: '2023-11-30'
+      year: 2023
+      venue: The Belly Up Tavern
+      city: Solana Beach
+      country: USA
+      position: 12
+    - show_slug: luna-2023-12-01-teragram-ballroom-los-angeles-ca-usa
+      date: '2023-12-01'
+      year: 2023
+      venue: Teragram Ballroom
+      city: Los Angeles
+      country: USA
+      position: 11
+    - show_slug: luna-2025-10-31-club-603-in-roland-park-baltimore-md-usa
+      date: '2025-10-31'
+      year: 2025
+      venue: Club 603 in Roland Park
+      city: Baltimore
+      country: USA
+      position: 6
+    - show_slug: luna-2025-12-06-granada-theater-dallas-tx-usa
+      date: '2025-12-06'
+      year: 2025
+      venue: Granada Theater
+      city: Dallas
+      country: USA
+      position: 2

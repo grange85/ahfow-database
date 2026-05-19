@@ -1,0 +1,23 @@
+title: The Last Goodbye
+slug: the-last-goodbye
+sort_title: LAST GOODBYE
+authors: Robbins
+original_artist: Marty Robbins
+originals_url: https://www.fullofwishes.co.uk/2013/11/20/originals-the-beginning-of-goodbye-by-marty-robbins-covered-by-cagney-and-lacee/
+notes: The original title was The Beginning of Goodbye
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Last Goodbye
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 4
+    played_live: []

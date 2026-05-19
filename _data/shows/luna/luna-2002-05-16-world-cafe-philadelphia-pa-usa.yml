@@ -1,0 +1,45 @@
+slug: luna-2002-05-16-world-cafe-philadelphia-pa-usa
+date: '2002-05-16'
+year: 2002
+radio: true
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Lee Wall - drums|Britta
+  Phillips - bass
+notes: From fuzzywuzzy.com  TRUE
+venue_name: World Cafe
+venue_slug: world-cafe-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Anesthesia [instrumental]
+  annotation: instrumental
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 2
+  raw_title: Lovedust
+  canonical_title: Lovedust
+  song_slug: lovedust
+  full_title: Lovedust
+- position: 3
+  raw_title: Black Champagne
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne
+- position: 4
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 5
+  raw_title: Black Champagne [instrumental]
+  annotation: instrumental
+  canonical_title: Black Champagne
+  song_slug: black-champagne
+  full_title: Black Champagne

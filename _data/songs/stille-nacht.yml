@@ -1,0 +1,30 @@
+title: Stille Nacht
+slug: stille-nacht
+sort_title: STILLE NACHT
+authors: Franz Xaver Gruber/Joseph Mohr
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Stille Nacht
+    appears_on:
+    - release_title: A Peace of Us
+      release_slug: a-peace-of-us
+      release_type: Album
+      year: 2024
+      format: LP
+      edition_year: 2024
+      label: Carpark Records
+      side: B
+      position: 7
+    played_live:
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 2

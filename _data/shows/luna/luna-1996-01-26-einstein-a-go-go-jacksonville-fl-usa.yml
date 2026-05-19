@@ -1,0 +1,100 @@
+slug: luna-1996-01-26-einstein-a-go-go-jacksonville-fl-usa
+date: '1996-01-26'
+year: 1996
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Justin Harwood - bass|Sean Eden - guitar|Lee
+  Wall - drums
+venue_name: Einstein A Go Go
+venue_slug: einstein-a-go-go-jacksonville-fl-usa
+city: Jacksonville
+state: FL
+country: USA
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: ^[Instrumental?]
+  annotation: '[Instrumental?'
+- position: 2
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 3
+  raw_title: Crazy People
+  canonical_title: Crazy People
+  song_slug: crazy-people
+  full_title: Crazy People
+- position: 4
+  raw_title: Tracy I Love You
+  canonical_title: Tracy I Love You
+  song_slug: tracy-i-love-you
+  full_title: Tracy I Love You
+- position: 5
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 6
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 7
+  raw_title: We're Both Confused
+  canonical_title: We're Both Confused
+  song_slug: were-both-confused
+  full_title: We're Both Confused
+- position: 8
+  raw_title: Double Feature
+  canonical_title: Double Feature
+  song_slug: double-feature
+  full_title: Double Feature
+- position: 9
+  raw_title: This Time Around
+  canonical_title: This Time Around
+  song_slug: this-time-around
+  full_title: This Time Around
+- position: 10
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 11
+  raw_title: Hedgehog
+  canonical_title: Hedgehog
+  song_slug: hedgehog
+  full_title: Hedgehog
+- position: 12
+  raw_title: California (All The Way)
+  canonical_title: California (All the Way)
+  song_slug: california-all-the-way
+  full_title: California (All The Way)
+- position: 13
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 14
+  raw_title: Indian Summer
+  canonical_title: Indian Summer
+  song_slug: indian-summer
+  full_title: Indian Summer
+- position: 15
+  raw_title: Chinatown
+  canonical_title: Chinatown
+  song_slug: chinatown
+  full_title: Chinatown
+- position: 16
+  raw_title: Tiger Lily
+  canonical_title: Tiger Lily
+  song_slug: tiger-lily
+  full_title: Tiger Lily
+- position: 17
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires

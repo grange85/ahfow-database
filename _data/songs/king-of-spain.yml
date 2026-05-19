@@ -1,0 +1,216 @@
+title: King of Spain
+slug: king-of-spain
+sort_title: KING OF SPAIN
+authors: Krukowski/Wareham/Yang
+lyrics: 'You know I am the King of Spain
+
+  And I know that you can never tear me apart again
+
+  The empty halls I roam around
+
+  And my friends don''t understand I''ll never lose again
+
+
+  You know I am the King of Spain
+
+  Yeah and I know that you can never bring me down again
+
+  Oh yeah I am the King of Spain
+
+  Yeah and I know that you can never tear me
+
+
+  Well, I''m the King of Spain, I''m smilin to
+
+  myself I''m laughin out aloud, I''ll never cry again
+
+  No, I''m the King of Spain, I''m smilin to myself
+
+  They play my favorite song, I''ll never cry again
+
+
+  You know I am the King of Spain
+
+  And I know that you will never bring me down again
+
+  Oh yeah I am the King of Spain
+
+  Yeah and I know that you can never tear me
+
+
+  No I''m the King of Spain, I''m smiling to myself
+
+  I''m laughin out aloud, I''ll never cry again
+
+  Yeah I''m the King of Spain, I''m smilin to myself
+
+  I''m laughin out aloud, cause I''m the King of Spain'
+is_cover: false
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: King of Spain
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: DE
+      edition_year: 1989
+      label: Schemer
+      catalogue_no: SCHEMER 8905/CD
+      position: 10
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 9
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 1997
+      label: Videoarts Music
+      catalogue_no: VACK-1119
+      position: 10
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: JP
+      edition_year: 2008
+      label: Videoarts Music
+      catalogue_no: VACK 1368
+      position: 10
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 9
+    - release_title: Tugboat
+      release_slug: tugboat
+      release_type: Single
+      year: 1988
+      format: '7'
+      country: US
+      edition_year: 1988
+      label: Aurora Records
+      catalogue_no: AU 001
+      side: B
+      position: 2
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1991
+      label: Rough Trade America
+      catalogue_no: R266-2
+      position: 10
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      catalogue_no: RCD 10356
+      position: 10
+    - release_title: Demo tape 2
+      release_slug: demo-tape-2
+      release_type: Misc
+      year: 1988
+      format: MC
+      country: US
+      edition_year: 1988
+      side: A
+      position: 3
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: A
+      position: 10
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xCD
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      position: 6
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xLP
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: A
+      position: 6
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: 2xMC
+      country: US
+      edition_year: 2024
+      label: Silver Current
+      side: A
+      position: 6
+    played_live:
+    - show_slug: galaxie-500-1989-05-12-tt-the-bears-cambridge-ma-usa
+      date: '1989-05-12'
+      year: 1989
+      venue: TT the Bears
+      city: Cambridge
+      country: USA
+      position: 3
+    - show_slug: dean-wareham-2017-07-15-the-chapel-san-francisco-ca-usa
+      date: '2017-07-15'
+      year: 2017
+      series: Dean Wareham plays Galaxie 500
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 10
+    - show_slug: dean-and-britta-2020-07-25-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-07-25'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2026-05-12-niceto-club-buenos-aires-argentina
+      date: '2026-05-12'
+      year: 2026
+      series: Dean Wareham interpreta las canciones de Galaxie 500
+      venue: Niceto Club
+      city: Buenos Aires
+      country: Argentina
+      position: 9

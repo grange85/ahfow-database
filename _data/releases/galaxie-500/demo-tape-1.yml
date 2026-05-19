@@ -1,0 +1,80 @@
+title: Demo tape 1
+slug: demo-tape-1
+release_type: Misc
+year: 1987
+sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
+act: Galaxie 500
+act_slug: galaxie-500
+editions:
+- format: MC
+  country: US
+  year: 1987
+  sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
+  notes: Demo Recorded at 6/8 Studios Engineered by Perkins Barnes
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Walking Song
+    slug: walking-song
+    full_title: Walking Song
+  - position: 2
+    side: A
+    side_position: 2
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 3
+    side: A
+    side_position: 3
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+- format: MC
+  country: US
+  year: 1987
+  sleeve_url: https://static.fullofwishes.co.uk/galaxie500box/images/demotape_lg.gif
+  notes: Demo Recorded at 6/8 Studios Engineered by Perkins Barnes
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Walking Song
+    slug: walking-song
+    full_title: Walking Song
+  - position: 2
+    side: A
+    side_position: 2
+    title: The Other Side
+    slug: the-other-side
+    full_title: The Other Side
+  - position: 3
+    side: A
+    side_position: 3
+    title: On the Floor
+    slug: on-the-floor
+    full_title: On the Floor
+  - position: 4
+    side: A
+    side_position: 4
+    title: Pride
+    slug: pride
+    full_title: Pride
+  - position: 5
+    side: A
+    side_position: 5
+    title: On the Sofa
+    slug: on-the-sofa
+    full_title: On The Sofa
+  - position: 6
+    side: A
+    side_position: 6
+    title: Open Road
+    slug: open-road
+    full_title: Open Road
+  - position: 7
+    side: A
+    side_position: 7
+    title: Well... All Right
+    slug: well-all-right
+    full_title: Well... All Right

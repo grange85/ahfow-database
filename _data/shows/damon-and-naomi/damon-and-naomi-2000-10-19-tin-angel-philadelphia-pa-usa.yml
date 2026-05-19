@@ -1,0 +1,67 @@
+slug: damon-and-naomi-2000-10-19-tin-angel-philadelphia-pa-usa
+date: '2000-10-19'
+year: 2000
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+notes: With Michio Kurihara
+venue_name: Tin Angel
+venue_slug: tin-angel-philadelphia-pa-usa
+city: Philadelphia
+state: PA
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: I Dreamed of the Caucasus
+  canonical_title: I Dreamed of the Caucasus
+  song_slug: i-dreamed-of-the-caucasus
+  full_title: I Dreamed of the Caucasus
+- position: 2
+  raw_title: The New World
+  canonical_title: The New World
+  song_slug: the-new-world
+  full_title: The New World
+- position: 3
+  raw_title: Judah and the Maccabees
+  canonical_title: Judah and the Maccabees
+  song_slug: judah-and-the-maccabees
+  full_title: Judah and the Maccabees
+- position: 4
+  raw_title: New York City
+  canonical_title: New York City
+  song_slug: new-york-city
+  full_title: New York City
+- position: 5
+  raw_title: The Navigator
+  canonical_title: The Navigator
+  song_slug: the-navigator
+  full_title: The Navigator
+- position: 6
+  raw_title: The Mirror Phase
+  canonical_title: The Mirror Phase
+  song_slug: the-mirror-phase
+  full_title: The Mirror Phase
+- position: 7
+  raw_title: Blue Moon
+  canonical_title: Blue Moon
+  song_slug: blue-moon
+  full_title: Blue Moon
+- position: 8
+  raw_title: Turn Of The Century
+  canonical_title: Turn of the Century
+  song_slug: turn-of-the-century
+  full_title: Turn of the Century
+- position: 9
+  raw_title: Tour Of The World
+  canonical_title: Tour of the World
+  song_slug: tour-of-the-world
+  full_title: Tour of the World
+- position: 10
+  raw_title: I Shall Be Released
+  canonical_title: I Shall Be Released
+  song_slug: i-shall-be-released
+  full_title: I Shall Be Released

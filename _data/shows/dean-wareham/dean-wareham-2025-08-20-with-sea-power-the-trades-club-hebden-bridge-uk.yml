@@ -1,0 +1,55 @@
+slug: dean-wareham-2025-08-20-with-sea-power-the-trades-club-hebden-bridge-uk
+date: '2025-08-20'
+year: 2025
+radio: false
+cancelled: false
+i_was_there: true
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards
+support: Sea Power
+series: Dean Wareham and British Sea Power play Galaxie 500
+ticket_url: https://thetradesclub.com/events/seapowertwo
+notes: Rehearsal for Dean Wareham and Sea Power play the songs of Galaxie 500 (supporting
+  a full Sea Power set). Tickets in sale Monday 19th May at 10am
+venue_name: The Trades Club
+venue_slug: the-trades-club-hebden-bridge-uk
+city: Hebden Bridge
+country: UK
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 2
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 3
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 4
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 5
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 6
+  raw_title: Spook
+  canonical_title: Spook
+  song_slug: spook
+  full_title: Spook
+- position: 7
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat

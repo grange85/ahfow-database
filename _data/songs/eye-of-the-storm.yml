@@ -1,0 +1,240 @@
+title: Eye of the Storm
+slug: eye-of-the-storm
+sort_title: EYE OF THE STORM
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Eye of the Storm
+    appears_on:
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: CD/DVD
+      edition_year: 2002
+      label: Sub Pop
+      catalogue_no: SPCD592
+      side: A
+      position: 3
+    - release_title: Song to the Siren
+      release_slug: song-to-the-siren
+      release_type: Album
+      format: LP/DVD
+      edition_year: 2009
+      label: Factory 25
+      catalogue_no: FTF-002
+      side: A
+      position: 3
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Rykodisc
+      catalogue_no: RCD 10438
+      position: 2
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 1998
+      label: Sub Pop
+      catalogue_no: SPCD425
+      position: 2
+    - release_title: Playback Singers
+      release_slug: playback-singers
+      release_type: Album
+      year: 1998
+      format: CD
+      edition_year: 2001
+      label: Trama
+      catalogue_no: T900/399-2
+      position: 2
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Misc
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 1
+    - release_title: The Sub Pop Years
+      release_slug: the-sub-pop-years
+      release_type: Album
+      year: 2009
+      format: LP
+      edition_year: 2009
+      label: 20|20|20
+      catalogue_no: '202020.1'
+      side: A
+      position: 5
+    - release_title: Gathered Leaves
+      release_slug: gathered-leaves
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Sugarbush
+      catalogue_no: SB023
+      side: A
+      position: 1
+    played_live:
+    - show_slug: damon-and-naomi-2000-10-27-schubas-chicago-il-usa
+      date: '2000-10-27'
+      year: 2000
+      venue: Schubas
+      city: Chicago
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2000-10-31-knitting-factory-los-angeles-ca-usa
+      date: '2000-10-31'
+      year: 2000
+      venue: Knitting Factory
+      city: Los Angeles
+      country: USA
+      position: 6
+    - show_slug: damon-and-naomi-2000-11-03-terrastock-iv-showbox-seattle-wa-usa
+      date: '2000-11-03'
+      year: 2000
+      event: Terrastock IV
+      venue: Showbox
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: damon-and-naomi-2001-03-26-casa-del-populo-montreal-quebec-canada
+      date: '2001-03-26'
+      year: 2001
+      venue: Casa del Populo
+      city: Montreal
+      country: Canada
+      position: 5
+    - show_slug: damon-and-naomi-2001-05-15-garage-london-uk
+      date: '2001-05-15'
+      year: 2001
+      venue: Garage
+      city: London
+      country: UK
+      position: 3
+    - show_slug: damon-and-naomi-2001-05-24-ekko-utrecht-netherlands
+      date: '2001-05-24'
+      year: 2001
+      venue: Ekko
+      city: Utrecht
+      country: Netherlands
+      position: 3
+    - show_slug: damon-and-naomi-2001-08-30-bottom-of-the-hill-san-francisco-ca-usa
+      date: '2001-08-30'
+      year: 2001
+      venue: Bottom of the Hill
+      city: San Francisco
+      country: USA
+      position: 3
+    - show_slug: damon-and-naomi-2002-07-12-taku-taku-kyoto-japan
+      date: '2002-07-12'
+      year: 2002
+      venue: Taku Taku
+      city: Kyoto
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2002-07-13-namba-osaka-japan
+      date: '2002-07-13'
+      year: 2002
+      venue: Namba
+      city: Osaka
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2002-07-15-tokuzo-nagoya-japan
+      date: '2002-07-15'
+      year: 2002
+      venue: Tokuzo
+      city: Nagoya
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2002-07-16-star-tokyo-japan
+      date: '2002-07-16'
+      year: 2002
+      venue: Star
+      city: Tokyo
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2002-07-18-dolphy-yokohama-japan
+      date: '2002-07-18'
+      year: 2002
+      venue: Dolphy
+      city: Yokohama
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2007-10-26-black-cat-washington-dc-usa
+      date: '2007-10-26'
+      year: 2007
+      venue: Black Cat
+      city: Washington DC
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2007-11-22-lemon-tree-aberdeen-uk
+      date: '2007-11-22'
+      year: 2007
+      venue: Lemon Tree
+      city: Aberdeen
+      country: UK
+      position: 2
+    - show_slug: damon-and-naomi-2008-06-14-southpaw-brooklyn-ny-usa
+      date: '2008-06-14'
+      year: 2008
+      venue: Southpaw
+      city: Brooklyn
+      country: USA
+      position: 5
+    - show_slug: damon-and-naomi-2009-10-16-high-dive-denver-co-usa
+      date: '2009-10-16'
+      year: 2009
+      venue: High Dive
+      city: Denver
+      country: USA
+      position: 2
+    - show_slug: damon-and-naomi-2009-11-14-tsukimiru-kimiomofu-tokyo-japan
+      date: '2009-11-14'
+      year: 2009
+      venue: Tsukimiru kimiomofu
+      city: Tokyo
+      country: Japan
+      position: 2
+    - show_slug: damon-and-naomi-2010-08-08-off-festival-katowice-poland
+      date: '2010-08-08'
+      year: 2010
+      venue: OFF Festival
+      city: Katowice
+      country: Poland
+      position: 2
+    - show_slug: damon-and-naomi-2016-09-13-yu-yin-tang-shanghai-china
+      date: '2016-09-13'
+      year: 2016
+      venue: Yu Yin Tang
+      city: Shanghai
+      country: China
+      position: 4
+    - show_slug: damon-and-naomi-2018-02-09-sala-be-good-barcelona-spain
+      date: '2018-02-09'
+      year: 2018
+      venue: Sala Be Good
+      city: Barcelona
+      country: Spain
+      position: 3
+    - show_slug: damon-and-naomi-2018-02-18-night-and-day-cafe-manchester-uk
+      date: '2018-02-18'
+      year: 2018
+      venue: Night and Day Cafe
+      city: Manchester
+      country: UK
+      position: 3
+    - show_slug: damon-and-naomi-2026-01-03-cafe-oto-london-uk
+      date: '2026-01-03'
+      year: 2026
+      venue: Cafe Oto
+      city: London
+      country: UK
+      position: 8

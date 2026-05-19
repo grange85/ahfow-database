@@ -1,0 +1,160 @@
+title: A Sentimental Education
+slug: a-sentimental-education
+release_type: Album
+year: 2017
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-a-sentimental-education-lo-res.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: 2×CD
+  country: US
+  year: 2017
+  label: Double Feature
+  catalogue_no: CD-DBL-0013
+  notes: Inlcudes 'A Place of Greater Safety' as disc 2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Fire in Cairo
+    slug: fire-in-cairo
+    full_title: Fire In Cairo
+  - position: 2
+    side_position: 2
+    title: Gin
+    slug: gin
+    full_title: Gin
+  - position: 3
+    side_position: 3
+    title: Friends
+    slug: friends
+    full_title: Friends
+  - position: 4
+    side_position: 4
+    title: One Together
+    slug: one-together
+    full_title: One Together
+  - position: 5
+    side_position: 5
+    title: Most of the Time
+    slug: most-of-the-time
+    full_title: Most Of The Time
+  - position: 6
+    side_position: 6
+    title: Sweetness
+    slug: sweetness
+    full_title: Sweetness
+  - position: 7
+    side_position: 7
+    title: Letter to Hermione
+    slug: letter-to-hermione
+    full_title: Letter To Hermione
+  - position: 8
+    side_position: 8
+    title: (Walkin' Thru The) Sleepy City
+    slug: walkin-thru-the-sleepy-city
+    full_title: (Walkin' Thru The) Sleepy City
+  - position: 9
+    side_position: 9
+    title: Let Me Dream If I Want To
+    slug: let-me-dream-if-i-want-to
+    full_title: Let Me Dream If I Want To
+  - position: 10
+    side_position: 10
+    title: Car Wash Hair
+    slug: car-wash-hair
+    full_title: Car Wash Hair
+  - position: 11
+    side_position: 11
+    title: GTX3
+    slug: gtx3
+    full_title: GTX3
+  - position: 12
+    side_position: 12
+    title: A Place of Greater Safety
+    slug: a-place-of-greater-safety
+    full_title: A Place Of Greater Safety
+  - position: 13
+    side_position: 13
+    title: Captain Pentagon
+    slug: captain-pentagon
+    full_title: Captain Pentagon
+  - position: 14
+    side_position: 14
+    title: Around and Around
+    slug: around-and-around
+    full_title: Around And Around
+  - position: 15
+    side_position: 15
+    title: Ides of March of the Trolls
+    slug: ides-of-march-of-the-trolls
+    full_title: Ides Of March Of The Trolls
+  - position: 16
+    side_position: 16
+    title: Spanish Odyssey
+    slug: spanish-odyssey
+    full_title: Spanish Odyssey
+- format: LP
+  country: US
+  year: 2017
+  label: Double Feature
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Fire in Cairo
+    slug: fire-in-cairo
+    full_title: Fire In Cairo
+  - position: 2
+    side: A
+    side_position: 2
+    title: Gin
+    slug: gin
+    full_title: Gin
+  - position: 3
+    side: A
+    side_position: 3
+    title: Friends
+    slug: friends
+    full_title: Friends
+  - position: 4
+    side: A
+    side_position: 4
+    title: One Together
+    slug: one-together
+    full_title: One Together
+  - position: 5
+    side: A
+    side_position: 5
+    title: Most of the Time
+    slug: most-of-the-time
+    full_title: Most Of The Time
+  - position: 6
+    side: B
+    side_position: 1
+    title: Sweetness
+    slug: sweetness
+    full_title: Sweetness
+  - position: 7
+    side: B
+    side_position: 2
+    title: Letter to Hermione
+    slug: letter-to-hermione
+    full_title: Letter To Hermione
+  - position: 8
+    side: B
+    side_position: 3
+    title: (Walkin' Thru The) Sleepy City
+    slug: walkin-thru-the-sleepy-city
+    full_title: (Walkin' Thru The) Sleepy City
+  - position: 9
+    side: B
+    side_position: 4
+    title: Let Me Dream If I Want To
+    slug: let-me-dream-if-i-want-to
+    full_title: Let Me Dream If I Want To
+  - position: 10
+    side: B
+    side_position: 5
+    title: Car Wash Hair
+    slug: car-wash-hair
+    full_title: Car Wash Hair

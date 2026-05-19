@@ -1,0 +1,95 @@
+title: What's Past is Prologue
+slug: whats-past-is-prologue
+release_type: Album
+year: 2026
+sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-everything-quieter-than-everything-else.jpg
+act: Damon & Naomi
+act_slug: damon-and-naomi
+editions:
+- format: Digital
+  year: 2026
+  label: (no label)
+  sleeve_url: https://media.fullofwishes.co.uk/03-damon_and_naomi/sleeves/damon-and-naomi-whats-past-is-prologue.jpg
+  notes: 'January 3-5, 2026
+
+    Encores with friends at Café Oto, London
+
+    released March 6, 2026
+
+
+    A Bandcamp exclusive!
+
+
+    - Damon Krukowski - acoustic guitar and backing vocals, vocals on 7
+
+    - Naomi Yang - bass, keyboard and backing vocals, vocals on 7
+
+    - Laetitia Sadier - vocals and trombone on 1, 2, 3, backing vocals on 8
+
+    - Mark Webber - electric guitar on 1, 2, 3, 7, bass on 8
+
+    - Richard Youngs - vocals on 4, 5, electric guitar on 4, 5, 6
+
+    - Jess Hickie-Kallenbach - vocals on 6
+
+    - Alabaster DePlume - tenor saxophone on 7, 8
+
+    - Gina Birch - vocals on 8
+
+    - Marie Merlet - backing vocals and tambourine on 8
+
+    - Stewart Lee - snow on 8
+
+    - Recorded by Billy Steiger
+
+    - Mastered by Alan Douches at West West Side Music'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Flowers
+    slug: flowers
+    full_title: Flowers
+  - position: 2
+    side: A
+    side_position: 2
+    title: When Will You Come Home
+    slug: when-will-you-come-home
+    full_title: When WIll You Come Home
+  - position: 3
+    side: A
+    side_position: 3
+    title: Tugboat
+    slug: tugboat
+    full_title: Tugboat
+  - position: 4
+    side: A
+    side_position: 4
+    title: Spook
+    slug: spook
+    full_title: Spook
+  - position: 5
+    side: A
+    side_position: 5
+    title: Decomposing Trees
+    slug: decomposing-trees
+    full_title: Decomposing Trees
+  - position: 6
+    side: A
+    side_position: 6
+    title: Don't Let Our Youth Go to Waste
+    slug: dont-let-our-youth-go-to-waste
+    full_title: Don't Let Our Youth Go to Waste
+  - position: 7
+    side: A
+    side_position: 7
+    title: Blue Thunder
+    slug: blue-thunder
+    version_tag: w/sax
+    full_title: Blue Thunder [w/sax]
+  - position: 8
+    side: A
+    side_position: 8
+    title: Listen, the Snow Is Falling
+    slug: listen-the-snow-is-falling
+    full_title: Listen, The Snow is Falling

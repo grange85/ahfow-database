@@ -1,0 +1,28 @@
+title: White Horses
+slug: white-horses
+release_type: Single
+year: 2007
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: '7'
+  year: 2007
+  label: Sonic Cathedral
+  catalogue_no: SCR006
+  sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dab_whitehorses.jpg
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: White Horses
+    slug: white-horses
+    version_tag: Sonic Boom mix
+    full_title: White Horses [Sonic Boom mix]
+  - position: 2
+    side: B
+    side_position: 1
+    title: White Horses
+    slug: white-horses
+    version_tag: version Française
+    full_title: White Horses [version Française]

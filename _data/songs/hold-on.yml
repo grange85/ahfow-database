@@ -1,0 +1,84 @@
+title: Hold On
+slug: hold-on
+sort_title: HOLD ON
+authors: John Lennon
+original_artist: John Lennon
+originals_url: https://www.fullofwishes.co.uk/2013/08/14/originals-hold-on-by-john-lennon-covered-by-luna/
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: Hold On
+    appears_on: []
+    played_live:
+    - show_slug: luna-1994-02-18-kennel-club-san-francisco-ca-usa
+      date: '1994-02-18'
+      year: 1994
+      venue: Kennel Club
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: luna-1994-04-04-kcrw-santa-monica-ca-usa
+      date: '1994-04-04'
+      year: 1994
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 4
+    - show_slug: luna-1994-04-04-kxlu-fm-los-angeles-ca-usa
+      date: '1994-04-04'
+      year: 1994
+      venue: KXLU-FM
+      city: Los Angeles
+      country: USA
+      position: 2
+    - show_slug: luna-1994-04-15-trocadeo-philadelphia-pa-usa
+      date: '1994-04-15'
+      year: 1994
+      venue: Trocadeo
+      city: Philadelphia
+      country: USA
+      position: 3
+    - show_slug: luna-1994-04-20-cats-cradle-carrboro-nc-usa
+      date: '1994-04-20'
+      year: 1994
+      venue: Cats Cradle
+      city: Carrboro
+      country: USA
+      position: 14
+    - show_slug: luna-1994-05-16-caberet-metro-chicago-il-usa
+      date: '1994-05-16'
+      year: 1994
+      venue: Caberet Metro
+      city: Chicago
+      country: USA
+      position: 12
+    - show_slug: luna-1994-05-20-la2-london-uk
+      date: '1994-05-20'
+      year: 1994
+      venue: LA2
+      city: London
+      country: UK
+      position: 6
+    - show_slug: luna-1994-06-06-club-quatro-tokyo-japan
+      date: '1994-06-06'
+      year: 1994
+      venue: Club Quatro
+      city: Tokyo
+      country: Japan
+      position: 10
+    - show_slug: luna-1994-07-13-coach-house-los-angeles-ca-usa
+      date: '1994-07-13'
+      year: 1994
+      venue: Coach House
+      city: Los Angeles
+      country: USA
+      position: 9
+    - show_slug: luna-1994-07-14-the-roxy-los-angeles-ca-usa
+      date: '1994-07-14'
+      year: 1994
+      venue: The Roxy
+      city: Los Angeles
+      country: USA
+      position: 15

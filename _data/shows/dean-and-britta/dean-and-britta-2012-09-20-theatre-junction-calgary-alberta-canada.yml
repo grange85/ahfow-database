@@ -1,0 +1,84 @@
+slug: dean-and-britta-2012-09-20-theatre-junction-calgary-alberta-canada
+date: '2012-09-20'
+year: 2012
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+series: 13 Most Beautiful
+poster_url: https://media.fullofwishes.co.uk/07-dean_and_britta/pictures/13most_300-new.jpg
+notes: 13 Most Beautiful
+venue_name: Theatre Junction
+venue_slug: theatre-junction-calgary-alberta-canada
+city: Calgary
+state: Alberta
+country: Canada
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Richard Rheem Theme
+  canonical_title: Richard Rheem Theme
+  song_slug: richard-rheem-theme
+  full_title: Richard Rheem Theme
+- position: 2
+  raw_title: Ann Buchanan Theme
+  canonical_title: Ann Buchanan Theme
+  song_slug: ann-buchanan-theme
+  full_title: Ann Buchanan Theme
+- position: 3
+  raw_title: Teenage Lightning
+  canonical_title: Teenage Lightning
+  song_slug: teenage-lightning
+  full_title: Teenage Lightning
+- position: 4
+  raw_title: It Don't Rain in Beverly Hills
+  canonical_title: It Don't Rain in Beverly Hills
+  song_slug: it-dont-rain-in-beverly-hills
+  full_title: It Don't Rain in Beverly Hills
+- position: 5
+  raw_title: Silver Factory Theme
+  canonical_title: Silver Factory Theme
+  song_slug: silver-factory-theme
+  full_title: Silver Factory Theme
+- position: 6
+  raw_title: International Velvet Theme
+  canonical_title: International Velvet Theme
+  song_slug: international-velvet-theme
+  full_title: International Velvet Theme
+- position: 7
+  raw_title: Herringbone Tweed
+  canonical_title: Herringbone Tweed
+  song_slug: herringbone-tweed
+  full_title: Herringbone Tweed
+- position: 8
+  raw_title: I Found It Not So
+  canonical_title: I Found It Not So
+  song_slug: i-found-it-not-so
+  full_title: I Found it Not So
+- position: 9
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 10
+  raw_title: Incandescent Innocent
+  canonical_title: Incandescent Innocent
+  song_slug: incandescent-innocent
+  full_title: Incandescent Innocent
+- position: 11
+  raw_title: Eyes in My Smoke
+  canonical_title: Eyes in My Smoke
+  song_slug: eyes-in-my-smoke
+  full_title: Eyes in My Smoke
+- position: 12
+  raw_title: Not a Young Man Anymore
+  canonical_title: Not a Young Man Anymore
+  song_slug: not-a-young-man-anymore
+  full_title: Not a Young Man Anymore
+- position: 13
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria

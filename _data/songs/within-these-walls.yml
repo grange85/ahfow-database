@@ -1,0 +1,70 @@
+title: Within These Walls
+slug: within-these-walls
+sort_title: WITHIN THESE WALLS
+authors: Krukowski/Yang
+lyrics: 'When I hold my hand above the flame
+
+  When I hold my breath beneath the wave
+
+  Come to me, find me there
+
+  Come save me, find me there
+
+  All I have is you
+
+  In this world too unkind
+
+  In this place too cold
+
+  In this night that is too long
+
+  When I lose sight of what is real
+
+  When I can''t escape the way I feel
+
+  Come to me, find me there
+
+  Come save me, find me there
+
+  All I have is you
+
+  In this world too unkind
+
+  In this place too cold
+
+  In this night that is too long'
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Within These Walls
+    appears_on:
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: '202020.05'
+      position: 4
+    - release_title: Within These Walls
+      release_slug: within-these-walls
+      release_type: Album
+      year: 2007
+      format: CD
+      edition_year: 2007
+      label: 20|20|20
+      catalogue_no: 202020.05LP
+      position: 4
+    - release_title: Shibuya O Nest, Tokyo, Japan - 2008
+      release_slug: shibuya-o-nest-tokyo-japan-2008
+      release_type: Misc
+      year: 2008
+      format: DVD
+      edition_year: 2008
+      label: (no label)
+      side: A
+      position: 7
+    played_live: []

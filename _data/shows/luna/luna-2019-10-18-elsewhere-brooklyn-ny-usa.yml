@@ -1,0 +1,107 @@
+slug: luna-2019-10-18-elsewhere-brooklyn-ny-usa
+date: '2019-10-18'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Dean Wareham - guitar/vocals|Sean Eden - guitar|Britta Phillips - bass|Lee
+  Wall - drums|Justin Harwood - bass (guest)
+series: Luna play Lunapark
+ticket_url: https://www.eventbrite.com/e/luna-performing-lunapark-elsewhere-hall-tickets-61102576451
+notes: Luna play Lunapark
+setlist_source: setlist.fm
+venue_name: Elsewhere
+venue_slug: elsewhere-brooklyn-ny-usa
+city: Brooklyn
+state: NY
+country: USA
+venue_url: https://www.elsewherebrooklyn.com/events/2019-10-18-luna-performing-lunapark/
+act_name: Luna
+act_slug: luna
+setlist:
+- position: 1
+  raw_title: Slide
+  canonical_title: Slide
+  song_slug: slide
+  full_title: Slide
+- position: 2
+  raw_title: Anesthesia
+  canonical_title: Anesthesia
+  song_slug: anesthesia
+  full_title: Anesthesia
+- position: 3
+  raw_title: Slash Your Tires
+  canonical_title: Slash Your Tires
+  song_slug: slash-your-tires
+  full_title: Slash Your Tires
+- position: 4
+  raw_title: Crazy People
+  canonical_title: Crazy People
+  song_slug: crazy-people
+  full_title: Crazy People
+- position: 5
+  raw_title: Time
+  canonical_title: Time
+  song_slug: time-cagney-and-lacee
+  full_title: Time
+- position: 6
+  raw_title: Smile
+  canonical_title: Smile
+  song_slug: smile
+  full_title: Smile
+- position: 7
+  raw_title: I Can't Wait
+  canonical_title: I Can't Wait
+  song_slug: i-cant-wait
+  full_title: I Can't Wait
+- position: 8
+  raw_title: Hey Sister
+  canonical_title: Hey Sister
+  song_slug: hey-sister
+  full_title: Hey Sister
+- position: 9
+  raw_title: I Want Everything
+  canonical_title: I Want Everything
+  song_slug: i-want-everything
+  full_title: I Want Everything
+- position: 10
+  raw_title: Time to Quit
+  canonical_title: Time to Quit
+  song_slug: time-to-quit
+  full_title: Time to Quit
+- position: 11
+  raw_title: Goodbye
+  canonical_title: Goodbye
+  song_slug: goodbye
+  full_title: Goodbye
+- position: 12
+  raw_title: We're Both Confused
+  canonical_title: We're Both Confused
+  song_slug: were-both-confused
+  full_title: We're Both Confused
+- position: 13
+  raw_title: Egg Nog
+  canonical_title: Egg Nog
+  song_slug: egg-nog
+  full_title: Egg Nog
+- position: 14
+  raw_title: Superfreaky Memories
+  canonical_title: Superfreaky Memories
+  song_slug: superfreaky-memories
+  full_title: Superfreaky Memories
+- position: 15
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 16
+  raw_title: Moon Palace
+  canonical_title: Moon Palace
+  song_slug: moon-palace
+  full_title: Moon Palace
+- position: 17
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice

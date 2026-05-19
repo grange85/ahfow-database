@@ -1,0 +1,123 @@
+slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+date: '2019-01-26'
+year: 2019
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Cheval Sombre - guitar/vocals|Britta Phillips
+  - bass/vocals|Roger Brogan - drums|Jason Quever - guitar
+series: Dean Wareham vs. Cheval Sombre
+ticket_url: https://www.ticketfly.com/purchase/event/1764190
+venue_name: The Chapel
+venue_slug: the-chapel-san-francisco-ca-usa
+city: San Francisco
+state: CA
+country: USA
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: ^Dean Wareham vs. Cheval Sombre
+  annotation: Dean Wareham vs. Cheval Sombre
+- position: 2
+  raw_title: The Bend in the River
+  canonical_title: The Bend in the River
+  song_slug: the-bend-in-the-river
+  full_title: The Bend in the River
+- position: 3
+  raw_title: Tomorrow is a Long Time
+  canonical_title: Tomorrow Is a Long Time
+  song_slug: tomorrow-is-a-long-time
+  full_title: Tomorrow is a Long Time
+- position: 4
+  raw_title: Mountains of the Moon
+  canonical_title: Mountains of the Moon
+  song_slug: mountains-of-the-moon
+  full_title: Mountains of the Moon
+- position: 5
+  raw_title: If I Could Only Fly
+  canonical_title: If I Could Only Fly
+  song_slug: if-i-could-only-fly
+  full_title: If I Could Only Fly
+- position: 6
+  raw_title: My Rifle, My Pony and Me
+  canonical_title: My Rifle, My Pony and Me
+  song_slug: my-rifle-my-pony-and-me
+  full_title: My Rifle, My Pony and Me
+- position: 7
+  raw_title: Alberta
+  canonical_title: Alberta
+  song_slug: alberta
+  full_title: Alberta
+- position: 8
+  raw_title: Greensboro Woman
+  canonical_title: Greensboro Woman
+  song_slug: greensboro-woman
+  full_title: Greensboro Woman
+- position: 9
+  raw_title: Grand Canyon
+  canonical_title: Grand Canyon
+  song_slug: grand-canyon
+  full_title: Grand Canyon
+- position: 10
+  raw_title: Wayfaring Stranger
+  canonical_title: Wayfaring Stranger
+  song_slug: wayfaring-stranger
+  full_title: Wayfaring Stranger
+- position: 11
+  raw_title: ^Dean Wareham
+  annotation: Dean Wareham
+- position: 12
+  raw_title: Heartless People
+  canonical_title: Heartless People
+  song_slug: heartless-people
+  full_title: Heartless People
+- position: 13
+  raw_title: Love Is Colder Than Death
+  canonical_title: Love Is Colder Than Death
+  song_slug: love-is-colder-than-death
+  full_title: Love Is Colder Than Death
+- position: 14
+  raw_title: Emancipated Hearts
+  canonical_title: Emancipated Hearts
+  song_slug: emancipated-hearts
+  full_title: Emancipated Hearts
+- position: 15
+  raw_title: Lonesome Cowboy Bill
+  canonical_title: Lonesome Cowboy Bill
+  song_slug: lonesome-cowboy-bill
+  full_title: Lonesome Cowboy Bill
+- position: 16
+  raw_title: Temperature's Rising
+  canonical_title: Temperature's Rising
+  song_slug: temperatures-rising
+  full_title: Temperature's Rising
+- position: 17
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 18
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 19
+  raw_title: ^encore
+  annotation: encore
+- position: 20
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 21
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 22
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

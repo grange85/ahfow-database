@@ -1,0 +1,57 @@
+slug: damon-and-naomi-2006-04-23-terrastock-providence-ri-usa
+date: '2006-04-23'
+year: 2006
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: true
+performers: Damon Krukowski - guitar/vocals|Naomi Yang - keyboards/bass/vocals
+setlist_source: recording
+venue_name: Rogue Lounge
+venue_slug: terrastock-providence-ri-usa
+city: Providence
+state: RI
+country: USA
+act_name: Damon & Naomi
+act_slug: damon-and-naomi
+setlist:
+- position: 1
+  raw_title: House of Glass
+  canonical_title: House of Glass
+  song_slug: house-of-glass
+  full_title: House of Glass
+- position: 2
+  raw_title: Ueno Station
+  canonical_title: Ueno Station
+  song_slug: ueno-station
+  full_title: Ueno Station
+- position: 3
+  raw_title: Beautiful Close Double
+  canonical_title: Beautiful Close Double
+  song_slug: beautiful-close-double
+  full_title: Beautiful Close Double
+- position: 4
+  raw_title: The Wind's Twelve Quarters
+  canonical_title: The Wind's Twelve Quarters
+  song_slug: the-winds-twelve-quarters
+  full_title: The Wind's Twelve Quarters
+- position: 5
+  raw_title: A Second Life
+  canonical_title: A Second Life
+  song_slug: a-second-life
+  full_title: A Second Life
+- position: 6
+  raw_title: The Robot Speaks
+  canonical_title: The Robot Speaks
+  song_slug: the-robot-speaks
+  full_title: The Robot Speaks
+- position: 7
+  raw_title: Love
+  canonical_title: Love
+  song_slug: love-the-jacks
+  full_title: Love
+- position: 8
+  raw_title: The Earth is Blue
+  canonical_title: The Earth Is Blue
+  song_slug: the-earth-is-blue
+  full_title: The Earth is Blue

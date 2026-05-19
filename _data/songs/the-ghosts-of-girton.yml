@@ -1,0 +1,21 @@
+title: The Ghosts of Girton
+slug: the-ghosts-of-girton
+sort_title: GHOSTS OF GIRTON
+authors: Richard Youngs
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: The Ghosts of Girton
+    appears_on:
+    - release_title: Spirit of Love (B-sides, bonuses and soundtracks)
+      release_slug: spirit-of-love-b-sides-bonuses-and-soundtracks
+      release_type: Album
+      year: 2016
+      format: Download
+      edition_year: 2016
+      label: no label
+      side: A
+      position: 1
+    played_live: []

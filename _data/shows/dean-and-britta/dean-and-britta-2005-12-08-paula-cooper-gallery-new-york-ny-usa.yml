@@ -1,0 +1,38 @@
+slug: dean-and-britta-2005-12-08-paula-cooper-gallery-new-york-ny-usa
+date: '2005-12-08'
+year: 2005
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/keyboards/vocals
+notes: Benefit for arts magazine Open City. Dean & Britta will be playing a short
+  set (4 songs) and tickets are from $75!
+venue_name: Paula Cooper Gallery
+venue_slug: paula-cooper-gallery-new-york-ny-usa
+city: New York
+state: NY
+country: USA
+act_name: Dean & Britta
+act_slug: dean-and-britta
+setlist:
+- position: 1
+  raw_title: Swedish Fish
+  canonical_title: Swedish Fish
+  song_slug: swedish-fish
+  full_title: Swedish Fish
+- position: 2
+  raw_title: Hearing Voices
+  canonical_title: Hearing Voices
+  song_slug: hearing-voices
+  full_title: Hearing Voices
+- position: 3
+  raw_title: Knives From Bavaria
+  canonical_title: Knives From Bavaria
+  song_slug: knives-from-bavaria
+  full_title: Knives From Bavaria
+- position: 4
+  raw_title: Night Nurse
+  canonical_title: Night Nurse
+  song_slug: night-nurse
+  full_title: Night Nurse

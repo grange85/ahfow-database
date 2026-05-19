@@ -1,0 +1,22 @@
+title: I'm Not Sayin'
+slug: im-not-sayin
+sort_title: IM NOT SAYIN
+authors: Lightfoot
+original_artist: Gordon Lightfoot
+originals_url: https://www.fullofwishes.co.uk/2013/09/18/originals-im-not-sayin-by-gordon-lightfoot-covered-by-cagney-and-lacee/
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: I'm Not Sayin'
+    appears_on:
+    - release_title: Cagney & Lacee
+      release_slug: cagney-and-lacee
+      release_type: Album
+      format: CD
+      edition_year: 1997
+      label: No. 6
+      catalogue_no: KAR 041-2
+      position: 9
+    played_live: []

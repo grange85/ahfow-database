@@ -1,0 +1,149 @@
+title: Heartless People
+slug: heartless-people
+sort_title: HEARTLESS PEOPLE
+authors: Michael Holland
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Heartless People
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 3
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 3
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 3
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 3
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: A
+      position: 3
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: A
+      position: 3
+    played_live:
+    - show_slug: dean-wareham-2014-04-04-u-street-washington-dc-usa
+      date: '2014-04-04'
+      year: 2014
+      venue: U Street
+      city: Washington DC
+      country: USA
+      position: 6
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2014-04-06-wxpn-philadelphia-pa-usa
+      date: '2014-04-06'
+      year: 2014
+      venue: WXPN
+      city: Philadelphia
+      country: USA
+      position: 2
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 3
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 3
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 3
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 3
+    - show_slug: dean-wareham-2014-06-19-kcrw-santa-monica-ca-usa
+      date: '2014-06-19'
+      year: 2014
+      venue: KCRW
+      city: Santa Monica
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2019-01-25-zebulon-los-angeles-ca-usa
+      date: '2019-01-25'
+      year: 2019
+      series: Dean Wareham vs. Cheval Sombre
+      venue: Zebulon
+      city: Los Angeles
+      country: USA
+      position: 12
+    - show_slug: dean-wareham-2019-01-26-the-chapel-san-francisco-ca-usa
+      date: '2019-01-26'
+      year: 2019
+      series: Dean Wareham vs. Cheval Sombre
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2020-05-14-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-05-14'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 6

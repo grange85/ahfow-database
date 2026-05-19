@@ -1,0 +1,37 @@
+title: Daydream
+slug: daydream
+sort_title: DAYDREAM
+authors: Britta Phillips
+original_artist: Britta Phillips
+is_cover: true
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Daydream
+    appears_on:
+    - release_title: Guest
+      release_slug: guest
+      release_type: Album
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 1
+    - release_title: Luck or Magic
+      release_slug: luck-or-magic
+      release_type: Misc
+      year: 2016
+      format: LP
+      edition_year: 2016
+      label: Double Feature
+      side: A
+      position: 1
+    played_live:
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 8

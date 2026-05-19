@@ -1,0 +1,278 @@
+title: Best of Luna
+slug: best-of-luna
+release_type: Album
+year: 2006
+sleeve_url: https://media.fullofwishes.co.uk/02-luna/sleeves/luna_best-of.jpg
+act: Luna
+act_slug: luna
+editions:
+- format: 2xCD
+  year: 2006
+  label: Beggars Banquet
+  catalogue_no: BBL 2037 CDD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 2
+    side_position: 2
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 3
+    side_position: 3
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 4
+    side_position: 4
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 5
+    side_position: 5
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)
+  - position: 6
+    side_position: 6
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 7
+    side_position: 7
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 8
+    side_position: 8
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 9
+    side_position: 9
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 10
+    side_position: 10
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels
+  - position: 11
+    side_position: 11
+    title: Egg Nog
+    slug: egg-nog
+    full_title: Egg Nog
+  - position: 12
+    side_position: 12
+    title: Bobby Peru
+    slug: bobby-peru
+    full_title: Bobby Peru
+  - position: 13
+    side_position: 13
+    title: IHOP
+    slug: ihop
+    full_title: IHOP
+  - position: 14
+    side_position: 14
+    title: Into the Fold
+    slug: into-the-fold
+    full_title: Into the Fold
+  - position: 15
+    side_position: 15
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 16
+    side_position: 16
+    title: Dear Diary
+    slug: dear-diary
+    full_title: Dear Diary
+  - position: 17
+    side_position: 17
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 18
+    side_position: 18
+    title: Black Postcards
+    slug: black-postcards
+    full_title: Black Postcards
+  - position: 19
+    side_position: 19
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+  - position: 20
+    side_position: 20
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 21
+    side_position: 21
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 22
+    side_position: 22
+    title: In the Flesh
+    slug: in-the-flesh
+    full_title: In the Flesh
+  - position: 23
+    side_position: 23
+    title: Season of the Witch
+    slug: season-of-the-witch
+    full_title: Season of The Witch
+  - position: 24
+    side_position: 24
+    title: Jealous Guy
+    slug: jealous-guy
+    full_title: Jealous Guy
+  - position: 25
+    side_position: 25
+    title: Neon Lights
+    slug: neon-lights
+    full_title: Neon Lights
+  - position: 26
+    side_position: 26
+    title: Sweet Child o' Mine
+    slug: sweet-child-o-mine
+    full_title: Sweet Child o' Mine
+  - position: 27
+    side_position: 27
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 28
+    side_position: 28
+    title: Everybody's Talkin'
+    slug: everybodys-talkin
+    full_title: Everybody's Talkin'
+  - position: 29
+    side_position: 29
+    title: Outdoor Miner
+    slug: outdoor-miner
+    full_title: Outdoor Miner
+  - position: 30
+    side_position: 30
+    title: No Regrets
+    slug: no-regrets
+    full_title: No Regrets
+  - position: 31
+    side_position: 31
+    title: La Poupee Qui Fait Non
+    slug: la-poupee-qui-fait-non
+    full_title: La Poupee Qui Fait Non
+  - position: 32
+    side_position: 32
+    title: Only Women Bleed
+    slug: only-women-bleed
+    full_title: Only Women Bleed
+  - position: 33
+    side_position: 33
+    title: Dream Baby Dream
+    slug: dream-baby-dream
+    full_title: Dream Baby Dream
+  - position: 34
+    side_position: 34
+    title: Thank You for Sending Me an Angel
+    slug: thank-you-for-sending-me-an-angel
+    full_title: Thank You for Sending Me an Angel
+  - position: 35
+    side_position: 35
+    title: Bonnie and Clyde
+    slug: bonnie-and-clyde
+    full_title: Bonnie and Clyde
+- format: CD
+  year: 2006
+  label: Rhino
+  catalogue_no: R2 70014
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Moon Palace
+    slug: moon-palace
+    full_title: Moon Palace
+  - position: 2
+    side_position: 2
+    title: California (All the Way)
+    slug: california-all-the-way
+    full_title: California (All The Way)
+  - position: 3
+    side_position: 3
+    title: Anesthesia
+    slug: anesthesia
+    full_title: Anesthesia
+  - position: 4
+    side_position: 4
+    title: Friendly Advice
+    slug: friendly-advice
+    full_title: Friendly Advice
+  - position: 5
+    side_position: 5
+    title: Sideshow by the Seashore
+    slug: sideshow-by-the-seashore
+    full_title: Sideshow by the Seashore
+  - position: 6
+    side_position: 6
+    title: Pup Tent
+    slug: pup-tent
+    full_title: Pup Tent
+  - position: 7
+    side_position: 7
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 8
+    side_position: 8
+    title: Tiger Lily
+    slug: tiger-lily
+    full_title: Tiger Lily
+  - position: 9
+    side_position: 9
+    title: Chinatown
+    slug: chinatown
+    full_title: Chinatown
+  - position: 10
+    side_position: 10
+    title: Tracy I Love You
+    slug: tracy-i-love-you
+    full_title: Tracy I Love You
+  - position: 11
+    side_position: 11
+    title: Bewitched
+    slug: bewitched
+    full_title: Bewitched
+  - position: 12
+    side_position: 12
+    title: Superfreaky Memories
+    slug: superfreaky-memories
+    full_title: Superfreaky Memories
+  - position: 13
+    side_position: 13
+    title: Astronaut
+    slug: astronaut
+    full_title: Astronaut
+  - position: 14
+    side_position: 14
+    title: Lovedust
+    slug: lovedust
+    full_title: Lovedust
+  - position: 15
+    side_position: 15
+    title: I Want Everything
+    slug: i-want-everything
+    full_title: I Want Everything
+  - position: 16
+    side_position: 16
+    title: Lost in Space
+    slug: lost-in-space
+    full_title: Lost in Space
+  - position: 17
+    side_position: 17
+    title: 23 Minutes in Brussels
+    slug: 23-minutes-in-brussels
+    full_title: 23 Minutes in Brussels

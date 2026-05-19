@@ -1,0 +1,101 @@
+title: The Corridors of Power
+slug: the-corridors-of-power
+sort_title: CORRIDORS OF POWER
+is_cover: false
+acts:
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: The Corridors of Power
+    appears_on:
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: CD
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: CD-DBL-0018
+      position: 5
+    - release_title: I Have Nothing to Say to The Mayor of L.A.
+      release_slug: i-have-nothing-to-say-to-the-mayor-of-l-a
+      release_type: Album
+      year: 2021
+      format: LP
+      edition_year: 2021
+      label: Double Feature
+      catalogue_no: LP-DBL-0018
+      side: A
+      position: 5
+    played_live:
+    - show_slug: luna-2021-05-15-gold-diggers-los-angeles-ca-usa
+      date: '2021-05-15'
+      year: 2021
+      venue: Gold Diggers
+      city: Los Angeles
+      country: USA
+      position: 10
+    - show_slug: luna-2021-11-09-3ten-acl-live-austin-tx-usa
+      date: '2021-11-09'
+      year: 2021
+      series: Luna play Bewitched
+      venue: 3Ten ACL Live
+      city: Austin
+      country: USA
+      position: 13
+    - show_slug: luna-2021-11-12-white-eagle-hall-jersey-city-nj-usa
+      date: '2021-11-12'
+      year: 2021
+      venue: White Eagle Hall
+      city: Jersey City
+      country: USA
+      position: 12
+    - show_slug: luna-2021-11-13-brooklyn-made-brooklyn-ny-usa
+      date: '2021-11-13'
+      year: 2021
+      venue: Brooklyn Made
+      city: Brooklyn
+      country: USA
+      position: 12
+    - show_slug: luna-2021-11-14-tv-eye-ridgewood-ny-usa
+      date: '2021-11-14'
+      year: 2021
+      venue: TV Eye
+      city: Ridgewood
+      country: USA
+      position: 10
+    - show_slug: luna-2021-11-15-union-transfer-philadelphia-pa-usa
+      date: '2021-11-15'
+      year: 2021
+      venue: Union Transfer
+      city: Philadelphia
+      country: USA
+      position: 10
+    - show_slug: luna-2021-11-18-birchmere-alexandria-va-usa
+      date: '2021-11-18'
+      year: 2021
+      venue: Birchmere
+      city: Alexandria
+      country: USA
+      position: 7
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 1
+    - show_slug: luna-2023-01-11-deer-lodge-ojai-ca-usa
+      date: '2023-01-11'
+      year: 2023
+      venue: Deer Lodge
+      city: Ojai
+      country: USA
+      position: 9
+    - show_slug: luna-2023-01-19-alladin-theater-portland-or-usa
+      date: '2023-01-19'
+      year: 2023
+      venue: Alladin Theater
+      city: Portland
+      country: USA
+      position: 3

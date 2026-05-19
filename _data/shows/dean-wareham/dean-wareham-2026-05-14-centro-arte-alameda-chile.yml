@@ -1,0 +1,102 @@
+slug: dean-wareham-2026-05-14-centro-arte-alameda-chile
+date: '2026-05-14'
+year: 2026
+radio: false
+cancelled: false
+i_was_there: false
+has_recording: false
+performers: Dean Wareham - guitar/vocals|Britta Phillips - bass/vocals/keyboards|Roger
+  Brogan - drums
+series: Dean Wareham presentando Galaxie 500 y Luna
+poster_url: https://media.fullofwishes.co.uk/05-dean_wareham/show_assets/2026/2026-05-14-alameda-chile.jpg
+ticket_url: https://www.ticketmaster.cl/event/51619_N06I2YL8VZ8KFH52LJR3LQRKH2QE1HG8O24EDKB2
+venue_name: Centro Arte
+venue_slug: centro-arte-alameda-chile
+city: Alameda
+country: Chile
+act_name: Dean Wareham
+act_slug: dean-wareham
+setlist:
+- position: 1
+  raw_title: Flowers
+  canonical_title: Flowers
+  song_slug: flowers
+  full_title: Flowers
+- position: 2
+  raw_title: Pictures
+  canonical_title: Pictures
+  song_slug: pictures
+  full_title: Pictures
+- position: 3
+  raw_title: Dear Betty Baby
+  canonical_title: Dear Betty Baby
+  song_slug: dear-betty-baby
+  full_title: Dear Betty Baby
+- position: 4
+  raw_title: Lost in Space
+  canonical_title: Lost in Space
+  song_slug: lost-in-space
+  full_title: Lost in Space
+- position: 5
+  raw_title: Snowstorm
+  canonical_title: Snowstorm
+  song_slug: snowstorm
+  full_title: Snowstorm
+- position: 6
+  raw_title: When Will You Come Home
+  canonical_title: When Will You Come Home
+  song_slug: when-will-you-come-home
+  full_title: When Will You Come Home
+- position: 7
+  raw_title: Blue Thunder
+  canonical_title: Blue Thunder
+  song_slug: blue-thunder
+  full_title: Blue Thunder
+- position: 8
+  raw_title: 23 Minutes in Brussels
+  canonical_title: 23 Minutes in Brussels
+  song_slug: 23-minutes-in-brussels
+  full_title: 23 Minutes in Brussels
+- position: 9
+  raw_title: Bonnie and Clyde
+  canonical_title: Bonnie and Clyde
+  song_slug: bonnie-and-clyde
+  full_title: Bonnie and Clyde
+- position: 10
+  raw_title: Friendly Advice
+  canonical_title: Friendly Advice
+  song_slug: friendly-advice
+  full_title: Friendly Advice
+- position: 11
+  raw_title: I'll Keep It With Mine
+  canonical_title: I'll Keep It With Mine
+  song_slug: ill-keep-it-with-mine
+  full_title: I'll Keep It With Mine
+- position: 12
+  raw_title: Strange
+  canonical_title: Strange
+  song_slug: strange
+  full_title: Strange
+- position: 13
+  raw_title: Fourth of July
+  canonical_title: Fourth of July
+  song_slug: fourth-of-july
+  full_title: Fourth of July
+- position: 14
+  raw_title: '^encore:'
+  annotation: 'encore:'
+- position: 15
+  raw_title: Tugboat
+  canonical_title: Tugboat
+  song_slug: tugboat
+  full_title: Tugboat
+- position: 16
+  raw_title: Don't Let Our Youth Go to Waste
+  canonical_title: Don't Let Our Youth Go to Waste
+  song_slug: dont-let-our-youth-go-to-waste
+  full_title: Don't Let Our Youth Go to Waste
+- position: 17
+  raw_title: Ceremony
+  canonical_title: Ceremony
+  song_slug: ceremony
+  full_title: Ceremony

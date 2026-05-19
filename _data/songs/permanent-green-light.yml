@@ -1,0 +1,30 @@
+title: Permanent Green Light
+slug: permanent-green-light
+sort_title: PERMANENT GREEN LIGHT
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Permanent Green Light
+    appears_on:
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 4
+    - release_title: After Tomorrow
+      release_slug: after-tomorrow
+      release_type: Misc
+      year: 1994
+      format: '10'
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 18
+      side: B
+      position: 3
+    played_live: []

@@ -1,0 +1,156 @@
+title: Happy and Free
+slug: happy-and-free
+sort_title: HAPPY AND FREE
+authors: Dean Wareham
+is_cover: false
+acts:
+- act: Dean & Britta
+  act_slug: dean-and-britta
+  versions:
+  - full_title: Happy and Free
+    appears_on:
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: CD
+      edition_year: 2015
+      label: Milan
+      position: 10
+    - release_title: 'Mistress America: Original Motion Picture Soundtrack'
+      release_slug: mistress-america-original-motion-picture-soundtrack
+      release_type: Album
+      year: 2015
+      format: LP
+      edition_year: 2015
+      label: Milan
+      side: B
+      position: 10
+    played_live:
+    - show_slug: dean-and-britta-2017-06-08-sweetwater-music-hall-mill-valley-ca-usa
+      date: '2017-06-08'
+      year: 2017
+      venue: Sweetwater Music Hall
+      city: Mill Valley
+      country: USA
+      position: 12
+    - show_slug: dean-and-britta-2020-12-19-dean--brittas-living-room-echo-park-los-angeles-ca-usa
+      date: '2020-12-19'
+      year: 2020
+      series: live stream
+      event: Dean & Britta's living room
+      venue: Echo Park
+      city: Los Angeles
+      country: USA
+      position: 13
+- act: Dean Wareham
+  act_slug: dean-wareham
+  versions:
+  - full_title: Happy and Free
+    appears_on:
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 9
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: CD-DBL-011
+      position: 9
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 9
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: CD
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      position: 9
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Sonic Cathedral
+      catalogue_no: SCR 075
+      side: B
+      position: 9
+    - release_title: Dean Wareham
+      release_slug: dean-wareham
+      release_type: Album
+      year: 2014
+      format: LP
+      edition_year: 2014
+      label: Double Feature
+      catalogue_no: LP-DBL-011
+      side: B
+      position: 9
+    played_live:
+    - show_slug: dean-wareham-2014-04-05-bowery-ballroom-new-york-ny-usa
+      date: '2014-04-05'
+      year: 2014
+      venue: Bowery Ballroom
+      city: New York
+      country: USA
+      position: 18
+    - show_slug: dean-wareham-2014-05-19-espace-b-paris-france
+      date: '2014-05-19'
+      year: 2014
+      venue: Espace B
+      city: Paris
+      country: France
+      position: 15
+    - show_slug: dean-wareham-2014-05-21-the-prince-albert-brighton-uk
+      date: '2014-05-21'
+      year: 2014
+      venue: The Prince Albert
+      city: Brighton
+      country: UK
+      position: 13
+    - show_slug: dean-wareham-2014-05-22-the-zephyr-lounge-leamington-spa-uk
+      date: '2014-05-22'
+      year: 2014
+      venue: The Zephyr Lounge
+      city: Leamington Spa
+      country: UK
+      position: 13
+    - show_slug: dean-wareham-2014-05-23-islington-assembly-hall-london-uk
+      date: '2014-05-23'
+      year: 2014
+      venue: Islington Assembly Hall
+      city: London
+      country: UK
+      position: 14
+    - show_slug: dean-wareham-2014-06-28-kexp-seattle-wa-usa
+      date: '2014-06-28'
+      year: 2014
+      venue: KEXP
+      city: Seattle
+      country: USA
+      position: 4
+    - show_slug: dean-wareham-2022-04-08-the-chapel-san-francisco-ca-usa
+      date: '2022-04-08'
+      year: 2022
+      venue: The Chapel
+      city: San Francisco
+      country: USA
+      position: 15

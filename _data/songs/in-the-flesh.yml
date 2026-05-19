@@ -1,0 +1,114 @@
+title: In the Flesh
+slug: in-the-flesh
+sort_title: IN THE FLESH
+authors: Harry/Stein
+original_artist: Blondie
+originals_url: https://www.fullofwishes.co.uk/2013/09/25/originals-in-the-flesh-by-blondie-covered-by-luna/
+lyrics: 'Darlin'' darlin'' darlin''
+
+  I can''t wait to see you
+
+  Your picture ain''t enough
+
+  I can''t wait to touch you in the flesh
+
+
+  Darlin'' darlin'' darlin''
+
+  I can''t wait to hear you
+
+  Remembering your love
+
+  Is nothing without you in the flesh
+
+
+  Went walking one day on the lower East side
+
+  Met you with a girlfriend, you were so divine
+
+  She said, "Hands off this one sweetie, this boy is mine."
+
+  I couldn''t resist you - I''m not deaf, dumb, and blind
+
+
+  Darlin'' darlin'' darlin''
+
+  Now you''re out of town
+
+  Those girls that you run with
+
+  They bring my head down
+
+
+  Ooh Darlin'' darlin''
+
+  Watch out if I see you
+
+  ''Cause if you say hello
+
+  It''ll mean you wanna see me in the flesh
+
+
+  Ooh warm and soft, in the flesh
+
+  Ooh close and hot, in the flesh
+
+  Ooh'
+is_cover: true
+acts:
+- act: Luna
+  act_slug: luna
+  versions:
+  - full_title: In the Flesh
+    appears_on:
+    - release_title: In the Flesh
+      release_slug: in-the-flesh
+      release_type: Single
+      year: 1997
+      format: '7'
+      country: UK
+      edition_year: 1997
+      label: Trade 2
+      catalogue_no: TRDSC 005
+      side: A
+      position: 1
+    - release_title: Bobby Peru
+      release_slug: bobby-peru
+      release_type: Single
+      year: 1997
+      format: CD
+      country: UK
+      edition_year: 1997
+      label: Beggars Banquet
+      catalogue_no: BBQ319CD
+      position: 2
+    - release_title: Best of Luna
+      release_slug: best-of-luna
+      release_type: Album
+      year: 2006
+      format: 2xCD
+      edition_year: 2006
+      label: Beggars Banquet
+      catalogue_no: BBL 2037 CDD
+      position: 22
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: Digital
+      edition_year: 2006
+      label: Rhino
+      side: A
+      position: 6
+    - release_title: Lunafied
+      release_slug: lunafied
+      release_type: Album
+      year: 2006
+      format: 2xLP
+      country: US
+      edition_year: 2018
+      label: Run Out Groove
+      catalogue_no: ROGV-040
+      side: B
+      position: 5
+    played_live: []

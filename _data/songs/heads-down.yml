@@ -1,0 +1,77 @@
+title: Heads Down
+slug: heads-down
+sort_title: HEADS DOWN
+is_cover: false
+acts:
+- act: Damon & Naomi
+  act_slug: damon-and-naomi
+  versions:
+  - full_title: Heads Down
+    appears_on:
+    - release_title: Heads Down
+      release_slug: heads-down
+      release_type: Misc
+      year: 1993
+      format: '7'
+      edition_year: 1993
+      label: Twisted Village
+      catalogue_no: TW-1028
+      side: A
+      position: 1
+    - release_title: Heads Down
+      release_slug: heads-down
+      release_type: Misc
+      year: 1993
+      format: '7'
+      edition_year: 1993
+      label: Twisted Village
+      catalogue_no: TW-1028
+      side: B
+      position: 2
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 1
+    - release_title: Magic Moments
+      release_slug: magic-moments
+      release_type: Misc
+      year: 1993
+      format: Digital
+      edition_year: 1993
+      label: Twisted Village
+      side: A
+      position: 2
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 20
+      position: 8
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: CD
+      edition_year: 1994
+      label: Twisted Village
+      catalogue_no: TW-1031
+      position: 8
+    - release_title: No Excess is Absurd
+      release_slug: no-excess-is-absurd
+      release_type: Misc
+      year: 1994
+      format: LP
+      edition_year: 1994
+      label: Ché
+      catalogue_no: CHE 20LP
+      side: B
+      position: 7
+    played_live: []

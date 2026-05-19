@@ -1,0 +1,98 @@
+title: A Peace of Us
+slug: a-peace-of-us
+release_type: Album
+year: 2024
+sleeve_url: https://media.fullofwishes.co.uk/07-dean_and_britta/sleeves/dean-britta-sonic-boom-a-peace-of-you.jpg
+album_artist: Dean & Britta and Sonic Boom
+act: Dean & Britta
+act_slug: dean-and-britta
+editions:
+- format: LP
+  year: 2024
+  label: Carpark Records
+  notes: Emerald green vinyl / Rough Trade exlusive 'Christmas splatter vinyl'
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Snow Is Falling in Manhattan
+    slug: snow-is-falling-in-manhattan
+    full_title: Snow Is Falling in Manhattan
+  - position: 2
+    side: A
+    side_position: 2
+    title: Pretty Paper
+    slug: pretty-paper
+    full_title: Pretty Paper
+  - position: 3
+    side: A
+    side_position: 3
+    title: Do You Know How Christmas Trees Are Grown?
+    slug: do-you-know-how-christmas-trees-are-grown
+    full_title: Do You Know How Christmas Trees Are Grown?
+  - position: 4
+    side: A
+    side_position: 4
+    title: Old Toy Trains
+    slug: old-toy-trains
+    full_title: Old Toy Trains
+  - position: 5
+    side: A
+    side_position: 5
+    title: Snow
+    slug: snow
+    full_title: Snow
+  - position: 6
+    side: A
+    side_position: 6
+    title: Silver Snowflakes
+    slug: silver-snowflakes
+    full_title: Silver Snowflakes
+  - position: 7
+    side: B
+    side_position: 1
+    title: Stille Nacht
+    slug: stille-nacht
+    full_title: Stille Nacht
+  - position: 8
+    side: B
+    side_position: 2
+    title: You're All I Want for Christmas
+    slug: youre-all-i-want-for-christmas
+    full_title: You're All I Want For Christmas
+  - position: 9
+    side: B
+    side_position: 3
+    title: Christmas Can't Be Far Away
+    slug: christmas-cant-be-far-away
+    full_title: Christmas Can't Be Far Away
+  - position: 10
+    side: B
+    side_position: 4
+    title: He's Coming Home
+    slug: hes-coming-home
+    full_title: He's Coming Home
+  - position: 11
+    side: B
+    side_position: 5
+    title: Little Altar Boy
+    slug: little-altar-boy
+    full_title: Little Altar Boy
+  - position: 12
+    side: B
+    side_position: 6
+    title: If We Make It Through December
+    slug: if-we-make-it-through-december
+    full_title: If We Make It Through December
+  - position: 13
+    side: B
+    side_position: 7
+    title: Peace on Earth / Little Drummer Boy
+    slug: peace-on-earth-little-drummer-boy
+    full_title: Peace on Earth / Little Drummer Boy
+  - position: 14
+    side: B
+    side_position: 8
+    title: Happy Xmas (War Is Over)
+    slug: happy-xmas-war-is-over
+    full_title: Happy Xmas (War Is Over)

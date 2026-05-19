@@ -1,0 +1,158 @@
+title: Slide
+slug: slide
+release_type: Single
+year: 1993
+act: Luna
+act_slug: luna
+editions:
+- format: CD
+  country: AUS
+  year: 1993
+  label: Summershine
+  catalogue_no: SHINE36CD
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 5
+    side_position: 5
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 6
+    side_position: 6
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster
+- format: CD
+  country: US
+  year: 1993
+  label: Elektra
+  catalogue_no: 9 61472-2
+  tracks:
+  - position: 1
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 5
+    side_position: 5
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 6
+    side_position: 6
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster
+- format: MC
+  country: US
+  year: 1993
+  label: Summershine
+  catalogue_no: SHINE36MC
+  notes: Both sides have the same tracklist
+  tracks:
+  - position: 1
+    side: A
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 2
+    side: A
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 3
+    side: A
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 4
+    side: A
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 5
+    side: A
+    side_position: 5
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 6
+    side: A
+    side_position: 6
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster
+  - position: 7
+    side: B
+    side_position: 1
+    title: Slide
+    slug: slide
+    full_title: Slide
+  - position: 8
+    side: B
+    side_position: 2
+    title: Indian Summer
+    slug: indian-summer
+    full_title: Indian Summer
+  - position: 9
+    side: B
+    side_position: 3
+    title: Ride Into the Sun
+    slug: ride-into-the-sun
+    full_title: Ride Into the Sun
+  - position: 10
+    side: B
+    side_position: 4
+    title: That's What You Always Say
+    slug: thats-what-you-always-say
+    full_title: That's What You Always Say
+  - position: 11
+    side: B
+    side_position: 5
+    title: Hey Sister
+    slug: hey-sister
+    full_title: Hey Sister
+  - position: 12
+    side: B
+    side_position: 6
+    title: Rollercoaster
+    slug: rollercoaster
+    full_title: Rollercoaster

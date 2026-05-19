@@ -1,0 +1,96 @@
+title: Rain
+slug: rain
+sort_title: RAIN
+authors: Lennon/McCartney
+original_artist: Beatles, The
+originals_url: https://www.fullofwishes.co.uk/2014/03/19/originals-rain-by-the-beatles-covered-by-galaxie-500/
+is_cover: true
+acts:
+- act: Galaxie 500
+  act_slug: galaxie-500
+  versions:
+  - full_title: Rain
+    appears_on:
+    - release_title: Rain / Don't Let Our Youth Go to Waste
+      release_slug: rain-dont-let-our-youth-go-to-waste
+      release_type: Single
+      year: 1990
+      format: '7'
+      country: GB
+      edition_year: 1990
+      label: Caff Corporation
+      catalogue_no: CAFF 9
+      side: A
+      position: 1
+    - release_title: Galaxie 500
+      release_slug: galaxie-500
+      release_type: Album
+      year: 1996
+      format: 4xCD
+      country: US
+      edition_year: 1996
+      label: Rykodisc
+      side: D
+      position: 47
+    - release_title: Uncollected
+      release_slug: uncollected
+      release_type: Album
+      year: 1997
+      format: CD
+      country: US
+      edition_year: 1997
+      label: Rykodisc
+      position: 14
+    played_live:
+    - show_slug: galaxie-500-1989-04-29-rat-boston-ma-usa
+      date: '1989-04-29'
+      year: 1989
+      venue: Rat
+      city: Boston
+      country: USA
+      position: 7
+    - show_slug: galaxie-500-1989-09-26-ica-london-uk
+      date: '1989-09-26'
+      year: 1989
+      venue: ICA
+      city: London
+      country: UK
+      position: 11
+    - show_slug: galaxie-500-1989-12-02-forum-enger-germany
+      date: '1989-12-02'
+      year: 1989
+      venue: Forum
+      city: Enger
+      country: Germany
+      position: 14
+    - show_slug: luna-1995-10-14-john-henrys-eugene-or-usa
+      date: '1995-10-14'
+      year: 1995
+      venue: John Henrys
+      city: Eugene
+      country: USA
+      position: 13
+  - version_tag: live
+    full_title: Rain [live]
+    appears_on:
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: GB
+      edition_year: 2010
+      label: Domino
+      catalogue_no: REWIGCD69
+      position: 24
+    - release_title: Today
+      release_slug: today
+      release_type: Album
+      year: 1988
+      format: 2×CD
+      country: US
+      edition_year: 2010
+      label: 20|20|20
+      catalogue_no: '202020.07'
+      position: 24
+    played_live: []
