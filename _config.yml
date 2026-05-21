@@ -64,17 +64,6 @@ page_gen:
   title_expr: record['title']
   page_data_prefix: ahfow
 
-sqlite:
-  - data: shows
-    file: &db "_db/music.db"
-    query: SELECT s.id as id, v.name as name, v.city as city, concat(a.slug, '/shows/', s.slug) as generated_path, v.state as state, v.country as venue, a.name as artistname, a.slug as artistslug, s.date as date, s.performers as performers, s.slug as slug from venues v, acts a, shows s WHERE v.id = s.venue_id
-  - data: songs
-    file: *db
-    query: SELECT * from songs ORDER BY sort_title
-  - data: acts
-    file: *db
-    query: SELECT * from acts
-
 # Build settings
 future: true
 livereload: false
@@ -98,5 +87,4 @@ exclude: [
 plugins:
  - jekyll-datapage-generator
  - jekyll-feed
- - jekyll_sqlite
 
