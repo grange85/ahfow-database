@@ -1,0 +1,46 @@
+---
+layout: default
+---
+{%- include back_link.html -%}
+
+<h2>On this day: {{ page.month_name }} {{ page.day }}</h2>
+
+{% if page.shows.size == 0 %}
+<p>No shows found for {{ page.month_name }} {{ page.day }}.</p>
+{% else %}
+<p>{{ page.shows.size }} show{% if page.shows.size != 1 %}s{% endif %} on {{ page.month_name }} {{ page.day }} across all years.</p>
+
+<table>
+{% for show in page.shows %}
+  {% assign day = show.date | date: "%-d" %}
+  {% capture ordinaldate %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %} {{ show.date | date: "%B %Y" }}{% endcapture %}
+  <tr>
+    <th>{{ ordinaldate }}</th>
+    <td>
+      <a href="{{ site.baseurl }}/{{ show.artist_slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">
+        {%- if show.event -%}{{ show.event }},&nbsp;{%- endif -%}
+        {%- if show.venue -%}{{ show.venue }},&nbsp;{%- endif -%}
+        {%- if show.city -%}{{ show.city }},&nbsp;{%- endif -%}
+        {%- if show.state -%}{{ show.state }},&nbsp;{%- endif -%}
+        {%- if show.country -%}{{ show.country }}{%- endif -%}
+      </a><br/>
+      {% if show.artistname %}<span>{{ show.artistname }}</span>
+      {% else %}<span>{{ show.artist_slug }}</span>
+      {% endif %}
+      {% if show.series %}<span>{{ show.series }}</span>{% endif %}
+      {% if show.setlist %}<span>setlist</span>{% endif %}
+      {% if show.poster-url %}<span>poster</span>{% endif %}
+      {% if show.audio %}{% assign audio = show.audio | split: "|" %}<span>{{ audio[0] | downcase }}</span>{% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+{% endif %}
+
+<nav>
+  {% assign prev_day = page.month_day | date_minus_one_day %}
+  {% assign next_day = page.month_day | date_plus_one_day %}
+  <a href="{{ site.baseurl }}/database/on-this-day/{{ prev_day }}/">&larr; Previous day</a>
+  &nbsp;|&nbsp;
+  <a href="{{ site.baseurl }}/database/on-this-day/{{ next_day }}/">Next day &rarr;</a>
+</nav>
