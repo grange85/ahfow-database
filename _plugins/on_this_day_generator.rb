@@ -54,7 +54,7 @@ module Jekyll
         next unless shows.is_a?(Array)
 
         shows.each do |show|
-          next if show["cancelled"].to_s.strip != ""
+          next if show["cancelled"].to_s.strip != "" || show["uncertain-date"].to_s.strip != ""
           date_str = show["date"].to_s.strip
           next if date_str.empty?
 

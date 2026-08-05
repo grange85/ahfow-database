@@ -3,12 +3,13 @@ layout: default
 ---
 {%- include back_link.html -%}
 
-<h2>On this day: {{ page.month_name }} {{ page.day }}</h2>
+{% capture ordinaldate %}{% case page.day %}{% when 1 or 21 or 31 %}{{ page.day }}st{% when 2 or 22 %}{{ page.day }}nd{% when 3 or 23 %}{{ page.day }}rd{% else %}{{ page.day }}th{% endcase %}{% endcapture %}
+<h2>On this day: {{ordinaldate}} {{ page.month_name }} </h2>
 
 {% if page.shows.size == 0 %}
-<p>No shows found for {{ page.month_name }} {{ page.day }}.</p>
+<p>No shows found for {{ ordinaldate }} {{ page.month_name }}.</p>
 {% else %}
-<p>{{ page.shows.size }} show{% if page.shows.size != 1 %}s{% endif %} on {{ page.month_name }} {{ page.day }} across all years.</p>
+<p>{{ page.shows.size }} show{% if page.shows.size != 1 %}s{% endif %} on {{ordinaldate}} {{ page.month_name }} across all years.</p>
 
 <table>
 {% for show in page.shows %}
