@@ -15,7 +15,7 @@ module Jekyll
     def initialize(site, month_day, month_name, day, shows)
       @site = site
       @base = site.source
-      @dir  = "database/on-this-day/#{month_day}"
+      @dir  = "on-this-day/#{month_day}"
       @name = "index.html"
 
       process(@name)

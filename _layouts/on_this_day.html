@@ -17,7 +17,7 @@ layout: default
   <tr>
     <th>{{ ordinaldate }}</th>
     <td>
-      <a href="{{ site.baseurl }}/{{ show.artist_slug }}/shows/{{ show.slug }}-{{ show.date | date: "%Y-%m-%d" }}{{ show.disambiguate }}-{{ show.venue-slug }}/">
+     <a href="{{ site.baseurl }}/{{ show.artist_slug }}/shows/{{ show.show-slug }}/">
         {%- if show.event -%}{{ show.event }},&nbsp;{%- endif -%}
         {%- if show.venue -%}{{ show.venue }},&nbsp;{%- endif -%}
         {%- if show.city -%}{{ show.city }},&nbsp;{%- endif -%}
