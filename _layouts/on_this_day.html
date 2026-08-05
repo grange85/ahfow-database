@@ -18,6 +18,9 @@ layout: default
   <tr>
     <th>{{ ordinaldate }}</th>
     <td>
+      {% if show.artistname %}<span>{{ show.artistname }}</span>
+      {% else %}<span class="show-details">{{ show.artist_slug }}</span>
+	  {% endif %}<br>
      <a href="{{ site.baseurl }}/{{ show.artist_slug }}/shows/{{ show.show-slug }}/">
         {%- if show.event -%}{{ show.event }},&nbsp;{%- endif -%}
         {%- if show.venue -%}{{ show.venue }},&nbsp;{%- endif -%}
@@ -25,23 +28,21 @@ layout: default
         {%- if show.state -%}{{ show.state }},&nbsp;{%- endif -%}
         {%- if show.country -%}{{ show.country }}{%- endif -%}
       </a><br/>
-      {% if show.artistname %}<span>{{ show.artistname }}</span>
-      {% else %}<span>{{ show.artist_slug }}</span>
-      {% endif %}
-      {% if show.series %}<span>{{ show.series }}</span>{% endif %}
-      {% if show.setlist %}<span>setlist</span>{% endif %}
-      {% if show.poster-url %}<span>poster</span>{% endif %}
-      {% if show.audio %}{% assign audio = show.audio | split: "|" %}<span>{{ audio[0] | downcase }}</span>{% endif %}
+	  {% if show.series %}{<span class="show-details">{{ show.series }}</span>{% endif %}
+      {% if show.setlist %}<span class="show-details">setlist</span>{% endif %}
+      {% if show.poster-url %}<span class="show-details">poster</span>{% endif %}
+      {% if show.audio %}{% assign audio = show.audio | split: "|" %}<span class="show-details">{{ audio[0] | downcase }}</span>{% endif %}
     </td>
   </tr>
 {% endfor %}
 </table>
 {% endif %}
 
+
 <nav>
-  {% assign prev_day = page.month_day | date_minus_one_day %}
-  {% assign next_day = page.month_day | date_plus_one_day %}
-  <a href="{{ site.baseurl }}/database/on-this-day/{{ prev_day }}/">&larr; Previous day</a>
+  <a href="{{ site.baseurl }}/on-this-day/{{ page.prev_day }}/">&larr; previous day</a>
   &nbsp;|&nbsp;
-  <a href="{{ site.baseurl }}/database/on-this-day/{{ next_day }}/">Next day &rarr;</a>
+  <a href="{{ site.baseurl }}/on-this-day/{{ page.next_day }}/">next day &rarr;</a>
 </nav>
+
+<p><div role="alert">The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div></p>

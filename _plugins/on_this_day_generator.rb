@@ -12,7 +12,7 @@
 
 module Jekyll
   class OnThisDayPage < Page
-    def initialize(site, month_day, month_name, day, shows)
+    def initialize(site, month_day, month_name, day, shows, prev_day, next_day)
       @site = site
       @base = site.source
       @dir  = "on-this-day/#{month_day}"
@@ -27,6 +27,8 @@ module Jekyll
         "month_name" => month_name,
         "day"        => day,
         "shows"      => shows,
+        "prev_day"   => prev_day,
+        "next_day"   => next_day,
         "sitemap"    => true,
       }
 
@@ -69,20 +71,26 @@ module Jekyll
         end
       end
 
-      # Create one page per day that has at least one show.
-      # Iterate all 366 possible days so pages exist even for days
-      # with no shows (they'll show a friendly empty state).
-      # Use 2000 as a leap-year-safe base year to cover Feb 29.
+      # Build ordered list of all 366 MM-DD strings for prev/next navigation
+      all_days = (1..12).flat_map do |month|
+        (1..Date.new(2000, month, -1).day).map do |day|
+          Date.new(2000, month, day).strftime("%m-%d")
+        end
+      end
+
       (1..12).each do |month|
         days_in_month = Date.new(2000, month, -1).day
         (1..days_in_month).each do |day|
-          date      = Date.new(2000, month, day)
-          month_day = date.strftime("%m-%d")
+          date       = Date.new(2000, month, day)
+          month_day  = date.strftime("%m-%d")
           month_name = date.strftime("%B")
+          shows      = by_day[month_day].sort_by { |s| s["date"].to_s }
 
-          shows = by_day[month_day].sort_by { |s| s["date"].to_s }
+          idx      = all_days.index(month_day)
+          prev_day = all_days[idx - 1]
+          next_day = all_days[(idx + 1) % 366]
 
-          site.pages << OnThisDayPage.new(site, month_day, month_name, day, shows)
+          site.pages << OnThisDayPage.new(site, month_day, month_name, day, shows, prev_day, next_day)
         end
       end
 
