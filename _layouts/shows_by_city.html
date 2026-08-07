@@ -3,13 +3,9 @@ layout: default
 ---
 {%- include back_link.html -%}
 
-{% capture ordinaldate %}{% case page.day %}{% when 1 or 21 or 31 %}{{ page.day }}st{% when 2 or 22 %}{{ page.day }}nd{% when 3 or 23 %}{{ page.day }}rd{% else %}{{ page.day }}th{% endcase %}{% endcapture %}
-<h2>On this day: {{ordinaldate}} {{ page.month_name }} </h2>
+<h2>Shows in {{ page.display_location }}</h2>
 
-{% if page.shows.size == 0 %}
-<p>No shows found for {{ ordinaldate }} {{ page.month_name }}.</p>
-{% else %}
-<p>{{ page.shows.size }} show{% if page.shows.size != 1 %}s{% endif %} on {{ordinaldate}} {{ page.month_name }} across all years.</p>
+<p>{{ page.shows.size }} {% if page.shows.size == 1 %}show{% else %}shows{% endif %} in {{ page.display_location }}.</p>
 
 <table>
 {% for show in page.shows %}
@@ -36,13 +32,7 @@ layout: default
   </tr>
 {% endfor %}
 </table>
-{% endif %}
 
-
-<nav>
-  <a href="{{ site.baseurl }}/on-this-day/{{ page.prev_day }}/">&larr; previous day</a>
-  &nbsp;|&nbsp;
-  <a href="{{ site.baseurl }}/on-this-day/{{ page.next_day }}/">next day &rarr;</a>
-</nav>
+<p><a href="{{ site.baseurl }}/shows-by-city/{{ page.country_slug }}/">&larr; All cities in {{ page.country }}</a></p>
 
 <p><div role="alert">The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div></p>

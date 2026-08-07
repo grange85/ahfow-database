@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{%- include back_link.html -%}
+
+<h2>Shows by city</h2>
+
+<p>{{ page.countries | size }} countries represented across all shows.</p>
+
+<table>
+{% for country in page.countries %}
+  <tr>
+    <td><a href="{{ site.baseurl }}/shows-by-city/{{ country.country_slug }}/">{{ country.country }}</a></td>
+    <td>{{ country.city_count }} {% if country.city_count == 1 %}city{% else %}cities{% endif %}</td>
+    <td>{{ country.show_count }} {% if country.show_count == 1 %}show{% else %}shows{% endif %}</td>
+  </tr>
+{% endfor %}
+</table>
