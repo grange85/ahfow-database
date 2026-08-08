@@ -5,6 +5,11 @@ layout: default
 
 {% capture ordinaldate %}{% case page.day %}{% when 1 or 21 or 31 %}{{ page.day }}st{% when 2 or 22 %}{{ page.day }}nd{% when 3 or 23 %}{{ page.day }}rd{% else %}{{ page.day }}th{% endcase %}{% endcapture %}
 <h2>On this day: {{ordinaldate}} {{ page.month_name }} </h2>
+{% if page.image_url %}
+<div>
+  <img src="{{ page.image_url }}" alt="Image for {{ page.month_name }} {{ page.day }}" />
+</div>
+{% endif %}
 
 {% if page.shows.size == 0 %}
 <p>No shows found for {{ ordinaldate }} {{ page.month_name }}.</p>

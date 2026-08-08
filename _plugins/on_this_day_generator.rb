@@ -14,7 +14,7 @@
 
 module Jekyll
   class OnThisDayPage < Page
-    def initialize(site, month_day, month_name, day, shows, anniversaries, prev_day, next_day)
+    def initialize(site, month_day, month_name, day, shows, anniversaries, image_url, prev_day, next_day)
       @site = site
       @base = site.source
       @dir  = "on-this-day/#{month_day}"
@@ -30,6 +30,7 @@ module Jekyll
         "day"           => day,
         "shows"         => shows,
         "anniversaries" => anniversaries,
+        "image_url"     => image_url,
         "prev_day"      => prev_day,
         "next_day"      => next_day,
         "sitemap"       => true,
@@ -122,13 +123,17 @@ module Jekyll
           shows         = by_day[month_day].sort_by { |s| s["date"].to_s }
           anniversaries = anniversaries_by_day[month_day].sort_by { |a| a["year"].to_s == "" ? "9999" : a["year"].to_s }
 
+          image_urls = shows.map { |s| s["poster-url"].to_s.strip }.reject(&:empty?) +
+                       anniversaries.map { |a| a["image-url"].to_s.strip }.reject(&:empty?)
+          image_url  = image_urls.sample
+
           idx      = all_days.index(month_day)
           prev_day = all_days[idx - 1]
           next_day = all_days[(idx + 1) % 366]
 
           site.pages << OnThisDayPage.new(
             site, month_day, month_name, day,
-            shows, anniversaries, prev_day, next_day
+            shows, anniversaries, image_url, prev_day, next_day
           )
         end
       end
