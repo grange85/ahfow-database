@@ -37,12 +37,26 @@ layout: default
 {% endfor %}
 </table>
 {% endif %}
+<p><div role="alert">The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div></p>
 
+{% if page.anniversaries.size > 0 %}
+<h3>Anniversaries &amp; events</h3>
+<table>
+{% for entry in page.anniversaries %}
+  <tr>
+    <td>
+      {{ entry.title -}}
+      {%- if entry.year %} <em>({{ entry.year }}{% if entry.years_ago %}, {{ entry.years_ago }} years ago{% endif %})</em>{% endif %}
+      {%- if entry.notes %} — {{ entry.notes }}{% endif %}
+    </td>
+    <td>{{ entry.type }}</td>
+  </tr>
+{% endfor %}
+</table>
+{% endif %}
 
 <nav>
   <a href="{{ site.baseurl }}/on-this-day/{{ page.prev_day }}/">&larr; previous day</a>
   &nbsp;|&nbsp;
   <a href="{{ site.baseurl }}/on-this-day/{{ page.next_day }}/">next day &rarr;</a>
 </nav>
-
-<p><div role="alert">The lists of shows are far from complete! If you know of any that are missing <a href="mailto:andy@fullofwishes.co.uk">please get in touch</a>.</div></p>
