@@ -83,6 +83,7 @@ module Jekyll
           lines << "DTEND;VALUE=DATE:#{dtstart}"
           lines << fold("SUMMARY:#{escape_ics(summary)}")
           lines << fold("LOCATION:#{escape_ics(location)}") unless location.empty?
+          lines << fold("DESCRIPTION:#{escape_ics(url)}")
           lines << fold("URL:#{url}")
           lines << fold("UID:#{uid}")
           lines << "DTSTAMP:#{build_dts}"
@@ -117,7 +118,8 @@ module Jekyll
           lines << "DTSTART;VALUE=DATE:#{dtstart}"
           lines << "DTEND;VALUE=DATE:#{dtstart}"
           lines << fold("SUMMARY:#{escape_ics(summary)}")
-          lines << fold("DESCRIPTION:#{escape_ics(notes)}") unless notes.empty?
+          desc = [notes].reject(&:empty?).join("\n")
+          lines << fold("DESCRIPTION:#{escape_ics(desc)}") unless desc.empty?
           lines << fold("UID:#{uid}")
           lines << "DTSTAMP:#{build_dts}"
           lines << "RRULE:FREQ=YEARLY"
