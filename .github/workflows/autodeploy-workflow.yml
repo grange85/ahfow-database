@@ -3,6 +3,8 @@ on:
   push:
     branches:
     - main
+  workflow_dispatch:
+    # Allow manual triggering
 jobs:
   deployment:
     runs-on: ubuntu-22.04
