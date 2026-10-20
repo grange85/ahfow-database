@@ -37,12 +37,16 @@ def song_key(s):
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 def clean_song(s):
-    s = s.strip().lstrip("^").strip()
+    """Tidy one setlist entry. Drops everything from a '^' onward (the '^' marks an
+    unidentified or annotated part), removes [bracketed] notes such as
+    'Tugboat [with Kramer]' or '[Instrumental?]', and tidies whitespace."""
+    s = s.split("^", 1)[0]
+    s = re.sub(r"\[[^\]]*\]", "", s)
     s = re.sub(r"\s{2,}", " ", s)
-    return s
+    return s.strip()
 
 def is_placeholder(s):
-    return s.lower() in ("", "[unknown]", "(unknown)")
+    return s == ""
 
 def check(slug, rows):
     """Warn about data problems that would make the stats wrong or misleading."""
@@ -199,6 +203,7 @@ def main():
             pdir = site / slug / "shows"
             pdir.mkdir(parents=True, exist_ok=True)
             fm = (f"---\nlayout: default\ntitle: \"{title}\"\nartist: {slug}\n"
+                  f"permalink: /{slug}/shows/{page_key}/\n"
                   f"summary_text: \"{texts[page_key]}\"\n---\n"
                   f"{{% include {inc} %}}\n")
             (pdir / f"{page_key}.md").write_text(fm, encoding="utf-8")
