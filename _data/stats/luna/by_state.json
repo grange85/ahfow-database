@@ -1,0 +1,192 @@
+[
+ {
+  "code": "NY",
+  "name": "New York",
+  "shows": 110
+ },
+ {
+  "code": "CA",
+  "name": "California",
+  "shows": 87
+ },
+ {
+  "code": "MA",
+  "name": "Massachusetts",
+  "shows": 39
+ },
+ {
+  "code": "PA",
+  "name": "Pennsylvania",
+  "shows": 37
+ },
+ {
+  "code": "IL",
+  "name": "Illinois",
+  "shows": 30
+ },
+ {
+  "code": "TX",
+  "name": "Texas",
+  "shows": 29
+ },
+ {
+  "code": "DC",
+  "name": "District of Columbia",
+  "shows": 27
+ },
+ {
+  "code": "NJ",
+  "name": "New Jersey",
+  "shows": 26
+ },
+ {
+  "code": "GA",
+  "name": "Georgia",
+  "shows": 23
+ },
+ {
+  "code": "WA",
+  "name": "Washington",
+  "shows": 21
+ },
+ {
+  "code": "OR",
+  "name": "Oregon",
+  "shows": 17
+ },
+ {
+  "code": "OH",
+  "name": "Ohio",
+  "shows": 15
+ },
+ {
+  "code": "NC",
+  "name": "North Carolina",
+  "shows": 14
+ },
+ {
+  "code": "MD",
+  "name": "Maryland",
+  "shows": 13
+ },
+ {
+  "code": "MI",
+  "name": "Michigan",
+  "shows": 12
+ },
+ {
+  "code": "FL",
+  "name": "Florida",
+  "shows": 11
+ },
+ {
+  "code": "MN",
+  "name": "Minnesota",
+  "shows": 11
+ },
+ {
+  "code": "RI",
+  "name": "Rhode Island",
+  "shows": 11
+ },
+ {
+  "code": "MO",
+  "name": "Missouri",
+  "shows": 7
+ },
+ {
+  "code": "CO",
+  "name": "Colorado",
+  "shows": 6
+ },
+ {
+  "code": "VA",
+  "name": "Virginia",
+  "shows": 6
+ },
+ {
+  "code": "WI",
+  "name": "Wisconsin",
+  "shows": 6
+ },
+ {
+  "code": "LA",
+  "name": "Louisiana",
+  "shows": 5
+ },
+ {
+  "code": "TN",
+  "name": "Tennessee",
+  "shows": 5
+ },
+ {
+  "code": "CT",
+  "name": "Connecticut",
+  "shows": 4
+ },
+ {
+  "code": "KY",
+  "name": "Kentucky",
+  "shows": 4
+ },
+ {
+  "code": "AZ",
+  "name": "Arizona",
+  "shows": 3
+ },
+ {
+  "code": "NH",
+  "name": "New Hampshire",
+  "shows": 3
+ },
+ {
+  "code": "NM",
+  "name": "New Mexico",
+  "shows": 2
+ },
+ {
+  "code": "VT",
+  "name": "Vermont",
+  "shows": 2
+ },
+ {
+  "code": "AL",
+  "name": "Alabama",
+  "shows": 1
+ },
+ {
+  "code": "IN",
+  "name": "Indiana",
+  "shows": 1
+ },
+ {
+  "code": "KS",
+  "name": "Kansas",
+  "shows": 1
+ },
+ {
+  "code": "ME",
+  "name": "Maine",
+  "shows": 1
+ },
+ {
+  "code": "MS",
+  "name": "Mississippi",
+  "shows": 1
+ },
+ {
+  "code": "MT",
+  "name": "Montana",
+  "shows": 1
+ },
+ {
+  "code": "NE",
+  "name": "Nebraska",
+  "shows": 1
+ },
+ {
+  "code": "UT",
+  "name": "Utah",
+  "shows": 1
+ }
+]

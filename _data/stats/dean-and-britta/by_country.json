@@ -1,0 +1,106 @@
+[
+ {
+  "country": "USA",
+  "shows": 296
+ },
+ {
+  "country": "UK",
+  "shows": 54
+ },
+ {
+  "country": "Spain",
+  "shows": 37
+ },
+ {
+  "country": "France",
+  "shows": 23
+ },
+ {
+  "country": "Canada",
+  "shows": 19
+ },
+ {
+  "country": "Germany",
+  "shows": 15
+ },
+ {
+  "country": "Australia",
+  "shows": 9
+ },
+ {
+  "country": "Denmark",
+  "shows": 6
+ },
+ {
+  "country": "New Zealand",
+  "shows": 6
+ },
+ {
+  "country": "Italy",
+  "shows": 5
+ },
+ {
+  "country": "Netherlands",
+  "shows": 5
+ },
+ {
+  "country": "Switzerland",
+  "shows": 5
+ },
+ {
+  "country": "Brazil",
+  "shows": 4
+ },
+ {
+  "country": "Portugal",
+  "shows": 3
+ },
+ {
+  "country": "Sweden",
+  "shows": 3
+ },
+ {
+  "country": "China",
+  "shows": 2
+ },
+ {
+  "country": "Ireland",
+  "shows": 2
+ },
+ {
+  "country": "Japan",
+  "shows": 2
+ },
+ {
+  "country": "Taiwan",
+  "shows": 2
+ },
+ {
+  "country": "Argentina",
+  "shows": 1
+ },
+ {
+  "country": "Chile",
+  "shows": 1
+ },
+ {
+  "country": "Colombia",
+  "shows": 1
+ },
+ {
+  "country": "Mexico",
+  "shows": 1
+ },
+ {
+  "country": "Peru",
+  "shows": 1
+ },
+ {
+  "country": "Poland",
+  "shows": 1
+ },
+ {
+  "country": "Saudi Arabia",
+  "shows": 1
+ }
+]

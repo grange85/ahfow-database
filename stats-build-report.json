@@ -1,0 +1,527 @@
+{
+ "galaxie-500": {
+  "summary": {
+   "shows_counted": 164,
+   "shows_with_setlist": 51,
+   "excluded": {
+    "cancelled": 1
+   },
+   "first_show": "1987-08-29",
+   "last_show": "1991-04-05",
+   "countries": 9,
+   "us_states": 19
+  },
+  "top_songs": [
+   {
+    "title": "When Will You Come Home",
+    "shows": 44
+   },
+   {
+    "title": "Decomposing Trees",
+    "shows": 41
+   },
+   {
+    "title": "Don't Let Our Youth Go to Waste",
+    "shows": 40
+   },
+   {
+    "title": "Ceremony",
+    "shows": 34
+   },
+   {
+    "title": "Flowers",
+    "shows": 32
+   },
+   {
+    "title": "Blue Thunder",
+    "shows": 30
+   },
+   {
+    "title": "Snowstorm",
+    "shows": 29
+   },
+   {
+    "title": "Temperature's Rising",
+    "shows": 27
+   },
+   {
+    "title": "Plastic Bird",
+    "shows": 21
+   },
+   {
+    "title": "Summertime",
+    "shows": 19
+   }
+  ],
+  "top_countries": [
+   {
+    "country": "USA",
+    "shows": 95
+   },
+   {
+    "country": "UK",
+    "shows": 40
+   },
+   {
+    "country": "Germany",
+    "shows": 16
+   },
+   {
+    "country": "Netherlands",
+    "shows": 4
+   },
+   {
+    "country": "Belgium",
+    "shows": 2
+   },
+   {
+    "country": "Denmark",
+    "shows": 2
+   },
+   {
+    "country": "France",
+    "shows": 2
+   },
+   {
+    "country": "Switzerland",
+    "shows": 2
+   }
+  ],
+  "top_states": [
+   {
+    "code": "MA",
+    "name": "Massachusetts",
+    "shows": 39
+   },
+   {
+    "code": "NY",
+    "name": "New York",
+    "shows": 18
+   },
+   {
+    "code": "CA",
+    "name": "California",
+    "shows": 10
+   },
+   {
+    "code": "GA",
+    "name": "Georgia",
+    "shows": 3
+   },
+   {
+    "code": "IL",
+    "name": "Illinois",
+    "shows": 3
+   },
+   {
+    "code": "NJ",
+    "name": "New Jersey",
+    "shows": 3
+   },
+   {
+    "code": "RI",
+    "name": "Rhode Island",
+    "shows": 3
+   },
+   {
+    "code": "DC",
+    "name": "District of Columbia",
+    "shows": 2
+   }
+  ]
+ },
+ "luna": {
+  "summary": {
+   "shows_counted": 828,
+   "shows_with_setlist": 496,
+   "excluded": {
+    "cancelled": 11,
+    "upcoming": 1
+   },
+   "first_show": "1992-01-17",
+   "last_show": "2026-10-07",
+   "countries": 24,
+   "us_states": 38
+  },
+  "top_songs": [
+   {
+    "title": "23 Minutes in Brussels",
+    "shows": 389
+   },
+   {
+    "title": "Friendly Advice",
+    "shows": 326
+   },
+   {
+    "title": "Sideshow By The Seashore",
+    "shows": 307
+   },
+   {
+    "title": "Chinatown",
+    "shows": 297
+   },
+   {
+    "title": "Moon Palace",
+    "shows": 263
+   },
+   {
+    "title": "Tiger Lily",
+    "shows": 248
+   },
+   {
+    "title": "Lost In Space",
+    "shows": 245
+   },
+   {
+    "title": "Bewitched",
+    "shows": 235
+   },
+   {
+    "title": "Malibu Love Nest",
+    "shows": 221
+   },
+   {
+    "title": "Pup Tent",
+    "shows": 217
+   }
+  ],
+  "top_countries": [
+   {
+    "country": "USA",
+    "shows": 594
+   },
+   {
+    "country": "Spain",
+    "shows": 70
+   },
+   {
+    "country": "UK",
+    "shows": 45
+   },
+   {
+    "country": "Canada",
+    "shows": 24
+   },
+   {
+    "country": "Germany",
+    "shows": 21
+   },
+   {
+    "country": "Australia",
+    "shows": 10
+   },
+   {
+    "country": "Brazil",
+    "shows": 10
+   },
+   {
+    "country": "France",
+    "shows": 10
+   }
+  ],
+  "top_states": [
+   {
+    "code": "NY",
+    "name": "New York",
+    "shows": 110
+   },
+   {
+    "code": "CA",
+    "name": "California",
+    "shows": 87
+   },
+   {
+    "code": "MA",
+    "name": "Massachusetts",
+    "shows": 39
+   },
+   {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "shows": 37
+   },
+   {
+    "code": "IL",
+    "name": "Illinois",
+    "shows": 30
+   },
+   {
+    "code": "TX",
+    "name": "Texas",
+    "shows": 29
+   },
+   {
+    "code": "DC",
+    "name": "District of Columbia",
+    "shows": 27
+   },
+   {
+    "code": "NJ",
+    "name": "New Jersey",
+    "shows": 26
+   }
+  ]
+ },
+ "damon-and-naomi": {
+  "summary": {
+   "shows_counted": 514,
+   "shows_with_setlist": 72,
+   "excluded": {
+    "cancelled": 1
+   },
+   "first_show": "1993-09-09",
+   "last_show": "2026-09-26",
+   "countries": 27,
+   "us_states": 31
+  },
+  "top_songs": [
+   {
+    "title": "Turn of the Century",
+    "shows": 32
+   },
+   {
+    "title": "Song to the Siren",
+    "shows": 27
+   },
+   {
+    "title": "A Shining Dream",
+    "shows": 26
+   },
+   {
+    "title": "New York City",
+    "shows": 25
+   },
+   {
+    "title": "Eye of the Storm",
+    "shows": 21
+   },
+   {
+    "title": "It's Over",
+    "shows": 21
+   },
+   {
+    "title": "Helsinki",
+    "shows": 20
+   },
+   {
+    "title": "Reflections",
+    "shows": 20
+   },
+   {
+    "title": "The North Light",
+    "shows": 20
+   },
+   {
+    "title": "Time Won't Own Me",
+    "shows": 20
+   }
+  ],
+  "top_countries": [
+   {
+    "country": "USA",
+    "shows": 262
+   },
+   {
+    "country": "UK",
+    "shows": 79
+   },
+   {
+    "country": "Japan",
+    "shows": 35
+   },
+   {
+    "country": "Spain",
+    "shows": 33
+   },
+   {
+    "country": "Italy",
+    "shows": 26
+   },
+   {
+    "country": "France",
+    "shows": 22
+   },
+   {
+    "country": "Canada",
+    "shows": 12
+   },
+   {
+    "country": "China",
+    "shows": 6
+   }
+  ],
+  "top_states": [
+   {
+    "code": "MA",
+    "name": "Massachusetts",
+    "shows": 61
+   },
+   {
+    "code": "NY",
+    "name": "New York",
+    "shows": 49
+   },
+   {
+    "code": "CA",
+    "name": "California",
+    "shows": 33
+   },
+   {
+    "code": "WA",
+    "name": "Washington",
+    "shows": 15
+   },
+   {
+    "code": "IL",
+    "name": "Illinois",
+    "shows": 12
+   },
+   {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "shows": 12
+   },
+   {
+    "code": "OR",
+    "name": "Oregon",
+    "shows": 10
+   },
+   {
+    "code": "DC",
+    "name": "District of Columbia",
+    "shows": 9
+   }
+  ]
+ },
+ "dean-and-britta": {
+  "summary": {
+   "shows_counted": 505,
+   "shows_with_setlist": 251,
+   "excluded": {
+    "cancelled": 45
+   },
+   "first_show": "2003-03-01",
+   "last_show": "2026-10-10",
+   "countries": 26,
+   "us_states": 29
+  },
+  "top_songs": [
+   {
+    "title": "Knives From Bavaria",
+    "shows": 122
+   },
+   {
+    "title": "Tugboat",
+    "shows": 117
+   },
+   {
+    "title": "Strange",
+    "shows": 105
+   },
+   {
+    "title": "I'll Keep It With Mine",
+    "shows": 103
+   },
+   {
+    "title": "Blue Thunder",
+    "shows": 92
+   },
+   {
+    "title": "Snowstorm",
+    "shows": 82
+   },
+   {
+    "title": "When Will You Come Home",
+    "shows": 82
+   },
+   {
+    "title": "Teenage Lightning",
+    "shows": 78
+   },
+   {
+    "title": "Not a Young Man Anymore",
+    "shows": 76
+   },
+   {
+    "title": "Silver Factory Theme",
+    "shows": 73
+   }
+  ],
+  "top_countries": [
+   {
+    "country": "USA",
+    "shows": 296
+   },
+   {
+    "country": "UK",
+    "shows": 54
+   },
+   {
+    "country": "Spain",
+    "shows": 37
+   },
+   {
+    "country": "France",
+    "shows": 23
+   },
+   {
+    "country": "Canada",
+    "shows": 19
+   },
+   {
+    "country": "Germany",
+    "shows": 15
+   },
+   {
+    "country": "Australia",
+    "shows": 9
+   },
+   {
+    "country": "Denmark",
+    "shows": 6
+   }
+  ],
+  "top_states": [
+   {
+    "code": "CA",
+    "name": "California",
+    "shows": 94
+   },
+   {
+    "code": "NY",
+    "name": "New York",
+    "shows": 63
+   },
+   {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "shows": 23
+   },
+   {
+    "code": "MA",
+    "name": "Massachusetts",
+    "shows": 16
+   },
+   {
+    "code": "WA",
+    "name": "Washington",
+    "shows": 12
+   },
+   {
+    "code": "IL",
+    "name": "Illinois",
+    "shows": 11
+   },
+   {
+    "code": "TX",
+    "name": "Texas",
+    "shows": 9
+   },
+   {
+    "code": "GA",
+    "name": "Georgia",
+    "shows": 8
+   }
+  ]
+ }
+}

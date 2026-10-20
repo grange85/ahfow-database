@@ -1,0 +1,9 @@
+<p>{{ page.summary_text }}</p>
+<table class="stats-table">
+  <thead><tr><th scope="col">Country</th><th scope="col">Shows</th></tr></thead>
+  <tbody>
+  {% for c in site.data.stats[page.artist].by_country %}
+    <tr><td>{{ c.country }}</td><td>{{ c.shows }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>

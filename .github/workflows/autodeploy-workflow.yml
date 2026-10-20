@@ -12,6 +12,13 @@ jobs:
       name: 'production'
       url: https://${{ vars.S3_Bucket }}
     steps:
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Build show stats
+      run: python3 _code/build_stats.py --csv-dir _data/gigography --site .
+
     - uses: actions/checkout@v6
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v5
