@@ -38,6 +38,12 @@ jobs:
       run: |
         JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml
 
+    - name: Check stats output
+      run: |
+        ls _deploy/*/shows/songs-played* _deploy/*/shows/by-*.html 2>/dev/null || echo "no stats pages in _deploy"
+        ls _deploy/*/shows/ | head
+
+
     # Example deployment: Push to S3
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v6
