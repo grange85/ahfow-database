@@ -24,3 +24,4 @@ site's existing configuration, so the pages carry no permalink.
 Song rules: a setlist entry is cut at any '^' (the '^' and everything after it is dropped),
 [bracketed] notes are removed (e.g. "Tugboat [with Kramer]" counts as "Tugboat"), and entries
 that end up empty are not counted.
+ 
