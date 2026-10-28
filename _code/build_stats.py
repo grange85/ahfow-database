@@ -137,7 +137,7 @@ INCLUDES = {
   <thead><tr><th scope="col">#</th><th scope="col">Song</th><th scope="col">Shows</th></tr></thead>
   <tbody>
   {% for s in site.data.stats[page.artist].songs_played limit:200 %}
-    <tr><td>{{ forloop.index }}</td><td>{{ s.title }}</td><td>{{ s.shows }}</td></tr>
+    <tr><td>{{ forloop.index }}</td><td><a href="/database/tracks/{{ s.title | slugify }}">{{ s.title }}</a></td><td>{{ s.shows }}</td></tr>
   {% endfor %}
   </tbody>
 </table>
