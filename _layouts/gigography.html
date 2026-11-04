@@ -7,6 +7,7 @@ layout: default
 	{% assign artist = site.data.artists[page.artistslug] %}
     {% assign thisyear = "now" | date: "%Y" %}
 	{% capture page_title %}{{artist.name | append: ' shows'}}{% if page.year > 1 %} - {{page.year}}{% endif %}{% endcapture %}
+	{%-include show-index.html artist=page.artistslug-%}
 			<div>
 				<div>
 						<nav class="show-list">

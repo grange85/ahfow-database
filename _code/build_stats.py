@@ -12,12 +12,31 @@ Outputs (under --site):
 """
 import argparse, csv, datetime, json, re, collections, pathlib
 
-ARTISTS = {  # url slug -> CSV export filename stem
-    "galaxie-500": "galaxie-500-shows",
-    "luna": "luna-shows",
-    "damon-and-naomi": "damon-and-naomi-shows",
-    "dean-and-britta": "dean-and-britta-shows",
+ARTISTS = {
+    "galaxie-500": {
+        "export_stem": "galaxie-500-shows",
+        "display_name": "Galaxie 500",
+    },
+    "luna": {
+        "export_stem": "luna-shows",
+        "display_name": "Luna",
+    },
+    "damon-and-naomi": {
+        "export_stem": "damon-and-naomi-shows",
+        "display_name": "Damon & Naomi",
+    },
+    "dean-and-britta": {
+        "export_stem": "dean-and-britta-shows",
+        "display_name": "Dean & Britta",
+    },
 }
+
+#ARTISTS = {  # url slug -> CSV export filename stem
+#    "galaxie-500": "galaxie-500-shows",
+#    "luna": "luna-shows",
+#    "damon-and-naomi": "damon-and-naomi-shows",
+#    "dean-and-britta": "dean-and-britta-shows",
+#}
 US_STATES = {
     "AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado",
     "CT":"Connecticut","DE":"Delaware","DC":"District of Columbia","FL":"Florida","GA":"Georgia",
@@ -133,6 +152,7 @@ PAGES = {
 
 INCLUDES = {
 "songs-played.html": """<p>{{ page.summary_text }}</p>
+{% include show-index.html artist=page.artist %}
 <table class="stats-table">
   <thead><tr><th scope="col">#</th><th scope="col">Song</th><th scope="col">Shows</th></tr></thead>
   <tbody>
@@ -143,6 +163,7 @@ INCLUDES = {
 </table>
 """,
 "by-country.html": """<p>{{ page.summary_text }}</p>
+{% include show-index.html artist=page.artist %}
 <table class="stats-table">
   <thead><tr><th scope="col">Country</th><th scope="col">Shows</th></tr></thead>
   <tbody>
@@ -153,6 +174,7 @@ INCLUDES = {
 </table>
 """,
 "by-state.html": """<p>{{ page.summary_text }}</p>
+{% include show-index.html artist=page.artist %}
 <table class="stats-table">
   <thead><tr><th scope="col">State</th><th scope="col">Shows</th></tr></thead>
   <tbody>
@@ -179,7 +201,9 @@ def main():
         (site / "_includes/stats" / name).write_text(body, encoding="utf-8")
 
     report = {}
-    for slug, stem in ARTISTS.items():
+    for slug, info in ARTISTS.items():
+        stem=info["export_stem"]
+        display_name=info["display_name"]
         path = next(csvdir.glob(f"*{stem}.csv"))
         songs, by_country, by_state, summary = build(slug, path, as_of)
         report[slug] = {"summary": summary, "top_songs": songs[:10],
@@ -202,7 +226,7 @@ def main():
         for page_key, (title, data_key, inc) in PAGES.items():
             pdir = site / slug / "shows"
             pdir.mkdir(parents=True, exist_ok=True)
-            fm = (f"---\nlayout: default\ntitle: \"{title}\"\nartist: {slug}\n"
+            fm = (f"---\nlayout: default\ntitle: \"{title}\"\nartist: {slug}\ndisplay_name: {display_name}\n"
                   f"permalink: /{slug}/shows/{page_key}/\n"
                   f"summary_text: \"{texts[page_key]}\"\n---\n"
                   f"{{% include {inc} %}}\n")

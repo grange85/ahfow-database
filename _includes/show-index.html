@@ -1,0 +1,13 @@
+
+{%- if page.url contains "songs-played" or page.url contains "by-" -%}
+<h2>{{page.display_name}} shows</h2>
+{%-endif-%}
+<nav>
+	<ul>
+		{%- if page.url contains "songs-played" or page.url contains "by-" -%}<li><a href="/database/{{include.artist}}/shows/">Shows index</a></li>{%-endif-%}
+		{%- unless page.url contains "songs-played" -%}<li><a href="/database/{{include.artist}}/shows/songs-played/">Songs played</a></li>{%-endunless-%}
+		{%- unless page.url contains "by-country" -%}<li><a href="/database/{{include.artist}}/shows/by-country/">Countries</a></li>{%-endunless-%}
+		{%- unless page.url contains "by-state" -%}<li><a href="/database/{{include.artist}}/shows/by-state/">US states</a></li>{%-endunless-%}
+	</ul>
+</nav>
+

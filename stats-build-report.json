@@ -2,7 +2,7 @@
  "galaxie-500": {
   "summary": {
    "shows_counted": 164,
-   "shows_with_setlist": 51,
+   "shows_with_setlist": 52,
    "excluded": {
     "cancelled": 1
    },
@@ -14,11 +14,11 @@
   "top_songs": [
    {
     "title": "When Will You Come Home",
-    "shows": 44
+    "shows": 45
    },
    {
     "title": "Decomposing Trees",
-    "shows": 41
+    "shows": 42
    },
    {
     "title": "Don't Let Our Youth Go to Waste",
@@ -26,11 +26,11 @@
    },
    {
     "title": "Ceremony",
-    "shows": 34
+    "shows": 35
    },
    {
     "title": "Flowers",
-    "shows": 32
+    "shows": 33
    },
    {
     "title": "Blue Thunder",
@@ -38,15 +38,15 @@
    },
    {
     "title": "Snowstorm",
-    "shows": 29
+    "shows": 30
    },
    {
     "title": "Temperature's Rising",
-    "shows": 27
+    "shows": 28
    },
    {
     "title": "Plastic Bird",
-    "shows": 21
+    "shows": 22
    },
    {
     "title": "Summertime",
@@ -396,7 +396,7 @@
  "dean-and-britta": {
   "summary": {
    "shows_counted": 505,
-   "shows_with_setlist": 251,
+   "shows_with_setlist": 253,
    "excluded": {
     "cancelled": 45
    },
@@ -408,19 +408,19 @@
   "top_songs": [
    {
     "title": "Knives From Bavaria",
-    "shows": 122
+    "shows": 124
    },
    {
     "title": "Tugboat",
     "shows": 117
    },
    {
-    "title": "Strange",
+    "title": "I'll Keep It With Mine",
     "shows": 105
    },
    {
-    "title": "I'll Keep It With Mine",
-    "shows": 103
+    "title": "Strange",
+    "shows": 105
    },
    {
     "title": "Blue Thunder",
@@ -436,15 +436,15 @@
    },
    {
     "title": "Teenage Lightning",
-    "shows": 78
+    "shows": 80
    },
    {
     "title": "Not a Young Man Anymore",
-    "shows": 76
+    "shows": 78
    },
    {
     "title": "Silver Factory Theme",
-    "shows": 73
+    "shows": 75
    }
   ],
   "top_countries": [
